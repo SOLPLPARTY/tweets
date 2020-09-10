@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 10 14:30:22 +0000 2020",
+		"id": 1304045396583276500,
+		"id_str": "1304064679493341185",
+		"full_text": "실리카겔이 '변신술2020'에 함께 합니다.\n\n변신술2020은 남산골 한옥마을에서 진행되는 음악 페스티벌로 올해는 코로나19로 인한 사회적 거리두기로 온라인 페스티벌로 진행됩니다.\n\n10월 4일(일) 네이버TV와 V Live를 통해 방송될 예정. 정확한 시간과 채널은 나중에 알려드릴께요. https://t.co/oySItbA9XI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1304045385938210800,
+					"id_str": "1304045385938210816",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EhjmXo_VkAAO2Hz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhjmXo_VkAAO2Hz.jpg",
+					"url": "https://t.co/oySItbA9XI",
+					"display_url": "pic.twitter.com/oySItbA9XI",
+					"expanded_url": "https://twitter.com/SILICAGEL_SEOUL/status/1304045396583276545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 976,
+							"h": 979,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 976,
+							"h": 979,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 678,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1304045385938210800,
+					"id_str": "1304045385938210816",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EhjmXo_VkAAO2Hz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhjmXo_VkAAO2Hz.jpg",
+					"url": "https://t.co/oySItbA9XI",
+					"display_url": "pic.twitter.com/oySItbA9XI",
+					"expanded_url": "https://twitter.com/SILICAGEL_SEOUL/status/1304045396583276545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 976,
+							"h": 979,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 976,
+							"h": 979,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 678,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1304045386051485700,
+					"id_str": "1304045386051485697",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EhjmXpaWAAETH1k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhjmXpaWAAETH1k.jpg",
+					"url": "https://t.co/oySItbA9XI",
+					"display_url": "pic.twitter.com/oySItbA9XI",
+					"expanded_url": "https://twitter.com/SILICAGEL_SEOUL/status/1304045396583276545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 559,
+							"h": 559,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 559,
+							"h": 559,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 559,
+							"h": 559,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1304045385938210800,
+					"id_str": "1304045385938210817",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EhjmXo_VkAE2GNe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhjmXo_VkAE2GNe.jpg",
+					"url": "https://t.co/oySItbA9XI",
+					"display_url": "pic.twitter.com/oySItbA9XI",
+					"expanded_url": "https://twitter.com/SILICAGEL_SEOUL/status/1304045396583276545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 973,
+							"h": 975,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 973,
+							"h": 975,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3248025306,
+			"id_str": "3248025306",
+			"name": "SILICA GEL 실리카겔",
+			"screen_name": "SILICAGEL_SEOUL",
+			"location": "대한민국 서울",
+			"description": "김건재 Kim Geonjae 金健在 (dr)\n김춘추 Kim Chunchu 金春秋 (g/v)\n김한주 Kim Hanjoo 金韓主 (k/v)\n최웅희 Choi Woonghee 崔熊熙 (b)",
+			"url": "https://t.co/vCqEOZAKaI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vCqEOZAKaI",
+							"expanded_url": "http://instagram.com/silicagel.official",
+							"display_url": "instagram.com/silicagel.offi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1421,
+			"friends_count": 460,
+			"listed_count": 9,
+			"created_at": "Wed Jun 17 17:56:32 +0000 2015",
+			"favourites_count": 273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 604,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1296720255834656768/6GdZcj5E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1296720255834656768/6GdZcj5E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3248025306/1597997177",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "실리카겔이 '변신술2020'에 함께 합니다.\n\n변신술2020은 남산골 한옥마을에서 진행되는 음악 페스티벌로 올해는 코로나19로 인한 사회적 거리두기로 온라인 페스티벌로 진행됩니다.\n\n10월 4일(일) 네이버TV와 V Live를 통해 방송될 예정. 정확한 시간과 채널은 나중에 알려드릴께요. https://t.co/oySItbA9XI"
+	},
+	{
 		"created_at": "Thu Sep 10 14:02:50 +0000 2020",
 		"id": 1304057749806948400,
 		"id_str": "1304057749806948352",
