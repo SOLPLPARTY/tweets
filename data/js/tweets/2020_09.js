@@ -1,6 +1,1668 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 14 11:26:52 +0000 2020",
+		"id": 1305435556164243500,
+		"id_str": "1305468050079059968",
+		"full_text": "멜론 매거진을 통해 [헤븐] 작업 과정과 트랙별 코멘트가 담긴 작업기를 공개합니다 👼🏻 \n\n👉🏻 https://t.co/eWkWL0nEMz https://t.co/8uECPBUr4O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eWkWL0nEMz",
+					"expanded_url": "http://kko.to/55pPdrSDH",
+					"display_url": "kko.to/55pPdrSDH",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1305435546332704800,
+					"id_str": "1305435546332704768",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh3WtoBUMAAnoX3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh3WtoBUMAAnoX3.jpg",
+					"url": "https://t.co/8uECPBUr4O",
+					"display_url": "pic.twitter.com/8uECPBUr4O",
+					"expanded_url": "https://twitter.com/aprilsour/status/1305435556164243456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 838,
+							"h": 838,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 838,
+							"h": 838,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305435546332704800,
+					"id_str": "1305435546332704768",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh3WtoBUMAAnoX3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh3WtoBUMAAnoX3.jpg",
+					"url": "https://t.co/8uECPBUr4O",
+					"display_url": "pic.twitter.com/8uECPBUr4O",
+					"expanded_url": "https://twitter.com/aprilsour/status/1305435556164243456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 838,
+							"h": 838,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 838,
+							"h": 838,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1305435546328522800,
+					"id_str": "1305435546328522752",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh3WtoAUYAAjNDm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh3WtoAUYAAjNDm.jpg",
+					"url": "https://t.co/8uECPBUr4O",
+					"display_url": "pic.twitter.com/8uECPBUr4O",
+					"expanded_url": "https://twitter.com/aprilsour/status/1305435556164243456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 843,
+							"h": 843,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 843,
+							"h": 843,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1305435546345382000,
+					"id_str": "1305435546345381889",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh3WtoEVoAE1m1h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh3WtoEVoAE1m1h.jpg",
+					"url": "https://t.co/8uECPBUr4O",
+					"display_url": "pic.twitter.com/8uECPBUr4O",
+					"expanded_url": "https://twitter.com/aprilsour/status/1305435556164243456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1305435546370494500,
+					"id_str": "1305435546370494464",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh3WtoKU0AAQXEL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh3WtoKU0AAQXEL.jpg",
+					"url": "https://t.co/8uECPBUr4O",
+					"display_url": "pic.twitter.com/8uECPBUr4O",
+					"expanded_url": "https://twitter.com/aprilsour/status/1305435556164243456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568866057,
+			"id_str": "568866057",
+			"name": "김사월",
+			"screen_name": "aprilsour",
+			"location": "",
+			"description": "지옥에서 온 포크 전사🥗💚🌈 Kim Sawol🎸헤븐, 사랑하는 미움들, 로맨스, 7102, 수잔 💌 문의 : nina@yoursummer.net ☎️ 070-4176-3311",
+			"url": "https://t.co/aF26VLhODV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aF26VLhODV",
+							"expanded_url": "http://www.youtube.com/c/kimsawol",
+							"display_url": "youtube.com/c/kimsawol",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12245,
+			"friends_count": 834,
+			"listed_count": 51,
+			"created_at": "Wed May 02 04:12:49 +0000 2012",
+			"favourites_count": 10213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305171132618686464/QdVoRN9t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305171132618686464/QdVoRN9t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568866057/1600071003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "멜론 매거진을 통해 [헤븐] 작업 과정과 트랙별 코멘트가 담긴 작업기를 공개합니다 👼🏻 \n\n👉🏻 https://t.co/eWkWL0nEMz https://t.co/8uECPBUr4O"
+	},
+	{
+		"created_at": "Mon Sep 14 11:26:47 +0000 2020",
+		"id": 1305418423069941800,
+		"id_str": "1305468031099756545",
+		"full_text": "https://t.co/QDibkNkvnw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1305418393487433700,
+					"id_str": "1305418393487433728",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh3HHMsUYAAbvWf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh3HHMsUYAAbvWf.jpg",
+					"url": "https://t.co/QDibkNkvnw",
+					"display_url": "pic.twitter.com/QDibkNkvnw",
+					"expanded_url": "https://twitter.com/aprilsour/status/1305418423069941760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1866,
+							"h": 1230,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 791,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 448,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305418393487433700,
+					"id_str": "1305418393487433728",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh3HHMsUYAAbvWf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh3HHMsUYAAbvWf.jpg",
+					"url": "https://t.co/QDibkNkvnw",
+					"display_url": "pic.twitter.com/QDibkNkvnw",
+					"expanded_url": "https://twitter.com/aprilsour/status/1305418423069941760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1866,
+							"h": 1230,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 791,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 448,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1305418393365799000,
+					"id_str": "1305418393365798913",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh3HHMPUYAEvBNG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh3HHMPUYAEvBNG.jpg",
+					"url": "https://t.co/QDibkNkvnw",
+					"display_url": "pic.twitter.com/QDibkNkvnw",
+					"expanded_url": "https://twitter.com/aprilsour/status/1305418423069941760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 794,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1852,
+							"h": 1226,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1305418393407778800,
+					"id_str": "1305418393407778816",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh3HHMZU8AAH2Cm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh3HHMZU8AAH2Cm.jpg",
+					"url": "https://t.co/QDibkNkvnw",
+					"display_url": "pic.twitter.com/QDibkNkvnw",
+					"expanded_url": "https://twitter.com/aprilsour/status/1305418423069941760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1856,
+							"h": 1214,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 785,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1305418393512632300,
+					"id_str": "1305418393512632320",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh3HHMyU4AAyLKo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh3HHMyU4AAyLKo.jpg",
+					"url": "https://t.co/QDibkNkvnw",
+					"display_url": "pic.twitter.com/QDibkNkvnw",
+					"expanded_url": "https://twitter.com/aprilsour/status/1305418423069941760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 794,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1858,
+							"h": 1230,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1305417658490212400,
+		"in_reply_to_status_id_str": "1305417658490212352",
+		"in_reply_to_user_id": 568866057,
+		"in_reply_to_user_id_str": "568866057",
+		"in_reply_to_screen_name": "aprilsour",
+		"user": {
+			"id": 568866057,
+			"id_str": "568866057",
+			"name": "김사월",
+			"screen_name": "aprilsour",
+			"location": "",
+			"description": "지옥에서 온 포크 전사🥗💚🌈 Kim Sawol🎸헤븐, 사랑하는 미움들, 로맨스, 7102, 수잔 💌 문의 : nina@yoursummer.net ☎️ 070-4176-3311",
+			"url": "https://t.co/aF26VLhODV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aF26VLhODV",
+							"expanded_url": "http://www.youtube.com/c/kimsawol",
+							"display_url": "youtube.com/c/kimsawol",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12245,
+			"friends_count": 834,
+			"listed_count": 51,
+			"created_at": "Wed May 02 04:12:49 +0000 2012",
+			"favourites_count": 10213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305171132618686464/QdVoRN9t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305171132618686464/QdVoRN9t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568866057/1600071003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/QDibkNkvnw"
+	},
+	{
+		"created_at": "Mon Sep 14 11:26:43 +0000 2020",
+		"id": 1305417658490212400,
+		"id_str": "1305468012154163200",
+		"full_text": "&lt;사랑하는 사람들에게 가장 상처주는 키를 우리는 모두 가지고 있어&gt;\n연출 김혜원 (VISUALSFROM.)\n어시스턴트 김민주\n가사 영문 번역 Piano Shoegazer https://t.co/8yU7gs7gM6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1305415502198571000,
+					"id_str": "1305415502198571008",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1305415502198571008/pu/img/loDYjhSeKmGXCeYE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1305415502198571008/pu/img/loDYjhSeKmGXCeYE.jpg",
+					"url": "https://t.co/8yU7gs7gM6",
+					"display_url": "pic.twitter.com/8yU7gs7gM6",
+					"expanded_url": "https://twitter.com/aprilsour/status/1305417658490212352/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305415502198571000,
+					"id_str": "1305415502198571008",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1305415502198571008/pu/img/loDYjhSeKmGXCeYE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1305415502198571008/pu/img/loDYjhSeKmGXCeYE.jpg",
+					"url": "https://t.co/8yU7gs7gM6",
+					"display_url": "pic.twitter.com/8yU7gs7gM6",
+					"expanded_url": "https://twitter.com/aprilsour/status/1305417658490212352/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 40124,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1305415502198571008/pu/vid/1280x720/SVFNVKlNnlJ7HNBh.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1305415502198571008/pu/pl/ARpc-YD_au7wn5fv.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1305415502198571008/pu/vid/640x360/vKKnsqHa3RjsOHw7.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1305415502198571008/pu/vid/480x270/vyQS4o_stGE33OiG.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1305414517858345000,
+		"in_reply_to_status_id_str": "1305414517858344960",
+		"in_reply_to_user_id": 568866057,
+		"in_reply_to_user_id_str": "568866057",
+		"in_reply_to_screen_name": "aprilsour",
+		"user": {
+			"id": 568866057,
+			"id_str": "568866057",
+			"name": "김사월",
+			"screen_name": "aprilsour",
+			"location": "",
+			"description": "지옥에서 온 포크 전사🥗💚🌈 Kim Sawol🎸헤븐, 사랑하는 미움들, 로맨스, 7102, 수잔 💌 문의 : nina@yoursummer.net ☎️ 070-4176-3311",
+			"url": "https://t.co/aF26VLhODV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aF26VLhODV",
+							"expanded_url": "http://www.youtube.com/c/kimsawol",
+							"display_url": "youtube.com/c/kimsawol",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12245,
+			"friends_count": 834,
+			"listed_count": 51,
+			"created_at": "Wed May 02 04:12:49 +0000 2012",
+			"favourites_count": 10213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305171132618686464/QdVoRN9t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305171132618686464/QdVoRN9t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568866057/1600071003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;사랑하는 사람들에게 가장 상처주는 키를 우리는 모두 가지고 있어&gt;\n연출 김혜원 (VISUALSFROM.)\n어시스턴트 김민주\n가사 영문 번역 Piano Shoegazer https://t.co/8yU7gs7gM6"
+	},
+	{
+		"created_at": "Mon Sep 14 11:26:39 +0000 2020",
+		"id": 1305414517858345000,
+		"id_str": "1305467997281071104",
+		"full_text": "[MV] 김사월 - 사랑하는 사람들에게 가장 상처 주는 키를 우리는 모두 가지고 있어 / Official Music Video https://t.co/paLWY9IPG5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/paLWY9IPG5",
+					"expanded_url": "https://youtu.be/aAuTVjTBLjc",
+					"display_url": "youtu.be/aAuTVjTBLjc",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568866057,
+			"id_str": "568866057",
+			"name": "김사월",
+			"screen_name": "aprilsour",
+			"location": "",
+			"description": "지옥에서 온 포크 전사🥗💚🌈 Kim Sawol🎸헤븐, 사랑하는 미움들, 로맨스, 7102, 수잔 💌 문의 : nina@yoursummer.net ☎️ 070-4176-3311",
+			"url": "https://t.co/aF26VLhODV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aF26VLhODV",
+							"expanded_url": "http://www.youtube.com/c/kimsawol",
+							"display_url": "youtube.com/c/kimsawol",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12245,
+			"friends_count": 834,
+			"listed_count": 51,
+			"created_at": "Wed May 02 04:12:49 +0000 2012",
+			"favourites_count": 10213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305171132618686464/QdVoRN9t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305171132618686464/QdVoRN9t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568866057/1600071003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MV] 김사월 - 사랑하는 사람들에게 가장 상처 주는 키를 우리는 모두 가지고 있어 / Official Music Video https://t.co/paLWY9IPG5"
+	},
+	{
+		"created_at": "Mon Sep 14 11:26:24 +0000 2020",
+		"id": 1305340828190089200,
+		"id_str": "1305467935511605249",
+		"full_text": "Musicians\n김사월\nVocal / Chorus / Acoustic Guitar /  Electric Guitar / Piano / Programming\n\n박희진\nPiano (Track 2, 8)\n\n이시문\nElectric Guitar (Track 1,2,4,8)\n\n이태훈\nClassic Guitar (Track 3,7)\n\n전솔기\nBass (Track 1,4,5,6,8,10)\n\n정수영\nDrum (Track 1,4,5,6,8,10)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1305340790680346600,
+		"in_reply_to_status_id_str": "1305340790680346624",
+		"in_reply_to_user_id": 568866057,
+		"in_reply_to_user_id_str": "568866057",
+		"in_reply_to_screen_name": "aprilsour",
+		"user": {
+			"id": 568866057,
+			"id_str": "568866057",
+			"name": "김사월",
+			"screen_name": "aprilsour",
+			"location": "",
+			"description": "지옥에서 온 포크 전사🥗💚🌈 Kim Sawol🎸헤븐, 사랑하는 미움들, 로맨스, 7102, 수잔 💌 문의 : nina@yoursummer.net ☎️ 070-4176-3311",
+			"url": "https://t.co/aF26VLhODV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aF26VLhODV",
+							"expanded_url": "http://www.youtube.com/c/kimsawol",
+							"display_url": "youtube.com/c/kimsawol",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12245,
+			"friends_count": 834,
+			"listed_count": 51,
+			"created_at": "Wed May 02 04:12:49 +0000 2012",
+			"favourites_count": 10213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305171132618686464/QdVoRN9t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305171132618686464/QdVoRN9t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568866057/1600071003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "Musicians\n김사월\nVocal / Chorus / Acoustic Guitar /  Electric Guitar / Piano / Programming\n\n박희진\nPiano (Track 2, 8)\n\n이시문\nElectric Guitar (Track 1,2,4,8)\n\n이태훈\nClassic Guitar (Track 3,7)\n\n전솔기\nBass (Track 1,4,5,6,8,10)\n\n정수영\nDrum (Track 1,4,5,6,8,10)"
+	},
+	{
+		"created_at": "Mon Sep 14 11:26:18 +0000 2020",
+		"id": 1305340790680346600,
+		"id_str": "1305467907577503745",
+		"full_text": "프로듀싱 김사월\n\n작사, 작곡, 편곡 김사월\n\n녹음, 믹싱\n민상용 (스튜디오 로그), 김사월\n\n마스터링\n강승희 (소닉코리아)\n\n디자인\n김성구\n\n사진\n뇌 (N’Ouir)\n\n스타일링\n김민지, 김민아, 윤민지\n\n홍보 마케팅\n당신의 여름",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1305340665971093500,
+		"in_reply_to_status_id_str": "1305340665971093505",
+		"in_reply_to_user_id": 568866057,
+		"in_reply_to_user_id_str": "568866057",
+		"in_reply_to_screen_name": "aprilsour",
+		"user": {
+			"id": 568866057,
+			"id_str": "568866057",
+			"name": "김사월",
+			"screen_name": "aprilsour",
+			"location": "",
+			"description": "지옥에서 온 포크 전사🥗💚🌈 Kim Sawol🎸헤븐, 사랑하는 미움들, 로맨스, 7102, 수잔 💌 문의 : nina@yoursummer.net ☎️ 070-4176-3311",
+			"url": "https://t.co/aF26VLhODV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aF26VLhODV",
+							"expanded_url": "http://www.youtube.com/c/kimsawol",
+							"display_url": "youtube.com/c/kimsawol",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12245,
+			"friends_count": 834,
+			"listed_count": 51,
+			"created_at": "Wed May 02 04:12:49 +0000 2012",
+			"favourites_count": 10213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305171132618686464/QdVoRN9t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305171132618686464/QdVoRN9t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568866057/1600071003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "프로듀싱 김사월\n\n작사, 작곡, 편곡 김사월\n\n녹음, 믹싱\n민상용 (스튜디오 로그), 김사월\n\n마스터링\n강승희 (소닉코리아)\n\n디자인\n김성구\n\n사진\n뇌 (N’Ouir)\n\n스타일링\n김민지, 김민아, 윤민지\n\n홍보 마케팅\n당신의 여름"
+	},
+	{
+		"created_at": "Mon Sep 14 11:26:13 +0000 2020",
+		"id": 1305340925049143300,
+		"id_str": "1305467889181286400",
+		"full_text": "뮤직비디오\n&lt;확률&gt;\n연출 김혜원 (VISUALSFROM.)\n\n&lt;사랑하는 사람들에게 가장 상처주는 키를 우리는 모두 가지고 있어&gt;\n연출 김혜원 (VISUALSFROM.)\n어시스턴트 김민주",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1305340665971093500,
+		"in_reply_to_status_id_str": "1305340665971093505",
+		"in_reply_to_user_id": 568866057,
+		"in_reply_to_user_id_str": "568866057",
+		"in_reply_to_screen_name": "aprilsour",
+		"user": {
+			"id": 568866057,
+			"id_str": "568866057",
+			"name": "김사월",
+			"screen_name": "aprilsour",
+			"location": "",
+			"description": "지옥에서 온 포크 전사🥗💚🌈 Kim Sawol🎸헤븐, 사랑하는 미움들, 로맨스, 7102, 수잔 💌 문의 : nina@yoursummer.net ☎️ 070-4176-3311",
+			"url": "https://t.co/aF26VLhODV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aF26VLhODV",
+							"expanded_url": "http://www.youtube.com/c/kimsawol",
+							"display_url": "youtube.com/c/kimsawol",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12245,
+			"friends_count": 834,
+			"listed_count": 51,
+			"created_at": "Wed May 02 04:12:49 +0000 2012",
+			"favourites_count": 10213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305171132618686464/QdVoRN9t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305171132618686464/QdVoRN9t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568866057/1600071003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "뮤직비디오\n&lt;확률&gt;\n연출 김혜원 (VISUALSFROM.)\n\n&lt;사랑하는 사람들에게 가장 상처주는 키를 우리는 모두 가지고 있어&gt;\n연출 김혜원 (VISUALSFROM.)\n어시스턴트 김민주"
+	},
+	{
+		"created_at": "Mon Sep 14 11:26:07 +0000 2020",
+		"id": 1305352009571135500,
+		"id_str": "1305467864392982530",
+		"full_text": "대중음악평론가 김윤하님께서 [헤븐]의 앨범 소개글을 써주셨어요😭❤️\n\n내성적인 자들의 괴이한 천국: 김사월 [헤븐] https://t.co/6xtqxzseMp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1305351999991341000,
+					"id_str": "1305351999991341057",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh2KulpUYAEtcnz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh2KulpUYAEtcnz.jpg",
+					"url": "https://t.co/6xtqxzseMp",
+					"display_url": "pic.twitter.com/6xtqxzseMp",
+					"expanded_url": "https://twitter.com/aprilsour/status/1305352009571135489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 977,
+							"h": 977,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 977,
+							"h": 977,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305351999991341000,
+					"id_str": "1305351999991341057",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh2KulpUYAEtcnz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh2KulpUYAEtcnz.jpg",
+					"url": "https://t.co/6xtqxzseMp",
+					"display_url": "pic.twitter.com/6xtqxzseMp",
+					"expanded_url": "https://twitter.com/aprilsour/status/1305352009571135489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 977,
+							"h": 977,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 977,
+							"h": 977,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1305351999987150800,
+					"id_str": "1305351999987150848",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh2KuloUcAAfF6s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh2KuloUcAAfF6s.jpg",
+					"url": "https://t.co/6xtqxzseMp",
+					"display_url": "pic.twitter.com/6xtqxzseMp",
+					"expanded_url": "https://twitter.com/aprilsour/status/1305352009571135489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 736,
+							"h": 736,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 736,
+							"h": 736,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1305352000012345300,
+					"id_str": "1305352000012345344",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh2KuluU4AAYs_G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh2KuluU4AAYs_G.jpg",
+					"url": "https://t.co/6xtqxzseMp",
+					"display_url": "pic.twitter.com/6xtqxzseMp",
+					"expanded_url": "https://twitter.com/aprilsour/status/1305352009571135489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 873,
+							"h": 873,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 873,
+							"h": 873,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1305352000003997700,
+					"id_str": "1305352000003997697",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh2KulsVgAEqn4F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh2KulsVgAEqn4F.jpg",
+					"url": "https://t.co/6xtqxzseMp",
+					"display_url": "pic.twitter.com/6xtqxzseMp",
+					"expanded_url": "https://twitter.com/aprilsour/status/1305352009571135489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 729,
+							"h": 729,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 729,
+							"h": 729,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1305340665971093500,
+		"in_reply_to_status_id_str": "1305340665971093505",
+		"in_reply_to_user_id": 568866057,
+		"in_reply_to_user_id_str": "568866057",
+		"in_reply_to_screen_name": "aprilsour",
+		"user": {
+			"id": 568866057,
+			"id_str": "568866057",
+			"name": "김사월",
+			"screen_name": "aprilsour",
+			"location": "",
+			"description": "지옥에서 온 포크 전사🥗💚🌈 Kim Sawol🎸헤븐, 사랑하는 미움들, 로맨스, 7102, 수잔 💌 문의 : nina@yoursummer.net ☎️ 070-4176-3311",
+			"url": "https://t.co/aF26VLhODV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aF26VLhODV",
+							"expanded_url": "http://www.youtube.com/c/kimsawol",
+							"display_url": "youtube.com/c/kimsawol",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12245,
+			"friends_count": 834,
+			"listed_count": 51,
+			"created_at": "Wed May 02 04:12:49 +0000 2012",
+			"favourites_count": 10213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305171132618686464/QdVoRN9t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305171132618686464/QdVoRN9t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568866057/1600071003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대중음악평론가 김윤하님께서 [헤븐]의 앨범 소개글을 써주셨어요😭❤️\n\n내성적인 자들의 괴이한 천국: 김사월 [헤븐] https://t.co/6xtqxzseMp"
+	},
+	{
+		"created_at": "Mon Sep 14 11:25:50 +0000 2020",
+		"id": 1305340665971093500,
+		"id_str": "1305467791261089792",
+		"full_text": "김사월 정규 3집 [헤븐]이 오늘 발매 되었습니다. 각종 음원사이트에서 들으실 수 있어요. https://t.co/NPFv0kOUxj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1305340658434019300,
+					"id_str": "1305340658434019328",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh2AabDVkAAQe_i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh2AabDVkAAQe_i.jpg",
+					"url": "https://t.co/NPFv0kOUxj",
+					"display_url": "pic.twitter.com/NPFv0kOUxj",
+					"expanded_url": "https://twitter.com/aprilsour/status/1305340665971093505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305340658434019300,
+					"id_str": "1305340658434019328",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh2AabDVkAAQe_i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh2AabDVkAAQe_i.jpg",
+					"url": "https://t.co/NPFv0kOUxj",
+					"display_url": "pic.twitter.com/NPFv0kOUxj",
+					"expanded_url": "https://twitter.com/aprilsour/status/1305340665971093505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1305340658459181000,
+					"id_str": "1305340658459181056",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh2AabJVgAA1b-l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh2AabJVgAA1b-l.jpg",
+					"url": "https://t.co/NPFv0kOUxj",
+					"display_url": "pic.twitter.com/NPFv0kOUxj",
+					"expanded_url": "https://twitter.com/aprilsour/status/1305340665971093505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1194,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1194,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 677,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568866057,
+			"id_str": "568866057",
+			"name": "김사월",
+			"screen_name": "aprilsour",
+			"location": "",
+			"description": "지옥에서 온 포크 전사🥗💚🌈 Kim Sawol🎸헤븐, 사랑하는 미움들, 로맨스, 7102, 수잔 💌 문의 : nina@yoursummer.net ☎️ 070-4176-3311",
+			"url": "https://t.co/aF26VLhODV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aF26VLhODV",
+							"expanded_url": "http://www.youtube.com/c/kimsawol",
+							"display_url": "youtube.com/c/kimsawol",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12245,
+			"friends_count": 834,
+			"listed_count": 51,
+			"created_at": "Wed May 02 04:12:49 +0000 2012",
+			"favourites_count": 10213,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305171132618686464/QdVoRN9t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305171132618686464/QdVoRN9t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568866057/1600071003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 584,
+		"favorite_count": 439,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김사월 정규 3집 [헤븐]이 오늘 발매 되었습니다. 각종 음원사이트에서 들으실 수 있어요. https://t.co/NPFv0kOUxj"
+	},
+	{
 		"created_at": "Mon Sep 14 10:07:20 +0000 2020",
 		"id": 1305448034713600000,
 		"id_str": "1305448034713600000",
