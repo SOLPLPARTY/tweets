@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 14 15:13:11 +0000 2020",
+		"id": 1305497694161440800,
+		"id_str": "1305525007057973249",
+		"full_text": "YESEO - EP [BE]\n\nD-7\n\n2020.09.21 12PM (KST)\n\nReal Soooon ✨✨✨✨\n\nPhoto by Kim Moon Dog\nH&amp;M by Lee Eun Seo\nStyling by Mo Eun Seo\nPlant Mask by Lee Eun Seo\n\nAnd more ❤️ (soon!!) https://t.co/Mr0W5d75Nk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1305497687211430000,
+					"id_str": "1305497687211429888",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh4POs1U0AAneWd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh4POs1U0AAneWd.jpg",
+					"url": "https://t.co/Mr0W5d75Nk",
+					"display_url": "pic.twitter.com/Mr0W5d75Nk",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1305497694161440771/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 722,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 722,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305497687211430000,
+					"id_str": "1305497687211429888",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh4POs1U0AAneWd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh4POs1U0AAneWd.jpg",
+					"url": "https://t.co/Mr0W5d75Nk",
+					"display_url": "pic.twitter.com/Mr0W5d75Nk",
+					"expanded_url": "https://twitter.com/yeseoofficial/status/1305497694161440771/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 722,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 722,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893011871095181300,
+			"id_str": "893011871095181312",
+			"name": "YESEO",
+			"screen_name": "yeseoofficial",
+			"location": "대한민국 서울",
+			"description": "Producer / Singer",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 676,
+			"friends_count": 2,
+			"listed_count": 13,
+			"created_at": "Thu Aug 03 07:33:16 +0000 2017",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305497822712623104/FY-WtTfo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305497822712623104/FY-WtTfo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893011871095181312/1584516876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "YESEO - EP [BE]\n\nD-7\n\n2020.09.21 12PM (KST)\n\nReal Soooon ✨✨✨✨\n\nPhoto by Kim Moon Dog\nH&amp;M by Lee Eun Seo\nStyling by Mo Eun Seo\nPlant Mask by Lee Eun Seo\n\nAnd more ❤️ (soon!!) https://t.co/Mr0W5d75Nk"
+	},
+	{
 		"created_at": "Mon Sep 14 13:04:35 +0000 2020",
 		"id": 1305348459772276700,
 		"id_str": "1305492644294848513",
