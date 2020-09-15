@@ -1,6 +1,761 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 15 13:11:10 +0000 2020",
+		"id": 1305856688428384300,
+		"id_str": "1305856688428384257",
+		"full_text": "【 #PlayDB 】 #일산킨텍스\n내일은 미스터트롯 콘서트 - 고양 (2021.12.30 ~ 2021.12.31)\n▶ https://t.co/bzE1qxoPu1\n　\n#플레이DB #플레이디비\n#KINTEX #킨텍스\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/pa4kedifSK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PlayDB",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "일산킨텍스",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"text": "플레이DB",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "플레이디비",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "KINTEX",
+					"indices": [
+						106,
+						113
+					]
+				},
+				{
+					"text": "킨텍스",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						137,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bzE1qxoPu1",
+					"expanded_url": "https://bit.ly/2UYm4zm",
+					"display_url": "bit.ly/2UYm4zm",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1305856687178481700,
+					"id_str": "1305856687178481666",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh9VvP7XgAI7Wd-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh9VvP7XgAI7Wd-.jpg",
+					"url": "https://t.co/pa4kedifSK",
+					"display_url": "pic.twitter.com/pa4kedifSK",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1305856688428384257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 90,
+							"h": 90,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305856687178481700,
+					"id_str": "1305856687178481666",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh9VvP7XgAI7Wd-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh9VvP7XgAI7Wd-.jpg",
+					"url": "https://t.co/pa4kedifSK",
+					"display_url": "pic.twitter.com/pa4kedifSK",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1305856688428384257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 90,
+							"h": 110,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 90,
+							"h": 90,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 234,
+			"friends_count": 378,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 61958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #PlayDB 】 #일산킨텍스\n내일은 미스터트롯 콘서트 - 고양 (2021.12.30 ~ 2021.12.31)\n▶ https://t.co/bzE1qxoPu1\n　\n#플레이DB #플레이디비\n#KINTEX #킨텍스\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/pa4kedifSK"
+	},
+	{
+		"created_at": "Tue Sep 15 12:53:04 +0000 2020",
+		"id": 1305733096197685200,
+		"id_str": "1305852130247372801",
+		"full_text": "안녕하세요 EDAM엔터테인먼트입니다. https://t.co/EAeJaHc6Il",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1305732910134091800,
+					"id_str": "1305732910134091776",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh7lKegUYAA9CcN.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eh7lKegUYAA9CcN.png",
+					"url": "https://t.co/EAeJaHc6Il",
+					"display_url": "pic.twitter.com/EAeJaHc6Il",
+					"expanded_url": "https://twitter.com/edam_ent/status/1305733096197685248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305732910134091800,
+					"id_str": "1305732910134091776",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh7lKegUYAA9CcN.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eh7lKegUYAA9CcN.png",
+					"url": "https://t.co/EAeJaHc6Il",
+					"display_url": "pic.twitter.com/EAeJaHc6Il",
+					"expanded_url": "https://twitter.com/edam_ent/status/1305733096197685248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29922,
+			"friends_count": 1,
+			"listed_count": 81,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1338,
+		"favorite_count": 5660,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요 EDAM엔터테인먼트입니다. https://t.co/EAeJaHc6Il"
+	},
+	{
+		"created_at": "Tue Sep 15 12:52:56 +0000 2020",
+		"id": 1305752083279286300,
+		"id_str": "1305852098353930242",
+		"full_text": "#유두래곤 X #린다G X #비룡 의\n#싹쓰리 스페셜 앨범 9월 19일 판매종료!\n-\n지금 구매 하세요!\n※싹쓰리 음반 수익금은 어려운 이웃을 대상으로 기부됩니다.\nhttps://t.co/cyfT37gB1U https://t.co/icmLAIz0tQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유두래곤",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "린다G",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "비룡",
+					"indices": [
+						15,
+						18
+					]
+				},
+				{
+					"text": "싹쓰리",
+					"indices": [
+						21,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cyfT37gB1U",
+					"expanded_url": "http://www.11st.co.kr/products/2960925481",
+					"display_url": "11st.co.kr/products/29609…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1305752058331504600,
+					"id_str": "1305752058331504641",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh72lDGVoAEiKXH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh72lDGVoAEiKXH.jpg",
+					"url": "https://t.co/icmLAIz0tQ",
+					"display_url": "pic.twitter.com/icmLAIz0tQ",
+					"expanded_url": "https://twitter.com/withMBC/status/1305752083279286272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1074,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1074,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305752058331504600,
+					"id_str": "1305752058331504641",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh72lDGVoAEiKXH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh72lDGVoAEiKXH.jpg",
+					"url": "https://t.co/icmLAIz0tQ",
+					"display_url": "pic.twitter.com/icmLAIz0tQ",
+					"expanded_url": "https://twitter.com/withMBC/status/1305752083279286272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1074,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1074,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1305752066011275300,
+					"id_str": "1305752066011275265",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh72lftVoAENd3I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh72lftVoAENd3I.jpg",
+					"url": "https://t.co/icmLAIz0tQ",
+					"display_url": "pic.twitter.com/icmLAIz0tQ",
+					"expanded_url": "https://twitter.com/withMBC/status/1305752083279286272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1074,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1074,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1305752071799365600,
+					"id_str": "1305752071799365632",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh72l1RU4AAGbz7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh72l1RU4AAGbz7.jpg",
+					"url": "https://t.co/icmLAIz0tQ",
+					"display_url": "pic.twitter.com/icmLAIz0tQ",
+					"expanded_url": "https://twitter.com/withMBC/status/1305752083279286272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1074,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1074,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1305752076702462000,
+					"id_str": "1305752076702461952",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh72mHiUMAAbpPw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh72mHiUMAAbpPw.jpg",
+					"url": "https://t.co/icmLAIz0tQ",
+					"display_url": "pic.twitter.com/icmLAIz0tQ",
+					"expanded_url": "https://twitter.com/withMBC/status/1305752083279286272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1074,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1074,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "MBC 방송 프로그램 홍보 트위터 MBC PR",
+			"url": "https://t.co/yOEvgSpDjG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yOEvgSpDjG",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 999660,
+			"friends_count": 10235,
+			"listed_count": 4197,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 56,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 43181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082496746977017856/u7_YbaTn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082496746977017856/u7_YbaTn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1598400001",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유두래곤 X #린다G X #비룡 의\n#싹쓰리 스페셜 앨범 9월 19일 판매종료!\n-\n지금 구매 하세요!\n※싹쓰리 음반 수익금은 어려운 이웃을 대상으로 기부됩니다.\nhttps://t.co/cyfT37gB1U https://t.co/icmLAIz0tQ"
+	},
+	{
 		"created_at": "Tue Sep 15 12:06:46 +0000 2020",
 		"id": 1305840478596878300,
 		"id_str": "1305840478596878336",
