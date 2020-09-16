@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 16 11:42:20 +0000 2020",
+		"id": 1306070598607536000,
+		"id_str": "1306196717918855168",
+		"full_text": "최정윤 𝗦𝗜𝗡𝗚𝗟𝗘 [𝐃𝐚𝐧𝐜𝐞 𝐰𝐢𝐭𝐡 𝐦𝐞 𝐛𝐚𝐛𝐲] 𝗢𝗨𝗧 𝗡𝗢𝗪!!\n\n\"우울은 잠시 잊어버리고, 다시 춤을 추자!\"\nhttps://t.co/pihNuMKi1T\n\n#최정윤 #Single #Dance_with_me_baby https://t.co/PuFa20kjRQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최정윤",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "Single",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "Dance_with_me_baby",
+					"indices": [
+						107,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pihNuMKi1T",
+					"expanded_url": "https://youtu.be/PPIxIJ14m_I",
+					"display_url": "youtu.be/PPIxIJ14m_I",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1306070055797452800,
+					"id_str": "1306070055797452800",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1306070055797452800/pu/img/4aWPl5IXYuv-UrAr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1306070055797452800/pu/img/4aWPl5IXYuv-UrAr.jpg",
+					"url": "https://t.co/PuFa20kjRQ",
+					"display_url": "pic.twitter.com/PuFa20kjRQ",
+					"expanded_url": "https://twitter.com/msbsound/status/1306070598607536129/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306070055797452800,
+					"id_str": "1306070055797452800",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1306070055797452800/pu/img/4aWPl5IXYuv-UrAr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1306070055797452800/pu/img/4aWPl5IXYuv-UrAr.jpg",
+					"url": "https://t.co/PuFa20kjRQ",
+					"display_url": "pic.twitter.com/PuFa20kjRQ",
+					"expanded_url": "https://twitter.com/msbsound/status/1306070598607536129/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 35244,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1306070055797452800/pu/pl/uBeUQkFwV3YrQ6P2.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1306070055797452800/pu/vid/1280x720/i81EArNKdYvI-7Zt.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1306070055797452800/pu/vid/640x360/6puJe6RC86JAwDkb.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1306070055797452800/pu/vid/480x270/syvgGbUS3EPnQDN-.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드🍓\nMagicstrawberry Sound. Music label based in Korea.",
+			"url": "https://t.co/hG14tT4CA9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hG14tT4CA9",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8211,
+			"friends_count": 6305,
+			"listed_count": 95,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1597394894",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "최정윤 𝗦𝗜𝗡𝗚𝗟𝗘 [𝐃𝐚𝐧𝐜𝐞 𝐰𝐢𝐭𝐡 𝐦𝐞 𝐛𝐚𝐛𝐲] 𝗢𝗨𝗧 𝗡𝗢𝗪!!\n\n\"우울은 잠시 잊어버리고, 다시 춤을 추자!\"\nhttps://t.co/pihNuMKi1T\n\n#최정윤 #Single #Dance_with_me_baby https://t.co/PuFa20kjRQ"
+	},
+	{
 		"created_at": "Wed Sep 16 11:06:28 +0000 2020",
 		"id": 1306187693437710300,
 		"id_str": "1306187693437710336",
