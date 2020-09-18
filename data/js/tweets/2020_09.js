@@ -1,6 +1,800 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 18 12:11:20 +0000 2020",
+		"id": 1306926972979695600,
+		"id_str": "1306928792603107329",
+		"full_text": "연극 &lt;오만과 편견&gt;\n2020.09.19(토) ~ 2020.11.29(일)\n\n온라인 문진표: \nhttps://t.co/EWTZi4ctXr\n(관람 당일에 한하여 사전 작성 가능)\n\n객석 입장시, 문진표 성함과 일치한 신분증을 확인하오니 지참하여 주시기 바랍니다 https://t.co/2elknHgJln",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EWTZi4ctXr",
+					"expanded_url": "http://m.ticket.yes24.com/COVID19/37327",
+					"display_url": "m.ticket.yes24.com/COVID19/37327",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1306926964775633000,
+					"id_str": "1306926964775632897",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EiMjJmrUwAEUMz0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiMjJmrUwAEUMz0.jpg",
+					"url": "https://t.co/2elknHgJln",
+					"display_url": "pic.twitter.com/2elknHgJln",
+					"expanded_url": "https://twitter.com/yes24stage/status/1306926972979695616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 1003,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 1003,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306926964775633000,
+					"id_str": "1306926964775632897",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EiMjJmrUwAEUMz0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiMjJmrUwAEUMz0.jpg",
+					"url": "https://t.co/2elknHgJln",
+					"display_url": "pic.twitter.com/2elknHgJln",
+					"expanded_url": "https://twitter.com/yes24stage/status/1306926972979695616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 1003,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 1003,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1104695434893652000,
+			"id_str": "1104695434893651968",
+			"name": "YES24 STAGE_예스24 스테이지",
+			"screen_name": "yes24stage",
+			"location": "대한민국 서울 종로구 대학로12길, 21",
+			"description": "예스24(주)가 운영하는 공연장 운영법인인 예스24라이브홀(주)의 #대학로 공연장 #예스24스테이지 ( #YES24STAGE ) 의 공식 트위터입니다.",
+			"url": "https://t.co/gpVU45TxjE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gpVU45TxjE",
+							"expanded_url": "https://www.yes24stage.com/",
+							"display_url": "yes24stage.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4351,
+			"friends_count": 33,
+			"listed_count": 13,
+			"created_at": "Sun Mar 10 10:48:10 +0000 2019",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1104695434893651968/1585722791",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "연극 &lt;오만과 편견&gt;\n2020.09.19(토) ~ 2020.11.29(일)\n\n온라인 문진표: \nhttps://t.co/EWTZi4ctXr\n(관람 당일에 한하여 사전 작성 가능)\n\n객석 입장시, 문진표 성함과 일치한 신분증을 확인하오니 지참하여 주시기 바랍니다 https://t.co/2elknHgJln"
+	},
+	{
+		"created_at": "Fri Sep 18 12:11:17 +0000 2020",
+		"id": 1306925501538160600,
+		"id_str": "1306928779500105729",
+		"full_text": "\"신기해. 지금 우리가 여기 있는 게.\"\n연극 &lt;이퀄&gt;\n2020.09.18(금) ~ 2020.11.22(일)\n\n온라인 문진표:\nhttps://t.co/lMxolHnxQV\n(관람 당일에 한하여 사전 작성 가능)\n\n객석 입장시, 문진표 성함과 일치한 신분증을 확인하오니 지참하여 주시기 바랍니다 https://t.co/fnDO2JcIop",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lMxolHnxQV",
+					"expanded_url": "http://m.ticket.yes24.com/COVID19/37486",
+					"display_url": "m.ticket.yes24.com/COVID19/37486",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1306925492713349000,
+					"id_str": "1306925492713349120",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EiMhz60U4AAVIbz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiMhz60U4AAVIbz.jpg",
+					"url": "https://t.co/fnDO2JcIop",
+					"display_url": "pic.twitter.com/fnDO2JcIop",
+					"expanded_url": "https://twitter.com/yes24stage/status/1306925501538160640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306925492713349000,
+					"id_str": "1306925492713349120",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EiMhz60U4AAVIbz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiMhz60U4AAVIbz.jpg",
+					"url": "https://t.co/fnDO2JcIop",
+					"display_url": "pic.twitter.com/fnDO2JcIop",
+					"expanded_url": "https://twitter.com/yes24stage/status/1306925501538160640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1104695434893652000,
+			"id_str": "1104695434893651968",
+			"name": "YES24 STAGE_예스24 스테이지",
+			"screen_name": "yes24stage",
+			"location": "대한민국 서울 종로구 대학로12길, 21",
+			"description": "예스24(주)가 운영하는 공연장 운영법인인 예스24라이브홀(주)의 #대학로 공연장 #예스24스테이지 ( #YES24STAGE ) 의 공식 트위터입니다.",
+			"url": "https://t.co/gpVU45TxjE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gpVU45TxjE",
+							"expanded_url": "https://www.yes24stage.com/",
+							"display_url": "yes24stage.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4351,
+			"friends_count": 33,
+			"listed_count": 13,
+			"created_at": "Sun Mar 10 10:48:10 +0000 2019",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1104695434893651968/1585722791",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"신기해. 지금 우리가 여기 있는 게.\"\n연극 &lt;이퀄&gt;\n2020.09.18(금) ~ 2020.11.22(일)\n\n온라인 문진표:\nhttps://t.co/lMxolHnxQV\n(관람 당일에 한하여 사전 작성 가능)\n\n객석 입장시, 문진표 성함과 일치한 신분증을 확인하오니 지참하여 주시기 바랍니다 https://t.co/fnDO2JcIop"
+	},
+	{
+		"created_at": "Fri Sep 18 11:29:30 +0000 2020",
+		"id": 1306911892032561200,
+		"id_str": "1306918265722155008",
+		"full_text": "[김사월] KBS 라디오 &lt;설레는 밤&gt; 📻 \n오늘밤 12시 89.1MHz ❣️\n\n라디오kong 어플로도 들으실 수 있어요!\n-\n#김사월 #설레는밤 #라디오 https://t.co/yszve2NPYA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김사월",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "설레는밤",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "라디오",
+					"indices": [
+						88,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306911889150992400,
+					"id_str": "1306911889150992385",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EiMVcFmUYAErQ6H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiMVcFmUYAErQ6H.jpg",
+					"url": "https://t.co/yszve2NPYA",
+					"display_url": "pic.twitter.com/yszve2NPYA",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1306911892032561154/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306911889150992400,
+					"id_str": "1306911889150992385",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EiMVcFmUYAErQ6H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiMVcFmUYAErQ6H.jpg",
+					"url": "https://t.co/yszve2NPYA",
+					"display_url": "pic.twitter.com/yszve2NPYA",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1306911892032561154/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1966,
+			"friends_count": 26,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1594485943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[김사월] KBS 라디오 &lt;설레는 밤&gt; 📻 \n오늘밤 12시 89.1MHz ❣️\n\n라디오kong 어플로도 들으실 수 있어요!\n-\n#김사월 #설레는밤 #라디오 https://t.co/yszve2NPYA"
+	},
+	{
+		"created_at": "Fri Sep 18 11:29:25 +0000 2020",
+		"id": 1306904193714671600,
+		"id_str": "1306918244226347009",
+		"full_text": "#20200918\n#나인NINE9 #잔다리페스타 \n오늘은 #나인 솔로 공연\n#영상은10월 #잔다리\n#나인 #디어클라우드 #dearcloud https://t.co/Cts9iYM2lx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나인NINE9",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"text": "잔다리페스타",
+					"indices": [
+						19,
+						26
+					]
+				},
+				{
+					"text": "나인",
+					"indices": [
+						32,
+						35
+					]
+				},
+				{
+					"text": "영상은10월",
+					"indices": [
+						42,
+						49
+					]
+				},
+				{
+					"text": "잔다리",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "나인",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "디어클라우드",
+					"indices": [
+						59,
+						66
+					]
+				},
+				{
+					"text": "dearcloud",
+					"indices": [
+						67,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306904181064622000,
+					"id_str": "1306904181064622083",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EiMObavUYAMQHxI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiMObavUYAMQHxI.jpg",
+					"url": "https://t.co/Cts9iYM2lx",
+					"display_url": "pic.twitter.com/Cts9iYM2lx",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1306904193714671626/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306904181064622000,
+					"id_str": "1306904181064622083",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EiMObavUYAMQHxI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiMObavUYAMQHxI.jpg",
+					"url": "https://t.co/Cts9iYM2lx",
+					"display_url": "pic.twitter.com/Cts9iYM2lx",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1306904193714671626/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2685,
+			"friends_count": 342,
+			"listed_count": 33,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 16581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#20200918\n#나인NINE9 #잔다리페스타 \n오늘은 #나인 솔로 공연\n#영상은10월 #잔다리\n#나인 #디어클라우드 #dearcloud https://t.co/Cts9iYM2lx"
+	},
+	{
 		"created_at": "Fri Sep 18 11:11:17 +0000 2020",
 		"id": 1306913238185988000,
 		"id_str": "1306913681654132743",
