@@ -1,6 +1,355 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 19 09:29:31 +0000 2020",
+		"id": 1307243413079695400,
+		"id_str": "1307250458185076737",
+		"full_text": "[D-1]\n⠀\n최유리 '답장' Spoiler Interview\n2020.09.20. 6PM Release 💌\n\n#최유리 #답장 #인터뷰\n#ChoiYuRee #Reply #Interview\n#쇼파르뮤직 #ShofarMusic https://t.co/mp2LOXeUzQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최유리",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "답장",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "인터뷰",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "ChoiYuRee",
+					"indices": [
+						76,
+						86
+					]
+				},
+				{
+					"text": "Reply",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "Interview",
+					"indices": [
+						94,
+						104
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "ShofarMusic",
+					"indices": [
+						112,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1307243311288074200,
+					"id_str": "1307243311288074242",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EiRC3ZRUwAIKPHZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiRC3ZRUwAIKPHZ.jpg",
+					"url": "https://t.co/mp2LOXeUzQ",
+					"display_url": "pic.twitter.com/mp2LOXeUzQ",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1307243413079695361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1307243311288074200,
+					"id_str": "1307243311288074242",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EiRC3ZRUwAIKPHZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiRC3ZRUwAIKPHZ.jpg",
+					"url": "https://t.co/mp2LOXeUzQ",
+					"display_url": "pic.twitter.com/mp2LOXeUzQ",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1307243413079695361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1307243337624072200,
+					"id_str": "1307243337624072192",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EiRC47YUMAAGtE7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiRC47YUMAAGtE7.jpg",
+					"url": "https://t.co/mp2LOXeUzQ",
+					"display_url": "pic.twitter.com/mp2LOXeUzQ",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1307243413079695361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1307243364530626600,
+					"id_str": "1307243364530626563",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EiRC6fnVoAM8x_5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiRC6fnVoAM8x_5.jpg",
+					"url": "https://t.co/mp2LOXeUzQ",
+					"display_url": "pic.twitter.com/mp2LOXeUzQ",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1307243413079695361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1307243390916993000,
+					"id_str": "1307243390916993026",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EiRC8B6VoAIv7aE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiRC8B6VoAIv7aE.jpg",
+					"url": "https://t.co/mp2LOXeUzQ",
+					"display_url": "pic.twitter.com/mp2LOXeUzQ",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1307243413079695361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다.\n가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기, 김지수,\n스무살, 보라미유, WH3N, 최유리 소속사\nhttps://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7982,
+			"friends_count": 5,
+			"listed_count": 64,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1599557025",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[D-1]\n⠀\n최유리 '답장' Spoiler Interview\n2020.09.20. 6PM Release 💌\n\n#최유리 #답장 #인터뷰\n#ChoiYuRee #Reply #Interview\n#쇼파르뮤직 #ShofarMusic https://t.co/mp2LOXeUzQ"
+	},
+	{
 		"created_at": "Sat Sep 19 09:17:21 +0000 2020",
 		"id": 1307247395747569700,
 		"id_str": "1307247395747569664",
