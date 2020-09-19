@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 19 03:29:34 +0000 2020",
+		"id": 1307159227010633700,
+		"id_str": "1307159873394794496",
+		"full_text": "#후추스 [룰루랄라 빨래방]\n\n당신의 구겨지고 지친 마음을 깨끗하게 펴드립니다\n– 룰루랄라 빨래방 Since 2020.09.19\n\n✚ 앨범 자세히 보기: https://t.co/gXp20mxhH6 https://t.co/Dl2EwWG2Kp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "후추스",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gXp20mxhH6",
+					"expanded_url": "https://bit.ly/3iKvY0n",
+					"display_url": "bit.ly/3iKvY0n",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1306781912539766800,
+					"id_str": "1306781912539766787",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EiKfOc_WoAM98gX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiKfOc_WoAM98gX.jpg",
+					"url": "https://t.co/Dl2EwWG2Kp",
+					"display_url": "pic.twitter.com/Dl2EwWG2Kp",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1307159227010633730/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306781912539766800,
+					"id_str": "1306781912539766787",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EiKfOc_WoAM98gX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiKfOc_WoAM98gX.jpg",
+					"url": "https://t.co/Dl2EwWG2Kp",
+					"display_url": "pic.twitter.com/Dl2EwWG2Kp",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1307159227010633730/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9526,
+			"friends_count": 2891,
+			"listed_count": 251,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1599028531",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#후추스 [룰루랄라 빨래방]\n\n당신의 구겨지고 지친 마음을 깨끗하게 펴드립니다\n– 룰루랄라 빨래방 Since 2020.09.19\n\n✚ 앨범 자세히 보기: https://t.co/gXp20mxhH6 https://t.co/Dl2EwWG2Kp"
+	},
+	{
 		"created_at": "Sat Sep 19 03:12:03 +0000 2020",
 		"id": 1307155466309558300,
 		"id_str": "1307155466309558273",
