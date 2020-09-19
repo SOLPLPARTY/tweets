@@ -1,6 +1,329 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 19 15:29:25 +0000 2020",
+		"id": 1307333693766156300,
+		"id_str": "1307341029704691713",
+		"full_text": "[#GAIN] 2020.09.20 GAIN DAY🎉\n\nHappy Birthday to 가인🎂 https://t.co/YFZRJDIqBb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GAIN",
+					"indices": [
+						1,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YFZRJDIqBb",
+					"expanded_url": "https://twitter.com/officialbeg/status/1307333647058399235",
+					"display_url": "twitter.com/officialbeg/st…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19862,
+			"friends_count": 18,
+			"listed_count": 232,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5329,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1307333647058399200,
+		"quoted_status_id_str": "1307333647058399235",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YFZRJDIqBb",
+			"expanded": "https://twitter.com/officialbeg/status/1307333647058399235",
+			"display": "twitter.com/officialbeg/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 19 15:00:05 +0000 2020",
+			"id": 1307333647058399200,
+			"id_str": "1307333647058399235",
+			"full_text": "[GAIN] HAPPY BIRTHDAY, GAIN!\n#20200920 #GAIN #가인 #브라운아이드걸스 #BrownEyedGirls https://t.co/fCD9kWzBVb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				74
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GAIN",
+						"indices": [
+							39,
+							44
+						]
+					},
+					{
+						"text": "가인",
+						"indices": [
+							45,
+							48
+						]
+					},
+					{
+						"text": "브라운아이드걸스",
+						"indices": [
+							49,
+							58
+						]
+					},
+					{
+						"text": "BrownEyedGirls",
+						"indices": [
+							59,
+							74
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1307333638023835600,
+						"id_str": "1307333638023835649",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/EiSVBGlUcAEPuNS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EiSVBGlUcAEPuNS.jpg",
+						"url": "https://t.co/fCD9kWzBVb",
+						"display_url": "pic.twitter.com/fCD9kWzBVb",
+						"expanded_url": "https://twitter.com/officialBEG/status/1307333647058399235/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1307333638023835600,
+						"id_str": "1307333638023835649",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/EiSVBGlUcAEPuNS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EiSVBGlUcAEPuNS.jpg",
+						"url": "https://t.co/fCD9kWzBVb",
+						"display_url": "pic.twitter.com/fCD9kWzBVb",
+						"expanded_url": "https://twitter.com/officialBEG/status/1307333647058399235/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 181069412,
+				"id_str": "181069412",
+				"name": "officialBEG",
+				"screen_name": "officialBEG",
+				"location": "",
+				"description": "",
+				"url": "https://t.co/AYJbDV6mB4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AYJbDV6mB4",
+								"expanded_url": "https://www.youtube.com/officialBEG",
+								"display_url": "youtube.com/officialBEG",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 52562,
+				"friends_count": 6,
+				"listed_count": 677,
+				"created_at": "Sat Aug 21 05:28:27 +0000 2010",
+				"favourites_count": 87,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2469,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1265883421395435520/jdsJNbaC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265883421395435520/jdsJNbaC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/181069412/1571417049",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 499,
+			"favorite_count": 729,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 33,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#GAIN] 2020.09.20 GAIN DAY🎉\n\nHappy Birthday to 가인🎂 https://t.co/YFZRJDIqBb"
+	},
+	{
 		"created_at": "Sat Sep 19 14:11:17 +0000 2020",
 		"id": 1307307198612029400,
 		"id_str": "1307321368711749632",
