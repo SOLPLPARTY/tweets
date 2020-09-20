@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 20 16:11:17 +0000 2020",
+		"id": 1307701936779677700,
+		"id_str": "1307713954060423169",
+		"full_text": "Pic1)\n매번 건너는 양화대교 오늘 왤케 외국같은지.\nP2)\n조명 바꾼 거 이런 것도 된다! 갖고 싶었다! 아.\n\n#프리즘홍 #홍대공연장 #인디\n#인디밴드#판락 @프리즘홀 https://t.co/Pz6blzQAtl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프리즘홍",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "홍대공연장",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						78,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Pz6blzQAtl",
+					"expanded_url": "https://www.instagram.com/p/CFXP2mPl5XA/?igshid=q4zagxc161sd",
+					"display_url": "instagram.com/p/CFXP2mPl5XA/…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 곳!  최고의 핫플레이스로 떠오르고 있는 프리즘홀입니다!",
+			"url": "https://t.co/wj8kdioGqi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wj8kdioGqi",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2100,
+			"friends_count": 1151,
+			"listed_count": 30,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 73,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.55181802,
+				126.91748033
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				126.91748033,
+				37.55181802
+			]
+		},
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Pic1)\n매번 건너는 양화대교 오늘 왤케 외국같은지.\nP2)\n조명 바꾼 거 이런 것도 된다! 갖고 싶었다! 아.\n\n#프리즘홍 #홍대공연장 #인디\n#인디밴드#판락 @프리즘홀 https://t.co/Pz6blzQAtl"
+	},
+	{
+		"created_at": "Sun Sep 20 15:36:10 +0000 2020",
+		"id": 1307644282749165600,
+		"id_str": "1307705115919360001",
+		"full_text": "다음 주 화, 수요일에는 온라인 라이브 생중계가 있어요. \n22일 화요일 저녁 9시에는 유튜브 채널 ‘생기 스튜디오’에서 풀밴드 라이브를\n23일 수요일 저녁 6시에는 유튜브 채널 ‘저작권 TV’에서 솔로 어쿠스틱 라이브를 합니다.\n멀고도 가까운 시간 함께해요 😌 https://t.co/M7sQfBxkBK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1307644276780613600,
+					"id_str": "1307644276780613632",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EiWviqIUwAArr0v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiWviqIUwAArr0v.jpg",
+					"url": "https://t.co/M7sQfBxkBK",
+					"display_url": "pic.twitter.com/M7sQfBxkBK",
+					"expanded_url": "https://twitter.com/aprilsour/status/1307644282749165569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1307644276780613600,
+					"id_str": "1307644276780613632",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EiWviqIUwAArr0v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiWviqIUwAArr0v.jpg",
+					"url": "https://t.co/M7sQfBxkBK",
+					"display_url": "pic.twitter.com/M7sQfBxkBK",
+					"expanded_url": "https://twitter.com/aprilsour/status/1307644282749165569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1307644276784857000,
+					"id_str": "1307644276784857088",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EiWviqJVgAAp28j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiWviqJVgAAp28j.jpg",
+					"url": "https://t.co/M7sQfBxkBK",
+					"display_url": "pic.twitter.com/M7sQfBxkBK",
+					"expanded_url": "https://twitter.com/aprilsour/status/1307644282749165569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568866057,
+			"id_str": "568866057",
+			"name": "김사월",
+			"screen_name": "aprilsour",
+			"location": "",
+			"description": "지옥에서 온 포크 전사🥗💚🌈 Kim Sawol🎸헤븐, 사랑하는 미움들, 로맨스, 7102, 수잔 💌 문의 : nina@yoursummer.net ☎️ 070-4176-3311",
+			"url": "https://t.co/aF26VLhODV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aF26VLhODV",
+							"expanded_url": "http://www.youtube.com/c/kimsawol",
+							"display_url": "youtube.com/c/kimsawol",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12329,
+			"friends_count": 835,
+			"listed_count": 51,
+			"created_at": "Wed May 02 04:12:49 +0000 2012",
+			"favourites_count": 10254,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305171132618686464/QdVoRN9t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305171132618686464/QdVoRN9t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568866057/1600071003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다음 주 화, 수요일에는 온라인 라이브 생중계가 있어요. \n22일 화요일 저녁 9시에는 유튜브 채널 ‘생기 스튜디오’에서 풀밴드 라이브를\n23일 수요일 저녁 6시에는 유튜브 채널 ‘저작권 TV’에서 솔로 어쿠스틱 라이브를 합니다.\n멀고도 가까운 시간 함께해요 😌 https://t.co/M7sQfBxkBK"
+	},
+	{
 		"created_at": "Sun Sep 20 11:11:17 +0000 2020",
 		"id": 1307627611187634200,
 		"id_str": "1307638454751199232",
