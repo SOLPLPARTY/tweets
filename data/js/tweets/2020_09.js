@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 21 03:48:26 +0000 2020",
+		"id": 1307885512745681000,
+		"id_str": "1307889395710799872",
+		"full_text": "#김현창 [내 파랑은 항상 검정에 무너져왔어요]\n\n밤을 지내는 게 어려웠던 계절에서부터 시작된 앨범입니다.\n파랑에게 아쉬워 손을 흔들 때면 항상 검정이 찾아왔습니다.\n종종 살갑지 않았고 그래서 가끔 밉기도 했던 우리의 검정에게.\n\n✚ 앨범 자세히 보기: https://t.co/i75GBes4H9 https://t.co/LeqWbhvI2R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김현창",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i75GBes4H9",
+					"expanded_url": "https://bit.ly/3hAyxAQ",
+					"display_url": "bit.ly/3hAyxAQ",
+					"indices": [
+						142,
+						165
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1306783965550870500,
+					"id_str": "1306783965550870533",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EiKhF9DWAAUIbfZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiKhF9DWAAUIbfZ.jpg",
+					"url": "https://t.co/LeqWbhvI2R",
+					"display_url": "pic.twitter.com/LeqWbhvI2R",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1307885512745680896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306783965550870500,
+					"id_str": "1306783965550870533",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EiKhF9DWAAUIbfZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiKhF9DWAAUIbfZ.jpg",
+					"url": "https://t.co/LeqWbhvI2R",
+					"display_url": "pic.twitter.com/LeqWbhvI2R",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1307885512745680896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9527,
+			"friends_count": 2890,
+			"listed_count": 251,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1599028531",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#김현창 [내 파랑은 항상 검정에 무너져왔어요]\n\n밤을 지내는 게 어려웠던 계절에서부터 시작된 앨범입니다.\n파랑에게 아쉬워 손을 흔들 때면 항상 검정이 찾아왔습니다.\n종종 살갑지 않았고 그래서 가끔 밉기도 했던 우리의 검정에게.\n\n✚ 앨범 자세히 보기: https://t.co/i75GBes4H9 https://t.co/LeqWbhvI2R"
+	},
+	{
 		"created_at": "Mon Sep 21 03:13:47 +0000 2020",
 		"id": 1307880676197372000,
 		"id_str": "1307880676197371906",
