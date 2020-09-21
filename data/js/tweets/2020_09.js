@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 21 06:29:25 +0000 2020",
+		"id": 1307922533971144700,
+		"id_str": "1307929910325936130",
+		"full_text": "[#이우태] Welcome to Mysticstory 🎉\n\nMystery Voice의 주인공이자 미스틱스토리 식구가 된 배우 이우태를 환영합니다✨\n\n새로운 변신에 도전하는 이우태의 행보 많은 기대 부탁드립니다👏 https://t.co/3iRyfendZz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이우태",
+					"indices": [
+						1,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1307915137001508900,
+					"id_str": "1307915137001508866",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/Eial4zFU0AIxKvm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eial4zFU0AIxKvm.jpg",
+					"url": "https://t.co/3iRyfendZz",
+					"display_url": "pic.twitter.com/3iRyfendZz",
+					"expanded_url": "https://twitter.com/themysticstory/status/1307922533971144704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1307915137001508900,
+					"id_str": "1307915137001508866",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/Eial4zFU0AIxKvm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eial4zFU0AIxKvm.jpg",
+					"url": "https://t.co/3iRyfendZz",
+					"display_url": "pic.twitter.com/3iRyfendZz",
+					"expanded_url": "https://twitter.com/themysticstory/status/1307922533971144704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1307915137102131200,
+					"id_str": "1307915137102131201",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/Eial4zdUMAE-vWZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eial4zdUMAE-vWZ.jpg",
+					"url": "https://t.co/3iRyfendZz",
+					"display_url": "pic.twitter.com/3iRyfendZz",
+					"expanded_url": "https://twitter.com/themysticstory/status/1307922533971144704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1307915136997318700,
+					"id_str": "1307915136997318657",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/Eial4zEU4AEZks7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eial4zEU4AEZks7.jpg",
+					"url": "https://t.co/3iRyfendZz",
+					"display_url": "pic.twitter.com/3iRyfendZz",
+					"expanded_url": "https://twitter.com/themysticstory/status/1307922533971144704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1307915137005748200,
+					"id_str": "1307915137005748224",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/Eial4zGVgAAj1-P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eial4zGVgAAj1-P.jpg",
+					"url": "https://t.co/3iRyfendZz",
+					"display_url": "pic.twitter.com/3iRyfendZz",
+					"expanded_url": "https://twitter.com/themysticstory/status/1307922533971144704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19883,
+			"friends_count": 18,
+			"listed_count": 231,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#이우태] Welcome to Mysticstory 🎉\n\nMystery Voice의 주인공이자 미스틱스토리 식구가 된 배우 이우태를 환영합니다✨\n\n새로운 변신에 도전하는 이우태의 행보 많은 기대 부탁드립니다👏 https://t.co/3iRyfendZz"
+	},
+	{
 		"created_at": "Mon Sep 21 05:29:25 +0000 2020",
 		"id": 1307909409914278000,
 		"id_str": "1307914810403835904",
