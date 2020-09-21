@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 21 13:29:26 +0000 2020",
+		"id": 1308031813881704400,
+		"id_str": "1308035611534807040",
+		"full_text": "Moomblast Takeover\n@Radio_SCR\n9/24 Thu 7pm\n\n디지털에라부터 모던댄스홀까지 댄스홀을 총망라하는 Moomblast가 라이브스트리밍 세션을 갖습니다. Seoul Community Radio를 통해 온라인으로 함께 하세요. (한정된 인원수로 현장 입장가능)\n\nSelekta:\nQuandol\nVon Bueno\nDJ Soulscape\nSalamanda\nSGSY https://t.co/KJc4nLpP1q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Radio_SCR",
+					"name": "SeoulCommunityRadio",
+					"id": 3832201221,
+					"id_str": "3832201221",
+					"indices": [
+						19,
+						29
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1308031810505379800,
+					"id_str": "1308031810505379841",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/EicQAFwVkAEy2BJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EicQAFwVkAEy2BJ.jpg",
+					"url": "https://t.co/KJc4nLpP1q",
+					"display_url": "pic.twitter.com/KJc4nLpP1q",
+					"expanded_url": "https://twitter.com/bombino_records/status/1308031813881704448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1308031810505379800,
+					"id_str": "1308031810505379841",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/EicQAFwVkAEy2BJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EicQAFwVkAEy2BJ.jpg",
+					"url": "https://t.co/KJc4nLpP1q",
+					"display_url": "pic.twitter.com/KJc4nLpP1q",
+					"expanded_url": "https://twitter.com/bombino_records/status/1308031813881704448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 389236787,
+			"id_str": "389236787",
+			"name": "Bombino Records",
+			"screen_name": "bombino_records",
+			"location": "babylon",
+			"description": "",
+			"url": "https://t.co/3IX5WApqpM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3IX5WApqpM",
+							"expanded_url": "http://bekindrespin.wordpress.com/",
+							"display_url": "bekindrespin.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 538,
+			"friends_count": 67,
+			"listed_count": 6,
+			"created_at": "Wed Oct 12 02:35:26 +0000 2011",
+			"favourites_count": 101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1208686940427415552/JVoB59S9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208686940427415552/JVoB59S9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/389236787/1545404016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Moomblast Takeover\n@Radio_SCR\n9/24 Thu 7pm\n\n디지털에라부터 모던댄스홀까지 댄스홀을 총망라하는 Moomblast가 라이브스트리밍 세션을 갖습니다. Seoul Community Radio를 통해 온라인으로 함께 하세요. (한정된 인원수로 현장 입장가능)\n\nSelekta:\nQuandol\nVon Bueno\nDJ Soulscape\nSalamanda\nSGSY https://t.co/KJc4nLpP1q"
+	},
+	{
 		"created_at": "Mon Sep 21 12:06:15 +0000 2020",
 		"id": 1308014678203936800,
 		"id_str": "1308014678203936768",
