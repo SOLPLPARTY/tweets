@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 21 05:29:25 +0000 2020",
+		"id": 1307909409914278000,
+		"id_str": "1307914810403835904",
+		"full_text": "SuperM to prerelease ‘One (Monster &amp; Infinity)’, the lead song of their 1st album on 9/23 1PM KST (12AM EST) 🎵\n\nTo showcase the premiere stage of ‘One (Monster &amp; Infinity)’ at 'The Ellen DeGeneres Show' on 9/23! 📺\n\n#SuperM #SuperOne\n#One #Monster_Infinity\n#SuperMonTheEllenShow https://t.co/4c7b3LcxQN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			285
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SuperM",
+					"indices": [
+						223,
+						230
+					]
+				},
+				{
+					"text": "SuperOne",
+					"indices": [
+						231,
+						240
+					]
+				},
+				{
+					"text": "One",
+					"indices": [
+						241,
+						245
+					]
+				},
+				{
+					"text": "Monster_Infinity",
+					"indices": [
+						246,
+						263
+					]
+				},
+				{
+					"text": "SuperMonTheEllenShow",
+					"indices": [
+						264,
+						285
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1307909387206312000,
+					"id_str": "1307909387206311943",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/media/EiagqHbUwAcdX7B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiagqHbUwAcdX7B.jpg",
+					"url": "https://t.co/4c7b3LcxQN",
+					"display_url": "pic.twitter.com/4c7b3LcxQN",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1307909409914277893/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1307909387206312000,
+					"id_str": "1307909387206311943",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/media/EiagqHbUwAcdX7B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiagqHbUwAcdX7B.jpg",
+					"url": "https://t.co/4c7b3LcxQN",
+					"display_url": "pic.twitter.com/4c7b3LcxQN",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1307909409914277893/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8340417,
+			"friends_count": 52,
+			"listed_count": 8201,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1312,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4957,
+		"favorite_count": 20090,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SuperM to prerelease ‘One (Monster &amp; Infinity)’, the lead song of their 1st album on 9/23 1PM KST (12AM EST) 🎵\n\nTo showcase the premiere stage of ‘One (Monster &amp; Infinity)’ at 'The Ellen DeGeneres Show' on 9/23! 📺\n\n#SuperM #SuperOne\n#One #Monster_Infinity\n#SuperMonTheEllenShow https://t.co/4c7b3LcxQN"
+	},
+	{
 		"created_at": "Mon Sep 21 04:29:33 +0000 2020",
 		"id": 1307897209556410400,
 		"id_str": "1307899744614744066",
