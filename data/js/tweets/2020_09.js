@@ -1,6 +1,1088 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 22 06:14:07 +0000 2020",
+		"id": 1308288449846231000,
+		"id_str": "1308288449846231041",
+		"full_text": "#딩고뮤직 #dingo_music\n\"이렇게 하는 거 맞아요?\" 상황극에 중독된 CLC | 몰빵라이브 비하인드ㅣJACKPOT LIVE | BEHIND THE SCENES | 딩고뮤직ㅣDingo Music\nhttps://t.co/nWv2pVgIRP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nWv2pVgIRP",
+					"expanded_url": "https://youtu.be/fzqtD2AxmHQ",
+					"display_url": "youtu.be/fzqtD2AxmHQ",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 237,
+			"friends_count": 377,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n\"이렇게 하는 거 맞아요?\" 상황극에 중독된 CLC | 몰빵라이브 비하인드ㅣJACKPOT LIVE | BEHIND THE SCENES | 딩고뮤직ㅣDingo Music\nhttps://t.co/nWv2pVgIRP"
+	},
+	{
+		"created_at": "Tue Sep 22 05:57:18 +0000 2020",
+		"id": 1308284215645974500,
+		"id_str": "1308284215645974535",
+		"full_text": "#Melon #멜론 #멜론매거진\n백건우, 몽상가 슈만을 마주하다.\nhttps://t.co/5TZaAKduGz https://t.co/jb4Ro2ysHX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5TZaAKduGz",
+					"expanded_url": "https://bit.ly/2ROtAd6",
+					"display_url": "bit.ly/2ROtAd6",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1308284214488395800,
+					"id_str": "1308284214488395776",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/Eif1j73U8AAKLFy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eif1j73U8AAKLFy.jpg",
+					"url": "https://t.co/jb4Ro2ysHX",
+					"display_url": "pic.twitter.com/jb4Ro2ysHX",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1308284215645974535/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1308284214488395800,
+					"id_str": "1308284214488395776",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/Eif1j73U8AAKLFy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eif1j73U8AAKLFy.jpg",
+					"url": "https://t.co/jb4Ro2ysHX",
+					"display_url": "pic.twitter.com/jb4Ro2ysHX",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1308284215645974535/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 237,
+			"friends_count": 377,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\n백건우, 몽상가 슈만을 마주하다.\nhttps://t.co/5TZaAKduGz https://t.co/jb4Ro2ysHX"
+	},
+	{
+		"created_at": "Tue Sep 22 05:57:14 +0000 2020",
+		"id": 1308284200441708500,
+		"id_str": "1308284200441708544",
+		"full_text": "【 #PlayDB 】 #LG아트센터\n몬테크리스토 (2020.11.17 ~ 2021.03.07) at LG아트센터\n▶ https://t.co/HTGfKyumBb\n　\n#플레이DB #인터파크티켓\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/Qzk1ebsFZP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PlayDB",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "LG아트센터",
+					"indices": [
+						12,
+						19
+					]
+				},
+				{
+					"text": "플레이DB",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						98,
+						105
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "솔플파티",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "solplparty",
+					"indices": [
+						124,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HTGfKyumBb",
+					"expanded_url": "https://bit.ly/2HcoV2z",
+					"display_url": "bit.ly/2HcoV2z",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1308284199120511000,
+					"id_str": "1308284199120510981",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/Eif1jCnVoAUy7bJ.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eif1jCnVoAUy7bJ.png",
+					"url": "https://t.co/Qzk1ebsFZP",
+					"display_url": "pic.twitter.com/Qzk1ebsFZP",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1308284200441708544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 494,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 494,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1308284199120511000,
+					"id_str": "1308284199120510981",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/Eif1jCnVoAUy7bJ.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eif1jCnVoAUy7bJ.png",
+					"url": "https://t.co/Qzk1ebsFZP",
+					"display_url": "pic.twitter.com/Qzk1ebsFZP",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1308284200441708544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 494,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 494,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 237,
+			"friends_count": 377,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #PlayDB 】 #LG아트센터\n몬테크리스토 (2020.11.17 ~ 2021.03.07) at LG아트센터\n▶ https://t.co/HTGfKyumBb\n　\n#플레이DB #인터파크티켓\n#공연일정 #티켓공지\n#솔플파티 #solplparty https://t.co/Qzk1ebsFZP"
+	},
+	{
+		"created_at": "Tue Sep 22 05:25:29 +0000 2020",
+		"id": 1308273118134390800,
+		"id_str": "1308276209692753921",
+		"full_text": "9월 28일 오전 10시 The @wiltern 에서 열리는 특별한 라이브 공연@scarypoolparty 를 감상하세요.\n티켓 예매는 https://t.co/faFaNVlu4v https://t.co/kj4s8MivYN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wiltern",
+					"name": "The Wiltern",
+					"id": 14703765,
+					"id_str": "14703765",
+					"indices": [
+						18,
+						26
+					]
+				},
+				{
+					"screen_name": "scarypoolparty",
+					"name": "Scarypoolparty",
+					"id": 1025278203261116400,
+					"id_str": "1025278203261116416",
+					"indices": [
+						44,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/faFaNVlu4v",
+					"expanded_url": "http://bit.ly/streamscarypoolparty",
+					"display_url": "bit.ly/streamscarypoo…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1308273116058210300,
+					"id_str": "1308273116058210305",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/Eifrd6_X0AEz38c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eifrd6_X0AEz38c.jpg",
+					"url": "https://t.co/kj4s8MivYN",
+					"display_url": "pic.twitter.com/kj4s8MivYN",
+					"expanded_url": "https://twitter.com/livenationkr/status/1308273118134390785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1308273116058210300,
+					"id_str": "1308273116058210305",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/Eifrd6_X0AEz38c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eifrd6_X0AEz38c.jpg",
+					"url": "https://t.co/kj4s8MivYN",
+					"display_url": "pic.twitter.com/kj4s8MivYN",
+					"expanded_url": "https://twitter.com/livenationkr/status/1308273118134390785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 236888084,
+			"id_str": "236888084",
+			"name": "LIVE NATION KOREA",
+			"screen_name": "livenationkr",
+			"location": "Seoul, South Korea",
+			"description": "라이브네이션코리아 공식 트위터. Paul McCartney, Maroon5, Jason Mraz, Coldplay, MUSE, 등 해외 유명아티스트의 내한공연과 BIGBANG, Blackpink,BTS 등의 대규모 월드투어를 기획한 공연기획사. FOLLOW US!",
+			"url": "http://t.co/WZhcKy3xE8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/WZhcKy3xE8",
+							"expanded_url": "http://www.livenation.kr",
+							"display_url": "livenation.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6592,
+			"friends_count": 234,
+			"listed_count": 28,
+			"created_at": "Tue Jan 11 16:04:41 +0000 2011",
+			"favourites_count": 602,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820816720998764545/T7P3FpWQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820816720998764545/T7P3FpWQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/236888084/1475559466",
+			"profile_link_color": "E21836",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "9월 28일 오전 10시 The @wiltern 에서 열리는 특별한 라이브 공연@scarypoolparty 를 감상하세요.\n티켓 예매는 https://t.co/faFaNVlu4v https://t.co/kj4s8MivYN"
+	},
+	{
+		"created_at": "Tue Sep 22 05:24:28 +0000 2020",
+		"id": 1308194298895114200,
+		"id_str": "1308275954117083136",
+		"full_text": "'THE ALBUM’ JISOO TEASER POSTER #1\n\n#BLACKPINK #블랙핑크 #JISOO #지수 #1stFULLALBUM #THEALBUM #TeaserPoster #20201002_12amEST #20201002_1pmKST #Release #YG https://t.co/ep2SqrjdlR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						36,
+						46
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						47,
+						52
+					]
+				},
+				{
+					"text": "JISOO",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "지수",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "1stFULLALBUM",
+					"indices": [
+						64,
+						77
+					]
+				},
+				{
+					"text": "THEALBUM",
+					"indices": [
+						78,
+						87
+					]
+				},
+				{
+					"text": "TeaserPoster",
+					"indices": [
+						88,
+						101
+					]
+				},
+				{
+					"text": "20201002_12amEST",
+					"indices": [
+						102,
+						119
+					]
+				},
+				{
+					"text": "20201002_1pmKST",
+					"indices": [
+						120,
+						136
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						137,
+						145
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						146,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1308146489445609500,
+					"id_str": "1308146489445609472",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/Eid4TSGUcAA9NZv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eid4TSGUcAA9NZv.jpg",
+					"url": "https://t.co/ep2SqrjdlR",
+					"display_url": "pic.twitter.com/ep2SqrjdlR",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1308194298895114243/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1308146489445609500,
+					"id_str": "1308146489445609472",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/Eid4TSGUcAA9NZv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eid4TSGUcAA9NZv.jpg",
+					"url": "https://t.co/ep2SqrjdlR",
+					"display_url": "pic.twitter.com/ep2SqrjdlR",
+					"expanded_url": "https://twitter.com/BLACKPINK/status/1308194298895114243/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1273850774380884000,
+			"id_str": "1273850774380883975",
+			"name": "BLACKPINKOFFICIAL",
+			"screen_name": "BLACKPINK",
+			"location": "",
+			"description": "BLΛƆKPIИK",
+			"url": "https://t.co/yAH8iTw40f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yAH8iTw40f",
+							"expanded_url": "https://youtu.be/vRXZj0DzXIA",
+							"display_url": "youtu.be/vRXZj0DzXIA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1829722,
+			"friends_count": 0,
+			"listed_count": 2468,
+			"created_at": "Fri Jun 19 05:32:29 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 90,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1276429575736578050/dV___H-n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276429575736578050/dV___H-n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1273850774380883975/1598855058",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99062,
+		"favorite_count": 243571,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'THE ALBUM’ JISOO TEASER POSTER #1\n\n#BLACKPINK #블랙핑크 #JISOO #지수 #1stFULLALBUM #THEALBUM #TeaserPoster #20201002_12amEST #20201002_1pmKST #Release #YG https://t.co/ep2SqrjdlR"
+	},
+	{
 		"created_at": "Tue Sep 22 04:46:20 +0000 2020",
 		"id": 1308266357532831700,
 		"id_str": "1308266357532831744",
