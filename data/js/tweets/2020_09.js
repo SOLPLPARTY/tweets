@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 23 04:29:25 +0000 2020",
+		"id": 1308610540164518000,
+		"id_str": "1308624486426607618",
+		"full_text": "#이프이너프 (If Enough) [8:01]\n\n‘8:01’ 은 문득 느껴진 아침의 공허함을 발랄하면서 담담하게 풀어낸 곡이다. ‘외로움’이라는 복잡한 감정이 조금 더 쉽고 간단하게 와닿을 수 있도록 연주하였으며 모두가 따라 할 수 있도록 중독성 있는 후렴구를 더하였다. \n\n✚ https://t.co/LnYAUVshjU https://t.co/kgvMAUiFi2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이프이너프",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LnYAUVshjU",
+					"expanded_url": "https://bit.ly/3hSWByQ",
+					"display_url": "bit.ly/3hSWByQ",
+					"indices": [
+						156,
+						179
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1308207535690666000,
+					"id_str": "1308207535690665984",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/Eiev0pFU0AA6sv9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eiev0pFU0AA6sv9.jpg",
+					"url": "https://t.co/kgvMAUiFi2",
+					"display_url": "pic.twitter.com/kgvMAUiFi2",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1308610540164517890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1308207535690666000,
+					"id_str": "1308207535690665984",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/Eiev0pFU0AA6sv9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eiev0pFU0AA6sv9.jpg",
+					"url": "https://t.co/kgvMAUiFi2",
+					"display_url": "pic.twitter.com/kgvMAUiFi2",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1308610540164517890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9523,
+			"friends_count": 2889,
+			"listed_count": 251,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1599028531",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이프이너프 (If Enough) [8:01]\n\n‘8:01’ 은 문득 느껴진 아침의 공허함을 발랄하면서 담담하게 풀어낸 곡이다. ‘외로움’이라는 복잡한 감정이 조금 더 쉽고 간단하게 와닿을 수 있도록 연주하였으며 모두가 따라 할 수 있도록 중독성 있는 후렴구를 더하였다. \n\n✚ https://t.co/LnYAUVshjU https://t.co/kgvMAUiFi2"
+	},
+	{
 		"created_at": "Wed Sep 23 04:11:16 +0000 2020",
 		"id": 1308613776191623200,
 		"id_str": "1308619921572728834",
