@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 27 10:11:17 +0000 2020",
+		"id": 1310157236786913300,
+		"id_str": "1310160071435997185",
+		"full_text": "[씬디 티켓라운지 추석 연휴 기간 휴관 공지]\n⠀\n9월 30월부터~10월 3일까지 추석 연휴 휴관합니다🌝\n⠀\n10월 4일 일요일부터 정상 운영되오니 이용에 차질 없으시도록 참고 부탁 드리겠습니다!\n⠀\n즐거운 추석 연휴 보내세요🥳 https://t.co/pkOb8wa1N3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1309808550294683600,
+					"id_str": "1309808550294683648",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei1f79QVgAAoRDA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei1f79QVgAAoRDA.jpg",
+					"url": "https://t.co/pkOb8wa1N3",
+					"display_url": "pic.twitter.com/pkOb8wa1N3",
+					"expanded_url": "https://twitter.com/xindieticket/status/1310157236786913280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1309808550294683600,
+					"id_str": "1309808550294683648",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei1f79QVgAAoRDA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei1f79QVgAAoRDA.jpg",
+					"url": "https://t.co/pkOb8wa1N3",
+					"display_url": "pic.twitter.com/pkOb8wa1N3",
+					"expanded_url": "https://twitter.com/xindieticket/status/1310157236786913280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2780,
+			"friends_count": 2699,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[씬디 티켓라운지 추석 연휴 기간 휴관 공지]\n⠀\n9월 30월부터~10월 3일까지 추석 연휴 휴관합니다🌝\n⠀\n10월 4일 일요일부터 정상 운영되오니 이용에 차질 없으시도록 참고 부탁 드리겠습니다!\n⠀\n즐거운 추석 연휴 보내세요🥳 https://t.co/pkOb8wa1N3"
+	},
+	{
 		"created_at": "Sun Sep 27 09:02:57 +0000 2020",
 		"id": 1310142876421030000,
 		"id_str": "1310142876421029888",
