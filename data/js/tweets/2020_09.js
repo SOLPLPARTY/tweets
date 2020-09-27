@@ -1,6 +1,780 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 27 15:29:47 +0000 2020",
+		"id": 1310233229291470800,
+		"id_str": "1310240225571090432",
+		"full_text": "Golden Child 2nd Single Album\n[Pump It Up] Concept Photo (A ver.)\n\n❤️ Title : Pump It Up\n💛 2020.10.07 6PM RELEASE\n🤍 #골든차일드\n\n#GoldenChild\n#PumpItUp https://t.co/H5RWMhoilD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "골든차일드",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						124,
+						136
+					]
+				},
+				{
+					"text": "PumpItUp",
+					"indices": [
+						137,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1310224186728525800,
+					"id_str": "1310224186728525826",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei7Z9LoUMAIertr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei7Z9LoUMAIertr.jpg",
+					"url": "https://t.co/H5RWMhoilD",
+					"display_url": "pic.twitter.com/H5RWMhoilD",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1310233229291470849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1059,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 847,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1310224186728525800,
+					"id_str": "1310224186728525826",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei7Z9LoUMAIertr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei7Z9LoUMAIertr.jpg",
+					"url": "https://t.co/H5RWMhoilD",
+					"display_url": "pic.twitter.com/H5RWMhoilD",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1310233229291470849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1059,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 847,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 423477,
+			"friends_count": 10,
+			"listed_count": 1805,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2023,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1601219157",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 938,
+		"favorite_count": 1952,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Golden Child 2nd Single Album\n[Pump It Up] Concept Photo (A ver.)\n\n❤️ Title : Pump It Up\n💛 2020.10.07 6PM RELEASE\n🤍 #골든차일드\n\n#GoldenChild\n#PumpItUp https://t.co/H5RWMhoilD"
+	},
+	{
+		"created_at": "Sun Sep 27 15:29:42 +0000 2020",
+		"id": 1310233141311754200,
+		"id_str": "1310240203982897153",
+		"full_text": "Golden Child 2nd Single Album\n[Pump It Up] Concept Photo (A ver.)\n\n❤️ Title : Pump It Up\n💛 2020.10.07 6PM RELEASE\n🤍 #최보민 #Y #이장준\n\n#GoldenChild #골든차일드\n#PumpItUp https://t.co/ginIVLdR0M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최보민",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "Y",
+					"indices": [
+						121,
+						123
+					]
+				},
+				{
+					"text": "이장준",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						130,
+						142
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						143,
+						149
+					]
+				},
+				{
+					"text": "PumpItUp",
+					"indices": [
+						150,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1310224102582444000,
+					"id_str": "1310224102582444032",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei7Z4SKU4AAGLi-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei7Z4SKU4AAGLi-.jpg",
+					"url": "https://t.co/ginIVLdR0M",
+					"display_url": "pic.twitter.com/ginIVLdR0M",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1310233141311754242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1415,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1310224102582444000,
+					"id_str": "1310224102582444032",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei7Z4SKU4AAGLi-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei7Z4SKU4AAGLi-.jpg",
+					"url": "https://t.co/ginIVLdR0M",
+					"display_url": "pic.twitter.com/ginIVLdR0M",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1310233141311754242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1415,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1310224116062937000,
+					"id_str": "1310224116062937090",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei7Z5EYU4AIYZ8i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei7Z5EYU4AIYZ8i.jpg",
+					"url": "https://t.co/ginIVLdR0M",
+					"display_url": "pic.twitter.com/ginIVLdR0M",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1310233141311754242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1415,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1310224155002900500,
+					"id_str": "1310224155002900480",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei7Z7VcVkAAejFp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei7Z7VcVkAAejFp.jpg",
+					"url": "https://t.co/ginIVLdR0M",
+					"display_url": "pic.twitter.com/ginIVLdR0M",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1310233141311754242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1413,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 423477,
+			"friends_count": 10,
+			"listed_count": 1805,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2023,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1601219157",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 822,
+		"favorite_count": 1677,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Golden Child 2nd Single Album\n[Pump It Up] Concept Photo (A ver.)\n\n❤️ Title : Pump It Up\n💛 2020.10.07 6PM RELEASE\n🤍 #최보민 #Y #이장준\n\n#GoldenChild #골든차일드\n#PumpItUp https://t.co/ginIVLdR0M"
+	},
+	{
+		"created_at": "Sun Sep 27 15:29:34 +0000 2020",
+		"id": 1310232999963754500,
+		"id_str": "1310240169845456896",
+		"full_text": "Golden Child 2nd Single Album\n[Pump It Up] Concept Photo (A ver.)\n\n❤️ Title : Pump It Up\n💛 2020.10.07 6PM RELEASE\n🤍 #김지범 #봉재현 #김동현\n\n#GoldenChild #골든차일드\n#PumpItUp https://t.co/HkoaJTqZ8p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김지범",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "봉재현",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "김동현",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						132,
+						144
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "PumpItUp",
+					"indices": [
+						152,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1310224032155885600,
+					"id_str": "1310224032155885569",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei7Z0LzU4AE_6MT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei7Z0LzU4AE_6MT.jpg",
+					"url": "https://t.co/HkoaJTqZ8p",
+					"display_url": "pic.twitter.com/HkoaJTqZ8p",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1310232999963754497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1415,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1310224032155885600,
+					"id_str": "1310224032155885569",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei7Z0LzU4AE_6MT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei7Z0LzU4AE_6MT.jpg",
+					"url": "https://t.co/HkoaJTqZ8p",
+					"display_url": "pic.twitter.com/HkoaJTqZ8p",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1310232999963754497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1415,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1310224056583561200,
+					"id_str": "1310224056583561217",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei7Z1mzVoAEXm72.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei7Z1mzVoAEXm72.jpg",
+					"url": "https://t.co/HkoaJTqZ8p",
+					"display_url": "pic.twitter.com/HkoaJTqZ8p",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1310232999963754497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1415,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1310224075520794600,
+					"id_str": "1310224075520794624",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei7Z2tWU4AAazjv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei7Z2tWU4AAazjv.jpg",
+					"url": "https://t.co/HkoaJTqZ8p",
+					"display_url": "pic.twitter.com/HkoaJTqZ8p",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1310232999963754497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1415,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 423477,
+			"friends_count": 10,
+			"listed_count": 1805,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2023,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1601219157",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 771,
+		"favorite_count": 1610,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Golden Child 2nd Single Album\n[Pump It Up] Concept Photo (A ver.)\n\n❤️ Title : Pump It Up\n💛 2020.10.07 6PM RELEASE\n🤍 #김지범 #봉재현 #김동현\n\n#GoldenChild #골든차일드\n#PumpItUp https://t.co/HkoaJTqZ8p"
+	},
+	{
 		"created_at": "Sun Sep 27 10:11:17 +0000 2020",
 		"id": 1310157236786913300,
 		"id_str": "1310160071435997185",
