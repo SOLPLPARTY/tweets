@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 28 04:29:25 +0000 2020",
+		"id": 1310430583651102700,
+		"id_str": "1310436425574297600",
+		"full_text": "🍄빌리카터 [Don't Push Me] 머천다이즈 공개🍄\n빌리카터 멤버들이 손수 DIY 염색한 타이다이 티셔츠2 종과 천가방 1종을 공개합니다. 머천다이즈는 10월9일 발매공연에서 첫 판매합니다!\n\n[빌리카터 2집 [Don't Push Me] 발매 공연]\n2020.10.9(금) 19:00\n벨로주 홍대\n예매 : https://t.co/4D6uEPk64z https://t.co/udm9m24zj4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4D6uEPk64z",
+					"expanded_url": "https://booking.naver.com/booking/12/bizes/396582",
+					"display_url": "booking.naver.com/booking/12/biz…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1310430509365780500,
+					"id_str": "1310430509365780480",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei-VmvWU4AA1V8u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei-VmvWU4AA1V8u.jpg",
+					"url": "https://t.co/udm9m24zj4",
+					"display_url": "pic.twitter.com/udm9m24zj4",
+					"expanded_url": "https://twitter.com/electric_muse/status/1310430583651102720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1310430509365780500,
+					"id_str": "1310430509365780480",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei-VmvWU4AA1V8u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei-VmvWU4AA1V8u.jpg",
+					"url": "https://t.co/udm9m24zj4",
+					"display_url": "pic.twitter.com/udm9m24zj4",
+					"expanded_url": "https://twitter.com/electric_muse/status/1310430583651102720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1310430570657190000,
+					"id_str": "1310430570657189889",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei-VqTrVkAEATVI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei-VqTrVkAEATVI.jpg",
+					"url": "https://t.co/udm9m24zj4",
+					"display_url": "pic.twitter.com/udm9m24zj4",
+					"expanded_url": "https://twitter.com/electric_muse/status/1310430583651102720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1697,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3392,
+			"friends_count": 1303,
+			"listed_count": 109,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 4889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267787772711985153/NA7yMLTS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267787772711985153/NA7yMLTS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🍄빌리카터 [Don't Push Me] 머천다이즈 공개🍄\n빌리카터 멤버들이 손수 DIY 염색한 타이다이 티셔츠2 종과 천가방 1종을 공개합니다. 머천다이즈는 10월9일 발매공연에서 첫 판매합니다!\n\n[빌리카터 2집 [Don't Push Me] 발매 공연]\n2020.10.9(금) 19:00\n벨로주 홍대\n예매 : https://t.co/4D6uEPk64z https://t.co/udm9m24zj4"
+	},
+	{
 		"created_at": "Mon Sep 28 03:49:21 +0000 2020",
 		"id": 1310426342178132000,
 		"id_str": "1310426342178131968",
