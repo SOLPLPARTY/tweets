@@ -1,6 +1,986 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 29 03:50:22 +0000 2020",
+		"id": 1310788989339807700,
+		"id_str": "1310788989339807745",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n9월 29일 | 스위트피, 달곰, 영-서울, 터닝테이블\nhttps://t.co/uB095rUyyS\n#블로그 #유통사 #인디음악 #인디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "유통사",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						96,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uB095rUyyS",
+					"expanded_url": "https://bit.ly/3kPqlP4",
+					"display_url": "bit.ly/3kPqlP4",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 236,
+			"friends_count": 383,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n9월 29일 | 스위트피, 달곰, 영-서울, 터닝테이블\nhttps://t.co/uB095rUyyS\n#블로그 #유통사 #인디음악 #인디"
+	},
+	{
+		"created_at": "Tue Sep 29 03:29:45 +0000 2020",
+		"id": 1310780767920767000,
+		"id_str": "1310783799727456259",
+		"full_text": "iScreaM Vol.5 : Criminal (Remixes)\n\n🎧Listen now on your favorite platform\n👉🏻https://t.co/6KUeGLnLJE\n\n#태민 #TAEMIN\n#샤이니 #SHINee \n#Criminal\n#Remix\n#Minit \n#SUMIN \n#iScreaM\n#ScreaMRecords\n#SMTOWN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태민",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						105,
+						112
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "Criminal",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"text": "Remix",
+					"indices": [
+						137,
+						143
+					]
+				},
+				{
+					"text": "Minit",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "SUMIN",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						160,
+						168
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						169,
+						183
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						184,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6KUeGLnLJE",
+					"expanded_url": "https://smarturl.it/iScream_TAEMIN",
+					"display_url": "smarturl.it/iScream_TAEMIN",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8386293,
+			"friends_count": 52,
+			"listed_count": 8239,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1306,
+		"favorite_count": 4556,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "iScreaM Vol.5 : Criminal (Remixes)\n\n🎧Listen now on your favorite platform\n👉🏻https://t.co/6KUeGLnLJE\n\n#태민 #TAEMIN\n#샤이니 #SHINee \n#Criminal\n#Remix\n#Minit \n#SUMIN \n#iScreaM\n#ScreaMRecords\n#SMTOWN"
+	},
+	{
+		"created_at": "Tue Sep 29 03:29:38 +0000 2020",
+		"id": 1310777195531387000,
+		"id_str": "1310783769796845570",
+		"full_text": "iScreaM Vol.5 : Criminal (Remixes)\n\n🎧Melon: https://t.co/LhGrP43ZAA\n🎧FLO: https://t.co/nLFjjofFBh\n🎧genie: https://t.co/kS4ps4mhEb\n🎧NAVER MUSIC: https://t.co/Ssd6v8NlxS\n\n#태민 #TAEMIN\n#샤이니 #SHINee \n#Criminal\n#Remix\n#Minit \n#SUMIN \n#iScreaM\n#ScreaMRecords\n#SMTOWN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태민",
+					"indices": [
+						169,
+						172
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						173,
+						180
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						181,
+						185
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						186,
+						193
+					]
+				},
+				{
+					"text": "Criminal",
+					"indices": [
+						195,
+						204
+					]
+				},
+				{
+					"text": "Remix",
+					"indices": [
+						205,
+						211
+					]
+				},
+				{
+					"text": "Minit",
+					"indices": [
+						212,
+						218
+					]
+				},
+				{
+					"text": "SUMIN",
+					"indices": [
+						220,
+						226
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						228,
+						236
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						237,
+						251
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						252,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LhGrP43ZAA",
+					"expanded_url": "https://www.melon.com/album/detail.htm?albumId=10497101",
+					"display_url": "melon.com/album/detail.h…",
+					"indices": [
+						44,
+						67
+					]
+				},
+				{
+					"url": "https://t.co/nLFjjofFBh",
+					"expanded_url": "http://flomuz.io/s/a.Bz6P4",
+					"display_url": "flomuz.io/s/a.Bz6P4",
+					"indices": [
+						74,
+						97
+					]
+				},
+				{
+					"url": "https://t.co/kS4ps4mhEb",
+					"expanded_url": "https://www.genie.co.kr/detail/albumInfo?axnm=81606491",
+					"display_url": "genie.co.kr/detail/albumIn…",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/Ssd6v8NlxS",
+					"expanded_url": "https://music.naver.com/album/index.nhn?albumId=4980544",
+					"display_url": "music.naver.com/album/index.nh…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8386293,
+			"friends_count": 52,
+			"listed_count": 8239,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1535,
+		"favorite_count": 4871,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "iScreaM Vol.5 : Criminal (Remixes)\n\n🎧Melon: https://t.co/LhGrP43ZAA\n🎧FLO: https://t.co/nLFjjofFBh\n🎧genie: https://t.co/kS4ps4mhEb\n🎧NAVER MUSIC: https://t.co/Ssd6v8NlxS\n\n#태민 #TAEMIN\n#샤이니 #SHINee \n#Criminal\n#Remix\n#Minit \n#SUMIN \n#iScreaM\n#ScreaMRecords\n#SMTOWN"
+	},
+	{
+		"created_at": "Tue Sep 29 03:29:36 +0000 2020",
+		"id": 1310776463939911700,
+		"id_str": "1310783760783364097",
+		"full_text": "Golden Child 2nd Single Album\n[Pump It Up] Concept Trailer (B ver.)\n\n❤ Title : Pump It Up\n💛 2020.10.07 6PM RELEASE\n\nhttps://t.co/xNDNE6VQz7\nhttps://t.co/akif5tt2no\n\n#GoldenChild #골든차일드\n#PumpItUp https://t.co/fLXAtvZ4bH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoldenChild",
+					"indices": [
+						165,
+						177
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						178,
+						184
+					]
+				},
+				{
+					"text": "PumpItUp",
+					"indices": [
+						185,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xNDNE6VQz7",
+					"expanded_url": "http://youtu.be/XZXkf_YO3Q4",
+					"display_url": "youtu.be/XZXkf_YO3Q4",
+					"indices": [
+						116,
+						139
+					]
+				},
+				{
+					"url": "https://t.co/akif5tt2no",
+					"expanded_url": "http://vlive.tv/video/215356",
+					"display_url": "vlive.tv/video/215356",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1310767123501736000,
+					"id_str": "1310767123501735937",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EjDHwQuU4AEQ4l0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjDHwQuU4AEQ4l0.jpg",
+					"url": "https://t.co/fLXAtvZ4bH",
+					"display_url": "pic.twitter.com/fLXAtvZ4bH",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1310776463939911680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1310767123501736000,
+					"id_str": "1310767123501735937",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EjDHwQuU4AEQ4l0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjDHwQuU4AEQ4l0.jpg",
+					"url": "https://t.co/fLXAtvZ4bH",
+					"display_url": "pic.twitter.com/fLXAtvZ4bH",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1310776463939911680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 423433,
+			"friends_count": 10,
+			"listed_count": 1803,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2029,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1601219157",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 458,
+		"favorite_count": 1038,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Golden Child 2nd Single Album\n[Pump It Up] Concept Trailer (B ver.)\n\n❤ Title : Pump It Up\n💛 2020.10.07 6PM RELEASE\n\nhttps://t.co/xNDNE6VQz7\nhttps://t.co/akif5tt2no\n\n#GoldenChild #골든차일드\n#PumpItUp https://t.co/fLXAtvZ4bH"
+	},
+	{
+		"created_at": "Tue Sep 29 03:29:31 +0000 2020",
+		"id": 1310776312567480300,
+		"id_str": "1310783739266506754",
+		"full_text": "#스위트피 [거절하지 못할 제안 (LP Ver.)]\n\n기존에 시디로 발매되었던 앨범을 LP의 포맷에 맞추는 작업을 거치며 자연스럽게 아날로그화한 버전들. 특별히 LP의 D면에는 라이브 트랙들이 보너스로 제공되고 있다.\n\n✚ 앨범 자세히 보기: https://t.co/Mzh3cdjazb https://t.co/KUWz9ByYg7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스위트피",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mzh3cdjazb",
+					"expanded_url": "https://bit.ly/336iarC",
+					"display_url": "bit.ly/336iarC",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1310395277988130800,
+					"id_str": "1310395277988130817",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei91kAPU8AEpK2f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei91kAPU8AEpK2f.jpg",
+					"url": "https://t.co/KUWz9ByYg7",
+					"display_url": "pic.twitter.com/KUWz9ByYg7",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1310776312567480327/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1310395277988130800,
+					"id_str": "1310395277988130817",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei91kAPU8AEpK2f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei91kAPU8AEpK2f.jpg",
+					"url": "https://t.co/KUWz9ByYg7",
+					"display_url": "pic.twitter.com/KUWz9ByYg7",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1310776312567480327/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9514,
+			"friends_count": 2891,
+			"listed_count": 251,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 954,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10403,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1599028531",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#스위트피 [거절하지 못할 제안 (LP Ver.)]\n\n기존에 시디로 발매되었던 앨범을 LP의 포맷에 맞추는 작업을 거치며 자연스럽게 아날로그화한 버전들. 특별히 LP의 D면에는 라이브 트랙들이 보너스로 제공되고 있다.\n\n✚ 앨범 자세히 보기: https://t.co/Mzh3cdjazb https://t.co/KUWz9ByYg7"
+	},
+	{
 		"created_at": "Tue Sep 29 03:02:38 +0000 2020",
 		"id": 1310776973506023400,
 		"id_str": "1310776973506023428",
