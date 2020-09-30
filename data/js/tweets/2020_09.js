@@ -1,6 +1,866 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 30 03:51:05 +0000 2020",
+		"id": 1311151554955706400,
+		"id_str": "1311151554955706372",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n9월 30일 | DUSKY80\nhttps://t.co/s7DbCBV5Pb\n#블로그 #유통사 #인디음악 #인디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "유통사",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						82,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s7DbCBV5Pb",
+					"expanded_url": "https://bit.ly/34gWp86",
+					"display_url": "bit.ly/34gWp86",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 236,
+			"friends_count": 382,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n9월 30일 | DUSKY80\nhttps://t.co/s7DbCBV5Pb\n#블로그 #유통사 #인디음악 #인디"
+	},
+	{
+		"created_at": "Wed Sep 30 03:29:37 +0000 2020",
+		"id": 1311138856486359000,
+		"id_str": "1311146153526820870",
+		"full_text": "Golden Child 2nd Single Album\n[Pump It Up] Concept Trailer (C ver.)\n\n❤ Title : Pump It Up\n💛 2020.10.07 6PM RELEASE\n\nhttps://t.co/9J42tNokyZ\nhttps://t.co/fSbugxHO3c\n\n#GoldenChild #골든차일드\n#PumpItUp https://t.co/C1qqvooCZc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoldenChild",
+					"indices": [
+						165,
+						177
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						178,
+						184
+					]
+				},
+				{
+					"text": "PumpItUp",
+					"indices": [
+						185,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9J42tNokyZ",
+					"expanded_url": "http://youtu.be/jDfX8YpjNsg",
+					"display_url": "youtu.be/jDfX8YpjNsg",
+					"indices": [
+						116,
+						139
+					]
+				},
+				{
+					"url": "https://t.co/fSbugxHO3c",
+					"expanded_url": "http://vlive.tv/video/215500",
+					"display_url": "vlive.tv/video/215500",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1311132963979972600,
+					"id_str": "1311132963979972609",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EjIUe-tU0AElvjN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjIUe-tU0AElvjN.jpg",
+					"url": "https://t.co/C1qqvooCZc",
+					"display_url": "pic.twitter.com/C1qqvooCZc",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1311138856486359041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311132963979972600,
+					"id_str": "1311132963979972609",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EjIUe-tU0AElvjN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjIUe-tU0AElvjN.jpg",
+					"url": "https://t.co/C1qqvooCZc",
+					"display_url": "pic.twitter.com/C1qqvooCZc",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1311138856486359041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 423405,
+			"friends_count": 10,
+			"listed_count": 1801,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1601219157",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 448,
+		"favorite_count": 989,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Golden Child 2nd Single Album\n[Pump It Up] Concept Trailer (C ver.)\n\n❤ Title : Pump It Up\n💛 2020.10.07 6PM RELEASE\n\nhttps://t.co/9J42tNokyZ\nhttps://t.co/fSbugxHO3c\n\n#GoldenChild #골든차일드\n#PumpItUp https://t.co/C1qqvooCZc"
+	},
+	{
+		"created_at": "Wed Sep 30 03:29:29 +0000 2020",
+		"id": 1311138735887507500,
+		"id_str": "1311146119372705792",
+		"full_text": "김동률 @dongryulkim\n라이브 앨범, 𝘊𝘋 𝘗𝘙𝘌-𝘖𝘙𝘋𝘌𝘙 💿\n\n- 예스24 https://t.co/QHCegTuU8M\n- 알라딘 https://t.co/h8kARWQPQ0\n- 신나라, 핫트랙스, 인터파크 등\n\n[KIMDONGRYUL LIVE 2019 오래된 노래]\n2020. 09. 30. 6PM 발매\n\n#김동률 #KIMDONGRYUL #라이브앨범 #오래된노래 https://t.co/ZHH67HPKNi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김동률",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "KIMDONGRYUL",
+					"indices": [
+						181,
+						193
+					]
+				},
+				{
+					"text": "라이브앨범",
+					"indices": [
+						194,
+						200
+					]
+				},
+				{
+					"text": "오래된노래",
+					"indices": [
+						201,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dongryulkim",
+					"name": "김동률 KIM DONGRYUL",
+					"id": 122322275,
+					"id_str": "122322275",
+					"indices": [
+						4,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QHCegTuU8M",
+					"expanded_url": "http://bit.ly/36iAzUj",
+					"display_url": "bit.ly/36iAzUj",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/h8kARWQPQ0",
+					"expanded_url": "http://bit.ly/3kWO2VM",
+					"display_url": "bit.ly/3kWO2VM",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1311138731479326700,
+					"id_str": "1311138731479326728",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EjIZusUU4AglQVC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjIZusUU4AglQVC.jpg",
+					"url": "https://t.co/ZHH67HPKNi",
+					"display_url": "pic.twitter.com/ZHH67HPKNi",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1311138735887507456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 437,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1316,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 771,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311138731479326700,
+					"id_str": "1311138731479326728",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EjIZusUU4AglQVC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjIZusUU4AglQVC.jpg",
+					"url": "https://t.co/ZHH67HPKNi",
+					"display_url": "pic.twitter.com/ZHH67HPKNi",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1311138735887507456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 437,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1316,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 771,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언 https://t.co/SM5R7KFVIr",
+			"url": "https://t.co/eSVSBHrncV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSVSBHrncV",
+							"expanded_url": "http://www.instagram.com/musicfarmkorea",
+							"display_url": "instagram.com/musicfarmkorea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/SM5R7KFVIr",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								17,
+								40
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9175,
+			"friends_count": 5,
+			"listed_count": 111,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1357424393",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김동률 @dongryulkim\n라이브 앨범, 𝘊𝘋 𝘗𝘙𝘌-𝘖𝘙𝘋𝘌𝘙 💿\n\n- 예스24 https://t.co/QHCegTuU8M\n- 알라딘 https://t.co/h8kARWQPQ0\n- 신나라, 핫트랙스, 인터파크 등\n\n[KIMDONGRYUL LIVE 2019 오래된 노래]\n2020. 09. 30. 6PM 발매\n\n#김동률 #KIMDONGRYUL #라이브앨범 #오래된노래 https://t.co/ZHH67HPKNi"
+	},
+	{
+		"created_at": "Wed Sep 30 03:29:25 +0000 2020",
+		"id": 1311138704757600300,
+		"id_str": "1311146102096310273",
+		"full_text": "[#알림장] 🔔 미스틱액터스가 전하는 추석인사 Ver.1🧡\n\n띵동💌 미스틱스토리 배우들의 🌝추석인사 도착🎈유튜브를 통해 확인해주세요!\n\n🎁 https://t.co/fCRz8brBKj\n\n#황보름별 #장원형 #이주연 #노수산나 #태항호 #김성은 https://t.co/sc8KQGB02u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "알림장",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "황보름별",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "장원형",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "이주연",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "노수산나",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "태항호",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "김성은",
+					"indices": [
+						130,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fCRz8brBKj",
+					"expanded_url": "https://youtu.be/6v1mu292wPI",
+					"display_url": "youtu.be/6v1mu292wPI",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1311116814626111500,
+					"id_str": "1311116814626111490",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EjIFy9rUwAI73V-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjIFy9rUwAI73V-.jpg",
+					"url": "https://t.co/sc8KQGB02u",
+					"display_url": "pic.twitter.com/sc8KQGB02u",
+					"expanded_url": "https://twitter.com/themysticstory/status/1311138704757600256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311116814626111500,
+					"id_str": "1311116814626111490",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EjIFy9rUwAI73V-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjIFy9rUwAI73V-.jpg",
+					"url": "https://t.co/sc8KQGB02u",
+					"display_url": "pic.twitter.com/sc8KQGB02u",
+					"expanded_url": "https://twitter.com/themysticstory/status/1311138704757600256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19892,
+			"friends_count": 18,
+			"listed_count": 230,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5343,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#알림장] 🔔 미스틱액터스가 전하는 추석인사 Ver.1🧡\n\n띵동💌 미스틱스토리 배우들의 🌝추석인사 도착🎈유튜브를 통해 확인해주세요!\n\n🎁 https://t.co/fCRz8brBKj\n\n#황보름별 #장원형 #이주연 #노수산나 #태항호 #김성은 https://t.co/sc8KQGB02u"
+	},
+	{
 		"created_at": "Wed Sep 30 03:13:23 +0000 2020",
 		"id": 1311142067813445600,
 		"id_str": "1311142067813445633",
