@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 30 09:29:31 +0000 2020",
+		"id": 1311232223094292500,
+		"id_str": "1311236724689907713",
+		"full_text": "[우효 OOHYO]\n\nD-8\n[silence] EP\n2020.10.08 6PM (KST)\n\nTrack 3. ‘New Shoes’\n⠀⠀\nI am a child crying in the shower\nLooking at the bruises on her feet\nNew shoes she bought\nDon’t fit her at all, at all\n\nTrack List\n1. Quiet Night\n2. 2020\n3. New Shoes\n4. Enough https://t.co/XdHkk2lPfo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1311232213933932500,
+					"id_str": "1311232213933932544",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/EjJuwFmUwAAyhxj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjJuwFmUwAAyhxj.jpg",
+					"url": "https://t.co/XdHkk2lPfo",
+					"display_url": "pic.twitter.com/XdHkk2lPfo",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1311232223094292480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 1104,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 1104,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311232213933932500,
+					"id_str": "1311232213933932544",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/EjJuwFmUwAAyhxj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjJuwFmUwAAyhxj.jpg",
+					"url": "https://t.co/XdHkk2lPfo",
+					"display_url": "pic.twitter.com/XdHkk2lPfo",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1311232223094292480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 1104,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 1104,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 우효/윤현상/유라/크래커/로지/섞김/아일/에버루아",
+			"url": "https://t.co/SedMym1vHh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SedMym1vHh",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 691,
+			"friends_count": 4,
+			"listed_count": 16,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[우효 OOHYO]\n\nD-8\n[silence] EP\n2020.10.08 6PM (KST)\n\nTrack 3. ‘New Shoes’\n⠀⠀\nI am a child crying in the shower\nLooking at the bruises on her feet\nNew shoes she bought\nDon’t fit her at all, at all\n\nTrack List\n1. Quiet Night\n2. 2020\n3. New Shoes\n4. Enough https://t.co/XdHkk2lPfo"
+	},
+	{
 		"created_at": "Wed Sep 30 09:11:22 +0000 2020",
 		"id": 1311228597785358300,
 		"id_str": "1311232155897540610",
