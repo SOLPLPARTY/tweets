@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 01 15:11:17 +0000 2020",
+		"id": 1311672841180385300,
+		"id_str": "1311685121767092226",
+		"full_text": "클럽FF 이번주 금토 공연 포스터! \n\n10/2 금  8pm  앤드오어, 구스다운,틸더,배드램,러블레스,더 윌리엄즈\n\n10/3 토  1부 7pm 오프이, PQ Time, 노준용 밴드, 차세대\n\n10/3 토  2부  10pm  위닝샷, 데디오레디오, 메리헤이데이, 왓에버댓민즈 https://t.co/mzbexBPImx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1311672827553017900,
+					"id_str": "1311672827553017857",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EjP_fLPUcAEfkQ2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjP_fLPUcAEfkQ2.jpg",
+					"url": "https://t.co/mzbexBPImx",
+					"display_url": "pic.twitter.com/mzbexBPImx",
+					"expanded_url": "https://twitter.com/clubFF_/status/1311672841180385282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311672827553017900,
+					"id_str": "1311672827553017857",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EjP_fLPUcAEfkQ2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjP_fLPUcAEfkQ2.jpg",
+					"url": "https://t.co/mzbexBPImx",
+					"display_url": "pic.twitter.com/mzbexBPImx",
+					"expanded_url": "https://twitter.com/clubFF_/status/1311672841180385282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1311672827561480200,
+					"id_str": "1311672827561480192",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EjP_fLRVkAACvRb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjP_fLRVkAACvRb.jpg",
+					"url": "https://t.co/mzbexBPImx",
+					"display_url": "pic.twitter.com/mzbexBPImx",
+					"expanded_url": "https://twitter.com/clubFF_/status/1311672841180385282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1311672827557236700,
+					"id_str": "1311672827557236736",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EjP_fLQU0AA3jAB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjP_fLQU0AA3jAB.jpg",
+					"url": "https://t.co/mzbexBPImx",
+					"display_url": "pic.twitter.com/mzbexBPImx",
+					"expanded_url": "https://twitter.com/clubFF_/status/1311672841180385282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6323,
+			"friends_count": 7,
+			"listed_count": 79,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3752,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "클럽FF 이번주 금토 공연 포스터! \n\n10/2 금  8pm  앤드오어, 구스다운,틸더,배드램,러블레스,더 윌리엄즈\n\n10/3 토  1부 7pm 오프이, PQ Time, 노준용 밴드, 차세대\n\n10/3 토  2부  10pm  위닝샷, 데디오레디오, 메리헤이데이, 왓에버댓민즈 https://t.co/mzbexBPImx"
+	},
+	{
 		"created_at": "Thu Oct 01 10:46:26 +0000 2020",
 		"id": 1311618469755064300,
 		"id_str": "1311618469755064321",
