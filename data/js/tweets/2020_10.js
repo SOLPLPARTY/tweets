@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 02 04:11:17 +0000 2020",
+		"id": 1311875616510144500,
+		"id_str": "1311881415211069442",
+		"full_text": "&lt;109 단독 콘서트&gt;\n⠀\n· 일시 : 2020년 11월 8일 (일) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : 109\n· 예매 : 멜론티켓 2020년 10월 9일 (금) 오후 8시 예매오픈\n⠀\n#109 #일공구 #단독콘서트\n#롤링홀 #ROLLINGHALL\n#홍대 #공연 #인디 #멜론티켓 https://t.co/1ZmDXzPg07",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "일공구",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						138,
+						150
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						151,
+						154
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						155,
+						158
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						159,
+						162
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						163,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1311875603545550800,
+					"id_str": "1311875603545550849",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EjS36SrVcAELPOZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjS36SrVcAELPOZ.jpg",
+					"url": "https://t.co/1ZmDXzPg07",
+					"display_url": "pic.twitter.com/1ZmDXzPg07",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1311875616510144515/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311875603545550800,
+					"id_str": "1311875603545550849",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EjS36SrVcAELPOZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjS36SrVcAELPOZ.jpg",
+					"url": "https://t.co/1ZmDXzPg07",
+					"display_url": "pic.twitter.com/1ZmDXzPg07",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1311875616510144515/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/4e0ZekwoYX",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4e0ZekwoYX",
+							"expanded_url": "http://bitly.kr/LZ7SBbWTTTr",
+							"display_url": "bitly.kr/LZ7SBbWTTTr",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 26,
+			"friends_count": 3,
+			"listed_count": 1,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;109 단독 콘서트&gt;\n⠀\n· 일시 : 2020년 11월 8일 (일) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : 109\n· 예매 : 멜론티켓 2020년 10월 9일 (금) 오후 8시 예매오픈\n⠀\n#109 #일공구 #단독콘서트\n#롤링홀 #ROLLINGHALL\n#홍대 #공연 #인디 #멜론티켓 https://t.co/1ZmDXzPg07"
+	},
+	{
 		"created_at": "Fri Oct 02 03:01:07 +0000 2020",
 		"id": 1311863757258326000,
 		"id_str": "1311863757258326020",
