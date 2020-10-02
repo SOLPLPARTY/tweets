@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 02 12:11:17 +0000 2020",
+		"id": 1311995671541506000,
+		"id_str": "1312002210335686656",
+		"full_text": "#깨닫기도_전에_이미_공연은_시작됐습니다\n\n2020년10월3일(토) 공연 안내\n2관 연극 #이퀄 15:00, 19:00\n3관 연극 #오만과편견 14:00, 18:00\n\n여유있는 이동시간을 계획 해주시기 바랍니다! \n(가급적 지하철 이용을 권장합니다) https://t.co/1oSbj1ODHq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "깨닫기도_전에_이미_공연은_시작됐습니다",
+					"indices": [
+						0,
+						22
+					]
+				},
+				{
+					"text": "이퀄",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "오만과편견",
+					"indices": [
+						73,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1oSbj1ODHq",
+					"expanded_url": "https://twitter.com/seoul_metro/status/1311455791761682432",
+					"display_url": "twitter.com/seoul_metro/st…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1104695434893652000,
+			"id_str": "1104695434893651968",
+			"name": "YES24 STAGE_예스24 스테이지",
+			"screen_name": "yes24stage",
+			"location": "대한민국 서울 종로구 대학로12길, 21",
+			"description": "예스24(주)가 운영하는 공연장 운영법인인 예스24라이브홀(주)의 #대학로 공연장 #예스24스테이지 ( #YES24STAGE ) 의 공식 트위터입니다.",
+			"url": "https://t.co/gpVU45TxjE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gpVU45TxjE",
+							"expanded_url": "https://www.yes24stage.com/",
+							"display_url": "yes24stage.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4398,
+			"friends_count": 33,
+			"listed_count": 12,
+			"created_at": "Sun Mar 10 10:48:10 +0000 2019",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 280,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1104695434893651968/1585722791",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1311455791761682400,
+		"quoted_status_id_str": "1311455791761682432",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1oSbj1ODHq",
+			"expanded": "https://twitter.com/seoul_metro/status/1311455791761682432",
+			"display": "twitter.com/seoul_metro/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 01 00:00:01 +0000 2020",
+			"id": 1311455791761682400,
+			"id_str": "1311455791761682432",
+			"full_text": "개천절 도심 집회로 승객 안전 및 코로나19 재확산 우려가 있어, 정부 및 서울시 요청에 따라 광화문역, 경복궁역, 시청역(1, 2호선), 종각역, 안국역 무정차 통과가 실시될 수 있습니다. 코로나19로부터 시민의 건강과 안전을 지키기 위한 조치니 양해 부탁드립니다.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				149
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 64331888,
+				"id_str": "64331888",
+				"name": "서울교통공사 SeoulMetro",
+				"screen_name": "seoul_metro",
+				"location": "서울",
+				"description": "서울 지하철 1~8호선을 운영하고 있는 서울교통공사(SeoulMetro)의 공식 트위터입니다.   ※ 민원 관련 문의는 서울교통공사 콜센터에서 24시간 접수하고 있습니다.(☏1577-1234 전화/문자/사진/동영상 가능)",
+				"url": "http://t.co/uaSEsomuiG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/uaSEsomuiG",
+								"expanded_url": "http://www.seoulmetro.co.kr",
+								"display_url": "seoulmetro.co.kr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17676,
+				"friends_count": 99,
+				"listed_count": 353,
+				"created_at": "Mon Aug 10 04:03:39 +0000 2009",
+				"favourites_count": 290,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 8968,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1154212196609429505/D8IEOFvD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154212196609429505/D8IEOFvD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/64331888/1507709405",
+				"profile_link_color": "139BF5",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F7D4F7",
+				"profile_text_color": "15066E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 970,
+			"favorite_count": 319,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 88,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#깨닫기도_전에_이미_공연은_시작됐습니다\n\n2020년10월3일(토) 공연 안내\n2관 연극 #이퀄 15:00, 19:00\n3관 연극 #오만과편견 14:00, 18:00\n\n여유있는 이동시간을 계획 해주시기 바랍니다! \n(가급적 지하철 이용을 권장합니다) https://t.co/1oSbj1ODHq"
+	},
+	{
 		"created_at": "Fri Oct 02 10:56:07 +0000 2020",
 		"id": 1311982528043966500,
 		"id_str": "1311983295274446848",
