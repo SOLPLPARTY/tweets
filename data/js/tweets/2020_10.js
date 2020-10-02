@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 02 06:40:15 +0000 2020",
+		"id": 1311887607492640800,
+		"id_str": "1311918904235581441",
+		"full_text": "✨🌌 “Shine, Dream, Smile” 🌌✨\n\n.@BTS_twt shines in this performance of “Mikrokosmos” ✨\n\n▶️ https://t.co/GW0MJ3pNco \n\n#BTSWEEK #BTSonFallon_D4 https://t.co/r1efPl3rE8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BTSWEEK",
+					"indices": [
+						115,
+						123
+					]
+				},
+				{
+					"text": "BTSonFallon_D4",
+					"indices": [
+						124,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BTS_twt",
+					"name": "방탄소년단",
+					"id": 335141638,
+					"id_str": "335141638",
+					"indices": [
+						30,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GW0MJ3pNco",
+					"expanded_url": "https://youtu.be/oYpUZjxJOVg",
+					"display_url": "youtu.be/oYpUZjxJOVg",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1311869740034424800,
+					"id_str": "1311869740034424833",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EjSzcfwXkAAkQ7I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjSzcfwXkAAkQ7I.jpg",
+					"url": "https://t.co/r1efPl3rE8",
+					"display_url": "pic.twitter.com/r1efPl3rE8",
+					"expanded_url": "https://twitter.com/FallonTonight/status/1311887607492640768/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311869740034424800,
+					"id_str": "1311869740034424833",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/EjSzcfwXkAAkQ7I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjSzcfwXkAAkQ7I.jpg",
+					"url": "https://t.co/r1efPl3rE8",
+					"display_url": "pic.twitter.com/r1efPl3rE8",
+					"expanded_url": "https://twitter.com/FallonTonight/status/1311887607492640768/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26226,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1311869740034424833/vid/640x360/nxqpWD8-KpX4It80.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1311869740034424833/vid/480x270/ZsNdyAN3pWTQbNmh.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1311869740034424833/pl/Yuoo-bDlal86Http.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1311869740034424833/vid/1280x720/is5_ktYxLR5j1fkm.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/oYpUZjxJOVg"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19777398,
+			"id_str": "19777398",
+			"name": "The Tonight Show",
+			"screen_name": "FallonTonight",
+			"location": "Back in 30 Rock!",
+			"description": "The Tonight Show starring @JimmyFallon\nWeeknights 11:35/10:35c on @NBC\nTweet along with us using #FallonTonight",
+			"url": "http://t.co/fgp5RYqr3T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/fgp5RYqr3T",
+							"expanded_url": "http://www.tonightshow.com",
+							"display_url": "tonightshow.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4275016,
+			"friends_count": 21294,
+			"listed_count": 9603,
+			"created_at": "Fri Jan 30 17:26:46 +0000 2009",
+			"favourites_count": 135173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 86007,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "03253E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1310700736427196417/FEHiP1V3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1310700736427196417/FEHiP1V3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19777398/1601330386",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 80501,
+		"favorite_count": 190655,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✨🌌 “Shine, Dream, Smile” 🌌✨\n\n.@BTS_twt shines in this performance of “Mikrokosmos” ✨\n\n▶️ https://t.co/GW0MJ3pNco \n\n#BTSWEEK #BTSonFallon_D4 https://t.co/r1efPl3rE8"
+	},
+	{
 		"created_at": "Fri Oct 02 04:51:05 +0000 2020",
 		"id": 1311873540816212000,
 		"id_str": "1311891430512766981",
