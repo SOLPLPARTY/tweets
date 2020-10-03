@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 03 06:29:25 +0000 2020",
+		"id": 1312275844409127000,
+		"id_str": "1312278564532899848",
+		"full_text": "내일 오후 3시-11시 남산한옥마을에서 변신술 페스티벌이 열립니다. 비대면 공연으로 네이버 TV로 실시간 방송합니다. 세이수미 오후3시, 김목인 오후10시!!!\n\nhttps://t.co/49WI1ov28N\n\n킹스턴루디스카/에이치얼랏/아도이/차세대/라쿠나/살롱드오수경/찰리정블루스밴드/실리카겔/세이수미/정우/김목인 https://t.co/oAl3qgSIro",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/49WI1ov28N",
+					"expanded_url": "https://tv.naver.com/l/56077",
+					"display_url": "tv.naver.com/l/56077",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1312275271429419000,
+					"id_str": "1312275271429419012",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EjYjaBkUcAQ-sEs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjYjaBkUcAQ-sEs.jpg",
+					"url": "https://t.co/oAl3qgSIro",
+					"display_url": "pic.twitter.com/oAl3qgSIro",
+					"expanded_url": "https://twitter.com/electric_muse/status/1312275844409126912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1001,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1001,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312275271429419000,
+					"id_str": "1312275271429419012",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EjYjaBkUcAQ-sEs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjYjaBkUcAQ-sEs.jpg",
+					"url": "https://t.co/oAl3qgSIro",
+					"display_url": "pic.twitter.com/oAl3qgSIro",
+					"expanded_url": "https://twitter.com/electric_muse/status/1312275844409126912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1001,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1001,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1312275486953803800,
+					"id_str": "1312275486953803776",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EjYjmkdVkAAvjhM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjYjmkdVkAAvjhM.jpg",
+					"url": "https://t.co/oAl3qgSIro",
+					"display_url": "pic.twitter.com/oAl3qgSIro",
+					"expanded_url": "https://twitter.com/electric_muse/status/1312275844409126912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1312275508457926700,
+					"id_str": "1312275508457926656",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EjYjn0kUcAA_uxu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjYjn0kUcAA_uxu.jpg",
+					"url": "https://t.co/oAl3qgSIro",
+					"display_url": "pic.twitter.com/oAl3qgSIro",
+					"expanded_url": "https://twitter.com/electric_muse/status/1312275844409126912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3390,
+			"friends_count": 1303,
+			"listed_count": 109,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 4900,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267787772711985153/NA7yMLTS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267787772711985153/NA7yMLTS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내일 오후 3시-11시 남산한옥마을에서 변신술 페스티벌이 열립니다. 비대면 공연으로 네이버 TV로 실시간 방송합니다. 세이수미 오후3시, 김목인 오후10시!!!\n\nhttps://t.co/49WI1ov28N\n\n킹스턴루디스카/에이치얼랏/아도이/차세대/라쿠나/살롱드오수경/찰리정블루스밴드/실리카겔/세이수미/정우/김목인 https://t.co/oAl3qgSIro"
+	},
+	{
 		"created_at": "Sat Oct 03 05:16:34 +0000 2020",
 		"id": 1312260231032901600,
 		"id_str": "1312260231032901632",
