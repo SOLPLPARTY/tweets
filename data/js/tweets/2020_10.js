@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 03 00:11:16 +0000 2020",
+		"id": 1312176374539415600,
+		"id_str": "1312183402376781825",
+		"full_text": "연휴의 아쉬움은 공연으로! 오늘내일 벨로주 망원의 두 공연. 취소표 등 소량의 티켓이 남아있습니다. \n\n10/3(토) 정수민(bass)/김오키(sax)/진수영(piano)/김형균(drum) [통감(痛感)]\n예매 : https://t.co/xmQ7Gmw4wC\n\n10/4(일) 준 스미스 Trio [Hand Carved Swing]\n예매 : https://t.co/2PQQgUKTIV https://t.co/8WLEUD2aSM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xmQ7Gmw4wC",
+					"expanded_url": "https://c11.kr/hovi",
+					"display_url": "c11.kr/hovi",
+					"indices": [
+						120,
+						143
+					]
+				},
+				{
+					"url": "https://t.co/2PQQgUKTIV",
+					"expanded_url": "https://c11.kr/hovj",
+					"display_url": "c11.kr/hovj",
+					"indices": [
+						189,
+						212
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1312176142044995600,
+					"id_str": "1312176142044995588",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/EjXJP71VoAQqN4-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjXJP71VoAQqN4-.jpg",
+					"url": "https://t.co/8WLEUD2aSM",
+					"display_url": "pic.twitter.com/8WLEUD2aSM",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1312176374539415552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312176142044995600,
+					"id_str": "1312176142044995588",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/EjXJP71VoAQqN4-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjXJP71VoAQqN4-.jpg",
+					"url": "https://t.co/8WLEUD2aSM",
+					"display_url": "pic.twitter.com/8WLEUD2aSM",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1312176374539415552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1312176142040801300,
+					"id_str": "1312176142040801281",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/EjXJP70VoAE_sBn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjXJP70VoAE_sBn.jpg",
+					"url": "https://t.co/8WLEUD2aSM",
+					"display_url": "pic.twitter.com/8WLEUD2aSM",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1312176374539415552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8744,
+			"friends_count": 145,
+			"listed_count": 136,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "연휴의 아쉬움은 공연으로! 오늘내일 벨로주 망원의 두 공연. 취소표 등 소량의 티켓이 남아있습니다. \n\n10/3(토) 정수민(bass)/김오키(sax)/진수영(piano)/김형균(drum) [통감(痛感)]\n예매 : https://t.co/xmQ7Gmw4wC\n\n10/4(일) 준 스미스 Trio [Hand Carved Swing]\n예매 : https://t.co/2PQQgUKTIV https://t.co/8WLEUD2aSM"
+	},
+	{
 		"created_at": "Fri Oct 02 20:16:37 +0000 2020",
 		"id": 1312124348581310500,
 		"id_str": "1312124348581310464",
