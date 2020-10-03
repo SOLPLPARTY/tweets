@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 03 09:29:25 +0000 2020",
+		"id": 1312316460744798200,
+		"id_str": "1312323862051381250",
+		"full_text": "야유회 (yayou hoi)\nsogumm (소금), 오혁 (OHHYUK)\n2020. 10. 05. MON. 6PM (KST)\n-\n#오혁 #두루두루아티스트컴퍼니 #소금 #AOMG https://t.co/biSon7vh3H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오혁",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "두루두루아티스트컴퍼니",
+					"indices": [
+						76,
+						88
+					]
+				},
+				{
+					"text": "소금",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "AOMG",
+					"indices": [
+						93,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1311950981194637300,
+					"id_str": "1311950981194637313",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1311950981194637313/pu/img/PBRCu_pYvf6rsltB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1311950981194637313/pu/img/PBRCu_pYvf6rsltB.jpg",
+					"url": "https://t.co/biSon7vh3H",
+					"display_url": "pic.twitter.com/biSon7vh3H",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1312316460744798208/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311950981194637300,
+					"id_str": "1311950981194637313",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1311950981194637313/pu/img/PBRCu_pYvf6rsltB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1311950981194637313/pu/img/PBRCu_pYvf6rsltB.jpg",
+					"url": "https://t.co/biSon7vh3H",
+					"display_url": "pic.twitter.com/biSon7vh3H",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1312316460744798208/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 22231,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1311950981194637313/pu/vid/640x360/oF9dNdK3LlVqSLQ0.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1311950981194637313/pu/vid/1280x720/lfugZeW4MtJ0ehjL.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1311950981194637313/pu/pl/E9c5g6glfjTPjZgp.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1311950981194637313/pu/vid/480x270/-cU18wSkuAlcvanG.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3524,
+			"friends_count": 5,
+			"listed_count": 80,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "야유회 (yayou hoi)\nsogumm (소금), 오혁 (OHHYUK)\n2020. 10. 05. MON. 6PM (KST)\n-\n#오혁 #두루두루아티스트컴퍼니 #소금 #AOMG https://t.co/biSon7vh3H"
+	},
+	{
 		"created_at": "Sat Oct 03 08:11:16 +0000 2020",
 		"id": 1312297510837219300,
 		"id_str": "1312304197992411137",
