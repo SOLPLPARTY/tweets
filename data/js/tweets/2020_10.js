@@ -1,6 +1,459 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 04 06:11:17 +0000 2020",
+		"id": 1312625998932799500,
+		"id_str": "1312636387561213952",
+		"full_text": "[추천 '실시간 스트리밍' 공연]\n\n\"Show Must Go On - Live Stream Donation Concert\" 💕\n\n첫 정규 &lt;Guacamole Pie&gt;를 발매한 브라스 몽키스와 자유로움과 즉흥을 추구하는 까데호가 10월 첫 Show Must Go On 공연의 문을 엽니다!\n\n💥아래 링크를 통해 만나보실 수 있어요!\n▶ https://t.co/yp8Srx0Gzs https://t.co/QPmtVaE2AF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yp8Srx0Gzs",
+					"expanded_url": "https://www.youtube.com/c/senggistudio",
+					"display_url": "youtube.com/c/senggistudio",
+					"indices": [
+						193,
+						216
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1312612618557771800,
+					"id_str": "1312612618557771781",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1312612618557771781/pu/img/K_pXCo4KeYiX2Kz-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1312612618557771781/pu/img/K_pXCo4KeYiX2Kz-.jpg",
+					"url": "https://t.co/QPmtVaE2AF",
+					"display_url": "pic.twitter.com/QPmtVaE2AF",
+					"expanded_url": "https://twitter.com/xindieticket/status/1312625998932799488/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312612618557771800,
+					"id_str": "1312612618557771781",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1312612618557771781/pu/img/K_pXCo4KeYiX2Kz-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1312612618557771781/pu/img/K_pXCo4KeYiX2Kz-.jpg",
+					"url": "https://t.co/QPmtVaE2AF",
+					"display_url": "pic.twitter.com/QPmtVaE2AF",
+					"expanded_url": "https://twitter.com/xindieticket/status/1312625998932799488/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 27424,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1312612618557771781/pu/vid/320x320/-TpHlpQAKs9coGCF.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1312612618557771781/pu/vid/640x640/gKXlYw5nGYObuzki.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1312612618557771781/pu/pl/sV8Dku0RFUyyzbY2.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1312612618557771781/pu/vid/480x480/jMMZShDpyGxMjuFE.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2781,
+			"friends_count": 2696,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[추천 '실시간 스트리밍' 공연]\n\n\"Show Must Go On - Live Stream Donation Concert\" 💕\n\n첫 정규 &lt;Guacamole Pie&gt;를 발매한 브라스 몽키스와 자유로움과 즉흥을 추구하는 까데호가 10월 첫 Show Must Go On 공연의 문을 엽니다!\n\n💥아래 링크를 통해 만나보실 수 있어요!\n▶ https://t.co/yp8Srx0Gzs https://t.co/QPmtVaE2AF"
+	},
+	{
+		"created_at": "Sun Oct 04 05:29:27 +0000 2020",
+		"id": 1312611136496312300,
+		"id_str": "1312625861502406656",
+		"full_text": "조금이지만 오름 굿즈들도 전시 판매 되고 있습니다. \n팝업스토어 주소.  낙산길19 (구)슈뢰딩거 현)원더러스트\n\n참여 :  #민트초록이 #29x냥초 #미몽 #오름엔터 #치카페카 #플래그 #메트루프 #원더러스트 #낙산길20 https://t.co/M9ahaXMyad",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민트초록이",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "29x냥초",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "미몽",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "오름엔터",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "치카페카",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "플래그",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "메트루프",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "원더러스트",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "낙산길20",
+					"indices": [
+						118,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1312611097430556700,
+					"id_str": "1312611097430556679",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EjdU1q6VgAcq6-z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjdU1q6VgAcq6-z.jpg",
+					"url": "https://t.co/M9ahaXMyad",
+					"display_url": "pic.twitter.com/M9ahaXMyad",
+					"expanded_url": "https://twitter.com/orm_ent/status/1312611136496312320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 868,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 926,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312611097430556700,
+					"id_str": "1312611097430556679",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EjdU1q6VgAcq6-z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjdU1q6VgAcq6-z.jpg",
+					"url": "https://t.co/M9ahaXMyad",
+					"display_url": "pic.twitter.com/M9ahaXMyad",
+					"expanded_url": "https://twitter.com/orm_ent/status/1312611136496312320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 868,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 926,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1312611131991621600,
+		"in_reply_to_status_id_str": "1312611131991621635",
+		"in_reply_to_user_id": 52109991,
+		"in_reply_to_user_id_str": "52109991",
+		"in_reply_to_screen_name": "orm_ent",
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 712,
+			"friends_count": 336,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 706,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2784,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1587958427",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "조금이지만 오름 굿즈들도 전시 판매 되고 있습니다. \n팝업스토어 주소.  낙산길19 (구)슈뢰딩거 현)원더러스트\n\n참여 :  #민트초록이 #29x냥초 #미몽 #오름엔터 #치카페카 #플래그 #메트루프 #원더러스트 #낙산길20 https://t.co/M9ahaXMyad"
+	},
+	{
 		"created_at": "Sun Oct 04 05:11:16 +0000 2020",
 		"id": 1312618223095832600,
 		"id_str": "1312621287441928194",
