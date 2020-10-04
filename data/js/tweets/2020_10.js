@@ -1,6 +1,473 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 04 08:11:30 +0000 2020",
+		"id": 1312661541951402000,
+		"id_str": "1312666641885528064",
+		"full_text": "Roadrunner @FF \n2020/10/10 (sat) 7pm Start \n#데드버튼즈 \n#구미호 \n#토크뱃츠 \n#그레이트볼스 \n#럼킥스  \n#리셋터즈 \n#어텐션24  \n\n&lt;Punk/ Rock &amp; Roll/ Reggae/ Ska &gt;\n\n마스크 필수, 발열체크, 큐알코드, 손소독후 입장 https://t.co/ce47qU0Zr3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "데드버튼즈",
+					"indices": [
+						44,
+						50
+					]
+				},
+				{
+					"text": "구미호",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "토크뱃츠",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "그레이트볼스",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"text": "럼킥스",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "리셋터즈",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "어텐션24",
+					"indices": [
+						88,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ff",
+					"name": "ff",
+					"id": 45513,
+					"id_str": "45513",
+					"indices": [
+						11,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1312661100672905200,
+					"id_str": "1312661100672905221",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EjeCUPgU8AUoT_P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjeCUPgU8AUoT_P.jpg",
+					"url": "https://t.co/ce47qU0Zr3",
+					"display_url": "pic.twitter.com/ce47qU0Zr3",
+					"expanded_url": "https://twitter.com/clubFF_/status/1312661541951401984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312661100672905200,
+					"id_str": "1312661100672905221",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EjeCUPgU8AUoT_P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjeCUPgU8AUoT_P.jpg",
+					"url": "https://t.co/ce47qU0Zr3",
+					"display_url": "pic.twitter.com/ce47qU0Zr3",
+					"expanded_url": "https://twitter.com/clubFF_/status/1312661541951401984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6321,
+			"friends_count": 7,
+			"listed_count": 79,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Roadrunner @FF \n2020/10/10 (sat) 7pm Start \n#데드버튼즈 \n#구미호 \n#토크뱃츠 \n#그레이트볼스 \n#럼킥스  \n#리셋터즈 \n#어텐션24  \n\n&lt;Punk/ Rock &amp; Roll/ Reggae/ Ska &gt;\n\n마스크 필수, 발열체크, 큐알코드, 손소독후 입장 https://t.co/ce47qU0Zr3"
+	},
+	{
+		"created_at": "Sun Oct 04 08:11:26 +0000 2020",
+		"id": 1312660889967845400,
+		"id_str": "1312666624634302464",
+		"full_text": "Rock You Like A Hurricane @FF \n2020/10/09 (fri) 9pm  Start \n(1부 공연(6-9pm) 끝나고 이어지는 2부 공연) \n\n#빈시트 @vincit_official \n#바투 @band_batu \n#abtb @bandabtb \n#크랙샷 @crackshot_official \n\n&lt;Absolute Rock Bands !!!!&gt;\n\n마스크 필수, 발열체크, 큐알코드, 손소독후 입장 https://t.co/1LmBL29YAO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "빈시트",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "바투",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "abtb",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "크랙샷",
+					"indices": [
+						148,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ff",
+					"name": "ff",
+					"id": 45513,
+					"id_str": "45513",
+					"indices": [
+						26,
+						29
+					]
+				},
+				{
+					"screen_name": "vincit_official",
+					"name": "Paweł Bojarski",
+					"id": 840135592075714600,
+					"id_str": "840135592075714560",
+					"indices": [
+						97,
+						113
+					]
+				},
+				{
+					"screen_name": "bandabtb",
+					"name": "ABTB",
+					"id": 907077146522263600,
+					"id_str": "907077146522263552",
+					"indices": [
+						137,
+						146
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1312660636069892000,
+					"id_str": "1312660636069892099",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/EjeB5MuVkAMKARk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjeB5MuVkAMKARk.jpg",
+					"url": "https://t.co/1LmBL29YAO",
+					"display_url": "pic.twitter.com/1LmBL29YAO",
+					"expanded_url": "https://twitter.com/clubFF_/status/1312660889967845376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312660636069892000,
+					"id_str": "1312660636069892099",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/EjeB5MuVkAMKARk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjeB5MuVkAMKARk.jpg",
+					"url": "https://t.co/1LmBL29YAO",
+					"display_url": "pic.twitter.com/1LmBL29YAO",
+					"expanded_url": "https://twitter.com/clubFF_/status/1312660889967845376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6321,
+			"friends_count": 7,
+			"listed_count": 79,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 559,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Rock You Like A Hurricane @FF \n2020/10/09 (fri) 9pm  Start \n(1부 공연(6-9pm) 끝나고 이어지는 2부 공연) \n\n#빈시트 @vincit_official \n#바투 @band_batu \n#abtb @bandabtb \n#크랙샷 @crackshot_official \n\n&lt;Absolute Rock Bands !!!!&gt;\n\n마스크 필수, 발열체크, 큐알코드, 손소독후 입장 https://t.co/1LmBL29YAO"
+	},
+	{
 		"created_at": "Sun Oct 04 07:11:26 +0000 2020",
 		"id": 1312643615139610600,
 		"id_str": "1312651526742081536",
