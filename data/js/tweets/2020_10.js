@@ -1,6 +1,455 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 04 15:29:29 +0000 2020",
+		"id": 1312769564669694000,
+		"id_str": "1312776865153720321",
+		"full_text": "골든차일드(Golden Child) ‘Pump It Up’\nMV Teaser #02\n\n❤ 2020.10.07 6PM RELEASE\n💛 https://t.co/OTZ9DqXbUh\n🤍 https://t.co/NhhWZF7yeD\n\n#GoldenChild #골든차일드\n#PumpItUp https://t.co/ILwsSeKDpN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoldenChild",
+					"indices": [
+						126,
+						138
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "PumpItUp",
+					"indices": [
+						146,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OTZ9DqXbUh",
+					"expanded_url": "http://youtu.be/BjwgdTNk6ZI",
+					"display_url": "youtu.be/BjwgdTNk6ZI",
+					"indices": [
+						75,
+						98
+					]
+				},
+				{
+					"url": "https://t.co/NhhWZF7yeD",
+					"expanded_url": "http://vlive.tv/video/215961",
+					"display_url": "vlive.tv/video/215961",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1312761927840362500,
+					"id_str": "1312761927840362496",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EjfeBJ-U8AAjr8P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjfeBJ-U8AAjr8P.jpg",
+					"url": "https://t.co/ILwsSeKDpN",
+					"display_url": "pic.twitter.com/ILwsSeKDpN",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1312769564669693954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312761927840362500,
+					"id_str": "1312761927840362496",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EjfeBJ-U8AAjr8P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjfeBJ-U8AAjr8P.jpg",
+					"url": "https://t.co/ILwsSeKDpN",
+					"display_url": "pic.twitter.com/ILwsSeKDpN",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1312769564669693954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 423486,
+			"friends_count": 10,
+			"listed_count": 1803,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1601219157",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 832,
+		"favorite_count": 1737,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "골든차일드(Golden Child) ‘Pump It Up’\nMV Teaser #02\n\n❤ 2020.10.07 6PM RELEASE\n💛 https://t.co/OTZ9DqXbUh\n🤍 https://t.co/NhhWZF7yeD\n\n#GoldenChild #골든차일드\n#PumpItUp https://t.co/ILwsSeKDpN"
+	},
+	{
+		"created_at": "Sun Oct 04 15:29:25 +0000 2020",
+		"id": 1312769451985571800,
+		"id_str": "1312776847516667906",
+		"full_text": "야유회 (yayou hoi)\nsogumm (소금), 오혁 (OHHYUK)\n2020. 10. 05. MON. 6PM (KST)\n-\n#오혁 #두루두루아티스트컴퍼니 #소금 #AOMG https://t.co/O0xk69OJaq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오혁",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "두루두루아티스트컴퍼니",
+					"indices": [
+						76,
+						88
+					]
+				},
+				{
+					"text": "소금",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "AOMG",
+					"indices": [
+						93,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1312251403759280000,
+					"id_str": "1312251403759280130",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1312251403759280130/pu/img/qg-wKJRwiDZHDdVe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1312251403759280130/pu/img/qg-wKJRwiDZHDdVe.jpg",
+					"url": "https://t.co/O0xk69OJaq",
+					"display_url": "pic.twitter.com/O0xk69OJaq",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1312769451985571846/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312251403759280000,
+					"id_str": "1312251403759280130",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1312251403759280130/pu/img/qg-wKJRwiDZHDdVe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1312251403759280130/pu/img/qg-wKJRwiDZHDdVe.jpg",
+					"url": "https://t.co/O0xk69OJaq",
+					"display_url": "pic.twitter.com/O0xk69OJaq",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1312769451985571846/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 23398,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1312251403759280130/pu/vid/1280x720/538UTiOuS51zAnx7.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1312251403759280130/pu/vid/640x360/4MMNzGwPqi2V7mEX.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1312251403759280130/pu/vid/480x270/3p8RFhJZeBJY6RDZ.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1312251403759280130/pu/pl/41WmliOXVou1v2o_.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3529,
+			"friends_count": 5,
+			"listed_count": 81,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "야유회 (yayou hoi)\nsogumm (소금), 오혁 (OHHYUK)\n2020. 10. 05. MON. 6PM (KST)\n-\n#오혁 #두루두루아티스트컴퍼니 #소금 #AOMG https://t.co/O0xk69OJaq"
+	},
+	{
 		"created_at": "Sun Oct 04 13:08:28 +0000 2020",
 		"id": 1312741378238173200,
 		"id_str": "1312741378238173186",
