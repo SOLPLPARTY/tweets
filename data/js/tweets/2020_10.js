@@ -1,6 +1,1393 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 05 05:03:03 +0000 2020",
+		"id": 1312981605921828900,
+		"id_str": "1312981605921828864",
+		"full_text": "#Pentaport_Rock_Festival #펜타포트락페스티벌\n2020펜타 라인업 영상-비와이\nhttps://t.co/d2eZmKMoUd\n#Pentaport #펜타포트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Pentaport_Rock_Festival",
+					"indices": [
+						0,
+						24
+					]
+				},
+				{
+					"text": "펜타포트락페스티벌",
+					"indices": [
+						25,
+						35
+					]
+				},
+				{
+					"text": "Pentaport",
+					"indices": [
+						78,
+						88
+					]
+				},
+				{
+					"text": "펜타포트",
+					"indices": [
+						89,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d2eZmKMoUd",
+					"expanded_url": "https://youtu.be/MUIEC_fZPZQ",
+					"display_url": "youtu.be/MUIEC_fZPZQ",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 235,
+			"friends_count": 382,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62640,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Pentaport_Rock_Festival #펜타포트락페스티벌\n2020펜타 라인업 영상-비와이\nhttps://t.co/d2eZmKMoUd\n#Pentaport #펜타포트"
+	},
+	{
+		"created_at": "Mon Oct 05 04:48:30 +0000 2020",
+		"id": 1312977946232139800,
+		"id_str": "1312977946232139776",
+		"full_text": "#문화가있는날\n[풀영상] 자우림 &amp; 로케이션 매니저 김태영의 \"삶의 휴식이 필요할 때\" | 문화가 있는 날 집콘\nhttps://t.co/juzAeTVAr1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문화가있는날",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/juzAeTVAr1",
+					"expanded_url": "https://youtu.be/kIZJdaMONf0",
+					"display_url": "youtu.be/kIZJdaMONf0",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 235,
+			"friends_count": 382,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62640,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#문화가있는날\n[풀영상] 자우림 &amp; 로케이션 매니저 김태영의 \"삶의 휴식이 필요할 때\" | 문화가 있는 날 집콘\nhttps://t.co/juzAeTVAr1"
+	},
+	{
+		"created_at": "Mon Oct 05 04:36:06 +0000 2020",
+		"id": 1312965739486175200,
+		"id_str": "1312974822167650304",
+		"full_text": "온라인 국민 판정단과 함께하는\n#히든싱어6 언택트 녹화🤳🏻\n\n믿고 듣는 음색깡패✨ 장범준 편\n\n오늘(월) 저녁 7시 #네이버TV\n바로 가기 👉 https://t.co/tqQ83490SF https://t.co/siI9uaPCX7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "히든싱어6",
+					"indices": [
+						17,
+						23
+					]
+				},
+				{
+					"text": "네이버TV",
+					"indices": [
+						65,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tqQ83490SF",
+					"expanded_url": "https://bit.ly/3le0UHf",
+					"display_url": "bit.ly/3le0UHf",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1312946970302967800,
+					"id_str": "1312946970302967808",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EjiGUC3VcAA0cOE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjiGUC3VcAA0cOE.jpg",
+					"url": "https://t.co/siI9uaPCX7",
+					"display_url": "pic.twitter.com/siI9uaPCX7",
+					"expanded_url": "https://twitter.com/jtbclove/status/1312965739486175232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 495,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 495,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312946970302967800,
+					"id_str": "1312946970302967808",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EjiGUC3VcAA0cOE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjiGUC3VcAA0cOE.jpg",
+					"url": "https://t.co/siI9uaPCX7",
+					"display_url": "pic.twitter.com/siI9uaPCX7",
+					"expanded_url": "https://twitter.com/jtbclove/status/1312965739486175232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 495,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 495,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 440387,
+			"friends_count": 111,
+			"listed_count": 638,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 602,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21040,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1600066891",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "온라인 국민 판정단과 함께하는\n#히든싱어6 언택트 녹화🤳🏻\n\n믿고 듣는 음색깡패✨ 장범준 편\n\n오늘(월) 저녁 7시 #네이버TV\n바로 가기 👉 https://t.co/tqQ83490SF https://t.co/siI9uaPCX7"
+	},
+	{
+		"created_at": "Mon Oct 05 04:35:44 +0000 2020",
+		"id": 1312695460797141000,
+		"id_str": "1312974731142807552",
+		"full_text": "이 페스티벌에 대한 보다 자세한 사항은\nhttps://t.co/iaEE5KKq52\n를 참고해주세요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iaEE5KKq52",
+					"expanded_url": "http://www.seoulforestjazz.com",
+					"display_url": "seoulforestjazz.com",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1312695356056957000,
+		"in_reply_to_status_id_str": "1312695356056956930",
+		"in_reply_to_user_id": 899522378576797700,
+		"in_reply_to_user_id_str": "899522378576797696",
+		"in_reply_to_screen_name": "sangji_koh",
+		"user": {
+			"id": 899522378576797700,
+			"id_str": "899522378576797696",
+			"name": "고상지 Koh Sangji",
+			"screen_name": "sangji_koh",
+			"location": "",
+			"description": "Bandoneonist. Composer",
+			"url": "https://t.co/0Fx7QWohQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0Fx7QWohQp",
+							"expanded_url": "https://youtu.be/qHECi3Rn6-M",
+							"display_url": "youtu.be/qHECi3Rn6-M",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1714,
+			"friends_count": 79,
+			"listed_count": 13,
+			"created_at": "Mon Aug 21 06:43:42 +0000 2017",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283980393641766912/aIMspZmv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283980393641766912/aIMspZmv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/899522378576797696/1594959758",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 페스티벌에 대한 보다 자세한 사항은\nhttps://t.co/iaEE5KKq52\n를 참고해주세요."
+	},
+	{
+		"created_at": "Mon Oct 05 04:35:27 +0000 2020",
+		"id": 1312695356056957000,
+		"id_str": "1312974658677874688",
+		"full_text": "서울숲 재즈 페스티벌 사일런트 피크닉에 고상지 트리오로 참여합니다.\nPiano 최문석, Violin 윤종수 과 함께\n10/24 토요일 6시 타임입니다. \n10/5(내일) 2시에 인터파크에서 ❗️100명❗️한정으로 오픈한다하오니 참고해주시기 바랍니다.😀 https://t.co/xEasoLiPZI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1312695343755063300,
+					"id_str": "1312695343755063298",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejehdc7UcAIOzTa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejehdc7UcAIOzTa.jpg",
+					"url": "https://t.co/xEasoLiPZI",
+					"display_url": "pic.twitter.com/xEasoLiPZI",
+					"expanded_url": "https://twitter.com/sangji_koh/status/1312695356056956930/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312695343755063300,
+					"id_str": "1312695343755063298",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejehdc7UcAIOzTa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejehdc7UcAIOzTa.jpg",
+					"url": "https://t.co/xEasoLiPZI",
+					"display_url": "pic.twitter.com/xEasoLiPZI",
+					"expanded_url": "https://twitter.com/sangji_koh/status/1312695356056956930/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 899522378576797700,
+			"id_str": "899522378576797696",
+			"name": "고상지 Koh Sangji",
+			"screen_name": "sangji_koh",
+			"location": "",
+			"description": "Bandoneonist. Composer",
+			"url": "https://t.co/0Fx7QWohQp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0Fx7QWohQp",
+							"expanded_url": "https://youtu.be/qHECi3Rn6-M",
+							"display_url": "youtu.be/qHECi3Rn6-M",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1714,
+			"friends_count": 79,
+			"listed_count": 13,
+			"created_at": "Mon Aug 21 06:43:42 +0000 2017",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283980393641766912/aIMspZmv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283980393641766912/aIMspZmv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/899522378576797696/1594959758",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서울숲 재즈 페스티벌 사일런트 피크닉에 고상지 트리오로 참여합니다.\nPiano 최문석, Violin 윤종수 과 함께\n10/24 토요일 6시 타임입니다. \n10/5(내일) 2시에 인터파크에서 ❗️100명❗️한정으로 오픈한다하오니 참고해주시기 바랍니다.😀 https://t.co/xEasoLiPZI"
+	},
+	{
+		"created_at": "Mon Oct 05 04:29:39 +0000 2020",
+		"id": 1312965680044548000,
+		"id_str": "1312973200104607749",
+		"full_text": "🏆 SuperM The 1st Album ‘Super One’ debuts at no.2 on ‘Billboard 200’!\n👏Another Billboard hit following their debut album!\n\n#SuperM #SuperOne\n#One #Monster_Infinity\n#WeAreTheFuture #SuperMtheFuture https://t.co/zyK6i85x3f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SuperM",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"text": "SuperOne",
+					"indices": [
+						131,
+						140
+					]
+				},
+				{
+					"text": "One",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "Monster_Infinity",
+					"indices": [
+						146,
+						163
+					]
+				},
+				{
+					"text": "WeAreTheFuture",
+					"indices": [
+						164,
+						179
+					]
+				},
+				{
+					"text": "SuperMtheFuture",
+					"indices": [
+						180,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1312957453785428000,
+					"id_str": "1312957453785427968",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/EjiP2Q4U8AAXZOX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjiP2Q4U8AAXZOX.jpg",
+					"url": "https://t.co/zyK6i85x3f",
+					"display_url": "pic.twitter.com/zyK6i85x3f",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1312965680044548096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312957453785428000,
+					"id_str": "1312957453785427968",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/EjiP2Q4U8AAXZOX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjiP2Q4U8AAXZOX.jpg",
+					"url": "https://t.co/zyK6i85x3f",
+					"display_url": "pic.twitter.com/zyK6i85x3f",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1312965680044548096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8419208,
+			"friends_count": 52,
+			"listed_count": 8231,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6921,
+		"favorite_count": 23323,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🏆 SuperM The 1st Album ‘Super One’ debuts at no.2 on ‘Billboard 200’!\n👏Another Billboard hit following their debut album!\n\n#SuperM #SuperOne\n#One #Monster_Infinity\n#WeAreTheFuture #SuperMtheFuture https://t.co/zyK6i85x3f"
+	},
+	{
+		"created_at": "Mon Oct 05 04:29:34 +0000 2020",
+		"id": 1312965485869363200,
+		"id_str": "1312973178705186817",
+		"full_text": "#BinaryNumber [Binary Codes With Lines]\n\n보컬리스트 lavndr의 멤버 합류 후 첫 EP (Binary Codes With Lines)\n\n매번 새로운 시도를 하는 밴드 바이너리 넘버. 앞으로도 다양한 음악과 활동을 이어나갈 예정이다.\n\n✚ 앨범 자세히 보기: https://t.co/opim4Qj1X2 https://t.co/ANWSOoHuqh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BinaryNumber",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/opim4Qj1X2",
+					"expanded_url": "https://bit.ly/3cH6bUH",
+					"display_url": "bit.ly/3cH6bUH",
+					"indices": [
+						163,
+						186
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1310806267980472300,
+					"id_str": "1310806267980472320",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/EjDrWxRU4AATSVp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjDrWxRU4AATSVp.jpg",
+					"url": "https://t.co/ANWSOoHuqh",
+					"display_url": "pic.twitter.com/ANWSOoHuqh",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1312965485869363201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1310806267980472300,
+					"id_str": "1310806267980472320",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/EjDrWxRU4AATSVp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjDrWxRU4AATSVp.jpg",
+					"url": "https://t.co/ANWSOoHuqh",
+					"display_url": "pic.twitter.com/ANWSOoHuqh",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1312965485869363201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9505,
+			"friends_count": 2889,
+			"listed_count": 251,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1599028531",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#BinaryNumber [Binary Codes With Lines]\n\n보컬리스트 lavndr의 멤버 합류 후 첫 EP (Binary Codes With Lines)\n\n매번 새로운 시도를 하는 밴드 바이너리 넘버. 앞으로도 다양한 음악과 활동을 이어나갈 예정이다.\n\n✚ 앨범 자세히 보기: https://t.co/opim4Qj1X2 https://t.co/ANWSOoHuqh"
+	},
+	{
+		"created_at": "Mon Oct 05 04:29:25 +0000 2020",
+		"id": 1312959446189047800,
+		"id_str": "1312973140453134336",
+		"full_text": "#Plum [Ocean]\n\n여름과 겨울을 동시에 느낄 수 있는 Plum의 Ocean.\n\n✚ 앨범 자세히 보기: https://t.co/89m9akPSfM https://t.co/QSm4nTlcds",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Plum",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/89m9akPSfM",
+					"expanded_url": "https://bit.ly/3je6cBM",
+					"display_url": "bit.ly/3je6cBM",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1310804912142315500,
+					"id_str": "1310804912142315520",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/EjDqH2YUcAATpRD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjDqH2YUcAATpRD.jpg",
+					"url": "https://t.co/QSm4nTlcds",
+					"display_url": "pic.twitter.com/QSm4nTlcds",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1312959446189047814/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1310804912142315500,
+					"id_str": "1310804912142315520",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/EjDqH2YUcAATpRD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjDqH2YUcAATpRD.jpg",
+					"url": "https://t.co/QSm4nTlcds",
+					"display_url": "pic.twitter.com/QSm4nTlcds",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1312959446189047814/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9505,
+			"friends_count": 2889,
+			"listed_count": 251,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1599028531",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Plum [Ocean]\n\n여름과 겨울을 동시에 느낄 수 있는 Plum의 Ocean.\n\n✚ 앨범 자세히 보기: https://t.co/89m9akPSfM https://t.co/QSm4nTlcds"
+	},
+	{
 		"created_at": "Mon Oct 05 04:11:24 +0000 2020",
 		"id": 1312962105843290000,
 		"id_str": "1312968605773029378",
