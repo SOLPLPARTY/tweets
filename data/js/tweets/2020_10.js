@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 05 06:00:31 +0000 2020",
+		"id": 1312984421042020400,
+		"id_str": "1312996066233466885",
+		"full_text": "[IZM X 부평구문화재단] #10 아마도이자람밴드\n &lt; 음악 중심 문화도시 부평 MEETS 시리즈 &gt; 이번 인터뷰의 주인공은 이시스터즈의 ‘오해하지 마세요’를 다시 부른 베테랑 인디 밴드, 아마도이자람밴드다. \n\nhttps://t.co/cdriyymSFf https://t.co/kLD9n3VXkJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cdriyymSFf",
+					"expanded_url": "https://m.izm.co.kr/interview_leejaram/",
+					"display_url": "m.izm.co.kr/interview_leej…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1312984416176631800,
+					"id_str": "1312984416176631808",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EjioXrnU8AAc0GX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjioXrnU8AAc0GX.jpg",
+					"url": "https://t.co/kLD9n3VXkJ",
+					"display_url": "pic.twitter.com/kLD9n3VXkJ",
+					"expanded_url": "https://twitter.com/amadoleejaram/status/1312984421042020353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1125,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312984416176631800,
+					"id_str": "1312984416176631808",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EjioXrnU8AAc0GX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjioXrnU8AAc0GX.jpg",
+					"url": "https://t.co/kLD9n3VXkJ",
+					"display_url": "pic.twitter.com/kLD9n3VXkJ",
+					"expanded_url": "https://twitter.com/amadoleejaram/status/1312984421042020353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1125,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1125,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1282026302,
+			"id_str": "1282026302",
+			"name": "아마도이자람밴드",
+			"screen_name": "amadoleejaram",
+			"location": "",
+			"description": "아마도이자람밴드 / 이자람, 이민기, 김정민, 김온유.\n@yoursummerkr\n섭외 문의 : Your Summer (당신의 여름 : 070.4176.3311)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2341,
+			"friends_count": 949,
+			"listed_count": 0,
+			"created_at": "Wed Mar 20 01:47:56 +0000 2013",
+			"favourites_count": 670,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/991613488865787905/d_-aVsLs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/991613488865787905/d_-aVsLs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1282026302/1528189691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[IZM X 부평구문화재단] #10 아마도이자람밴드\n &lt; 음악 중심 문화도시 부평 MEETS 시리즈 &gt; 이번 인터뷰의 주인공은 이시스터즈의 ‘오해하지 마세요’를 다시 부른 베테랑 인디 밴드, 아마도이자람밴드다. \n\nhttps://t.co/cdriyymSFf https://t.co/kLD9n3VXkJ"
+	},
+	{
+		"created_at": "Mon Oct 05 06:00:23 +0000 2020",
+		"id": 1312986359108259800,
+		"id_str": "1312996033404698624",
+		"full_text": "🐰공연안내🐰\n-\n광명문화재단의 온-오프라인 하이브리드 공연! 🚧무경계음악콘서트🚧에 크라잉넛, 로다운 30 x 제이통과 함께 출연합니다! \n-\n▫️일시: 2020년 10월 30일 | 19:30\n▫️장소: 광명시민회관 대공연장 + 네이버 TV 생중계\n▫️예매: https://t.co/YluDunpIN8\n▫️티켓: 무료 (최대 1인 2매) https://t.co/xzwLjxvShb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YluDunpIN8",
+					"expanded_url": "http://gmcf.or.kr",
+					"display_url": "gmcf.or.kr",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1312986354498769000,
+					"id_str": "1312986354498768896",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EjiqIgbVkAAPqm3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjiqIgbVkAAPqm3.jpg",
+					"url": "https://t.co/xzwLjxvShb",
+					"display_url": "pic.twitter.com/xzwLjxvShb",
+					"expanded_url": "https://twitter.com/leenalchi/status/1312986359108259841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1321,
+							"h": 1321,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312986354498769000,
+					"id_str": "1312986354498768896",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EjiqIgbVkAAPqm3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjiqIgbVkAAPqm3.jpg",
+					"url": "https://t.co/xzwLjxvShb",
+					"display_url": "pic.twitter.com/xzwLjxvShb",
+					"expanded_url": "https://twitter.com/leenalchi/status/1312986359108259841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1321,
+							"h": 1321,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1265873983213191200,
+			"id_str": "1265873983213191170",
+			"name": "이날치LEENALCHI_official",
+			"screen_name": "leenalchi",
+			"location": "",
+			"description": "이날치 공식 계정입니다. \nLEENALCHI official.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 337,
+			"friends_count": 1,
+			"listed_count": 5,
+			"created_at": "Thu May 28 05:15:46 +0000 2020",
+			"favourites_count": 111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265874850683338752/lcPuagZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265874850683338752/lcPuagZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1265873983213191170/1590651012",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🐰공연안내🐰\n-\n광명문화재단의 온-오프라인 하이브리드 공연! 🚧무경계음악콘서트🚧에 크라잉넛, 로다운 30 x 제이통과 함께 출연합니다! \n-\n▫️일시: 2020년 10월 30일 | 19:30\n▫️장소: 광명시민회관 대공연장 + 네이버 TV 생중계\n▫️예매: https://t.co/YluDunpIN8\n▫️티켓: 무료 (최대 1인 2매) https://t.co/xzwLjxvShb"
+	},
+	{
 		"created_at": "Mon Oct 05 05:03:03 +0000 2020",
 		"id": 1312981605921828900,
 		"id_str": "1312981605921828864",
