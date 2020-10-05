@@ -1,6 +1,1257 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 05 11:53:20 +0000 2020",
+		"id": 1313084858558750700,
+		"id_str": "1313084858558750720",
+		"full_text": "#문화인 #MUNHWAIN #네이버포스트\n[문플리] 산책할 때 듣기 좋은 경쾌한 인디음악 모음\nhttps://t.co/yKSosinOAW\n#Special https://t.co/NTMRFPAUqH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문화인",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "MUNHWAIN",
+					"indices": [
+						5,
+						14
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"text": "Special",
+					"indices": [
+						77,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yKSosinOAW",
+					"expanded_url": "https://post.naver.com/viewer/postView.nhn?volumeNo=29619182&memberNo=32269214&navigationType=push",
+					"display_url": "post.naver.com/viewer/postVie…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313084857455644700,
+					"id_str": "1313084857455644672",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/EjkDuIiWkAAqjYX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjkDuIiWkAAqjYX.jpg",
+					"url": "https://t.co/NTMRFPAUqH",
+					"display_url": "pic.twitter.com/NTMRFPAUqH",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1313084858558750720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313084857455644700,
+					"id_str": "1313084857455644672",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/EjkDuIiWkAAqjYX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjkDuIiWkAAqjYX.jpg",
+					"url": "https://t.co/NTMRFPAUqH",
+					"display_url": "pic.twitter.com/NTMRFPAUqH",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1313084858558750720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 235,
+			"friends_count": 382,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#문화인 #MUNHWAIN #네이버포스트\n[문플리] 산책할 때 듣기 좋은 경쾌한 인디음악 모음\nhttps://t.co/yKSosinOAW\n#Special https://t.co/NTMRFPAUqH"
+	},
+	{
+		"created_at": "Mon Oct 05 11:29:31 +0000 2020",
+		"id": 1313071774217629700,
+		"id_str": "1313078862683820033",
+		"full_text": "* LISTEN STAGE는 코로나19 행동 수칙 준수 하에 진행될 예정입니다. 팬 여러분들도 꼭! 지키면서 안전하게 집에서 언택트 라이브로 함께 해주세요👏",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1313071741292306400,
+		"in_reply_to_status_id_str": "1313071741292306432",
+		"in_reply_to_user_id": 486655058,
+		"in_reply_to_user_id_str": "486655058",
+		"in_reply_to_screen_name": "themysticstory",
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19883,
+			"friends_count": 18,
+			"listed_count": 231,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5347,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "* LISTEN STAGE는 코로나19 행동 수칙 준수 하에 진행될 예정입니다. 팬 여러분들도 꼭! 지키면서 안전하게 집에서 언택트 라이브로 함께 해주세요👏"
+	},
+	{
+		"created_at": "Mon Oct 05 11:29:25 +0000 2020",
+		"id": 1313071741292306400,
+		"id_str": "1313078836976857089",
+		"full_text": "[#리슨] &lt;LISTEN STAGE&gt; 10월의 일정표를 공개합니다\n⠀\n🎼 하루 30분 감성 라이브, LISTEN STAGE\n\n* 코로나19 확산 방지를 위한 정부의 사회적 거리 두기 지침에 따라 온라인으로 진행됩니다. 미스틱스토리(MYSTIC STORY) 유튜브 채널에서 저녁 7시 30분부터 실시간 스트리밍으로 시청 가능합니다. https://t.co/ttpm4vtCjD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "리슨",
+					"indices": [
+						1,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313071732622672000,
+					"id_str": "1313071732622671879",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejj3yKuUwAcurXG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejj3yKuUwAcurXG.jpg",
+					"url": "https://t.co/ttpm4vtCjD",
+					"display_url": "pic.twitter.com/ttpm4vtCjD",
+					"expanded_url": "https://twitter.com/themysticstory/status/1313071741292306432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313071732622672000,
+					"id_str": "1313071732622671879",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejj3yKuUwAcurXG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejj3yKuUwAcurXG.jpg",
+					"url": "https://t.co/ttpm4vtCjD",
+					"display_url": "pic.twitter.com/ttpm4vtCjD",
+					"expanded_url": "https://twitter.com/themysticstory/status/1313071741292306432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19883,
+			"friends_count": 18,
+			"listed_count": 231,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5347,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#리슨] &lt;LISTEN STAGE&gt; 10월의 일정표를 공개합니다\n⠀\n🎼 하루 30분 감성 라이브, LISTEN STAGE\n\n* 코로나19 확산 방지를 위한 정부의 사회적 거리 두기 지침에 따라 온라인으로 진행됩니다. 미스틱스토리(MYSTIC STORY) 유튜브 채널에서 저녁 7시 30분부터 실시간 스트리밍으로 시청 가능합니다. https://t.co/ttpm4vtCjD"
+	},
+	{
+		"created_at": "Mon Oct 05 11:20:59 +0000 2020",
+		"id": 1313071462027161600,
+		"id_str": "1313076714990309382",
+		"full_text": "[#MOS_ONE D-5]\nDelayed single-view Streaming for ARMY! Don’t miss this chance to see BTS one more time!\n\n🎫Ticket at: https://t.co/AyftguTFq8\n\n#BTS #방탄소년단 #MapOfTheSoulOne #DelayedSingleviewStreaming https://t.co/HggTsHaeav",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MOS_ONE",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "방탄소년단",
+					"indices": [
+						147,
+						153
+					]
+				},
+				{
+					"text": "MapOfTheSoulOne",
+					"indices": [
+						154,
+						170
+					]
+				},
+				{
+					"text": "DelayedSingleviewStreaming",
+					"indices": [
+						171,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AyftguTFq8",
+					"expanded_url": "https://bit.ly/36qEm1D",
+					"display_url": "bit.ly/36qEm1D",
+					"indices": [
+						117,
+						140
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313070525837500400,
+					"id_str": "1313070525837500419",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejj2r7GUYAMsPma.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejj2r7GUYAMsPma.jpg",
+					"url": "https://t.co/HggTsHaeav",
+					"display_url": "pic.twitter.com/HggTsHaeav",
+					"expanded_url": "https://twitter.com/bts_bighit/status/1313071462027161600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313070525837500400,
+					"id_str": "1313070525837500419",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejj2r7GUYAMsPma.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejj2r7GUYAMsPma.jpg",
+					"url": "https://t.co/HggTsHaeav",
+					"display_url": "pic.twitter.com/HggTsHaeav",
+					"expanded_url": "https://twitter.com/bts_bighit/status/1313071462027161600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313070543143202800,
+					"id_str": "1313070543143202816",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejj2s7kUcAA32ke.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejj2s7kUcAA32ke.jpg",
+					"url": "https://t.co/HggTsHaeav",
+					"display_url": "pic.twitter.com/HggTsHaeav",
+					"expanded_url": "https://twitter.com/bts_bighit/status/1313071462027161600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1313071455215579100,
+		"in_reply_to_status_id_str": "1313071455215579137",
+		"in_reply_to_user_id": 1409798257,
+		"in_reply_to_user_id_str": "1409798257",
+		"in_reply_to_screen_name": "bts_bighit",
+		"user": {
+			"id": 1409798257,
+			"id_str": "1409798257",
+			"name": "BTS_official",
+			"screen_name": "bts_bighit",
+			"location": "",
+			"description": "#방탄소년단 공식 트위터입니다\nThis is the Official Twitter for #BTS\n\n'Dynamite' Out Now: https://t.co/9SJA8JR2oZ & https://t.co/YyxPP7ngJB",
+			"url": "https://t.co/UKFREoHhAr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UKFREoHhAr",
+							"expanded_url": "http://bts.ibighit.com",
+							"display_url": "bts.ibighit.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/9SJA8JR2oZ",
+							"expanded_url": "http://youtu.be/gdZLi9oWNZg",
+							"display_url": "youtu.be/gdZLi9oWNZg",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/YyxPP7ngJB",
+							"expanded_url": "http://bts-dynamite.us",
+							"display_url": "bts-dynamite.us",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 24113842,
+			"friends_count": 24,
+			"listed_count": 32722,
+			"created_at": "Tue May 07 09:13:05 +0000 2013",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F69A95",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1289939243045806081/YjFeaz_d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1289939243045806081/YjFeaz_d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1409798257/1597503756",
+			"profile_link_color": "F69A95",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16155,
+		"favorite_count": 65816,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#MOS_ONE D-5]\nDelayed single-view Streaming for ARMY! Don’t miss this chance to see BTS one more time!\n\n🎫Ticket at: https://t.co/AyftguTFq8\n\n#BTS #방탄소년단 #MapOfTheSoulOne #DelayedSingleviewStreaming https://t.co/HggTsHaeav"
+	},
+	{
+		"created_at": "Mon Oct 05 11:20:46 +0000 2020",
+		"id": 1313071455215579100,
+		"id_str": "1313076659482890240",
+		"full_text": "[#맵솔콘 D-5]\n아미 여러분을 위한 딜레이 싱글뷰 스트리밍 확정! BTS의 콘서트 속 열정적인 모습을 한번 더 확인할 수 있는 기회를 놓치지 마세요!\n\n🎫티켓 구매: https://t.co/AyftguTFq8\n\n#BTS #방탄소년단 #MapOfTheSoulOne #딜레이싱글뷰스트리밍 https://t.co/9E3HOgJPOo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "맵솔콘",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "방탄소년단",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "MapOfTheSoulOne",
+					"indices": [
+						132,
+						148
+					]
+				},
+				{
+					"text": "딜레이싱글뷰스트리밍",
+					"indices": [
+						149,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AyftguTFq8",
+					"expanded_url": "https://bit.ly/36qEm1D",
+					"display_url": "bit.ly/36qEm1D",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313070432845619200,
+					"id_str": "1313070432845619202",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejj2mgrU4AIHsPJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejj2mgrU4AIHsPJ.jpg",
+					"url": "https://t.co/9E3HOgJPOo",
+					"display_url": "pic.twitter.com/9E3HOgJPOo",
+					"expanded_url": "https://twitter.com/bts_bighit/status/1313071455215579137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313070432845619200,
+					"id_str": "1313070432845619202",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejj2mgrU4AIHsPJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejj2mgrU4AIHsPJ.jpg",
+					"url": "https://t.co/9E3HOgJPOo",
+					"display_url": "pic.twitter.com/9E3HOgJPOo",
+					"expanded_url": "https://twitter.com/bts_bighit/status/1313071455215579137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313070453385117700,
+					"id_str": "1313070453385117697",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejj2ntMUwAE0w0R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejj2ntMUwAE0w0R.jpg",
+					"url": "https://t.co/9E3HOgJPOo",
+					"display_url": "pic.twitter.com/9E3HOgJPOo",
+					"expanded_url": "https://twitter.com/bts_bighit/status/1313071455215579137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1409798257,
+			"id_str": "1409798257",
+			"name": "BTS_official",
+			"screen_name": "bts_bighit",
+			"location": "",
+			"description": "#방탄소년단 공식 트위터입니다\nThis is the Official Twitter for #BTS\n\n'Dynamite' Out Now: https://t.co/9SJA8JR2oZ & https://t.co/YyxPP7ngJB",
+			"url": "https://t.co/UKFREoHhAr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UKFREoHhAr",
+							"expanded_url": "http://bts.ibighit.com",
+							"display_url": "bts.ibighit.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/9SJA8JR2oZ",
+							"expanded_url": "http://youtu.be/gdZLi9oWNZg",
+							"display_url": "youtu.be/gdZLi9oWNZg",
+							"indices": [
+								76,
+								99
+							]
+						},
+						{
+							"url": "https://t.co/YyxPP7ngJB",
+							"expanded_url": "http://bts-dynamite.us",
+							"display_url": "bts-dynamite.us",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 24113842,
+			"friends_count": 24,
+			"listed_count": 32722,
+			"created_at": "Tue May 07 09:13:05 +0000 2013",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F69A95",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1289939243045806081/YjFeaz_d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1289939243045806081/YjFeaz_d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1409798257/1597503756",
+			"profile_link_color": "F69A95",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36969,
+		"favorite_count": 153998,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#맵솔콘 D-5]\n아미 여러분을 위한 딜레이 싱글뷰 스트리밍 확정! BTS의 콘서트 속 열정적인 모습을 한번 더 확인할 수 있는 기회를 놓치지 마세요!\n\n🎫티켓 구매: https://t.co/AyftguTFq8\n\n#BTS #방탄소년단 #MapOfTheSoulOne #딜레이싱글뷰스트리밍 https://t.co/9E3HOgJPOo"
+	},
+	{
+		"created_at": "Mon Oct 05 11:20:32 +0000 2020",
+		"id": 1313071919709646800,
+		"id_str": "1313076601131683843",
+		"full_text": "[Rock on Stage 국카스텐X디어클라우드]\n10. 31.(토) 19:00 웃는얼굴아트센터 청룡홀\n\n-10. 6.(화) 오후2시 티켓오픈\n\n👇예매페이지\nhttps://t.co/KOudZF73pT\n\n(코로나 확산으로 인하여 진행이 어렵다고 판단될 경우 공연 연기 또는 취소가 될 수 있다는 점 참고 부탁드립니다!)\n\n#국카스텐 https://t.co/huzv31XMpg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "국카스텐",
+					"indices": [
+						179,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KOudZF73pT",
+					"expanded_url": "https://bit.ly/3iudoJ6",
+					"display_url": "bit.ly/3iudoJ6",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313071912080220200,
+					"id_str": "1313071912080220161",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejj38nQVoAEcqOL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejj38nQVoAEcqOL.jpg",
+					"url": "https://t.co/huzv31XMpg",
+					"display_url": "pic.twitter.com/huzv31XMpg",
+					"expanded_url": "https://twitter.com/Guckkastens/status/1313071919709646848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313071912080220200,
+					"id_str": "1313071912080220161",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejj38nQVoAEcqOL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejj38nQVoAEcqOL.jpg",
+					"url": "https://t.co/huzv31XMpg",
+					"display_url": "pic.twitter.com/huzv31XMpg",
+					"expanded_url": "https://twitter.com/Guckkastens/status/1313071919709646848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 361966230,
+			"id_str": "361966230",
+			"name": "국카스텐(Guckkasten)",
+			"screen_name": "Guckkastens",
+			"location": "Republic of Korea",
+			"description": "국카스텐(Guckkasten)의 공식 트위터입니다. 출연섭외 문의 : 02-6004-6864",
+			"url": "https://t.co/Dtc2pFBRHW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Dtc2pFBRHW",
+							"expanded_url": "http://guckkasten.kr",
+							"display_url": "guckkasten.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37316,
+			"friends_count": 11120,
+			"listed_count": 302,
+			"created_at": "Thu Aug 25 16:41:05 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1097703828802007040/7U4Dh9rD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097703828802007040/7U4Dh9rD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/361966230/1550547963",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 184,
+		"favorite_count": 220,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Rock on Stage 국카스텐X디어클라우드]\n10. 31.(토) 19:00 웃는얼굴아트센터 청룡홀\n\n-10. 6.(화) 오후2시 티켓오픈\n\n👇예매페이지\nhttps://t.co/KOudZF73pT\n\n(코로나 확산으로 인하여 진행이 어렵다고 판단될 경우 공연 연기 또는 취소가 될 수 있다는 점 참고 부탁드립니다!)\n\n#국카스텐 https://t.co/huzv31XMpg"
+	},
+	{
 		"created_at": "Mon Oct 05 11:18:34 +0000 2020",
 		"id": 1313074197334118400,
 		"id_str": "1313076105801211904",
