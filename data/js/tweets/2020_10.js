@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 06 12:29:11 +0000 2020",
+		"id": 1313436424067186700,
+		"id_str": "1313456264739868673",
+		"full_text": "정밀아3집&lt;청파소나타&gt; CD예약판매가 시작되었다고 합니다. 예스24, 알라딘, 핫트랙스, 향뮤직 같은 음반판매처에 다 업로드 되어 있을거예요. 많이 사랑해주세요 &lt;3 https://t.co/ZrFx6jXdeD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313435976555884500,
+					"id_str": "1313435976555884544",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EjpDD9HU8AAZSwG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjpDD9HU8AAZSwG.jpg",
+					"url": "https://t.co/ZrFx6jXdeD",
+					"display_url": "pic.twitter.com/ZrFx6jXdeD",
+					"expanded_url": "https://twitter.com/Jeong_milla/status/1313436424067186688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313435976555884500,
+					"id_str": "1313435976555884544",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EjpDD9HU8AAZSwG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjpDD9HU8AAZSwG.jpg",
+					"url": "https://t.co/ZrFx6jXdeD",
+					"display_url": "pic.twitter.com/ZrFx6jXdeD",
+					"expanded_url": "https://twitter.com/Jeong_milla/status/1313436424067186688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2972799367,
+			"id_str": "2972799367",
+			"name": "정밀아Jeongmilla",
+			"screen_name": "Jeong_milla",
+			"location": "",
+			"description": "정밀아 정규1집 [그리움도 병] 정규2집 [은하수] 싱글 [무명] [꽃] [언제나그댈]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 476,
+			"friends_count": 87,
+			"listed_count": 6,
+			"created_at": "Sat Jan 10 18:56:39 +0000 2015",
+			"favourites_count": 186,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925331758010155009/ponxSZf9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925331758010155009/ponxSZf9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2972799367/1598485533",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정밀아3집&lt;청파소나타&gt; CD예약판매가 시작되었다고 합니다. 예스24, 알라딘, 핫트랙스, 향뮤직 같은 음반판매처에 다 업로드 되어 있을거예요. 많이 사랑해주세요 &lt;3 https://t.co/ZrFx6jXdeD"
+	},
+	{
 		"created_at": "Tue Oct 06 12:11:17 +0000 2020",
 		"id": 1313442769982099500,
 		"id_str": "1313451761689153538",
