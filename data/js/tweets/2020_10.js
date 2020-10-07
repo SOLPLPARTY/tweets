@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 07 01:29:28 +0000 2020",
+		"id": 1313648484961017900,
+		"id_str": "1313652630468653058",
+		"full_text": "[OOO Interview]\n⠀\n프로듀서로서 '스웨덴세탁소'가 탐나는 수식어는?\n스웨덴세탁소의 &lt;Out Of Official&gt; 인터뷰를\n지금 바로 확인해보세요!\n🎥 https://t.co/piRteAJZbo \n\n#스웨덴세탁소 #우리가핀1 #잔상\n#OOO #Out_Of_Official #Sweden_Laundry\n#ShofarMusic #쇼파르뮤직 #Interview https://t.co/D0kv6DIkxn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스웨덴세탁소",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "우리가핀1",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"text": "잔상",
+					"indices": [
+						139,
+						142
+					]
+				},
+				{
+					"text": "OOO",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "Out_Of_Official",
+					"indices": [
+						148,
+						164
+					]
+				},
+				{
+					"text": "Sweden_Laundry",
+					"indices": [
+						165,
+						180
+					]
+				},
+				{
+					"text": "ShofarMusic",
+					"indices": [
+						181,
+						193
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						194,
+						200
+					]
+				},
+				{
+					"text": "Interview",
+					"indices": [
+						201,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/piRteAJZbo",
+					"expanded_url": "http://youtu.be/5ALa2tMx81E",
+					"display_url": "youtu.be/5ALa2tMx81E",
+					"indices": [
+						98,
+						121
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313648455605076000,
+					"id_str": "1313648455605075968",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/EjsET3QUwAAQLLa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjsET3QUwAAQLLa.jpg",
+					"url": "https://t.co/D0kv6DIkxn",
+					"display_url": "pic.twitter.com/D0kv6DIkxn",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1313648484961017857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313648455605076000,
+					"id_str": "1313648455605075968",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/EjsET3QUwAAQLLa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjsET3QUwAAQLLa.jpg",
+					"url": "https://t.co/D0kv6DIkxn",
+					"display_url": "pic.twitter.com/D0kv6DIkxn",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1313648484961017857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다.\n가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기, 김지수,\n스무살, 보라미유, WH3N, 최유리 소속사\nhttps://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7964,
+			"friends_count": 5,
+			"listed_count": 64,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1601010935",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[OOO Interview]\n⠀\n프로듀서로서 '스웨덴세탁소'가 탐나는 수식어는?\n스웨덴세탁소의 &lt;Out Of Official&gt; 인터뷰를\n지금 바로 확인해보세요!\n🎥 https://t.co/piRteAJZbo \n\n#스웨덴세탁소 #우리가핀1 #잔상\n#OOO #Out_Of_Official #Sweden_Laundry\n#ShofarMusic #쇼파르뮤직 #Interview https://t.co/D0kv6DIkxn"
+	},
+	{
 		"created_at": "Tue Oct 06 14:51:59 +0000 2020",
 		"id": 1313492202803298300,
 		"id_str": "1313492202803298304",
