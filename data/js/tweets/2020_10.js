@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 07 12:16:35 +0000 2020",
+		"id": 1313766081132064800,
+		"id_str": "1313815483410337793",
+		"full_text": "골든차일드(Golden Child) ‘Pump It Up’ \nOFFICIAL MV\n\n❤️ 2020.10.07 6PM ALBUM RELEASE\n💛 https://t.co/YwYN97aXYk\n🤍 https://t.co/hgTnSrxmIe\n\n#GoldenChild #골든차일드\n#PumpItUp https://t.co/xG2lzBjp8O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoldenChild",
+					"indices": [
+						132,
+						144
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "PumpItUp",
+					"indices": [
+						152,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YwYN97aXYk",
+					"expanded_url": "http://youtu.be/L6fODMCfIJ4",
+					"display_url": "youtu.be/L6fODMCfIJ4",
+					"indices": [
+						81,
+						104
+					]
+				},
+				{
+					"url": "https://t.co/hgTnSrxmIe",
+					"expanded_url": "http://vlive.tv/video/216775",
+					"display_url": "vlive.tv/video/216775",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313766072407916500,
+					"id_str": "1313766072407916544",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EjtvSD_VgAAj45M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjtvSD_VgAAj45M.jpg",
+					"url": "https://t.co/xG2lzBjp8O",
+					"display_url": "pic.twitter.com/xG2lzBjp8O",
+					"expanded_url": "https://twitter.com/GoldenChild/status/1313766081132064768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313766072407916500,
+					"id_str": "1313766072407916544",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EjtvSD_VgAAj45M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjtvSD_VgAAj45M.jpg",
+					"url": "https://t.co/xG2lzBjp8O",
+					"display_url": "pic.twitter.com/xG2lzBjp8O",
+					"expanded_url": "https://twitter.com/GoldenChild/status/1313766081132064768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 845170774939906000,
+			"id_str": "845170774939906049",
+			"name": "GoldenChild (골든차일드)",
+			"screen_name": "GoldenChild",
+			"location": "",
+			"description": "골든차일드 공식트위터 (GoldenChild Official Twitter)",
+			"url": "https://t.co/hNRQ6uBOhx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hNRQ6uBOhx",
+							"expanded_url": "https://www.youtube.com/GoldenChild",
+							"display_url": "youtube.com/GoldenChild",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 259938,
+			"friends_count": 3,
+			"listed_count": 1501,
+			"created_at": "Fri Mar 24 07:09:50 +0000 2017",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3886,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1309870572877225990/SY44FtXG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309870572877225990/SY44FtXG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/845170774939906049/1601219138",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3970,
+		"favorite_count": 6501,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "골든차일드(Golden Child) ‘Pump It Up’ \nOFFICIAL MV\n\n❤️ 2020.10.07 6PM ALBUM RELEASE\n💛 https://t.co/YwYN97aXYk\n🤍 https://t.co/hgTnSrxmIe\n\n#GoldenChild #골든차일드\n#PumpItUp https://t.co/xG2lzBjp8O"
+	},
+	{
 		"created_at": "Wed Oct 07 11:11:23 +0000 2020",
 		"id": 1313793646244688000,
 		"id_str": "1313799073967857665",
