@@ -1,6 +1,711 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 07 11:11:23 +0000 2020",
+		"id": 1313793646244688000,
+		"id_str": "1313799073967857665",
+		"full_text": "&lt;잭킹콩 단독 콘서트 'Dancing Dacing Bluebird'&gt;\n\n• 일시 : 10/17(토) 오후 7시\n• 장소 : 벨로주 홍대\n• 예매 : 멜론티켓 https://t.co/gItuBQbQeY \n• 문의 : 02-3143-4823\n\n★≡ 마음 깊은 곳 어딘가 숨어있는 파랑새를 찾아 Let‘s dance with JACKINGCONG≡★ https://t.co/uERELV58kc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gItuBQbQeY",
+					"expanded_url": "http://reurl.kr/3EFB64BAWU",
+					"display_url": "reurl.kr/3EFB64BAWU",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1313793559972081700,
+					"id_str": "1313793559972081672",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EjuISDJU8AgX9-r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjuISDJU8AgX9-r.jpg",
+					"url": "https://t.co/uERELV58kc",
+					"display_url": "pic.twitter.com/uERELV58kc",
+					"expanded_url": "https://twitter.com/xindieticket/status/1313793646244687872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313793559972081700,
+					"id_str": "1313793559972081672",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EjuISDJU8AgX9-r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjuISDJU8AgX9-r.jpg",
+					"url": "https://t.co/uERELV58kc",
+					"display_url": "pic.twitter.com/uERELV58kc",
+					"expanded_url": "https://twitter.com/xindieticket/status/1313793646244687872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313793580234727400,
+					"id_str": "1313793580234727426",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EjuITOoUYAINcK7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjuITOoUYAINcK7.jpg",
+					"url": "https://t.co/uERELV58kc",
+					"display_url": "pic.twitter.com/uERELV58kc",
+					"expanded_url": "https://twitter.com/xindieticket/status/1313793646244687872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1313793640259481600,
+		"in_reply_to_status_id_str": "1313793640259481602",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2778,
+			"friends_count": 2694,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9456,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;잭킹콩 단독 콘서트 'Dancing Dacing Bluebird'&gt;\n\n• 일시 : 10/17(토) 오후 7시\n• 장소 : 벨로주 홍대\n• 예매 : 멜론티켓 https://t.co/gItuBQbQeY \n• 문의 : 02-3143-4823\n\n★≡ 마음 깊은 곳 어딘가 숨어있는 파랑새를 찾아 Let‘s dance with JACKINGCONG≡★ https://t.co/uERELV58kc"
+	},
+	{
+		"created_at": "Wed Oct 07 11:11:16 +0000 2020",
+		"id": 1313793640259481600,
+		"id_str": "1313799048311246851",
+		"full_text": "[CHANNEL XINDIE ♥ COMING SOON]\n⠀\n바로 오늘 싱글 'Dancing Dancing Bluebird'로 돌아온 잭킹콩의 채널씬디 인터뷰 영상이 곧 공개됩니다!\n\n잭킹콩과 함께한 채널씬디 영상도 많이 기대해주시고,\n잭킹콩의 따끈따끈한 신곡도 각종 음원사이트에서 감상해보세요 ღ'ᴗ'ღ (이어서) https://t.co/8ClgKoAe29",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313793480141860900,
+					"id_str": "1313793480141860865",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EjuINZwUcAEZnUb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjuINZwUcAEZnUb.jpg",
+					"url": "https://t.co/8ClgKoAe29",
+					"display_url": "pic.twitter.com/8ClgKoAe29",
+					"expanded_url": "https://twitter.com/xindieticket/status/1313793640259481602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313793480141860900,
+					"id_str": "1313793480141860865",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EjuINZwUcAEZnUb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjuINZwUcAEZnUb.jpg",
+					"url": "https://t.co/8ClgKoAe29",
+					"display_url": "pic.twitter.com/8ClgKoAe29",
+					"expanded_url": "https://twitter.com/xindieticket/status/1313793640259481602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313793503554531300,
+					"id_str": "1313793503554531330",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EjuIOw-VcAIw-Hj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjuIOw-VcAIw-Hj.jpg",
+					"url": "https://t.co/8ClgKoAe29",
+					"display_url": "pic.twitter.com/8ClgKoAe29",
+					"expanded_url": "https://twitter.com/xindieticket/status/1313793640259481602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313793519199289300,
+					"id_str": "1313793519199289345",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EjuIPrQVgAE4ugi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjuIPrQVgAE4ugi.jpg",
+					"url": "https://t.co/8ClgKoAe29",
+					"display_url": "pic.twitter.com/8ClgKoAe29",
+					"expanded_url": "https://twitter.com/xindieticket/status/1313793640259481602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313793535724806100,
+					"id_str": "1313793535724806146",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EjuIQo0U4AI-M9x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjuIQo0U4AI-M9x.jpg",
+					"url": "https://t.co/8ClgKoAe29",
+					"display_url": "pic.twitter.com/8ClgKoAe29",
+					"expanded_url": "https://twitter.com/xindieticket/status/1313793640259481602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1128,
+							"h": 1128,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2778,
+			"friends_count": 2694,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9456,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[CHANNEL XINDIE ♥ COMING SOON]\n⠀\n바로 오늘 싱글 'Dancing Dancing Bluebird'로 돌아온 잭킹콩의 채널씬디 인터뷰 영상이 곧 공개됩니다!\n\n잭킹콩과 함께한 채널씬디 영상도 많이 기대해주시고,\n잭킹콩의 따끈따끈한 신곡도 각종 음원사이트에서 감상해보세요 ღ'ᴗ'ღ (이어서) https://t.co/8ClgKoAe29"
+	},
+	{
+		"created_at": "Wed Oct 07 10:29:33 +0000 2020",
+		"id": 1313782391672959000,
+		"id_str": "1313788547288240130",
+		"full_text": "[#오동민] On Air on Playlist 'My Fuxxxxx Romance'\n\n#배우 오동민이 #MYFUXXXXXROMANCE 에 출연합니다! 자유로운 연애💘를 하는 남자 #김재하 역을 맡아 두 여자와 얽히고 설킨 재하의 모습을 보여드릴 예정이니 많은 시청📺부탁드립니다 10월 11일 19시🕖 네이버TV에서 1화 선공개 예정!🔔 https://t.co/zwilUp68wD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오동민",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "배우",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "MYFUXXXXXROMANCE",
+					"indices": [
+						57,
+						74
+					]
+				},
+				{
+					"text": "김재하",
+					"indices": [
+						100,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313782350778568700,
+					"id_str": "1313782350778568705",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejt-FlpVkAEPlES.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejt-FlpVkAEPlES.jpg",
+					"url": "https://t.co/zwilUp68wD",
+					"display_url": "pic.twitter.com/zwilUp68wD",
+					"expanded_url": "https://twitter.com/themysticstory/status/1313782391672958977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313782350778568700,
+					"id_str": "1313782350778568705",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejt-FlpVkAEPlES.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejt-FlpVkAEPlES.jpg",
+					"url": "https://t.co/zwilUp68wD",
+					"display_url": "pic.twitter.com/zwilUp68wD",
+					"expanded_url": "https://twitter.com/themysticstory/status/1313782391672958977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19878,
+			"friends_count": 18,
+			"listed_count": 230,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#오동민] On Air on Playlist 'My Fuxxxxx Romance'\n\n#배우 오동민이 #MYFUXXXXXROMANCE 에 출연합니다! 자유로운 연애💘를 하는 남자 #김재하 역을 맡아 두 여자와 얽히고 설킨 재하의 모습을 보여드릴 예정이니 많은 시청📺부탁드립니다 10월 11일 19시🕖 네이버TV에서 1화 선공개 예정!🔔 https://t.co/zwilUp68wD"
+	},
+	{
 		"created_at": "Wed Oct 07 10:13:37 +0000 2020",
 		"id": 1313784539030990800,
 		"id_str": "1313784539030990848",
