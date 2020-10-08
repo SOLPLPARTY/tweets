@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 08 06:29:25 +0000 2020",
+		"id": 1314083446583488500,
+		"id_str": "1314090502908674048",
+		"full_text": "드디어 내일 2집 [Don't Push Me] 발매공연입니다🔥🔥🔥\n관객 모든 분께 \"Don't Push Me\" 문구가 홀로그램으로 프린트된 스트랩키링을 드립니다. 예매는 오늘 자정 마감이니 서둘러주세요! 그리고 예매페이지의 안내사항을 참고해주세요.\nhttps://t.co/4D6uEPk64z https://t.co/CoULAkP7EO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4D6uEPk64z",
+					"expanded_url": "https://booking.naver.com/booking/12/bizes/396582",
+					"display_url": "booking.naver.com/booking/12/biz…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314082761657864200,
+					"id_str": "1314082761657864192",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EjyPTzYU0AA0iuR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjyPTzYU0AA0iuR.jpg",
+					"url": "https://t.co/CoULAkP7EO",
+					"display_url": "pic.twitter.com/CoULAkP7EO",
+					"expanded_url": "https://twitter.com/electric_muse/status/1314083446583488512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1697,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314082761657864200,
+					"id_str": "1314082761657864192",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EjyPTzYU0AA0iuR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjyPTzYU0AA0iuR.jpg",
+					"url": "https://t.co/CoULAkP7EO",
+					"display_url": "pic.twitter.com/CoULAkP7EO",
+					"expanded_url": "https://twitter.com/electric_muse/status/1314083446583488512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1697,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1314082801004675000,
+					"id_str": "1314082801004675073",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EjyPWF9VgAEZ9Ec.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjyPWF9VgAEZ9Ec.jpg",
+					"url": "https://t.co/CoULAkP7EO",
+					"display_url": "pic.twitter.com/CoULAkP7EO",
+					"expanded_url": "https://twitter.com/electric_muse/status/1314083446583488512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1069,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 606,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1824,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3389,
+			"friends_count": 1303,
+			"listed_count": 109,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 4908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24814,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267787772711985153/NA7yMLTS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267787772711985153/NA7yMLTS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "드디어 내일 2집 [Don't Push Me] 발매공연입니다🔥🔥🔥\n관객 모든 분께 \"Don't Push Me\" 문구가 홀로그램으로 프린트된 스트랩키링을 드립니다. 예매는 오늘 자정 마감이니 서둘러주세요! 그리고 예매페이지의 안내사항을 참고해주세요.\nhttps://t.co/4D6uEPk64z https://t.co/CoULAkP7EO"
+	},
+	{
 		"created_at": "Thu Oct 08 04:58:15 +0000 2020",
 		"id": 1314057117146341400,
 		"id_str": "1314067560527167489",
