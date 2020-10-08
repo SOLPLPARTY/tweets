@@ -1,6 +1,578 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 08 04:11:17 +0000 2020",
+		"id": 1314042017056399400,
+		"id_str": "1314055742979280899",
+		"full_text": "📢 예매 오픈 공지 : 오늘 오후 8시 멜론티켓\n\n&lt;참솜&amp;박소은 : Talks On Music #9&gt;\n· 일시 : 2020년 11월 1일 (일) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : 참솜, 박소은\n· 예매 :🍈멜론티켓 https://t.co/I8RX9kJzX5\n\n#참솜 #박소은 #롤링홀 #멜론티켓\n#홍대 #인디 #공연 #토크온뮤직 https://t.co/B3P6bhqBQ8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "참솜",
+					"indices": [
+						161,
+						164
+					]
+				},
+				{
+					"text": "박소은",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						170,
+						174
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						181,
+						184
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						185,
+						188
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						189,
+						192
+					]
+				},
+				{
+					"text": "토크온뮤직",
+					"indices": [
+						193,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I8RX9kJzX5",
+					"expanded_url": "https://vo.la/9I3cI",
+					"display_url": "vo.la/9I3cI",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314042002573463600,
+					"id_str": "1314042002573463552",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314042002573463552/pu/img/XiBy99KXpCqqtKqx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314042002573463552/pu/img/XiBy99KXpCqqtKqx.jpg",
+					"url": "https://t.co/B3P6bhqBQ8",
+					"display_url": "pic.twitter.com/B3P6bhqBQ8",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1314042017056399360/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314042002573463600,
+					"id_str": "1314042002573463552",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314042002573463552/pu/img/XiBy99KXpCqqtKqx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314042002573463552/pu/img/XiBy99KXpCqqtKqx.jpg",
+					"url": "https://t.co/B3P6bhqBQ8",
+					"display_url": "pic.twitter.com/B3P6bhqBQ8",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1314042017056399360/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3010,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1314042002573463552/pu/pl/H_u8XUBEb0imNsi9.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314042002573463552/pu/vid/720x720/ytdlp2GRd38dGabi.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314042002573463552/pu/vid/320x320/bKXp6am2HTI4yuS_.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314042002573463552/pu/vid/480x480/pdjJQIBpkaG7PB30.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/4e0ZekwoYX",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4e0ZekwoYX",
+							"expanded_url": "http://bitly.kr/LZ7SBbWTTTr",
+							"display_url": "bitly.kr/LZ7SBbWTTTr",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 28,
+			"friends_count": 3,
+			"listed_count": 1,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 예매 오픈 공지 : 오늘 오후 8시 멜론티켓\n\n&lt;참솜&amp;박소은 : Talks On Music #9&gt;\n· 일시 : 2020년 11월 1일 (일) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : 참솜, 박소은\n· 예매 :🍈멜론티켓 https://t.co/I8RX9kJzX5\n\n#참솜 #박소은 #롤링홀 #멜론티켓\n#홍대 #인디 #공연 #토크온뮤직 https://t.co/B3P6bhqBQ8"
+	},
+	{
+		"created_at": "Thu Oct 08 03:29:25 +0000 2020",
+		"id": 1314037807657234400,
+		"id_str": "1314045204601737216",
+		"full_text": "TAEMIN 태민 'Criminal (Minit Remix)' MV Teaser\n\n#태민 #TAEMIN #샤이니 #SHINee @SHINee #Criminal #Remix #Minit #SUMIN #iScreaM #ScreaMRecords https://t.co/u1LdywLewr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태민",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						50,
+						57
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						58,
+						62
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						63,
+						70
+					]
+				},
+				{
+					"text": "Criminal",
+					"indices": [
+						79,
+						88
+					]
+				},
+				{
+					"text": "Remix",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "Minit",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "SUMIN",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						110,
+						118
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						119,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SHINee",
+					"name": "SHINee",
+					"id": 887973863824306200,
+					"id_str": "887973863824306176",
+					"indices": [
+						71,
+						78
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313809068637581300,
+					"id_str": "1313809068637581313",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EjxbpGCUcAAbghP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjxbpGCUcAAbghP.jpg",
+					"url": "https://t.co/u1LdywLewr",
+					"display_url": "pic.twitter.com/u1LdywLewr",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1314037807657234439/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313809068637581300,
+					"id_str": "1313809068637581313",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EjxbpGCUcAAbghP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjxbpGCUcAAbghP.jpg",
+					"url": "https://t.co/u1LdywLewr",
+					"display_url": "pic.twitter.com/u1LdywLewr",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1314037807657234439/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 32449,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1313809068637581313/pl/zxrAMFoCgyWqLldr.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1313809068637581313/vid/480x270/PkdMqLavbvd-QnAZ.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1313809068637581313/vid/1280x720/rojhKFE4JhtZQg5v.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1313809068637581313/vid/640x360/ktKRWh6YdnrUJVcU.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8438472,
+			"friends_count": 52,
+			"listed_count": 8243,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3199,
+		"favorite_count": 10670,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "TAEMIN 태민 'Criminal (Minit Remix)' MV Teaser\n\n#태민 #TAEMIN #샤이니 #SHINee @SHINee #Criminal #Remix #Minit #SUMIN #iScreaM #ScreaMRecords https://t.co/u1LdywLewr"
+	},
+	{
 		"created_at": "Thu Oct 08 03:04:08 +0000 2020",
 		"id": 1314038844413575200,
 		"id_str": "1314038844413575168",
