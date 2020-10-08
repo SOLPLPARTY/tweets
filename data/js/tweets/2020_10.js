@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 08 04:58:15 +0000 2020",
+		"id": 1314057117146341400,
+		"id_str": "1314067560527167489",
+		"full_text": "10/9 내일 (!) 세번째 라인업 발표와 함께 . . 2차 티켓 예매를 위한 공지가 있을 예정입니다 . . 티켓 수량이 한정 돼 있으니 예의 주시(많은 관심) 해주십시오!  ﹏ʕ㋛ʔ﹏ https://t.co/iTYXCZOJue",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314056335323852800,
+					"id_str": "1314056335323852800",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejx3RlnUcAAg-Bb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejx3RlnUcAAg-Bb.jpg",
+					"url": "https://t.co/iTYXCZOJue",
+					"display_url": "pic.twitter.com/iTYXCZOJue",
+					"expanded_url": "https://twitter.com/paranmanzangnan/status/1314057117146341378/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314056335323852800,
+					"id_str": "1314056335323852800",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejx3RlnUcAAg-Bb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejx3RlnUcAAg-Bb.jpg",
+					"url": "https://t.co/iTYXCZOJue",
+					"display_url": "pic.twitter.com/iTYXCZOJue",
+					"expanded_url": "https://twitter.com/paranmanzangnan/status/1314057117146341378/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1281461183942287400,
+			"id_str": "1281461183942287360",
+			"name": "파란만장",
+			"screen_name": "paranmanzangnan",
+			"location": "",
+			"description": "10월 17일 혜화 마로니에 공원에서 페스티벌이 열려버린다.. 🌈시설장애인, 도시소외계층,인디씬의 자유로운 움직임을 향한 모두의 페스티벌 파란만장 *곧 . . 엄청난 세번째 라인업과 함께 2차 티켓 오픈!",
+			"url": "https://t.co/zUx51Xu0UB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zUx51Xu0UB",
+							"expanded_url": "https://linktr.ee/paranmanzang",
+							"display_url": "linktr.ee/paranmanzang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 205,
+			"friends_count": 584,
+			"listed_count": 0,
+			"created_at": "Fri Jul 10 05:32:28 +0000 2020",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 80,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1281461183942287360/1594906157",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "10/9 내일 (!) 세번째 라인업 발표와 함께 . . 2차 티켓 예매를 위한 공지가 있을 예정입니다 . . 티켓 수량이 한정 돼 있으니 예의 주시(많은 관심) 해주십시오!  ﹏ʕ㋛ʔ﹏ https://t.co/iTYXCZOJue"
+	},
+	{
 		"created_at": "Thu Oct 08 04:11:17 +0000 2020",
 		"id": 1314042017056399400,
 		"id_str": "1314055742979280899",
