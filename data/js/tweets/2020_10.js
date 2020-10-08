@@ -1,6 +1,456 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 08 13:11:17 +0000 2020",
+		"id": 1314184159112261600,
+		"id_str": "1314191636671406080",
+		"full_text": "[시공간집 3] 둘째 날의 아름다운 풍경✨\n\n#재미공작소 #시공간집 #시공간집3 #강성은 #김소연 #김행숙 #박시하 #신해욱 #이성미 #이원 #이제니 #정한아 #하재연 \n#서울문화재단 #2020예술공간지원사업 https://t.co/vE53QCLPMp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "재미공작소",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "시공간집",
+					"indices": [
+						32,
+						37
+					]
+				},
+				{
+					"text": "시공간집3",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "강성은",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "김소연",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "김행숙",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "박시하",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "신해욱",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "이성미",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "이원",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "이제니",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "정한아",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "하재연",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "서울문화재단",
+					"indices": [
+						95,
+						102
+					]
+				},
+				{
+					"text": "2020예술공간지원사업",
+					"indices": [
+						103,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314183843033702400,
+					"id_str": "1314183843033702402",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314183843033702402/pu/img/-xUVCDUn4lUYm1P9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314183843033702402/pu/img/-xUVCDUn4lUYm1P9.jpg",
+					"url": "https://t.co/vE53QCLPMp",
+					"display_url": "pic.twitter.com/vE53QCLPMp",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1314184159112261638/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314183843033702400,
+					"id_str": "1314183843033702402",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314183843033702402/pu/img/-xUVCDUn4lUYm1P9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314183843033702402/pu/img/-xUVCDUn4lUYm1P9.jpg",
+					"url": "https://t.co/vE53QCLPMp",
+					"display_url": "pic.twitter.com/vE53QCLPMp",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1314184159112261638/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 25167,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314183843033702402/pu/vid/480x480/iCMU4jxATkrtLTOj.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314183843033702402/pu/vid/720x720/VJJgW58cIAq1n6tS.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1314183843033702402/pu/pl/e2Tg2E3hjET6dTnw.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314183843033702402/pu/vid/320x320/G8ek3FxfCJpRiDz9.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1313825554689261600,
+		"in_reply_to_status_id_str": "1313825554689261569",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8137,
+			"friends_count": 583,
+			"listed_count": 83,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[시공간집 3] 둘째 날의 아름다운 풍경✨\n\n#재미공작소 #시공간집 #시공간집3 #강성은 #김소연 #김행숙 #박시하 #신해욱 #이성미 #이원 #이제니 #정한아 #하재연 \n#서울문화재단 #2020예술공간지원사업 https://t.co/vE53QCLPMp"
+	},
+	{
+		"created_at": "Thu Oct 08 12:29:25 +0000 2020",
+		"id": 1314179275096879000,
+		"id_str": "1314181099686375424",
+		"full_text": "본격적인 선발과정 시작, 퇴교자 속출\n\n&lt; 가짜사나이2 Ep. 03 &gt;\nhttps://t.co/mYQ4QNbnjn \n\n#샘김 #SamKim #가짜사나이2\n@LeegitItsSam 🔥",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "샘김",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "SamKim",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"text": "가짜사나이2",
+					"indices": [
+						84,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeegitItsSam",
+					"name": "Sam Kim 샘김",
+					"id": 1202716135,
+					"id_str": "1202716135",
+					"indices": [
+						92,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mYQ4QNbnjn",
+					"expanded_url": "https://youtu.be/CRGQxL6u1xE",
+					"display_url": "youtu.be/CRGQxL6u1xE",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seunghwan, Lee Jin Ah, CHAI, Yun Seokcheol, Jukjae Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34745,
+			"friends_count": 10,
+			"listed_count": 368,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1600795805",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "본격적인 선발과정 시작, 퇴교자 속출\n\n&lt; 가짜사나이2 Ep. 03 &gt;\nhttps://t.co/mYQ4QNbnjn \n\n#샘김 #SamKim #가짜사나이2\n@LeegitItsSam 🔥"
+	},
+	{
 		"created_at": "Thu Oct 08 12:17:29 +0000 2020",
 		"id": 1314178099924406300,
 		"id_str": "1314178099924406272",
