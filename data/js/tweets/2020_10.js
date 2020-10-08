@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 08 16:11:17 +0000 2020",
+		"id": 1314230464320663600,
+		"id_str": "1314236935490154499",
+		"full_text": "2020.10.09(금) #한글날 공연 안내\n2관 연극 #이퀄 14:00, 18:00\n3관 연극 #오만과편견 14:00, 18:00\n\n여유 있는 이동시간을 계획해 주세요!\n(가급적 지하철 이용을 권장합니다) https://t.co/igyf7s3okr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "한글날",
+					"indices": [
+						14,
+						18
+					]
+				},
+				{
+					"text": "이퀄",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "오만과편견",
+					"indices": [
+						54,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/igyf7s3okr",
+					"expanded_url": "https://twitter.com/seoulmania/status/1314184692287991810",
+					"display_url": "twitter.com/seoulmania/sta…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1104695434893652000,
+			"id_str": "1104695434893651968",
+			"name": "YES24 STAGE_예스24 스테이지",
+			"screen_name": "yes24stage",
+			"location": "대한민국 서울 종로구 대학로12길, 21",
+			"description": "예스24(주)가 운영하는 공연장 운영법인인 예스24라이브홀(주)의 #대학로 공연장 #예스24스테이지 ( #YES24STAGE ) 의 공식 트위터입니다.",
+			"url": "https://t.co/gpVU45TxjE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gpVU45TxjE",
+							"expanded_url": "https://www.yes24stage.com/",
+							"display_url": "yes24stage.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4429,
+			"friends_count": 33,
+			"listed_count": 11,
+			"created_at": "Sun Mar 10 10:48:10 +0000 2019",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1104695434893651968/1585722791",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1314184692287991800,
+		"quoted_status_id_str": "1314184692287991810",
+		"quoted_status_permalink": {
+			"url": "https://t.co/igyf7s3okr",
+			"expanded": "https://twitter.com/seoulmania/status/1314184692287991810",
+			"display": "twitter.com/seoulmania/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 08 12:43:41 +0000 2020",
+			"id": 1314184692287991800,
+			"id_str": "1314184692287991810",
+			"full_text": "한글날 집회 시, 🔼광화문 일대 버스 임시우회 예정 🔼광화문·시청역 등 인근 역사 열차 무정차 통과 및 출입구가 폐쇄될 수 있습니다.\n\n가급적 도심 이동을 자제해주시고, 불가피한 이동시 TOPIS(https://t.co/qzS1LHnQTm), 📱120, 서울교통공사 SNS(@seoul_metro) 등을 확인후 이동해주시기 바랍니다 https://t.co/dNjcr51tFD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				185
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "seoul_metro",
+						"name": "서울교통공사 SeoulMetro",
+						"id": 64331888,
+						"id_str": "64331888",
+						"indices": [
+							153,
+							165
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/qzS1LHnQTm",
+						"expanded_url": "http://topis.seoul.go.kr",
+						"display_url": "topis.seoul.go.kr",
+						"indices": [
+							110,
+							133
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1314184662407762000,
+						"id_str": "1314184662407761921",
+						"indices": [
+							186,
+							209
+						],
+						"media_url": "http://pbs.twimg.com/media/Ejzr_NQU0AEB5s4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ejzr_NQU0AEB5s4.jpg",
+						"url": "https://t.co/dNjcr51tFD",
+						"display_url": "pic.twitter.com/dNjcr51tFD",
+						"expanded_url": "https://twitter.com/seoulmania/status/1314184692287991810/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 744,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1271,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 422,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1314184662407762000,
+						"id_str": "1314184662407761921",
+						"indices": [
+							186,
+							209
+						],
+						"media_url": "http://pbs.twimg.com/media/Ejzr_NQU0AEB5s4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ejzr_NQU0AEB5s4.jpg",
+						"url": "https://t.co/dNjcr51tFD",
+						"display_url": "pic.twitter.com/dNjcr51tFD",
+						"expanded_url": "https://twitter.com/seoulmania/status/1314184692287991810/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 744,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1271,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 422,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 93794912,
+				"id_str": "93794912",
+				"name": "서울시",
+				"screen_name": "seoulmania",
+				"location": "대한민국 서울",
+				"description": "서울특별시에서 운영하는 대표 트위터입니다. 시민분들과 서울의 소식을 함께 나누고자 합니다. \"내 삶이 행복한 서울, 시민이 주인인 서울\"!!",
+				"url": "https://t.co/VBZ8BW24xq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VBZ8BW24xq",
+								"expanded_url": "http://www.seoul.go.kr",
+								"display_url": "seoul.go.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 244448,
+				"friends_count": 47836,
+				"listed_count": 1529,
+				"created_at": "Tue Dec 01 05:10:38 +0000 2009",
+				"favourites_count": 1360,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 28872,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/990778005403328512/4FGyiKmv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/990778005403328512/4FGyiKmv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/93794912/1601862936",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36,
+			"favorite_count": 49,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 31,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2020.10.09(금) #한글날 공연 안내\n2관 연극 #이퀄 14:00, 18:00\n3관 연극 #오만과편견 14:00, 18:00\n\n여유 있는 이동시간을 계획해 주세요!\n(가급적 지하철 이용을 권장합니다) https://t.co/igyf7s3okr"
+	},
+	{
 		"created_at": "Thu Oct 08 13:11:17 +0000 2020",
 		"id": 1314184159112261600,
 		"id_str": "1314191636671406080",
