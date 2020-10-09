@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 09 21:29:25 +0000 2020",
+		"id": 1314673763724656600,
+		"id_str": "1314679383643377665",
+		"full_text": "Rookie soloist Hayeon speaks about what it's like living as the younger sister of Girls' Generation's Taeyeon https://t.co/lL6pyMUe5W @allkpop 님이 씀",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "allkpop",
+					"name": "allkpop",
+					"id": 21366823,
+					"id_str": "21366823",
+					"indices": [
+						134,
+						142
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lL6pyMUe5W",
+					"expanded_url": "https://www.allkpop.com/article/2020/10/rookie-soloist-hayeon-speaks-about-what-its-like-living-as-the-younger-sister-of-girls-generations-taeyeon",
+					"display_url": "allkpop.com/article/2020/1…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 964372210436591600,
+			"id_str": "964372210436591616",
+			"name": "Enterarts - A.I.M / Soup in the Moon",
+			"screen_name": "aimbyenterarts",
+			"location": "Seoul, Republic of Korea",
+			"description": "The World's First AI Music Production Company & Record Label\n세계 최초 인공지능 음반 제작 & 레이블",
+			"url": "https://t.co/4A9OjK1Yel",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4A9OjK1Yel",
+							"expanded_url": "http://www.enterarts.net",
+							"display_url": "enterarts.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 180,
+			"friends_count": 140,
+			"listed_count": 2,
+			"created_at": "Fri Feb 16 05:33:46 +0000 2018",
+			"favourites_count": 341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964373734273433600/Z0O1Lz_s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964373734273433600/Z0O1Lz_s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/964372210436591616/1518759589",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Rookie soloist Hayeon speaks about what it's like living as the younger sister of Girls' Generation's Taeyeon https://t.co/lL6pyMUe5W @allkpop 님이 씀"
+	},
+	{
 		"created_at": "Fri Oct 09 17:11:41 +0000 2020",
 		"id": 1314607822223503400,
 		"id_str": "1314614523647721478",
