@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 09 05:29:25 +0000 2020",
+		"id": 1314426180871753700,
+		"id_str": "1314437791485435904",
+		"full_text": "[이자람] 📌오늘 밤 12시40분, KBS 2TV &lt;유희열의 스케치북&gt;에  ‘소리꾼 이자람’이 출연합니다! \n\n@jjjjjam\n\n#이자람 #leejaram #유희열의스케치북\n\nhttps://t.co/clixYTEHkJ https://t.co/JiyrxrMKHD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이자람",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "leejaram",
+					"indices": [
+						83,
+						92
+					]
+				},
+				{
+					"text": "유희열의스케치북",
+					"indices": [
+						93,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jjjjjam",
+					"name": "LeeJaram",
+					"id": 110053057,
+					"id_str": "110053057",
+					"indices": [
+						68,
+						76
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/clixYTEHkJ",
+					"expanded_url": "https://www.instagram.com/p/CGEuvtWlWH1/?igshid=1f5kinqc1utzh",
+					"display_url": "instagram.com/p/CGEuvtWlWH1/…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314426176857763800,
+					"id_str": "1314426176857763842",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej3HpMsU8AI9voZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej3HpMsU8AI9voZ.jpg",
+					"url": "https://t.co/JiyrxrMKHD",
+					"display_url": "pic.twitter.com/JiyrxrMKHD",
+					"expanded_url": "https://twitter.com/blueboy_kr/status/1314426180871753728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 731,
+							"h": 516,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 731,
+							"h": 516,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314426176857763800,
+					"id_str": "1314426176857763842",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej3HpMsU8AI9voZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej3HpMsU8AI9voZ.jpg",
+					"url": "https://t.co/JiyrxrMKHD",
+					"display_url": "pic.twitter.com/JiyrxrMKHD",
+					"expanded_url": "https://twitter.com/blueboy_kr/status/1314426180871753728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 731,
+							"h": 516,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 731,
+							"h": 516,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 613235782,
+			"id_str": "613235782",
+			"name": "BLUE BOY",
+			"screen_name": "blueboy_kr",
+			"location": "",
+			"description": "언니네 이발관 / Wouter Hamel / 이자람 판소리 / 한승석&정재일 / [info.blueboy@gmail.com]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1311,
+			"friends_count": 189,
+			"listed_count": 15,
+			"created_at": "Wed Jun 20 07:48:47 +0000 2012",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1818,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이자람] 📌오늘 밤 12시40분, KBS 2TV &lt;유희열의 스케치북&gt;에  ‘소리꾼 이자람’이 출연합니다! \n\n@jjjjjam\n\n#이자람 #leejaram #유희열의스케치북\n\nhttps://t.co/clixYTEHkJ https://t.co/JiyrxrMKHD"
+	},
+	{
 		"created_at": "Fri Oct 09 05:11:21 +0000 2020",
 		"id": 1314430284998164500,
 		"id_str": "1314433244939661318",
