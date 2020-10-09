@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 09 11:29:25 +0000 2020",
+		"id": 1314515276600234000,
+		"id_str": "1314528388619603968",
+		"full_text": "#20201009\n#미니멀라이프페스티벌 #미라페 #MLF\n오늘은 3회차 공연\n#정튠 #정아로 #그래쓰 님들과\n#홍대 #롤링홀 \n다음주엔 #DEUL #모티 님들과 함께 https://t.co/PctJZmNAbo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미니멀라이프페스티벌",
+					"indices": [
+						10,
+						21
+					]
+				},
+				{
+					"text": "미라페",
+					"indices": [
+						22,
+						26
+					]
+				},
+				{
+					"text": "MLF",
+					"indices": [
+						27,
+						31
+					]
+				},
+				{
+					"text": "정튠",
+					"indices": [
+						43,
+						46
+					]
+				},
+				{
+					"text": "정아로",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "그래쓰",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "DEUL",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "모티",
+					"indices": [
+						82,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314515268261933000,
+					"id_str": "1314515268261933056",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej4YrACUcAArN2U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej4YrACUcAArN2U.jpg",
+					"url": "https://t.co/PctJZmNAbo",
+					"display_url": "pic.twitter.com/PctJZmNAbo",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1314515276600233986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314515268261933000,
+					"id_str": "1314515268261933056",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej4YrACUcAArN2U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej4YrACUcAArN2U.jpg",
+					"url": "https://t.co/PctJZmNAbo",
+					"display_url": "pic.twitter.com/PctJZmNAbo",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1314515276600233986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2679,
+			"friends_count": 341,
+			"listed_count": 33,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 16815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5523,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#20201009\n#미니멀라이프페스티벌 #미라페 #MLF\n오늘은 3회차 공연\n#정튠 #정아로 #그래쓰 님들과\n#홍대 #롤링홀 \n다음주엔 #DEUL #모티 님들과 함께 https://t.co/PctJZmNAbo"
+	},
+	{
 		"created_at": "Fri Oct 09 10:29:25 +0000 2020",
 		"id": 1314506651043471400,
 		"id_str": "1314513288848384000",
