@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 10 15:29:25 +0000 2020",
+		"id": 1314943773911253000,
+		"id_str": "1314951174190247937",
+		"full_text": "[#조정치] JUNGCHI DAY🎉\n\nHappy Birthday to 조정치🎂\n미스틱스토리 아티스트 조정치의 생일을 축하합니다🎁❤️\n\n#200825 #음력 #happybirthday #birthday #생일 https://t.co/Z05OnaNU5O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조정치",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "음력",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "happybirthday",
+					"indices": [
+						87,
+						101
+					]
+				},
+				{
+					"text": "birthday",
+					"indices": [
+						102,
+						111
+					]
+				},
+				{
+					"text": "생일",
+					"indices": [
+						112,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314076180371271700,
+					"id_str": "1314076180371271680",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EjyJUuLU8AAVmGg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjyJUuLU8AAVmGg.jpg",
+					"url": "https://t.co/Z05OnaNU5O",
+					"display_url": "pic.twitter.com/Z05OnaNU5O",
+					"expanded_url": "https://twitter.com/themysticstory/status/1314943773911252992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314076180371271700,
+					"id_str": "1314076180371271680",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EjyJUuLU8AAVmGg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjyJUuLU8AAVmGg.jpg",
+					"url": "https://t.co/Z05OnaNU5O",
+					"display_url": "pic.twitter.com/Z05OnaNU5O",
+					"expanded_url": "https://twitter.com/themysticstory/status/1314943773911252992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19867,
+			"friends_count": 18,
+			"listed_count": 228,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#조정치] JUNGCHI DAY🎉\n\nHappy Birthday to 조정치🎂\n미스틱스토리 아티스트 조정치의 생일을 축하합니다🎁❤️\n\n#200825 #음력 #happybirthday #birthday #생일 https://t.co/Z05OnaNU5O"
+	},
+	{
 		"created_at": "Sat Oct 10 15:11:17 +0000 2020",
 		"id": 1314942746252124200,
 		"id_str": "1314946611714420736",
