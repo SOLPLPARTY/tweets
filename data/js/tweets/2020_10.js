@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 10 14:11:28 +0000 2020",
+		"id": 1314917479278276600,
+		"id_str": "1314931558361501697",
+		"full_text": "1. 티켓 수령\n2. 문진표 작성 (유증상자 입장 제한)\n3. 마스크 착용, 손 소독제 사용 의무화\n4. QR코드 등록 (네이버, 카카오톡)\n5. 발열 체크 (37.5도 이상 입장 제한)\n6. 공연장 입장",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1314917411166982100,
+		"in_reply_to_status_id_str": "1314917411166982146",
+		"in_reply_to_user_id": 1291327050578456600,
+		"in_reply_to_user_id_str": "1291327050578456578",
+		"in_reply_to_screen_name": "rollinghall1995",
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/4e0ZekwoYX",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4e0ZekwoYX",
+							"expanded_url": "http://bitly.kr/LZ7SBbWTTTr",
+							"display_url": "bitly.kr/LZ7SBbWTTTr",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 28,
+			"friends_count": 3,
+			"listed_count": 1,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "1. 티켓 수령\n2. 문진표 작성 (유증상자 입장 제한)\n3. 마스크 착용, 손 소독제 사용 의무화\n4. QR코드 등록 (네이버, 카카오톡)\n5. 발열 체크 (37.5도 이상 입장 제한)\n6. 공연장 입장"
+	},
+	{
+		"created_at": "Sat Oct 10 14:11:23 +0000 2020",
+		"id": 1314917411166982100,
+		"id_str": "1314931536827908100",
+		"full_text": "안전과 예방에 협조 부탁드립니다.\n(*입장 전 마스크 착용 및 손소독제 사용은 필수이며, 사전 검사 진행 시 유증상자 분들은 입장이 제한될 수 있는 점 양해 부탁드립니다. 이 경우 당일 현장에서 전액 환불 예정입니다.)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1314917330363707400,
+		"in_reply_to_status_id_str": "1314917330363707392",
+		"in_reply_to_user_id": 1291327050578456600,
+		"in_reply_to_user_id_str": "1291327050578456578",
+		"in_reply_to_screen_name": "rollinghall1995",
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/4e0ZekwoYX",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4e0ZekwoYX",
+							"expanded_url": "http://bitly.kr/LZ7SBbWTTTr",
+							"display_url": "bitly.kr/LZ7SBbWTTTr",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 28,
+			"friends_count": 3,
+			"listed_count": 1,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "안전과 예방에 협조 부탁드립니다.\n(*입장 전 마스크 착용 및 손소독제 사용은 필수이며, 사전 검사 진행 시 유증상자 분들은 입장이 제한될 수 있는 점 양해 부탁드립니다. 이 경우 당일 현장에서 전액 환불 예정입니다.)"
+	},
+	{
+		"created_at": "Sat Oct 10 14:11:20 +0000 2020",
+		"id": 1314917330363707400,
+		"id_str": "1314931523674660871",
+		"full_text": "※ 롤링홀은 코로나19에 대한 정부의 방역지침을 준수하고 협조 하에 운영 중에 있습니다. 관객분들의 안전을 위해, 공연 전 아래와 같은 절차가 진행될 예정입니다. 이에 따라 시간을 갖고 여유있게 방문해 주시길 부탁드리며, 절차를 거부하거나 따르지 않는 관객분들은 입장이 제한될 수 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1314917058501464000,
+		"in_reply_to_status_id_str": "1314917058501464064",
+		"in_reply_to_user_id": 1291327050578456600,
+		"in_reply_to_user_id_str": "1291327050578456578",
+		"in_reply_to_screen_name": "rollinghall1995",
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/4e0ZekwoYX",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4e0ZekwoYX",
+							"expanded_url": "http://bitly.kr/LZ7SBbWTTTr",
+							"display_url": "bitly.kr/LZ7SBbWTTTr",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 28,
+			"friends_count": 3,
+			"listed_count": 1,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "※ 롤링홀은 코로나19에 대한 정부의 방역지침을 준수하고 협조 하에 운영 중에 있습니다. 관객분들의 안전을 위해, 공연 전 아래와 같은 절차가 진행될 예정입니다. 이에 따라 시간을 갖고 여유있게 방문해 주시길 부탁드리며, 절차를 거부하거나 따르지 않는 관객분들은 입장이 제한될 수 있습니다."
+	},
+	{
 		"created_at": "Sat Oct 10 11:11:30 +0000 2020",
 		"id": 1314884073710473200,
 		"id_str": "1314886269407821824",
