@@ -1,6 +1,574 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 10 11:11:30 +0000 2020",
+		"id": 1314884073710473200,
+		"id_str": "1314886269407821824",
+		"full_text": "#상상마당 #설문이벤트\n\n[KT&amp;G 상상마당 홍대 10월 #고객만족도 설문조사]\n복합문화예술공간 KT&amp;G 상상마당 홍대에 대한\n여러분의 소중한 의견을 들려주세요👂🏻\n\n🟠설문참여 (네이버 폼 링크) https://t.co/wS8pR4pbSB\n🟠10/27 화요일까지!! / 5명 추첨 선물 증정🎁 https://t.co/cX1YXYgpBK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상상마당",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "설문이벤트",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "고객만족도",
+					"indices": [
+						36,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wS8pR4pbSB",
+					"expanded_url": "http://bit.ly/3lvMWjX",
+					"display_url": "bit.ly/3lvMWjX",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314884067125457000,
+					"id_str": "1314884067125456896",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej9oF63VcAALato.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej9oF63VcAALato.jpg",
+					"url": "https://t.co/cX1YXYgpBK",
+					"display_url": "pic.twitter.com/cX1YXYgpBK",
+					"expanded_url": "https://twitter.com/SSmadang/status/1314884073710473217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314884067125457000,
+					"id_str": "1314884067125456896",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej9oF63VcAALato.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej9oF63VcAALato.jpg",
+					"url": "https://t.co/cX1YXYgpBK",
+					"display_url": "pic.twitter.com/cX1YXYgpBK",
+					"expanded_url": "https://twitter.com/SSmadang/status/1314884073710473217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18153,
+			"friends_count": 1914,
+			"listed_count": 0,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 474,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#상상마당 #설문이벤트\n\n[KT&amp;G 상상마당 홍대 10월 #고객만족도 설문조사]\n복합문화예술공간 KT&amp;G 상상마당 홍대에 대한\n여러분의 소중한 의견을 들려주세요👂🏻\n\n🟠설문참여 (네이버 폼 링크) https://t.co/wS8pR4pbSB\n🟠10/27 화요일까지!! / 5명 추첨 선물 증정🎁 https://t.co/cX1YXYgpBK"
+	},
+	{
+		"created_at": "Sat Oct 10 11:11:26 +0000 2020",
+		"id": 1314883362977325000,
+		"id_str": "1314886252194394113",
+		"full_text": "[CREDIT]\n\n◼ 인터뷰 : 임희윤 @heeyun_lim\n◼ 사진제공 : 붕가붕가레코드 \n◼ 디자인 : 이솔이 @iamsolei\n◼ 기획 : 웨스트브릿지 @westbridge_official\n◼ 발행 : 씬디 티켓라운지 @xindieticket",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iamsolei",
+					"name": "Solei 🤍",
+					"id": 1286515140058181600,
+					"id_str": "1286515140058181632",
+					"indices": [
+						64,
+						73
+					]
+				},
+				{
+					"screen_name": "xindieticket",
+					"name": "씬디 티켓라운지",
+					"id": 1220731080,
+					"id_str": "1220731080",
+					"indices": [
+						125,
+						138
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1314883359600902100,
+		"in_reply_to_status_id_str": "1314883359600902146",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2780,
+			"friends_count": 2694,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[CREDIT]\n\n◼ 인터뷰 : 임희윤 @heeyun_lim\n◼ 사진제공 : 붕가붕가레코드 \n◼ 디자인 : 이솔이 @iamsolei\n◼ 기획 : 웨스트브릿지 @westbridge_official\n◼ 발행 : 씬디 티켓라운지 @xindieticket"
+	},
+	{
+		"created_at": "Sat Oct 10 11:11:21 +0000 2020",
+		"id": 1314883359600902100,
+		"id_str": "1314886230803390465",
+		"full_text": "+) 생생하고 심도 깊은 소식을 전달드리기 위해 새로운 소식이 추가되었습니다.\n\n✔ 커버 아티스트가 숨겨둔 취미를 소개하는 '덕밍아웃'\n✔ 유통사 직원이 진짜 추천하는 'This Month, This Album!'\n✔ 라이징 아티스트 미니 인터뷰 'Rising Artists'\n\n새로워진 씬디매거진을 구독해보세요 ♫ https://t.co/TCceBfHFS2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314883243708014600,
+					"id_str": "1314883243708014592",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej9nV_ZUYAASONe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej9nV_ZUYAASONe.jpg",
+					"url": "https://t.co/TCceBfHFS2",
+					"display_url": "pic.twitter.com/TCceBfHFS2",
+					"expanded_url": "https://twitter.com/xindieticket/status/1314883359600902146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314883243708014600,
+					"id_str": "1314883243708014592",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej9nV_ZUYAASONe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej9nV_ZUYAASONe.jpg",
+					"url": "https://t.co/TCceBfHFS2",
+					"display_url": "pic.twitter.com/TCceBfHFS2",
+					"expanded_url": "https://twitter.com/xindieticket/status/1314883359600902146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1314883243808751600,
+					"id_str": "1314883243808751616",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej9nV_xVgAA2Kxq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej9nV_xVgAA2Kxq.jpg",
+					"url": "https://t.co/TCceBfHFS2",
+					"display_url": "pic.twitter.com/TCceBfHFS2",
+					"expanded_url": "https://twitter.com/xindieticket/status/1314883359600902146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1314883243917758500,
+					"id_str": "1314883243917758464",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej9nWALU0AA06v1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej9nWALU0AA06v1.jpg",
+					"url": "https://t.co/TCceBfHFS2",
+					"display_url": "pic.twitter.com/TCceBfHFS2",
+					"expanded_url": "https://twitter.com/xindieticket/status/1314883359600902146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1314883350755070000,
+		"in_reply_to_status_id_str": "1314883350755069952",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2780,
+			"friends_count": 2694,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "+) 생생하고 심도 깊은 소식을 전달드리기 위해 새로운 소식이 추가되었습니다.\n\n✔ 커버 아티스트가 숨겨둔 취미를 소개하는 '덕밍아웃'\n✔ 유통사 직원이 진짜 추천하는 'This Month, This Album!'\n✔ 라이징 아티스트 미니 인터뷰 'Rising Artists'\n\n새로워진 씬디매거진을 구독해보세요 ♫ https://t.co/TCceBfHFS2"
+	},
+	{
 		"created_at": "Sat Oct 10 09:29:25 +0000 2020",
 		"id": 1314847530463580200,
 		"id_str": "1314860577836204034",
