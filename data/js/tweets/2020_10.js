@@ -1,6 +1,553 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 11 05:11:17 +0000 2020",
+		"id": 1315155164177797000,
+		"id_str": "1315158002945662976",
+		"full_text": "[추천 '실시간 스트리밍' 공연]\n\n\"Show Must Go On - Live Stream Donation Concert\" 💕\n\n2019년 1월 &lt;The next generation&gt;을 시작으로 꾸준히 활동하고 있는 차세대의 라이브 공연을 10월 13일 저녁 9시에 만나볼 수 있다고 합니다!\n\n💥링크를 통해 만나보실 수 있어요!\n▶ https://t.co/w3cbMDUSZp https://t.co/Ei3UISS72J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w3cbMDUSZp",
+					"expanded_url": "http://youtube.com/c/senggistudio",
+					"display_url": "youtube.com/c/senggistudio",
+					"indices": [
+						193,
+						216
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1314899092535869400,
+					"id_str": "1314899092535869442",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314899092535869442/pu/img/hsNTSbEYOoFb_g6R.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314899092535869442/pu/img/hsNTSbEYOoFb_g6R.jpg",
+					"url": "https://t.co/Ei3UISS72J",
+					"display_url": "pic.twitter.com/Ei3UISS72J",
+					"expanded_url": "https://twitter.com/xindieticket/status/1315155164177797120/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314899092535869400,
+					"id_str": "1314899092535869442",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314899092535869442/pu/img/hsNTSbEYOoFb_g6R.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314899092535869442/pu/img/hsNTSbEYOoFb_g6R.jpg",
+					"url": "https://t.co/Ei3UISS72J",
+					"display_url": "pic.twitter.com/Ei3UISS72J",
+					"expanded_url": "https://twitter.com/xindieticket/status/1315155164177797120/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 17208,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314899092535869442/pu/vid/320x320/d3zWg5tE-hdu_xBM.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314899092535869442/pu/vid/480x480/PXpAtCUV4-iswSI_.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314899092535869442/pu/vid/640x640/21mqA-P6mMy4mKSe.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1314899092535869442/pu/pl/-YfCmVemOQS3ZpDU.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2779,
+			"friends_count": 2693,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5304,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[추천 '실시간 스트리밍' 공연]\n\n\"Show Must Go On - Live Stream Donation Concert\" 💕\n\n2019년 1월 &lt;The next generation&gt;을 시작으로 꾸준히 활동하고 있는 차세대의 라이브 공연을 10월 13일 저녁 9시에 만나볼 수 있다고 합니다!\n\n💥링크를 통해 만나보실 수 있어요!\n▶ https://t.co/w3cbMDUSZp https://t.co/Ei3UISS72J"
+	},
+	{
+		"created_at": "Sun Oct 11 04:29:32 +0000 2020",
+		"id": 1315144355712102400,
+		"id_str": "1315147497585733633",
+		"full_text": "[전기뱀장어] 단독 공연 &lt;파트타임히어로즈&gt; ⚡️\n드디어 신곡을 라이브로 전해드릴 수 있다는 설레는 마음으로 리허설 중이에요. ❣️\n3시와 7시 두번의 공연으로 만나요!\n2020.10.11 Sun @벨로주 홍대\n#전기뱀장어 #파트타임히어로즈 #싱글발매 #기념공연 #푸른꿈 #벨로주홍대 #단독공연 https://t.co/7SI5idwAbB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전기뱀장어",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "파트타임히어로즈",
+					"indices": [
+						131,
+						140
+					]
+				},
+				{
+					"text": "싱글발매",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "기념공연",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "푸른꿈",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "벨로주홍대",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						165,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1315144326591119400,
+					"id_str": "1315144326591119366",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EkBUzA7VgAYHF7C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkBUzA7VgAYHF7C.jpg",
+					"url": "https://t.co/7SI5idwAbB",
+					"display_url": "pic.twitter.com/7SI5idwAbB",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1315144355712102400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 607,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 607,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315144326591119400,
+					"id_str": "1315144326591119366",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EkBUzA7VgAYHF7C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkBUzA7VgAYHF7C.jpg",
+					"url": "https://t.co/7SI5idwAbB",
+					"display_url": "pic.twitter.com/7SI5idwAbB",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1315144355712102400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 607,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 607,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1315144334367318000,
+					"id_str": "1315144334367318016",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EkBUzd5U4AAHfRN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkBUzd5U4AAHfRN.jpg",
+					"url": "https://t.co/7SI5idwAbB",
+					"display_url": "pic.twitter.com/7SI5idwAbB",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1315144355712102400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1315144342353268700,
+					"id_str": "1315144342353268738",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EkBUz7pU0AIqvKb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkBUz7pU0AIqvKb.jpg",
+					"url": "https://t.co/7SI5idwAbB",
+					"display_url": "pic.twitter.com/7SI5idwAbB",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1315144355712102400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1315144352738414600,
+					"id_str": "1315144352738414595",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EkBU0iVVkAMt0JR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkBU0iVVkAMt0JR.jpg",
+					"url": "https://t.co/7SI5idwAbB",
+					"display_url": "pic.twitter.com/7SI5idwAbB",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1315144355712102400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1976,
+			"friends_count": 26,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 487,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4994,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1594485943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[전기뱀장어] 단독 공연 &lt;파트타임히어로즈&gt; ⚡️\n드디어 신곡을 라이브로 전해드릴 수 있다는 설레는 마음으로 리허설 중이에요. ❣️\n3시와 7시 두번의 공연으로 만나요!\n2020.10.11 Sun @벨로주 홍대\n#전기뱀장어 #파트타임히어로즈 #싱글발매 #기념공연 #푸른꿈 #벨로주홍대 #단독공연 https://t.co/7SI5idwAbB"
+	},
+	{
 		"created_at": "Sun Oct 11 04:17:21 +0000 2020",
 		"id": 1315144432019214300,
 		"id_str": "1315144432019214339",
