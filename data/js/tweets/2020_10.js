@@ -1,6 +1,386 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 11 10:58:38 +0000 2020",
+		"id": 1315231538112426000,
+		"id_str": "1315245420440891392",
+		"full_text": "EP5의 음악은 단 한대의 건반을 매개로 여러 장르가 결합된다는 것이 가장 큰 특징일 것입니다. 우리는 EP5의 음악을 들으며 신나게 춤을 출 수도 눈을 감고서 꿈꾸는 듯한 어떤 이미지를 상상할 수도 있습니다. 누구나 함께하는 파란만장에서 EP5의 음악세계를 자유롭게 여행하시기 바랍니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1315231535507804200,
+		"in_reply_to_status_id_str": "1315231535507804163",
+		"in_reply_to_user_id": 1281461183942287400,
+		"in_reply_to_user_id_str": "1281461183942287360",
+		"in_reply_to_screen_name": "paranmanzangnan",
+		"user": {
+			"id": 1281461183942287400,
+			"id_str": "1281461183942287360",
+			"name": "파란만장",
+			"screen_name": "paranmanzangnan",
+			"location": "",
+			"description": "10월 17일 혜화 마로니에 공원에서 페스티벌이 열려버린다.. 🌈시설장애인, 도시소외계층,인디씬의 자유로운 움직임을 향한 모두의 페스티벌 파란만장",
+			"url": "https://t.co/zUx51Xu0UB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zUx51Xu0UB",
+							"expanded_url": "https://linktr.ee/paranmanzang",
+							"display_url": "linktr.ee/paranmanzang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 219,
+			"friends_count": 584,
+			"listed_count": 1,
+			"created_at": "Fri Jul 10 05:32:28 +0000 2020",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1281461183942287360/1594906157",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "EP5의 음악은 단 한대의 건반을 매개로 여러 장르가 결합된다는 것이 가장 큰 특징일 것입니다. 우리는 EP5의 음악을 들으며 신나게 춤을 출 수도 눈을 감고서 꿈꾸는 듯한 어떤 이미지를 상상할 수도 있습니다. 누구나 함께하는 파란만장에서 EP5의 음악세계를 자유롭게 여행하시기 바랍니다."
+	},
+	{
+		"created_at": "Sun Oct 11 10:58:30 +0000 2020",
+		"id": 1315231535507804200,
+		"id_str": "1315245386370633728",
+		"full_text": "음반활동 이외에도 단독공연, 수많은 전시의 사운드 디자인, 테마음악 작곡 경력은 EP5의 음악이 경계 없이 확장될 수 있음을 증명합니다. EP5는 종합 장애인문화예술공연 '에이블타임'의 음악감독이기도 했습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1315231533284745200,
+		"in_reply_to_status_id_str": "1315231533284745216",
+		"in_reply_to_user_id": 1281461183942287400,
+		"in_reply_to_user_id_str": "1281461183942287360",
+		"in_reply_to_screen_name": "paranmanzangnan",
+		"user": {
+			"id": 1281461183942287400,
+			"id_str": "1281461183942287360",
+			"name": "파란만장",
+			"screen_name": "paranmanzangnan",
+			"location": "",
+			"description": "10월 17일 혜화 마로니에 공원에서 페스티벌이 열려버린다.. 🌈시설장애인, 도시소외계층,인디씬의 자유로운 움직임을 향한 모두의 페스티벌 파란만장",
+			"url": "https://t.co/zUx51Xu0UB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zUx51Xu0UB",
+							"expanded_url": "https://linktr.ee/paranmanzang",
+							"display_url": "linktr.ee/paranmanzang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 219,
+			"friends_count": 584,
+			"listed_count": 1,
+			"created_at": "Fri Jul 10 05:32:28 +0000 2020",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1281461183942287360/1594906157",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "음반활동 이외에도 단독공연, 수많은 전시의 사운드 디자인, 테마음악 작곡 경력은 EP5의 음악이 경계 없이 확장될 수 있음을 증명합니다. EP5는 종합 장애인문화예술공연 '에이블타임'의 음악감독이기도 했습니다."
+	},
+	{
+		"created_at": "Sun Oct 11 10:58:21 +0000 2020",
+		"id": 1315231533284745200,
+		"id_str": "1315245348156309505",
+		"full_text": "정규앨범 [SPACE, TIME AND MUSIC] 을 발매했습니다. 2018년의 정규 2집 [Waltz, Seoul]은 beehype, WEIV가 뽑은 올해의 앨범에 선정되기도 했습니다. 2020년 10월에는 새 EP 발매를 앞두고 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1315231531133149200,
+		"in_reply_to_status_id_str": "1315231531133149184",
+		"in_reply_to_user_id": 1281461183942287400,
+		"in_reply_to_user_id_str": "1281461183942287360",
+		"in_reply_to_screen_name": "paranmanzangnan",
+		"user": {
+			"id": 1281461183942287400,
+			"id_str": "1281461183942287360",
+			"name": "파란만장",
+			"screen_name": "paranmanzangnan",
+			"location": "",
+			"description": "10월 17일 혜화 마로니에 공원에서 페스티벌이 열려버린다.. 🌈시설장애인, 도시소외계층,인디씬의 자유로운 움직임을 향한 모두의 페스티벌 파란만장",
+			"url": "https://t.co/zUx51Xu0UB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zUx51Xu0UB",
+							"expanded_url": "https://linktr.ee/paranmanzang",
+							"display_url": "linktr.ee/paranmanzang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 219,
+			"friends_count": 584,
+			"listed_count": 1,
+			"created_at": "Fri Jul 10 05:32:28 +0000 2020",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1281461183942287360/1594906157",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "정규앨범 [SPACE, TIME AND MUSIC] 을 발매했습니다. 2018년의 정규 2집 [Waltz, Seoul]은 beehype, WEIV가 뽑은 올해의 앨범에 선정되기도 했습니다. 2020년 10월에는 새 EP 발매를 앞두고 있습니다."
+	},
+	{
+		"created_at": "Sun Oct 11 10:58:19 +0000 2020",
+		"id": 1315231531133149200,
+		"id_str": "1315245339235037186",
+		"full_text": "독창적인 작곡을 바탕으로 그동안 꾸준한 활동을 해왔습니다. 2012년 모든 곡을 작·편곡, 연주, 프로듀싱한 첫 EP [Electric Planet five]를 시작으로 [After Winter], [Yellow] 등 차례로 싱글을 발표했으며, 2016년에는 26곡으로 채워진 두 장의 씨디로",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1315231527815409700,
+		"in_reply_to_status_id_str": "1315231527815409669",
+		"in_reply_to_user_id": 1281461183942287400,
+		"in_reply_to_user_id_str": "1281461183942287360",
+		"in_reply_to_screen_name": "paranmanzangnan",
+		"user": {
+			"id": 1281461183942287400,
+			"id_str": "1281461183942287360",
+			"name": "파란만장",
+			"screen_name": "paranmanzangnan",
+			"location": "",
+			"description": "10월 17일 혜화 마로니에 공원에서 페스티벌이 열려버린다.. 🌈시설장애인, 도시소외계층,인디씬의 자유로운 움직임을 향한 모두의 페스티벌 파란만장",
+			"url": "https://t.co/zUx51Xu0UB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zUx51Xu0UB",
+							"expanded_url": "https://linktr.ee/paranmanzang",
+							"display_url": "linktr.ee/paranmanzang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 219,
+			"friends_count": 584,
+			"listed_count": 1,
+			"created_at": "Fri Jul 10 05:32:28 +0000 2020",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1281461183942287360/1594906157",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "독창적인 작곡을 바탕으로 그동안 꾸준한 활동을 해왔습니다. 2012년 모든 곡을 작·편곡, 연주, 프로듀싱한 첫 EP [Electric Planet five]를 시작으로 [After Winter], [Yellow] 등 차례로 싱글을 발표했으며, 2016년에는 26곡으로 채워진 두 장의 씨디로"
+	},
+	{
 		"created_at": "Sun Oct 11 09:29:25 +0000 2020",
 		"id": 1315215946051547100,
 		"id_str": "1315222964653051909",
