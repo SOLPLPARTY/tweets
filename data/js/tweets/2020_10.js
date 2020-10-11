@@ -1,6 +1,917 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 11 04:17:21 +0000 2020",
+		"id": 1315144432019214300,
+		"id_str": "1315144432019214339",
+		"full_text": "#사운드클라우드 #SoundCloud\n내 사랑 내 곁에 - 신지훈 (jihoon) by 신지훈❁\nhttps://t.co/hEYvt8SQyy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사운드클라우드",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "SoundCloud",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hEYvt8SQyy",
+					"expanded_url": "https://bit.ly/2GLkIDd",
+					"display_url": "bit.ly/2GLkIDd",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 237,
+			"friends_count": 425,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#사운드클라우드 #SoundCloud\n내 사랑 내 곁에 - 신지훈 (jihoon) by 신지훈❁\nhttps://t.co/hEYvt8SQyy"
+	},
+	{
+		"created_at": "Sun Oct 11 04:17:20 +0000 2020",
+		"id": 1315144428558913500,
+		"id_str": "1315144428558913537",
+		"full_text": "#사운드클라우드 #SoundCloud\n잔나비(jannabi) - 주저하는 연인들을 위해 (cover) by 신지훈❁\nhttps://t.co/oQhYbouyYs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사운드클라우드",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "SoundCloud",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oQhYbouyYs",
+					"expanded_url": "https://bit.ly/2GODPMB",
+					"display_url": "bit.ly/2GODPMB",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 237,
+			"friends_count": 425,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#사운드클라우드 #SoundCloud\n잔나비(jannabi) - 주저하는 연인들을 위해 (cover) by 신지훈❁\nhttps://t.co/oQhYbouyYs"
+	},
+	{
+		"created_at": "Sun Oct 11 03:29:32 +0000 2020",
+		"id": 1315128384305787000,
+		"id_str": "1315132398535954432",
+		"full_text": "#SuperM, the only K-pop act to participate in @WHO's Big Event for Mental Health, performs consoling stage for #WorldMentalHealthDay!\n\nWatch SuperM's 'Better Days' performance\n'WHO’s Big Event for Mental Health: performance by SuperM'\n🎬https://t.co/GP900yKCL5\n\n#WHO\n#BetterDays https://t.co/gYKzRPKcXv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SuperM",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "WorldMentalHealthDay",
+					"indices": [
+						111,
+						132
+					]
+				},
+				{
+					"text": "WHO",
+					"indices": [
+						261,
+						265
+					]
+				},
+				{
+					"text": "BetterDays",
+					"indices": [
+						266,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WHO",
+					"name": "World Health Organization (WHO)",
+					"id": 14499829,
+					"id_str": "14499829",
+					"indices": [
+						46,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GP900yKCL5",
+					"expanded_url": "https://youtu.be/AJyRtMp4pIw",
+					"display_url": "youtu.be/AJyRtMp4pIw",
+					"indices": [
+						236,
+						259
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1315126125446623200,
+					"id_str": "1315126125446623237",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EkBEPkYU8AUPPp4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkBEPkYU8AUPPp4.jpg",
+					"url": "https://t.co/gYKzRPKcXv",
+					"display_url": "pic.twitter.com/gYKzRPKcXv",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1315128384305786882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 495,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1491,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 873,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315126125446623200,
+					"id_str": "1315126125446623237",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EkBEPkYU8AUPPp4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkBEPkYU8AUPPp4.jpg",
+					"url": "https://t.co/gYKzRPKcXv",
+					"display_url": "pic.twitter.com/gYKzRPKcXv",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1315128384305786882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 495,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1491,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 873,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8456881,
+			"friends_count": 52,
+			"listed_count": 8256,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4507,
+		"favorite_count": 15378,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SuperM, the only K-pop act to participate in @WHO's Big Event for Mental Health, performs consoling stage for #WorldMentalHealthDay!\n\nWatch SuperM's 'Better Days' performance\n'WHO’s Big Event for Mental Health: performance by SuperM'\n🎬https://t.co/GP900yKCL5\n\n#WHO\n#BetterDays https://t.co/gYKzRPKcXv"
+	},
+	{
+		"created_at": "Sun Oct 11 03:29:28 +0000 2020",
+		"id": 1315124968057831400,
+		"id_str": "1315132381200703488",
+		"full_text": "[sogumm (소금), 오혁 (OHHYUK)]\n야유회 (yayou hoi) X The Famous Burger #든든버거 한정 판매\nㅤ\n-\n#sogumm #소금  #오혁 #OHHYUK\n#야유회 #yayouhoi #든든버거 #더페이머스버거 #TFB\n#AOMG #두루두루아티스트컴퍼니 https://t.co/xKxbysp3q3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "든든버거",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "sogumm",
+					"indices": [
+						79,
+						86
+					]
+				},
+				{
+					"text": "소금",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "오혁",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "OHHYUK",
+					"indices": [
+						96,
+						103
+					]
+				},
+				{
+					"text": "야유회",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "yayouhoi",
+					"indices": [
+						109,
+						118
+					]
+				},
+				{
+					"text": "든든버거",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "더페이머스버거",
+					"indices": [
+						125,
+						133
+					]
+				},
+				{
+					"text": "TFB",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "AOMG",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "두루두루아티스트컴퍼니",
+					"indices": [
+						145,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314938761503883300,
+					"id_str": "1314938761503883264",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314938761503883264/pu/img/j11ZpLzbbXZ1OO4K.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314938761503883264/pu/img/j11ZpLzbbXZ1OO4K.jpg",
+					"url": "https://t.co/xKxbysp3q3",
+					"display_url": "pic.twitter.com/xKxbysp3q3",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1315124968057831425/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314938761503883300,
+					"id_str": "1314938761503883264",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314938761503883264/pu/img/j11ZpLzbbXZ1OO4K.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314938761503883264/pu/img/j11ZpLzbbXZ1OO4K.jpg",
+					"url": "https://t.co/xKxbysp3q3",
+					"display_url": "pic.twitter.com/xKxbysp3q3",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1315124968057831425/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 10000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314938761503883264/pu/vid/480x480/JAIpygJR6h_YVNSK.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314938761503883264/pu/vid/720x720/Y9X9Us9nrfQC6cPk.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1314938761503883264/pu/vid/320x320/jF9fw0fRMnFr_6aC.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1314938761503883264/pu/pl/6zg-Z-YmZw01AD9T.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3545,
+			"friends_count": 5,
+			"listed_count": 81,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[sogumm (소금), 오혁 (OHHYUK)]\n야유회 (yayou hoi) X The Famous Burger #든든버거 한정 판매\nㅤ\n-\n#sogumm #소금  #오혁 #OHHYUK\n#야유회 #yayouhoi #든든버거 #더페이머스버거 #TFB\n#AOMG #두루두루아티스트컴퍼니 https://t.co/xKxbysp3q3"
+	},
+	{
+		"created_at": "Sun Oct 11 03:29:25 +0000 2020",
+		"id": 1315119554410889200,
+		"id_str": "1315132368064315392",
+		"full_text": "동안 (DongAhn) - 기억의 조각 (feat. 이민관) M/V https://t.co/GSouZacKyX 출처 @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						65,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GSouZacKyX",
+					"expanded_url": "https://youtu.be/3YikBiN0LrM",
+					"display_url": "youtu.be/3YikBiN0LrM",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94343878,
+			"id_str": "94343878",
+			"name": "슈가레코드",
+			"screen_name": "sugar_records",
+			"location": "Seoul, KR",
+			"description": "#뷰티핸섬 #리썬 #모브닝 #입술을깨물다 #엔분의일 #당기시오 #우리같은사람들 #이프이너프  함께하는 슈가레코드",
+			"url": "https://t.co/MaZwhWtsct",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MaZwhWtsct",
+							"expanded_url": "http://sugar-records.com",
+							"display_url": "sugar-records.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 542,
+			"friends_count": 34,
+			"listed_count": 10,
+			"created_at": "Thu Dec 03 14:51:49 +0000 2009",
+			"favourites_count": 354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94343878/1548148600",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "동안 (DongAhn) - 기억의 조각 (feat. 이민관) M/V https://t.co/GSouZacKyX 출처 @YouTube"
+	},
+	{
 		"created_at": "Sun Oct 11 03:11:17 +0000 2020",
 		"id": 1315127115713523700,
 		"id_str": "1315127806242754560",
