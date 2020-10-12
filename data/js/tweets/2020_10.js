@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 12 11:11:24 +0000 2020",
+		"id": 1315607919929430000,
+		"id_str": "1315611018475732993",
+		"full_text": "8월 예정이었다가 연기되었던 ' 차세대/아월(OurR)/너드커넥션' 공연이 11/5(목) pm 8, 벨로주 홍대에서 열립니다.\n\n예매 : https://t.co/OVQVub4LkG\n\n* 바로 매진되었던 공연이라 빠른 예매를 권해드립니다.\n* 본 공연은 객석 거리 두기 등의 지침을 준수하여 60석 한정으로 진행됩니다. https://t.co/8vxTZl7Btc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OVQVub4LkG",
+					"expanded_url": "https://c11.kr/ihu1",
+					"display_url": "c11.kr/ihu1",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1315607857006432300,
+					"id_str": "1315607857006432256",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EkH6YCSU0AAZ38k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkH6YCSU0AAZ38k.jpg",
+					"url": "https://t.co/8vxTZl7Btc",
+					"display_url": "pic.twitter.com/8vxTZl7Btc",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1315607919929430016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1575,
+							"h": 1969,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315607857006432300,
+					"id_str": "1315607857006432256",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EkH6YCSU0AAZ38k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkH6YCSU0AAZ38k.jpg",
+					"url": "https://t.co/8vxTZl7Btc",
+					"display_url": "pic.twitter.com/8vxTZl7Btc",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1315607919929430016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1575,
+							"h": 1969,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8746,
+			"friends_count": 145,
+			"listed_count": 135,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "8월 예정이었다가 연기되었던 ' 차세대/아월(OurR)/너드커넥션' 공연이 11/5(목) pm 8, 벨로주 홍대에서 열립니다.\n\n예매 : https://t.co/OVQVub4LkG\n\n* 바로 매진되었던 공연이라 빠른 예매를 권해드립니다.\n* 본 공연은 객석 거리 두기 등의 지침을 준수하여 60석 한정으로 진행됩니다. https://t.co/8vxTZl7Btc"
+	},
+	{
+		"created_at": "Mon Oct 12 11:11:17 +0000 2020",
+		"id": 1315604220599394300,
+		"id_str": "1315610988616585220",
+		"full_text": "[다음의 X : 임솔아 X 정원 편] 2020.10.30(금) PM 7:30 https://t.co/BYKg5k8BBq https://t.co/L0xLNzCxPY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BYKg5k8BBq",
+					"expanded_url": "https://m.blog.naver.com/studiozemi/222113506185",
+					"display_url": "m.blog.naver.com/studiozemi/222…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1315604213771034600,
+					"id_str": "1315604213771034624",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/EkH3D-LUYAAROAJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkH3D-LUYAAROAJ.jpg",
+					"url": "https://t.co/L0xLNzCxPY",
+					"display_url": "pic.twitter.com/L0xLNzCxPY",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1315604220599394305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 740,
+							"h": 740,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 740,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315604213771034600,
+					"id_str": "1315604213771034624",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/EkH3D-LUYAAROAJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkH3D-LUYAAROAJ.jpg",
+					"url": "https://t.co/L0xLNzCxPY",
+					"display_url": "pic.twitter.com/L0xLNzCxPY",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1315604220599394305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 740,
+							"h": 740,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 740,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8143,
+			"friends_count": 583,
+			"listed_count": 82,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14539,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[다음의 X : 임솔아 X 정원 편] 2020.10.30(금) PM 7:30 https://t.co/BYKg5k8BBq https://t.co/L0xLNzCxPY"
+	},
+	{
 		"created_at": "Mon Oct 12 09:58:19 +0000 2020",
 		"id": 1315580441403912200,
 		"id_str": "1315592628772237318",
