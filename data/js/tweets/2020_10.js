@@ -1,6 +1,899 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 13 03:02:36 +0000 2020",
+		"id": 1315850395558740000,
+		"id_str": "1315850395558739968",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n윌로 (WILRO) - Life's Work (Feat.키비) [Lyric Video]\nhttps://t.co/2YGNviJwV1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2YGNviJwV1",
+					"expanded_url": "https://youtu.be/ioUv0SIy5MQ",
+					"display_url": "youtu.be/ioUv0SIy5MQ",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 237,
+			"friends_count": 425,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n윌로 (WILRO) - Life's Work (Feat.키비) [Lyric Video]\nhttps://t.co/2YGNviJwV1"
+	},
+	{
+		"created_at": "Tue Oct 13 03:02:11 +0000 2020",
+		"id": 1315850289887543300,
+		"id_str": "1315850289887543297",
+		"full_text": "#솔플파티 트위터 뉴스레터 (Oct 13) https://t.co/F8Cp0YqIxU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "솔플파티",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F8Cp0YqIxU",
+					"expanded_url": "https://nzzl.us/52jTMhu",
+					"display_url": "nzzl.us/52jTMhu",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 237,
+			"friends_count": 425,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#솔플파티 트위터 뉴스레터 (Oct 13) https://t.co/F8Cp0YqIxU"
+	},
+	{
+		"created_at": "Tue Oct 13 03:00:06 +0000 2020",
+		"id": 1315849768334250000,
+		"id_str": "1315849768334249985",
+		"full_text": "#Pentaport_Rock_Festival #펜타포트락페스티벌\n2020펜타 라인업 영상-국카스텐\nhttps://t.co/9isK09mQAZ\n#블로그 #페스티벌 #Festival",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Pentaport_Rock_Festival",
+					"indices": [
+						0,
+						24
+					]
+				},
+				{
+					"text": "펜타포트락페스티벌",
+					"indices": [
+						25,
+						35
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "Festival",
+					"indices": [
+						90,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9isK09mQAZ",
+					"expanded_url": "https://bit.ly/3lSdqg3",
+					"display_url": "bit.ly/3lSdqg3",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 237,
+			"friends_count": 425,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Pentaport_Rock_Festival #펜타포트락페스티벌\n2020펜타 라인업 영상-국카스텐\nhttps://t.co/9isK09mQAZ\n#블로그 #페스티벌 #Festival"
+	},
+	{
+		"created_at": "Tue Oct 13 02:58:35 +0000 2020",
+		"id": 1315846624275357700,
+		"id_str": "1315849384358281217",
+		"full_text": "에이퍼즈는 멤버들 스스로 작편곡한 넘버들을 바탕으로, 매번 무대마다 어떻게 달라질지 모르는 즉흥 연주를 선보이는 '라이브파' 실력자들이기도 합니다. 무대와 객석의 경계가 허물어지는 파란만장에서 여러분의 흥을 에이퍼즈와 나누고, 단 한 번이 될 이들의 음악을 경험하시기 바랍니다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1315846623038038000,
+		"in_reply_to_status_id_str": "1315846623038038016",
+		"in_reply_to_user_id": 1281461183942287400,
+		"in_reply_to_user_id_str": "1281461183942287360",
+		"in_reply_to_screen_name": "paranmanzangnan",
+		"user": {
+			"id": 1281461183942287400,
+			"id_str": "1281461183942287360",
+			"name": "파란만장",
+			"screen_name": "paranmanzangnan",
+			"location": "",
+			"description": "10월 17일 혜화 마로니에 공원에서 페스티벌이 열려버린다.. 🌈시설장애인, 도시소외계층,인디씬의 자유로운 움직임을 향한 모두의 페스티벌 파란만장",
+			"url": "https://t.co/zUx51Xu0UB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zUx51Xu0UB",
+							"expanded_url": "https://linktr.ee/paranmanzang",
+							"display_url": "linktr.ee/paranmanzang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 220,
+			"friends_count": 583,
+			"listed_count": 1,
+			"created_at": "Fri Jul 10 05:32:28 +0000 2020",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1281461183942287360/1594906157",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "에이퍼즈는 멤버들 스스로 작편곡한 넘버들을 바탕으로, 매번 무대마다 어떻게 달라질지 모르는 즉흥 연주를 선보이는 '라이브파' 실력자들이기도 합니다. 무대와 객석의 경계가 허물어지는 파란만장에서 여러분의 흥을 에이퍼즈와 나누고, 단 한 번이 될 이들의 음악을 경험하시기 바랍니다"
+	},
+	{
+		"created_at": "Tue Oct 13 02:58:29 +0000 2020",
+		"id": 1315846623038038000,
+		"id_str": "1315849358672310272",
+		"full_text": "그 실력을 인정받았습니다. 2016년의 정규앨범 [UNDERWATER]를 비롯해 그동안 싱글과 EP를 꾸준히 발매하였고 공연을 통해 관객을 만나 왔습니다. 이들은 '보컬 없이도 이렇게나 신날 수 있다'는 것을 보여주는, 인디 씬의 몇 안 되는 귀한 밴드입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1315846621901385700,
+		"in_reply_to_status_id_str": "1315846621901385728",
+		"in_reply_to_user_id": 1281461183942287400,
+		"in_reply_to_user_id_str": "1281461183942287360",
+		"in_reply_to_screen_name": "paranmanzangnan",
+		"user": {
+			"id": 1281461183942287400,
+			"id_str": "1281461183942287360",
+			"name": "파란만장",
+			"screen_name": "paranmanzangnan",
+			"location": "",
+			"description": "10월 17일 혜화 마로니에 공원에서 페스티벌이 열려버린다.. 🌈시설장애인, 도시소외계층,인디씬의 자유로운 움직임을 향한 모두의 페스티벌 파란만장",
+			"url": "https://t.co/zUx51Xu0UB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zUx51Xu0UB",
+							"expanded_url": "https://linktr.ee/paranmanzang",
+							"display_url": "linktr.ee/paranmanzang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 220,
+			"friends_count": 583,
+			"listed_count": 1,
+			"created_at": "Fri Jul 10 05:32:28 +0000 2020",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1281461183942287360/1594906157",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그 실력을 인정받았습니다. 2016년의 정규앨범 [UNDERWATER]를 비롯해 그동안 싱글과 EP를 꾸준히 발매하였고 공연을 통해 관객을 만나 왔습니다. 이들은 '보컬 없이도 이렇게나 신날 수 있다'는 것을 보여주는, 인디 씬의 몇 안 되는 귀한 밴드입니다."
+	},
+	{
+		"created_at": "Tue Oct 13 02:58:19 +0000 2020",
+		"id": 1315846621901385700,
+		"id_str": "1315849320411824128",
+		"full_text": "보다 다양한 음악, 황홀한 연주를 감상하기 원하는 사람이라면 바로 지금 에이퍼즈(A-Fuzz)를 만나야 합니다. 에이퍼즈는 김진이, 송슬기, 신선미로 이루어진 밴드입니다. 2015년 첫 EP [Fading Lights]로 데뷔 , 그해 EBS 스페이스 공감 '올해의 헬로루키' 대상, K-루키즈 우수상을 수상하며",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1315846617774211000,
+		"in_reply_to_status_id_str": "1315846617774211072",
+		"in_reply_to_user_id": 1281461183942287400,
+		"in_reply_to_user_id_str": "1281461183942287360",
+		"in_reply_to_screen_name": "paranmanzangnan",
+		"user": {
+			"id": 1281461183942287400,
+			"id_str": "1281461183942287360",
+			"name": "파란만장",
+			"screen_name": "paranmanzangnan",
+			"location": "",
+			"description": "10월 17일 혜화 마로니에 공원에서 페스티벌이 열려버린다.. 🌈시설장애인, 도시소외계층,인디씬의 자유로운 움직임을 향한 모두의 페스티벌 파란만장",
+			"url": "https://t.co/zUx51Xu0UB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zUx51Xu0UB",
+							"expanded_url": "https://linktr.ee/paranmanzang",
+							"display_url": "linktr.ee/paranmanzang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 220,
+			"friends_count": 583,
+			"listed_count": 1,
+			"created_at": "Fri Jul 10 05:32:28 +0000 2020",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1281461183942287360/1594906157",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "보다 다양한 음악, 황홀한 연주를 감상하기 원하는 사람이라면 바로 지금 에이퍼즈(A-Fuzz)를 만나야 합니다. 에이퍼즈는 김진이, 송슬기, 신선미로 이루어진 밴드입니다. 2015년 첫 EP [Fading Lights]로 데뷔 , 그해 EBS 스페이스 공감 '올해의 헬로루키' 대상, K-루키즈 우수상을 수상하며"
+	},
+	{
+		"created_at": "Tue Oct 13 02:58:15 +0000 2020",
+		"id": 1315846617774211000,
+		"id_str": "1315849302808371202",
+		"full_text": "🌈 라인업 아티스트 소개 #13 에이퍼즈 🌈\n놀라울 정도로 탄탄한 합, 누구 한명 빠지지 않는 폭발적인 솔로 연주. 이들의 퍼포먼스는 해외 락, 재즈 페스티벌의 메인 스테이지에 와 있는 듯한 착각마저 들게 합니다. https://t.co/4vsBiARpjY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1315846265096212500,
+					"id_str": "1315846265096212480",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EkLTNNoVkAA-Cpa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkLTNNoVkAA-Cpa.jpg",
+					"url": "https://t.co/4vsBiARpjY",
+					"display_url": "pic.twitter.com/4vsBiARpjY",
+					"expanded_url": "https://twitter.com/paranmanzangnan/status/1315846617774211072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315846265096212500,
+					"id_str": "1315846265096212480",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EkLTNNoVkAA-Cpa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkLTNNoVkAA-Cpa.jpg",
+					"url": "https://t.co/4vsBiARpjY",
+					"display_url": "pic.twitter.com/4vsBiARpjY",
+					"expanded_url": "https://twitter.com/paranmanzangnan/status/1315846617774211072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1281461183942287400,
+			"id_str": "1281461183942287360",
+			"name": "파란만장",
+			"screen_name": "paranmanzangnan",
+			"location": "",
+			"description": "10월 17일 혜화 마로니에 공원에서 페스티벌이 열려버린다.. 🌈시설장애인, 도시소외계층,인디씬의 자유로운 움직임을 향한 모두의 페스티벌 파란만장",
+			"url": "https://t.co/zUx51Xu0UB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zUx51Xu0UB",
+							"expanded_url": "https://linktr.ee/paranmanzang",
+							"display_url": "linktr.ee/paranmanzang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 220,
+			"friends_count": 583,
+			"listed_count": 1,
+			"created_at": "Fri Jul 10 05:32:28 +0000 2020",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1281461183942287360/1594906157",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌈 라인업 아티스트 소개 #13 에이퍼즈 🌈\n놀라울 정도로 탄탄한 합, 누구 한명 빠지지 않는 폭발적인 솔로 연주. 이들의 퍼포먼스는 해외 락, 재즈 페스티벌의 메인 스테이지에 와 있는 듯한 착각마저 들게 합니다. https://t.co/4vsBiARpjY"
+	},
+	{
 		"created_at": "Tue Oct 13 01:29:33 +0000 2020",
 		"id": 1315823151704465400,
 		"id_str": "1315826979850067968",
