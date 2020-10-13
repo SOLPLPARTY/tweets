@@ -1,6 +1,1107 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 13 15:17:10 +0000 2020",
+		"id": 1316030991484346400,
+		"id_str": "1316035255757725697",
+		"full_text": "“Highlight Medley”\n⠀\nLOOПΔ 3rd Mini Album [12:00]\n2020.10.19 pm6 (KST) Release\n⠀\n#이달의소녀 #LOONA #Midnight #Why_Not\n\n▶️ https://t.co/XBAVj4biNZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이달의소녀",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "Midnight",
+					"indices": [
+						95,
+						104
+					]
+				},
+				{
+					"text": "Why_Not",
+					"indices": [
+						105,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XBAVj4biNZ",
+					"expanded_url": "https://youtu.be/kenK8iIJ8ZE",
+					"display_url": "youtu.be/kenK8iIJ8ZE",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 770959712791597000,
+			"id_str": "770959712791597056",
+			"name": "이달의 소녀(LOOΠΔ)",
+			"screen_name": "loonatheworld",
+			"location": "",
+			"description": "이달의 소녀 공식 트위터입니다.",
+			"url": "https://t.co/hthRlo3Dn7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hthRlo3Dn7",
+							"expanded_url": "http://www.loonatheworld.com",
+							"display_url": "loonatheworld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 552951,
+			"friends_count": 0,
+			"listed_count": 5729,
+			"created_at": "Wed Aug 31 12:21:34 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/770991945896255488/fRzzSHnM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/770959712791597056/1579586496",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7842,
+		"favorite_count": 14413,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Highlight Medley”\n⠀\nLOOПΔ 3rd Mini Album [12:00]\n2020.10.19 pm6 (KST) Release\n⠀\n#이달의소녀 #LOONA #Midnight #Why_Not\n\n▶️ https://t.co/XBAVj4biNZ"
+	},
+	{
+		"created_at": "Tue Oct 13 15:17:02 +0000 2020",
+		"id": 1316031078839152600,
+		"id_str": "1316035222161428481",
+		"full_text": "LEE SUHYUN 'ALIEN' M/V TEASER\n\n1st Single\n✅2020.10.16 6PM\n\n🎬YouTube : https://t.co/yS76wmvg4R\n📺NAVER TV : https://t.co/5RzvfSx5lx\n\n#이수현 #LEESUHYUN #1stSingle #ALIEN #MV_Teaser #Release #20201016_6PM #YG https://t.co/JTiy73fFPe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이수현",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "LEESUHYUN",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"text": "1stSingle",
+					"indices": [
+						147,
+						157
+					]
+				},
+				{
+					"text": "ALIEN",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"text": "MV_Teaser",
+					"indices": [
+						165,
+						175
+					]
+				},
+				{
+					"text": "Release",
+					"indices": [
+						176,
+						184
+					]
+				},
+				{
+					"text": "20201016_6PM",
+					"indices": [
+						185,
+						198
+					]
+				},
+				{
+					"text": "YG",
+					"indices": [
+						199,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yS76wmvg4R",
+					"expanded_url": "https://youtu.be/MFddJHljGx8",
+					"display_url": "youtu.be/MFddJHljGx8",
+					"indices": [
+						70,
+						93
+					]
+				},
+				{
+					"url": "https://t.co/5RzvfSx5lx",
+					"expanded_url": "https://tv.naver.com/v/16202604",
+					"display_url": "tv.naver.com/v/16202604",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1316028195318104000,
+					"id_str": "1316028195318104065",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EkN5DA2VoAMyhcb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkN5DA2VoAMyhcb.jpg",
+					"url": "https://t.co/JTiy73fFPe",
+					"display_url": "pic.twitter.com/JTiy73fFPe",
+					"expanded_url": "https://twitter.com/ygent_official/status/1316031078839152641/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316028195318104000,
+					"id_str": "1316028195318104065",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EkN5DA2VoAMyhcb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkN5DA2VoAMyhcb.jpg",
+					"url": "https://t.co/JTiy73fFPe",
+					"display_url": "pic.twitter.com/JTiy73fFPe",
+					"expanded_url": "https://twitter.com/ygent_official/status/1316031078839152641/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26026,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1316028195318104065/vid/480x270/-EzLvgJz45t8eAqd.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1316028195318104065/vid/1280x720/7e56G6JycwpvokbU.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1316028195318104065/vid/640x360/FSEzu-pYHhX4LKrr.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1316028195318104065/pl/-5QQcAGPMlnR2FqG.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "LEE SUHYUN 'ALIEN' M/V TEASER",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 408177579,
+			"id_str": "408177579",
+			"name": "YG FAMILY",
+			"screen_name": "ygent_official",
+			"location": "Seoul, Korea",
+			"description": "#YG Entertainment official Twitter [https://t.co/06dwX0GzjL] #BIGBANG #WINNER #iKON #BLACKPINK #SECHSKIES #AKMU #DARA #TREASURE",
+			"url": "https://t.co/wXrDfyxWkS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wXrDfyxWkS",
+							"expanded_url": "https://www.instagram.com/yg_ent_official",
+							"display_url": "instagram.com/yg_ent_official",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/06dwX0GzjL",
+							"expanded_url": "http://youtube.com/ygentertainment",
+							"display_url": "youtube.com/ygentertainment",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6830030,
+			"friends_count": 38,
+			"listed_count": 6885,
+			"created_at": "Wed Nov 09 02:41:52 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869446110246428673/3vewgMjz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/408177579/1495160410",
+			"profile_link_color": "C82123",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "2E2E2E",
+			"profile_text_color": "FFFFFF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4064,
+		"favorite_count": 9959,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LEE SUHYUN 'ALIEN' M/V TEASER\n\n1st Single\n✅2020.10.16 6PM\n\n🎬YouTube : https://t.co/yS76wmvg4R\n📺NAVER TV : https://t.co/5RzvfSx5lx\n\n#이수현 #LEESUHYUN #1stSingle #ALIEN #MV_Teaser #Release #20201016_6PM #YG https://t.co/JTiy73fFPe"
+	},
+	{
+		"created_at": "Tue Oct 13 15:11:16 +0000 2020",
+		"id": 1316031615466762200,
+		"id_str": "1316033773046304768",
+		"full_text": "[시공간집 3] 여섯째 날의 아름다운 풍경 ✍️\n\n#재미공작소 #시공간집 #시공간집3 #강성은 #김소연 #김행숙 #박시하 #신해욱 #이성미 #이원 #이제니 #정한아 #하재연 \n#서울문화재단 #2020예술공간지원사업 https://t.co/QaaL3HhQIP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "재미공작소",
+					"indices": [
+						28,
+						34
+					]
+				},
+				{
+					"text": "시공간집",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "시공간집3",
+					"indices": [
+						41,
+						47
+					]
+				},
+				{
+					"text": "강성은",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "김소연",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "김행숙",
+					"indices": [
+						58,
+						62
+					]
+				},
+				{
+					"text": "박시하",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "신해욱",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "이성미",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "이원",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "이제니",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "정한아",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "하재연",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "서울문화재단",
+					"indices": [
+						98,
+						105
+					]
+				},
+				{
+					"text": "2020예술공간지원사업",
+					"indices": [
+						106,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316031209655287800,
+					"id_str": "1316031209655287812",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1316031209655287812/pu/img/PU-KTrPZgHEB3Y3Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1316031209655287812/pu/img/PU-KTrPZgHEB3Y3Q.jpg",
+					"url": "https://t.co/QaaL3HhQIP",
+					"display_url": "pic.twitter.com/QaaL3HhQIP",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1316031615466762240/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316031209655287800,
+					"id_str": "1316031209655287812",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1316031209655287812/pu/img/PU-KTrPZgHEB3Y3Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1316031209655287812/pu/img/PU-KTrPZgHEB3Y3Q.jpg",
+					"url": "https://t.co/QaaL3HhQIP",
+					"display_url": "pic.twitter.com/QaaL3HhQIP",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1316031615466762240/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 22908,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316031209655287812/pu/vid/720x720/yDUPDAGLxb1cgrTM.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316031209655287812/pu/vid/320x320/1KLI99rEzv94WEBc.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316031209655287812/pu/vid/480x480/ToMMnOAdWHvdioil.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1316031209655287812/pu/pl/6XDBlOl3Nb7NSiZH.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1315277729030307800,
+		"in_reply_to_status_id_str": "1315277729030307840",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8147,
+			"friends_count": 582,
+			"listed_count": 82,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[시공간집 3] 여섯째 날의 아름다운 풍경 ✍️\n\n#재미공작소 #시공간집 #시공간집3 #강성은 #김소연 #김행숙 #박시하 #신해욱 #이성미 #이원 #이제니 #정한아 #하재연 \n#서울문화재단 #2020예술공간지원사업 https://t.co/QaaL3HhQIP"
+	},
+	{
+		"created_at": "Tue Oct 13 14:25:15 +0000 2020",
+		"id": 1316020220880810000,
+		"id_str": "1316022192962850819",
+		"full_text": "https://t.co/GMEEoEZmDc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GMEEoEZmDc",
+					"expanded_url": "https://youtu.be/RdzvyvGcOYQ",
+					"display_url": "youtu.be/RdzvyvGcOYQ",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1316020219194667000,
+		"in_reply_to_status_id_str": "1316020219194667010",
+		"in_reply_to_user_id": 1265873983213191200,
+		"in_reply_to_user_id_str": "1265873983213191170",
+		"in_reply_to_screen_name": "leenalchi",
+		"user": {
+			"id": 1265873983213191200,
+			"id_str": "1265873983213191170",
+			"name": "이날치LEENALCHI_official",
+			"screen_name": "leenalchi",
+			"location": "",
+			"description": "이날치 공식 계정입니다. \nLEENALCHI official.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 373,
+			"friends_count": 1,
+			"listed_count": 5,
+			"created_at": "Thu May 28 05:15:46 +0000 2020",
+			"favourites_count": 111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265874850683338752/lcPuagZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265874850683338752/lcPuagZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1265873983213191170/1590651012",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/GMEEoEZmDc"
+	},
+	{
+		"created_at": "Tue Oct 13 14:25:11 +0000 2020",
+		"id": 1316020219194667000,
+		"id_str": "1316022172817584128",
+		"full_text": "https://t.co/RW9LHDpfk0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RW9LHDpfk0",
+					"expanded_url": "https://youtu.be/R2GeUF_xm1Y",
+					"display_url": "youtu.be/R2GeUF_xm1Y",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1316020217328222200,
+		"in_reply_to_status_id_str": "1316020217328222209",
+		"in_reply_to_user_id": 1265873983213191200,
+		"in_reply_to_user_id_str": "1265873983213191170",
+		"in_reply_to_screen_name": "leenalchi",
+		"user": {
+			"id": 1265873983213191200,
+			"id_str": "1265873983213191170",
+			"name": "이날치LEENALCHI_official",
+			"screen_name": "leenalchi",
+			"location": "",
+			"description": "이날치 공식 계정입니다. \nLEENALCHI official.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 373,
+			"friends_count": 1,
+			"listed_count": 5,
+			"created_at": "Thu May 28 05:15:46 +0000 2020",
+			"favourites_count": 111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265874850683338752/lcPuagZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265874850683338752/lcPuagZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1265873983213191170/1590651012",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/RW9LHDpfk0"
+	},
+	{
+		"created_at": "Tue Oct 13 14:25:08 +0000 2020",
+		"id": 1316020217328222200,
+		"id_str": "1316022159907545090",
+		"full_text": "https://t.co/OdCtBrQ2kC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OdCtBrQ2kC",
+					"expanded_url": "https://youtu.be/CitIMlaa8To",
+					"display_url": "youtu.be/CitIMlaa8To",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1316020215918940200,
+		"in_reply_to_status_id_str": "1316020215918940161",
+		"in_reply_to_user_id": 1265873983213191200,
+		"in_reply_to_user_id_str": "1265873983213191170",
+		"in_reply_to_screen_name": "leenalchi",
+		"user": {
+			"id": 1265873983213191200,
+			"id_str": "1265873983213191170",
+			"name": "이날치LEENALCHI_official",
+			"screen_name": "leenalchi",
+			"location": "",
+			"description": "이날치 공식 계정입니다. \nLEENALCHI official.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 373,
+			"friends_count": 1,
+			"listed_count": 5,
+			"created_at": "Thu May 28 05:15:46 +0000 2020",
+			"favourites_count": 111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265874850683338752/lcPuagZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265874850683338752/lcPuagZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1265873983213191170/1590651012",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/OdCtBrQ2kC"
+	},
+	{
+		"created_at": "Tue Oct 13 14:25:04 +0000 2020",
+		"id": 1316020213435961300,
+		"id_str": "1316022146162810882",
+		"full_text": "🧠Imagine Your Korea!🧠\n-\nKTO just uploaded musical videos for three beautiful Korean cities!\n🏖GANGNEUNG: Ddiddiroo Diroo Diroo\n⛴ MOKPO: Crying Softshell Turtle\n🎑ANDONG: You Know Who I Am?\n\nWe dream the day we can travel the world again! 🦚",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1265873983213191200,
+			"id_str": "1265873983213191170",
+			"name": "이날치LEENALCHI_official",
+			"screen_name": "leenalchi",
+			"location": "",
+			"description": "이날치 공식 계정입니다. \nLEENALCHI official.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 373,
+			"friends_count": 1,
+			"listed_count": 5,
+			"created_at": "Thu May 28 05:15:46 +0000 2020",
+			"favourites_count": 111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265874850683338752/lcPuagZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265874850683338752/lcPuagZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1265873983213191170/1590651012",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "🧠Imagine Your Korea!🧠\n-\nKTO just uploaded musical videos for three beautiful Korean cities!\n🏖GANGNEUNG: Ddiddiroo Diroo Diroo\n⛴ MOKPO: Crying Softshell Turtle\n🎑ANDONG: You Know Who I Am?\n\nWe dream the day we can travel the world again! 🦚"
+	},
+	{
 		"created_at": "Tue Oct 13 14:11:17 +0000 2020",
 		"id": 1316013789670588400,
 		"id_str": "1316018675946717194",
