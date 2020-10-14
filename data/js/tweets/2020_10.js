@@ -1,6 +1,1539 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 14 06:17:04 +0000 2020",
+		"id": 1316261725264642000,
+		"id_str": "1316261725264642049",
+		"full_text": "#사운드클라우드 #SoundCloud\n기억나지 않는 것들 by 박소은\nhttps://t.co/JTU34fhiPV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사운드클라우드",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "SoundCloud",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JTU34fhiPV",
+					"expanded_url": "https://bit.ly/3iW3foA",
+					"display_url": "bit.ly/3iW3foA",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 237,
+			"friends_count": 427,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#사운드클라우드 #SoundCloud\n기억나지 않는 것들 by 박소은\nhttps://t.co/JTU34fhiPV"
+	},
+	{
+		"created_at": "Wed Oct 14 06:11:59 +0000 2020",
+		"id": 1316242277820366800,
+		"id_str": "1316260445531955201",
+		"full_text": "어떻게 나올지 저도 궁금한😇\n정밀아 정규3집&lt;청파소나타&gt;\n.\n타이틀곡&lt;서울역에서 출발&gt;MV Teaser. https://t.co/rll6bCFxls",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316238099228188700,
+					"id_str": "1316238099228188673",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1316238099228188673/pu/img/YcYvJMEejqe8VDIp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1316238099228188673/pu/img/YcYvJMEejqe8VDIp.jpg",
+					"url": "https://t.co/rll6bCFxls",
+					"display_url": "pic.twitter.com/rll6bCFxls",
+					"expanded_url": "https://twitter.com/Jeong_milla/status/1316242277820366849/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316238099228188700,
+					"id_str": "1316238099228188673",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1316238099228188673/pu/img/YcYvJMEejqe8VDIp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1316238099228188673/pu/img/YcYvJMEejqe8VDIp.jpg",
+					"url": "https://t.co/rll6bCFxls",
+					"display_url": "pic.twitter.com/rll6bCFxls",
+					"expanded_url": "https://twitter.com/Jeong_milla/status/1316242277820366849/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 23982,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1316238099228188673/pu/pl/OX-vhq-aVnfnIYh1.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316238099228188673/pu/vid/480x270/Ut8-edCzGIWMEufh.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316238099228188673/pu/vid/640x360/jUe2JH2SeYoH1Zl2.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316238099228188673/pu/vid/1280x720/KNts2ANRohT6iUJM.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2972799367,
+			"id_str": "2972799367",
+			"name": "정밀아Jeongmilla",
+			"screen_name": "Jeong_milla",
+			"location": "",
+			"description": "정밀아 정규1집_그리움도 병/정규2집_은하수/정규3집_청파소나타/싱글_무명/꽃/언제나그댈",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 479,
+			"friends_count": 87,
+			"listed_count": 6,
+			"created_at": "Sat Jan 10 18:56:39 +0000 2015",
+			"favourites_count": 186,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925331758010155009/ponxSZf9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925331758010155009/ponxSZf9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2972799367/1602596479",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어떻게 나올지 저도 궁금한😇\n정밀아 정규3집&lt;청파소나타&gt;\n.\n타이틀곡&lt;서울역에서 출발&gt;MV Teaser. https://t.co/rll6bCFxls"
+	},
+	{
+		"created_at": "Wed Oct 14 06:11:18 +0000 2020",
+		"id": 1316257429433118700,
+		"id_str": "1316260271325933568",
+		"full_text": "[추천 '실시간 스트리밍' 공연]\n\n\"Show Must Go On - Live Stream Donation Concert\" 💕\n\n일렉트로닉 음악, 어쿠스틱한 음악 모두에 어울리는 보이스를 가진 호란님의 스트리밍 공연을 15일 저녁 9시에 만나보실 수 있다고 합니다!\n\n💥링크를 통해 만나보실 수 있어요!\n▶ https://t.co/yp8Srx0Gzs https://t.co/sVIp4QJej5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yp8Srx0Gzs",
+					"expanded_url": "https://www.youtube.com/c/senggistudio",
+					"display_url": "youtube.com/c/senggistudio",
+					"indices": [
+						172,
+						195
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1316250156388376600,
+					"id_str": "1316250156388376576",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1316250156388376576/pu/img/Wgkoj0Sib2CsHjYg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1316250156388376576/pu/img/Wgkoj0Sib2CsHjYg.jpg",
+					"url": "https://t.co/sVIp4QJej5",
+					"display_url": "pic.twitter.com/sVIp4QJej5",
+					"expanded_url": "https://twitter.com/xindieticket/status/1316257429433118720/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316250156388376600,
+					"id_str": "1316250156388376576",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1316250156388376576/pu/img/Wgkoj0Sib2CsHjYg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1316250156388376576/pu/img/Wgkoj0Sib2CsHjYg.jpg",
+					"url": "https://t.co/sVIp4QJej5",
+					"display_url": "pic.twitter.com/sVIp4QJej5",
+					"expanded_url": "https://twitter.com/xindieticket/status/1316257429433118720/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 20183,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316250156388376576/pu/vid/640x640/b2XPRmTq4CLP9PtH.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1316250156388376576/pu/pl/YjhSbzLLcw3HrvDz.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316250156388376576/pu/vid/480x480/Af6vxkjDPbNsf93M.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316250156388376576/pu/vid/320x320/i4p4er0WqTQSQ5Lj.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2780,
+			"friends_count": 2693,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[추천 '실시간 스트리밍' 공연]\n\n\"Show Must Go On - Live Stream Donation Concert\" 💕\n\n일렉트로닉 음악, 어쿠스틱한 음악 모두에 어울리는 보이스를 가진 호란님의 스트리밍 공연을 15일 저녁 9시에 만나보실 수 있다고 합니다!\n\n💥링크를 통해 만나보실 수 있어요!\n▶ https://t.co/yp8Srx0Gzs https://t.co/sVIp4QJej5"
+	},
+	{
+		"created_at": "Wed Oct 14 06:10:28 +0000 2020",
+		"id": 1315955941905375200,
+		"id_str": "1316260063644844034",
+		"full_text": "- 음악은 그대로, 음질만 달라진 채로 재발매됩니다.\n리마스터 이전 버전은 키라라의 밴드캠프 https://t.co/7twu43REu3 에만 남겨놓을 예정입니다.\n- 이번 rw 프로젝트로, 애플뮤직과 스포티파이에서도 키라라의 1집 [rcts], 2집 [moves]를 들으실 수 있게 됩니다. 많은 관심 부탁드립니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7twu43REu3",
+					"expanded_url": "https://stqpkiraradongjae.bandcamp.com",
+					"display_url": "stqpkiraradongjae.bandcamp.com",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1315955552489369600,
+		"in_reply_to_status_id_str": "1315955552489369600",
+		"in_reply_to_user_id": 213088094,
+		"in_reply_to_user_id_str": "213088094",
+		"in_reply_to_screen_name": "stqpkiraradj",
+		"user": {
+			"id": 213088094,
+			"id_str": "213088094",
+			"name": "키라라",
+			"screen_name": "stqpkiraradj",
+			"location": "Seoul, Korea",
+			"description": "KIRARA / seoul based electronic musician / contact : stqproject@gmail.com / 현재 개인레슨 남은 슬롯 수 : 0",
+			"url": "https://t.co/9xPX9EkVqo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9xPX9EkVqo",
+							"expanded_url": "http://kirararararararara.com",
+							"display_url": "kirararararararara.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4416,
+			"friends_count": 0,
+			"listed_count": 28,
+			"created_at": "Sun Nov 07 23:04:18 +0000 2010",
+			"favourites_count": 7043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1313080577952636928/sPGSHGOz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1313080577952636928/sPGSHGOz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213088094/1587359498",
+			"profile_link_color": "08C4BE",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "- 음악은 그대로, 음질만 달라진 채로 재발매됩니다.\n리마스터 이전 버전은 키라라의 밴드캠프 https://t.co/7twu43REu3 에만 남겨놓을 예정입니다.\n- 이번 rw 프로젝트로, 애플뮤직과 스포티파이에서도 키라라의 1집 [rcts], 2집 [moves]를 들으실 수 있게 됩니다. 많은 관심 부탁드립니다."
+	},
+	{
+		"created_at": "Wed Oct 14 06:10:22 +0000 2020",
+		"id": 1315955552489369600,
+		"id_str": "1316260039288516608",
+		"full_text": "앨범을 모두 다시 만들었습니다. 키라라의 정규앨범 세 장 전곡의 믹스와 마스터링을 다시하여 디지털 음원을 재발매합니다. 10월 29일에 현재 국내외 음원사이트에 올라와있는 이전 버전이 모두 삭제되고, 새로운 음원이 다시 올라갈 예정입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1315955165397090300,
+		"in_reply_to_status_id_str": "1315955165397090310",
+		"in_reply_to_user_id": 213088094,
+		"in_reply_to_user_id_str": "213088094",
+		"in_reply_to_screen_name": "stqpkiraradj",
+		"user": {
+			"id": 213088094,
+			"id_str": "213088094",
+			"name": "키라라",
+			"screen_name": "stqpkiraradj",
+			"location": "Seoul, Korea",
+			"description": "KIRARA / seoul based electronic musician / contact : stqproject@gmail.com / 현재 개인레슨 남은 슬롯 수 : 0",
+			"url": "https://t.co/9xPX9EkVqo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9xPX9EkVqo",
+							"expanded_url": "http://kirararararararara.com",
+							"display_url": "kirararararararara.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4416,
+			"friends_count": 0,
+			"listed_count": 28,
+			"created_at": "Sun Nov 07 23:04:18 +0000 2010",
+			"favourites_count": 7043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1313080577952636928/sPGSHGOz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1313080577952636928/sPGSHGOz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213088094/1587359498",
+			"profile_link_color": "08C4BE",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "앨범을 모두 다시 만들었습니다. 키라라의 정규앨범 세 장 전곡의 믹스와 마스터링을 다시하여 디지털 음원을 재발매합니다. 10월 29일에 현재 국내외 음원사이트에 올라와있는 이전 버전이 모두 삭제되고, 새로운 음원이 다시 올라갈 예정입니다."
+	},
+	{
+		"created_at": "Wed Oct 14 06:10:19 +0000 2020",
+		"id": 1315955165397090300,
+		"id_str": "1316260023761162242",
+		"full_text": "https://t.co/8jQof16x5m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1315955153950785500,
+					"id_str": "1315955153950785538",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EkM2PYOUwAIXEEL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkM2PYOUwAIXEEL.jpg",
+					"url": "https://t.co/8jQof16x5m",
+					"display_url": "pic.twitter.com/8jQof16x5m",
+					"expanded_url": "https://twitter.com/stqpkiraradj/status/1315955165397090310/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 584,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 584,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 529,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315955153950785500,
+					"id_str": "1315955153950785538",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EkM2PYOUwAIXEEL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkM2PYOUwAIXEEL.jpg",
+					"url": "https://t.co/8jQof16x5m",
+					"display_url": "pic.twitter.com/8jQof16x5m",
+					"expanded_url": "https://twitter.com/stqpkiraradj/status/1315955165397090310/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 750,
+							"h": 584,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 584,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 529,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1315955022912397300,
+		"in_reply_to_status_id_str": "1315955022912397312",
+		"in_reply_to_user_id": 213088094,
+		"in_reply_to_user_id_str": "213088094",
+		"in_reply_to_screen_name": "stqpkiraradj",
+		"user": {
+			"id": 213088094,
+			"id_str": "213088094",
+			"name": "키라라",
+			"screen_name": "stqpkiraradj",
+			"location": "Seoul, Korea",
+			"description": "KIRARA / seoul based electronic musician / contact : stqproject@gmail.com / 현재 개인레슨 남은 슬롯 수 : 0",
+			"url": "https://t.co/9xPX9EkVqo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9xPX9EkVqo",
+							"expanded_url": "http://kirararararararara.com",
+							"display_url": "kirararararararara.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4416,
+			"friends_count": 0,
+			"listed_count": 28,
+			"created_at": "Sun Nov 07 23:04:18 +0000 2010",
+			"favourites_count": 7043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1313080577952636928/sPGSHGOz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1313080577952636928/sPGSHGOz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213088094/1587359498",
+			"profile_link_color": "08C4BE",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/8jQof16x5m"
+	},
+	{
+		"created_at": "Wed Oct 14 06:10:15 +0000 2020",
+		"id": 1315955022912397300,
+		"id_str": "1316260007155961856",
+		"full_text": "10월 29일 목요일\n키라라 정규앨범 3종 리마스터 재발매\n\nrcts (2014)\nmoves (2016)\nSarah (2018) https://t.co/WBhKutP9FU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1315954870126432300,
+					"id_str": "1315954870126432257",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EkM1-25U0AE36yj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkM1-25U0AE36yj.jpg",
+					"url": "https://t.co/WBhKutP9FU",
+					"display_url": "pic.twitter.com/WBhKutP9FU",
+					"expanded_url": "https://twitter.com/stqpkiraradj/status/1315955022912397312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315954870126432300,
+					"id_str": "1315954870126432257",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EkM1-25U0AE36yj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkM1-25U0AE36yj.jpg",
+					"url": "https://t.co/WBhKutP9FU",
+					"display_url": "pic.twitter.com/WBhKutP9FU",
+					"expanded_url": "https://twitter.com/stqpkiraradj/status/1315955022912397312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1315954870138986500,
+					"id_str": "1315954870138986497",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EkM1-28UYAEIGmr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkM1-28UYAEIGmr.jpg",
+					"url": "https://t.co/WBhKutP9FU",
+					"display_url": "pic.twitter.com/WBhKutP9FU",
+					"expanded_url": "https://twitter.com/stqpkiraradj/status/1315955022912397312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1315954870139056000,
+					"id_str": "1315954870139056129",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EkM1-28VcAEtLWm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkM1-28VcAEtLWm.jpg",
+					"url": "https://t.co/WBhKutP9FU",
+					"display_url": "pic.twitter.com/WBhKutP9FU",
+					"expanded_url": "https://twitter.com/stqpkiraradj/status/1315955022912397312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 213088094,
+			"id_str": "213088094",
+			"name": "키라라",
+			"screen_name": "stqpkiraradj",
+			"location": "Seoul, Korea",
+			"description": "KIRARA / seoul based electronic musician / contact : stqproject@gmail.com / 현재 개인레슨 남은 슬롯 수 : 0",
+			"url": "https://t.co/9xPX9EkVqo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9xPX9EkVqo",
+							"expanded_url": "http://kirararararararara.com",
+							"display_url": "kirararararararara.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4416,
+			"friends_count": 0,
+			"listed_count": 28,
+			"created_at": "Sun Nov 07 23:04:18 +0000 2010",
+			"favourites_count": 7043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 38477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1313080577952636928/sPGSHGOz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1313080577952636928/sPGSHGOz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213088094/1587359498",
+			"profile_link_color": "08C4BE",
+			"profile_sidebar_border_color": "D3D2CF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 72,
+		"favorite_count": 96,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "10월 29일 목요일\n키라라 정규앨범 3종 리마스터 재발매\n\nrcts (2014)\nmoves (2016)\nSarah (2018) https://t.co/WBhKutP9FU"
+	},
+	{
+		"created_at": "Wed Oct 14 05:57:15 +0000 2020",
+		"id": 1316256734613209000,
+		"id_str": "1316256734613209088",
+		"full_text": "#Melon #멜론 #멜론매거진\nKhatia Buniatishvili – 내면으로의 긴 여행\nhttps://t.co/Tz8bskcIIh https://t.co/zy5bvej1uM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Melon",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						11,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Tz8bskcIIh",
+					"expanded_url": "https://bit.ly/35aQiTh",
+					"display_url": "bit.ly/35aQiTh",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1316256733510209500,
+					"id_str": "1316256733510209536",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EkRIhnoXkAAQnqr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkRIhnoXkAAQnqr.jpg",
+					"url": "https://t.co/zy5bvej1uM",
+					"display_url": "pic.twitter.com/zy5bvej1uM",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1316256734613209088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316256733510209500,
+					"id_str": "1316256733510209536",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EkRIhnoXkAAQnqr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkRIhnoXkAAQnqr.jpg",
+					"url": "https://t.co/zy5bvej1uM",
+					"display_url": "pic.twitter.com/zy5bvej1uM",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1316256734613209088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 352,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 237,
+			"friends_count": 427,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Melon #멜론 #멜론매거진\nKhatia Buniatishvili – 내면으로의 긴 여행\nhttps://t.co/Tz8bskcIIh https://t.co/zy5bvej1uM"
+	},
+	{
+		"created_at": "Wed Oct 14 05:28:15 +0000 2020",
+		"id": 1316249437342249000,
+		"id_str": "1316249437342248960",
+		"full_text": "#헬리콥터레코즈 #Helicopter_Seoul\nOrganic Beer - TCR​ (​Trans​-​Continental Railway) / 유기농맥주 - TCR​ (​Trans​-​Continental Railway)\nhttps://t.co/bjwTQZS5PH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헬리콥터레코즈",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Helicopter_Seoul",
+					"indices": [
+						9,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bjwTQZS5PH",
+					"expanded_url": "https://youtu.be/vFHIXRpDmkQ",
+					"display_url": "youtu.be/vFHIXRpDmkQ",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 237,
+			"friends_count": 427,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#헬리콥터레코즈 #Helicopter_Seoul\nOrganic Beer - TCR​ (​Trans​-​Continental Railway) / 유기농맥주 - TCR​ (​Trans​-​Continental Railway)\nhttps://t.co/bjwTQZS5PH"
+	},
+	{
 		"created_at": "Wed Oct 14 05:16:21 +0000 2020",
 		"id": 1316246445700403200,
 		"id_str": "1316246445700403201",
