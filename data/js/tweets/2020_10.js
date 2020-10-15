@@ -1,6 +1,649 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 15 15:05:36 +0000 2020",
+		"id": 1316757122118561800,
+		"id_str": "1316757122118561793",
+		"full_text": "#Songkick #송킥\nLubless at Club FF (October 24, 2020)\n▶ https://t.co/BOFXzM9BFg\n　\n#내한 #내한공연 #내한콘서트 #공연안내",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Songkick",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "송킥",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "내한",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "내한공연",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "내한콘서트",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "공연안내",
+					"indices": [
+						97,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BOFXzM9BFg",
+					"expanded_url": "https://bit.ly/2SY045m",
+					"display_url": "bit.ly/2SY045m",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 238,
+			"friends_count": 427,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Songkick #송킥\nLubless at Club FF (October 24, 2020)\n▶ https://t.co/BOFXzM9BFg\n　\n#내한 #내한공연 #내한콘서트 #공연안내"
+	},
+	{
+		"created_at": "Thu Oct 15 14:58:42 +0000 2020",
+		"id": 1316751809436819500,
+		"id_str": "1316755384967802882",
+		"full_text": "🚗 큰 사이즈의 공연장 안내도가 필요하신 분들은 계정으로 문의주시면, pdf 파일을 보내드립니다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1316751699856433200,
+		"in_reply_to_status_id_str": "1316751699856433153",
+		"in_reply_to_user_id": 1281461183942287400,
+		"in_reply_to_user_id_str": "1281461183942287360",
+		"in_reply_to_screen_name": "paranmanzangnan",
+		"user": {
+			"id": 1281461183942287400,
+			"id_str": "1281461183942287360",
+			"name": "파란만장",
+			"screen_name": "paranmanzangnan",
+			"location": "",
+			"description": "10월 17일 혜화 마로니에 공원에서 페스티벌이 열려버린다.. 🌈시설장애인, 도시소외계층,인디씬의 자유로운 움직임을 향한 모두의 페스티벌 파란만장",
+			"url": "https://t.co/zUx51Xu0UB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zUx51Xu0UB",
+							"expanded_url": "https://linktr.ee/paranmanzang",
+							"display_url": "linktr.ee/paranmanzang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 222,
+			"friends_count": 582,
+			"listed_count": 1,
+			"created_at": "Fri Jul 10 05:32:28 +0000 2020",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1281461183942287360/1594906157",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "🚗 큰 사이즈의 공연장 안내도가 필요하신 분들은 계정으로 문의주시면, pdf 파일을 보내드립니다"
+	},
+	{
+		"created_at": "Thu Oct 15 14:58:34 +0000 2020",
+		"id": 1316751699856433200,
+		"id_str": "1316755350775902209",
+		"full_text": "당일 방역담당 스태프가 객석을 관리하며 거리두기와 마스크 착용을 지속 안내 할 예정입니다. 안전한 페스티벌을 만들기 위해 관객 모두 협조 부탁드립니다 !\n︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵*°゜°。｡",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1316751698161930200,
+		"in_reply_to_status_id_str": "1316751698161930242",
+		"in_reply_to_user_id": 1281461183942287400,
+		"in_reply_to_user_id_str": "1281461183942287360",
+		"in_reply_to_screen_name": "paranmanzangnan",
+		"user": {
+			"id": 1281461183942287400,
+			"id_str": "1281461183942287360",
+			"name": "파란만장",
+			"screen_name": "paranmanzangnan",
+			"location": "",
+			"description": "10월 17일 혜화 마로니에 공원에서 페스티벌이 열려버린다.. 🌈시설장애인, 도시소외계층,인디씬의 자유로운 움직임을 향한 모두의 페스티벌 파란만장",
+			"url": "https://t.co/zUx51Xu0UB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zUx51Xu0UB",
+							"expanded_url": "https://linktr.ee/paranmanzang",
+							"display_url": "linktr.ee/paranmanzang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 222,
+			"friends_count": 582,
+			"listed_count": 1,
+			"created_at": "Fri Jul 10 05:32:28 +0000 2020",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1281461183942287360/1594906157",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "당일 방역담당 스태프가 객석을 관리하며 거리두기와 마스크 착용을 지속 안내 할 예정입니다. 안전한 페스티벌을 만들기 위해 관객 모두 협조 부탁드립니다 !\n︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵*°゜°。｡"
+	},
+	{
+		"created_at": "Thu Oct 15 14:58:32 +0000 2020",
+		"id": 1316751698161930200,
+		"id_str": "1316755341917458432",
+		"full_text": "&lt;공연 관람 rule✨&gt;\n공연장 내 음식물 섭취는 물과 음료만 가능하시며, 음료 이외 음식물은 식료품 부스인 ⛰육일봉부스⛰앞의 테이블에서만 가능하십니다. 부스의 음료는 일회용컵과 빨대로 제공해드리며, 객석으로 가지고 가실 수 있으나 음료를 음용하지 않으실 땐 항시 마스크를 착용해주세요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1316751696538738700,
+		"in_reply_to_status_id_str": "1316751696538738688",
+		"in_reply_to_user_id": 1281461183942287400,
+		"in_reply_to_user_id_str": "1281461183942287360",
+		"in_reply_to_screen_name": "paranmanzangnan",
+		"user": {
+			"id": 1281461183942287400,
+			"id_str": "1281461183942287360",
+			"name": "파란만장",
+			"screen_name": "paranmanzangnan",
+			"location": "",
+			"description": "10월 17일 혜화 마로니에 공원에서 페스티벌이 열려버린다.. 🌈시설장애인, 도시소외계층,인디씬의 자유로운 움직임을 향한 모두의 페스티벌 파란만장",
+			"url": "https://t.co/zUx51Xu0UB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zUx51Xu0UB",
+							"expanded_url": "https://linktr.ee/paranmanzang",
+							"display_url": "linktr.ee/paranmanzang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 222,
+			"friends_count": 582,
+			"listed_count": 1,
+			"created_at": "Fri Jul 10 05:32:28 +0000 2020",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1281461183942287360/1594906157",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "&lt;공연 관람 rule✨&gt;\n공연장 내 음식물 섭취는 물과 음료만 가능하시며, 음료 이외 음식물은 식료품 부스인 ⛰육일봉부스⛰앞의 테이블에서만 가능하십니다. 부스의 음료는 일회용컵과 빨대로 제공해드리며, 객석으로 가지고 가실 수 있으나 음료를 음용하지 않으실 땐 항시 마스크를 착용해주세요."
+	},
+	{
+		"created_at": "Thu Oct 15 14:58:26 +0000 2020",
+		"id": 1316751696538738700,
+		"id_str": "1316755316231540736",
+		"full_text": "실내 공연장은 스탠딩 공연으로 실내 또한 🌈파란 말 스티커🌈와 함께 공연을 즐겨주세요 !",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1316751694999351300,
+		"in_reply_to_status_id_str": "1316751694999351296",
+		"in_reply_to_user_id": 1281461183942287400,
+		"in_reply_to_user_id_str": "1281461183942287360",
+		"in_reply_to_screen_name": "paranmanzangnan",
+		"user": {
+			"id": 1281461183942287400,
+			"id_str": "1281461183942287360",
+			"name": "파란만장",
+			"screen_name": "paranmanzangnan",
+			"location": "",
+			"description": "10월 17일 혜화 마로니에 공원에서 페스티벌이 열려버린다.. 🌈시설장애인, 도시소외계층,인디씬의 자유로운 움직임을 향한 모두의 페스티벌 파란만장",
+			"url": "https://t.co/zUx51Xu0UB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zUx51Xu0UB",
+							"expanded_url": "https://linktr.ee/paranmanzang",
+							"display_url": "linktr.ee/paranmanzang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 222,
+			"friends_count": 582,
+			"listed_count": 1,
+			"created_at": "Fri Jul 10 05:32:28 +0000 2020",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1281461183942287360/1594906157",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "실내 공연장은 스탠딩 공연으로 실내 또한 🌈파란 말 스티커🌈와 함께 공연을 즐겨주세요 !"
+	},
+	{
+		"created_at": "Thu Oct 15 14:58:24 +0000 2020",
+		"id": 1316751694999351300,
+		"id_str": "1316755307285094400",
+		"full_text": "&lt;공연장 운영&gt;\n거리두기 1단계로 조정 되었지만 안전한 관람을 위해 공연장 바닥에 🐴 파란말 스티커🐴 로 일정 간격에 맞춰 좌석이 지정되어 있습니다. 야외 공연장에서는 입구 쪽에서 돗자리를 나눠드리니, 스티커 위 좌석에 앉아 주세요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1316751693300678700,
+		"in_reply_to_status_id_str": "1316751693300678657",
+		"in_reply_to_user_id": 1281461183942287400,
+		"in_reply_to_user_id_str": "1281461183942287360",
+		"in_reply_to_screen_name": "paranmanzangnan",
+		"user": {
+			"id": 1281461183942287400,
+			"id_str": "1281461183942287360",
+			"name": "파란만장",
+			"screen_name": "paranmanzangnan",
+			"location": "",
+			"description": "10월 17일 혜화 마로니에 공원에서 페스티벌이 열려버린다.. 🌈시설장애인, 도시소외계층,인디씬의 자유로운 움직임을 향한 모두의 페스티벌 파란만장",
+			"url": "https://t.co/zUx51Xu0UB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zUx51Xu0UB",
+							"expanded_url": "https://linktr.ee/paranmanzang",
+							"display_url": "linktr.ee/paranmanzang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 222,
+			"friends_count": 582,
+			"listed_count": 1,
+			"created_at": "Fri Jul 10 05:32:28 +0000 2020",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1281461183942287360/1594906157",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "&lt;공연장 운영&gt;\n거리두기 1단계로 조정 되었지만 안전한 관람을 위해 공연장 바닥에 🐴 파란말 스티커🐴 로 일정 간격에 맞춰 좌석이 지정되어 있습니다. 야외 공연장에서는 입구 쪽에서 돗자리를 나눠드리니, 스티커 위 좌석에 앉아 주세요."
+	},
+	{
 		"created_at": "Thu Oct 15 14:11:19 +0000 2020",
 		"id": 1316740185036451800,
 		"id_str": "1316743458279903235",
