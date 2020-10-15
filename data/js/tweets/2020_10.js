@@ -1,6 +1,1694 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 15 09:14:07 +0000 2020",
+		"id": 1316668669418758100,
+		"id_str": "1316668669418758146",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\nHYNN (박혜원) – 한 번만 내 마음대로 하자 [Teaser]\nhttps://t.co/nWGdqQbSXX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nWGdqQbSXX",
+					"expanded_url": "https://youtu.be/eBpQwF_RLOk",
+					"display_url": "youtu.be/eBpQwF_RLOk",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 238,
+			"friends_count": 427,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\nHYNN (박혜원) – 한 번만 내 마음대로 하자 [Teaser]\nhttps://t.co/nWGdqQbSXX"
+	},
+	{
+		"created_at": "Thu Oct 15 09:11:16 +0000 2020",
+		"id": 1316657881404436500,
+		"id_str": "1316667951362306050",
+		"full_text": "라디오헤드 특집 \"Kid A 20주년 기념\"\n오늘입니다!   경리단길 펫사운즈 뮤직펍 https://t.co/NH3LGzYQNB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316657872952942600,
+					"id_str": "1316657872952942593",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/EkW1XAgU4AEIH1z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkW1XAgU4AEIH1z.jpg",
+					"url": "https://t.co/NH3LGzYQNB",
+					"display_url": "pic.twitter.com/NH3LGzYQNB",
+					"expanded_url": "https://twitter.com/petsounds_seoul/status/1316657881404436481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 847,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 942,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316657872952942600,
+					"id_str": "1316657872952942593",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/EkW1XAgU4AEIH1z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkW1XAgU4AEIH1z.jpg",
+					"url": "https://t.co/NH3LGzYQNB",
+					"display_url": "pic.twitter.com/NH3LGzYQNB",
+					"expanded_url": "https://twitter.com/petsounds_seoul/status/1316657881404436481/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 847,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 942,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1046717971157069800,
+			"id_str": "1046717971157069824",
+			"name": "petsoundsmusicpub",
+			"screen_name": "petsounds_seoul",
+			"location": "대한민국 용산구",
+			"description": "Music That Matters ⚡️ Indie,Pop,Rock,Live ⚡️ 💫 Request Music Pub 💫 📍 용산구 이태원동 278-8번지 3F 📍 Open PM 6 ~ AM 4 📍 Kitchen open till 2am",
+			"url": "https://t.co/YOJoHpJCWE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YOJoHpJCWE",
+							"expanded_url": "https://instagram.com/petsoundsmusicpub",
+							"display_url": "instagram.com/petsoundsmusic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87,
+			"friends_count": 5,
+			"listed_count": 3,
+			"created_at": "Mon Oct 01 11:06:26 +0000 2018",
+			"favourites_count": 416,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1046721148459737091/tB0cSIdT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046721148459737091/tB0cSIdT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1046717971157069824/1538393135",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9ebce42481002",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9ebce42481002.json",
+			"place_type": "poi",
+			"name": "Pet Sounds (펫사운즈)",
+			"full_name": "Pet Sounds (펫사운즈)",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.9890757045366,
+							37.53916153682823
+						],
+						[
+							126.9890757045366,
+							37.53916153682823
+						],
+						[
+							126.9890757045366,
+							37.53916153682823
+						],
+						[
+							126.9890757045366,
+							37.53916153682823
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "라디오헤드 특집 \"Kid A 20주년 기념\"\n오늘입니다!   경리단길 펫사운즈 뮤직펍 https://t.co/NH3LGzYQNB"
+	},
+	{
+		"created_at": "Thu Oct 15 09:11:00 +0000 2020",
+		"id": 1316667882084933600,
+		"id_str": "1316667882084933633",
+		"full_text": "#SMTOWN\nCHEN 첸 '안녕 (Hello)' MV\nhttps://t.co/QLc5qcE84N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QLc5qcE84N",
+					"expanded_url": "https://youtu.be/qJf8Ef4pqQk",
+					"display_url": "youtu.be/qJf8Ef4pqQk",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 238,
+			"friends_count": 427,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN\nCHEN 첸 '안녕 (Hello)' MV\nhttps://t.co/QLc5qcE84N"
+	},
+	{
+		"created_at": "Thu Oct 15 09:01:30 +0000 2020",
+		"id": 1316665494263476200,
+		"id_str": "1316665494263476224",
+		"full_text": "#Pentaport_Rock_Festival #펜타포트락페스티벌\n펜타포트 라이브 뮤직파티(온라인)\nhttps://t.co/zvulHVppKu\n#블로그 #페스티벌 #Festival",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Pentaport_Rock_Festival",
+					"indices": [
+						0,
+						24
+					]
+				},
+				{
+					"text": "펜타포트락페스티벌",
+					"indices": [
+						25,
+						35
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "Festival",
+					"indices": [
+						90,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zvulHVppKu",
+					"expanded_url": "https://bit.ly/372Pan8",
+					"display_url": "bit.ly/372Pan8",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 238,
+			"friends_count": 427,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#Pentaport_Rock_Festival #펜타포트락페스티벌\n펜타포트 라이브 뮤직파티(온라인)\nhttps://t.co/zvulHVppKu\n#블로그 #페스티벌 #Festival"
+	},
+	{
+		"created_at": "Thu Oct 15 08:58:41 +0000 2020",
+		"id": 1316655398489784300,
+		"id_str": "1316664782985015297",
+		"full_text": "파란만장 즐길거리 #3 &lt;이것도 노동이다&gt;\n노들장애인야학의 '이것도 노동이다, 노들테크노전사들'\nUN 장애인권리협약을 읽어보자! 서명으로 연대하자👏\n서울시에는, 우리나라엔, 모두의 자유로운 움직임을 위한 '저상버스'🚎가 필요하다\n읽고, 배우고, 말하고, 외치고, 바뀌는 그 날을 위해\n#꼭들려봐! https://t.co/wNLIYIeWCB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "꼭들려봐",
+					"indices": [
+						165,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316655389207720000,
+					"id_str": "1316655389207719936",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EkWzGb1UcAAkG4M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkWzGb1UcAAkG4M.jpg",
+					"url": "https://t.co/wNLIYIeWCB",
+					"display_url": "pic.twitter.com/wNLIYIeWCB",
+					"expanded_url": "https://twitter.com/paranmanzangnan/status/1316655398489784320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316655389207720000,
+					"id_str": "1316655389207719936",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EkWzGb1UcAAkG4M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkWzGb1UcAAkG4M.jpg",
+					"url": "https://t.co/wNLIYIeWCB",
+					"display_url": "pic.twitter.com/wNLIYIeWCB",
+					"expanded_url": "https://twitter.com/paranmanzangnan/status/1316655398489784320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1281461183942287400,
+			"id_str": "1281461183942287360",
+			"name": "파란만장",
+			"screen_name": "paranmanzangnan",
+			"location": "",
+			"description": "10월 17일 혜화 마로니에 공원에서 페스티벌이 열려버린다.. 🌈시설장애인, 도시소외계층,인디씬의 자유로운 움직임을 향한 모두의 페스티벌 파란만장",
+			"url": "https://t.co/zUx51Xu0UB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zUx51Xu0UB",
+							"expanded_url": "https://linktr.ee/paranmanzang",
+							"display_url": "linktr.ee/paranmanzang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 222,
+			"friends_count": 583,
+			"listed_count": 1,
+			"created_at": "Fri Jul 10 05:32:28 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1281461183942287360/1594906157",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "파란만장 즐길거리 #3 &lt;이것도 노동이다&gt;\n노들장애인야학의 '이것도 노동이다, 노들테크노전사들'\nUN 장애인권리협약을 읽어보자! 서명으로 연대하자👏\n서울시에는, 우리나라엔, 모두의 자유로운 움직임을 위한 '저상버스'🚎가 필요하다\n읽고, 배우고, 말하고, 외치고, 바뀌는 그 날을 위해\n#꼭들려봐! https://t.co/wNLIYIeWCB"
+	},
+	{
+		"created_at": "Thu Oct 15 08:58:32 +0000 2020",
+		"id": 1316653611120644000,
+		"id_str": "1316664744657539074",
+		"full_text": "파란만장 즐길거리 #2 &lt;파란만장x육일봉&gt;\n을지로 🎛음악과 문화가 흐르는 곳💁 ♀️ 육일봉이 혜화에 상륙, 🏔육일봉🏔 부스에서는 식음료를 팝니다.\n그와 동시에 공연팀+시각 예술팀을 서포트해줘요! 술로. 마로니에 공원에서 우리 모두 흥청거리자! https://t.co/Mv1sLQUst0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316653149285826600,
+					"id_str": "1316653149285826561",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EkWxEDeUwAEY7uF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkWxEDeUwAEY7uF.jpg",
+					"url": "https://t.co/Mv1sLQUst0",
+					"display_url": "pic.twitter.com/Mv1sLQUst0",
+					"expanded_url": "https://twitter.com/paranmanzangnan/status/1316653611120644102/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316653149285826600,
+					"id_str": "1316653149285826561",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EkWxEDeUwAEY7uF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkWxEDeUwAEY7uF.jpg",
+					"url": "https://t.co/Mv1sLQUst0",
+					"display_url": "pic.twitter.com/Mv1sLQUst0",
+					"expanded_url": "https://twitter.com/paranmanzangnan/status/1316653611120644102/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1281461183942287400,
+			"id_str": "1281461183942287360",
+			"name": "파란만장",
+			"screen_name": "paranmanzangnan",
+			"location": "",
+			"description": "10월 17일 혜화 마로니에 공원에서 페스티벌이 열려버린다.. 🌈시설장애인, 도시소외계층,인디씬의 자유로운 움직임을 향한 모두의 페스티벌 파란만장",
+			"url": "https://t.co/zUx51Xu0UB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zUx51Xu0UB",
+							"expanded_url": "https://linktr.ee/paranmanzang",
+							"display_url": "linktr.ee/paranmanzang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 222,
+			"friends_count": 583,
+			"listed_count": 1,
+			"created_at": "Fri Jul 10 05:32:28 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1281461183942287360/1594906157",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "파란만장 즐길거리 #2 &lt;파란만장x육일봉&gt;\n을지로 🎛음악과 문화가 흐르는 곳💁 ♀️ 육일봉이 혜화에 상륙, 🏔육일봉🏔 부스에서는 식음료를 팝니다.\n그와 동시에 공연팀+시각 예술팀을 서포트해줘요! 술로. 마로니에 공원에서 우리 모두 흥청거리자! https://t.co/Mv1sLQUst0"
+	},
+	{
+		"created_at": "Thu Oct 15 08:58:24 +0000 2020",
+		"id": 1316653011884675000,
+		"id_str": "1316664710616567808",
+		"full_text": "파란만장 즐길거리 #1 &lt;파란만장x작가짓거리장터&gt;\n작가들의 직거리 작열하는 직거래\n참여작가 : 최장원, 장미, 타이니유니버스, 우수현, 컬츄컬츄, COOL TRASH, 혜화암\n마로니에 공원에서 파란만장 공연과 함께 작가님들의 엄청난(정말 엄청나!) 작품들과 퍼포먼스를 꼭 만나봐라! https://t.co/gABWfdMW5b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316652003582308400,
+					"id_str": "1316652003582308353",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EkWwBXZUcAEK0aW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkWwBXZUcAEK0aW.jpg",
+					"url": "https://t.co/gABWfdMW5b",
+					"display_url": "pic.twitter.com/gABWfdMW5b",
+					"expanded_url": "https://twitter.com/paranmanzangnan/status/1316653011884675072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 477,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 477,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316652003582308400,
+					"id_str": "1316652003582308353",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EkWwBXZUcAEK0aW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkWwBXZUcAEK0aW.jpg",
+					"url": "https://t.co/gABWfdMW5b",
+					"display_url": "pic.twitter.com/gABWfdMW5b",
+					"expanded_url": "https://twitter.com/paranmanzangnan/status/1316653011884675072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 477,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 477,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1281461183942287400,
+			"id_str": "1281461183942287360",
+			"name": "파란만장",
+			"screen_name": "paranmanzangnan",
+			"location": "",
+			"description": "10월 17일 혜화 마로니에 공원에서 페스티벌이 열려버린다.. 🌈시설장애인, 도시소외계층,인디씬의 자유로운 움직임을 향한 모두의 페스티벌 파란만장",
+			"url": "https://t.co/zUx51Xu0UB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zUx51Xu0UB",
+							"expanded_url": "https://linktr.ee/paranmanzang",
+							"display_url": "linktr.ee/paranmanzang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 222,
+			"friends_count": 583,
+			"listed_count": 1,
+			"created_at": "Fri Jul 10 05:32:28 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1281461183942287360/1594906157",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "파란만장 즐길거리 #1 &lt;파란만장x작가짓거리장터&gt;\n작가들의 직거리 작열하는 직거래\n참여작가 : 최장원, 장미, 타이니유니버스, 우수현, 컬츄컬츄, COOL TRASH, 혜화암\n마로니에 공원에서 파란만장 공연과 함께 작가님들의 엄청난(정말 엄청나!) 작품들과 퍼포먼스를 꼭 만나봐라! https://t.co/gABWfdMW5b"
+	},
+	{
+		"created_at": "Thu Oct 15 08:58:20 +0000 2020",
+		"id": 1316652387147235300,
+		"id_str": "1316664697429594114",
+		"full_text": "언제든지, 어디서든지 '잔다리언리얼'로 접속해 반가운 뮤지션과 새로운 음악을 만나보세요.  (자세한 타임테이블과 편성표는 추후 공지됩니다)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1316652312446726100,
+		"in_reply_to_status_id_str": "1316652312446726147",
+		"in_reply_to_user_id": 822764023,
+		"in_reply_to_user_id_str": "822764023",
+		"in_reply_to_screen_name": "ZandariFesta",
+		"user": {
+			"id": 822764023,
+			"id_str": "822764023",
+			"name": "Zandari Festa",
+			"screen_name": "ZandariFesta",
+			"location": "대한민국 홍대",
+			"description": "Since 2012 ㅣShowcase Festival & ConferencesㅣOctober 23rd -25th 2020 📍Hongdae, Seoul South Korea facebook @zandarifesta Instagram @zandarifesta",
+			"url": "https://t.co/TedsJgO7by",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TedsJgO7by",
+							"expanded_url": "http://www.zandarifesta.com",
+							"display_url": "zandarifesta.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2761,
+			"friends_count": 1767,
+			"listed_count": 40,
+			"created_at": "Fri Sep 14 05:51:51 +0000 2012",
+			"favourites_count": 842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240935459586334720/K6esD7zb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240935459586334720/K6esD7zb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/822764023/1584697045",
+			"profile_link_color": "7D7D7D",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "언제든지, 어디서든지 '잔다리언리얼'로 접속해 반가운 뮤지션과 새로운 음악을 만나보세요.  (자세한 타임테이블과 편성표는 추후 공지됩니다)"
+	},
+	{
+		"created_at": "Thu Oct 15 08:58:14 +0000 2020",
+		"id": 1316652312446726100,
+		"id_str": "1316664671760453632",
+		"full_text": "잔다리언리얼 오피셜 쇼케이스는 노들섬과의 협력으로 진행됩니다. 지난 9월 17일-19일 노들섬라이브하우스에서는 오피셜 쇼케이스에 선정된 국내 30팀의 라이브무대(15min)를 기록하였습니다. 10월 23일-25일 50시간 동안 논스톱으로 스트리밍되는 '잔다리언리얼'에서는 라이브클립이 3회 방송됩니다. https://t.co/FNAKdnWYXo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316651927342514200,
+					"id_str": "1316651927342514177",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EkWv87YVgAEe1kc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkWv87YVgAEe1kc.jpg",
+					"url": "https://t.co/FNAKdnWYXo",
+					"display_url": "pic.twitter.com/FNAKdnWYXo",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1316652312446726147/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316651927342514200,
+					"id_str": "1316651927342514177",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EkWv87YVgAEe1kc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkWv87YVgAEe1kc.jpg",
+					"url": "https://t.co/FNAKdnWYXo",
+					"display_url": "pic.twitter.com/FNAKdnWYXo",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1316652312446726147/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1316651927346671600,
+					"id_str": "1316651927346671616",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EkWv87ZU8AARvA8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkWv87ZU8AARvA8.jpg",
+					"url": "https://t.co/FNAKdnWYXo",
+					"display_url": "pic.twitter.com/FNAKdnWYXo",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1316652312446726147/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1316651927426408400,
+					"id_str": "1316651927426408448",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EkWv87sVoAAWt-c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkWv87sVoAAWt-c.jpg",
+					"url": "https://t.co/FNAKdnWYXo",
+					"display_url": "pic.twitter.com/FNAKdnWYXo",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1316652312446726147/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1316651927610876000,
+					"id_str": "1316651927610875904",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EkWv88YUYAAUkhR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkWv88YUYAAUkhR.jpg",
+					"url": "https://t.co/FNAKdnWYXo",
+					"display_url": "pic.twitter.com/FNAKdnWYXo",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1316652312446726147/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 822764023,
+			"id_str": "822764023",
+			"name": "Zandari Festa",
+			"screen_name": "ZandariFesta",
+			"location": "대한민국 홍대",
+			"description": "Since 2012 ㅣShowcase Festival & ConferencesㅣOctober 23rd -25th 2020 📍Hongdae, Seoul South Korea facebook @zandarifesta Instagram @zandarifesta",
+			"url": "https://t.co/TedsJgO7by",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TedsJgO7by",
+							"expanded_url": "http://www.zandarifesta.com",
+							"display_url": "zandarifesta.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2761,
+			"friends_count": 1767,
+			"listed_count": 40,
+			"created_at": "Fri Sep 14 05:51:51 +0000 2012",
+			"favourites_count": 842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240935459586334720/K6esD7zb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240935459586334720/K6esD7zb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/822764023/1584697045",
+			"profile_link_color": "7D7D7D",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잔다리언리얼 오피셜 쇼케이스는 노들섬과의 협력으로 진행됩니다. 지난 9월 17일-19일 노들섬라이브하우스에서는 오피셜 쇼케이스에 선정된 국내 30팀의 라이브무대(15min)를 기록하였습니다. 10월 23일-25일 50시간 동안 논스톱으로 스트리밍되는 '잔다리언리얼'에서는 라이브클립이 3회 방송됩니다. https://t.co/FNAKdnWYXo"
+	},
+	{
+		"created_at": "Thu Oct 15 08:26:43 +0000 2020",
+		"id": 1316656740650356700,
+		"id_str": "1316656740650356737",
+		"full_text": "#문화가있는날 #블로그\n[동네책방 문화사랑방] 어린이와 어른이 함께 재미있는 책 문화를 만듭니다, 동네책방 개똥이네책놀이터\nhttps://t.co/VPqFYINtw1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문화가있는날",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						8,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VPqFYINtw1",
+					"expanded_url": "https://bit.ly/353Bypb",
+					"display_url": "bit.ly/353Bypb",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 238,
+			"friends_count": 427,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#문화가있는날 #블로그\n[동네책방 문화사랑방] 어린이와 어른이 함께 재미있는 책 문화를 만듭니다, 동네책방 개똥이네책놀이터\nhttps://t.co/VPqFYINtw1"
+	},
+	{
 		"created_at": "Thu Oct 15 08:11:16 +0000 2020",
 		"id": 1316650725401751600,
 		"id_str": "1316652852262117377",
