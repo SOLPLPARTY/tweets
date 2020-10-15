@@ -1,6 +1,127 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 15 20:07:07 +0000 2020",
+		"id": 1316731764556009500,
+		"id_str": "1316833002056376320",
+		"full_text": "[다녀왔습니다] 뮤직비디오를 만들었어요. 이 노래, 꿈 이야기로 만들었다는 이야기를 공연에서 종종 말하곤 했는데요. 뮤직비디오 속 이야기는 마치 그 꿈의 앞 이야기 같아요. 노래의 전사(前史)라고 하면 될까요.  https://t.co/efaGLK2rlV \n#시와 #시와4집",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "시와",
+					"indices": [
+						144,
+						147
+					]
+				},
+				{
+					"text": "시와4집",
+					"indices": [
+						148,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/efaGLK2rlV",
+					"expanded_url": "https://youtu.be/I4bFRFmQ7To",
+					"display_url": "youtu.be/I4bFRFmQ7To",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 116421374,
+			"id_str": "116421374",
+			"name": "시와 🏳️‍🌈",
+			"screen_name": "withsiwa",
+			"location": "우리집",
+			"description": "4집 ‘다녀왔습니다’ 발매했습니다. 섭외요청은 메일로 주세요! withsiwa@hanmail.net",
+			"url": "https://t.co/VlYZXa9Sf7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VlYZXa9Sf7",
+							"expanded_url": "http://linktr.ee/withsiwa",
+							"display_url": "linktr.ee/withsiwa",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8404,
+			"friends_count": 421,
+			"listed_count": 301,
+			"created_at": "Mon Feb 22 11:29:47 +0000 2010",
+			"favourites_count": 2390,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/930242998444572672/hfM41xrE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/930242998444572672/hfM41xrE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/116421374/1495071753",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[다녀왔습니다] 뮤직비디오를 만들었어요. 이 노래, 꿈 이야기로 만들었다는 이야기를 공연에서 종종 말하곤 했는데요. 뮤직비디오 속 이야기는 마치 그 꿈의 앞 이야기 같아요. 노래의 전사(前史)라고 하면 될까요.  https://t.co/efaGLK2rlV \n#시와 #시와4집"
+	},
+	{
 		"created_at": "Thu Oct 15 18:17:43 +0000 2020",
 		"id": 1316805467960676400,
 		"id_str": "1316805467960676353",
