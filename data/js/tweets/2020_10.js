@@ -1,6 +1,768 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 15 13:11:17 +0000 2020",
+		"id": 1316727498206449700,
+		"id_str": "1316728350833020935",
+		"full_text": "[시공간집 3] 마지막 날의 아름다운 풍경\n\n#재미공작소 #시공간집 #시공간집3 #강성은 #김소연 #김행숙 #박시하 #신해욱 #이성미 #이원 #이제니 #정한아 #하재연 \n#서울문화재단 #2020예술공간지원사업 https://t.co/nsB8jnZGg2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "재미공작소",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "시공간집",
+					"indices": [
+						32,
+						37
+					]
+				},
+				{
+					"text": "시공간집3",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "강성은",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "김소연",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "김행숙",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "박시하",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "신해욱",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "이성미",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "이원",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "이제니",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "정한아",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "하재연",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "서울문화재단",
+					"indices": [
+						95,
+						102
+					]
+				},
+				{
+					"text": "2020예술공간지원사업",
+					"indices": [
+						103,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316727416140624000,
+					"id_str": "1316727416140623872",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1316727416140623872/pu/img/whDGz-Vr-0SnTWiS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1316727416140623872/pu/img/whDGz-Vr-0SnTWiS.jpg",
+					"url": "https://t.co/nsB8jnZGg2",
+					"display_url": "pic.twitter.com/nsB8jnZGg2",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1316727498206449664/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316727416140624000,
+					"id_str": "1316727416140623872",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1316727416140623872/pu/img/whDGz-Vr-0SnTWiS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1316727416140623872/pu/img/whDGz-Vr-0SnTWiS.jpg",
+					"url": "https://t.co/nsB8jnZGg2",
+					"display_url": "pic.twitter.com/nsB8jnZGg2",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1316727498206449664/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 17533,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316727416140623872/pu/vid/480x480/SJqPKx-Q03WqoM9J.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316727416140623872/pu/vid/320x320/9aKdpDMixFMuj7qM.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1316727416140623872/pu/pl/cu7uthuTLOSvOoV4.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1316727416140623872/pu/vid/720x720/UECLz1lrL01Pkh7e.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1316356360406069200,
+		"in_reply_to_status_id_str": "1316356360406069250",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8145,
+			"friends_count": 583,
+			"listed_count": 82,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14550,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[시공간집 3] 마지막 날의 아름다운 풍경\n\n#재미공작소 #시공간집 #시공간집3 #강성은 #김소연 #김행숙 #박시하 #신해욱 #이성미 #이원 #이제니 #정한아 #하재연 \n#서울문화재단 #2020예술공간지원사업 https://t.co/nsB8jnZGg2"
+	},
+	{
+		"created_at": "Thu Oct 15 12:29:43 +0000 2020",
+		"id": 1316715598299054000,
+		"id_str": "1316717891945992193",
+		"full_text": "앨범의 소개글은 아래와 같습니다. \n\nhttps://t.co/KFJoqCNJFP유기농맥주-tcrtrans-continental-railway-helicopter",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KFJoqCNJFP",
+					"expanded_url": "https://helicopterseoul.tumblr.com/post/631159678253105152/",
+					"display_url": "helicopterseoul.tumblr.com/post/631159678…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1316715042742517800,
+		"in_reply_to_status_id_str": "1316715042742517762",
+		"in_reply_to_user_id": 732970717,
+		"in_reply_to_user_id_str": "732970717",
+		"in_reply_to_screen_name": "Helicopterseoul",
+		"user": {
+			"id": 732970717,
+			"id_str": "732970717",
+			"name": "Helicopter Records",
+			"screen_name": "Helicopterseoul",
+			"location": "Seoul",
+			"description": "음악을 소개하는 레이블 Helicopter Records입니다. 2012년 8월에 시작했습니다. 공연문의 및 각종문의 : helicopter.seoul@gmail.com",
+			"url": "http://t.co/1FN6ioFRra",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1FN6ioFRra",
+							"expanded_url": "http://helicopterseoul.tumblr.com",
+							"display_url": "helicopterseoul.tumblr.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3213,
+			"friends_count": 1605,
+			"listed_count": 39,
+			"created_at": "Thu Aug 02 14:50:07 +0000 2012",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2459893588/ryfbej290twh6kcfajr1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2459893588/ryfbej290twh6kcfajr1_normal.jpeg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "앨범의 소개글은 아래와 같습니다. \n\nhttps://t.co/KFJoqCNJFP유기농맥주-tcrtrans-continental-railway-helicopter"
+	},
+	{
+		"created_at": "Thu Oct 15 12:29:38 +0000 2020",
+		"id": 1316715042742517800,
+		"id_str": "1316717870156517376",
+		"full_text": "아메노히 커피점(오프라인), 우주만물(오프라인), 널판(오프라인) \n\n발매 기념 공연은 11월 27일(금요일), 벨로주 홍대에서 진행될 예정입니다. 이쪽도 곧 공지할 예정이니 관심 있으시면 체크 부탁드립니다. https://t.co/8wDut876iz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316715011960533000,
+					"id_str": "1316715011960532993",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EkXpU75U8AER9-8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkXpU75U8AER9-8.jpg",
+					"url": "https://t.co/8wDut876iz",
+					"display_url": "pic.twitter.com/8wDut876iz",
+					"expanded_url": "https://twitter.com/Helicopterseoul/status/1316715042742517762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 665,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1173,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2002,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316715011960533000,
+					"id_str": "1316715011960532993",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EkXpU75U8AER9-8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkXpU75U8AER9-8.jpg",
+					"url": "https://t.co/8wDut876iz",
+					"display_url": "pic.twitter.com/8wDut876iz",
+					"expanded_url": "https://twitter.com/Helicopterseoul/status/1316715042742517762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 665,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1173,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2002,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1316714749439082500,
+		"in_reply_to_status_id_str": "1316714749439082502",
+		"in_reply_to_user_id": 732970717,
+		"in_reply_to_user_id_str": "732970717",
+		"in_reply_to_screen_name": "Helicopterseoul",
+		"user": {
+			"id": 732970717,
+			"id_str": "732970717",
+			"name": "Helicopter Records",
+			"screen_name": "Helicopterseoul",
+			"location": "Seoul",
+			"description": "음악을 소개하는 레이블 Helicopter Records입니다. 2012년 8월에 시작했습니다. 공연문의 및 각종문의 : helicopter.seoul@gmail.com",
+			"url": "http://t.co/1FN6ioFRra",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1FN6ioFRra",
+							"expanded_url": "http://helicopterseoul.tumblr.com",
+							"display_url": "helicopterseoul.tumblr.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3213,
+			"friends_count": 1605,
+			"listed_count": 39,
+			"created_at": "Thu Aug 02 14:50:07 +0000 2012",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2459893588/ryfbej290twh6kcfajr1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2459893588/ryfbej290twh6kcfajr1_normal.jpeg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아메노히 커피점(오프라인), 우주만물(오프라인), 널판(오프라인) \n\n발매 기념 공연은 11월 27일(금요일), 벨로주 홍대에서 진행될 예정입니다. 이쪽도 곧 공지할 예정이니 관심 있으시면 체크 부탁드립니다. https://t.co/8wDut876iz"
+	},
+	{
+		"created_at": "Thu Oct 15 12:29:31 +0000 2020",
+		"id": 1316714749439082500,
+		"id_str": "1316717840251211776",
+		"full_text": "(만선 특전으로 DJ yesyes의 TCR REWORK 버젼 포함), 헬리콥터 레코즈의 밴드캠프를 통해 온라인 음원으로 체크할 수 있습니다. 카세트 테이프를 구입할 수 있는 오프라인 공간들은 다음과 같습니다. 김밥레코즈(온라인/오프라인), 향뮤직(온라인/오프라인), FOE(온라인) https://t.co/JLs2pFgegN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316714741323067400,
+					"id_str": "1316714741323067392",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EkXpFLsU8AAN_lT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkXpFLsU8AAN_lT.jpg",
+					"url": "https://t.co/JLs2pFgegN",
+					"display_url": "pic.twitter.com/JLs2pFgegN",
+					"expanded_url": "https://twitter.com/Helicopterseoul/status/1316714749439082502/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316714741323067400,
+					"id_str": "1316714741323067392",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EkXpFLsU8AAN_lT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkXpFLsU8AAN_lT.jpg",
+					"url": "https://t.co/JLs2pFgegN",
+					"display_url": "pic.twitter.com/JLs2pFgegN",
+					"expanded_url": "https://twitter.com/Helicopterseoul/status/1316714749439082502/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1316714520673308700,
+		"in_reply_to_status_id_str": "1316714520673308673",
+		"in_reply_to_user_id": 732970717,
+		"in_reply_to_user_id_str": "732970717",
+		"in_reply_to_screen_name": "Helicopterseoul",
+		"user": {
+			"id": 732970717,
+			"id_str": "732970717",
+			"name": "Helicopter Records",
+			"screen_name": "Helicopterseoul",
+			"location": "Seoul",
+			"description": "음악을 소개하는 레이블 Helicopter Records입니다. 2012년 8월에 시작했습니다. 공연문의 및 각종문의 : helicopter.seoul@gmail.com",
+			"url": "http://t.co/1FN6ioFRra",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1FN6ioFRra",
+							"expanded_url": "http://helicopterseoul.tumblr.com",
+							"display_url": "helicopterseoul.tumblr.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3213,
+			"friends_count": 1605,
+			"listed_count": 39,
+			"created_at": "Thu Aug 02 14:50:07 +0000 2012",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2459893588/ryfbej290twh6kcfajr1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2459893588/ryfbej290twh6kcfajr1_normal.jpeg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "(만선 특전으로 DJ yesyes의 TCR REWORK 버젼 포함), 헬리콥터 레코즈의 밴드캠프를 통해 온라인 음원으로 체크할 수 있습니다. 카세트 테이프를 구입할 수 있는 오프라인 공간들은 다음과 같습니다. 김밥레코즈(온라인/오프라인), 향뮤직(온라인/오프라인), FOE(온라인) https://t.co/JLs2pFgegN"
+	},
+	{
 		"created_at": "Thu Oct 15 12:07:32 +0000 2020",
 		"id": 1316712309969039400,
 		"id_str": "1316712309969039360",
