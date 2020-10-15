@@ -1,6 +1,484 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 15 11:11:41 +0000 2020",
+		"id": 1316686476957032400,
+		"id_str": "1316698252637622274",
+		"full_text": "👫 잭킹콩 단독 콘서트 \"Dancing Dancing Bluebird\"\n\n▪️ 일시 : 2020.10.17 (토) 오후 7시\n▪️ 장소 : 벨로주 홍대\n▪️ 티켓 : 전석 45,000원\n▪️ 예매 : https://t.co/C0pcp4yFye (멜론티켓 '잭킹콩' 검색)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C0pcp4yFye",
+					"expanded_url": "http://reurl.kr/3F7BC83DAL",
+					"display_url": "reurl.kr/3F7BC83DAL",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1316686475669381000,
+		"in_reply_to_status_id_str": "1316686475669381122",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2781,
+			"friends_count": 2693,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "👫 잭킹콩 단독 콘서트 \"Dancing Dancing Bluebird\"\n\n▪️ 일시 : 2020.10.17 (토) 오후 7시\n▪️ 장소 : 벨로주 홍대\n▪️ 티켓 : 전석 45,000원\n▪️ 예매 : https://t.co/C0pcp4yFye (멜론티켓 '잭킹콩' 검색)"
+	},
+	{
+		"created_at": "Thu Oct 15 11:11:34 +0000 2020",
+		"id": 1316686475669381000,
+		"id_str": "1316698222807732232",
+		"full_text": "👫 잭킹콩 New Single \"Dancing Dancing Bluebird\" 듣기\n\n▪️ 멜론 https://t.co/8Ime2gZsjV\n▪️ 지니 https://t.co/yfCqWfwfcT\n▪️ VIBE https://t.co/OD8ZHF6unX\n▪️ 벅스 https://t.co/tDqcQLUd4a\n▪️ 소리바다 https://t.co/qCl1j1nP04",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8Ime2gZsjV",
+					"expanded_url": "http://reurl.kr/3F7BC83FFS",
+					"display_url": "reurl.kr/3F7BC83FFS",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/yfCqWfwfcT",
+					"expanded_url": "http://reurl.kr/3F7BC841ZW",
+					"display_url": "reurl.kr/3F7BC841ZW",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/OD8ZHF6unX",
+					"expanded_url": "http://reurl.kr/3F7BC847JM",
+					"display_url": "reurl.kr/3F7BC847JM",
+					"indices": [
+						116,
+						139
+					]
+				},
+				{
+					"url": "https://t.co/tDqcQLUd4a",
+					"expanded_url": "http://reurl.kr/3F7BC843ZY",
+					"display_url": "reurl.kr/3F7BC843ZY",
+					"indices": [
+						146,
+						169
+					]
+				},
+				{
+					"url": "https://t.co/qCl1j1nP04",
+					"expanded_url": "http://reurl.kr/3F7BC848YT",
+					"display_url": "reurl.kr/3F7BC848YT",
+					"indices": [
+						178,
+						201
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1316686474142572500,
+		"in_reply_to_status_id_str": "1316686474142572544",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2781,
+			"friends_count": 2693,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "👫 잭킹콩 New Single \"Dancing Dancing Bluebird\" 듣기\n\n▪️ 멜론 https://t.co/8Ime2gZsjV\n▪️ 지니 https://t.co/yfCqWfwfcT\n▪️ VIBE https://t.co/OD8ZHF6unX\n▪️ 벅스 https://t.co/tDqcQLUd4a\n▪️ 소리바다 https://t.co/qCl1j1nP04"
+	},
+	{
+		"created_at": "Thu Oct 15 11:11:25 +0000 2020",
+		"id": 1316686474142572500,
+		"id_str": "1316698188783456257",
+		"full_text": "💌 CREDIT\n\n▪️ 기획 : 씬디 티켓라운지 (@xindieticket)\n▪️ 영상 : 엠와이뮤직 (@messenger_yoon)\n▪️ 촬영 : 김동이 (@sunrise_0917)\n▪️ 사진 : 드리몽 (@_dreamong_)\n▪️ 장소 : 후추스튜디오 (@whochuu_studio)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xindieticket",
+					"name": "씬디 티켓라운지",
+					"id": 1220731080,
+					"id_str": "1220731080",
+					"indices": [
+						28,
+						41
+					]
+				},
+				{
+					"screen_name": "messenger_yoon",
+					"name": "엠와이뮤직(MYmusic Ent)",
+					"id": 150566482,
+					"id_str": "150566482",
+					"indices": [
+						58,
+						73
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1316686472603336700,
+		"in_reply_to_status_id_str": "1316686472603336705",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2781,
+			"friends_count": 2693,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "💌 CREDIT\n\n▪️ 기획 : 씬디 티켓라운지 (@xindieticket)\n▪️ 영상 : 엠와이뮤직 (@messenger_yoon)\n▪️ 촬영 : 김동이 (@sunrise_0917)\n▪️ 사진 : 드리몽 (@_dreamong_)\n▪️ 장소 : 후추스튜디오 (@whochuu_studio)"
+	},
+	{
+		"created_at": "Thu Oct 15 11:11:16 +0000 2020",
+		"id": 1316686472603336700,
+		"id_str": "1316698150481080320",
+		"full_text": "[#채널씬디 시즌2, 잭킹콩]\n⠀\n✿ 누구나 마음속 깊은 곳에 사랑 가득한 파랑새들이 춤추고 있지 않을까요? ✿\n\n이번 채널씬디의 주인공은 싱글 'Dancing Dancing Bluebird'로 돌아온 \"잭킹콩\"입니다 ᕕ( ᐛ )ᕗ\n잭킹콩의 A to Z가 담긴 인터뷰를 링크에서 바로 만나보세요♡\n\nhttps://t.co/QYlc86drcO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "채널씬디",
+					"indices": [
+						1,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QYlc86drcO",
+					"expanded_url": "https://youtu.be/QnupF6LG7FQ",
+					"display_url": "youtu.be/QnupF6LG7FQ",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2781,
+			"friends_count": 2693,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#채널씬디 시즌2, 잭킹콩]\n⠀\n✿ 누구나 마음속 깊은 곳에 사랑 가득한 파랑새들이 춤추고 있지 않을까요? ✿\n\n이번 채널씬디의 주인공은 싱글 'Dancing Dancing Bluebird'로 돌아온 \"잭킹콩\"입니다 ᕕ( ᐛ )ᕗ\n잭킹콩의 A to Z가 담긴 인터뷰를 링크에서 바로 만나보세요♡\n\nhttps://t.co/QYlc86drcO"
+	},
+	{
 		"created_at": "Thu Oct 15 10:02:52 +0000 2020",
 		"id": 1316680936424173600,
 		"id_str": "1316680936424173569",
