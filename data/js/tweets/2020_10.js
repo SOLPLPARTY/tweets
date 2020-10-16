@@ -1,6 +1,195 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 16 05:51:15 +0000 2020",
+		"id": 1316932898218455000,
+		"id_str": "1316980001552490501",
+		"full_text": "온라인으로 진행되는\n2020 인천 펜타포트 락 페스티벌\n16일(금요일) 마지막 무대로 함께합니다\n\n✔ 공연 생중계 채널안내\nKBS Kpop / 1theK(원더케이) / 인천광역시 / 인천관광공사 / 경기일보 공식 유튜브채널\nKLOOK 앱 및 공식 홈페이지\n\n#자우림 #인천펜타포트락페스티벌 https://t.co/xZaIFsPH4y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자우림",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "인천펜타포트락페스티벌",
+					"indices": [
+						149,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316932889280327700,
+					"id_str": "1316932889280327680",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EkavfEKVMAAlWjN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkavfEKVMAAlWjN.jpg",
+					"url": "https://t.co/xZaIFsPH4y",
+					"display_url": "pic.twitter.com/xZaIFsPH4y",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1316932898218455040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 823,
+							"h": 823,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 823,
+							"h": 823,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316932889280327700,
+					"id_str": "1316932889280327680",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EkavfEKVMAAlWjN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkavfEKVMAAlWjN.jpg",
+					"url": "https://t.co/xZaIFsPH4y",
+					"display_url": "pic.twitter.com/xZaIFsPH4y",
+					"expanded_url": "https://twitter.com/JaurimOfficial/status/1316932898218455040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 823,
+							"h": 823,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 823,
+							"h": 823,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923507155860299800,
+			"id_str": "923507155860299776",
+			"name": "Jaurim",
+			"screen_name": "JaurimOfficial",
+			"location": "",
+			"description": "밴드 자우림의 공식 트위터입니다.",
+			"url": "https://t.co/jgMgFhG3ea",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jgMgFhG3ea",
+							"expanded_url": "http://www.jaurim.com",
+							"display_url": "jaurim.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2154,
+			"friends_count": 5,
+			"listed_count": 14,
+			"created_at": "Thu Oct 26 11:10:38 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1279006030869852161/SowaiTxg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1279006030869852161/SowaiTxg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923507155860299776/1594186092",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 114,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "온라인으로 진행되는\n2020 인천 펜타포트 락 페스티벌\n16일(금요일) 마지막 무대로 함께합니다\n\n✔ 공연 생중계 채널안내\nKBS Kpop / 1theK(원더케이) / 인천광역시 / 인천관광공사 / 경기일보 공식 유튜브채널\nKLOOK 앱 및 공식 홈페이지\n\n#자우림 #인천펜타포트락페스티벌 https://t.co/xZaIFsPH4y"
+	},
+	{
 		"created_at": "Fri Oct 16 05:12:51 +0000 2020",
 		"id": 1316970339897847800,
 		"id_str": "1316970339897847809",
