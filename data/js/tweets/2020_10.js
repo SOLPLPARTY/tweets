@@ -1,6 +1,694 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 17 15:58:14 +0000 2020",
+		"id": 1317482324913647600,
+		"id_str": "1317495144418074626",
+		"full_text": "다시 만날 날을 기다릴게요 !\n\"우리 몸은 우리의 것이다. 우리는 자유롭게 몸을 움직일 수 있다.\"\n2020.10.17 ᑭᗩᖇᗩᑎᗰᗩᑎ乙ᗩᑎǤ\n\n#자유 #춤 #배리어프리 #문턱제거 https://t.co/aJhhTTQEF1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "자유",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "춤",
+					"indices": [
+						85,
+						87
+					]
+				},
+				{
+					"text": "배리어프리",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "문턱제거",
+					"indices": [
+						95,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1317482318987030500,
+					"id_str": "1317482318987030528",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EkijMFUUcAA_7dW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkijMFUUcAA_7dW.jpg",
+					"url": "https://t.co/aJhhTTQEF1",
+					"display_url": "pic.twitter.com/aJhhTTQEF1",
+					"expanded_url": "https://twitter.com/paranmanzangnan/status/1317482324913647618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1022,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1022,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1317482318987030500,
+					"id_str": "1317482318987030528",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EkijMFUUcAA_7dW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkijMFUUcAA_7dW.jpg",
+					"url": "https://t.co/aJhhTTQEF1",
+					"display_url": "pic.twitter.com/aJhhTTQEF1",
+					"expanded_url": "https://twitter.com/paranmanzangnan/status/1317482324913647618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1022,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1022,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1281461183942287400,
+			"id_str": "1281461183942287360",
+			"name": "파란만장",
+			"screen_name": "paranmanzangnan",
+			"location": "",
+			"description": "10월 17일 혜화 마로니에 공원에서 페스티벌이 열려버린다.. \n🌈시설장애인, 도시소외계층,인디씬의 자유로운 움직임을 향한 모두의 페스티벌 파란만장",
+			"url": "https://t.co/zUx51Xu0UB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zUx51Xu0UB",
+							"expanded_url": "https://linktr.ee/paranmanzang",
+							"display_url": "linktr.ee/paranmanzang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 225,
+			"friends_count": 583,
+			"listed_count": 1,
+			"created_at": "Fri Jul 10 05:32:28 +0000 2020",
+			"favourites_count": 29,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1281461183942287360/1594906157",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다시 만날 날을 기다릴게요 !\n\"우리 몸은 우리의 것이다. 우리는 자유롭게 몸을 움직일 수 있다.\"\n2020.10.17 ᑭᗩᖇᗩᑎᗰᗩᑎ乙ᗩᑎǤ\n\n#자유 #춤 #배리어프리 #문턱제거 https://t.co/aJhhTTQEF1"
+	},
+	{
+		"created_at": "Sat Oct 17 15:29:37 +0000 2020",
+		"id": 1317480794634399700,
+		"id_str": "1317487939761393664",
+		"full_text": "DRIPPIN 1st Mini Album\n[Boyager] Concept Photo (B ver.)\n\n◾2020.10.28 6PM RELEASE\n◽#드리핀\n\n#DRIPPIN \n#Boyager https://t.co/RqXuwIKoC0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "드리핀",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"text": "Boyager",
+					"indices": [
+						98,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1317473488014254000,
+					"id_str": "1317473488014254080",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EkibKDYVoAAngaS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkibKDYVoAAngaS.jpg",
+					"url": "https://t.co/RqXuwIKoC0",
+					"display_url": "pic.twitter.com/RqXuwIKoC0",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1317480794634399744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1448,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1317473488014254000,
+					"id_str": "1317473488014254080",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EkibKDYVoAAngaS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkibKDYVoAAngaS.jpg",
+					"url": "https://t.co/RqXuwIKoC0",
+					"display_url": "pic.twitter.com/RqXuwIKoC0",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1317480794634399744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1448,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 423706,
+			"friends_count": 10,
+			"listed_count": 1804,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1602774076",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 788,
+		"favorite_count": 1671,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DRIPPIN 1st Mini Album\n[Boyager] Concept Photo (B ver.)\n\n◾2020.10.28 6PM RELEASE\n◽#드리핀\n\n#DRIPPIN \n#Boyager https://t.co/RqXuwIKoC0"
+	},
+	{
+		"created_at": "Sat Oct 17 15:29:28 +0000 2020",
+		"id": 1317480717396320300,
+		"id_str": "1317487901341552642",
+		"full_text": "DRIPPIN 1st Mini Album\n[Boyager] Concept Photo (B ver.)\n\n◾2020.10.28 6PM RELEASE\n◽#차준호 #이협 #주창욱\n\n#DRIPPIN #드리핀\n#Boyager https://t.co/q2Wfd77bEA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "차준호",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "이협",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "주창욱",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "드리핀",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "Boyager",
+					"indices": [
+						111,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1317473413376602000,
+					"id_str": "1317473413376602112",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EkibFtVVcAAhlSN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkibFtVVcAAhlSN.jpg",
+					"url": "https://t.co/q2Wfd77bEA",
+					"display_url": "pic.twitter.com/q2Wfd77bEA",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1317480717396320257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1449,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1317473413376602000,
+					"id_str": "1317473413376602112",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EkibFtVVcAAhlSN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkibFtVVcAAhlSN.jpg",
+					"url": "https://t.co/q2Wfd77bEA",
+					"display_url": "pic.twitter.com/q2Wfd77bEA",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1317480717396320257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1449,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1317473432741707800,
+					"id_str": "1317473432741707776",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EkibG1eVgAAlITp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkibG1eVgAAlITp.jpg",
+					"url": "https://t.co/q2Wfd77bEA",
+					"display_url": "pic.twitter.com/q2Wfd77bEA",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1317480717396320257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1317473461770449000,
+					"id_str": "1317473461770448896",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EkibIhnU8AAQVb3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkibIhnU8AAQVb3.jpg",
+					"url": "https://t.co/q2Wfd77bEA",
+					"display_url": "pic.twitter.com/q2Wfd77bEA",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1317480717396320257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 423706,
+			"friends_count": 10,
+			"listed_count": 1804,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1602774076",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 732,
+		"favorite_count": 1578,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DRIPPIN 1st Mini Album\n[Boyager] Concept Photo (B ver.)\n\n◾2020.10.28 6PM RELEASE\n◽#차준호 #이협 #주창욱\n\n#DRIPPIN #드리핀\n#Boyager https://t.co/q2Wfd77bEA"
+	},
+	{
 		"created_at": "Sat Oct 17 14:02:53 +0000 2020",
 		"id": 1317466115421950000,
 		"id_str": "1317466115421949954",
