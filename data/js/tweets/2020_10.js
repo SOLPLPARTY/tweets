@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 17 17:58:15 +0000 2020",
+		"id": 1317514875749294000,
+		"id_str": "1317525344090554368",
+		"full_text": "@v_cupresses @onezero42O 저희가 대기타임 선곡에 대한 협의를 안 해서....... 다음 회차가 열리게 된다면... 빠짐없이.... 준비해보도록 하겠습니다......😭...(음침 서치 중 급등장)",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "v_cupresses",
+					"name": "금성인⭐️☂️",
+					"id": 206104527,
+					"id_str": "206104527",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "onezero42O",
+					"name": "𝟒𝟐𝐎",
+					"id": 2979582272,
+					"id_str": "2979582272",
+					"indices": [
+						13,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1317477366201938000,
+		"in_reply_to_status_id_str": "1317477366201937920",
+		"in_reply_to_user_id": 206104527,
+		"in_reply_to_user_id_str": "206104527",
+		"in_reply_to_screen_name": "v_cupresses",
+		"user": {
+			"id": 1281461183942287400,
+			"id_str": "1281461183942287360",
+			"name": "파란만장",
+			"screen_name": "paranmanzangnan",
+			"location": "",
+			"description": "10월 17일 혜화 마로니에 공원에서 페스티벌이 열려버린다.. \n🌈시설장애인, 도시소외계층,인디씬의 자유로운 움직임을 향한 모두의 페스티벌 파란만장",
+			"url": "https://t.co/zUx51Xu0UB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zUx51Xu0UB",
+							"expanded_url": "https://linktr.ee/paranmanzang",
+							"display_url": "linktr.ee/paranmanzang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 225,
+			"friends_count": 583,
+			"listed_count": 1,
+			"created_at": "Fri Jul 10 05:32:28 +0000 2020",
+			"favourites_count": 29,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283757892445696001/dKm0AxsB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1281461183942287360/1594906157",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@v_cupresses @onezero42O 저희가 대기타임 선곡에 대한 협의를 안 해서....... 다음 회차가 열리게 된다면... 빠짐없이.... 준비해보도록 하겠습니다......😭...(음침 서치 중 급등장)"
+	},
+	{
 		"created_at": "Sat Oct 17 15:58:14 +0000 2020",
 		"id": 1317482324913647600,
 		"id_str": "1317495144418074626",
