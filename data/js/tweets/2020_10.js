@@ -1,10 +1,131 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 17 13:11:17 +0000 2020",
+		"id": 1317451748848513000,
+		"id_str": "1317453126719471617",
+		"full_text": "Listen to Maac Kim a.k.a. Jowall - Seendosi 4th Anniversary Mix Set (2019) by 조월 Jowall 趙月 #np on #SoundCloud  https://t.co/UpIpiojKxT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "np",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "SoundCloud",
+					"indices": [
+						98,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UpIpiojKxT",
+					"expanded_url": "https://soundcloud.com/jowall/maac-kim-aka-jowall-seendosi-4th-anniversary-mix-set",
+					"display_url": "soundcloud.com/jowall/maac-ki…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3225907891,
+			"id_str": "3225907891",
+			"name": "신도시",
+			"screen_name": "seendosi",
+			"location": "서울시 중구 수표동 11-2, 5층",
+			"description": "맥주.양주.커피.식사 /송년회•신년회•돌잔치•회갑연•상견례•생일연•피로연회석완비 /서울시 중구 수표동 11-2 5층 /평일 6PM-2AM /금 6PM-3AM /토 3PM-3AM /일 휴무 /070-8631-4557",
+			"url": "https://t.co/o9mzPvptV6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o9mzPvptV6",
+							"expanded_url": "http://seendosi.com",
+							"display_url": "seendosi.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3893,
+			"friends_count": 690,
+			"listed_count": 29,
+			"created_at": "Mon May 25 05:15:01 +0000 2015",
+			"favourites_count": 2948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7953,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3225907891/1442843307",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Listen to Maac Kim a.k.a. Jowall - Seendosi 4th Anniversary Mix Set (2019) by 조월 Jowall 趙月 #np on #SoundCloud  https://t.co/UpIpiojKxT"
+	},
+	{
 		"created_at": "Sat Oct 17 09:29:24 +0000 2020",
 		"id": 1317389895271239700,
 		"id_str": "1317397290991128576",
-		"full_text": "[#LUCY] 루시가 작사, 작곡, 가창에 참여한 KBS2📺 월화 드라마 '좀비탐정'🧟‍🔎의 두 번째 OST, '서툴러서'가 공개되었습니다🔊\n지금 바로 전 음원사이트를 통해 만나보세요🎶\n\n#KBS2 #드라마 #루시 #서툴러서 #좀비탐정 #드라마OST https://t.co/i1nxK3h3lF",
+		"full_text": "[#LUCY] 루시가 작사, 작곡, 가창에 참여한 KBS2📺 월화 드라마 '좀비탐정'🧟🔎의 두 번째 OST, '서툴러서'가 공개되었습니다🔊\n지금 바로 전 음원사이트를 통해 만나보세요🎶\n\n#KBS2 #드라마 #루시 #서툴러서 #좀비탐정 #드라마OST https://t.co/i1nxK3h3lF",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -222,7 +343,7 @@ Grailbird.data.tweets_2020_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#LUCY] 루시가 작사, 작곡, 가창에 참여한 KBS2📺 월화 드라마 '좀비탐정'🧟‍🔎의 두 번째 OST, '서툴러서'가 공개되었습니다🔊\n지금 바로 전 음원사이트를 통해 만나보세요🎶\n\n#KBS2 #드라마 #루시 #서툴러서 #좀비탐정 #드라마OST https://t.co/i1nxK3h3lF"
+		"text": "[#LUCY] 루시가 작사, 작곡, 가창에 참여한 KBS2📺 월화 드라마 '좀비탐정'🧟🔎의 두 번째 OST, '서툴러서'가 공개되었습니다🔊\n지금 바로 전 음원사이트를 통해 만나보세요🎶\n\n#KBS2 #드라마 #루시 #서툴러서 #좀비탐정 #드라마OST https://t.co/i1nxK3h3lF"
 	},
 	{
 		"created_at": "Sat Oct 17 09:11:20 +0000 2020",
