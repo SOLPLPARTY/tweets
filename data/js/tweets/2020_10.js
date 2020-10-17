@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 17 07:45:28 +0000 2020",
+		"id": 1317358245283987500,
+		"id_str": "1317371134254313475",
+		"full_text": "[NEWS]\n\n환불원정대, '돈 터치 미'\n7인치 LP 발매…기간 한정\n예약 판매 [공식입장]\n\n📰 https://t.co/YjxYrl74rL\n\n#MAMAMOO #마마무\n#화사 #놀면뭐하니 #환불원정대 https://t.co/NCemlrwVRI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAMAMOO",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"text": "마마무",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "화사",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "놀면뭐하니",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "환불원정대",
+					"indices": [
+						106,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YjxYrl74rL",
+					"expanded_url": "http://naver.me/x018Amqq",
+					"display_url": "naver.me/x018Amqq",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1317358238468169700,
+					"id_str": "1317358238468169730",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EkgyVpXUYAIUIVR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkgyVpXUYAIUIVR.jpg",
+					"url": "https://t.co/NCemlrwVRI",
+					"display_url": "pic.twitter.com/NCemlrwVRI",
+					"expanded_url": "https://twitter.com/RBW_MAMAMOO/status/1317358245283987456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 430,
+							"h": 860,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 860,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1317358238468169700,
+					"id_str": "1317358238468169730",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EkgyVpXUYAIUIVR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkgyVpXUYAIUIVR.jpg",
+					"url": "https://t.co/NCemlrwVRI",
+					"display_url": "pic.twitter.com/NCemlrwVRI",
+					"expanded_url": "https://twitter.com/RBW_MAMAMOO/status/1317358245283987456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 430,
+							"h": 860,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 860,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2295631308,
+			"id_str": "2295631308",
+			"name": "마마무(MAMAMOO)",
+			"screen_name": "RBW_MAMAMOO",
+			"location": "",
+			"description": "MAMAMOO Official Twitter",
+			"url": "https://t.co/XEOgy8QXuz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XEOgy8QXuz",
+							"expanded_url": "http://cafe.daum.net/mamamoo",
+							"display_url": "cafe.daum.net/mamamoo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1635805,
+			"friends_count": 13,
+			"listed_count": 3480,
+			"created_at": "Fri Jan 17 06:51:52 +0000 2014",
+			"favourites_count": 165,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192832812845395974/-dT8ffOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192832812845395974/-dT8ffOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2295631308/1589766160",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1386,
+		"favorite_count": 4464,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEWS]\n\n환불원정대, '돈 터치 미'\n7인치 LP 발매…기간 한정\n예약 판매 [공식입장]\n\n📰 https://t.co/YjxYrl74rL\n\n#MAMAMOO #마마무\n#화사 #놀면뭐하니 #환불원정대 https://t.co/NCemlrwVRI"
+	},
+	{
 		"created_at": "Sat Oct 17 07:17:29 +0000 2020",
 		"id": 1317364091938287600,
 		"id_str": "1317364091938287616",
