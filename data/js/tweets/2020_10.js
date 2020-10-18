@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 18 04:29:25 +0000 2020",
+		"id": 1317670236858970000,
+		"id_str": "1317684181921615875",
+		"full_text": "#차라리단추 [산책]\n\n'차라리단추'의 6번째 디지털 싱글 [산책]은 외출이 조심스러워진 현재 완벽한 산책을 선물한다.\n\n눈을 감고 머릿속에 가삿말을 그려나가다 보면 어느샌가 산책로에 도착해 있을 것이다!\n\n✚ 앨범 자세히 보기: https://t.co/xA85Ms4mCd https://t.co/8ef6IKLmRv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "차라리단추",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xA85Ms4mCd",
+					"expanded_url": "https://bit.ly/3j2zvq8",
+					"display_url": "bit.ly/3j2zvq8",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1316995644955881500,
+					"id_str": "1316995644955881474",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/Ekboj7RU8AIG_Uf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ekboj7RU8AIG_Uf.jpg",
+					"url": "https://t.co/8ef6IKLmRv",
+					"display_url": "pic.twitter.com/8ef6IKLmRv",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1317670236858970113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316995644955881500,
+					"id_str": "1316995644955881474",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/Ekboj7RU8AIG_Uf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ekboj7RU8AIG_Uf.jpg",
+					"url": "https://t.co/8ef6IKLmRv",
+					"display_url": "pic.twitter.com/8ef6IKLmRv",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1317670236858970113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9506,
+			"friends_count": 2881,
+			"listed_count": 249,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1602053051",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#차라리단추 [산책]\n\n'차라리단추'의 6번째 디지털 싱글 [산책]은 외출이 조심스러워진 현재 완벽한 산책을 선물한다.\n\n눈을 감고 머릿속에 가삿말을 그려나가다 보면 어느샌가 산책로에 도착해 있을 것이다!\n\n✚ 앨범 자세히 보기: https://t.co/xA85Ms4mCd https://t.co/8ef6IKLmRv"
+	},
+	{
 		"created_at": "Sun Oct 18 04:11:16 +0000 2020",
 		"id": 1317666154790285300,
 		"id_str": "1317679617612926976",
