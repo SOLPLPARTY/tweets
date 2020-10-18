@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 18 06:11:24 +0000 2020",
+		"id": 1317706981675835400,
+		"id_str": "1317709848344207361",
+		"full_text": "[추천 '실시간 스트리밍' 공연]\n\n\"Show Must Go On - Live Stream Donation Concert\" 💕\n\n🤟빌리카터와 에고펑션에러🎸\n\n두 팀의 라이브 스트리밍이 20일 저녁 9시에 펼쳐진다고 합니다!\n\n💥링크를 통해 만나보실 수 있어요!\n▶ https://t.co/yp8SrxihY2 https://t.co/ok4gjTeqCC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yp8SrxihY2",
+					"expanded_url": "https://www.youtube.com/c/senggistudio",
+					"display_url": "youtube.com/c/senggistudio",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1317673771541565400,
+					"id_str": "1317673771541565441",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1317673771541565441/pu/img/9hS4q2B_z8MLcwRx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1317673771541565441/pu/img/9hS4q2B_z8MLcwRx.jpg",
+					"url": "https://t.co/ok4gjTeqCC",
+					"display_url": "pic.twitter.com/ok4gjTeqCC",
+					"expanded_url": "https://twitter.com/xindieticket/status/1317706981675835393/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1317673771541565400,
+					"id_str": "1317673771541565441",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1317673771541565441/pu/img/9hS4q2B_z8MLcwRx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1317673771541565441/pu/img/9hS4q2B_z8MLcwRx.jpg",
+					"url": "https://t.co/ok4gjTeqCC",
+					"display_url": "pic.twitter.com/ok4gjTeqCC",
+					"expanded_url": "https://twitter.com/xindieticket/status/1317706981675835393/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 26083,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1317673771541565441/pu/vid/320x320/RYCm5BzGP6PoJyZY.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1317673771541565441/pu/vid/640x640/bEjhQTm8vT_qAz8Y.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1317673771541565441/pu/pl/S2mdqGd-kztf235a.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1317673771541565441/pu/vid/480x480/NwkStqq_n52pnxp2.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2780,
+			"friends_count": 2694,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5316,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[추천 '실시간 스트리밍' 공연]\n\n\"Show Must Go On - Live Stream Donation Concert\" 💕\n\n🤟빌리카터와 에고펑션에러🎸\n\n두 팀의 라이브 스트리밍이 20일 저녁 9시에 펼쳐진다고 합니다!\n\n💥링크를 통해 만나보실 수 있어요!\n▶ https://t.co/yp8SrxihY2 https://t.co/ok4gjTeqCC"
+	},
+	{
 		"created_at": "Sun Oct 18 04:29:25 +0000 2020",
 		"id": 1317670236858970000,
 		"id_str": "1317684181921615875",
