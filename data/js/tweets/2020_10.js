@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 18 16:11:17 +0000 2020",
+		"id": 1317848346602524700,
+		"id_str": "1317860813701599234",
+		"full_text": "&lt;2020 풍경의 소리 : KP Project&gt; OPEN\n\n🌾 10시-19시 (18:30 입장 마감)\n🌾 매주 월요일 휴관\n🌾 무료입장\n\n#상상마당_춘천 아트센터는 코로나19의 재확산 방지를 위해 노력하고 있습니다.\n\n✔️매일 갤러리 소독을 진행\n✔️갤러리 입구에 손 소독제 등 방역 물품을 배치\n✔️입장 인원을 10명으로 제한 https://t.co/eEOEQuKZhv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상상마당_춘천",
+					"indices": [
+						83,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1317848333541544000,
+					"id_str": "1317848333541543937",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EknwE7yVkAEPXvQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EknwE7yVkAEPXvQ.jpg",
+					"url": "https://t.co/eEOEQuKZhv",
+					"display_url": "pic.twitter.com/eEOEQuKZhv",
+					"expanded_url": "https://twitter.com/SSmadang/status/1317848346602524672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1813,
+							"h": 1813,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1317848333541544000,
+					"id_str": "1317848333541543937",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EknwE7yVkAEPXvQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EknwE7yVkAEPXvQ.jpg",
+					"url": "https://t.co/eEOEQuKZhv",
+					"display_url": "pic.twitter.com/eEOEQuKZhv",
+					"expanded_url": "https://twitter.com/SSmadang/status/1317848346602524672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1813,
+							"h": 1813,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1317848333545656300,
+					"id_str": "1317848333545656320",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EknwE7zUUAArWTD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EknwE7zUUAArWTD.jpg",
+					"url": "https://t.co/eEOEQuKZhv",
+					"display_url": "pic.twitter.com/eEOEQuKZhv",
+					"expanded_url": "https://twitter.com/SSmadang/status/1317848346602524672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1317848333537267700,
+					"id_str": "1317848333537267712",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EknwE7xUUAASBlX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EknwE7xUUAASBlX.jpg",
+					"url": "https://t.co/eEOEQuKZhv",
+					"display_url": "pic.twitter.com/eEOEQuKZhv",
+					"expanded_url": "https://twitter.com/SSmadang/status/1317848346602524672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1317848333545660400,
+					"id_str": "1317848333545660417",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EknwE7zUYAEl7oU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EknwE7zUYAEl7oU.jpg",
+					"url": "https://t.co/eEOEQuKZhv",
+					"display_url": "pic.twitter.com/eEOEQuKZhv",
+					"expanded_url": "https://twitter.com/SSmadang/status/1317848346602524672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18151,
+			"friends_count": 1914,
+			"listed_count": 294,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;2020 풍경의 소리 : KP Project&gt; OPEN\n\n🌾 10시-19시 (18:30 입장 마감)\n🌾 매주 월요일 휴관\n🌾 무료입장\n\n#상상마당_춘천 아트센터는 코로나19의 재확산 방지를 위해 노력하고 있습니다.\n\n✔️매일 갤러리 소독을 진행\n✔️갤러리 입구에 손 소독제 등 방역 물품을 배치\n✔️입장 인원을 10명으로 제한 https://t.co/eEOEQuKZhv"
+	},
+	{
 		"created_at": "Sun Oct 18 12:08:50 +0000 2020",
 		"id": 1317799801304604700,
 		"id_str": "1317799801304604672",
