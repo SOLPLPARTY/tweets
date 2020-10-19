@@ -1,6 +1,754 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 19 05:11:16 +0000 2020",
+		"id": 1318050923873292300,
+		"id_str": "1318057105388163073",
+		"full_text": "화창한 날씨로 한주의 시작인 월요일도 공상온도 무사히 오픈 했습니다! 🙌🏼\nㅡ\n#공상온도 #공상온도일정 @공상온도 https://t.co/EOr9igjxaA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공상온도",
+					"indices": [
+						44,
+						49
+					]
+				},
+				{
+					"text": "공상온도일정",
+					"indices": [
+						50,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EOr9igjxaA",
+					"expanded_url": "https://www.instagram.com/p/CGgyBfXJH8K/?igshid=1g4696c808mop",
+					"display_url": "instagram.com/p/CGgyBfXJH8K/…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 360,
+			"friends_count": 192,
+			"listed_count": 8,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1066,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.55764455,
+				126.91971391
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				126.91971391,
+				37.55764455
+			]
+		},
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "화창한 날씨로 한주의 시작인 월요일도 공상온도 무사히 오픈 했습니다! 🙌🏼\nㅡ\n#공상온도 #공상온도일정 @공상온도 https://t.co/EOr9igjxaA"
+	},
+	{
+		"created_at": "Mon Oct 19 04:29:41 +0000 2020",
+		"id": 1318045046206210000,
+		"id_str": "1318046638640947202",
+		"full_text": "[2020 서울 인디뮤직페스타]\n주식회사 엠피엠지 부스에서는 이전에 판매되지 않은 **를 최초 한정 판매할 예정입니다! (추후 공지 예정)\n⠀\n일정\n11월 6일(금) 3PM - 9PM\n11월 7일(토) 2PM - 9PM\n⠀⠀\n장소\n홍대 롤링홀 /서울문화생활센터 서교\n*한 공연장에 4개의 레이블이 마켓을 운영합니다. https://t.co/O80oRiuClx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1318044727816589300,
+					"id_str": "1318044727816589312",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EkqisleVkAAqA_s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkqisleVkAAqA_s.jpg",
+					"url": "https://t.co/O80oRiuClx",
+					"display_url": "pic.twitter.com/O80oRiuClx",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1318045046206210049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1318044727816589300,
+					"id_str": "1318044727816589312",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EkqisleVkAAqA_s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkqisleVkAAqA_s.jpg",
+					"url": "https://t.co/O80oRiuClx",
+					"display_url": "pic.twitter.com/O80oRiuClx",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1318045046206210049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스, 소란, 노리플라이, 쏜애플, LambC, SURL, OurR",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13074,
+			"friends_count": 1965,
+			"listed_count": 259,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2020 서울 인디뮤직페스타]\n주식회사 엠피엠지 부스에서는 이전에 판매되지 않은 **를 최초 한정 판매할 예정입니다! (추후 공지 예정)\n⠀\n일정\n11월 6일(금) 3PM - 9PM\n11월 7일(토) 2PM - 9PM\n⠀⠀\n장소\n홍대 롤링홀 /서울문화생활센터 서교\n*한 공연장에 4개의 레이블이 마켓을 운영합니다. https://t.co/O80oRiuClx"
+	},
+	{
+		"created_at": "Mon Oct 19 04:29:34 +0000 2020",
+		"id": 1318041801232502800,
+		"id_str": "1318046608777449474",
+		"full_text": "[#민서] On Air on KBS2 '이미테이션'\n\n민서가 #이미테이션 에 출연합니다👏 #카카오페이지 #웹툰 원작인 이미테이션에서 #아이돌 그룹 #티파티 의 리더💪 겸 보컬🎤 #리아 역을 맡아 열연할 예정이오니 많은 기대💗부탁드립니다! 📺 첫 방송은 2021년 상반기 예정✔️ https://t.co/vD6EBwFcfD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민서",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "이미테이션",
+					"indices": [
+						34,
+						40
+					]
+				},
+				{
+					"text": "카카오페이지",
+					"indices": [
+						50,
+						57
+					]
+				},
+				{
+					"text": "웹툰",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "아이돌",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "티파티",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "리아",
+					"indices": [
+						99,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1318041793204682800,
+					"id_str": "1318041793204682752",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EkqgBxMVgAA6t3b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkqgBxMVgAA6t3b.jpg",
+					"url": "https://t.co/vD6EBwFcfD",
+					"display_url": "pic.twitter.com/vD6EBwFcfD",
+					"expanded_url": "https://twitter.com/themysticstory/status/1318041801232502784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1318041793204682800,
+					"id_str": "1318041793204682752",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EkqgBxMVgAA6t3b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkqgBxMVgAA6t3b.jpg",
+					"url": "https://t.co/vD6EBwFcfD",
+					"display_url": "pic.twitter.com/vD6EBwFcfD",
+					"expanded_url": "https://twitter.com/themysticstory/status/1318041801232502784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19850,
+			"friends_count": 18,
+			"listed_count": 224,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#민서] On Air on KBS2 '이미테이션'\n\n민서가 #이미테이션 에 출연합니다👏 #카카오페이지 #웹툰 원작인 이미테이션에서 #아이돌 그룹 #티파티 의 리더💪 겸 보컬🎤 #리아 역을 맡아 열연할 예정이오니 많은 기대💗부탁드립니다! 📺 첫 방송은 2021년 상반기 예정✔️ https://t.co/vD6EBwFcfD"
+	},
+	{
+		"created_at": "Mon Oct 19 04:29:28 +0000 2020",
+		"id": 1318034738959937500,
+		"id_str": "1318046583104131072",
+		"full_text": "오늘 오후6시 두 번째 뮤직비디오 \"My Body My Choice\"가 유튜브 빌리카터 채널에서 공개됩니다🔥🔥🔥\nhttps://t.co/4MBVvpnq4u\n\n모두 외쳐! 내몸내맘💪✊🤛 https://t.co/zLyjElr4PN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4MBVvpnq4u",
+					"expanded_url": "https://www.youtube.com/user/BLYCTR",
+					"display_url": "youtube.com/user/BLYCTR",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1318034701995552800,
+					"id_str": "1318034701995552768",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/EkqZlAYVMAAcGp-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkqZlAYVMAAcGp-.jpg",
+					"url": "https://t.co/zLyjElr4PN",
+					"display_url": "pic.twitter.com/zLyjElr4PN",
+					"expanded_url": "https://twitter.com/electric_muse/status/1318034738959937537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1033,
+							"h": 543,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1033,
+							"h": 543,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1318034701995552800,
+					"id_str": "1318034701995552768",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/EkqZlAYVMAAcGp-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkqZlAYVMAAcGp-.jpg",
+					"url": "https://t.co/zLyjElr4PN",
+					"display_url": "pic.twitter.com/zLyjElr4PN",
+					"expanded_url": "https://twitter.com/electric_muse/status/1318034738959937537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1033,
+							"h": 543,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1033,
+							"h": 543,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3392,
+			"friends_count": 1305,
+			"listed_count": 108,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 4938,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24852,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267787772711985153/NA7yMLTS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267787772711985153/NA7yMLTS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 오후6시 두 번째 뮤직비디오 \"My Body My Choice\"가 유튜브 빌리카터 채널에서 공개됩니다🔥🔥🔥\nhttps://t.co/4MBVvpnq4u\n\n모두 외쳐! 내몸내맘💪✊🤛 https://t.co/zLyjElr4PN"
+	},
+	{
 		"created_at": "Mon Oct 19 03:57:38 +0000 2020",
 		"id": 1318038571895369700,
 		"id_str": "1318038571895369729",
