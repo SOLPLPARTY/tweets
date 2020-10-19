@@ -1,6 +1,361 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 19 13:01:53 +0000 2020",
+		"id": 1318175537974698000,
+		"id_str": "1318175537974697984",
+		"full_text": "#온스테이지 #ONSTAGE\n가장 '온스테이지'다웠던 뮤지션들 | 온스테이지 10주년, ​온스테이지 기획 위원이 말한다 : 3\nhttps://t.co/EdQOrgubSU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "온스테이지",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "ONSTAGE",
+					"indices": [
+						7,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EdQOrgubSU",
+					"expanded_url": "https://youtu.be/uxqOJqZM3vY",
+					"display_url": "youtu.be/uxqOJqZM3vY",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 237,
+			"friends_count": 426,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 63392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#온스테이지 #ONSTAGE\n가장 '온스테이지'다웠던 뮤지션들 | 온스테이지 10주년, ​온스테이지 기획 위원이 말한다 : 3\nhttps://t.co/EdQOrgubSU"
+	},
+	{
+		"created_at": "Mon Oct 19 12:49:13 +0000 2020",
+		"id": 1318159594560974800,
+		"id_str": "1318172348608958465",
+		"full_text": "11/14 공연 예매 내일 오후 5시 옵쁜 \n/ 30명 한정 \nhttps://t.co/22ZK8h8ml7\n아디오스오디오, 에이치얼랏, \n라이엇키즈, 태아 https://t.co/qjvFoCZL0o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/22ZK8h8ml7",
+					"expanded_url": "http://naver.me/GQKbBJrR",
+					"display_url": "naver.me/GQKbBJrR",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1318159550436974600,
+					"id_str": "1318159550436974593",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1318159550436974593/pu/img/TINMVv3TmRk7IAhR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1318159550436974593/pu/img/TINMVv3TmRk7IAhR.jpg",
+					"url": "https://t.co/qjvFoCZL0o",
+					"display_url": "pic.twitter.com/qjvFoCZL0o",
+					"expanded_url": "https://twitter.com/mohomaho/status/1318159594560974848/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1318159550436974600,
+					"id_str": "1318159550436974593",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1318159550436974593/pu/img/TINMVv3TmRk7IAhR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1318159550436974593/pu/img/TINMVv3TmRk7IAhR.jpg",
+					"url": "https://t.co/qjvFoCZL0o",
+					"display_url": "pic.twitter.com/qjvFoCZL0o",
+					"expanded_url": "https://twitter.com/mohomaho/status/1318159594560974848/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 17600,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1318159550436974593/pu/vid/1280x720/fC1WQhPry9vCDCCj.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1318159550436974593/pu/pl/UVcgFSOZLmDceJDR.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1318159550436974593/pu/vid/480x270/cKtjjEhssHlVHlAL.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1318159550436974593/pu/vid/640x360/ltg6k7ki0BtIFv2p.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 137069838,
+			"id_str": "137069838",
+			"name": "냥호정 (maho yang)",
+			"screen_name": "mohomaho",
+			"location": "Seoul . Korea",
+			"description": "Band AdiosAudio Vo&Gt",
+			"url": "https://t.co/TM39MckAlX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TM39MckAlX",
+							"expanded_url": "http://facebook.com/adiosaudio",
+							"display_url": "facebook.com/adiosaudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 707,
+			"friends_count": 498,
+			"listed_count": 15,
+			"created_at": "Sun Apr 25 18:07:06 +0000 2010",
+			"favourites_count": 12409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1162265223182426113/HloecMWr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162265223182426113/HloecMWr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/137069838/1554791369",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "11/14 공연 예매 내일 오후 5시 옵쁜 \n/ 30명 한정 \nhttps://t.co/22ZK8h8ml7\n아디오스오디오, 에이치얼랏, \n라이엇키즈, 태아 https://t.co/qjvFoCZL0o"
+	},
+	{
 		"created_at": "Mon Oct 19 12:14:21 +0000 2020",
 		"id": 1318163577421942800,
 		"id_str": "1318163577421942784",
