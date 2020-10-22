@@ -1,6 +1,670 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 22 15:58:27 +0000 2020",
+		"id": 1319299437898854400,
+		"id_str": "1319307137978425344",
+		"full_text": "🧡ZANDARI FESTA TIME SCHEDULE🧡 https://t.co/Q4S3YbZnYq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1319299433373126700,
+					"id_str": "1319299433373126659",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Ek8X2D6UUAMzlIf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ek8X2D6UUAMzlIf.jpg",
+					"url": "https://t.co/Q4S3YbZnYq",
+					"display_url": "pic.twitter.com/Q4S3YbZnYq",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1319299437898854401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 157,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 277,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 472,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1319299433373126700,
+					"id_str": "1319299433373126659",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/Ek8X2D6UUAMzlIf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ek8X2D6UUAMzlIf.jpg",
+					"url": "https://t.co/Q4S3YbZnYq",
+					"display_url": "pic.twitter.com/Q4S3YbZnYq",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1319299437898854401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 157,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 277,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 472,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1319299430604886000,
+		"in_reply_to_status_id_str": "1319299430604886018",
+		"in_reply_to_user_id": 822764023,
+		"in_reply_to_user_id_str": "822764023",
+		"in_reply_to_screen_name": "ZandariFesta",
+		"user": {
+			"id": 822764023,
+			"id_str": "822764023",
+			"name": "Zandari Festa",
+			"screen_name": "ZandariFesta",
+			"location": "대한민국 홍대",
+			"description": "Since 2012 ㅣShowcase Festival & ConferencesㅣOctober 23rd -25th 2020 📍Hongdae, Seoul South Korea facebook @zandarifesta Instagram @zandarifesta",
+			"url": "https://t.co/TedsJgO7by",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TedsJgO7by",
+							"expanded_url": "http://www.zandarifesta.com",
+							"display_url": "zandarifesta.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2778,
+			"friends_count": 1766,
+			"listed_count": 40,
+			"created_at": "Fri Sep 14 05:51:51 +0000 2012",
+			"favourites_count": 852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240935459586334720/K6esD7zb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240935459586334720/K6esD7zb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/822764023/1603382510",
+			"profile_link_color": "7D7D7D",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "🧡ZANDARI FESTA TIME SCHEDULE🧡 https://t.co/Q4S3YbZnYq"
+	},
+	{
+		"created_at": "Thu Oct 22 15:58:25 +0000 2020",
+		"id": 1319299430604886000,
+		"id_str": "1319307128792846337",
+		"full_text": "🧡잔다리페스타 타임테이블 정주행시점🧡 https://t.co/ZZtbowUEg1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1319299425932505000,
+					"id_str": "1319299425932505088",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/Ek8X1oMVcAA-KUg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ek8X1oMVcAA-KUg.jpg",
+					"url": "https://t.co/ZZtbowUEg1",
+					"display_url": "pic.twitter.com/ZZtbowUEg1",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1319299430604886018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 363,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 121,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 213,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1319299425932505000,
+					"id_str": "1319299425932505088",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/Ek8X1oMVcAA-KUg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ek8X1oMVcAA-KUg.jpg",
+					"url": "https://t.co/ZZtbowUEg1",
+					"display_url": "pic.twitter.com/ZZtbowUEg1",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1319299430604886018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 363,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 121,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 213,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1319298591060443100,
+		"in_reply_to_status_id_str": "1319298591060443141",
+		"in_reply_to_user_id": 822764023,
+		"in_reply_to_user_id_str": "822764023",
+		"in_reply_to_screen_name": "ZandariFesta",
+		"user": {
+			"id": 822764023,
+			"id_str": "822764023",
+			"name": "Zandari Festa",
+			"screen_name": "ZandariFesta",
+			"location": "대한민국 홍대",
+			"description": "Since 2012 ㅣShowcase Festival & ConferencesㅣOctober 23rd -25th 2020 📍Hongdae, Seoul South Korea facebook @zandarifesta Instagram @zandarifesta",
+			"url": "https://t.co/TedsJgO7by",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TedsJgO7by",
+							"expanded_url": "http://www.zandarifesta.com",
+							"display_url": "zandarifesta.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2778,
+			"friends_count": 1766,
+			"listed_count": 40,
+			"created_at": "Fri Sep 14 05:51:51 +0000 2012",
+			"favourites_count": 852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240935459586334720/K6esD7zb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240935459586334720/K6esD7zb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/822764023/1603382510",
+			"profile_link_color": "7D7D7D",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🧡잔다리페스타 타임테이블 정주행시점🧡 https://t.co/ZZtbowUEg1"
+	},
+	{
+		"created_at": "Thu Oct 22 15:58:19 +0000 2020",
+		"id": 1319298591060443100,
+		"id_str": "1319307103157293056",
+		"full_text": "잔다리페스타 2020 잔다리 언리얼\nZANDARI FESTA 2020 ZANDARI UNREAL\n\n2020.10.23(FRI) - 25(SUN)\nhttps://t.co/bWbgb0vKpX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bWbgb0vKpX",
+					"expanded_url": "http://live.presented.kr/zandari",
+					"display_url": "live.presented.kr/zandari",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1319298588250312700,
+		"in_reply_to_status_id_str": "1319298588250312704",
+		"in_reply_to_user_id": 822764023,
+		"in_reply_to_user_id_str": "822764023",
+		"in_reply_to_screen_name": "ZandariFesta",
+		"user": {
+			"id": 822764023,
+			"id_str": "822764023",
+			"name": "Zandari Festa",
+			"screen_name": "ZandariFesta",
+			"location": "대한민국 홍대",
+			"description": "Since 2012 ㅣShowcase Festival & ConferencesㅣOctober 23rd -25th 2020 📍Hongdae, Seoul South Korea facebook @zandarifesta Instagram @zandarifesta",
+			"url": "https://t.co/TedsJgO7by",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TedsJgO7by",
+							"expanded_url": "http://www.zandarifesta.com",
+							"display_url": "zandarifesta.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2778,
+			"friends_count": 1766,
+			"listed_count": 40,
+			"created_at": "Fri Sep 14 05:51:51 +0000 2012",
+			"favourites_count": 852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240935459586334720/K6esD7zb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240935459586334720/K6esD7zb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/822764023/1603382510",
+			"profile_link_color": "7D7D7D",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잔다리페스타 2020 잔다리 언리얼\nZANDARI FESTA 2020 ZANDARI UNREAL\n\n2020.10.23(FRI) - 25(SUN)\nhttps://t.co/bWbgb0vKpX"
+	},
+	{
+		"created_at": "Thu Oct 22 15:58:15 +0000 2020",
+		"id": 1319298588250312700,
+		"id_str": "1319307085646077952",
+		"full_text": "🧡2020 ZANDARI UNREAL TIMETABLE🧡\n\n잔다리언리얼의 스테이지별 타임테이블이 공개되었습니다.\n타임테이블은 잔다리언리얼 홈페이지에서도 확인 가능합니다.\n\nREMEMBER, ZANDARI IS REAL. https://t.co/QwgJPI1hoj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1319298582936051700,
+					"id_str": "1319298582936051713",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/Ek8XEjyUYAEZLVR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ek8XEjyUYAEZLVR.jpg",
+					"url": "https://t.co/QwgJPI1hoj",
+					"display_url": "pic.twitter.com/QwgJPI1hoj",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1319298588250312704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1319298582936051700,
+					"id_str": "1319298582936051713",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/Ek8XEjyUYAEZLVR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ek8XEjyUYAEZLVR.jpg",
+					"url": "https://t.co/QwgJPI1hoj",
+					"display_url": "pic.twitter.com/QwgJPI1hoj",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1319298588250312704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1319298582948712400,
+					"id_str": "1319298582948712449",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/Ek8XEj1VkAEsg5F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ek8XEj1VkAEsg5F.jpg",
+					"url": "https://t.co/QwgJPI1hoj",
+					"display_url": "pic.twitter.com/QwgJPI1hoj",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1319298588250312704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 822764023,
+			"id_str": "822764023",
+			"name": "Zandari Festa",
+			"screen_name": "ZandariFesta",
+			"location": "대한민국 홍대",
+			"description": "Since 2012 ㅣShowcase Festival & ConferencesㅣOctober 23rd -25th 2020 📍Hongdae, Seoul South Korea facebook @zandarifesta Instagram @zandarifesta",
+			"url": "https://t.co/TedsJgO7by",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TedsJgO7by",
+							"expanded_url": "http://www.zandarifesta.com",
+							"display_url": "zandarifesta.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2778,
+			"friends_count": 1766,
+			"listed_count": 40,
+			"created_at": "Fri Sep 14 05:51:51 +0000 2012",
+			"favourites_count": 852,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240935459586334720/K6esD7zb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240935459586334720/K6esD7zb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/822764023/1603382510",
+			"profile_link_color": "7D7D7D",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🧡2020 ZANDARI UNREAL TIMETABLE🧡\n\n잔다리언리얼의 스테이지별 타임테이블이 공개되었습니다.\n타임테이블은 잔다리언리얼 홈페이지에서도 확인 가능합니다.\n\nREMEMBER, ZANDARI IS REAL. https://t.co/QwgJPI1hoj"
+	},
+	{
 		"created_at": "Thu Oct 22 14:29:25 +0000 2020",
 		"id": 1319276489393668000,
 		"id_str": "1319284729514917895",
