@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 22 05:19:09 +0000 2020",
+		"id": 1319117549016019000,
+		"id_str": "1319146251418415105",
+		"full_text": "&lt;이태원&gt;배급사이자 &lt;할머니의 먼집&gt;,&lt;피의 연대기&gt;, &lt;집의 시간들&gt;같이 멋진 영화들을 배급해왔던 상상마당시네마 영화사업부가 없어진다고 하네요. 상상마당 극장도 사라진다고 하는데 너무 안타깝습니다. #상상마당시네마를지켜주세요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상상마당시네마를지켜주세요",
+					"indices": [
+						136,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49891819,
+			"id_str": "49891819",
+			"name": "Garam",
+			"screen_name": "motomy",
+			"location": "대한민국 은평구",
+			"description": "'영희야놀자'에서 다큐멘터리 제작 활동 중.#왕자가된소녀들 배급 #이태원, #시국페미 등을 연출. #자이제댄스타임 PD #우리는매일매일 연출 #다큐멘터리이태원 2019년 12월 5일 개봉!!",
+			"url": "https://t.co/cKBslpu3oI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cKBslpu3oI",
+							"expanded_url": "https://www.facebook.com/letsplay.younghee/",
+							"display_url": "facebook.com/letsplay.young…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1416,
+			"friends_count": 823,
+			"listed_count": 32,
+			"created_at": "Tue Jun 23 05:08:29 +0000 2009",
+			"favourites_count": 8983,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1194783050770477056/D-gHweXd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194783050770477056/D-gHweXd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49891819/1572594043",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 772,
+		"favorite_count": 179,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "&lt;이태원&gt;배급사이자 &lt;할머니의 먼집&gt;,&lt;피의 연대기&gt;, &lt;집의 시간들&gt;같이 멋진 영화들을 배급해왔던 상상마당시네마 영화사업부가 없어진다고 하네요. 상상마당 극장도 사라진다고 하는데 너무 안타깝습니다. #상상마당시네마를지켜주세요"
+	},
+	{
 		"created_at": "Thu Oct 22 05:16:15 +0000 2020",
 		"id": 1319145522238681000,
 		"id_str": "1319145522238681090",
