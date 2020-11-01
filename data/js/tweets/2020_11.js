@@ -1,6 +1,146 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 01 13:11:09 +0000 2020",
+		"id": 1322888914311516200,
+		"id_str": "1322888914311516174",
+		"full_text": "#월드디제이페스티벌\n#World_DJ_Festival\n[언택트 온라인 월드 디제이 페스티벌] ◆UNTACT World DJ Festival DAY7 - 3\nhttps://t.co/8jp9lKZgNE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "월드디제이페스티벌",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "World_DJ_Festival",
+					"indices": [
+						11,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8jp9lKZgNE",
+					"expanded_url": "https://youtu.be/1IPFRAXCtIE",
+					"display_url": "youtu.be/1IPFRAXCtIE",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 237,
+			"friends_count": 429,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64291,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#월드디제이페스티벌\n#World_DJ_Festival\n[언택트 온라인 월드 디제이 페스티벌] ◆UNTACT World DJ Festival DAY7 - 3\nhttps://t.co/8jp9lKZgNE"
+	},
+	{
 		"created_at": "Sun Nov 01 12:11:17 +0000 2020",
 		"id": 1322866271386394600,
 		"id_str": "1322873844638584833",
@@ -224,7 +364,7 @@ Grailbird.data.tweets_2020_11 =
 		"created_at": "Sun Nov 01 11:58:18 +0000 2020",
 		"id": 1322855912810315800,
 		"id_str": "1322870577321988096",
-		"full_text": "[KCON:TACT season 2] #KIMJAEHWAN\n\nSTAN KIM JAEHWAN. PERIOD.\n\n▶ KCON official: https://t.co/83zc6intTv\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTlO5B7 ​\n▶ Mnet K-POP: https://t.co/J388Ddaq1j ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/TX7glJL8NH",
+		"full_text": "[KCON:TACT season 2] #KIMJAEHWAN\n\nSTAN KIM JAEHWAN. PERIOD.\n\n▶ KCON official: https://t.co/83zc6intTv\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTlO5B7 \n▶ Mnet K-POP: https://t.co/J388Ddaq1j \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/TX7glJL8NH",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -528,13 +668,13 @@ Grailbird.data.tweets_2020_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "[KCON:TACT season 2] #KIMJAEHWAN\n\nSTAN KIM JAEHWAN. PERIOD.\n\n▶ KCON official: https://t.co/83zc6intTv\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTlO5B7 ​\n▶ Mnet K-POP: https://t.co/J388Ddaq1j ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/TX7glJL8NH"
+		"text": "[KCON:TACT season 2] #KIMJAEHWAN\n\nSTAN KIM JAEHWAN. PERIOD.\n\n▶ KCON official: https://t.co/83zc6intTv\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTlO5B7 \n▶ Mnet K-POP: https://t.co/J388Ddaq1j \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/TX7glJL8NH"
 	},
 	{
 		"created_at": "Sun Nov 01 11:58:14 +0000 2020",
 		"id": 1322855910616703000,
 		"id_str": "1322870564109881346",
-		"full_text": "[KCON:TACT season 2] #KIMJAEHWAN\n\nSTAN KIM JAEHWAN. PERIOD.\n\n▶ KCON official: https://t.co/83zc6intTv\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTlO5B7 ​\n▶ Mnet K-POP: https://t.co/J388Ddaq1j ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/UTAAJtHLCK",
+		"full_text": "[KCON:TACT season 2] #KIMJAEHWAN\n\nSTAN KIM JAEHWAN. PERIOD.\n\n▶ KCON official: https://t.co/83zc6intTv\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTlO5B7 \n▶ Mnet K-POP: https://t.co/J388Ddaq1j \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/UTAAJtHLCK",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -838,7 +978,7 @@ Grailbird.data.tweets_2020_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "[KCON:TACT season 2] #KIMJAEHWAN\n\nSTAN KIM JAEHWAN. PERIOD.\n\n▶ KCON official: https://t.co/83zc6intTv\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTlO5B7 ​\n▶ Mnet K-POP: https://t.co/J388Ddaq1j ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/UTAAJtHLCK"
+		"text": "[KCON:TACT season 2] #KIMJAEHWAN\n\nSTAN KIM JAEHWAN. PERIOD.\n\n▶ KCON official: https://t.co/83zc6intTv\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTlO5B7 \n▶ Mnet K-POP: https://t.co/J388Ddaq1j \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/UTAAJtHLCK"
 	},
 	{
 		"created_at": "Sun Nov 01 11:29:33 +0000 2020",
