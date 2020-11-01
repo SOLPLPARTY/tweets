@@ -1,6 +1,429 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 01 15:29:27 +0000 2020",
+		"id": 1322916540744822800,
+		"id_str": "1322923714820874240",
+		"full_text": "[#LUCY] \n2nd Single Album🎤 ‘선잠’\n\n#선잠 #루시 #신예찬 #최상엽 #조원상 #신광일 https://t.co/lYelwX9HwY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LUCY",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "선잠",
+					"indices": [
+						33,
+						36
+					]
+				},
+				{
+					"text": "루시",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "신예찬",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "최상엽",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "조원상",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "신광일",
+					"indices": [
+						56,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lYelwX9HwY",
+					"expanded_url": "https://twitter.com/BANDLUCY_mystic/status/1322916374440681474",
+					"display_url": "twitter.com/BANDLUCY_mysti…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19781,
+			"friends_count": 18,
+			"listed_count": 221,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1322916374440681500,
+		"quoted_status_id_str": "1322916374440681474",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lYelwX9HwY",
+			"expanded": "https://twitter.com/BANDLUCY_mystic/status/1322916374440681474",
+			"display": "twitter.com/BANDLUCY_mysti…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 01 15:00:16 +0000 2020",
+			"id": 1322916374440681500,
+			"id_str": "1322916374440681474",
+			"full_text": "#LUCY \n\nLUCY 2nd Single Album '선잠’\n\n#LUCY #루시 #신예찬 #최상엽 #조원상 #신광일 https://t.co/AwTCXzsZq9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				65
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LUCY",
+						"indices": [
+							0,
+							5
+						]
+					},
+					{
+						"text": "LUCY",
+						"indices": [
+							36,
+							41
+						]
+					},
+					{
+						"text": "루시",
+						"indices": [
+							42,
+							45
+						]
+					},
+					{
+						"text": "신예찬",
+						"indices": [
+							46,
+							50
+						]
+					},
+					{
+						"text": "최상엽",
+						"indices": [
+							51,
+							55
+						]
+					},
+					{
+						"text": "조원상",
+						"indices": [
+							56,
+							60
+						]
+					},
+					{
+						"text": "신광일",
+						"indices": [
+							61,
+							65
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1322911742427426800,
+						"id_str": "1322911742427426821",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1322911742427426821/pu/img/WgkrB9sqPFlkqVoe.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1322911742427426821/pu/img/WgkrB9sqPFlkqVoe.jpg",
+						"url": "https://t.co/AwTCXzsZq9",
+						"display_url": "pic.twitter.com/AwTCXzsZq9",
+						"expanded_url": "https://twitter.com/BANDLUCY_mystic/status/1322916374440681474/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1322911742427426800,
+						"id_str": "1322911742427426821",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1322911742427426821/pu/img/WgkrB9sqPFlkqVoe.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1322911742427426821/pu/img/WgkrB9sqPFlkqVoe.jpg",
+						"url": "https://t.co/AwTCXzsZq9",
+						"display_url": "pic.twitter.com/AwTCXzsZq9",
+						"expanded_url": "https://twitter.com/BANDLUCY_mystic/status/1322916374440681474/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 10052,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1322911742427426821/pu/vid/480x270/aXOC3VnUyjAIrU8V.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1322911742427426821/pu/vid/1280x720/qI6TxsG4zZvPEJM6.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1322911742427426821/pu/pl/G7UVrTxLDaGZ_Ppl.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1322911742427426821/pu/vid/640x360/zdAxqZqb6VORMRJR.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1248459032320327700,
+				"id_str": "1248459032320327683",
+				"name": "BAND LUCY | 밴드 루시",
+				"screen_name": "BANDLUCY_mystic",
+				"location": "대한민국",
+				"description": "BAND LUCY official twitter\n신예찬(바이올린), 최상엽(보컬/기타), 조원상(베이스/프로듀서), 신광일(드럼/보컬)\n👉유튜브https://t.co/3eI9Mfcxdt\n👉팬카페 https://t.co/sCJrUvhyJm",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/3eI9Mfcxdt",
+								"expanded_url": "http://bit.ly/31g7KUpG",
+								"display_url": "bit.ly/31g7KUpG",
+								"indices": [
+									80,
+									103
+								]
+							},
+							{
+								"url": "https://t.co/sCJrUvhyJm",
+								"expanded_url": "http://cafe.daum.net/band.lucyPc",
+								"display_url": "cafe.daum.net/band.lucyPc",
+								"indices": [
+									109,
+									132
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 16294,
+				"friends_count": 3,
+				"listed_count": 214,
+				"created_at": "Fri Apr 10 03:53:29 +0000 2020",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 388,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1275466304485351424/4OFLb7ax_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275466304485351424/4OFLb7ax_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1248459032320327683/1598060473",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 955,
+			"favorite_count": 1720,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 7,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#LUCY] \n2nd Single Album🎤 ‘선잠’\n\n#선잠 #루시 #신예찬 #최상엽 #조원상 #신광일 https://t.co/lYelwX9HwY"
+	},
+	{
 		"created_at": "Sun Nov 01 14:11:08 +0000 2020",
 		"id": 1322904005815787500,
 		"id_str": "1322904005815787520",
