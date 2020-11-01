@@ -1,6 +1,946 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 01 10:58:20 +0000 2020",
+		"id": 1322840812284186600,
+		"id_str": "1322855489798086656",
+		"full_text": "[KCON:TACT season 2] #HASUNGWOON\n\nWhat are you even doing if you're not a HA SUNG WOON fan at this point?\n\n▶ KCON official: https://t.co/83zc6i5T1X\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTm5GZH ​\n▶ Mnet K-POP: https://t.co/J388DcSP9L ​\n\n#KCON  #KCONTACT https://t.co/pirhQm5DcT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HASUNGWOON",
+					"indices": [
+						21,
+						32
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						260,
+						265
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						267,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/83zc6i5T1X",
+					"expanded_url": "http://youtube.com/KCON",
+					"display_url": "youtube.com/KCON",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/XqzsTm5GZH",
+					"expanded_url": "https://youtu.be/u0GedSPEuyA",
+					"display_url": "youtu.be/u0GedSPEuyA",
+					"indices": [
+						193,
+						216
+					]
+				},
+				{
+					"url": "https://t.co/J388DcSP9L",
+					"expanded_url": "https://youtu.be/HkpNQvi8gNA",
+					"display_url": "youtu.be/HkpNQvi8gNA",
+					"indices": [
+						233,
+						256
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1322406379076817000,
+					"id_str": "1322406379076816896",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/ElohmGmVkAAJjy0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElohmGmVkAAJjy0.jpg",
+					"url": "https://t.co/pirhQm5DcT",
+					"display_url": "pic.twitter.com/pirhQm5DcT",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1322840812284186624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1322406379076817000,
+					"id_str": "1322406379076816896",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/ElohmGmVkAAJjy0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElohmGmVkAAJjy0.jpg",
+					"url": "https://t.co/pirhQm5DcT",
+					"display_url": "pic.twitter.com/pirhQm5DcT",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1322840812284186624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1322406379097739300,
+					"id_str": "1322406379097739264",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/ElohmGrU0AACSOX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElohmGrU0AACSOX.jpg",
+					"url": "https://t.co/pirhQm5DcT",
+					"display_url": "pic.twitter.com/pirhQm5DcT",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1322840812284186624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1322406379097788400,
+					"id_str": "1322406379097788417",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/ElohmGrVkAEp9GK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElohmGrVkAEp9GK.jpg",
+					"url": "https://t.co/pirhQm5DcT",
+					"display_url": "pic.twitter.com/pirhQm5DcT",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1322840812284186624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON:TACT season 2  Oct 16~25, 2020",
+			"url": "https://t.co/CCEcf5MtP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCEcf5MtP5",
+							"expanded_url": "https://www.youtube.com/KCON",
+							"display_url": "youtube.com/KCON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299000,
+			"friends_count": 67,
+			"listed_count": 899,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8438,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1600424283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 664,
+		"favorite_count": 974,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT season 2] #HASUNGWOON\n\nWhat are you even doing if you're not a HA SUNG WOON fan at this point?\n\n▶ KCON official: https://t.co/83zc6i5T1X\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTm5GZH ​\n▶ Mnet K-POP: https://t.co/J388DcSP9L ​\n\n#KCON  #KCONTACT https://t.co/pirhQm5DcT"
+	},
+	{
+		"created_at": "Sun Nov 01 10:58:14 +0000 2020",
+		"id": 1322840810166145000,
+		"id_str": "1322855464124796928",
+		"full_text": "[KCON:TACT season 2] #HASUNGWOON\n\nWhat are you even doing if you're not a HA SUNG WOON fan at this point?\n\n▶ KCON official: https://t.co/83zc6i5T1X\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTm5GZH ​\n▶ Mnet K-POP: https://t.co/J388DcSP9L ​\n\n#KCON  #KCONTACT https://t.co/DlDuASybep",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HASUNGWOON",
+					"indices": [
+						21,
+						32
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						260,
+						265
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						267,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/83zc6i5T1X",
+					"expanded_url": "http://youtube.com/KCON",
+					"display_url": "youtube.com/KCON",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/XqzsTm5GZH",
+					"expanded_url": "https://youtu.be/u0GedSPEuyA",
+					"display_url": "youtu.be/u0GedSPEuyA",
+					"indices": [
+						193,
+						216
+					]
+				},
+				{
+					"url": "https://t.co/J388DcSP9L",
+					"expanded_url": "https://youtu.be/HkpNQvi8gNA",
+					"display_url": "youtu.be/HkpNQvi8gNA",
+					"indices": [
+						233,
+						256
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1322406478871818200,
+					"id_str": "1322406478871818245",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/Elohr6XUcAUdR5S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Elohr6XUcAUdR5S.jpg",
+					"url": "https://t.co/DlDuASybep",
+					"display_url": "pic.twitter.com/DlDuASybep",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1322840810166145025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1322406478871818200,
+					"id_str": "1322406478871818245",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/Elohr6XUcAUdR5S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Elohr6XUcAUdR5S.jpg",
+					"url": "https://t.co/DlDuASybep",
+					"display_url": "pic.twitter.com/DlDuASybep",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1322840810166145025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1322406478888628200,
+					"id_str": "1322406478888628225",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/Elohr6bU8AEK_X0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Elohr6bU8AEK_X0.jpg",
+					"url": "https://t.co/DlDuASybep",
+					"display_url": "pic.twitter.com/DlDuASybep",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1322840810166145025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1322406478888644600,
+					"id_str": "1322406478888644610",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/Elohr6bVMAImcYq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Elohr6bVMAImcYq.jpg",
+					"url": "https://t.co/DlDuASybep",
+					"display_url": "pic.twitter.com/DlDuASybep",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1322840810166145025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON:TACT season 2  Oct 16~25, 2020",
+			"url": "https://t.co/CCEcf5MtP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCEcf5MtP5",
+							"expanded_url": "https://www.youtube.com/KCON",
+							"display_url": "youtube.com/KCON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299000,
+			"friends_count": 67,
+			"listed_count": 899,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8438,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1600424283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 547,
+		"favorite_count": 821,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT season 2] #HASUNGWOON\n\nWhat are you even doing if you're not a HA SUNG WOON fan at this point?\n\n▶ KCON official: https://t.co/83zc6i5T1X\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTm5GZH ​\n▶ Mnet K-POP: https://t.co/J388DcSP9L ​\n\n#KCON  #KCONTACT https://t.co/DlDuASybep"
+	},
+	{
+		"created_at": "Sun Nov 01 10:29:40 +0000 2020",
+		"id": 1322840777202913300,
+		"id_str": "1322848272239779840",
+		"full_text": "🌛Seiryun \n\n댄스플로어 뮤직을 다루는 디제이/프로듀서이다. 파티 Junction을 기획하여 서울과 도쿄에서 진행한 바 있고 가상의 오디오비주얼 파티 Hypnosis의 기획과 디제이로 참여했다. 최근에는 다분야의 작가들이 모인 팀 호모폴리넬라에서 음악감독으로서 여러 전시에 참여하고 있다. https://t.co/u2qVwfnWht",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1322840774367617000,
+					"id_str": "1322840774367617026",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/ElusrPKVoAIAwOT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElusrPKVoAIAwOT.jpg",
+					"url": "https://t.co/u2qVwfnWht",
+					"display_url": "pic.twitter.com/u2qVwfnWht",
+					"expanded_url": "https://twitter.com/bombino_records/status/1322840777202913280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1322840774367617000,
+					"id_str": "1322840774367617026",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/ElusrPKVoAIAwOT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElusrPKVoAIAwOT.jpg",
+					"url": "https://t.co/u2qVwfnWht",
+					"display_url": "pic.twitter.com/u2qVwfnWht",
+					"expanded_url": "https://twitter.com/bombino_records/status/1322840777202913280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1322833903531430000,
+		"in_reply_to_status_id_str": "1322833903531429888",
+		"in_reply_to_user_id": 389236787,
+		"in_reply_to_user_id_str": "389236787",
+		"in_reply_to_screen_name": "bombino_records",
+		"user": {
+			"id": 389236787,
+			"id_str": "389236787",
+			"name": "Bombino Records",
+			"screen_name": "bombino_records",
+			"location": "babylon",
+			"description": "",
+			"url": "https://t.co/3IX5WApqpM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3IX5WApqpM",
+							"expanded_url": "http://bekindrespin.wordpress.com/",
+							"display_url": "bekindrespin.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 535,
+			"friends_count": 68,
+			"listed_count": 6,
+			"created_at": "Wed Oct 12 02:35:26 +0000 2011",
+			"favourites_count": 101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1208686940427415552/JVoB59S9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208686940427415552/JVoB59S9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/389236787/1545404016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌛Seiryun \n\n댄스플로어 뮤직을 다루는 디제이/프로듀서이다. 파티 Junction을 기획하여 서울과 도쿄에서 진행한 바 있고 가상의 오디오비주얼 파티 Hypnosis의 기획과 디제이로 참여했다. 최근에는 다분야의 작가들이 모인 팀 호모폴리넬라에서 음악감독으로서 여러 전시에 참여하고 있다. https://t.co/u2qVwfnWht"
+	},
+	{
+		"created_at": "Sun Nov 01 10:29:33 +0000 2020",
+		"id": 1322834623647244300,
+		"id_str": "1322848246558035970",
+		"full_text": "🌙Mogwaa - Live set\n\nMogwaa는 서울을 기반으로  활동하는 8Balltown 소속의 프로듀서 겸 DJ입니다. 최근 8Balltown을 통하여 'Open Mind EP'를 발매한 Mogwaa는 Funk, Reggae, House 를 기반으로 한 다양한 음악을 선보이고 있습니다. https://t.co/VJ8gY0ERhY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1322834619939524600,
+					"id_str": "1322834619939524609",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/ElunFAIVkAE3dKn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElunFAIVkAE3dKn.jpg",
+					"url": "https://t.co/VJ8gY0ERhY",
+					"display_url": "pic.twitter.com/VJ8gY0ERhY",
+					"expanded_url": "https://twitter.com/bombino_records/status/1322834623647244288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1370,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 803,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1322834619939524600,
+					"id_str": "1322834619939524609",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/ElunFAIVkAE3dKn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElunFAIVkAE3dKn.jpg",
+					"url": "https://t.co/VJ8gY0ERhY",
+					"display_url": "pic.twitter.com/VJ8gY0ERhY",
+					"expanded_url": "https://twitter.com/bombino_records/status/1322834623647244288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1370,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 803,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1322827837208887300,
+		"in_reply_to_status_id_str": "1322827837208887296",
+		"in_reply_to_user_id": 389236787,
+		"in_reply_to_user_id_str": "389236787",
+		"in_reply_to_screen_name": "bombino_records",
+		"user": {
+			"id": 389236787,
+			"id_str": "389236787",
+			"name": "Bombino Records",
+			"screen_name": "bombino_records",
+			"location": "babylon",
+			"description": "",
+			"url": "https://t.co/3IX5WApqpM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3IX5WApqpM",
+							"expanded_url": "http://bekindrespin.wordpress.com/",
+							"display_url": "bekindrespin.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 535,
+			"friends_count": 68,
+			"listed_count": 6,
+			"created_at": "Wed Oct 12 02:35:26 +0000 2011",
+			"favourites_count": 101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1208686940427415552/JVoB59S9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208686940427415552/JVoB59S9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/389236787/1545404016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌙Mogwaa - Live set\n\nMogwaa는 서울을 기반으로  활동하는 8Balltown 소속의 프로듀서 겸 DJ입니다. 최근 8Balltown을 통하여 'Open Mind EP'를 발매한 Mogwaa는 Funk, Reggae, House 를 기반으로 한 다양한 음악을 선보이고 있습니다. https://t.co/VJ8gY0ERhY"
+	},
+	{
 		"created_at": "Sun Nov 01 10:11:17 +0000 2020",
 		"id": 1322838216173588500,
 		"id_str": "1322843646362849280",
@@ -155,7 +1095,7 @@ Grailbird.data.tweets_2020_11 =
 		"created_at": "Sun Nov 01 09:58:22 +0000 2020",
 		"id": 1322825712428937200,
 		"id_str": "1322840395328462849",
-		"full_text": "[KCON:TACT season 2] #AB6IX\n\nWE LOVE AB6IX!!!!!!!!!!! SO!!!!! MUCH!!!!!!!!!!!!!\n\n▶ KCON official: https://t.co/83zc6intTv\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTlO5B7 ​\n▶ Mnet K-POP: https://t.co/J388Ddaq1j ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/Fwi0nQXHhB",
+		"full_text": "[KCON:TACT season 2] #AB6IX\n\nWE LOVE AB6IX!!!!!!!!!!! SO!!!!! MUCH!!!!!!!!!!!!!\n\n▶ KCON official: https://t.co/83zc6intTv\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTlO5B7 \n▶ Mnet K-POP: https://t.co/J388Ddaq1j \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/Fwi0nQXHhB",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -495,13 +1435,13 @@ Grailbird.data.tweets_2020_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "[KCON:TACT season 2] #AB6IX\n\nWE LOVE AB6IX!!!!!!!!!!! SO!!!!! MUCH!!!!!!!!!!!!!\n\n▶ KCON official: https://t.co/83zc6intTv\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTlO5B7 ​\n▶ Mnet K-POP: https://t.co/J388Ddaq1j ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/Fwi0nQXHhB"
+		"text": "[KCON:TACT season 2] #AB6IX\n\nWE LOVE AB6IX!!!!!!!!!!! SO!!!!! MUCH!!!!!!!!!!!!!\n\n▶ KCON official: https://t.co/83zc6intTv\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTlO5B7 \n▶ Mnet K-POP: https://t.co/J388Ddaq1j \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/Fwi0nQXHhB"
 	},
 	{
 		"created_at": "Sun Nov 01 09:58:19 +0000 2020",
 		"id": 1322825711200006100,
 		"id_str": "1322840386365235201",
-		"full_text": "[KCON:TACT season 2] #AB6IX\n\nWE LOVE AB6IX!!!!!!!!!!! SO!!!!! MUCH!!!!!!!!!!!!!\n\n▶ KCON official: https://t.co/83zc6intTv\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTlO5B7 ​\n▶ Mnet K-POP: https://t.co/J388Ddaq1j ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/tlwPUISnXt",
+		"full_text": "[KCON:TACT season 2] #AB6IX\n\nWE LOVE AB6IX!!!!!!!!!!! SO!!!!! MUCH!!!!!!!!!!!!!\n\n▶ KCON official: https://t.co/83zc6intTv\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTlO5B7 \n▶ Mnet K-POP: https://t.co/J388Ddaq1j \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/tlwPUISnXt",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -769,13 +1709,13 @@ Grailbird.data.tweets_2020_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "[KCON:TACT season 2] #AB6IX\n\nWE LOVE AB6IX!!!!!!!!!!! SO!!!!! MUCH!!!!!!!!!!!!!\n\n▶ KCON official: https://t.co/83zc6intTv\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTlO5B7 ​\n▶ Mnet K-POP: https://t.co/J388Ddaq1j ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/tlwPUISnXt"
+		"text": "[KCON:TACT season 2] #AB6IX\n\nWE LOVE AB6IX!!!!!!!!!!! SO!!!!! MUCH!!!!!!!!!!!!!\n\n▶ KCON official: https://t.co/83zc6intTv\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTlO5B7 \n▶ Mnet K-POP: https://t.co/J388Ddaq1j \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/tlwPUISnXt"
 	},
 	{
 		"created_at": "Sun Nov 01 09:58:14 +0000 2020",
 		"id": 1322825709233033200,
 		"id_str": "1322840364831645696",
-		"full_text": "[KCON:TACT season 2] #AB6IX\n\nWE LOVE AB6IX!!!!!!!!!!! SO!!!!! MUCH!!!!!!!!!!!!!\n\n▶ KCON official: https://t.co/83zc6i5T1X\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTm5GZH ​\n▶ Mnet K-POP: https://t.co/J388DcSP9L ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/09R5KbHaWy",
+		"full_text": "[KCON:TACT season 2] #AB6IX\n\nWE LOVE AB6IX!!!!!!!!!!! SO!!!!! MUCH!!!!!!!!!!!!!\n\n▶ KCON official: https://t.co/83zc6i5T1X\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTm5GZH \n▶ Mnet K-POP: https://t.co/J388DcSP9L \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/09R5KbHaWy",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1079,7 +2019,7 @@ Grailbird.data.tweets_2020_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "[KCON:TACT season 2] #AB6IX\n\nWE LOVE AB6IX!!!!!!!!!!! SO!!!!! MUCH!!!!!!!!!!!!!\n\n▶ KCON official: https://t.co/83zc6i5T1X\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTm5GZH ​\n▶ Mnet K-POP: https://t.co/J388DcSP9L ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/09R5KbHaWy"
+		"text": "[KCON:TACT season 2] #AB6IX\n\nWE LOVE AB6IX!!!!!!!!!!! SO!!!!! MUCH!!!!!!!!!!!!!\n\n▶ KCON official: https://t.co/83zc6i5T1X\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTm5GZH \n▶ Mnet K-POP: https://t.co/J388DcSP9L \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/09R5KbHaWy"
 	},
 	{
 		"created_at": "Sun Nov 01 09:29:49 +0000 2020",
