@@ -1,6 +1,801 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 02 09:11:24 +0000 2020",
+		"id": 1323190526498123800,
+		"id_str": "1323190963758600192",
+		"full_text": "이번 주 토요일 벨로주 망원 pm 8. 궁금하고 또 추천하는 공연입니다! 공연을 못 오더라도 음원은 꼭 들어보시길. https://t.co/xCfHFcoZ39",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xCfHFcoZ39",
+					"expanded_url": "https://twitter.com/cacophonyphony/status/1319876698247098369",
+					"display_url": "twitter.com/cacophonyphony…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8733,
+			"friends_count": 145,
+			"listed_count": 134,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1319876698247098400,
+		"quoted_status_id_str": "1319876698247098369",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xCfHFcoZ39",
+			"expanded": "https://twitter.com/cacophonyphony/status/1319876698247098369",
+			"display": "twitter.com/cacophonyphony…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 24 05:41:41 +0000 2020",
+			"id": 1319876698247098400,
+			"id_str": "1319876698247098369",
+			"full_text": "@moonsomoon2020 11월 7일 쇼케이스 예매 오픈했습니다☺️\nhttps://t.co/2Wt9CaeNjo https://t.co/SnDKrUhOIZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				63
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "moonsomoon2020",
+						"name": "문소문 moonsomoon",
+						"id": 1278935283837235200,
+						"id_str": "1278935283837235200",
+						"indices": [
+							0,
+							15
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/2Wt9CaeNjo",
+						"expanded_url": "https://forms.gle/7k6QoLiFGP6gp8UA8",
+						"display_url": "forms.gle/7k6QoLiFGP6gp8…",
+						"indices": [
+							40,
+							63
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1319876691439743000,
+						"id_str": "1319876691439742976",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/ElEk25yVcAAjpUy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ElEk25yVcAAjpUy.jpg",
+						"url": "https://t.co/SnDKrUhOIZ",
+						"display_url": "pic.twitter.com/SnDKrUhOIZ",
+						"expanded_url": "https://twitter.com/cacophonyphony/status/1319876698247098369/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 864,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 864,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1319876691439743000,
+						"id_str": "1319876691439742976",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/ElEk25yVcAAjpUy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ElEk25yVcAAjpUy.jpg",
+						"url": "https://t.co/SnDKrUhOIZ",
+						"display_url": "pic.twitter.com/SnDKrUhOIZ",
+						"expanded_url": "https://twitter.com/cacophonyphony/status/1319876698247098369/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 864,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 864,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 1278935283837235200,
+			"in_reply_to_user_id_str": "1278935283837235200",
+			"in_reply_to_screen_name": "moonsomoon2020",
+			"user": {
+				"id": 1208247875659911200,
+				"id_str": "1208247875659911168",
+				"name": "카코포니🌙11월 7일 문소문 쇼케이스",
+				"screen_name": "cacophonyphony",
+				"location": "",
+				"description": "음악이야기, 영상이야기, 때론 사적인 이야기🦋contact : cacophonyiscacophony@gmail.com",
+				"url": "https://t.co/5gpIX8HN0F",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5gpIX8HN0F",
+								"expanded_url": "https://youtu.be/iyHuVLSNAC8",
+								"display_url": "youtu.be/iyHuVLSNAC8",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 337,
+				"friends_count": 116,
+				"listed_count": 1,
+				"created_at": "Sat Dec 21 04:48:46 +0000 2019",
+				"favourites_count": 1553,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 451,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1208247991561113602/n9dKUj9u_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208247991561113602/n9dKUj9u_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1208247875659911168/1576904174",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "019fba1c5ac23f79",
+				"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+				"place_type": "city",
+				"name": "마포구",
+				"full_name": "대한민국 마포구",
+				"country_code": "KR",
+				"country": "대한민국",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								126.855912576725,
+								37.523438844739
+							],
+							[
+								126.967013374467,
+								37.523438844739
+							],
+							[
+								126.967013374467,
+								37.5893965817644
+							],
+							[
+								126.855912576725,
+								37.5893965817644
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번 주 토요일 벨로주 망원 pm 8. 궁금하고 또 추천하는 공연입니다! 공연을 못 오더라도 음원은 꼭 들어보시길. https://t.co/xCfHFcoZ39"
+	},
+	{
+		"created_at": "Mon Nov 02 09:11:16 +0000 2020",
+		"id": 1323184507822878700,
+		"id_str": "1323190933886799872",
+		"full_text": "11/12(목) 벨로주 홍대.\n\n지금 가장 새로운 음악을 들고 찾아온 세 명의 싱어송라이터 '김제형 + 예람 + 전유동'의 공연은 세 팀 모두 다른 다채로운 편성(듀오, 트리오, 6인조 풀밴드)으로 진행됩니다.\n\n절찬 예매 중 : https://t.co/H4yFG9tBUq\n(60명 한정, 예매 매진 시 현매는 진행하지 않습니다) https://t.co/YrgvnHftHm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H4yFG9tBUq",
+					"expanded_url": "https://c11.kr/irzd",
+					"display_url": "c11.kr/irzd",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323184475031826400,
+					"id_str": "1323184475031826432",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/ElzlRP6VcAAZTgb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElzlRP6VcAAZTgb.jpg",
+					"url": "https://t.co/YrgvnHftHm",
+					"display_url": "pic.twitter.com/YrgvnHftHm",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1323184507822878720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1575,
+							"h": 1969,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323184475031826400,
+					"id_str": "1323184475031826432",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/ElzlRP6VcAAZTgb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElzlRP6VcAAZTgb.jpg",
+					"url": "https://t.co/YrgvnHftHm",
+					"display_url": "pic.twitter.com/YrgvnHftHm",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1323184507822878720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1575,
+							"h": 1969,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8733,
+			"friends_count": 145,
+			"listed_count": 134,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "11/12(목) 벨로주 홍대.\n\n지금 가장 새로운 음악을 들고 찾아온 세 명의 싱어송라이터 '김제형 + 예람 + 전유동'의 공연은 세 팀 모두 다른 다채로운 편성(듀오, 트리오, 6인조 풀밴드)으로 진행됩니다.\n\n절찬 예매 중 : https://t.co/H4yFG9tBUq\n(60명 한정, 예매 매진 시 현매는 진행하지 않습니다) https://t.co/YrgvnHftHm"
+	},
+	{
+		"created_at": "Mon Nov 02 09:10:23 +0000 2020",
+		"id": 1323190709801963500,
+		"id_str": "1323190709801963521",
+		"full_text": "#SMTOWN\nSUPER JUNIOR 슈퍼주니어 '우리에게 (The Melody)' MV Teaser\nhttps://t.co/Pc2R5ru4aZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Pc2R5ru4aZ",
+					"expanded_url": "https://youtu.be/5k88B-nVUiI",
+					"display_url": "youtu.be/5k88B-nVUiI",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 235,
+			"friends_count": 429,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN\nSUPER JUNIOR 슈퍼주니어 '우리에게 (The Melody)' MV Teaser\nhttps://t.co/Pc2R5ru4aZ"
+	},
+	{
+		"created_at": "Mon Nov 02 08:41:41 +0000 2020",
+		"id": 1323183487764095000,
+		"id_str": "1323183487764094977",
+		"full_text": "#ONSTAGE #온스테이지\n온스테이지 10주년 기획 [나에게 온스테이지] 결산\nhttps://t.co/oNJCzrlOOR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ONSTAGE",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "온스테이지",
+					"indices": [
+						9,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oNJCzrlOOR",
+					"expanded_url": "https://bit.ly/35XkPUK",
+					"display_url": "bit.ly/35XkPUK",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 235,
+			"friends_count": 429,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ONSTAGE #온스테이지\n온스테이지 10주년 기획 [나에게 온스테이지] 결산\nhttps://t.co/oNJCzrlOOR"
+	},
+	{
 		"created_at": "Mon Nov 02 08:12:13 +0000 2020",
 		"id": 1323176072054251500,
 		"id_str": "1323176072054251520",
