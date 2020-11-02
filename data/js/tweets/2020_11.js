@@ -1,6 +1,1775 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 02 03:14:25 +0000 2020",
+		"id": 1323101129123733500,
+		"id_str": "1323101129123733504",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n11월 2일 | 이준형, 미완결, 연희다방, 조선블루스, 쿼터백\nhttps://t.co/pFR4ai1ZAx\n#블로그 #유통사 #인디음악 #인디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "유통사",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						101,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pFR4ai1ZAx",
+					"expanded_url": "https://bit.ly/3oVlmiX",
+					"display_url": "bit.ly/3oVlmiX",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 235,
+			"friends_count": 429,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n11월 2일 | 이준형, 미완결, 연희다방, 조선블루스, 쿼터백\nhttps://t.co/pFR4ai1ZAx\n#블로그 #유통사 #인디음악 #인디"
+	},
+	{
+		"created_at": "Mon Nov 02 03:11:40 +0000 2020",
+		"id": 1323097592897532000,
+		"id_str": "1323100436400902144",
+		"full_text": "- 티켓 예매 일정 및 안내사항은 상세페이지 참고 부탁드립니다. \n⠀\n#ONEWE #원위 #단독콘서트\n#롤링홀 #ROLLINGHALL\n#홍대 #공연 #인디 #멜론티켓",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ONEWE",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"text": "원위",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						62,
+						74
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						87,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1323097563810025500,
+		"in_reply_to_status_id_str": "1323097563810025473",
+		"in_reply_to_user_id": 1291327050578456600,
+		"in_reply_to_user_id_str": "1291327050578456578",
+		"in_reply_to_screen_name": "rollinghall1995",
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/4e0ZekwoYX",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4e0ZekwoYX",
+							"expanded_url": "http://bitly.kr/LZ7SBbWTTTr",
+							"display_url": "bitly.kr/LZ7SBbWTTTr",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 43,
+			"friends_count": 3,
+			"listed_count": 1,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- 티켓 예매 일정 및 안내사항은 상세페이지 참고 부탁드립니다. \n⠀\n#ONEWE #원위 #단독콘서트\n#롤링홀 #ROLLINGHALL\n#홍대 #공연 #인디 #멜론티켓"
+	},
+	{
+		"created_at": "Mon Nov 02 03:11:37 +0000 2020",
+		"id": 1323097563810025500,
+		"id_str": "1323100423327260672",
+		"full_text": "· 일반예매 : 멜론티켓 2020년 11월 4일 수요일 오후 8시 예매오픈\n\n- 팬클럽 선예매는 ‘10월 29일 목요일 오후 5시 ~ 선예매 마감 시’까지 데이터 인증이 완료된 회원에 한해서 선예매가 가능합니다. \n- 팬클럽 선예매는 '11월 2일 월요일 오후 8시 ~ 11시 59분'까지 진행됩니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1323097458268729300,
+		"in_reply_to_status_id_str": "1323097458268729345",
+		"in_reply_to_user_id": 1291327050578456600,
+		"in_reply_to_user_id_str": "1291327050578456578",
+		"in_reply_to_screen_name": "rollinghall1995",
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/4e0ZekwoYX",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4e0ZekwoYX",
+							"expanded_url": "http://bitly.kr/LZ7SBbWTTTr",
+							"display_url": "bitly.kr/LZ7SBbWTTTr",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 43,
+			"friends_count": 3,
+			"listed_count": 1,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "· 일반예매 : 멜론티켓 2020년 11월 4일 수요일 오후 8시 예매오픈\n\n- 팬클럽 선예매는 ‘10월 29일 목요일 오후 5시 ~ 선예매 마감 시’까지 데이터 인증이 완료된 회원에 한해서 선예매가 가능합니다. \n- 팬클럽 선예매는 '11월 2일 월요일 오후 8시 ~ 11시 59분'까지 진행됩니다."
+	},
+	{
+		"created_at": "Mon Nov 02 03:11:31 +0000 2020",
+		"id": 1323097458268729300,
+		"id_str": "1323100397687504897",
+		"full_text": "📢 팬클럽 선예매 오픈 공지 : 오늘 오후 8시 멜론티켓\n\n&lt;STUDIO WE : LIVE #5 ONEWEVE, 두 별빛에 만개한 시간&gt;\n· 일시 : 2020년 11월 13일 (금) 오후 8시, 11월 14일 (토) 오후 5시, 11월 15일 (일) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : 원위(ONEWE)\n· 선예매 : 🍈멜론티켓 https://t.co/m7h9WUip8Z https://t.co/SQUGwpqJXV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m7h9WUip8Z",
+					"expanded_url": "https://bit.ly/2HPTlrO",
+					"display_url": "bit.ly/2HPTlrO",
+					"indices": [
+						195,
+						218
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323097442041041000,
+					"id_str": "1323097442041040896",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1323097442041040896/pu/img/XJdxVA1MUEjH_W7d.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1323097442041040896/pu/img/XJdxVA1MUEjH_W7d.jpg",
+					"url": "https://t.co/SQUGwpqJXV",
+					"display_url": "pic.twitter.com/SQUGwpqJXV",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1323097458268729345/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323097442041041000,
+					"id_str": "1323097442041040896",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1323097442041040896/pu/img/XJdxVA1MUEjH_W7d.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1323097442041040896/pu/img/XJdxVA1MUEjH_W7d.jpg",
+					"url": "https://t.co/SQUGwpqJXV",
+					"display_url": "pic.twitter.com/SQUGwpqJXV",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1323097458268729345/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3010,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1323097442041040896/pu/vid/480x480/tDX0uq8WJEDmLfeA.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1323097442041040896/pu/pl/Bfk56A6EQhVEGVed.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1323097442041040896/pu/vid/320x320/_Dn95CR24PXbBswI.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1323097442041040896/pu/vid/720x720/22Bm5aLCJAvv680h.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/4e0ZekwoYX",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4e0ZekwoYX",
+							"expanded_url": "http://bitly.kr/LZ7SBbWTTTr",
+							"display_url": "bitly.kr/LZ7SBbWTTTr",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 43,
+			"friends_count": 3,
+			"listed_count": 1,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 46,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 팬클럽 선예매 오픈 공지 : 오늘 오후 8시 멜론티켓\n\n&lt;STUDIO WE : LIVE #5 ONEWEVE, 두 별빛에 만개한 시간&gt;\n· 일시 : 2020년 11월 13일 (금) 오후 8시, 11월 14일 (토) 오후 5시, 11월 15일 (일) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : 원위(ONEWE)\n· 선예매 : 🍈멜론티켓 https://t.co/m7h9WUip8Z https://t.co/SQUGwpqJXV"
+	},
+	{
+		"created_at": "Mon Nov 02 03:11:26 +0000 2020",
+		"id": 1323091963038494700,
+		"id_str": "1323100376237809667",
+		"full_text": "[벨로주 홍대]\n✨티켓오픈 : 2020. 11. 02(월) PM 2\n✨예매링크 : https://t.co/MfGwrfg22q\n⠀\n[네스트 나다]\n✨티켓오픈 : 2020. 11. 02(월) PM 4\n✨예매링크 : https://t.co/5H4MJ2fNTz\n⠀\n[웨스트브릿지]\n✨티켓오픈 : 2020. 11. 02(월) PM 6\n✨예매링크 : https://t.co/fZ1Nrjyg0s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MfGwrfg22q",
+					"expanded_url": "https://bit.ly/3edudHu",
+					"display_url": "bit.ly/3edudHu",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"url": "https://t.co/5H4MJ2fNTz",
+					"expanded_url": "https://bit.ly/323Sfjz",
+					"display_url": "bit.ly/323Sfjz",
+					"indices": [
+						118,
+						141
+					]
+				},
+				{
+					"url": "https://t.co/fZ1Nrjyg0s",
+					"expanded_url": "https://bit.ly/31ZCmKO",
+					"display_url": "bit.ly/31ZCmKO",
+					"indices": [
+						190,
+						213
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1323091960563814400,
+		"in_reply_to_status_id_str": "1323091960563814401",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2785,
+			"friends_count": 2693,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[벨로주 홍대]\n✨티켓오픈 : 2020. 11. 02(월) PM 2\n✨예매링크 : https://t.co/MfGwrfg22q\n⠀\n[네스트 나다]\n✨티켓오픈 : 2020. 11. 02(월) PM 4\n✨예매링크 : https://t.co/5H4MJ2fNTz\n⠀\n[웨스트브릿지]\n✨티켓오픈 : 2020. 11. 02(월) PM 6\n✨예매링크 : https://t.co/fZ1Nrjyg0s"
+	},
+	{
+		"created_at": "Mon Nov 02 03:11:17 +0000 2020",
+		"id": 1323091960563814400,
+		"id_str": "1323100338006724609",
+		"full_text": "[씬디 프레젠트 티켓오픈❗]\n⠀\n오늘 12시(정오)부터 '2020 XINDIE PRESENTS vol.6' 티켓예매가 순차적으로 진행됩니다.\n각 공연장별 티켓오픈 시간을 참고하시어 예매에 차질 없으시길 바랍니다!\n\n[레드빅 스페이스]\n✨티켓오픈 : 2020. 11. 02(월) PM 12\n✨예매링크 : https://t.co/ObIcQw8J1q https://t.co/mtDEN3Uyrc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ObIcQw8J1q",
+					"expanded_url": "https://bit.ly/3jHNCS1",
+					"display_url": "bit.ly/3jHNCS1",
+					"indices": [
+						169,
+						192
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323091703889191000,
+					"id_str": "1323091703889190912",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/ElyQ5QeU4AA5JAf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElyQ5QeU4AA5JAf.jpg",
+					"url": "https://t.co/mtDEN3Uyrc",
+					"display_url": "pic.twitter.com/mtDEN3Uyrc",
+					"expanded_url": "https://twitter.com/xindieticket/status/1323091960563814401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323091703889191000,
+					"id_str": "1323091703889190912",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/ElyQ5QeU4AA5JAf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElyQ5QeU4AA5JAf.jpg",
+					"url": "https://t.co/mtDEN3Uyrc",
+					"display_url": "pic.twitter.com/mtDEN3Uyrc",
+					"expanded_url": "https://twitter.com/xindieticket/status/1323091960563814401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1323091721098387500,
+					"id_str": "1323091721098387457",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/ElyQ6QlUYAES8qQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElyQ6QlUYAES8qQ.jpg",
+					"url": "https://t.co/mtDEN3Uyrc",
+					"display_url": "pic.twitter.com/mtDEN3Uyrc",
+					"expanded_url": "https://twitter.com/xindieticket/status/1323091960563814401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1323091734184644600,
+					"id_str": "1323091734184644608",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/ElyQ7BVU0AA1pDB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElyQ7BVU0AA1pDB.jpg",
+					"url": "https://t.co/mtDEN3Uyrc",
+					"display_url": "pic.twitter.com/mtDEN3Uyrc",
+					"expanded_url": "https://twitter.com/xindieticket/status/1323091960563814401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1323091745643524000,
+					"id_str": "1323091745643524096",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/ElyQ7sBVcAAxbSn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElyQ7sBVcAAxbSn.jpg",
+					"url": "https://t.co/mtDEN3Uyrc",
+					"display_url": "pic.twitter.com/mtDEN3Uyrc",
+					"expanded_url": "https://twitter.com/xindieticket/status/1323091960563814401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2785,
+			"friends_count": 2693,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[씬디 프레젠트 티켓오픈❗]\n⠀\n오늘 12시(정오)부터 '2020 XINDIE PRESENTS vol.6' 티켓예매가 순차적으로 진행됩니다.\n각 공연장별 티켓오픈 시간을 참고하시어 예매에 차질 없으시길 바랍니다!\n\n[레드빅 스페이스]\n✨티켓오픈 : 2020. 11. 02(월) PM 12\n✨예매링크 : https://t.co/ObIcQw8J1q https://t.co/mtDEN3Uyrc"
+	},
+	{
+		"created_at": "Mon Nov 02 03:01:08 +0000 2020",
+		"id": 1323097783268745200,
+		"id_str": "1323097783268745216",
+		"full_text": "#솔플파티 트위터 뉴스레터 (Nov 2) https://t.co/NeZxgsotkb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "솔플파티",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NeZxgsotkb",
+					"expanded_url": "https://nzzl.us/t3zM2o9",
+					"display_url": "nzzl.us/t3zM2o9",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 235,
+			"friends_count": 429,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#솔플파티 트위터 뉴스레터 (Nov 2) https://t.co/NeZxgsotkb"
+	},
+	{
+		"created_at": "Mon Nov 02 02:29:46 +0000 2020",
+		"id": 1323086439362392000,
+		"id_str": "1323089890494554116",
+		"full_text": "엄청난 기대를 불러 일으켰던 @radvxz 비바두비의 데뷔 앨범 “Fake It Flowers” 드디어 발매! \n'Care', 'Sorry', 'Worth It', 'How Was Your Day?' 그리고 ‘Together’ 등 감성 만점 앨범 듣기 👉 https://t.co/40YM6ztRw1. \n\n“슬래커 록의 송가로 가득 찬 훌륭한 데뷔 앨범” NME 별점 만점! ★★★★★ https://t.co/s8EDasUGVf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "radvxz",
+					"name": "ゆずのオールナイトニッポンbot",
+					"id": 722556449411436500,
+					"id_str": "722556449411436544",
+					"indices": [
+						16,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/40YM6ztRw1",
+					"expanded_url": "http://dirtyh.it/fakeitflowers",
+					"display_url": "dirtyh.it/fakeitflowers",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323086437244379100,
+					"id_str": "1323086437244379136",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/ElyMGssWoAAU_4O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElyMGssWoAAU_4O.jpg",
+					"url": "https://t.co/s8EDasUGVf",
+					"display_url": "pic.twitter.com/s8EDasUGVf",
+					"expanded_url": "https://twitter.com/livenationkr/status/1323086439362392065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323086437244379100,
+					"id_str": "1323086437244379136",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/ElyMGssWoAAU_4O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElyMGssWoAAU_4O.jpg",
+					"url": "https://t.co/s8EDasUGVf",
+					"display_url": "pic.twitter.com/s8EDasUGVf",
+					"expanded_url": "https://twitter.com/livenationkr/status/1323086439362392065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 236888084,
+			"id_str": "236888084",
+			"name": "LIVE NATION KOREA",
+			"screen_name": "livenationkr",
+			"location": "Seoul, South Korea",
+			"description": "라이브네이션코리아 공식 트위터. Paul McCartney, Maroon5, Jason Mraz, Coldplay, MUSE, 등 해외 유명아티스트의 내한공연과 BIGBANG, Blackpink,BTS 등의 대규모 월드투어를 기획한 공연기획사. FOLLOW US!",
+			"url": "http://t.co/WZhcKy3xE8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/WZhcKy3xE8",
+							"expanded_url": "http://www.livenation.kr",
+							"display_url": "livenation.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6499,
+			"friends_count": 234,
+			"listed_count": 28,
+			"created_at": "Tue Jan 11 16:04:41 +0000 2011",
+			"favourites_count": 599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820816720998764545/T7P3FpWQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820816720998764545/T7P3FpWQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/236888084/1475559466",
+			"profile_link_color": "E21836",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "엄청난 기대를 불러 일으켰던 @radvxz 비바두비의 데뷔 앨범 “Fake It Flowers” 드디어 발매! \n'Care', 'Sorry', 'Worth It', 'How Was Your Day?' 그리고 ‘Together’ 등 감성 만점 앨범 듣기 👉 https://t.co/40YM6ztRw1. \n\n“슬래커 록의 송가로 가득 찬 훌륭한 데뷔 앨범” NME 별점 만점! ★★★★★ https://t.co/s8EDasUGVf"
+	},
+	{
+		"created_at": "Mon Nov 02 02:29:41 +0000 2020",
+		"id": 1323084519415582700,
+		"id_str": "1323089868973580289",
+		"full_text": "[MV] NST &amp; The Soul Sauce meets Kim Yulhee- The Swallow Knows https://t.co/TZqj0RvOWP - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						92,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TZqj0RvOWP",
+					"expanded_url": "https://youtu.be/kQVS82zi7u0",
+					"display_url": "youtu.be/kQVS82zi7u0",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2855837208,
+			"id_str": "2855837208",
+			"name": "동양 표준 음향사/ Eastern Standard Sounds",
+			"screen_name": "E_S_Sounds",
+			"location": "Seoul, Korea",
+			"description": "All Roots and Culture/ Label/ Agency/ Distribute/ Produce/ 🌐NEW RELEASE(2020.3) 📡 https://t.co/b3eCjBNLEf",
+			"url": "https://t.co/oI8deHx50b",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oI8deHx50b",
+							"expanded_url": "http://www.easternstandardsounds.com",
+							"display_url": "easternstandardsounds.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/b3eCjBNLEf",
+							"expanded_url": "https://v.gd/tylaeC",
+							"display_url": "v.gd/tylaeC",
+							"indices": [
+								82,
+								105
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 619,
+			"friends_count": 1803,
+			"listed_count": 10,
+			"created_at": "Tue Oct 14 19:11:59 +0000 2014",
+			"favourites_count": 232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/669566643438116865/faHYzrAM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/669566643438116865/faHYzrAM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2855837208/1585074982",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[MV] NST &amp; The Soul Sauce meets Kim Yulhee- The Swallow Knows https://t.co/TZqj0RvOWP - @YouTube"
+	},
+	{
+		"created_at": "Mon Nov 02 02:29:33 +0000 2020",
+		"id": 1323081172805562400,
+		"id_str": "1323089834924269570",
+		"full_text": "[#이창훈] 이창훈 \"안판석 감독→안길호 감독, 도전에 감사\" [인터뷰②]\n▶️ https://t.co/GwKJ6zPbeq\n\nmore &gt; \n① https://t.co/g0qVLhOk2T\n③ https://t.co/McNsBYRZRv\n\n#청춘기록 #이태수 #인터뷰 https://t.co/vyQppEtMwg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이창훈",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "청춘기록",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "이태수",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "인터뷰",
+					"indices": [
+						145,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GwKJ6zPbeq",
+					"expanded_url": "https://bit.ly/3oQ6XnM",
+					"display_url": "bit.ly/3oQ6XnM",
+					"indices": [
+						45,
+						68
+					]
+				},
+				{
+					"url": "https://t.co/g0qVLhOk2T",
+					"expanded_url": "https://bit.ly/2TI3Dga",
+					"display_url": "bit.ly/2TI3Dga",
+					"indices": [
+						83,
+						106
+					]
+				},
+				{
+					"url": "https://t.co/McNsBYRZRv",
+					"expanded_url": "https://bit.ly/3kUFFKY",
+					"display_url": "bit.ly/3kUFFKY",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323080996246282200,
+					"id_str": "1323080996246282240",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/ElyHJ_ZUYAAu1Dp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElyHJ_ZUYAAu1Dp.jpg",
+					"url": "https://t.co/vyQppEtMwg",
+					"display_url": "pic.twitter.com/vyQppEtMwg",
+					"expanded_url": "https://twitter.com/themysticstory/status/1323081172805562369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323080996246282200,
+					"id_str": "1323080996246282240",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/ElyHJ_ZUYAAu1Dp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElyHJ_ZUYAAu1Dp.jpg",
+					"url": "https://t.co/vyQppEtMwg",
+					"display_url": "pic.twitter.com/vyQppEtMwg",
+					"expanded_url": "https://twitter.com/themysticstory/status/1323081172805562369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19774,
+			"friends_count": 18,
+			"listed_count": 221,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#이창훈] 이창훈 \"안판석 감독→안길호 감독, 도전에 감사\" [인터뷰②]\n▶️ https://t.co/GwKJ6zPbeq\n\nmore &gt; \n① https://t.co/g0qVLhOk2T\n③ https://t.co/McNsBYRZRv\n\n#청춘기록 #이태수 #인터뷰 https://t.co/vyQppEtMwg"
+	},
+	{
 		"created_at": "Mon Nov 02 02:18:41 +0000 2020",
 		"id": 1323087100233867300,
 		"id_str": "1323087100233867280",
