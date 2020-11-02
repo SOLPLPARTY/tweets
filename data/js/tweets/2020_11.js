@@ -1,6 +1,146 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 02 11:17:38 +0000 2020",
+		"id": 1323222732327309300,
+		"id_str": "1323222732327309312",
+		"full_text": "#사운드클라우드 #SoundCloud\nBTS - DYNAMITE (DEEPSHOWER REWORK) by Deepshower\nhttps://t.co/pCe3q5RXsm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사운드클라우드",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "SoundCloud",
+					"indices": [
+						9,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pCe3q5RXsm",
+					"expanded_url": "https://bit.ly/387bRqH",
+					"display_url": "bit.ly/387bRqH",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 235,
+			"friends_count": 429,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#사운드클라우드 #SoundCloud\nBTS - DYNAMITE (DEEPSHOWER REWORK) by Deepshower\nhttps://t.co/pCe3q5RXsm"
+	},
+	{
 		"created_at": "Mon Nov 02 11:11:19 +0000 2020",
 		"id": 1323216852919545900,
 		"id_str": "1323221145156571136",
@@ -378,7 +518,7 @@ Grailbird.data.tweets_2020_11 =
 		"created_at": "Mon Nov 02 10:58:21 +0000 2020",
 		"id": 1323203200229372000,
 		"id_str": "1323217880406777856",
-		"full_text": "[KCON:TACT season 2] #CLC\n\nJust when we thought we couldn't love CLC any more...\n\n▶ KCON official: https://t.co/83zc6intTv\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTlO5B7 ​\n▶ Mnet K-POP: https://t.co/J388Ddaq1j ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/1G6NJJjtR9",
+		"full_text": "[KCON:TACT season 2] #CLC\n\nJust when we thought we couldn't love CLC any more...\n\n▶ KCON official: https://t.co/83zc6intTv\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTlO5B7 \n▶ Mnet K-POP: https://t.co/J388Ddaq1j \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/1G6NJJjtR9",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -718,13 +858,13 @@ Grailbird.data.tweets_2020_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "[KCON:TACT season 2] #CLC\n\nJust when we thought we couldn't love CLC any more...\n\n▶ KCON official: https://t.co/83zc6intTv\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTlO5B7 ​\n▶ Mnet K-POP: https://t.co/J388Ddaq1j ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/1G6NJJjtR9"
+		"text": "[KCON:TACT season 2] #CLC\n\nJust when we thought we couldn't love CLC any more...\n\n▶ KCON official: https://t.co/83zc6intTv\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTlO5B7 \n▶ Mnet K-POP: https://t.co/J388Ddaq1j \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/1G6NJJjtR9"
 	},
 	{
 		"created_at": "Mon Nov 02 10:58:17 +0000 2020",
 		"id": 1323203197842935800,
 		"id_str": "1323217863134633985",
-		"full_text": "[KCON:TACT season 2] #CLC\n\nJust when we thought we couldn't love CLC any more...\n\n▶ KCON official: https://t.co/83zc6i5T1X\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTm5GZH ​\n▶ Mnet K-POP: https://t.co/J388DcSP9L ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/JLbIOepLZj",
+		"full_text": "[KCON:TACT season 2] #CLC\n\nJust when we thought we couldn't love CLC any more...\n\n▶ KCON official: https://t.co/83zc6i5T1X\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTm5GZH \n▶ Mnet K-POP: https://t.co/J388DcSP9L \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/JLbIOepLZj",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1064,7 +1204,7 @@ Grailbird.data.tweets_2020_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "[KCON:TACT season 2] #CLC\n\nJust when we thought we couldn't love CLC any more...\n\n▶ KCON official: https://t.co/83zc6i5T1X\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTm5GZH ​\n▶ Mnet K-POP: https://t.co/J388DcSP9L ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/JLbIOepLZj"
+		"text": "[KCON:TACT season 2] #CLC\n\nJust when we thought we couldn't love CLC any more...\n\n▶ KCON official: https://t.co/83zc6i5T1X\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTm5GZH \n▶ Mnet K-POP: https://t.co/J388DcSP9L \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/JLbIOepLZj"
 	},
 	{
 		"created_at": "Mon Nov 02 10:13:29 +0000 2020",
