@@ -1,6 +1,1072 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 02 11:11:19 +0000 2020",
+		"id": 1323216852919545900,
+		"id_str": "1323221145156571136",
+		"full_text": "&lt;PRISM BREAK (프리즘 브레이크) vol.5&gt;\n\n⭐️ 일시 : 11/6(금) 오후 8시 \n⭐️ 장소 : #프리즘플러스 (프리즘홀)\n⭐️ 티켓 : 예매 30,000 현매 35,000\n⭐️ 라인업 : #구남과여라이딩스텔라, #추다혜차지스\n⭐️ 예매 : https://t.co/VCzKV9K20L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프리즘플러스",
+					"indices": [
+						69,
+						76
+					]
+				},
+				{
+					"text": "구남과여라이딩스텔라",
+					"indices": [
+						121,
+						132
+					]
+				},
+				{
+					"text": "추다혜차지스",
+					"indices": [
+						134,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VCzKV9K20L",
+					"expanded_url": "http://reurl.kr/44EC8A4BEK",
+					"display_url": "reurl.kr/44EC8A4BEK",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1323216850130362400,
+		"in_reply_to_status_id_str": "1323216850130362368",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2788,
+			"friends_count": 2693,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;PRISM BREAK (프리즘 브레이크) vol.5&gt;\n\n⭐️ 일시 : 11/6(금) 오후 8시 \n⭐️ 장소 : #프리즘플러스 (프리즘홀)\n⭐️ 티켓 : 예매 30,000 현매 35,000\n⭐️ 라인업 : #구남과여라이딩스텔라, #추다혜차지스\n⭐️ 예매 : https://t.co/VCzKV9K20L"
+	},
+	{
+		"created_at": "Mon Nov 02 11:11:16 +0000 2020",
+		"id": 1323216850130362400,
+		"id_str": "1323221132024123402",
+		"full_text": "[공연추천]\n\n무경계 음악향유 프로젝트, 취향을 갖지말자! 'PRISM BREAK'가 이번에는 쌈장구루브특집으로 진행된다고 합니다🎊\n한국적, 독자적 그루브의 대명사 '구남과여라이딩스텔라', '씽씽'의 추다혜님이 결성한 '추다혜차지스'!\n두 팀의 신들린듯한 ⚡️싸이키델릭 샤머닉 훵크⚡️를 경험해보세요 🥳 https://t.co/WnajvYYp78",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1323216353046638600,
+					"id_str": "1323216353046638593",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/El0CQyxVMAEZrdg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El0CQyxVMAEZrdg.jpg",
+					"url": "https://t.co/WnajvYYp78",
+					"display_url": "pic.twitter.com/WnajvYYp78",
+					"expanded_url": "https://twitter.com/xindieticket/status/1323216850130362368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1575,
+							"h": 1575,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323216353046638600,
+					"id_str": "1323216353046638593",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/El0CQyxVMAEZrdg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El0CQyxVMAEZrdg.jpg",
+					"url": "https://t.co/WnajvYYp78",
+					"display_url": "pic.twitter.com/WnajvYYp78",
+					"expanded_url": "https://twitter.com/xindieticket/status/1323216850130362368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1575,
+							"h": 1575,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1323216366501982200,
+					"id_str": "1323216366501982208",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/El0CRk5VcAA-wWO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El0CRk5VcAA-wWO.jpg",
+					"url": "https://t.co/WnajvYYp78",
+					"display_url": "pic.twitter.com/WnajvYYp78",
+					"expanded_url": "https://twitter.com/xindieticket/status/1323216850130362368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1575,
+							"h": 1575,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1323216379303002000,
+					"id_str": "1323216379303002112",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/El0CSUlVgAAA9_T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El0CSUlVgAAA9_T.jpg",
+					"url": "https://t.co/WnajvYYp78",
+					"display_url": "pic.twitter.com/WnajvYYp78",
+					"expanded_url": "https://twitter.com/xindieticket/status/1323216850130362368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1575,
+							"h": 1575,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2788,
+			"friends_count": 2693,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공연추천]\n\n무경계 음악향유 프로젝트, 취향을 갖지말자! 'PRISM BREAK'가 이번에는 쌈장구루브특집으로 진행된다고 합니다🎊\n한국적, 독자적 그루브의 대명사 '구남과여라이딩스텔라', '씽씽'의 추다혜님이 결성한 '추다혜차지스'!\n두 팀의 신들린듯한 ⚡️싸이키델릭 샤머닉 훵크⚡️를 경험해보세요 🥳 https://t.co/WnajvYYp78"
+	},
+	{
+		"created_at": "Mon Nov 02 10:58:21 +0000 2020",
+		"id": 1323203200229372000,
+		"id_str": "1323217880406777856",
+		"full_text": "[KCON:TACT season 2] #CLC\n\nJust when we thought we couldn't love CLC any more...\n\n▶ KCON official: https://t.co/83zc6intTv\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTlO5B7 ​\n▶ Mnet K-POP: https://t.co/J388Ddaq1j ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/1G6NJJjtR9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CLC",
+					"indices": [
+						21,
+						25
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						235,
+						240
+					]
+				},
+				{
+					"text": "LetsKCON",
+					"indices": [
+						241,
+						250
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						251,
+						260
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						261,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/83zc6intTv",
+					"expanded_url": "http://youtube.com/KCON",
+					"display_url": "youtube.com/KCON",
+					"indices": [
+						99,
+						122
+					]
+				},
+				{
+					"url": "https://t.co/XqzsTlO5B7",
+					"expanded_url": "https://youtu.be/u0GedSPEuyA",
+					"display_url": "youtu.be/u0GedSPEuyA",
+					"indices": [
+						168,
+						191
+					]
+				},
+				{
+					"url": "https://t.co/J388Ddaq1j",
+					"expanded_url": "https://youtu.be/HkpNQvi8gNA",
+					"display_url": "youtu.be/HkpNQvi8gNA",
+					"indices": [
+						208,
+						231
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1322409930347851800,
+					"id_str": "1322409930347851776",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/Elok00HVMAAw-9T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Elok00HVMAAw-9T.jpg",
+					"url": "https://t.co/1G6NJJjtR9",
+					"display_url": "pic.twitter.com/1G6NJJjtR9",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1323203200229371905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1322409930347851800,
+					"id_str": "1322409930347851776",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/Elok00HVMAAw-9T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Elok00HVMAAw-9T.jpg",
+					"url": "https://t.co/1G6NJJjtR9",
+					"display_url": "pic.twitter.com/1G6NJJjtR9",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1323203200229371905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1322409930377212000,
+					"id_str": "1322409930377211905",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/Elok00OVMAEXmJH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Elok00OVMAEXmJH.jpg",
+					"url": "https://t.co/1G6NJJjtR9",
+					"display_url": "pic.twitter.com/1G6NJJjtR9",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1323203200229371905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1322409930381422600,
+					"id_str": "1322409930381422592",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/Elok00PVcAAxZYd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Elok00PVcAAxZYd.jpg",
+					"url": "https://t.co/1G6NJJjtR9",
+					"display_url": "pic.twitter.com/1G6NJJjtR9",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1323203200229371905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1322409930394009600,
+					"id_str": "1322409930394009600",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/Elok00SVgAAw9FD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Elok00SVgAAw9FD.jpg",
+					"url": "https://t.co/1G6NJJjtR9",
+					"display_url": "pic.twitter.com/1G6NJJjtR9",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1323203200229371905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON:TACT season 2  Oct 16~25, 2020",
+			"url": "https://t.co/CCEcf5MtP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCEcf5MtP5",
+							"expanded_url": "https://www.youtube.com/KCON",
+							"display_url": "youtube.com/KCON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299384,
+			"friends_count": 67,
+			"listed_count": 901,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1600424283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 175,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT season 2] #CLC\n\nJust when we thought we couldn't love CLC any more...\n\n▶ KCON official: https://t.co/83zc6intTv\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTlO5B7 ​\n▶ Mnet K-POP: https://t.co/J388Ddaq1j ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/1G6NJJjtR9"
+	},
+	{
+		"created_at": "Mon Nov 02 10:58:17 +0000 2020",
+		"id": 1323203197842935800,
+		"id_str": "1323217863134633985",
+		"full_text": "[KCON:TACT season 2] #CLC\n\nJust when we thought we couldn't love CLC any more...\n\n▶ KCON official: https://t.co/83zc6i5T1X\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTm5GZH ​\n▶ Mnet K-POP: https://t.co/J388DcSP9L ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/JLbIOepLZj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CLC",
+					"indices": [
+						21,
+						25
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						235,
+						240
+					]
+				},
+				{
+					"text": "LetsKCON",
+					"indices": [
+						241,
+						250
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						251,
+						260
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						261,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/83zc6i5T1X",
+					"expanded_url": "http://youtube.com/KCON",
+					"display_url": "youtube.com/KCON",
+					"indices": [
+						99,
+						122
+					]
+				},
+				{
+					"url": "https://t.co/XqzsTm5GZH",
+					"expanded_url": "https://youtu.be/u0GedSPEuyA",
+					"display_url": "youtu.be/u0GedSPEuyA",
+					"indices": [
+						168,
+						191
+					]
+				},
+				{
+					"url": "https://t.co/J388DcSP9L",
+					"expanded_url": "https://youtu.be/HkpNQvi8gNA",
+					"display_url": "youtu.be/HkpNQvi8gNA",
+					"indices": [
+						208,
+						231
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1322409850966401000,
+					"id_str": "1322409850966401024",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/ElokwMZUYAATQFt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElokwMZUYAATQFt.jpg",
+					"url": "https://t.co/JLbIOepLZj",
+					"display_url": "pic.twitter.com/JLbIOepLZj",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1323203197842935808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1322409850966401000,
+					"id_str": "1322409850966401024",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/ElokwMZUYAATQFt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElokwMZUYAATQFt.jpg",
+					"url": "https://t.co/JLbIOepLZj",
+					"display_url": "pic.twitter.com/JLbIOepLZj",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1323203197842935808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1322409850949656600,
+					"id_str": "1322409850949656576",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/ElokwMVU4AA5npq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElokwMVU4AA5npq.jpg",
+					"url": "https://t.co/JLbIOepLZj",
+					"display_url": "pic.twitter.com/JLbIOepLZj",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1323203197842935808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1322409850953818000,
+					"id_str": "1322409850953818112",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/ElokwMWUYAAUZJ3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElokwMWUYAAUZJ3.jpg",
+					"url": "https://t.co/JLbIOepLZj",
+					"display_url": "pic.twitter.com/JLbIOepLZj",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1323203197842935808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1322409850953896000,
+					"id_str": "1322409850953895937",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/ElokwMWVkAE_UQh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElokwMWVkAE_UQh.jpg",
+					"url": "https://t.co/JLbIOepLZj",
+					"display_url": "pic.twitter.com/JLbIOepLZj",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1323203197842935808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON:TACT season 2  Oct 16~25, 2020",
+			"url": "https://t.co/CCEcf5MtP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCEcf5MtP5",
+							"expanded_url": "https://www.youtube.com/KCON",
+							"display_url": "youtube.com/KCON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299384,
+			"friends_count": 67,
+			"listed_count": 901,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1600424283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 172,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT season 2] #CLC\n\nJust when we thought we couldn't love CLC any more...\n\n▶ KCON official: https://t.co/83zc6i5T1X\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTm5GZH ​\n▶ Mnet K-POP: https://t.co/J388DcSP9L ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/JLbIOepLZj"
+	},
+	{
 		"created_at": "Mon Nov 02 10:13:29 +0000 2020",
 		"id": 1323188097639612400,
 		"id_str": "1323206590539812871",
@@ -709,7 +1775,7 @@ Grailbird.data.tweets_2020_11 =
 		"created_at": "Mon Nov 02 09:58:20 +0000 2020",
 		"id": 1323188096645562400,
 		"id_str": "1323202774457323527",
-		"full_text": "[KCON:TACT season 2] #PARKJIHOON\n\nWe just cannot turn our heads away from PARK JIHOON😘\n\n▶ KCON official: https://t.co/83zc6intTv\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTlO5B7 ​\n▶ Mnet K-POP: https://t.co/J388Ddaq1j ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/qbZmTmIlUh",
+		"full_text": "[KCON:TACT season 2] #PARKJIHOON\n\nWe just cannot turn our heads away from PARK JIHOON😘\n\n▶ KCON official: https://t.co/83zc6intTv\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTlO5B7 \n▶ Mnet K-POP: https://t.co/J388Ddaq1j \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/qbZmTmIlUh",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1013,13 +2079,13 @@ Grailbird.data.tweets_2020_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "[KCON:TACT season 2] #PARKJIHOON\n\nWe just cannot turn our heads away from PARK JIHOON😘\n\n▶ KCON official: https://t.co/83zc6intTv\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTlO5B7 ​\n▶ Mnet K-POP: https://t.co/J388Ddaq1j ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/qbZmTmIlUh"
+		"text": "[KCON:TACT season 2] #PARKJIHOON\n\nWe just cannot turn our heads away from PARK JIHOON😘\n\n▶ KCON official: https://t.co/83zc6intTv\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTlO5B7 \n▶ Mnet K-POP: https://t.co/J388Ddaq1j \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/qbZmTmIlUh"
 	},
 	{
 		"created_at": "Mon Nov 02 09:58:14 +0000 2020",
 		"id": 1323188096154902500,
 		"id_str": "1323202752927932416",
-		"full_text": "[KCON:TACT season 2] #PARKJIHOON\n\nWe just cannot turn our heads away from PARK JIHOON😘\n\n▶ KCON official: https://t.co/83zc6i5T1X\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTm5GZH ​\n▶ Mnet K-POP: https://t.co/J388DcSP9L ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/skaXaPWBQ3",
+		"full_text": "[KCON:TACT season 2] #PARKJIHOON\n\nWe just cannot turn our heads away from PARK JIHOON😘\n\n▶ KCON official: https://t.co/83zc6i5T1X\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTm5GZH \n▶ Mnet K-POP: https://t.co/J388DcSP9L \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/skaXaPWBQ3",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1323,7 +2389,7 @@ Grailbird.data.tweets_2020_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "[KCON:TACT season 2] #PARKJIHOON\n\nWe just cannot turn our heads away from PARK JIHOON😘\n\n▶ KCON official: https://t.co/83zc6i5T1X\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTm5GZH ​\n▶ Mnet K-POP: https://t.co/J388DcSP9L ​\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/skaXaPWBQ3"
+		"text": "[KCON:TACT season 2] #PARKJIHOON\n\nWe just cannot turn our heads away from PARK JIHOON😘\n\n▶ KCON official: https://t.co/83zc6i5T1X\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTm5GZH \n▶ Mnet K-POP: https://t.co/J388DcSP9L \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/skaXaPWBQ3"
 	},
 	{
 		"created_at": "Mon Nov 02 09:57:34 +0000 2020",
