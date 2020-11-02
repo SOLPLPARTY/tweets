@@ -1,6 +1,638 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 02 04:48:17 +0000 2020",
+		"id": 1323124748411428900,
+		"id_str": "1323124748411428866",
+		"full_text": "#KOCCA_MUSIC #코카뮤직 #한국콘텐츠진흥원\n[MUSE ON] 뮤즈온데이 #05 | 이민혁 Lee MinHyuk - 그렇게, 봄 Serenade in may\nhttps://t.co/sUE6ektsU6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KOCCA_MUSIC",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "코카뮤직",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "한국콘텐츠진흥원",
+					"indices": [
+						19,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sUE6ektsU6",
+					"expanded_url": "https://youtu.be/dWyhcRKSYqI",
+					"display_url": "youtu.be/dWyhcRKSYqI",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 235,
+			"friends_count": 429,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64337,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#KOCCA_MUSIC #코카뮤직 #한국콘텐츠진흥원\n[MUSE ON] 뮤즈온데이 #05 | 이민혁 Lee MinHyuk - 그렇게, 봄 Serenade in may\nhttps://t.co/sUE6ektsU6"
+	},
+	{
+		"created_at": "Mon Nov 02 04:29:46 +0000 2020",
+		"id": 1323117847086731300,
+		"id_str": "1323120089890172928",
+		"full_text": "SM엔터테인먼트입니다.\n\nhttps://t.co/mnEJwH2rhM https://t.co/5CFSBHQcIe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mnEJwH2rhM",
+					"expanded_url": "https://www.smtown.com/notice/detail/240?page=1",
+					"display_url": "smtown.com/notice/detail/…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323116786783453200,
+					"id_str": "1323116786783453184",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/ElyntRiVgAATdcP.png",
+					"media_url_https": "https://pbs.twimg.com/media/ElyntRiVgAATdcP.png",
+					"url": "https://t.co/5CFSBHQcIe",
+					"display_url": "pic.twitter.com/5CFSBHQcIe",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1323117847086731265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1571,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 978,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 554,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323116786783453200,
+					"id_str": "1323116786783453184",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/ElyntRiVgAATdcP.png",
+					"media_url_https": "https://pbs.twimg.com/media/ElyntRiVgAATdcP.png",
+					"url": "https://t.co/5CFSBHQcIe",
+					"display_url": "pic.twitter.com/5CFSBHQcIe",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1323117847086731265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1571,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 978,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 554,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8583135,
+			"friends_count": 53,
+			"listed_count": 8357,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1486,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8857,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18457,
+		"favorite_count": 29255,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SM엔터테인먼트입니다.\n\nhttps://t.co/mnEJwH2rhM https://t.co/5CFSBHQcIe"
+	},
+	{
+		"created_at": "Mon Nov 02 04:29:38 +0000 2020",
+		"id": 1323112674373345300,
+		"id_str": "1323120055740207104",
+		"full_text": "속보!! 11월 19일(목) 한국 시각 저녁 8pm, 호주 영화배우 겸 가수 @timminchin 팀 민친이 시드니의 트랙다운 스튜디오에서 새 앨범 “Apart Together”의 전곡을 연주하는 단 한번의 스페셜 콘서트를 라이브 스트리밍 합니다. \n\n티켓 절찬 판매중 https://t.co/OdCNxC8ckQ https://t.co/7fAVNWK3De",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timminchin",
+					"name": "Tim Minchin",
+					"id": 18980276,
+					"id_str": "18980276",
+					"indices": [
+						43,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OdCNxC8ckQ",
+					"expanded_url": "https://bit.ly/streamtimminchin",
+					"display_url": "bit.ly/streamtimminch…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323112671261134800,
+					"id_str": "1323112671261134852",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/Elyj9uBWkAQd6F5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Elyj9uBWkAQd6F5.jpg",
+					"url": "https://t.co/7fAVNWK3De",
+					"display_url": "pic.twitter.com/7fAVNWK3De",
+					"expanded_url": "https://twitter.com/livenationkr/status/1323112674373345282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323112671261134800,
+					"id_str": "1323112671261134852",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/Elyj9uBWkAQd6F5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Elyj9uBWkAQd6F5.jpg",
+					"url": "https://t.co/7fAVNWK3De",
+					"display_url": "pic.twitter.com/7fAVNWK3De",
+					"expanded_url": "https://twitter.com/livenationkr/status/1323112674373345282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 236888084,
+			"id_str": "236888084",
+			"name": "LIVE NATION KOREA",
+			"screen_name": "livenationkr",
+			"location": "Seoul, South Korea",
+			"description": "라이브네이션코리아 공식 트위터. Paul McCartney, Maroon5, Jason Mraz, Coldplay, MUSE, 등 해외 유명아티스트의 내한공연과 BIGBANG, Blackpink,BTS 등의 대규모 월드투어를 기획한 공연기획사. FOLLOW US!",
+			"url": "http://t.co/WZhcKy3xE8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/WZhcKy3xE8",
+							"expanded_url": "http://www.livenation.kr",
+							"display_url": "livenation.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6499,
+			"friends_count": 234,
+			"listed_count": 28,
+			"created_at": "Tue Jan 11 16:04:41 +0000 2011",
+			"favourites_count": 599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820816720998764545/T7P3FpWQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820816720998764545/T7P3FpWQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/236888084/1475559466",
+			"profile_link_color": "E21836",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "속보!! 11월 19일(목) 한국 시각 저녁 8pm, 호주 영화배우 겸 가수 @timminchin 팀 민친이 시드니의 트랙다운 스튜디오에서 새 앨범 “Apart Together”의 전곡을 연주하는 단 한번의 스페셜 콘서트를 라이브 스트리밍 합니다. \n\n티켓 절찬 판매중 https://t.co/OdCNxC8ckQ https://t.co/7fAVNWK3De"
+	},
+	{
+		"created_at": "Mon Nov 02 04:29:32 +0000 2020",
+		"id": 1323109481266335700,
+		"id_str": "1323120030159163394",
+		"full_text": "2020 WeWeWe Festa\n일시 : 2020.11.28(토) PM6\n장소 : 생기스튜디오\n방송 : 유튜브채널\n오프라인티켓예약 : https://t.co/IeiYlHOrXL\n\n빌리카터\n아디오스오디오\n애리\n천미지\n카코포니\n황보령\n\n주최/주관 : WeWeWe 기획단\n후원 : 여성가족부, 버터나이프크루, 서울문화재단, 서울라이브",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IeiYlHOrXL",
+					"expanded_url": "https://tumblbug.com/wedoittogether",
+					"display_url": "tumblbug.com/wedoittogether",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1323109478925963300,
+		"in_reply_to_status_id_str": "1323109478925963264",
+		"in_reply_to_user_id": 49219598,
+		"in_reply_to_user_id_str": "49219598",
+		"in_reply_to_screen_name": "electric_muse",
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3393,
+			"friends_count": 1304,
+			"listed_count": 109,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 4982,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267787772711985153/NA7yMLTS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267787772711985153/NA7yMLTS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2020 WeWeWe Festa\n일시 : 2020.11.28(토) PM6\n장소 : 생기스튜디오\n방송 : 유튜브채널\n오프라인티켓예약 : https://t.co/IeiYlHOrXL\n\n빌리카터\n아디오스오디오\n애리\n천미지\n카코포니\n황보령\n\n주최/주관 : WeWeWe 기획단\n후원 : 여성가족부, 버터나이프크루, 서울문화재단, 서울라이브"
+	},
+	{
 		"created_at": "Mon Nov 02 04:15:05 +0000 2020",
 		"id": 1323116396390342700,
 		"id_str": "1323116396390342657",
