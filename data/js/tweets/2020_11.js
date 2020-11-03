@@ -1,6 +1,344 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 03 12:11:16 +0000 2020",
+		"id": 1323590079617654800,
+		"id_str": "1323598619770015744",
+		"full_text": "방 속에 사는 방고와 생명체들의 이야기 &lt; 생명체 &gt; 가 공상온도에 입고되었어요! 공상온도 스토어에서 만나보세요!\n.\nhttps://t.co/d7i5lM9g1E\nhttps://t.co/XipgX92DRv\nㅡ\n#생명체 #이한유 #만화책 #만화 @공상온도 https://t.co/sTYlAwZVN1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "생명체",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "이한유",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "만화책",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "만화",
+					"indices": [
+						137,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7i5lM9g1E",
+					"expanded_url": "http://www.gongsangondo.com",
+					"display_url": "gongsangondo.com",
+					"indices": [
+						72,
+						95
+					]
+				},
+				{
+					"url": "https://t.co/XipgX92DRv",
+					"expanded_url": "http://smartstore.naver.com/gongsangondo",
+					"display_url": "smartstore.naver.com/gongsangondo",
+					"indices": [
+						96,
+						119
+					]
+				},
+				{
+					"url": "https://t.co/sTYlAwZVN1",
+					"expanded_url": "https://www.instagram.com/p/CHII8NAJTfA/?igshid=oz2fbsyf7m00",
+					"display_url": "instagram.com/p/CHII8NAJTfA/…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 361,
+			"friends_count": 192,
+			"listed_count": 8,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1069,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2616,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.55764455,
+				126.91971391
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				126.91971391,
+				37.55764455
+			]
+		},
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방 속에 사는 방고와 생명체들의 이야기 &lt; 생명체 &gt; 가 공상온도에 입고되었어요! 공상온도 스토어에서 만나보세요!\n.\nhttps://t.co/d7i5lM9g1E\nhttps://t.co/XipgX92DRv\nㅡ\n#생명체 #이한유 #만화책 #만화 @공상온도 https://t.co/sTYlAwZVN1"
+	},
+	{
+		"created_at": "Tue Nov 03 11:46:07 +0000 2020",
+		"id": 1323592288820293600,
+		"id_str": "1323592288820293632",
+		"full_text": "#PlayDB #플레이디비\n[월요라이브 Ep.10] 뮤지컬 '시데레우스' 박민성, 이창용, 임찬민 편\nhttps://t.co/IfQjzYLqhB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PlayDB",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "플레이디비",
+					"indices": [
+						8,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IfQjzYLqhB",
+					"expanded_url": "https://youtu.be/88nIEnr1nUk",
+					"display_url": "youtu.be/88nIEnr1nUk",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 236,
+			"friends_count": 431,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64446,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#PlayDB #플레이디비\n[월요라이브 Ep.10] 뮤지컬 '시데레우스' 박민성, 이창용, 임찬민 편\nhttps://t.co/IfQjzYLqhB"
+	},
+	{
 		"created_at": "Tue Nov 03 11:11:30 +0000 2020",
 		"id": 1323572537658208300,
 		"id_str": "1323583575535616005",
@@ -1074,7 +1412,7 @@ Grailbird.data.tweets_2020_11 =
 		"created_at": "Tue Nov 03 10:58:20 +0000 2020",
 		"id": 1323565583884001300,
 		"id_str": "1323580265931964416",
-		"full_text": "[KCON:TACT season 2] #MAMAMOO\n\nMAMAMOO looks more and more gorgeous every time we see them!\n\n▶ #KCON official: https://t.co/83zc6i5T1X\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTm5GZH ​\n▶ Mnet K-POP: https://t.co/J388DcSP9L ​\n\n#LetsKCON #KCON2020 #KCONTACT https://t.co/v2z1nShk6a",
+		"full_text": "[KCON:TACT season 2] #MAMAMOO\n\nMAMAMOO looks more and more gorgeous every time we see them!\n\n▶ #KCON official: https://t.co/83zc6i5T1X\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTm5GZH \n▶ Mnet K-POP: https://t.co/J388DcSP9L \n\n#LetsKCON #KCON2020 #KCONTACT https://t.co/v2z1nShk6a",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1414,13 +1752,13 @@ Grailbird.data.tweets_2020_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "[KCON:TACT season 2] #MAMAMOO\n\nMAMAMOO looks more and more gorgeous every time we see them!\n\n▶ #KCON official: https://t.co/83zc6i5T1X\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTm5GZH ​\n▶ Mnet K-POP: https://t.co/J388DcSP9L ​\n\n#LetsKCON #KCON2020 #KCONTACT https://t.co/v2z1nShk6a"
+		"text": "[KCON:TACT season 2] #MAMAMOO\n\nMAMAMOO looks more and more gorgeous every time we see them!\n\n▶ #KCON official: https://t.co/83zc6i5T1X\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTm5GZH \n▶ Mnet K-POP: https://t.co/J388DcSP9L \n\n#LetsKCON #KCON2020 #KCONTACT https://t.co/v2z1nShk6a"
 	},
 	{
 		"created_at": "Tue Nov 03 10:58:14 +0000 2020",
 		"id": 1323565583225540600,
 		"id_str": "1323580240246001664",
-		"full_text": "[KCON:TACT season 2] #MAMAMOO\n\nMAMAMOO looks more and more gorgeous every time we see them!\n\n▶ #KCON official: https://t.co/83zc6i5T1X\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTm5GZH ​\n▶ Mnet K-POP: https://t.co/J388DcSP9L ​\n\n#LetsKCON #KCON2020 #KCONTACT https://t.co/077JXImlbm",
+		"full_text": "[KCON:TACT season 2] #MAMAMOO\n\nMAMAMOO looks more and more gorgeous every time we see them!\n\n▶ #KCON official: https://t.co/83zc6i5T1X\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTm5GZH \n▶ Mnet K-POP: https://t.co/J388DcSP9L \n\n#LetsKCON #KCON2020 #KCONTACT https://t.co/077JXImlbm",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1760,7 +2098,7 @@ Grailbird.data.tweets_2020_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "[KCON:TACT season 2] #MAMAMOO\n\nMAMAMOO looks more and more gorgeous every time we see them!\n\n▶ #KCON official: https://t.co/83zc6i5T1X\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTm5GZH ​\n▶ Mnet K-POP: https://t.co/J388DcSP9L ​\n\n#LetsKCON #KCON2020 #KCONTACT https://t.co/077JXImlbm"
+		"text": "[KCON:TACT season 2] #MAMAMOO\n\nMAMAMOO looks more and more gorgeous every time we see them!\n\n▶ #KCON official: https://t.co/83zc6i5T1X\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTm5GZH \n▶ Mnet K-POP: https://t.co/J388DcSP9L \n\n#LetsKCON #KCON2020 #KCONTACT https://t.co/077JXImlbm"
 	},
 	{
 		"created_at": "Tue Nov 03 10:57:45 +0000 2020",
