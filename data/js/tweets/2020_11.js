@@ -1,6 +1,698 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 03 13:58:30 +0000 2020",
+		"id": 1323610888524296200,
+		"id_str": "1323625602633650176",
+		"full_text": "[KCON:TACT season 2] #TOO\n\nTOO always killing it at #KCONTACT !\n\n▶ KCON official: https://t.co/83zc6intTv\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTlO5B7 ​\n▶ Mnet K-POP: https://t.co/J388Ddaq1j ​\n\n#KCON #LetsKCON #KCON2020 https://t.co/sNHpRDxJ5g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TOO",
+					"indices": [
+						21,
+						25
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						52,
+						61
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						218,
+						223
+					]
+				},
+				{
+					"text": "LetsKCON",
+					"indices": [
+						224,
+						233
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						234,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/83zc6intTv",
+					"expanded_url": "http://youtube.com/KCON",
+					"display_url": "youtube.com/KCON",
+					"indices": [
+						82,
+						105
+					]
+				},
+				{
+					"url": "https://t.co/XqzsTlO5B7",
+					"expanded_url": "https://youtu.be/u0GedSPEuyA",
+					"display_url": "youtu.be/u0GedSPEuyA",
+					"indices": [
+						151,
+						174
+					]
+				},
+				{
+					"url": "https://t.co/J388Ddaq1j",
+					"expanded_url": "https://youtu.be/HkpNQvi8gNA",
+					"display_url": "youtu.be/HkpNQvi8gNA",
+					"indices": [
+						191,
+						214
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323537085232341000,
+					"id_str": "1323537085232340992",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/El4l93RUYAAywDC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El4l93RUYAAywDC.jpg",
+					"url": "https://t.co/sNHpRDxJ5g",
+					"display_url": "pic.twitter.com/sNHpRDxJ5g",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1323610888524296192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323537085232341000,
+					"id_str": "1323537085232340992",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/El4l93RUYAAywDC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El4l93RUYAAywDC.jpg",
+					"url": "https://t.co/sNHpRDxJ5g",
+					"display_url": "pic.twitter.com/sNHpRDxJ5g",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1323610888524296192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1323537085228216300,
+					"id_str": "1323537085228216320",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/El4l93QVcAAb8PM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El4l93QVcAAb8PM.jpg",
+					"url": "https://t.co/sNHpRDxJ5g",
+					"display_url": "pic.twitter.com/sNHpRDxJ5g",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1323610888524296192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1323537085232369700,
+					"id_str": "1323537085232369666",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/El4l93RU0AIIn3h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El4l93RU0AIIn3h.jpg",
+					"url": "https://t.co/sNHpRDxJ5g",
+					"display_url": "pic.twitter.com/sNHpRDxJ5g",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1323610888524296192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1323537085236568000,
+					"id_str": "1323537085236568070",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/El4l93SU4AYK2KV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El4l93SU4AYK2KV.jpg",
+					"url": "https://t.co/sNHpRDxJ5g",
+					"display_url": "pic.twitter.com/sNHpRDxJ5g",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1323610888524296192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON:TACT season 2  Oct 16~25, 2020",
+			"url": "https://t.co/CCEcf5MtP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCEcf5MtP5",
+							"expanded_url": "https://www.youtube.com/KCON",
+							"display_url": "youtube.com/KCON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299734,
+			"friends_count": 67,
+			"listed_count": 901,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1600424283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 287,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT season 2] #TOO\n\nTOO always killing it at #KCONTACT !\n\n▶ KCON official: https://t.co/83zc6intTv\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTlO5B7 ​\n▶ Mnet K-POP: https://t.co/J388Ddaq1j ​\n\n#KCON #LetsKCON #KCON2020 https://t.co/sNHpRDxJ5g"
+	},
+	{
+		"created_at": "Tue Nov 03 13:58:22 +0000 2020",
+		"id": 1323610886813175800,
+		"id_str": "1323625572677857280",
+		"full_text": "[KCON:TACT season 2] #TOO\n\nTOO always killing it at #KCONTACT !\n\n▶ KCON official: https://t.co/83zc6i5T1X\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTm5GZH ​\n▶ Mnet K-POP: https://t.co/J388DcSP9L ​\n\n#KCON #LetsKCON #KCON2020 https://t.co/9bgz5QSmGe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TOO",
+					"indices": [
+						21,
+						25
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						52,
+						61
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						218,
+						223
+					]
+				},
+				{
+					"text": "LetsKCON",
+					"indices": [
+						224,
+						233
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						234,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/83zc6i5T1X",
+					"expanded_url": "http://youtube.com/KCON",
+					"display_url": "youtube.com/KCON",
+					"indices": [
+						82,
+						105
+					]
+				},
+				{
+					"url": "https://t.co/XqzsTm5GZH",
+					"expanded_url": "https://youtu.be/u0GedSPEuyA",
+					"display_url": "youtu.be/u0GedSPEuyA",
+					"indices": [
+						151,
+						174
+					]
+				},
+				{
+					"url": "https://t.co/J388DcSP9L",
+					"expanded_url": "https://youtu.be/HkpNQvi8gNA",
+					"display_url": "youtu.be/HkpNQvi8gNA",
+					"indices": [
+						191,
+						214
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323536995130335200,
+					"id_str": "1323536995130335233",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/El4l4nnU4AE9U7s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El4l4nnU4AE9U7s.jpg",
+					"url": "https://t.co/9bgz5QSmGe",
+					"display_url": "pic.twitter.com/9bgz5QSmGe",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1323610886813175809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323536995130335200,
+					"id_str": "1323536995130335233",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/El4l4nnU4AE9U7s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El4l4nnU4AE9U7s.jpg",
+					"url": "https://t.co/9bgz5QSmGe",
+					"display_url": "pic.twitter.com/9bgz5QSmGe",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1323610886813175809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1323536995117789200,
+					"id_str": "1323536995117789188",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/El4l4nkVcAQ2gm8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El4l4nkVcAQ2gm8.jpg",
+					"url": "https://t.co/9bgz5QSmGe",
+					"display_url": "pic.twitter.com/9bgz5QSmGe",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1323610886813175809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1323536995134529500,
+					"id_str": "1323536995134529536",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/El4l4noU4AA4W3i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El4l4noU4AA4W3i.jpg",
+					"url": "https://t.co/9bgz5QSmGe",
+					"display_url": "pic.twitter.com/9bgz5QSmGe",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1323610886813175809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1323536995126190000,
+					"id_str": "1323536995126190081",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/El4l4nmVoAEXo25.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El4l4nmVoAEXo25.jpg",
+					"url": "https://t.co/9bgz5QSmGe",
+					"display_url": "pic.twitter.com/9bgz5QSmGe",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1323610886813175809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON:TACT season 2  Oct 16~25, 2020",
+			"url": "https://t.co/CCEcf5MtP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCEcf5MtP5",
+							"expanded_url": "https://www.youtube.com/KCON",
+							"display_url": "youtube.com/KCON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299734,
+			"friends_count": 67,
+			"listed_count": 901,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1600424283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 228,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT season 2] #TOO\n\nTOO always killing it at #KCONTACT !\n\n▶ KCON official: https://t.co/83zc6i5T1X\n\nDAY 1-10 NONSTOP STREAMING\n▶ KCON official: https://t.co/XqzsTm5GZH ​\n▶ Mnet K-POP: https://t.co/J388DcSP9L ​\n\n#KCON #LetsKCON #KCON2020 https://t.co/9bgz5QSmGe"
+	},
+	{
 		"created_at": "Tue Nov 03 13:08:59 +0000 2020",
 		"id": 1323613142161698800,
 		"id_str": "1323613142161698816",
