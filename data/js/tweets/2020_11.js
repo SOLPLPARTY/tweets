@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 04 05:29:29 +0000 2020",
+		"id": 1323852474407547000,
+		"id_str": "1323859892436934656",
+		"full_text": "HAPPY ROBOT RECORDS VINYL REISSUE SERIES &lt;My Own Table&gt;\n해피로봇 레코드의 명반들이 바이닐로 재탄생합니다.\n\n먼지 타는 듯한 소리와 미세한 노이즈.\n재단되고 정돈된 깔끔함이 아닌, 조금은 투박함이 느껴지는 바이닐의 음질은 디지털과는 다른 따뜻한 매력을 선물합니다. https://t.co/rD5PHuyJpr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1323851124357566500,
+					"id_str": "1323851124357566464",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/El9DlWLVkAAYVH-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El9DlWLVkAAYVH-.jpg",
+					"url": "https://t.co/rD5PHuyJpr",
+					"display_url": "pic.twitter.com/rD5PHuyJpr",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1323852474407546881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1150,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323851124357566500,
+					"id_str": "1323851124357566464",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/El9DlWLVkAAYVH-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El9DlWLVkAAYVH-.jpg",
+					"url": "https://t.co/rD5PHuyJpr",
+					"display_url": "pic.twitter.com/rD5PHuyJpr",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1323852474407546881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1150,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1323851124445622300,
+					"id_str": "1323851124445622272",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/El9DlWgVMAARRty.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El9DlWgVMAARRty.jpg",
+					"url": "https://t.co/rD5PHuyJpr",
+					"display_url": "pic.twitter.com/rD5PHuyJpr",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1323852474407546881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1150,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1323851124546310100,
+					"id_str": "1323851124546310152",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/El9DlW4VkAgyF9-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El9DlW4VkAgyF9-.jpg",
+					"url": "https://t.co/rD5PHuyJpr",
+					"display_url": "pic.twitter.com/rD5PHuyJpr",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1323852474407546881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1150,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1323851124651094000,
+					"id_str": "1323851124651094019",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/El9DlXRUcAM_075.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El9DlXRUcAM_075.jpg",
+					"url": "https://t.co/rD5PHuyJpr",
+					"display_url": "pic.twitter.com/rD5PHuyJpr",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1323852474407546881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1150,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1323852467495293000,
+		"in_reply_to_status_id_str": "1323852467495292928",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스, 소란, 노리플라이, 쏜애플, LambC, SURL, OurR",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13054,
+			"friends_count": 1957,
+			"listed_count": 258,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13106,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "HAPPY ROBOT RECORDS VINYL REISSUE SERIES &lt;My Own Table&gt;\n해피로봇 레코드의 명반들이 바이닐로 재탄생합니다.\n\n먼지 타는 듯한 소리와 미세한 노이즈.\n재단되고 정돈된 깔끔함이 아닌, 조금은 투박함이 느껴지는 바이닐의 음질은 디지털과는 다른 따뜻한 매력을 선물합니다. https://t.co/rD5PHuyJpr"
+	},
+	{
 		"created_at": "Wed Nov 04 04:29:36 +0000 2020",
 		"id": 1323843025102012400,
 		"id_str": "1323844822197768192",
