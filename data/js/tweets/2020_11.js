@@ -1,6 +1,541 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 04 15:29:50 +0000 2020",
+		"id": 1324010978246348800,
+		"id_str": "1324010978246348805",
+		"full_text": "#날씨알리미\nNovember 6, 2020 : PM Showers\n내일 마포구에 비가 온다고 합니다.\n공연 관람하실 분은 우산을 챙기세요🌂\nhttps://t.co/LWEpY0XtVE\n#마포구 #날씨 #비 #우산챙겨요 https://t.co/Z7lfERI45f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "날씨알리미",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "마포구",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "날씨",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "비",
+					"indices": [
+						111,
+						113
+					]
+				},
+				{
+					"text": "우산챙겨요",
+					"indices": [
+						114,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LWEpY0XtVE",
+					"expanded_url": "https://youtu.be/K1fi8KUf8F8",
+					"display_url": "youtu.be/K1fi8KUf8F8",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1324010977357107200,
+					"id_str": "1324010977357107204",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/El_U-BAWkAQc9ds.png",
+					"media_url_https": "https://pbs.twimg.com/media/El_U-BAWkAQc9ds.png",
+					"url": "https://t.co/Z7lfERI45f",
+					"display_url": "pic.twitter.com/Z7lfERI45f",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1324010978246348805/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 310,
+							"h": 310,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 310,
+							"h": 310,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 310,
+							"h": 310,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324010977357107200,
+					"id_str": "1324010977357107204",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/El_U-BAWkAQc9ds.png",
+					"media_url_https": "https://pbs.twimg.com/media/El_U-BAWkAQc9ds.png",
+					"url": "https://t.co/Z7lfERI45f",
+					"display_url": "pic.twitter.com/Z7lfERI45f",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1324010978246348805/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 310,
+							"h": 310,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 310,
+							"h": 310,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 310,
+							"h": 310,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#공연일정 #페스티벌 #인디밴드 #내한 #콘서트\n\n문화예술정보 @ArtManagementKR\n뮤직매거진 @Magazine_KR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								115,
+								138
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 243,
+			"friends_count": 431,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#날씨알리미\nNovember 6, 2020 : PM Showers\n내일 마포구에 비가 온다고 합니다.\n공연 관람하실 분은 우산을 챙기세요🌂\nhttps://t.co/LWEpY0XtVE\n#마포구 #날씨 #비 #우산챙겨요 https://t.co/Z7lfERI45f"
+	},
+	{
+		"created_at": "Wed Nov 04 15:29:30 +0000 2020",
+		"id": 1324003474812489700,
+		"id_str": "1324010891021606917",
+		"full_text": "[LISTEN SPECIAL] 박재정 - 너라는 위로 \nD-5\n2020.11.10 12PM(KST)\n\n작곡,편곡: 조정치\n작사: 권진아\n\n#미스틱스토리 #MYSTICSTORY #LISTEN #리슨 #박재정 #JaeJungParc #너라는위로 https://t.co/Q3VwJisXdB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미스틱스토리",
+					"indices": [
+						77,
+						84
+					]
+				},
+				{
+					"text": "MYSTICSTORY",
+					"indices": [
+						85,
+						97
+					]
+				},
+				{
+					"text": "LISTEN",
+					"indices": [
+						98,
+						105
+					]
+				},
+				{
+					"text": "리슨",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "박재정",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "JaeJungParc",
+					"indices": [
+						115,
+						127
+					]
+				},
+				{
+					"text": "너라는위로",
+					"indices": [
+						128,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1323915642014105600,
+					"id_str": "1323915642014105600",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/El9-QxLVgAAxVx7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El9-QxLVgAAxVx7.jpg",
+					"url": "https://t.co/Q3VwJisXdB",
+					"display_url": "pic.twitter.com/Q3VwJisXdB",
+					"expanded_url": "https://twitter.com/themysticstory/status/1324003474812489728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323915642014105600,
+					"id_str": "1323915642014105600",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/El9-QxLVgAAxVx7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El9-QxLVgAAxVx7.jpg",
+					"url": "https://t.co/Q3VwJisXdB",
+					"display_url": "pic.twitter.com/Q3VwJisXdB",
+					"expanded_url": "https://twitter.com/themysticstory/status/1324003474812489728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1323915642097987600,
+					"id_str": "1323915642097987585",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/El9-QxfVcAEqPZo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El9-QxfVcAEqPZo.jpg",
+					"url": "https://t.co/Q3VwJisXdB",
+					"display_url": "pic.twitter.com/Q3VwJisXdB",
+					"expanded_url": "https://twitter.com/themysticstory/status/1324003474812489728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1323915642097987600,
+					"id_str": "1323915642097987586",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/El9-QxfVcAINQQl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El9-QxfVcAINQQl.jpg",
+					"url": "https://t.co/Q3VwJisXdB",
+					"display_url": "pic.twitter.com/Q3VwJisXdB",
+					"expanded_url": "https://twitter.com/themysticstory/status/1324003474812489728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19780,
+			"friends_count": 18,
+			"listed_count": 221,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5403,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LISTEN SPECIAL] 박재정 - 너라는 위로 \nD-5\n2020.11.10 12PM(KST)\n\n작곡,편곡: 조정치\n작사: 권진아\n\n#미스틱스토리 #MYSTICSTORY #LISTEN #리슨 #박재정 #JaeJungParc #너라는위로 https://t.co/Q3VwJisXdB"
+	},
+	{
 		"created_at": "Wed Nov 04 14:29:32 +0000 2020",
 		"id": 1323988371295756300,
 		"id_str": "1323995802327502848",
