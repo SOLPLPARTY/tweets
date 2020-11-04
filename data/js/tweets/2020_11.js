@@ -1,10 +1,1189 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 04 12:04:30 +0000 2020",
+		"id": 1323959303074730000,
+		"id_str": "1323959303074729985",
+		"full_text": "#서울뮤직 #SEOUL_MUSIC\n[MV] 이나래, MKPBand - Hollywood Dreaming / Official Music Video\nhttps://t.co/s4iM1iTfWJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SEOUL_MUSIC",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s4iM1iTfWJ",
+					"expanded_url": "https://youtu.be/-q01tD8ldn4",
+					"display_url": "youtu.be/-q01tD8ldn4",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 243,
+			"friends_count": 431,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#서울뮤직 #SEOUL_MUSIC\n[MV] 이나래, MKPBand - Hollywood Dreaming / Official Music Video\nhttps://t.co/s4iM1iTfWJ"
+	},
+	{
+		"created_at": "Wed Nov 04 11:58:17 +0000 2020",
+		"id": 1323950885869744000,
+		"id_str": "1323957740750983173",
+		"full_text": "[KCON:TACT season 2] FanPick Cam Notice\n\nFanPick CAM Highlight VODs of #DAY6 #EVERGLOW #SUNMI #WEi #ACE #IZONE #JO1 #KARD #NATTY are now available for KCON:TACT PLUS Membership \n\n▶ KCON official: https://t.co/prxjpioGTH\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/T6UdB0pgw5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DAY6",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "EVERGLOW",
+					"indices": [
+						77,
+						86
+					]
+				},
+				{
+					"text": "SUNMI",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "WEi",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "ACE",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "IZONE",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "JO1",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "KARD",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "NATTY",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						221,
+						226
+					]
+				},
+				{
+					"text": "LetsKCON",
+					"indices": [
+						227,
+						236
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						237,
+						246
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						247,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/prxjpioGTH",
+					"expanded_url": "https://url.kr/hIYlce",
+					"display_url": "url.kr/hIYlce",
+					"indices": [
+						196,
+						219
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323948689874804700,
+					"id_str": "1323948689874804736",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/El-cUaDU4AAfp4r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El-cUaDU4AAfp4r.jpg",
+					"url": "https://t.co/T6UdB0pgw5",
+					"display_url": "pic.twitter.com/T6UdB0pgw5",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1323950885869744129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323948689874804700,
+					"id_str": "1323948689874804736",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/El-cUaDU4AAfp4r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El-cUaDU4AAfp4r.jpg",
+					"url": "https://t.co/T6UdB0pgw5",
+					"display_url": "pic.twitter.com/T6UdB0pgw5",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1323950885869744129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1323948732925190100,
+					"id_str": "1323948732925190145",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/El-cW6bVoAEJDhy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El-cW6bVoAEJDhy.jpg",
+					"url": "https://t.co/T6UdB0pgw5",
+					"display_url": "pic.twitter.com/T6UdB0pgw5",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1323950885869744129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON:TACT season 2  Oct 16~25, 2020",
+			"url": "https://t.co/CCEcf5MtP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCEcf5MtP5",
+							"expanded_url": "https://www.youtube.com/KCON",
+							"display_url": "youtube.com/KCON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300079,
+			"friends_count": 67,
+			"listed_count": 901,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1600424283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 104,
+		"favorite_count": 272,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT season 2] FanPick Cam Notice\n\nFanPick CAM Highlight VODs of #DAY6 #EVERGLOW #SUNMI #WEi #ACE #IZONE #JO1 #KARD #NATTY are now available for KCON:TACT PLUS Membership \n\n▶ KCON official: https://t.co/prxjpioGTH\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/T6UdB0pgw5"
+	},
+	{
+		"created_at": "Wed Nov 04 11:58:14 +0000 2020",
+		"id": 1323943078219186200,
+		"id_str": "1323957727597572097",
+		"full_text": "[KCON:TACT season 2] 🎬Backstage Behind🎬 \n\n♧ Day 2 \n#ACE #IZONE #JO1 #KARD #NATTY\n\n⏰11/5 (Thu) 20:00 KST \n\n💎 Only for KCON:TACT Members \n\n♣ NONSTOP STREAMING \n▷KCON official: https://t.co/XqzsTm5GZH \n▷Mnet K-POP :https://t.co/J388DcSP9L \n\n#KCONTACT #KCON #KCON2020 https://t.co/yYEIEX4OYX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ACE",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "IZONE",
+					"indices": [
+						56,
+						62
+					]
+				},
+				{
+					"text": "JO1",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "KARD",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "NATTY",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						238,
+						247
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						248,
+						253
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						254,
+						263
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XqzsTm5GZH",
+					"expanded_url": "https://youtu.be/u0GedSPEuyA",
+					"display_url": "youtu.be/u0GedSPEuyA",
+					"indices": [
+						174,
+						197
+					]
+				},
+				{
+					"url": "https://t.co/J388DcSP9L",
+					"expanded_url": "https://youtu.be/HkpNQvi8gNA",
+					"display_url": "youtu.be/HkpNQvi8gNA",
+					"indices": [
+						212,
+						235
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323929354695368700,
+					"id_str": "1323929354695368706",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/El-Ku85UYAIULRQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/El-Ku85UYAIULRQ.jpg",
+					"url": "https://t.co/yYEIEX4OYX",
+					"display_url": "pic.twitter.com/yYEIEX4OYX",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1323943078219186176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323929354695368700,
+					"id_str": "1323929354695368706",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/El-Ku85UYAIULRQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/El-Ku85UYAIULRQ.jpg",
+					"url": "https://t.co/yYEIEX4OYX",
+					"display_url": "pic.twitter.com/yYEIEX4OYX",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1323943078219186176/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/El-Ku85UYAIULRQ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON:TACT season 2  Oct 16~25, 2020",
+			"url": "https://t.co/CCEcf5MtP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCEcf5MtP5",
+							"expanded_url": "https://www.youtube.com/KCON",
+							"display_url": "youtube.com/KCON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300079,
+			"friends_count": 67,
+			"listed_count": 901,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1600424283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 288,
+		"favorite_count": 997,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT season 2] 🎬Backstage Behind🎬 \n\n♧ Day 2 \n#ACE #IZONE #JO1 #KARD #NATTY\n\n⏰11/5 (Thu) 20:00 KST \n\n💎 Only for KCON:TACT Members \n\n♣ NONSTOP STREAMING \n▷KCON official: https://t.co/XqzsTm5GZH \n▷Mnet K-POP :https://t.co/J388DcSP9L \n\n#KCONTACT #KCON #KCON2020 https://t.co/yYEIEX4OYX"
+	},
+	{
+		"created_at": "Wed Nov 04 11:41:17 +0000 2020",
+		"id": 1323953458890870800,
+		"id_str": "1323953458890870784",
+		"full_text": "#플랫폼창동61\n[창동악가무] 창동악가무 Vol.39 잠비나이·더튠 : RELATION : 창동악가무 Vol.39 잠비나이·더튠 : RELATION (2020년 11월 25일(수))\n▶ https://t.co/H3s8VHzC7c\n　\n#Platform61 #공연일정 #티켓공지 https://t.co/YFtZw2p6iA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "플랫폼창동61",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Platform61",
+					"indices": [
+						130,
+						141
+					]
+				},
+				{
+					"text": "공연일정",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "티켓공지",
+					"indices": [
+						148,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H3s8VHzC7c",
+					"expanded_url": "https://bit.ly/3jXs6c0",
+					"display_url": "bit.ly/3jXs6c0",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323953458022621200,
+					"id_str": "1323953458022621184",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/El-gp8yWoAA__Ik.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El-gp8yWoAA__Ik.jpg",
+					"url": "https://t.co/YFtZw2p6iA",
+					"display_url": "pic.twitter.com/YFtZw2p6iA",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1323953458890870784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 280,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 280,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 280,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323953458022621200,
+					"id_str": "1323953458022621184",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/El-gp8yWoAA__Ik.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El-gp8yWoAA__Ik.jpg",
+					"url": "https://t.co/YFtZw2p6iA",
+					"display_url": "pic.twitter.com/YFtZw2p6iA",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1323953458890870784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 280,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 280,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 280,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n공연일정 / 페스티벌 / 인디밴드 / 내한공연 / 콘서트 / 홍대문화 / 영화제 등\n\n문화예술정보 @ArtManagementKR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								116,
+								139
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								147,
+								170
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 243,
+			"friends_count": 431,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#플랫폼창동61\n[창동악가무] 창동악가무 Vol.39 잠비나이·더튠 : RELATION : 창동악가무 Vol.39 잠비나이·더튠 : RELATION (2020년 11월 25일(수))\n▶ https://t.co/H3s8VHzC7c\n　\n#Platform61 #공연일정 #티켓공지 https://t.co/YFtZw2p6iA"
+	},
+	{
+		"created_at": "Wed Nov 04 11:29:34 +0000 2020",
+		"id": 1323944016497422300,
+		"id_str": "1323950510555148289",
+		"full_text": "적재 미니 2집 &lt;2006&gt; \nJukjae 2nd Mini Album &lt;2006&gt;\n\nConcept Photo\n\n2020. 11. 12 6PM Release\n\n#적재 #Jukjae #EP_2006 https://t.co/dyzxus2Ljx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "적재",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						104,
+						111
+					]
+				},
+				{
+					"text": "EP_2006",
+					"indices": [
+						112,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1323943996360568800,
+					"id_str": "1323943996360568834",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/El-YDNWVMAIkqrp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El-YDNWVMAIkqrp.jpg",
+					"url": "https://t.co/dyzxus2Ljx",
+					"display_url": "pic.twitter.com/dyzxus2Ljx",
+					"expanded_url": "https://twitter.com/antennamusic/status/1323944016497422336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323943996360568800,
+					"id_str": "1323943996360568834",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/El-YDNWVMAIkqrp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El-YDNWVMAIkqrp.jpg",
+					"url": "https://t.co/dyzxus2Ljx",
+					"display_url": "pic.twitter.com/dyzxus2Ljx",
+					"expanded_url": "https://twitter.com/antennamusic/status/1323944016497422336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1323943996360597500,
+					"id_str": "1323943996360597506",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/El-YDNWVoAIF20O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El-YDNWVoAIF20O.jpg",
+					"url": "https://t.co/dyzxus2Ljx",
+					"display_url": "pic.twitter.com/dyzxus2Ljx",
+					"expanded_url": "https://twitter.com/antennamusic/status/1323944016497422336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seunghwan, Lee Jin Ah, CHAI, Yun Seokcheol, Jukjae Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34834,
+			"friends_count": 10,
+			"listed_count": 369,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1600795805",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 132,
+		"favorite_count": 171,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "적재 미니 2집 &lt;2006&gt; \nJukjae 2nd Mini Album &lt;2006&gt;\n\nConcept Photo\n\n2020. 11. 12 6PM Release\n\n#적재 #Jukjae #EP_2006 https://t.co/dyzxus2Ljx"
+	},
+	{
 		"created_at": "Wed Nov 04 11:14:22 +0000 2020",
 		"id": 1323946686905987000,
 		"id_str": "1323946686905987072",
-		"full_text": "#온스테이지 #ONSTAGE\n온스테이지 10주년 | ​플레이리스트 : 7\nhttps://t.co/US2Geio7TX",
+		"full_text": "#온스테이지 #ONSTAGE\n온스테이지 10주년 | 플레이리스트 : 7\nhttps://t.co/US2Geio7TX",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -138,7 +1317,7 @@ Grailbird.data.tweets_2020_11 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#온스테이지 #ONSTAGE\n온스테이지 10주년 | ​플레이리스트 : 7\nhttps://t.co/US2Geio7TX"
+		"text": "#온스테이지 #ONSTAGE\n온스테이지 10주년 | 플레이리스트 : 7\nhttps://t.co/US2Geio7TX"
 	},
 	{
 		"created_at": "Wed Nov 04 11:11:32 +0000 2020",
