@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 05 14:29:26 +0000 2020",
+		"id": 1324350760533053400,
+		"id_str": "1324358163341201410",
+		"full_text": "JAMIE - APOLLO 11\n\n2020.11.11\n18:00 KST\n\n@jiminpark07 #JAMIE #JAMIEPARK #제이미 #APOLLO11 https://t.co/hDm2kmYvAi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JAMIE",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "JAMIEPARK",
+					"indices": [
+						61,
+						71
+					]
+				},
+				{
+					"text": "제이미",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "APOLLO11",
+					"indices": [
+						77,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jiminpark07",
+					"name": "JIMINxJAMIE",
+					"id": 220195175,
+					"id_str": "220195175",
+					"indices": [
+						41,
+						53
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324167006325670000,
+					"id_str": "1324167006325669891",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EmBi4GNVgAMcakZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EmBi4GNVgAMcakZ.png",
+					"url": "https://t.co/hDm2kmYvAi",
+					"display_url": "pic.twitter.com/hDm2kmYvAi",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1324350760533053442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324167006325670000,
+					"id_str": "1324167006325669891",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EmBi4GNVgAMcakZ.png",
+					"media_url_https": "https://pbs.twimg.com/media/EmBi4GNVgAMcakZ.png",
+					"url": "https://t.co/hDm2kmYvAi",
+					"display_url": "pic.twitter.com/hDm2kmYvAi",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1324350760533053442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1324167006333984800,
+					"id_str": "1324167006333984768",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EmBi4GPUYAAKjtN.png",
+					"media_url_https": "https://pbs.twimg.com/media/EmBi4GPUYAAKjtN.png",
+					"url": "https://t.co/hDm2kmYvAi",
+					"display_url": "pic.twitter.com/hDm2kmYvAi",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1324350760533053442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1324167006334058500,
+					"id_str": "1324167006334058496",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/EmBi4GPVgAAe783.png",
+					"media_url_https": "https://pbs.twimg.com/media/EmBi4GPVgAAe783.png",
+					"url": "https://t.co/hDm2kmYvAi",
+					"display_url": "pic.twitter.com/hDm2kmYvAi",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1324350760533053442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10385,
+			"friends_count": 495,
+			"listed_count": 123,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11084,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1589339161",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 100,
+		"favorite_count": 183,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "pl",
+		"text": "JAMIE - APOLLO 11\n\n2020.11.11\n18:00 KST\n\n@jiminpark07 #JAMIE #JAMIEPARK #제이미 #APOLLO11 https://t.co/hDm2kmYvAi"
+	},
+	{
 		"created_at": "Thu Nov 05 14:11:17 +0000 2020",
 		"id": 1324340425377738800,
 		"id_str": "1324353595882524673",
