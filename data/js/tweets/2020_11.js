@@ -1,6 +1,1093 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 05 12:29:48 +0000 2020",
+		"id": 1324325108425486300,
+		"id_str": "1324328059173031936",
+		"full_text": "CN(繁): https://t.co/8Skqxk3fI2\nES: https://t.co/Yahu3kPvJm\nIND: https://t.co/2p0fIQRAJ1\nTH: https://t.co/0pGebuWT4K\nVI: https://t.co/JaEM6dPE30\n \n#SUPERJUNIOR_BeyondLIVE #슈퍼주니어 #SUPERJUNIOR #BeyondLIVE #NAVER #VLIVE\n#15thAnniv_WalkTogether #달려온15주년_손잡고걸을까",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SUPERJUNIOR_BeyondLIVE",
+					"indices": [
+						146,
+						169
+					]
+				},
+				{
+					"text": "슈퍼주니어",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						177,
+						189
+					]
+				},
+				{
+					"text": "BeyondLIVE",
+					"indices": [
+						190,
+						201
+					]
+				},
+				{
+					"text": "NAVER",
+					"indices": [
+						202,
+						208
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						209,
+						215
+					]
+				},
+				{
+					"text": "15thAnniv_WalkTogether",
+					"indices": [
+						216,
+						239
+					]
+				},
+				{
+					"text": "달려온15주년_손잡고걸을까",
+					"indices": [
+						240,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8Skqxk3fI2",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=zh_tw",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						7,
+						30
+					]
+				},
+				{
+					"url": "https://t.co/Yahu3kPvJm",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=es",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						35,
+						58
+					]
+				},
+				{
+					"url": "https://t.co/2p0fIQRAJ1",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=id",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/0pGebuWT4K",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=th",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/JaEM6dPE30",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=vi",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1324325033800474600,
+		"in_reply_to_status_id_str": "1324325033800474624",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8598761,
+			"friends_count": 53,
+			"listed_count": 8384,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 560,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CN(繁): https://t.co/8Skqxk3fI2\nES: https://t.co/Yahu3kPvJm\nIND: https://t.co/2p0fIQRAJ1\nTH: https://t.co/0pGebuWT4K\nVI: https://t.co/JaEM6dPE30\n \n#SUPERJUNIOR_BeyondLIVE #슈퍼주니어 #SUPERJUNIOR #BeyondLIVE #NAVER #VLIVE\n#15thAnniv_WalkTogether #달려온15주년_손잡고걸을까"
+	},
+	{
+		"created_at": "Thu Nov 05 12:29:41 +0000 2020",
+		"id": 1324325033800474600,
+		"id_str": "1324328029242433536",
+		"full_text": "[VI] 'Beyond LIVE - SUPER JUNIOR 15th Anniversary Special Event - 초대(Invitation)' Invitation✉\n📆2020.11.07 5PM KST\n \n🎟️Tickets\nKR: https://t.co/TsSB6GnoWq\nEN: https://t.co/hhyTlf1TrF\nJP: https://t.co/MQiMc5vhwe\nCN(简): https://t.co/Rr3NRRO75s https://t.co/mWH8HVzCAx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TsSB6GnoWq",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=ko",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						130,
+						153
+					]
+				},
+				{
+					"url": "https://t.co/hhyTlf1TrF",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=en",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						158,
+						181
+					]
+				},
+				{
+					"url": "https://t.co/MQiMc5vhwe",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=ja",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						186,
+						209
+					]
+				},
+				{
+					"url": "https://t.co/Rr3NRRO75s",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=zh_cn",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1324311815459725300,
+					"id_str": "1324311815459725313",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1324311815459725313/img/05sgSCRD2z3ADIzu.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1324311815459725313/img/05sgSCRD2z3ADIzu.jpg",
+					"url": "https://t.co/mWH8HVzCAx",
+					"display_url": "pic.twitter.com/mWH8HVzCAx",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1324325033800474624/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324311815459725300,
+					"id_str": "1324311815459725313",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1324311815459725313/img/05sgSCRD2z3ADIzu.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1324311815459725313/img/05sgSCRD2z3ADIzu.jpg",
+					"url": "https://t.co/mWH8HVzCAx",
+					"display_url": "pic.twitter.com/mWH8HVzCAx",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1324325033800474624/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 48267,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324311815459725313/vid/640x360/HDQVE5tbHqcSs0YU.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324311815459725313/vid/1280x720/s3aR36jtthq2bx4X.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324311815459725313/vid/480x270/zguBkDAuXCvwhhZj.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1324311815459725313/pl/0eMNo3QBP8EIom52.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8598761,
+			"friends_count": 53,
+			"listed_count": 8384,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 221,
+		"favorite_count": 2255,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[VI] 'Beyond LIVE - SUPER JUNIOR 15th Anniversary Special Event - 초대(Invitation)' Invitation✉\n📆2020.11.07 5PM KST\n \n🎟️Tickets\nKR: https://t.co/TsSB6GnoWq\nEN: https://t.co/hhyTlf1TrF\nJP: https://t.co/MQiMc5vhwe\nCN(简): https://t.co/Rr3NRRO75s https://t.co/mWH8HVzCAx"
+	},
+	{
+		"created_at": "Thu Nov 05 12:29:39 +0000 2020",
+		"id": 1324324825402204200,
+		"id_str": "1324328020396658695",
+		"full_text": "CN(繁): https://t.co/8Skqxk3fI2\nES: https://t.co/Yahu3kPvJm\nIND: https://t.co/2p0fIQRAJ1\nTH: https://t.co/0pGebuWT4K\nVI: https://t.co/JaEM6dPE30\n \n#SUPERJUNIOR_BeyondLIVE #슈퍼주니어 #SUPERJUNIOR #BeyondLIVE #NAVER #VLIVE\n#15thAnniv_WalkTogether #달려온15주년_손잡고걸을까",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SUPERJUNIOR_BeyondLIVE",
+					"indices": [
+						146,
+						169
+					]
+				},
+				{
+					"text": "슈퍼주니어",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						177,
+						189
+					]
+				},
+				{
+					"text": "BeyondLIVE",
+					"indices": [
+						190,
+						201
+					]
+				},
+				{
+					"text": "NAVER",
+					"indices": [
+						202,
+						208
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						209,
+						215
+					]
+				},
+				{
+					"text": "15thAnniv_WalkTogether",
+					"indices": [
+						216,
+						239
+					]
+				},
+				{
+					"text": "달려온15주년_손잡고걸을까",
+					"indices": [
+						240,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8Skqxk3fI2",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=zh_tw",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						7,
+						30
+					]
+				},
+				{
+					"url": "https://t.co/Yahu3kPvJm",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=es",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						35,
+						58
+					]
+				},
+				{
+					"url": "https://t.co/2p0fIQRAJ1",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=id",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/0pGebuWT4K",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=th",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/JaEM6dPE30",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=vi",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1324324748755525600,
+		"in_reply_to_status_id_str": "1324324748755525632",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8598761,
+			"friends_count": 53,
+			"listed_count": 8384,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 552,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CN(繁): https://t.co/8Skqxk3fI2\nES: https://t.co/Yahu3kPvJm\nIND: https://t.co/2p0fIQRAJ1\nTH: https://t.co/0pGebuWT4K\nVI: https://t.co/JaEM6dPE30\n \n#SUPERJUNIOR_BeyondLIVE #슈퍼주니어 #SUPERJUNIOR #BeyondLIVE #NAVER #VLIVE\n#15thAnniv_WalkTogether #달려온15주년_손잡고걸을까"
+	},
+	{
+		"created_at": "Thu Nov 05 12:29:37 +0000 2020",
+		"id": 1324324748755525600,
+		"id_str": "1324328011441807362",
+		"full_text": "[TH] 'Beyond LIVE - SUPER JUNIOR 15th Anniversary Special Event - 초대(Invitation)' Invitation✉\n📆2020.11.07 5PM KST\n \n🎟️Tickets\nKR: https://t.co/TsSB6GnoWq\nEN: https://t.co/hhyTlf1TrF\nJP: https://t.co/MQiMc5vhwe\nCN(简): https://t.co/Rr3NRRO75s https://t.co/SXgNtm22J5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TsSB6GnoWq",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=ko",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						130,
+						153
+					]
+				},
+				{
+					"url": "https://t.co/hhyTlf1TrF",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=en",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						158,
+						181
+					]
+				},
+				{
+					"url": "https://t.co/MQiMc5vhwe",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=ja",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						186,
+						209
+					]
+				},
+				{
+					"url": "https://t.co/Rr3NRRO75s",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=zh_cn",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1324312596716036000,
+					"id_str": "1324312596716036096",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1324312596716036096/img/qX0kQFeKbzp_XzkN.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1324312596716036096/img/qX0kQFeKbzp_XzkN.jpg",
+					"url": "https://t.co/SXgNtm22J5",
+					"display_url": "pic.twitter.com/SXgNtm22J5",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1324324748755525632/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324312596716036000,
+					"id_str": "1324312596716036096",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1324312596716036096/img/qX0kQFeKbzp_XzkN.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1324312596716036096/img/qX0kQFeKbzp_XzkN.jpg",
+					"url": "https://t.co/SXgNtm22J5",
+					"display_url": "pic.twitter.com/SXgNtm22J5",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1324324748755525632/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 38433,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324312596716036096/vid/1280x720/3ivrhVGOpNL3wAsR.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324312596716036096/vid/640x360/Ra8m9rwqfDBezXkQ.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324312596716036096/vid/480x270/ZqGvtcADEZpz_JDU.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1324312596716036096/pl/1Ts95a6wNLa1SD8_.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8598761,
+			"friends_count": 53,
+			"listed_count": 8384,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 372,
+		"favorite_count": 2074,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[TH] 'Beyond LIVE - SUPER JUNIOR 15th Anniversary Special Event - 초대(Invitation)' Invitation✉\n📆2020.11.07 5PM KST\n \n🎟️Tickets\nKR: https://t.co/TsSB6GnoWq\nEN: https://t.co/hhyTlf1TrF\nJP: https://t.co/MQiMc5vhwe\nCN(简): https://t.co/Rr3NRRO75s https://t.co/SXgNtm22J5"
+	},
+	{
+		"created_at": "Thu Nov 05 12:29:28 +0000 2020",
+		"id": 1324324296345309200,
+		"id_str": "1324327973210759168",
+		"full_text": "CN(繁): https://t.co/8Skqxk3fI2\nES: https://t.co/Yahu3kPvJm\nIND: https://t.co/2p0fIQRAJ1\nTH: https://t.co/0pGebuWT4K\nVI: https://t.co/JaEM6dPE30\n \n#SUPERJUNIOR_BeyondLIVE #슈퍼주니어 #SUPERJUNIOR #BeyondLIVE #NAVER #VLIVE\n#15thAnniv_WalkTogether #달려온15주년_손잡고걸을까",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SUPERJUNIOR_BeyondLIVE",
+					"indices": [
+						146,
+						169
+					]
+				},
+				{
+					"text": "슈퍼주니어",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						177,
+						189
+					]
+				},
+				{
+					"text": "BeyondLIVE",
+					"indices": [
+						190,
+						201
+					]
+				},
+				{
+					"text": "NAVER",
+					"indices": [
+						202,
+						208
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						209,
+						215
+					]
+				},
+				{
+					"text": "15thAnniv_WalkTogether",
+					"indices": [
+						216,
+						239
+					]
+				},
+				{
+					"text": "달려온15주년_손잡고걸을까",
+					"indices": [
+						240,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8Skqxk3fI2",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=zh_tw",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						7,
+						30
+					]
+				},
+				{
+					"url": "https://t.co/Yahu3kPvJm",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=es",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						35,
+						58
+					]
+				},
+				{
+					"url": "https://t.co/2p0fIQRAJ1",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=id",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/0pGebuWT4K",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=th",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/JaEM6dPE30",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=vi",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1324324200396435500,
+		"in_reply_to_status_id_str": "1324324200396435456",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8598761,
+			"friends_count": 53,
+			"listed_count": 8384,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 542,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CN(繁): https://t.co/8Skqxk3fI2\nES: https://t.co/Yahu3kPvJm\nIND: https://t.co/2p0fIQRAJ1\nTH: https://t.co/0pGebuWT4K\nVI: https://t.co/JaEM6dPE30\n \n#SUPERJUNIOR_BeyondLIVE #슈퍼주니어 #SUPERJUNIOR #BeyondLIVE #NAVER #VLIVE\n#15thAnniv_WalkTogether #달려온15주년_손잡고걸을까"
+	},
+	{
 		"created_at": "Thu Nov 05 11:58:14 +0000 2020",
 		"id": 1324305709807345700,
 		"id_str": "1324320115421229066",
