@@ -1,6 +1,552 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 05 11:58:14 +0000 2020",
+		"id": 1324305709807345700,
+		"id_str": "1324320115421229066",
+		"full_text": "[KCON:TACT season 2] BACKSTAGE BEHIND \n\nDAY 2 Behind VOD is available at 20:00 KST TONIGHT.\nDAY 2 백스테이지 비하인드 VOD가 오늘 저녁 8시에 공개됩니다.\n \n▶ KCON official: https://t.co/hXRBwPvzmk \n▶ Mnet K-POP: https://t.co/EBaNCl60lC \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/YbEgAv7dQ9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						215,
+						220
+					]
+				},
+				{
+					"text": "LetsKCON",
+					"indices": [
+						221,
+						230
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						231,
+						240
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						241,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hXRBwPvzmk",
+					"expanded_url": "https://youtu.be/J9jIHKTp1k8",
+					"display_url": "youtu.be/J9jIHKTp1k8",
+					"indices": [
+						150,
+						173
+					]
+				},
+				{
+					"url": "https://t.co/EBaNCl60lC",
+					"expanded_url": "https://youtu.be/d5lx2ue7x64",
+					"display_url": "youtu.be/d5lx2ue7x64",
+					"indices": [
+						189,
+						212
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1324262674146844700,
+					"id_str": "1324262674146844673",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/EmC54snU4AEg6nz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmC54snU4AEg6nz.jpg",
+					"url": "https://t.co/YbEgAv7dQ9",
+					"display_url": "pic.twitter.com/YbEgAv7dQ9",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1324305709807345665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324262674146844700,
+					"id_str": "1324262674146844673",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/EmC54snU4AEg6nz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmC54snU4AEg6nz.jpg",
+					"url": "https://t.co/YbEgAv7dQ9",
+					"display_url": "pic.twitter.com/YbEgAv7dQ9",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1324305709807345665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON:TACT season 2  Oct 16~25, 2020",
+			"url": "https://t.co/CCEcf5MtP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCEcf5MtP5",
+							"expanded_url": "https://www.youtube.com/KCON",
+							"display_url": "youtube.com/KCON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300338,
+			"friends_count": 67,
+			"listed_count": 900,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1600424283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 273,
+		"favorite_count": 732,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[KCON:TACT season 2] BACKSTAGE BEHIND \n\nDAY 2 Behind VOD is available at 20:00 KST TONIGHT.\nDAY 2 백스테이지 비하인드 VOD가 오늘 저녁 8시에 공개됩니다.\n \n▶ KCON official: https://t.co/hXRBwPvzmk \n▶ Mnet K-POP: https://t.co/EBaNCl60lC \n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/YbEgAv7dQ9"
+	},
+	{
+		"created_at": "Thu Nov 05 11:29:32 +0000 2020",
+		"id": 1324306854546006000,
+		"id_str": "1324312891772837889",
+		"full_text": "⚡️ \"적재(Jukjae) 2nd Mini Album &lt;2006&gt;\"\n\nhttps://t.co/zYhx6rmnYX\n\n#적재 #Jukjae #EP_2006",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "적재",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						74,
+						81
+					]
+				},
+				{
+					"text": "EP_2006",
+					"indices": [
+						82,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zYhx6rmnYX",
+					"expanded_url": "https://twitter.com/i/moments/1324305977684844548",
+					"display_url": "twitter.com/i/moments/1324…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seunghwan, Lee Jin Ah, CHAI, Yun Seokcheol, Jukjae Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34869,
+			"friends_count": 10,
+			"listed_count": 369,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1604496019",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⚡️ \"적재(Jukjae) 2nd Mini Album &lt;2006&gt;\"\n\nhttps://t.co/zYhx6rmnYX\n\n#적재 #Jukjae #EP_2006"
+	},
+	{
+		"created_at": "Thu Nov 05 11:29:29 +0000 2020",
+		"id": 1324305784734277600,
+		"id_str": "1324312878615306240",
+		"full_text": "적재 미니 2집 &lt;2006&gt;\nJukjae 2nd Mini Album &lt;2006&gt;\n\n✔️Tracklist\n\n- 반짝 빛나던, 나의 2006년 *Title\n- 풍경\n- 알아 (With. 나원주)\n- 너 없이도\n- 흔적\n\n2020. 11. 12 6PM Release\n\n#적재 #Jukjae #EP_2006 https://t.co/RnApCRwQUW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "적재",
+					"indices": [
+						159,
+						162
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						163,
+						170
+					]
+				},
+				{
+					"text": "EP_2006",
+					"indices": [
+						171,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324305776664440800,
+					"id_str": "1324305776664440833",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/EmDhFmAU8AEJMnx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmDhFmAU8AEJMnx.jpg",
+					"url": "https://t.co/RnApCRwQUW",
+					"display_url": "pic.twitter.com/RnApCRwQUW",
+					"expanded_url": "https://twitter.com/antennamusic/status/1324305784734277637/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 786,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1310,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324305776664440800,
+					"id_str": "1324305776664440833",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/EmDhFmAU8AEJMnx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmDhFmAU8AEJMnx.jpg",
+					"url": "https://t.co/RnApCRwQUW",
+					"display_url": "pic.twitter.com/RnApCRwQUW",
+					"expanded_url": "https://twitter.com/antennamusic/status/1324305784734277637/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 786,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1310,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seunghwan, Lee Jin Ah, CHAI, Yun Seokcheol, Jukjae Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34869,
+			"friends_count": 10,
+			"listed_count": 369,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1604496019",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 115,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "적재 미니 2집 &lt;2006&gt;\nJukjae 2nd Mini Album &lt;2006&gt;\n\n✔️Tracklist\n\n- 반짝 빛나던, 나의 2006년 *Title\n- 풍경\n- 알아 (With. 나원주)\n- 너 없이도\n- 흔적\n\n2020. 11. 12 6PM Release\n\n#적재 #Jukjae #EP_2006 https://t.co/RnApCRwQUW"
+	},
+	{
 		"created_at": "Thu Nov 05 11:11:17 +0000 2020",
 		"id": 1324302826550513700,
 		"id_str": "1324308296619167744",
