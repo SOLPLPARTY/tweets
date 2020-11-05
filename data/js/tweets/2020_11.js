@@ -1,6 +1,1380 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 05 09:29:47 +0000 2020",
+		"id": 1324278527831789600,
+		"id_str": "1324282754247368709",
+		"full_text": "나이트마커가 열리는 11월7일은 겨울의 시작인 입동입니다. 길어진 밤에 어울리는 음악과 함께 새계절을 맞이하세요.\n\nNightmarker🖍🌙\nLive &amp; Direct @SenggiStudio\n11/7 Sat 10pm\n\n💿Live\nCat Psalm (Sima Kim)\nMogwaa\nSalamanda\n\n💿DJ\nSeiryun\nSalamanda\nVon Bueno\n\n✔선착순 현장입장 및 스트리밍 https://t.co/jOncvudNFs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SenggiStudio",
+					"name": "Senggi Studio",
+					"id": 1309994624132366300,
+					"id_str": "1309994624132366336",
+					"indices": [
+						97,
+						110
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324278525151490000,
+					"id_str": "1324278525151490049",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EmDITWNVMAEMC4h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmDITWNVMAEMC4h.jpg",
+					"url": "https://t.co/jOncvudNFs",
+					"display_url": "pic.twitter.com/jOncvudNFs",
+					"expanded_url": "https://twitter.com/bombino_records/status/1324278527831789568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324278525151490000,
+					"id_str": "1324278525151490049",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EmDITWNVMAEMC4h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmDITWNVMAEMC4h.jpg",
+					"url": "https://t.co/jOncvudNFs",
+					"display_url": "pic.twitter.com/jOncvudNFs",
+					"expanded_url": "https://twitter.com/bombino_records/status/1324278527831789568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 389236787,
+			"id_str": "389236787",
+			"name": "Bombino Records",
+			"screen_name": "bombino_records",
+			"location": "babylon",
+			"description": "",
+			"url": "https://t.co/3IX5WApqpM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3IX5WApqpM",
+							"expanded_url": "http://bekindrespin.wordpress.com/",
+							"display_url": "bekindrespin.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 536,
+			"friends_count": 69,
+			"listed_count": 6,
+			"created_at": "Wed Oct 12 02:35:26 +0000 2011",
+			"favourites_count": 101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1208686940427415552/JVoB59S9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208686940427415552/JVoB59S9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/389236787/1545404016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "나이트마커가 열리는 11월7일은 겨울의 시작인 입동입니다. 길어진 밤에 어울리는 음악과 함께 새계절을 맞이하세요.\n\nNightmarker🖍🌙\nLive &amp; Direct @SenggiStudio\n11/7 Sat 10pm\n\n💿Live\nCat Psalm (Sima Kim)\nMogwaa\nSalamanda\n\n💿DJ\nSeiryun\nSalamanda\nVon Bueno\n\n✔선착순 현장입장 및 스트리밍 https://t.co/jOncvudNFs"
+	},
+	{
+		"created_at": "Thu Nov 05 09:29:45 +0000 2020",
+		"id": 1324275797528514600,
+		"id_str": "1324282745342799873",
+		"full_text": "[#LUCY]\n\nD-7\nLUCY 2nd Single Album '선잠' 개인 포토📸\n2020.11.12 12PM(KST)\n\n#LUCY #루시 #신예찬 #최상엽 #조원상 #신광일 #선잠 #Snooze @BANDLUCY_mystic https://t.co/rk53kyZwG1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LUCY",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "LUCY",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "루시",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "신예찬",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "최상엽",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "조원상",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "신광일",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "선잠",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "Snooze",
+					"indices": [
+						103,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BANDLUCY_mystic",
+					"name": "BAND LUCY | 밴드 루시",
+					"id": 1248459032320327700,
+					"id_str": "1248459032320327683",
+					"indices": [
+						111,
+						127
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324256148032090000,
+					"id_str": "1324256148032090112",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EmCz808UcAAOtKP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmCz808UcAAOtKP.jpg",
+					"url": "https://t.co/rk53kyZwG1",
+					"display_url": "pic.twitter.com/rk53kyZwG1",
+					"expanded_url": "https://twitter.com/themysticstory/status/1324275797528514561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324256148032090000,
+					"id_str": "1324256148032090112",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EmCz808UcAAOtKP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmCz808UcAAOtKP.jpg",
+					"url": "https://t.co/rk53kyZwG1",
+					"display_url": "pic.twitter.com/rk53kyZwG1",
+					"expanded_url": "https://twitter.com/themysticstory/status/1324275797528514561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1324256183109124000,
+					"id_str": "1324256183109124096",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EmCz-3nVgAAU2Pd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmCz-3nVgAAU2Pd.jpg",
+					"url": "https://t.co/rk53kyZwG1",
+					"display_url": "pic.twitter.com/rk53kyZwG1",
+					"expanded_url": "https://twitter.com/themysticstory/status/1324275797528514561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1324256197663289300,
+					"id_str": "1324256197663289344",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EmCz_t1UcAAYhBl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmCz_t1UcAAYhBl.jpg",
+					"url": "https://t.co/rk53kyZwG1",
+					"display_url": "pic.twitter.com/rk53kyZwG1",
+					"expanded_url": "https://twitter.com/themysticstory/status/1324275797528514561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 796,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1182,
+							"h": 1782,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 451,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1324256211756220400,
+					"id_str": "1324256211756220416",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EmC0AiVVgAAKLkS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmC0AiVVgAAKLkS.jpg",
+					"url": "https://t.co/rk53kyZwG1",
+					"display_url": "pic.twitter.com/rk53kyZwG1",
+					"expanded_url": "https://twitter.com/themysticstory/status/1324275797528514561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1160,
+							"h": 1740,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19788,
+			"friends_count": 18,
+			"listed_count": 222,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5406,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 116,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#LUCY]\n\nD-7\nLUCY 2nd Single Album '선잠' 개인 포토📸\n2020.11.12 12PM(KST)\n\n#LUCY #루시 #신예찬 #최상엽 #조원상 #신광일 #선잠 #Snooze @BANDLUCY_mystic https://t.co/rk53kyZwG1"
+	},
+	{
+		"created_at": "Thu Nov 05 09:29:35 +0000 2020",
+		"id": 1324275294295847000,
+		"id_str": "1324282704595222529",
+		"full_text": "[#Wilcox] \n\n𝙒𝙞𝙡𝙘𝙤𝙭 윌콕스 :\n우린 자정을 넘어\n𝘔𝘪𝘥𝘯𝘪𝘨𝘩𝘵 𝘉𝘭𝘶𝘦\n\n2020.11.08.18:00(KST)\n\n #윌콕스 #우린자정을넘어 #MidnightBlue https://t.co/44HS2vW9to",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Wilcox",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "윌콕스",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "우린자정을넘어",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "MidnightBlue",
+					"indices": [
+						88,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324275280198791200,
+					"id_str": "1324275280198791168",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EmDFWd0UcAAbn8U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmDFWd0UcAAbn8U.jpg",
+					"url": "https://t.co/44HS2vW9to",
+					"display_url": "pic.twitter.com/44HS2vW9to",
+					"expanded_url": "https://twitter.com/inplanet/status/1324275294295846912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 796,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1358,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324275280198791200,
+					"id_str": "1324275280198791168",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EmDFWd0UcAAbn8U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmDFWd0UcAAbn8U.jpg",
+					"url": "https://t.co/44HS2vW9to",
+					"display_url": "pic.twitter.com/44HS2vW9to",
+					"expanded_url": "https://twitter.com/inplanet/status/1324275294295846912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 796,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1358,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1324275280198869000,
+					"id_str": "1324275280198868994",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EmDFWd0VoAINZZi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmDFWd0VoAINZZi.jpg",
+					"url": "https://t.co/44HS2vW9to",
+					"display_url": "pic.twitter.com/44HS2vW9to",
+					"expanded_url": "https://twitter.com/inplanet/status/1324275294295846912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 796,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1358,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Promoting Hip Hop, R&B, soul music in Korea. Music Label & Distributor /\nBoni, Hwaji, The Suite, Wilcox, OuiOui, DAMYE / 유통 문의: 02-3472-6680 or DM or Mention",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1477,
+			"friends_count": 796,
+			"listed_count": 64,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 98,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/450885515772825600/JMia4PNt_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/450885515772825600/JMia4PNt_normal.jpeg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Wilcox] \n\n𝙒𝙞𝙡𝙘𝙤𝙭 윌콕스 :\n우린 자정을 넘어\n𝘔𝘪𝘥𝘯𝘪𝘨𝘩𝘵 𝘉𝘭𝘶𝘦\n\n2020.11.08.18:00(KST)\n\n #윌콕스 #우린자정을넘어 #MidnightBlue https://t.co/44HS2vW9to"
+	},
+	{
+		"created_at": "Thu Nov 05 09:29:32 +0000 2020",
+		"id": 1324275264403116000,
+		"id_str": "1324282691538268161",
+		"full_text": "오존 (O3ohn) 새 싱글 \n2020. 11. 10. TUE 12PM (KST) 발매\n\n#오존 #O3ohn #두루두루아티스트컴퍼니 https://t.co/URcGnE5iBE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오존",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "O3ohn",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "두루두루아티스트컴퍼니",
+					"indices": [
+						61,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324152285941780500,
+					"id_str": "1324152285941780480",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EmBVfQgU0AA1mVi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmBVfQgU0AA1mVi.jpg",
+					"url": "https://t.co/URcGnE5iBE",
+					"display_url": "pic.twitter.com/URcGnE5iBE",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1324275264403116032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324152285941780500,
+					"id_str": "1324152285941780480",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/EmBVfQgU0AA1mVi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmBVfQgU0AA1mVi.jpg",
+					"url": "https://t.co/URcGnE5iBE",
+					"display_url": "pic.twitter.com/URcGnE5iBE",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1324275264403116032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3578,
+			"friends_count": 5,
+			"listed_count": 82,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오존 (O3ohn) 새 싱글 \n2020. 11. 10. TUE 12PM (KST) 발매\n\n#오존 #O3ohn #두루두루아티스트컴퍼니 https://t.co/URcGnE5iBE"
+	},
+	{
+		"created_at": "Thu Nov 05 09:29:29 +0000 2020",
+		"id": 1324274010205515800,
+		"id_str": "1324282678452146178",
+		"full_text": "CN(繁): https://t.co/8Skqxk3fI2\nES: https://t.co/Yahu3kPvJm\nIND: https://t.co/2p0fIQRAJ1\nTH: https://t.co/0pGebuWT4K\nVI: https://t.co/JaEM6dPE30\n\n#SUPERJUNIOR_BeyondLIVE #슈퍼주니어 #SUPERJUNIOR #BeyondLIVE #NAVER #VLIVE \n#15thAnniv_WalkTogether #달려온15주년_손잡고걸을까",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SUPERJUNIOR_BeyondLIVE",
+					"indices": [
+						145,
+						168
+					]
+				},
+				{
+					"text": "슈퍼주니어",
+					"indices": [
+						169,
+						175
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						176,
+						188
+					]
+				},
+				{
+					"text": "BeyondLIVE",
+					"indices": [
+						189,
+						200
+					]
+				},
+				{
+					"text": "NAVER",
+					"indices": [
+						201,
+						207
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						208,
+						214
+					]
+				},
+				{
+					"text": "15thAnniv_WalkTogether",
+					"indices": [
+						216,
+						239
+					]
+				},
+				{
+					"text": "달려온15주년_손잡고걸을까",
+					"indices": [
+						240,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8Skqxk3fI2",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=zh_tw",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						7,
+						30
+					]
+				},
+				{
+					"url": "https://t.co/Yahu3kPvJm",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=es",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						35,
+						58
+					]
+				},
+				{
+					"url": "https://t.co/2p0fIQRAJ1",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=id",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/0pGebuWT4K",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=th",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/JaEM6dPE30",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=vi",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1324273685851562000,
+		"in_reply_to_status_id_str": "1324273685851561985",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8598212,
+			"friends_count": 53,
+			"listed_count": 8382,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 707,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CN(繁): https://t.co/8Skqxk3fI2\nES: https://t.co/Yahu3kPvJm\nIND: https://t.co/2p0fIQRAJ1\nTH: https://t.co/0pGebuWT4K\nVI: https://t.co/JaEM6dPE30\n\n#SUPERJUNIOR_BeyondLIVE #슈퍼주니어 #SUPERJUNIOR #BeyondLIVE #NAVER #VLIVE \n#15thAnniv_WalkTogether #달려온15주년_손잡고걸을까"
+	},
+	{
+		"created_at": "Thu Nov 05 09:29:25 +0000 2020",
+		"id": 1324273904253202400,
+		"id_str": "1324282661137981440",
+		"full_text": "CN(繁): https://t.co/8Skqxk3fI2\nES: https://t.co/Yahu3kPvJm\nIND: https://t.co/2p0fIQRAJ1\nTH: https://t.co/0pGebuWT4K\nVI: https://t.co/JaEM6dPE30\n\n#SUPERJUNIOR_BeyondLIVE #슈퍼주니어 #SUPERJUNIOR #BeyondLIVE #NAVER #VLIVE \n#15thAnniv_WalkTogether #달려온15주년_손잡고걸을까",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SUPERJUNIOR_BeyondLIVE",
+					"indices": [
+						145,
+						168
+					]
+				},
+				{
+					"text": "슈퍼주니어",
+					"indices": [
+						169,
+						175
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						176,
+						188
+					]
+				},
+				{
+					"text": "BeyondLIVE",
+					"indices": [
+						189,
+						200
+					]
+				},
+				{
+					"text": "NAVER",
+					"indices": [
+						201,
+						207
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						208,
+						214
+					]
+				},
+				{
+					"text": "15thAnniv_WalkTogether",
+					"indices": [
+						216,
+						239
+					]
+				},
+				{
+					"text": "달려온15주년_손잡고걸을까",
+					"indices": [
+						240,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8Skqxk3fI2",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=zh_tw",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						7,
+						30
+					]
+				},
+				{
+					"url": "https://t.co/Yahu3kPvJm",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=es",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						35,
+						58
+					]
+				},
+				{
+					"url": "https://t.co/2p0fIQRAJ1",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=id",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/0pGebuWT4K",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=th",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/JaEM6dPE30",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000328?lang=vi",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1324273536932851700,
+		"in_reply_to_status_id_str": "1324273536932851714",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8598212,
+			"friends_count": 53,
+			"listed_count": 8382,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 639,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CN(繁): https://t.co/8Skqxk3fI2\nES: https://t.co/Yahu3kPvJm\nIND: https://t.co/2p0fIQRAJ1\nTH: https://t.co/0pGebuWT4K\nVI: https://t.co/JaEM6dPE30\n\n#SUPERJUNIOR_BeyondLIVE #슈퍼주니어 #SUPERJUNIOR #BeyondLIVE #NAVER #VLIVE \n#15thAnniv_WalkTogether #달려온15주년_손잡고걸을까"
+	},
+	{
 		"created_at": "Thu Nov 05 09:11:16 +0000 2020",
 		"id": 1324271595628777500,
 		"id_str": "1324278096976072705",
