@@ -1,6 +1,611 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 06 05:41:22 +0000 2020",
+		"id": 1324587661693231000,
+		"id_str": "1324587661693231104",
+		"full_text": "#소니뮤직코리아 #Sony_Music_Korea\n코가 시려워지는 날씨, 옆구리도 시려운 당신이 들어야할 플레이리스트 | 플리맛집 여기어때?\nhttps://t.co/mcos1cJsgr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소니뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Sony_Music_Korea",
+					"indices": [
+						9,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mcos1cJsgr",
+					"expanded_url": "https://youtu.be/kTVxliPv7n4",
+					"display_url": "youtu.be/kTVxliPv7n4",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#공연일정 #페스티벌 #인디밴드 #내한 #콘서트\n\n문화예술정보 @ArtManagementKR\n뮤직매거진 @Magazine_KR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								115,
+								138
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 242,
+			"friends_count": 431,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#소니뮤직코리아 #Sony_Music_Korea\n코가 시려워지는 날씨, 옆구리도 시려운 당신이 들어야할 플레이리스트 | 플리맛집 여기어때?\nhttps://t.co/mcos1cJsgr"
+	},
+	{
+		"created_at": "Fri Nov 06 05:29:43 +0000 2020",
+		"id": 1324581827592380400,
+		"id_str": "1324584728301838337",
+		"full_text": "미국 LA에 ‘SM 엔터테인먼트 스퀘어’ 등장!\nLA 시의원 “SM과 이수만 총괄 프로듀서의 공헌에 경의”\n\n#SMENTERTAINMENTSQUARE #SOOMANLEE #SMTOWN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMENTERTAINMENTSQUARE",
+					"indices": [
+						61,
+						83
+					]
+				},
+				{
+					"text": "SOOMANLEE",
+					"indices": [
+						84,
+						94
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						95,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1324581825482649600,
+		"in_reply_to_status_id_str": "1324581825482649601",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8600819,
+			"friends_count": 53,
+			"listed_count": 8381,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 147,
+		"favorite_count": 1622,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "미국 LA에 ‘SM 엔터테인먼트 스퀘어’ 등장!\nLA 시의원 “SM과 이수만 총괄 프로듀서의 공헌에 경의”\n\n#SMENTERTAINMENTSQUARE #SOOMANLEE #SMTOWN"
+	},
+	{
+		"created_at": "Fri Nov 06 05:29:38 +0000 2020",
+		"id": 1324581825482649600,
+		"id_str": "1324584706835435520",
+		"full_text": "‘SM Entertainment Square' to Open in Los Angeles! \nLA City Council, \"Expressing our respect for SM and Producer Soo-Man Lee's contributions to K-pop's globalization”\n\n👉🏻https://t.co/Er0XNj3Gzk\n\n#SMENTERTAINMENTSQUARE #SOOMANLEE #SMTOWN https://t.co/2pvfG1znXP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMENTERTAINMENTSQUARE",
+					"indices": [
+						194,
+						216
+					]
+				},
+				{
+					"text": "SOOMANLEE",
+					"indices": [
+						217,
+						227
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						228,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Er0XNj3Gzk",
+					"expanded_url": "http://naver.me/F6zrXtAO",
+					"display_url": "naver.me/F6zrXtAO",
+					"indices": [
+						169,
+						192
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1324581816712360000,
+					"id_str": "1324581816712359936",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/EmHcJPUU8AA9skG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmHcJPUU8AA9skG.jpg",
+					"url": "https://t.co/2pvfG1znXP",
+					"display_url": "pic.twitter.com/2pvfG1znXP",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1324581825482649601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 408,
+							"h": 334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 408,
+							"h": 334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 408,
+							"h": 334,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324581816712360000,
+					"id_str": "1324581816712359936",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/EmHcJPUU8AA9skG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmHcJPUU8AA9skG.jpg",
+					"url": "https://t.co/2pvfG1znXP",
+					"display_url": "pic.twitter.com/2pvfG1znXP",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1324581825482649601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 408,
+							"h": 334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 408,
+							"h": 334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 408,
+							"h": 334,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1324581816720785400,
+					"id_str": "1324581816720785410",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/EmHcJPWVgAI2gIi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmHcJPWVgAI2gIi.jpg",
+					"url": "https://t.co/2pvfG1znXP",
+					"display_url": "pic.twitter.com/2pvfG1znXP",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1324581825482649601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 910,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 910,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 645,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8600819,
+			"friends_count": 53,
+			"listed_count": 8381,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2073,
+		"favorite_count": 9173,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘SM Entertainment Square' to Open in Los Angeles! \nLA City Council, \"Expressing our respect for SM and Producer Soo-Man Lee's contributions to K-pop's globalization”\n\n👉🏻https://t.co/Er0XNj3Gzk\n\n#SMENTERTAINMENTSQUARE #SOOMANLEE #SMTOWN https://t.co/2pvfG1znXP"
+	},
+	{
+		"created_at": "Fri Nov 06 05:29:32 +0000 2020",
+		"id": 1324579616267227100,
+		"id_str": "1324584681166295041",
+		"full_text": "Artist | 홍크\nTitle | 안자려고 안잔게 아니고\nPlace | 젊은달 와이파크\n\n2020년 문화가 있는 날 지역문화콘텐츠특성화사업\n[영월전파사]\n영월의 자연명소와 문화예술공간을 다양한 뮤지션들의 음악으로 소개합니다.\n오름은 9(송재경)과 홍크가 참여 하였습니다.\n\n영상보기: https://t.co/7Iw2s5XoWX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7Iw2s5XoWX",
+					"expanded_url": "https://www.youtube.com/watch?v=IdXFD2d-esY&feature=share",
+					"display_url": "youtube.com/watch?v=IdXFD2…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 717,
+			"friends_count": 335,
+			"listed_count": 14,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1604639217",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Artist | 홍크\nTitle | 안자려고 안잔게 아니고\nPlace | 젊은달 와이파크\n\n2020년 문화가 있는 날 지역문화콘텐츠특성화사업\n[영월전파사]\n영월의 자연명소와 문화예술공간을 다양한 뮤지션들의 음악으로 소개합니다.\n오름은 9(송재경)과 홍크가 참여 하였습니다.\n\n영상보기: https://t.co/7Iw2s5XoWX"
+	},
+	{
 		"created_at": "Fri Nov 06 04:29:34 +0000 2020",
 		"id": 1324563354422145000,
 		"id_str": "1324569589771108354",
