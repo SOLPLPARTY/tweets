@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 06 14:11:16 +0000 2020",
+		"id": 1324706792215961600,
+		"id_str": "1324715982812839939",
+		"full_text": "&lt;사회적거리두기 개편에 따른 \n공연장 방역 상황 안내&gt;\n\n로비, 객석, 화장실을 포함한 공연장 내 대화 / 통화 / 개인위생활동 (양치질, 가글) / 생수를 포함한 음식물의 섭취 등은 가급적 삼가주시고, 안내원 및 방역 관리요원의 안내에 적극 협조를 부탁드립니다\n\n관객여러분의 협조에 감사드립니다 https://t.co/O6bn5uCkfC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324706781835092000,
+					"id_str": "1324706781835091969",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EmJNzKrU4AE4O5f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmJNzKrU4AE4O5f.jpg",
+					"url": "https://t.co/O6bn5uCkfC",
+					"display_url": "pic.twitter.com/O6bn5uCkfC",
+					"expanded_url": "https://twitter.com/yes24stage/status/1324706792215961600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324706781835092000,
+					"id_str": "1324706781835091969",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EmJNzKrU4AE4O5f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmJNzKrU4AE4O5f.jpg",
+					"url": "https://t.co/O6bn5uCkfC",
+					"display_url": "pic.twitter.com/O6bn5uCkfC",
+					"expanded_url": "https://twitter.com/yes24stage/status/1324706792215961600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1324706782049005600,
+					"id_str": "1324706782049005568",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EmJNzLeU8AAhIU6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmJNzLeU8AAhIU6.jpg",
+					"url": "https://t.co/O6bn5uCkfC",
+					"display_url": "pic.twitter.com/O6bn5uCkfC",
+					"expanded_url": "https://twitter.com/yes24stage/status/1324706792215961600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1324706781860302800,
+					"id_str": "1324706781860302848",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EmJNzKxVkAA65V6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmJNzKxVkAA65V6.jpg",
+					"url": "https://t.co/O6bn5uCkfC",
+					"display_url": "pic.twitter.com/O6bn5uCkfC",
+					"expanded_url": "https://twitter.com/yes24stage/status/1324706792215961600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1324706781860298800,
+					"id_str": "1324706781860298754",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EmJNzKxVgAIvzda.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmJNzKxVgAIvzda.jpg",
+					"url": "https://t.co/O6bn5uCkfC",
+					"display_url": "pic.twitter.com/O6bn5uCkfC",
+					"expanded_url": "https://twitter.com/yes24stage/status/1324706792215961600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1104695434893652000,
+			"id_str": "1104695434893651968",
+			"name": "YES24 STAGE_예스24 스테이지",
+			"screen_name": "yes24stage",
+			"location": "대한민국 서울 종로구 대학로12길, 21",
+			"description": "예스24(주)가 운영하는 공연장 운영법인인 예스24라이브홀(주)의 #대학로 공연장 #예스24스테이지 ( #YES24STAGE ) 의 공식 트위터입니다.",
+			"url": "https://t.co/gpVU45TxjE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gpVU45TxjE",
+							"expanded_url": "https://www.yes24stage.com/",
+							"display_url": "yes24stage.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4521,
+			"friends_count": 34,
+			"listed_count": 14,
+			"created_at": "Sun Mar 10 10:48:10 +0000 2019",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1104695434893651968/1585722791",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;사회적거리두기 개편에 따른 \n공연장 방역 상황 안내&gt;\n\n로비, 객석, 화장실을 포함한 공연장 내 대화 / 통화 / 개인위생활동 (양치질, 가글) / 생수를 포함한 음식물의 섭취 등은 가급적 삼가주시고, 안내원 및 방역 관리요원의 안내에 적극 협조를 부탁드립니다\n\n관객여러분의 협조에 감사드립니다 https://t.co/O6bn5uCkfC"
+	},
+	{
 		"created_at": "Fri Nov 06 12:58:14 +0000 2020",
 		"id": 1324682946717098000,
 		"id_str": "1324697603322351624",
