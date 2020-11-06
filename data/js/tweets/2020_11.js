@@ -1,6 +1,431 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 06 12:58:14 +0000 2020",
+		"id": 1324682946717098000,
+		"id_str": "1324697603322351624",
+		"full_text": "[KCON:TACT season 2] 🎬Backstage Behind🎬 \n\n♧ Day 3 \n#ATEEZ #Dreamcatcher #KIMWOOSEOK #LeeEunSang #WOODZ\n\n⏰11/7 (Sat) 20:00 KST \n\n💎 Only for #KCONTACT Members \n\n♣ NONSTOP STREAMING \n▷ #KCON official: https://t.co/XqzsTm5GZH \n▷Mnet K-POP :https://t.co/J388DcSP9L \n\n#KCON2020 https://t.co/j1PJA9tPyq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ATEEZ",
+					"indices": [
+						51,
+						57
+					]
+				},
+				{
+					"text": "Dreamcatcher",
+					"indices": [
+						58,
+						71
+					]
+				},
+				{
+					"text": "KIMWOOSEOK",
+					"indices": [
+						72,
+						83
+					]
+				},
+				{
+					"text": "LeeEunSang",
+					"indices": [
+						84,
+						95
+					]
+				},
+				{
+					"text": "WOODZ",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						139,
+						148
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						262,
+						271
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XqzsTm5GZH",
+					"expanded_url": "https://youtu.be/u0GedSPEuyA",
+					"display_url": "youtu.be/u0GedSPEuyA",
+					"indices": [
+						198,
+						221
+					]
+				},
+				{
+					"url": "https://t.co/J388DcSP9L",
+					"expanded_url": "https://youtu.be/HkpNQvi8gNA",
+					"display_url": "youtu.be/HkpNQvi8gNA",
+					"indices": [
+						236,
+						259
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1324618825128505300,
+					"id_str": "1324618825128505344",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EmH9zaaUcAAO2VV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EmH9zaaUcAAO2VV.jpg",
+					"url": "https://t.co/j1PJA9tPyq",
+					"display_url": "pic.twitter.com/j1PJA9tPyq",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1324682946717097984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324618825128505300,
+					"id_str": "1324618825128505344",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EmH9zaaUcAAO2VV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EmH9zaaUcAAO2VV.jpg",
+					"url": "https://t.co/j1PJA9tPyq",
+					"display_url": "pic.twitter.com/j1PJA9tPyq",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1324682946717097984/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EmH9zaaUcAAO2VV.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON:TACT season 2  Oct 16~25, 2020",
+			"url": "https://t.co/CCEcf5MtP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCEcf5MtP5",
+							"expanded_url": "https://www.youtube.com/KCON",
+							"display_url": "youtube.com/KCON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300577,
+			"friends_count": 67,
+			"listed_count": 902,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1600424283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 620,
+		"favorite_count": 1416,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT season 2] 🎬Backstage Behind🎬 \n\n♧ Day 3 \n#ATEEZ #Dreamcatcher #KIMWOOSEOK #LeeEunSang #WOODZ\n\n⏰11/7 (Sat) 20:00 KST \n\n💎 Only for #KCONTACT Members \n\n♣ NONSTOP STREAMING \n▷ #KCON official: https://t.co/XqzsTm5GZH \n▷Mnet K-POP :https://t.co/J388DcSP9L \n\n#KCON2020 https://t.co/j1PJA9tPyq"
+	},
+	{
+		"created_at": "Fri Nov 06 12:29:29 +0000 2020",
+		"id": 1324680369006874600,
+		"id_str": "1324690365316812801",
+		"full_text": "방금 사진을 게시했습니다 @Rolling hall https://t.co/SstyOeEhJy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Rolling",
+					"name": "Rolling",
+					"id": 15614327,
+					"id_str": "15614327",
+					"indices": [
+						14,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SstyOeEhJy",
+					"expanded_url": "https://www.instagram.com/p/CHPU0tjFQQF/?igshid=1cccw8xa0kpzk",
+					"display_url": "instagram.com/p/CHPU0tjFQQF/…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94343878,
+			"id_str": "94343878",
+			"name": "슈가레코드",
+			"screen_name": "sugar_records",
+			"location": "Seoul, KR",
+			"description": "#달에닿아 #뷰티핸섬 #리썬 #모브닝 #엔분의일 #당기시오 #우리같은사람들 #이프이너프  함께하는 슈가레코드",
+			"url": "https://t.co/MaZwhWtsct",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MaZwhWtsct",
+							"expanded_url": "http://sugar-records.com",
+							"display_url": "sugar-records.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 543,
+			"friends_count": 36,
+			"listed_count": 10,
+			"created_at": "Thu Dec 03 14:51:49 +0000 2009",
+			"favourites_count": 362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94343878/1548148600",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.54845809,
+				126.92004008
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				126.92004008,
+				37.54845809
+			]
+		},
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방금 사진을 게시했습니다 @Rolling hall https://t.co/SstyOeEhJy"
+	},
+	{
 		"created_at": "Fri Nov 06 12:15:30 +0000 2020",
 		"id": 1324686849143644200,
 		"id_str": "1324686849143644161",
