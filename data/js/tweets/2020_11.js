@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 06 07:29:27 +0000 2020",
+		"id": 1324610492866855000,
+		"id_str": "1324614860248854528",
+		"full_text": "NCT celebrates the announcement of SM Entertainment Square in LA!\nWe hope to visit soon!\n\n#SMENTERTAINMENTSQUARE #SMTOWN #NCT #NCTU https://t.co/CKQAWVNjZM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMENTERTAINMENTSQUARE",
+					"indices": [
+						90,
+						112
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						113,
+						120
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "NCTU",
+					"indices": [
+						126,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324609172676096000,
+					"id_str": "1324609172676096001",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EmH1seEU0AIJny2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmH1seEU0AIJny2.jpg",
+					"url": "https://t.co/CKQAWVNjZM",
+					"display_url": "pic.twitter.com/CKQAWVNjZM",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1324610492866854912/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324609172676096000,
+					"id_str": "1324609172676096001",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/EmH1seEU0AIJny2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmH1seEU0AIJny2.jpg",
+					"url": "https://t.co/CKQAWVNjZM",
+					"display_url": "pic.twitter.com/CKQAWVNjZM",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1324610492866854912/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30230,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324609172676096001/vid/1280x720/_X57JcdCz-XWS-fy.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1324609172676096001/pl/NfeJcD6JGfwucqcM.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324609172676096001/vid/480x270/M8uwd102mZFVJ48u.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324609172676096001/vid/640x360/92jffvH8-8fBKQsq.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8601610,
+			"friends_count": 53,
+			"listed_count": 8382,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10023,
+		"favorite_count": 37887,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NCT celebrates the announcement of SM Entertainment Square in LA!\nWe hope to visit soon!\n\n#SMENTERTAINMENTSQUARE #SMTOWN #NCT #NCTU https://t.co/CKQAWVNjZM"
+	},
+	{
 		"created_at": "Fri Nov 06 07:12:01 +0000 2020",
 		"id": 1324610475116683300,
 		"id_str": "1324610475116683264",
