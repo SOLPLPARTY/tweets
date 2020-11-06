@@ -1,6 +1,546 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 06 04:29:34 +0000 2020",
+		"id": 1324563354422145000,
+		"id_str": "1324569589771108354",
+		"full_text": "예매 방법은 아래의 트윗을 참조해주세요.\n\n* 예매 시스템 정책 상 구매 후 환불이 불가능합니다.\n\nhttps://t.co/FlgJ3MhM9M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FlgJ3MhM9M",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1314049756562288640",
+					"display_url": "twitter.com/HIGHJINKXX/sta…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1324561776541773800,
+		"in_reply_to_status_id_str": "1324561776541773824",
+		"in_reply_to_user_id": 985865748638650400,
+		"in_reply_to_user_id_str": "985865748638650368",
+		"in_reply_to_screen_name": "HIGHJINKXX",
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/P2V4wFkAko",
+			"url": "https://t.co/oAPJfxeB46",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAPJfxeB46",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P2V4wFkAko",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 411,
+			"friends_count": 19,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 473,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1314049756562288600,
+		"quoted_status_id_str": "1314049756562288640",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FlgJ3MhM9M",
+			"expanded": "https://twitter.com/HIGHJINKXX/status/1314049756562288640",
+			"display": "twitter.com/HIGHJINKXX/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 08 03:47:30 +0000 2020",
+			"id": 1314049756562288600,
+			"id_str": "1314049756562288640",
+			"full_text": "[Hippo Campus \"Dream Streams\"]\n\n다음주와 다다음주 금요일 진행되는 Hippo Campus의 스트리밍 공연 \"Dream Streams\"의 예매를 위한 가이드입니다.\n\n예매: https://t.co/eeHR790B1C https://t.co/FpB6Ydhnzc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				133
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eeHR790B1C",
+						"expanded_url": "https://noonchorus.com/highjinkx/",
+						"display_url": "noonchorus.com/highjinkx/",
+						"indices": [
+							110,
+							133
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1314048869668278300,
+						"id_str": "1314048869668278274",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/EjxwfB4U0AI1foV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjxwfB4U0AI1foV.jpg",
+						"url": "https://t.co/FpB6Ydhnzc",
+						"display_url": "pic.twitter.com/FpB6Ydhnzc",
+						"expanded_url": "https://twitter.com/HIGHJINKXX/status/1314049756562288640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1314048869668278300,
+						"id_str": "1314048869668278274",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/EjxwfB4U0AI1foV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjxwfB4U0AI1foV.jpg",
+						"url": "https://t.co/FpB6Ydhnzc",
+						"display_url": "pic.twitter.com/FpB6Ydhnzc",
+						"expanded_url": "https://twitter.com/HIGHJINKXX/status/1314049756562288640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1314048905894527000,
+						"id_str": "1314048905894526977",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/EjxwhI1VgAEjoXn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjxwhI1VgAEjoXn.jpg",
+						"url": "https://t.co/FpB6Ydhnzc",
+						"display_url": "pic.twitter.com/FpB6Ydhnzc",
+						"expanded_url": "https://twitter.com/HIGHJINKXX/status/1314049756562288640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1314048953189429200,
+						"id_str": "1314048953189429249",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/Ejxwj5BUcAEPUYe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ejxwj5BUcAEPUYe.jpg",
+						"url": "https://t.co/FpB6Ydhnzc",
+						"display_url": "pic.twitter.com/FpB6Ydhnzc",
+						"expanded_url": "https://twitter.com/HIGHJINKXX/status/1314049756562288640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1314048978971885600,
+						"id_str": "1314048978971885568",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/EjxwlZEVgAAOnm4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjxwlZEVgAAOnm4.jpg",
+						"url": "https://t.co/FpB6Ydhnzc",
+						"display_url": "pic.twitter.com/FpB6Ydhnzc",
+						"expanded_url": "https://twitter.com/HIGHJINKXX/status/1314049756562288640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 985865748638650400,
+				"id_str": "985865748638650368",
+				"name": "HIGHJINKX",
+				"screen_name": "HIGHJINKXX",
+				"location": "대한민국 서울",
+				"description": "https://t.co/P2V4wFkAko",
+				"url": "https://t.co/oAPJfxeB46",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oAPJfxeB46",
+								"expanded_url": "https://www.highjinkxmm.com",
+								"display_url": "highjinkxmm.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/P2V4wFkAko",
+								"expanded_url": "http://highjinkx.com",
+								"display_url": "highjinkx.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 411,
+				"friends_count": 19,
+				"listed_count": 4,
+				"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+				"favourites_count": 418,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 473,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "예매 방법은 아래의 트윗을 참조해주세요.\n\n* 예매 시스템 정책 상 구매 후 환불이 불가능합니다.\n\nhttps://t.co/FlgJ3MhM9M"
+	},
+	{
+		"created_at": "Fri Nov 06 04:29:28 +0000 2020",
+		"id": 1324561776541773800,
+		"id_str": "1324569564143849472",
+		"full_text": "Hippo Campus와는 또 다른 매력을 보여줄 Lupin의 첫 공연에 많은 참여 부탁드립니다!\n\nDate: 2020/11/20 11AM (한국시간)\nTicket: 12 USD (수수료 별도)\n* 첫 스트리밍 이후 72시간 동안 재관람 가능\n\nhttps://t.co/7T4sJj8Y5P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7T4sJj8Y5P",
+					"expanded_url": "http://noonchorus.com/high-jinx-lupin",
+					"display_url": "noonchorus.com/high-jinx-lupin",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1324561772116758500,
+		"in_reply_to_status_id_str": "1324561772116758529",
+		"in_reply_to_user_id": 985865748638650400,
+		"in_reply_to_user_id_str": "985865748638650368",
+		"in_reply_to_screen_name": "HIGHJINKXX",
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/P2V4wFkAko",
+			"url": "https://t.co/oAPJfxeB46",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAPJfxeB46",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P2V4wFkAko",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 411,
+			"friends_count": 19,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 418,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 473,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Hippo Campus와는 또 다른 매력을 보여줄 Lupin의 첫 공연에 많은 참여 부탁드립니다!\n\nDate: 2020/11/20 11AM (한국시간)\nTicket: 12 USD (수수료 별도)\n* 첫 스트리밍 이후 72시간 동안 재관람 가능\n\nhttps://t.co/7T4sJj8Y5P"
+	},
+	{
 		"created_at": "Fri Nov 06 03:44:00 +0000 2020",
 		"id": 1324558125903548400,
 		"id_str": "1324558125903548416",
