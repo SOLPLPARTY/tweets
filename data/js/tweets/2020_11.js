@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 07 11:58:14 +0000 2020",
+		"id": 1325030235411132400,
+		"id_str": "1325044890925928449",
+		"full_text": "[KCON:TACT season 2] BACKSTAGE BEHIND \n\nDAY 3 Behind VOD is AVAILABLE NOW.\nDAY 3 백스테이지 비하인드 VOD를 공개합니다.\n\n#ATEEZ #Dreamcatcher #KIMWOOSEOK #LeeEunSang #WOODZ\n\n▶ KCON official: https://t.co/015AD8n6We\n▶ Mnet K-POP: https://t.co/VRhuZnTIFf\n\n#KCON #KCON2020 #KCONTACT https://t.co/kE8CluhKbv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ATEEZ",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "Dreamcatcher",
+					"indices": [
+						112,
+						125
+					]
+				},
+				{
+					"text": "KIMWOOSEOK",
+					"indices": [
+						126,
+						137
+					]
+				},
+				{
+					"text": "LeeEunSang",
+					"indices": [
+						138,
+						149
+					]
+				},
+				{
+					"text": "WOODZ",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						238,
+						243
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						244,
+						253
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						254,
+						263
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/015AD8n6We",
+					"expanded_url": "https://youtu.be/2fyHO5UUpeg",
+					"display_url": "youtu.be/2fyHO5UUpeg",
+					"indices": [
+						175,
+						198
+					]
+				},
+				{
+					"url": "https://t.co/VRhuZnTIFf",
+					"expanded_url": "https://youtu.be/LS4Wt_v6hig",
+					"display_url": "youtu.be/LS4Wt_v6hig",
+					"indices": [
+						213,
+						236
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1324626513296199700,
+					"id_str": "1324626513296199680",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/EmIEy7EVkAAZXwW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmIEy7EVkAAZXwW.jpg",
+					"url": "https://t.co/kE8CluhKbv",
+					"display_url": "pic.twitter.com/kE8CluhKbv",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1325030235411132419/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324626513296199700,
+					"id_str": "1324626513296199680",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/EmIEy7EVkAAZXwW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmIEy7EVkAAZXwW.jpg",
+					"url": "https://t.co/kE8CluhKbv",
+					"display_url": "pic.twitter.com/kE8CluhKbv",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1325030235411132419/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON:TACT season 2  Oct 16~25, 2020",
+			"url": "https://t.co/CCEcf5MtP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCEcf5MtP5",
+							"expanded_url": "https://www.youtube.com/KCON",
+							"display_url": "youtube.com/KCON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 300842,
+			"friends_count": 67,
+			"listed_count": 901,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1600424283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 302,
+		"favorite_count": 449,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[KCON:TACT season 2] BACKSTAGE BEHIND \n\nDAY 3 Behind VOD is AVAILABLE NOW.\nDAY 3 백스테이지 비하인드 VOD를 공개합니다.\n\n#ATEEZ #Dreamcatcher #KIMWOOSEOK #LeeEunSang #WOODZ\n\n▶ KCON official: https://t.co/015AD8n6We\n▶ Mnet K-POP: https://t.co/VRhuZnTIFf\n\n#KCON #KCON2020 #KCONTACT https://t.co/kE8CluhKbv"
+	},
+	{
 		"created_at": "Sat Nov 07 11:17:00 +0000 2020",
 		"id": 1325034512519196700,
 		"id_str": "1325034512519196672",
