@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 08 01:11:16 +0000 2020",
+		"id": 1325244139412234200,
+		"id_str": "1325244464227561475",
+		"full_text": "이번 주 목요일입니다.\n\n지금 가장 새로운 음악을 들고 찾아온 세 명의 싱어송라이터 '김제형 + 예람 + 전유동'. 세 팀 모두 다른 다채로운 편성(듀오, 트리오, 6인조 풀밴드)으로 진행됩니다.\n\n절찬 예매 중 : https://t.co/H4yFG9tBUq\n(예매 매진 시 현매는 진행하지 않습니다) https://t.co/lGxXD3OOa9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H4yFG9tBUq",
+					"expanded_url": "https://c11.kr/irzd",
+					"display_url": "c11.kr/irzd",
+					"indices": [
+						121,
+						144
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1325244074392121300,
+					"id_str": "1325244074392121344",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EmQ2dtbVcAA1mPK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmQ2dtbVcAA1mPK.jpg",
+					"url": "https://t.co/lGxXD3OOa9",
+					"display_url": "pic.twitter.com/lGxXD3OOa9",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1325244139412234240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1502,
+							"h": 845,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325244074392121300,
+					"id_str": "1325244074392121344",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EmQ2dtbVcAA1mPK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmQ2dtbVcAA1mPK.jpg",
+					"url": "https://t.co/lGxXD3OOa9",
+					"display_url": "pic.twitter.com/lGxXD3OOa9",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1325244139412234240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1502,
+							"h": 845,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8731,
+			"friends_count": 145,
+			"listed_count": 134,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번 주 목요일입니다.\n\n지금 가장 새로운 음악을 들고 찾아온 세 명의 싱어송라이터 '김제형 + 예람 + 전유동'. 세 팀 모두 다른 다채로운 편성(듀오, 트리오, 6인조 풀밴드)으로 진행됩니다.\n\n절찬 예매 중 : https://t.co/H4yFG9tBUq\n(예매 매진 시 현매는 진행하지 않습니다) https://t.co/lGxXD3OOa9"
+	},
+	{
 		"created_at": "Sat Nov 07 23:29:25 +0000 2020",
 		"id": 1325211508477886500,
 		"id_str": "1325218830080204812",
