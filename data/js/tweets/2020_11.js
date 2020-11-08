@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 08 09:29:25 +0000 2020",
+		"id": 1325363310301073400,
+		"id_str": "1325369824638361604",
+		"full_text": "[#Wilcox]\n\n𝙒𝙞𝙡𝙘𝙤𝙭 윌콕스 :\n우린 자정을 넘어\n𝘔𝘪𝘥𝘯𝘪𝘨𝘩𝘵 𝘉𝘭𝘶𝘦\n\n☾\n\n저녁을 지나 한밤의 사랑을 담은 \n\n#윌콕스 #우린자정을넘어 #MidnightBlue https://t.co/zl5pdjT4WZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Wilcox",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "윌콕스",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "우린자정을넘어",
+					"indices": [
+						77,
+						85
+					]
+				},
+				{
+					"text": "MidnightBlue",
+					"indices": [
+						86,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1325363301421772800,
+					"id_str": "1325363301421772801",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EmSi5ouVcAE91s4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmSi5ouVcAE91s4.jpg",
+					"url": "https://t.co/zl5pdjT4WZ",
+					"display_url": "pic.twitter.com/zl5pdjT4WZ",
+					"expanded_url": "https://twitter.com/inplanet/status/1325363310301073408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325363301421772800,
+					"id_str": "1325363301421772801",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EmSi5ouVcAE91s4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmSi5ouVcAE91s4.jpg",
+					"url": "https://t.co/zl5pdjT4WZ",
+					"display_url": "pic.twitter.com/zl5pdjT4WZ",
+					"expanded_url": "https://twitter.com/inplanet/status/1325363310301073408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Promoting Hip Hop, R&B, soul music in Korea. Music Label & Distributor /\nBoni, Hwaji, The Suite, Wilcox, OuiOui, DAMYE / 유통 문의: 02-3472-6680 or DM or Mention",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1474,
+			"friends_count": 795,
+			"listed_count": 64,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 98,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/450885515772825600/JMia4PNt_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/450885515772825600/JMia4PNt_normal.jpeg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Wilcox]\n\n𝙒𝙞𝙡𝙘𝙤𝙭 윌콕스 :\n우린 자정을 넘어\n𝘔𝘪𝘥𝘯𝘪𝘨𝘩𝘵 𝘉𝘭𝘶𝘦\n\n☾\n\n저녁을 지나 한밤의 사랑을 담은 \n\n#윌콕스 #우린자정을넘어 #MidnightBlue https://t.co/zl5pdjT4WZ"
+	},
+	{
 		"created_at": "Sun Nov 08 07:29:25 +0000 2020",
 		"id": 1325328389163503600,
 		"id_str": "1325339625662144512",
