@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 09 12:13:33 +0000 2020",
+		"id": 1325773519511310300,
+		"id_str": "1325773519511310337",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n라비(RAVI) - 낙엽(feat.10CM) LIVE CLIP TEASER\nhttps://t.co/Xk5lyZFpJF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Xk5lyZFpJF",
+					"expanded_url": "https://youtu.be/UmBwyX9h5yA",
+					"display_url": "youtu.be/UmBwyX9h5yA",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#공연일정 #페스티벌 #인디밴드 #내한 #콘서트\n\n문화예술정보 @ArtManagementKR\n뮤직매거진 @Magazine_KR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								115,
+								138
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 245,
+			"friends_count": 434,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n라비(RAVI) - 낙엽(feat.10CM) LIVE CLIP TEASER\nhttps://t.co/Xk5lyZFpJF"
+	},
+	{
+		"created_at": "Mon Nov 09 11:58:15 +0000 2020",
+		"id": 1325755013352681500,
+		"id_str": "1325769668662095872",
+		"full_text": "[KCON:TACT season 2] BACKSTAGE BEHIND \n\nDAY 4 Behind VOD is AVAILABLE NOW.\nDAY 4 백스테이지 비하인드 VOD를 공개합니다.\n#ACE #KIMWOOSEOK #EVERGLOW\n\n▶KCON official: https://t.co/KWZaKCzyYu\n▶ Mnet K-POP: https://t.co/H9CrekLcnM\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/abkckObSuw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ACE",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "KIMWOOSEOK",
+					"indices": [
+						109,
+						120
+					]
+				},
+				{
+					"text": "EVERGLOW",
+					"indices": [
+						121,
+						130
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						211,
+						216
+					]
+				},
+				{
+					"text": "LetsKCON",
+					"indices": [
+						217,
+						226
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						227,
+						236
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						237,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KWZaKCzyYu",
+					"expanded_url": "https://youtu.be/rqX6QsJuDbE",
+					"display_url": "youtu.be/rqX6QsJuDbE",
+					"indices": [
+						148,
+						171
+					]
+				},
+				{
+					"url": "https://t.co/H9CrekLcnM",
+					"expanded_url": "https://youtu.be/cgri26lRfI4",
+					"display_url": "youtu.be/cgri26lRfI4",
+					"indices": [
+						186,
+						209
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1325696140365320200,
+					"id_str": "1325696140365320193",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/EmXRnaaU0AEzJ3T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmXRnaaU0AEzJ3T.jpg",
+					"url": "https://t.co/abkckObSuw",
+					"display_url": "pic.twitter.com/abkckObSuw",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1325755013352681473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325696140365320200,
+					"id_str": "1325696140365320193",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/EmXRnaaU0AEzJ3T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmXRnaaU0AEzJ3T.jpg",
+					"url": "https://t.co/abkckObSuw",
+					"display_url": "pic.twitter.com/abkckObSuw",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1325755013352681473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON:TACT season 2  Oct 16~25, 2020",
+			"url": "https://t.co/CCEcf5MtP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCEcf5MtP5",
+							"expanded_url": "https://www.youtube.com/KCON",
+							"display_url": "youtube.com/KCON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301206,
+			"friends_count": 67,
+			"listed_count": 901,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8469,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1600424283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 266,
+		"favorite_count": 663,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[KCON:TACT season 2] BACKSTAGE BEHIND \n\nDAY 4 Behind VOD is AVAILABLE NOW.\nDAY 4 백스테이지 비하인드 VOD를 공개합니다.\n#ACE #KIMWOOSEOK #EVERGLOW\n\n▶KCON official: https://t.co/KWZaKCzyYu\n▶ Mnet K-POP: https://t.co/H9CrekLcnM\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/abkckObSuw"
+	},
+	{
 		"created_at": "Mon Nov 09 10:29:24 +0000 2020",
 		"id": 1325740638520762400,
 		"id_str": "1325747311847337986",
