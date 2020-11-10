@@ -1,6 +1,650 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 10 11:08:25 +0000 2020",
+		"id": 1326119516695367700,
+		"id_str": "1326119516695367680",
+		"full_text": "#딩고뮤직 #dingo_music\n🚨우당탕탕 주의🚨  씨앗이들이 (CIX) 직접 촬영한 JUNGLE 뮤비 대.공.개⭐️ㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/nyTPEIu76Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nyTPEIu76Y",
+					"expanded_url": "https://youtu.be/rLvz1mBXLk0",
+					"display_url": "youtu.be/rLvz1mBXLk0",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#공연일정 #페스티벌 #인디밴드 #내한 #콘서트\n\n문화예술정보 @ArtManagementKR\n뮤직매거진 @Magazine_KR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								115,
+								138
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 246,
+			"friends_count": 431,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n🚨우당탕탕 주의🚨  씨앗이들이 (CIX) 직접 촬영한 JUNGLE 뮤비 대.공.개⭐️ㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/nyTPEIu76Y"
+	},
+	{
+		"created_at": "Tue Nov 10 10:29:40 +0000 2020",
+		"id": 1326102488248807400,
+		"id_str": "1326109764309438464",
+		"full_text": "[New Album D-1]\n\n이적 정규 6집 《Trace》 𝗔𝗹𝗯𝘂𝗺 𝗦𝗮𝗺𝗽𝗹𝗲𝗿\n𝟮𝟬𝟮𝟬. 𝟭𝟭. 𝟭𝟭. 𝗪𝗘𝗗. 𝟲𝗣𝗠 (𝗞𝗦𝗧)\n\n𝟬𝟳 한강에서 (Interlude)\n𝟬𝟴 민들레, 민들레\n𝟬𝟵 밤\n𝟭𝟬 숫자 (Album Ver.)\n𝟭𝟭 준비\n𝟭𝟮 나침반 (Album Ver.)\n\n@jucklee #이적 #LEEJUCK\n#이적6집 #TRACE #20201111_6PM https://t.co/2VUeUTZynj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이적",
+					"indices": [
+						170,
+						173
+					]
+				},
+				{
+					"text": "LEEJUCK",
+					"indices": [
+						174,
+						182
+					]
+				},
+				{
+					"text": "이적6집",
+					"indices": [
+						183,
+						188
+					]
+				},
+				{
+					"text": "TRACE",
+					"indices": [
+						189,
+						195
+					]
+				},
+				{
+					"text": "20201111_6PM",
+					"indices": [
+						196,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jucklee",
+					"name": "이적 Juck Lee",
+					"id": 51315123,
+					"id_str": "51315123",
+					"indices": [
+						161,
+						169
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326102437753622500,
+					"id_str": "1326102437753622529",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1326102437753622529/pu/img/NHORUWmSe1ZbPS-W.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1326102437753622529/pu/img/NHORUWmSe1ZbPS-W.jpg",
+					"url": "https://t.co/2VUeUTZynj",
+					"display_url": "pic.twitter.com/2VUeUTZynj",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1326102488248807425/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326102437753622500,
+					"id_str": "1326102437753622529",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1326102437753622529/pu/img/NHORUWmSe1ZbPS-W.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1326102437753622529/pu/img/NHORUWmSe1ZbPS-W.jpg",
+					"url": "https://t.co/2VUeUTZynj",
+					"display_url": "pic.twitter.com/2VUeUTZynj",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1326102488248807425/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 97995,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326102437753622529/pu/vid/640x360/7Jwimcz-ZX4ioRgx.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326102437753622529/pu/vid/1280x720/11zHhqUq5PthoxyJ.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326102437753622529/pu/vid/480x270/4t6yB4rlXUnh7Rvw.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1326102437753622529/pu/pl/QvI_5sQh30MStUHz.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1326101946072146000,
+		"in_reply_to_status_id_str": "1326101946072145920",
+		"in_reply_to_user_id": 387577661,
+		"in_reply_to_user_id_str": "387577661",
+		"in_reply_to_screen_name": "musicfarmkorea",
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적 정규 6집 《Trace》 𝟮𝟬𝟮𝟬. 𝟭𝟭. 𝟭𝟭. 𝗪𝗘𝗗. 𝟲𝗣𝗠 (𝗞𝗦𝗧)",
+			"url": "https://t.co/eSVSBHrncV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSVSBHrncV",
+							"expanded_url": "http://www.instagram.com/musicfarmkorea",
+							"display_url": "instagram.com/musicfarmkorea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9174,
+			"friends_count": 5,
+			"listed_count": 111,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1357424393",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[New Album D-1]\n\n이적 정규 6집 《Trace》 𝗔𝗹𝗯𝘂𝗺 𝗦𝗮𝗺𝗽𝗹𝗲𝗿\n𝟮𝟬𝟮𝟬. 𝟭𝟭. 𝟭𝟭. 𝗪𝗘𝗗. 𝟲𝗣𝗠 (𝗞𝗦𝗧)\n\n𝟬𝟳 한강에서 (Interlude)\n𝟬𝟴 민들레, 민들레\n𝟬𝟵 밤\n𝟭𝟬 숫자 (Album Ver.)\n𝟭𝟭 준비\n𝟭𝟮 나침반 (Album Ver.)\n\n@jucklee #이적 #LEEJUCK\n#이적6집 #TRACE #20201111_6PM https://t.co/2VUeUTZynj"
+	},
+	{
+		"created_at": "Tue Nov 10 10:29:34 +0000 2020",
+		"id": 1326101946072146000,
+		"id_str": "1326109738686410754",
+		"full_text": "[New Album D-1]\n\n이적, 정규 6집 《Trace》 𝗔𝗹𝗯𝘂𝗺 𝗦𝗮𝗺𝗽𝗹𝗲𝗿\n𝟮𝟬𝟮𝟬. 𝟭𝟭. 𝟭𝟭. 𝗪𝗘𝗗. 𝟲𝗣𝗠 (𝗞𝗦𝗧)\n\n𝟬𝟭 물\n𝟬𝟮 Whale Song\n𝟬𝟯 흔적\n𝟬𝟰 돌팔매 (feat. 김진표) *𝘵𝘪𝘵𝘭𝘦\n𝟬𝟱 당연한 것들\n𝟬𝟲 숨\n\n@jucklee #이적 #LEEJUCK\n#이적6집 #TRACE #20201111_6PM https://t.co/3rAN7JsyKk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이적",
+					"indices": [
+						155,
+						158
+					]
+				},
+				{
+					"text": "LEEJUCK",
+					"indices": [
+						159,
+						167
+					]
+				},
+				{
+					"text": "이적6집",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "TRACE",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "20201111_6PM",
+					"indices": [
+						181,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jucklee",
+					"name": "이적 Juck Lee",
+					"id": 51315123,
+					"id_str": "51315123",
+					"indices": [
+						146,
+						154
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326101892334710800,
+					"id_str": "1326101892334710784",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1326101892334710784/pu/img/3Z8BzTGfuO4uSAVC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1326101892334710784/pu/img/3Z8BzTGfuO4uSAVC.jpg",
+					"url": "https://t.co/3rAN7JsyKk",
+					"display_url": "pic.twitter.com/3rAN7JsyKk",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1326101946072145920/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326101892334710800,
+					"id_str": "1326101892334710784",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1326101892334710784/pu/img/3Z8BzTGfuO4uSAVC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1326101892334710784/pu/img/3Z8BzTGfuO4uSAVC.jpg",
+					"url": "https://t.co/3rAN7JsyKk",
+					"display_url": "pic.twitter.com/3rAN7JsyKk",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1326101946072145920/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 99972,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326101892334710784/pu/vid/480x270/5_DmS8BN_R8ohz2M.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326101892334710784/pu/vid/1280x720/F1M3kBPBUUo5Z9Ju.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326101892334710784/pu/vid/640x360/DFjYFZa1ODKsBvFb.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1326101892334710784/pu/pl/9DETOeCv4U-S1OwD.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적 정규 6집 《Trace》 𝟮𝟬𝟮𝟬. 𝟭𝟭. 𝟭𝟭. 𝗪𝗘𝗗. 𝟲𝗣𝗠 (𝗞𝗦𝗧)",
+			"url": "https://t.co/eSVSBHrncV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSVSBHrncV",
+							"expanded_url": "http://www.instagram.com/musicfarmkorea",
+							"display_url": "instagram.com/musicfarmkorea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9174,
+			"friends_count": 5,
+			"listed_count": 111,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1357424393",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[New Album D-1]\n\n이적, 정규 6집 《Trace》 𝗔𝗹𝗯𝘂𝗺 𝗦𝗮𝗺𝗽𝗹𝗲𝗿\n𝟮𝟬𝟮𝟬. 𝟭𝟭. 𝟭𝟭. 𝗪𝗘𝗗. 𝟲𝗣𝗠 (𝗞𝗦𝗧)\n\n𝟬𝟭 물\n𝟬𝟮 Whale Song\n𝟬𝟯 흔적\n𝟬𝟰 돌팔매 (feat. 김진표) *𝘵𝘪𝘵𝘭𝘦\n𝟬𝟱 당연한 것들\n𝟬𝟲 숨\n\n@jucklee #이적 #LEEJUCK\n#이적6집 #TRACE #20201111_6PM https://t.co/3rAN7JsyKk"
+	},
+	{
 		"created_at": "Tue Nov 10 09:57:45 +0000 2020",
 		"id": 1326101733517516800,
 		"id_str": "1326101733517516800",
