@@ -1,6 +1,781 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 10 14:11:27 +0000 2020",
+		"id": 1326164421622726700,
+		"id_str": "1326165577149403137",
+		"full_text": "#문빛 #로니추 #정진우\n#한살차이 #아월 #OurR #모트\n#씬디프레젠트 #XINDIEPRESENTS\n#레드빅스페이스 #벨로주홍대 #씬디티켓라운지 https://t.co/VBDQEVLIvT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문빛",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "로니추",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "정진우",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "한살차이",
+					"indices": [
+						14,
+						19
+					]
+				},
+				{
+					"text": "아월",
+					"indices": [
+						20,
+						23
+					]
+				},
+				{
+					"text": "OurR",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"text": "모트",
+					"indices": [
+						30,
+						33
+					]
+				},
+				{
+					"text": "씬디프레젠트",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"text": "XINDIEPRESENTS",
+					"indices": [
+						42,
+						57
+					]
+				},
+				{
+					"text": "레드빅스페이스",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"text": "벨로주홍대",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "씬디티켓라운지",
+					"indices": [
+						74,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326164414731415600,
+					"id_str": "1326164414731415560",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/Emd7gkXUcAgIuIK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emd7gkXUcAgIuIK.jpg",
+					"url": "https://t.co/VBDQEVLIvT",
+					"display_url": "pic.twitter.com/VBDQEVLIvT",
+					"expanded_url": "https://twitter.com/xindieticket/status/1326164421622726658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326164414731415600,
+					"id_str": "1326164414731415560",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/Emd7gkXUcAgIuIK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emd7gkXUcAgIuIK.jpg",
+					"url": "https://t.co/VBDQEVLIvT",
+					"display_url": "pic.twitter.com/VBDQEVLIvT",
+					"expanded_url": "https://twitter.com/xindieticket/status/1326164421622726658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1326164414727270400,
+					"id_str": "1326164414727270405",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/Emd7gkWVMAU9ota.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emd7gkWVMAU9ota.jpg",
+					"url": "https://t.co/VBDQEVLIvT",
+					"display_url": "pic.twitter.com/VBDQEVLIvT",
+					"expanded_url": "https://twitter.com/xindieticket/status/1326164421622726658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1326164414731411500,
+					"id_str": "1326164414731411458",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/Emd7gkXUYAIk0q7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emd7gkXUYAIk0q7.jpg",
+					"url": "https://t.co/VBDQEVLIvT",
+					"display_url": "pic.twitter.com/VBDQEVLIvT",
+					"expanded_url": "https://twitter.com/xindieticket/status/1326164421622726658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1326164291263717400,
+		"in_reply_to_status_id_str": "1326164291263717382",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2795,
+			"friends_count": 2695,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#문빛 #로니추 #정진우\n#한살차이 #아월 #OurR #모트\n#씬디프레젠트 #XINDIEPRESENTS\n#레드빅스페이스 #벨로주홍대 #씬디티켓라운지 https://t.co/VBDQEVLIvT"
+	},
+	{
+		"created_at": "Tue Nov 10 14:11:23 +0000 2020",
+		"id": 1326164291263717400,
+		"id_str": "1326165559843704832",
+		"full_text": "[1일차 공연 종료!]\n\n11월 10일부터 11일까지 양일간 개최되는 '2020 XINDIE PRESENTS vol.6' 1일차 공연이 마무리되었습니다. 추운 날씨에 찾아와주신 모든 관객분들에게 감사드립니다. https://t.co/qb7lJxyyPd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326164284548640800,
+					"id_str": "1326164284548640769",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Emd7Y_ZU8AEbpCw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emd7Y_ZU8AEbpCw.jpg",
+					"url": "https://t.co/qb7lJxyyPd",
+					"display_url": "pic.twitter.com/qb7lJxyyPd",
+					"expanded_url": "https://twitter.com/xindieticket/status/1326164291263717382/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326164284548640800,
+					"id_str": "1326164284548640769",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Emd7Y_ZU8AEbpCw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emd7Y_ZU8AEbpCw.jpg",
+					"url": "https://t.co/qb7lJxyyPd",
+					"display_url": "pic.twitter.com/qb7lJxyyPd",
+					"expanded_url": "https://twitter.com/xindieticket/status/1326164291263717382/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1326164284552802300,
+					"id_str": "1326164284552802304",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Emd7Y_aUcAAPTZ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emd7Y_aUcAAPTZ_.jpg",
+					"url": "https://t.co/qb7lJxyyPd",
+					"display_url": "pic.twitter.com/qb7lJxyyPd",
+					"expanded_url": "https://twitter.com/xindieticket/status/1326164291263717382/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1326164284552851500,
+					"id_str": "1326164284552851458",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/Emd7Y_aVMAI7PVN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emd7Y_aVMAI7PVN.jpg",
+					"url": "https://t.co/qb7lJxyyPd",
+					"display_url": "pic.twitter.com/qb7lJxyyPd",
+					"expanded_url": "https://twitter.com/xindieticket/status/1326164291263717382/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2795,
+			"friends_count": 2695,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[1일차 공연 종료!]\n\n11월 10일부터 11일까지 양일간 개최되는 '2020 XINDIE PRESENTS vol.6' 1일차 공연이 마무리되었습니다. 추운 날씨에 찾아와주신 모든 관객분들에게 감사드립니다. https://t.co/qb7lJxyyPd"
+	},
+	{
+		"created_at": "Tue Nov 10 14:11:18 +0000 2020",
+		"id": 1326142335147790300,
+		"id_str": "1326165542483464192",
+		"full_text": "이하진작가의 캘리그라피 작품으로 제작한 엽서 &lt; 힐링 글 엽서 시리즈 B 희로애락 &gt; 이 공상온도에 입고되었어요! 공상온도 스토어에서 만나보세요!\n.\nhttps://t.co/d7i5lM9g1E\nhttps://t.co/XipgX92DRv\nㅡ\n#힐링글엽서시리즈 #희로애락 #이하진 #엽서 @공상온도 https://t.co/yyoMv6rFX4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "힐링글엽서시리즈",
+					"indices": [
+						140,
+						149
+					]
+				},
+				{
+					"text": "희로애락",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "이하진",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "엽서",
+					"indices": [
+						161,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7i5lM9g1E",
+					"expanded_url": "http://www.gongsangondo.com",
+					"display_url": "gongsangondo.com",
+					"indices": [
+						90,
+						113
+					]
+				},
+				{
+					"url": "https://t.co/XipgX92DRv",
+					"expanded_url": "http://smartstore.naver.com/gongsangondo",
+					"display_url": "smartstore.naver.com/gongsangondo",
+					"indices": [
+						114,
+						137
+					]
+				},
+				{
+					"url": "https://t.co/yyoMv6rFX4",
+					"expanded_url": "https://www.instagram.com/p/CHaRknMJybe/?igshid=1f81sk7pebh9l",
+					"display_url": "instagram.com/p/CHaRknMJybe/…",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 362,
+			"friends_count": 192,
+			"listed_count": 8,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1068,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2624,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.55764455,
+				126.91971391
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				126.91971391,
+				37.55764455
+			]
+		},
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이하진작가의 캘리그라피 작품으로 제작한 엽서 &lt; 힐링 글 엽서 시리즈 B 희로애락 &gt; 이 공상온도에 입고되었어요! 공상온도 스토어에서 만나보세요!\n.\nhttps://t.co/d7i5lM9g1E\nhttps://t.co/XipgX92DRv\nㅡ\n#힐링글엽서시리즈 #희로애락 #이하진 #엽서 @공상온도 https://t.co/yyoMv6rFX4"
+	},
+	{
 		"created_at": "Tue Nov 10 12:29:24 +0000 2020",
 		"id": 1326136164474974200,
 		"id_str": "1326139898525585414",
