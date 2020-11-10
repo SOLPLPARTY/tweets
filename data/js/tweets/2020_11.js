@@ -1,6 +1,484 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 10 11:58:18 +0000 2020",
+		"id": 1326117402946384000,
+		"id_str": "1326132069785886720",
+		"full_text": "[KCON:TACT season 2] 🎬Backstage Behind🎬 \n\n♧ Day 5\n#WEi #WOODZ\n\n⏰11/11 (Tue) 20:00 KST \n\n💎 Only for KCON:TACT Members \n\n♣ NONSTOP STREAMING \n▷KCON official: https://t.co/XqzsTlO5B7 \n▷Mnet K-POP :https://t.co/J388Ddaq1j \n\n#KCONTACT #KCON #KCON2020 https://t.co/inOZS956ZG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WEi",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "WOODZ",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						220,
+						229
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						230,
+						235
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						236,
+						245
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XqzsTlO5B7",
+					"expanded_url": "https://youtu.be/u0GedSPEuyA",
+					"display_url": "youtu.be/u0GedSPEuyA",
+					"indices": [
+						156,
+						179
+					]
+				},
+				{
+					"url": "https://t.co/J388Ddaq1j",
+					"expanded_url": "https://youtu.be/HkpNQvi8gNA",
+					"display_url": "youtu.be/HkpNQvi8gNA",
+					"indices": [
+						194,
+						217
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1325667058676232200,
+					"id_str": "1325667058676232192",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EmW3KorVcAAHr3T.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EmW3KorVcAAHr3T.jpg",
+					"url": "https://t.co/inOZS956ZG",
+					"display_url": "pic.twitter.com/inOZS956ZG",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1326117402946383877/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325667058676232200,
+					"id_str": "1325667058676232192",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EmW3KorVcAAHr3T.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EmW3KorVcAAHr3T.jpg",
+					"url": "https://t.co/inOZS956ZG",
+					"display_url": "pic.twitter.com/inOZS956ZG",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1326117402946383877/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EmW3KorVcAAHr3T.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON:TACT season 2  Oct 16~25, 2020",
+			"url": "https://t.co/CCEcf5MtP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCEcf5MtP5",
+							"expanded_url": "https://www.youtube.com/KCON",
+							"display_url": "youtube.com/KCON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301396,
+			"friends_count": 67,
+			"listed_count": 900,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1600424283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 248,
+		"favorite_count": 461,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT season 2] 🎬Backstage Behind🎬 \n\n♧ Day 5\n#WEi #WOODZ\n\n⏰11/11 (Tue) 20:00 KST \n\n💎 Only for KCON:TACT Members \n\n♣ NONSTOP STREAMING \n▷KCON official: https://t.co/XqzsTlO5B7 \n▷Mnet K-POP :https://t.co/J388Ddaq1j \n\n#KCONTACT #KCON #KCON2020 https://t.co/inOZS956ZG"
+	},
+	{
+		"created_at": "Tue Nov 10 11:58:15 +0000 2020",
+		"id": 1326117402900373500,
+		"id_str": "1326132056712224774",
+		"full_text": "[KCON:TACT season 2] BACKSTAGE BEHIND \n\nDAY 5 Behind VOD is AVAILABLE NOW.\nDAY 5 백스테이지 비하인드 VOD를 공개합니다.\n\n#WOODZ #WEi\n\n▶ KCON official: https://t.co/w4urB9sNVh\n▶ Mnet K-POP: https://t.co/FaAWGfjLNl\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/RRUZErhAfY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WOODZ",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "WEi",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						198,
+						203
+					]
+				},
+				{
+					"text": "LetsKCON",
+					"indices": [
+						204,
+						213
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						214,
+						223
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						224,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w4urB9sNVh",
+					"expanded_url": "https://youtu.be/WRU6WhClZOA",
+					"display_url": "youtu.be/WRU6WhClZOA",
+					"indices": [
+						135,
+						158
+					]
+				},
+				{
+					"url": "https://t.co/FaAWGfjLNl",
+					"expanded_url": "https://youtu.be/e54WuwmSBEY",
+					"display_url": "youtu.be/e54WuwmSBEY",
+					"indices": [
+						173,
+						196
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326105926638530600,
+					"id_str": "1326105926638530561",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/EmdGUHPUcAE5BKv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmdGUHPUcAE5BKv.jpg",
+					"url": "https://t.co/RRUZErhAfY",
+					"display_url": "pic.twitter.com/RRUZErhAfY",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1326117402900373504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326105926638530600,
+					"id_str": "1326105926638530561",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/EmdGUHPUcAE5BKv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmdGUHPUcAE5BKv.jpg",
+					"url": "https://t.co/RRUZErhAfY",
+					"display_url": "pic.twitter.com/RRUZErhAfY",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1326117402900373504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON:TACT season 2  Oct 16~25, 2020",
+			"url": "https://t.co/CCEcf5MtP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCEcf5MtP5",
+							"expanded_url": "https://www.youtube.com/KCON",
+							"display_url": "youtube.com/KCON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301396,
+			"friends_count": 67,
+			"listed_count": 900,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1600424283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 268,
+		"favorite_count": 419,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[KCON:TACT season 2] BACKSTAGE BEHIND \n\nDAY 5 Behind VOD is AVAILABLE NOW.\nDAY 5 백스테이지 비하인드 VOD를 공개합니다.\n\n#WOODZ #WEi\n\n▶ KCON official: https://t.co/w4urB9sNVh\n▶ Mnet K-POP: https://t.co/FaAWGfjLNl\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/RRUZErhAfY"
+	},
+	{
 		"created_at": "Tue Nov 10 11:08:25 +0000 2020",
 		"id": 1326119516695367700,
 		"id_str": "1326119516695367680",
