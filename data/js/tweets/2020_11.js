@@ -1,6 +1,491 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 11 05:08:27 +0000 2020",
+		"id": 1326389380404174800,
+		"id_str": "1326391315890917377",
+		"full_text": "📢MMA2020 TOP10 Voting has begun!\n#MMA2020 TOP10 투표가 시작되었습니다!\n1차 출석체크 #이벤트 도 많관부💚 (*투표 후 매일 즉석당첨 경품 응모 가능)\n\n🖇Vote link :: https://t.co/tiRdPXzaPR\n🖇Event link :: https://t.co/eH4BVARfxz\n\n#MMA #MELONMUSICAWARDS #TOP10 #멜론뮤직어워드 #멜뮤 https://t.co/GQIEsd1tw1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MMA2020",
+					"indices": [
+						33,
+						41
+					]
+				},
+				{
+					"text": "이벤트",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "MMA",
+					"indices": [
+						185,
+						189
+					]
+				},
+				{
+					"text": "MELONMUSICAWARDS",
+					"indices": [
+						190,
+						207
+					]
+				},
+				{
+					"text": "TOP10",
+					"indices": [
+						208,
+						214
+					]
+				},
+				{
+					"text": "멜론뮤직어워드",
+					"indices": [
+						215,
+						223
+					]
+				},
+				{
+					"text": "멜뮤",
+					"indices": [
+						224,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tiRdPXzaPR",
+					"expanded_url": "https://awards.melon.com",
+					"display_url": "awards.melon.com",
+					"indices": [
+						121,
+						144
+					]
+				},
+				{
+					"url": "https://t.co/eH4BVARfxz",
+					"expanded_url": "http://melon.com/vote1attend",
+					"display_url": "melon.com/vote1attend",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326389373529677800,
+					"id_str": "1326389373529677825",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/EmhIG5MW4AEmiDT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmhIG5MW4AEmiDT.jpg",
+					"url": "https://t.co/GQIEsd1tw1",
+					"display_url": "pic.twitter.com/GQIEsd1tw1",
+					"expanded_url": "https://twitter.com/melon/status/1326389380404174851/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326389373529677800,
+					"id_str": "1326389373529677825",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/EmhIG5MW4AEmiDT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmhIG5MW4AEmiDT.jpg",
+					"url": "https://t.co/GQIEsd1tw1",
+					"display_url": "pic.twitter.com/GQIEsd1tw1",
+					"expanded_url": "https://twitter.com/melon/status/1326389380404174851/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118953366,
+			"id_str": "118953366",
+			"name": "Melon",
+			"screen_name": "melon",
+			"location": "Seoul, Korea",
+			"description": "음악이 필요한 순간 '멜론'",
+			"url": "http://t.co/Wo8qZOx1KA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Wo8qZOx1KA",
+							"expanded_url": "http://www.melon.com",
+							"display_url": "melon.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 70320,
+			"friends_count": 46,
+			"listed_count": 581,
+			"created_at": "Tue Mar 02 06:13:44 +0000 2010",
+			"favourites_count": 143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118953366/1592531049",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 84,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢MMA2020 TOP10 Voting has begun!\n#MMA2020 TOP10 투표가 시작되었습니다!\n1차 출석체크 #이벤트 도 많관부💚 (*투표 후 매일 즉석당첨 경품 응모 가능)\n\n🖇Vote link :: https://t.co/tiRdPXzaPR\n🖇Event link :: https://t.co/eH4BVARfxz\n\n#MMA #MELONMUSICAWARDS #TOP10 #멜론뮤직어워드 #멜뮤 https://t.co/GQIEsd1tw1"
+	},
+	{
+		"created_at": "Wed Nov 11 04:58:15 +0000 2020",
+		"id": 1326381441576546300,
+		"id_str": "1326388747634683905",
+		"full_text": "[KCON:TACT season 2] 🎬Backstage Behind🎬 \n\n♧ Day 5\n#WEi #WOODZ\n\n⏰11/11 (Wed) 20:00 KST \n\n💎 Only for KCON:TACT Members \n\n♣ NONSTOP STREAMING \n▷KCON official: https://t.co/XqzsTm5GZH \n▷Mnet K-POP :https://t.co/J388DcSP9L \n\n#KCONTACT #KCON #KCON2020 https://t.co/fgJ9ns4mxE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WEi",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "WOODZ",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						220,
+						229
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						230,
+						235
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						236,
+						245
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XqzsTm5GZH",
+					"expanded_url": "https://youtu.be/u0GedSPEuyA",
+					"display_url": "youtu.be/u0GedSPEuyA",
+					"indices": [
+						156,
+						179
+					]
+				},
+				{
+					"url": "https://t.co/J388DcSP9L",
+					"expanded_url": "https://youtu.be/HkpNQvi8gNA",
+					"display_url": "youtu.be/HkpNQvi8gNA",
+					"indices": [
+						194,
+						217
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326381394713579500,
+					"id_str": "1326381394713579521",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EmhA2dyXEAEkzny.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EmhA2dyXEAEkzny.jpg",
+					"url": "https://t.co/fgJ9ns4mxE",
+					"display_url": "pic.twitter.com/fgJ9ns4mxE",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1326381441576546306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326381394713579500,
+					"id_str": "1326381394713579521",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EmhA2dyXEAEkzny.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EmhA2dyXEAEkzny.jpg",
+					"url": "https://t.co/fgJ9ns4mxE",
+					"display_url": "pic.twitter.com/fgJ9ns4mxE",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1326381441576546306/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EmhA2dyXEAEkzny.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON:TACT season 2  Oct 16~25, 2020",
+			"url": "https://t.co/CCEcf5MtP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCEcf5MtP5",
+							"expanded_url": "https://www.youtube.com/KCON",
+							"display_url": "youtube.com/KCON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301509,
+			"friends_count": 67,
+			"listed_count": 901,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1600424283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 93,
+		"favorite_count": 311,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT season 2] 🎬Backstage Behind🎬 \n\n♧ Day 5\n#WEi #WOODZ\n\n⏰11/11 (Wed) 20:00 KST \n\n💎 Only for KCON:TACT Members \n\n♣ NONSTOP STREAMING \n▷KCON official: https://t.co/XqzsTm5GZH \n▷Mnet K-POP :https://t.co/J388DcSP9L \n\n#KCONTACT #KCON #KCON2020 https://t.co/fgJ9ns4mxE"
+	},
+	{
 		"created_at": "Wed Nov 11 03:29:52 +0000 2020",
 		"id": 1326361505932120000,
 		"id_str": "1326366507648098304",
