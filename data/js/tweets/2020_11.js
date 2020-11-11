@@ -1,10 +1,105 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 11 02:11:20 +0000 2020",
+		"id": 1326346527393001500,
+		"id_str": "1326346741218684930",
+		"full_text": "&lt;현장티켓 판매안내&gt;\n\n✨현장티켓 판매처 : 씬디 티켓라운지(서교동 405-2 앞 유리구조물')\n✨현장티켓 가격 : 20,000원(카드 결제만 가능)\n*금일 2개의 공연 모두 현장 티켓 판매가 진행됩니다.\n*15시부터 씬디 티켓라운지에서 선착순으로 구매하실 수 있으며, 매진 시 구매가 불가능할 수 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1326346525509775400,
+		"in_reply_to_status_id_str": "1326346525509775360",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2796,
+			"friends_count": 2694,
+			"listed_count": 23,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5346,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "&lt;현장티켓 판매안내&gt;\n\n✨현장티켓 판매처 : 씬디 티켓라운지(서교동 405-2 앞 유리구조물')\n✨현장티켓 가격 : 20,000원(카드 결제만 가능)\n*금일 2개의 공연 모두 현장 티켓 판매가 진행됩니다.\n*15시부터 씬디 티켓라운지에서 선착순으로 구매하실 수 있으며, 매진 시 구매가 불가능할 수 있습니다."
+	},
+	{
 		"created_at": "Tue Nov 10 14:29:24 +0000 2020",
 		"id": 1326163936966660000,
 		"id_str": "1326170097493438464",
-		"full_text": "엔분의일 노래와 함께 하는🧜‍♂️인어왕자: 더 비기닝 🧜‍♂️ 티저 공개ㅣ문빈, 인어왕자로 돌아오다🔥 [인어왕자: 더 비기닝] TEASER https://t.co/Jkn5tF2beF 출처 @YouTube",
+		"full_text": "엔분의일 노래와 함께 하는🧜♂️인어왕자: 더 비기닝 🧜♂️ 티저 공개ㅣ문빈, 인어왕자로 돌아오다🔥 [인어왕자: 더 비기닝] TEASER https://t.co/Jkn5tF2beF 출처 @YouTube",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -115,7 +210,7 @@ Grailbird.data.tweets_2020_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "엔분의일 노래와 함께 하는🧜‍♂️인어왕자: 더 비기닝 🧜‍♂️ 티저 공개ㅣ문빈, 인어왕자로 돌아오다🔥 [인어왕자: 더 비기닝] TEASER https://t.co/Jkn5tF2beF 출처 @YouTube"
+		"text": "엔분의일 노래와 함께 하는🧜♂️인어왕자: 더 비기닝 🧜♂️ 티저 공개ㅣ문빈, 인어왕자로 돌아오다🔥 [인어왕자: 더 비기닝] TEASER https://t.co/Jkn5tF2beF 출처 @YouTube"
 	},
 	{
 		"created_at": "Tue Nov 10 14:11:27 +0000 2020",
