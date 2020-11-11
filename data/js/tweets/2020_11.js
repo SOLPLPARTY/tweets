@@ -1,6 +1,1349 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 11 03:29:52 +0000 2020",
+		"id": 1326361505932120000,
+		"id_str": "1326366507648098304",
+		"full_text": "#한백 [NO MATTER]\n\n잘 표현하지 않는 마음과 주변 사람들을 잘 받아들이지 못하는 모습, 그리고 항상 하지 못했지만 여전히 하고 싶은 말들을 담았다.\n\n✚ 앨범 자세히 보기: https://t.co/lQolfe7S3o https://t.co/kQxQIoTyAH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "한백",
+					"indices": [
+						0,
+						3
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lQolfe7S3o",
+					"expanded_url": "https://bit.ly/2UaYSw3",
+					"display_url": "bit.ly/2UaYSw3",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1325973510846468000,
+					"id_str": "1325973510846468096",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/EmbN4f-U0AANjYs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmbN4f-U0AANjYs.jpg",
+					"url": "https://t.co/kQxQIoTyAH",
+					"display_url": "pic.twitter.com/kQxQIoTyAH",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1326361505932120074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325973510846468000,
+					"id_str": "1325973510846468096",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/EmbN4f-U0AANjYs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmbN4f-U0AANjYs.jpg",
+					"url": "https://t.co/kQxQIoTyAH",
+					"display_url": "pic.twitter.com/kQxQIoTyAH",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1326361505932120074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9512,
+			"friends_count": 2874,
+			"listed_count": 248,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 954,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1603861113",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#한백 [NO MATTER]\n\n잘 표현하지 않는 마음과 주변 사람들을 잘 받아들이지 못하는 모습, 그리고 항상 하지 못했지만 여전히 하고 싶은 말들을 담았다.\n\n✚ 앨범 자세히 보기: https://t.co/lQolfe7S3o https://t.co/kQxQIoTyAH"
+	},
+	{
+		"created_at": "Wed Nov 11 03:29:47 +0000 2020",
+		"id": 1326359908900462600,
+		"id_str": "1326366486148112384",
+		"full_text": "[New Album D-DAY]\n\n스페셜 코멘터리 필름\n𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝘾𝙤𝙢𝙢𝙚𝙣𝙩𝙖𝙧𝙮 𝙁𝙞𝙡𝙢\n𝙬𝙞𝙩𝙝 이적 &amp; 김진표 (𝙏𝙚𝙖𝙨𝙚𝙧)\n\n이적, 정규 6집 《Trace》\n𝟮𝟬𝟮𝟬. 𝟭𝟭. 𝟭𝟭. 𝗪𝗘𝗗. 𝟲𝗣𝗠 (𝗞𝗦𝗧)\n\n@jucklee #이적 #LEEJUCK #김진표 #JP\n#정규6집 #TRACE #돌팔매 #20201111_6PM https://t.co/uubCuWEBFm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이적",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "LEEJUCK",
+					"indices": [
+						144,
+						152
+					]
+				},
+				{
+					"text": "김진표",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "JP",
+					"indices": [
+						158,
+						161
+					]
+				},
+				{
+					"text": "정규6집",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "TRACE",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "돌팔매",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "20201111_6PM",
+					"indices": [
+						180,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jucklee",
+					"name": "이적 Juck Lee",
+					"id": 51315123,
+					"id_str": "51315123",
+					"indices": [
+						131,
+						139
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326359853481160700,
+					"id_str": "1326359853481160704",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1326359853481160704/pu/img/0xe-QeliVt6V1bvo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1326359853481160704/pu/img/0xe-QeliVt6V1bvo.jpg",
+					"url": "https://t.co/uubCuWEBFm",
+					"display_url": "pic.twitter.com/uubCuWEBFm",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1326359908900462593/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326359853481160700,
+					"id_str": "1326359853481160704",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1326359853481160704/pu/img/0xe-QeliVt6V1bvo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1326359853481160704/pu/img/0xe-QeliVt6V1bvo.jpg",
+					"url": "https://t.co/uubCuWEBFm",
+					"display_url": "pic.twitter.com/uubCuWEBFm",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1326359908900462593/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59051,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326359853481160704/pu/vid/640x360/CIbB3sYYLl9P6oRN.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326359853481160704/pu/vid/1280x720/PvkVU-EdOnqN_0_Y.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1326359853481160704/pu/pl/q9sbRHzfQBRESdKT.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326359853481160704/pu/vid/480x270/g2ldy2SqzL-abnuY.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적 정규 6집 《Trace》 𝟮𝟬𝟮𝟬. 𝟭𝟭. 𝟭𝟭. 𝗪𝗘𝗗. 𝟲𝗣𝗠 (𝗞𝗦𝗧)",
+			"url": "https://t.co/eSVSBHrncV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSVSBHrncV",
+							"expanded_url": "http://www.instagram.com/musicfarmkorea",
+							"display_url": "instagram.com/musicfarmkorea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9171,
+			"friends_count": 5,
+			"listed_count": 111,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1357424393",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[New Album D-DAY]\n\n스페셜 코멘터리 필름\n𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝘾𝙤𝙢𝙢𝙚𝙣𝙩𝙖𝙧𝙮 𝙁𝙞𝙡𝙢\n𝙬𝙞𝙩𝙝 이적 &amp; 김진표 (𝙏𝙚𝙖𝙨𝙚𝙧)\n\n이적, 정규 6집 《Trace》\n𝟮𝟬𝟮𝟬. 𝟭𝟭. 𝟭𝟭. 𝗪𝗘𝗗. 𝟲𝗣𝗠 (𝗞𝗦𝗧)\n\n@jucklee #이적 #LEEJUCK #김진표 #JP\n#정규6집 #TRACE #돌팔매 #20201111_6PM https://t.co/uubCuWEBFm"
+	},
+	{
+		"created_at": "Wed Nov 11 03:29:44 +0000 2020",
+		"id": 1326359744395812900,
+		"id_str": "1326366473082839040",
+		"full_text": "[#STATION]\n\n🎧 MAX CHANGMIN 최강창민 ‘All That Love' \n: 2020.11.13. 6PM (KST)\n\n#MAX_CHANGMIN #동방신기 #TVXQ! #東方神起 #AllThatLove https://t.co/N2PaVdHnWQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STATION",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "MAX_CHANGMIN",
+					"indices": [
+						74,
+						87
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "AllThatLove",
+					"indices": [
+						107,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326346317619110000,
+					"id_str": "1326346317619109888",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/Emgg8tbVoAADEXe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emgg8tbVoAADEXe.jpg",
+					"url": "https://t.co/N2PaVdHnWQ",
+					"display_url": "pic.twitter.com/N2PaVdHnWQ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1326359744395812865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 808,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326346317619110000,
+					"id_str": "1326346317619109888",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/Emgg8tbVoAADEXe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emgg8tbVoAADEXe.jpg",
+					"url": "https://t.co/N2PaVdHnWQ",
+					"display_url": "pic.twitter.com/N2PaVdHnWQ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1326359744395812865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 808,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8628162,
+			"friends_count": 53,
+			"listed_count": 8417,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1533,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8951,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1121,
+		"favorite_count": 4926,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#STATION]\n\n🎧 MAX CHANGMIN 최강창민 ‘All That Love' \n: 2020.11.13. 6PM (KST)\n\n#MAX_CHANGMIN #동방신기 #TVXQ! #東方神起 #AllThatLove https://t.co/N2PaVdHnWQ"
+	},
+	{
+		"created_at": "Wed Nov 11 03:29:40 +0000 2020",
+		"id": 1326359492737593300,
+		"id_str": "1326366455806513152",
+		"full_text": "[#STATION]\n\n🎧 MAX CHANGMIN 최강창민 ‘All That Love' \n: 2020.11.13. 6PM (KST)\n\n#MAX_CHANGMIN #동방신기 #TVXQ! #東方神起 #AllThatLove https://t.co/6ZhZcky70L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STATION",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "MAX_CHANGMIN",
+					"indices": [
+						74,
+						87
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "AllThatLove",
+					"indices": [
+						107,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326346260006105000,
+					"id_str": "1326346260006105088",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/Emgg5WzU8AA7DvE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emgg5WzU8AA7DvE.jpg",
+					"url": "https://t.co/6ZhZcky70L",
+					"display_url": "pic.twitter.com/6ZhZcky70L",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1326359492737593345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1380,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 808,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326346260006105000,
+					"id_str": "1326346260006105088",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/Emgg5WzU8AA7DvE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emgg5WzU8AA7DvE.jpg",
+					"url": "https://t.co/6ZhZcky70L",
+					"display_url": "pic.twitter.com/6ZhZcky70L",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1326359492737593345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1380,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 808,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8628162,
+			"friends_count": 53,
+			"listed_count": 8417,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1533,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8951,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 999,
+		"favorite_count": 4466,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#STATION]\n\n🎧 MAX CHANGMIN 최강창민 ‘All That Love' \n: 2020.11.13. 6PM (KST)\n\n#MAX_CHANGMIN #동방신기 #TVXQ! #東方神起 #AllThatLove https://t.co/6ZhZcky70L"
+	},
+	{
+		"created_at": "Wed Nov 11 03:29:34 +0000 2020",
+		"id": 1326359241028898800,
+		"id_str": "1326366430015741952",
+		"full_text": "[#STATION]\n\n🎧 MAX CHANGMIN 최강창민 ‘All That Love' \n: 2020.11.13. 6PM (KST)\n\n#MAX_CHANGMIN #동방신기 #TVXQ! #東方神起 #AllThatLove https://t.co/naiRrybd90",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STATION",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "MAX_CHANGMIN",
+					"indices": [
+						74,
+						87
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "AllThatLove",
+					"indices": [
+						107,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326345925078392800,
+					"id_str": "1326345925078392833",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/Emggl3GVoAEti47.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emggl3GVoAEti47.jpg",
+					"url": "https://t.co/naiRrybd90",
+					"display_url": "pic.twitter.com/naiRrybd90",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1326359241028898817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 808,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326345925078392800,
+					"id_str": "1326345925078392833",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/Emggl3GVoAEti47.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emggl3GVoAEti47.jpg",
+					"url": "https://t.co/naiRrybd90",
+					"display_url": "pic.twitter.com/naiRrybd90",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1326359241028898817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 808,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8628162,
+			"friends_count": 53,
+			"listed_count": 8417,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1533,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8951,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1097,
+		"favorite_count": 4736,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#STATION]\n\n🎧 MAX CHANGMIN 최강창민 ‘All That Love' \n: 2020.11.13. 6PM (KST)\n\n#MAX_CHANGMIN #동방신기 #TVXQ! #東方神起 #AllThatLove https://t.co/naiRrybd90"
+	},
+	{
+		"created_at": "Wed Nov 11 03:29:25 +0000 2020",
+		"id": 1326358994877898800,
+		"id_str": "1326366391730122752",
+		"full_text": "[#STATION]\n\n🎧 MAX CHANGMIN 최강창민 ‘All That Love' \n: 2020.11.13. 6PM (KST)\n\n#MAX_CHANGMIN #동방신기 #TVXQ! #東方神起 #AllThatLove https://t.co/77Tzzg6Au6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STATION",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "MAX_CHANGMIN",
+					"indices": [
+						74,
+						87
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "AllThatLove",
+					"indices": [
+						107,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326345837358710800,
+					"id_str": "1326345837358710785",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EmgggwUVgAEu34g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmgggwUVgAEu34g.jpg",
+					"url": "https://t.co/77Tzzg6Au6",
+					"display_url": "pic.twitter.com/77Tzzg6Au6",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1326358994877898753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1367,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326345837358710800,
+					"id_str": "1326345837358710785",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EmgggwUVgAEu34g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmgggwUVgAEu34g.jpg",
+					"url": "https://t.co/77Tzzg6Au6",
+					"display_url": "pic.twitter.com/77Tzzg6Au6",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1326358994877898753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1367,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8628162,
+			"friends_count": 53,
+			"listed_count": 8417,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1533,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8951,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1275,
+		"favorite_count": 5613,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#STATION]\n\n🎧 MAX CHANGMIN 최강창민 ‘All That Love' \n: 2020.11.13. 6PM (KST)\n\n#MAX_CHANGMIN #동방신기 #TVXQ! #東方神起 #AllThatLove https://t.co/77Tzzg6Au6"
+	},
+	{
 		"created_at": "Wed Nov 11 03:11:16 +0000 2020",
 		"id": 1326360312811942000,
 		"id_str": "1326361827157176321",
