@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 11 12:29:25 +0000 2020",
+		"id": 1326489667886182400,
+		"id_str": "1326502289113309184",
+		"full_text": "[Release]\n이적, 정규 6집 《Trace》 발매되었습니다!\n\n멜론 MELON • https://t.co/3WSHu4XGT0 \n지니 GENIE • https://t.co/WlMC8oA8kg\n벅스 BUGS • https://t.co/78Tw6vpvXx\n바이브 VIBE • https://t.co/8ELZ4k7j17\n플로 FLO • https://t.co/bxwUkKPD2i\n\n@jucklee #이적 #LEEJUCK #TRACE https://t.co/cDUhGjhlDO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이적",
+					"indices": [
+						221,
+						224
+					]
+				},
+				{
+					"text": "LEEJUCK",
+					"indices": [
+						225,
+						233
+					]
+				},
+				{
+					"text": "TRACE",
+					"indices": [
+						234,
+						240
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jucklee",
+					"name": "이적 Juck Lee",
+					"id": 51315123,
+					"id_str": "51315123",
+					"indices": [
+						212,
+						220
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3WSHu4XGT0",
+					"expanded_url": "https://bit.ly/2JRXcpb",
+					"display_url": "bit.ly/2JRXcpb",
+					"indices": [
+						49,
+						72
+					]
+				},
+				{
+					"url": "https://t.co/WlMC8oA8kg",
+					"expanded_url": "https://bit.ly/2IvrgGr",
+					"display_url": "bit.ly/2IvrgGr",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/78Tw6vpvXx",
+					"expanded_url": "https://bit.ly/3eP5jOM",
+					"display_url": "bit.ly/3eP5jOM",
+					"indices": [
+						119,
+						142
+					]
+				},
+				{
+					"url": "https://t.co/8ELZ4k7j17",
+					"expanded_url": "https://bit.ly/3ll3Gef",
+					"display_url": "bit.ly/3ll3Gef",
+					"indices": [
+						154,
+						177
+					]
+				},
+				{
+					"url": "https://t.co/bxwUkKPD2i",
+					"expanded_url": "https://bit.ly/38wbtSN",
+					"display_url": "bit.ly/38wbtSN",
+					"indices": [
+						187,
+						210
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326489650727280600,
+					"id_str": "1326489650727280640",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/EmijTy3U4AA9uKr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmijTy3U4AA9uKr.jpg",
+					"url": "https://t.co/cDUhGjhlDO",
+					"display_url": "pic.twitter.com/cDUhGjhlDO",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1326489667886182400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326489650727280600,
+					"id_str": "1326489650727280640",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/EmijTy3U4AA9uKr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmijTy3U4AA9uKr.jpg",
+					"url": "https://t.co/cDUhGjhlDO",
+					"display_url": "pic.twitter.com/cDUhGjhlDO",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1326489667886182400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1326450944385560600,
+		"in_reply_to_status_id_str": "1326450944385560577",
+		"in_reply_to_user_id": 387577661,
+		"in_reply_to_user_id_str": "387577661",
+		"in_reply_to_screen_name": "musicfarmkorea",
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적 정규 6집 《Trace》 발매!",
+			"url": "https://t.co/eSVSBHrncV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSVSBHrncV",
+							"expanded_url": "http://www.instagram.com/musicfarmkorea",
+							"display_url": "instagram.com/musicfarmkorea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9170,
+			"friends_count": 4,
+			"listed_count": 111,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1357424393",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release]\n이적, 정규 6집 《Trace》 발매되었습니다!\n\n멜론 MELON • https://t.co/3WSHu4XGT0 \n지니 GENIE • https://t.co/WlMC8oA8kg\n벅스 BUGS • https://t.co/78Tw6vpvXx\n바이브 VIBE • https://t.co/8ELZ4k7j17\n플로 FLO • https://t.co/bxwUkKPD2i\n\n@jucklee #이적 #LEEJUCK #TRACE https://t.co/cDUhGjhlDO"
+	},
+	{
 		"created_at": "Wed Nov 11 12:04:01 +0000 2020",
 		"id": 1326495897031684000,
 		"id_str": "1326495897031684096",
