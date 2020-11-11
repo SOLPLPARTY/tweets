@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 11 12:04:01 +0000 2020",
+		"id": 1326495897031684000,
+		"id_str": "1326495897031684096",
+		"full_text": "#딩고뮤직 #dingo_music\n🚨내적댄스 유발🚨직업 만족도 최상!! \"으아! 들이대~\" 세상 유쾌하고 행복한 흥궈신 '김흥국 - 호랑나비’ 🦋[세로댄스]ㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/BLmWRiVGYz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BLmWRiVGYz",
+					"expanded_url": "https://youtu.be/dIFVCiYbXZg",
+					"display_url": "youtu.be/dIFVCiYbXZg",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#공연일정 #페스티벌 #인디밴드 #내한 #콘서트\n\n문화예술정보 @ArtManagementKR\n뮤직매거진 @Magazine_KR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								115,
+								138
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 245,
+			"friends_count": 431,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n🚨내적댄스 유발🚨직업 만족도 최상!! \"으아! 들이대~\" 세상 유쾌하고 행복한 흥궈신 '김흥국 - 호랑나비’ 🦋[세로댄스]ㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/BLmWRiVGYz"
+	},
+	{
+		"created_at": "Wed Nov 11 11:58:14 +0000 2020",
+		"id": 1326479788329103400,
+		"id_str": "1326494442652651521",
+		"full_text": "[KCON:TACT season 2] BACKSTAGE BEHIND \n\nDAY 5 Behind VOD is AVAILABLE NOW.\nDAY 5 백스테이지 비하인드 VOD를 공개합니다.\n\n#WOODZ #WEi\n\n▶ KCON official: https://t.co/w4urB9sNVh\n▶ Mnet K-POP: https://t.co/FaAWGfjLNl\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/bckDyx7Lgb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WOODZ",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "WEi",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						198,
+						203
+					]
+				},
+				{
+					"text": "LetsKCON",
+					"indices": [
+						204,
+						213
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						214,
+						223
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						224,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w4urB9sNVh",
+					"expanded_url": "https://youtu.be/WRU6WhClZOA",
+					"display_url": "youtu.be/WRU6WhClZOA",
+					"indices": [
+						135,
+						158
+					]
+				},
+				{
+					"url": "https://t.co/FaAWGfjLNl",
+					"expanded_url": "https://youtu.be/e54WuwmSBEY",
+					"display_url": "youtu.be/e54WuwmSBEY",
+					"indices": [
+						173,
+						196
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326339988393320400,
+					"id_str": "1326339988393320448",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/EmgbMTOUYAAF3N8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmgbMTOUYAAF3N8.jpg",
+					"url": "https://t.co/bckDyx7Lgb",
+					"display_url": "pic.twitter.com/bckDyx7Lgb",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1326479788329103360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326339988393320400,
+					"id_str": "1326339988393320448",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/media/EmgbMTOUYAAF3N8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmgbMTOUYAAF3N8.jpg",
+					"url": "https://t.co/bckDyx7Lgb",
+					"display_url": "pic.twitter.com/bckDyx7Lgb",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1326479788329103360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON:TACT season 2  Oct 16~25, 2020",
+			"url": "https://t.co/CCEcf5MtP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCEcf5MtP5",
+							"expanded_url": "https://www.youtube.com/KCON",
+							"display_url": "youtube.com/KCON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301548,
+			"friends_count": 67,
+			"listed_count": 901,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1600424283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 112,
+		"favorite_count": 275,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[KCON:TACT season 2] BACKSTAGE BEHIND \n\nDAY 5 Behind VOD is AVAILABLE NOW.\nDAY 5 백스테이지 비하인드 VOD를 공개합니다.\n\n#WOODZ #WEi\n\n▶ KCON official: https://t.co/w4urB9sNVh\n▶ Mnet K-POP: https://t.co/FaAWGfjLNl\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/bckDyx7Lgb"
+	},
+	{
 		"created_at": "Wed Nov 11 11:06:51 +0000 2020",
 		"id": 1326481511407906800,
 		"id_str": "1326481511407906817",
