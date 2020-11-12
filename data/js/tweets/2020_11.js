@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 12 16:29:25 +0000 2020",
+		"id": 1326916518068752400,
+		"id_str": "1326925072913862660",
+		"full_text": "#디어클라우드 #서울뮤직포럼\n서울에서는 첫번째 대면 공연...반가웠어요^^\n다음주 월요일(16일) 12시 싱글 #사실난 공개\n#은평문화재단 #은평문화센터 \n#dearcloud #나인 #이랑 #토근\n\n사진은 @_dreamong_ (@whochuu_studio) https://t.co/T1qVvGdAQs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "디어클라우드",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "서울뮤직포럼",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "사실난",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "은평문화재단",
+					"indices": [
+						70,
+						77
+					]
+				},
+				{
+					"text": "은평문화센터",
+					"indices": [
+						78,
+						85
+					]
+				},
+				{
+					"text": "dearcloud",
+					"indices": [
+						87,
+						97
+					]
+				},
+				{
+					"text": "나인",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "이랑",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "토근",
+					"indices": [
+						106,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326916515191533600,
+					"id_str": "1326916515191533569",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/Emonik6XMAEXXQi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emonik6XMAEXXQi.jpg",
+					"url": "https://t.co/T1qVvGdAQs",
+					"display_url": "pic.twitter.com/T1qVvGdAQs",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1326916518068752388/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 555,
+							"h": 555,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 555,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 555,
+							"h": 555,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326916515191533600,
+					"id_str": "1326916515191533569",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/Emonik6XMAEXXQi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emonik6XMAEXXQi.jpg",
+					"url": "https://t.co/T1qVvGdAQs",
+					"display_url": "pic.twitter.com/T1qVvGdAQs",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1326916518068752388/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 555,
+							"h": 555,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 555,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 555,
+							"h": 555,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2684,
+			"friends_count": 341,
+			"listed_count": 33,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 17125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#디어클라우드 #서울뮤직포럼\n서울에서는 첫번째 대면 공연...반가웠어요^^\n다음주 월요일(16일) 12시 싱글 #사실난 공개\n#은평문화재단 #은평문화센터 \n#dearcloud #나인 #이랑 #토근\n\n사진은 @_dreamong_ (@whochuu_studio) https://t.co/T1qVvGdAQs"
+	},
+	{
 		"created_at": "Thu Nov 12 16:11:17 +0000 2020",
 		"id": 1326907009040584700,
 		"id_str": "1326920513206284288",
