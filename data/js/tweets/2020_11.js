@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 11 23:57:25 +0000 2020",
+		"id": 1326466462282739700,
+		"id_str": "1326675430162620417",
+		"full_text": "이적의 신곡 \"돌팔매\" MV의 캐릭터 디자인, 이미지보드와 아트웍 등을 제작하였습니다. @jucklee @vcrworks https://t.co/XMNeoSGQaj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jucklee",
+					"name": "이적 Juck Lee",
+					"id": 51315123,
+					"id_str": "51315123",
+					"indices": [
+						49,
+						57
+					]
+				},
+				{
+					"screen_name": "vcrworks",
+					"name": "VCR WORKS",
+					"id": 2977728636,
+					"id_str": "2977728636",
+					"indices": [
+						58,
+						67
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326466216555262000,
+					"id_str": "1326466216555261953",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1326466216555261953/pu/img/aB9GReJoCJTGdcS9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1326466216555261953/pu/img/aB9GReJoCJTGdcS9.jpg",
+					"url": "https://t.co/XMNeoSGQaj",
+					"display_url": "pic.twitter.com/XMNeoSGQaj",
+					"expanded_url": "https://twitter.com/cochlea1313/status/1326466462282739712/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326466216555262000,
+					"id_str": "1326466216555261953",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1326466216555261953/pu/img/aB9GReJoCJTGdcS9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1326466216555261953/pu/img/aB9GReJoCJTGdcS9.jpg",
+					"url": "https://t.co/XMNeoSGQaj",
+					"display_url": "pic.twitter.com/XMNeoSGQaj",
+					"expanded_url": "https://twitter.com/cochlea1313/status/1326466462282739712/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140007,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326466216555261953/pu/vid/480x270/S1R-va8NUHN4wr_V.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1326466216555261953/pu/pl/ClxPSBorhjjaN9pp.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326466216555261953/pu/vid/640x360/dR75_FEIHDIpmm-q.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1326466216555261953/pu/vid/1280x720/d6NAlGBoc-_Y1dad.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2697712436,
+			"id_str": "2697712436",
+			"name": "𝖒𝖎𝖔",
+			"screen_name": "cochlea1313",
+			"location": "http://miotatts.com",
+			"description": "Illustrator/Tattooer \ncopyrightⓒ 2020 All rights reserved by Mio Im\n(COVID-19 evacuation)",
+			"url": "https://t.co/yEntrQVVeH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yEntrQVVeH",
+							"expanded_url": "http://instagram.com/cochlea1313",
+							"display_url": "instagram.com/cochlea1313",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51940,
+			"friends_count": 71,
+			"listed_count": 415,
+			"created_at": "Fri Aug 01 08:19:34 +0000 2014",
+			"favourites_count": 5861,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/786978781172858880/_dkN3Q0P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/786978781172858880/_dkN3Q0P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2697712436/1474389552",
+			"profile_link_color": "964F4D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 849,
+		"favorite_count": 1368,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이적의 신곡 \"돌팔매\" MV의 캐릭터 디자인, 이미지보드와 아트웍 등을 제작하였습니다. @jucklee @vcrworks https://t.co/XMNeoSGQaj"
+	},
+	{
 		"created_at": "Wed Nov 11 16:29:25 +0000 2020",
 		"id": 1326548550776336400,
 		"id_str": "1326562685245415434",
