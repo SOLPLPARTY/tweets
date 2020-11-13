@@ -1,6 +1,626 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 13 02:17:07 +0000 2020",
+		"id": 1327072975548534800,
+		"id_str": "1327072975548534784",
+		"full_text": "#문화가있는날 #블로그\n어린이를 위한 집콕 문화생활\nhttps://t.co/VKOqFm1nZt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문화가있는날",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						8,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VKOqFm1nZt",
+					"expanded_url": "https://bit.ly/38QxSuv",
+					"display_url": "bit.ly/38QxSuv",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#공연일정 #페스티벌 #인디밴드 #내한 #콘서트\n\n문화예술정보 @ArtManagementKR\n뮤직매거진 @Magazine_KR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								115,
+								138
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 246,
+			"friends_count": 431,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65007,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#문화가있는날 #블로그\n어린이를 위한 집콕 문화생활\nhttps://t.co/VKOqFm1nZt"
+	},
+	{
+		"created_at": "Fri Nov 13 01:29:32 +0000 2020",
+		"id": 1327060298071621600,
+		"id_str": "1327060999158034434",
+		"full_text": "The song and MV of CHANGMIN MAX’s ‘All That Love’ to be released today at 6PM KST through SM ‘STATION’! \n\n#최강창민 #MAX_CHANGMIN #동방신기 #TVXQ! #東方神起 #AllThatLove https://t.co/CMVkUNhwtO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최강창민",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "MAX_CHANGMIN",
+					"indices": [
+						112,
+						125
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "AllThatLove",
+					"indices": [
+						145,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1327060292010795000,
+					"id_str": "1327060292010795009",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EmqqTfTUYAE8b0z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmqqTfTUYAE8b0z.jpg",
+					"url": "https://t.co/CMVkUNhwtO",
+					"display_url": "pic.twitter.com/CMVkUNhwtO",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1327060298071621634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327060292010795000,
+					"id_str": "1327060292010795009",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EmqqTfTUYAE8b0z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmqqTfTUYAE8b0z.jpg",
+					"url": "https://t.co/CMVkUNhwtO",
+					"display_url": "pic.twitter.com/CMVkUNhwtO",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1327060298071621634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1327060292010799000,
+					"id_str": "1327060292010799104",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EmqqTfTUcAATC8v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmqqTfTUcAATC8v.jpg",
+					"url": "https://t.co/CMVkUNhwtO",
+					"display_url": "pic.twitter.com/CMVkUNhwtO",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1327060298071621634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8638296,
+			"friends_count": 53,
+			"listed_count": 8428,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8963,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 990,
+		"favorite_count": 5379,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The song and MV of CHANGMIN MAX’s ‘All That Love’ to be released today at 6PM KST through SM ‘STATION’! \n\n#최강창민 #MAX_CHANGMIN #동방신기 #TVXQ! #東方神起 #AllThatLove https://t.co/CMVkUNhwtO"
+	},
+	{
+		"created_at": "Fri Nov 13 01:29:29 +0000 2020",
+		"id": 1327059809342951400,
+		"id_str": "1327060986101194754",
+		"full_text": "[#차민지] 차민지, '아직 낫서른' 출연 확정…정인선과 워맨스 케미 기대 [공식입장]\n\n▶️ https://t.co/4dEZhyvaK5\n\n#아직낫서른 #카카오TV #배우 #캐스팅 #홍아영 https://t.co/CyfO1Fn9R9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "차민지",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "아직낫서른",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "카카오TV",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "배우",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "캐스팅",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "홍아영",
+					"indices": [
+						101,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4dEZhyvaK5",
+					"expanded_url": "https://bit.ly/3pif0tU",
+					"display_url": "bit.ly/3pif0tU",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1327059797460410400,
+					"id_str": "1327059797460410368",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/Emqp2s9UYAAOg1y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emqp2s9UYAAOg1y.jpg",
+					"url": "https://t.co/CyfO1Fn9R9",
+					"display_url": "pic.twitter.com/CyfO1Fn9R9",
+					"expanded_url": "https://twitter.com/themysticstory/status/1327059809342951424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327059797460410400,
+					"id_str": "1327059797460410368",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/Emqp2s9UYAAOg1y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emqp2s9UYAAOg1y.jpg",
+					"url": "https://t.co/CyfO1Fn9R9",
+					"display_url": "pic.twitter.com/CyfO1Fn9R9",
+					"expanded_url": "https://twitter.com/themysticstory/status/1327059809342951424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19796,
+			"friends_count": 18,
+			"listed_count": 228,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#차민지] 차민지, '아직 낫서른' 출연 확정…정인선과 워맨스 케미 기대 [공식입장]\n\n▶️ https://t.co/4dEZhyvaK5\n\n#아직낫서른 #카카오TV #배우 #캐스팅 #홍아영 https://t.co/CyfO1Fn9R9"
+	},
+	{
 		"created_at": "Thu Nov 12 20:32:03 +0000 2020",
 		"id": 1326986133448888300,
 		"id_str": "1326986133448888323",
