@@ -1,6 +1,309 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 13 07:29:25 +0000 2020",
+		"id": 1327138436592115700,
+		"id_str": "1327151565384331264",
+		"full_text": "[멜론 매거진]\n비하인드 컷 📸 with 이적\n\n정규 6집 발매 기념! 이적의 프로필 사진 촬영 현장 스케치와 새로운 공식 프로필 사진들을 멜론 매거진을 통해 독점 공개합니다✨\n\n🔗 https://t.co/ixMqVYRMiu\n\n@jucklee #이적 #LEEJUCK #정규6집 #TRACE #돌팔매 https://t.co/mPjaIp28V3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이적",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "LEEJUCK",
+					"indices": [
+						140,
+						148
+					]
+				},
+				{
+					"text": "정규6집",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "TRACE",
+					"indices": [
+						155,
+						161
+					]
+				},
+				{
+					"text": "돌팔매",
+					"indices": [
+						162,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jucklee",
+					"name": "이적 Juck Lee",
+					"id": 51315123,
+					"id_str": "51315123",
+					"indices": [
+						127,
+						135
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ixMqVYRMiu",
+					"expanded_url": "http://kko.to/RiXn1HhDp",
+					"display_url": "kko.to/RiXn1HhDp",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1327138425384865800,
+					"id_str": "1327138425384865793",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EmrxXczWEAEReU3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmrxXczWEAEReU3.jpg",
+					"url": "https://t.co/mPjaIp28V3",
+					"display_url": "pic.twitter.com/mPjaIp28V3",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1327138436592115712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327138425384865800,
+					"id_str": "1327138425384865793",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EmrxXczWEAEReU3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmrxXczWEAEReU3.jpg",
+					"url": "https://t.co/mPjaIp28V3",
+					"display_url": "pic.twitter.com/mPjaIp28V3",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1327138436592115712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1327138425393262600,
+					"id_str": "1327138425393262593",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EmrxXc1WMAEY44t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmrxXc1WMAEY44t.jpg",
+					"url": "https://t.co/mPjaIp28V3",
+					"display_url": "pic.twitter.com/mPjaIp28V3",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1327138436592115712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 942,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 534,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1608,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1327138425384947700,
+					"id_str": "1327138425384947713",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/EmrxXczXUAEwsjk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmrxXczXUAEwsjk.jpg",
+					"url": "https://t.co/mPjaIp28V3",
+					"display_url": "pic.twitter.com/mPjaIp28V3",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1327138436592115712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 942,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1608,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 534,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언",
+			"url": "https://t.co/eSVSBHrncV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSVSBHrncV",
+							"expanded_url": "http://www.instagram.com/musicfarmkorea",
+							"display_url": "instagram.com/musicfarmkorea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9174,
+			"friends_count": 4,
+			"listed_count": 111,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1357424393",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[멜론 매거진]\n비하인드 컷 📸 with 이적\n\n정규 6집 발매 기념! 이적의 프로필 사진 촬영 현장 스케치와 새로운 공식 프로필 사진들을 멜론 매거진을 통해 독점 공개합니다✨\n\n🔗 https://t.co/ixMqVYRMiu\n\n@jucklee #이적 #LEEJUCK #정규6집 #TRACE #돌팔매 https://t.co/mPjaIp28V3"
+	},
+	{
 		"created_at": "Fri Nov 13 06:58:40 +0000 2020",
 		"id": 1327143826398572500,
 		"id_str": "1327143826398572544",
