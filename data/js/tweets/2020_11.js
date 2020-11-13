@@ -1,6 +1,1435 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 13 10:10:13 +0000 2020",
+		"id": 1327192035443564500,
+		"id_str": "1327192035443564546",
+		"full_text": "#딩고뮤직 #dingo_music\n[4K] TAEMIN 태민 - 이데아 (IDEA:理想)ㅣPerformance video | CHOREOGRAPHY | MOVE REC. 무브렉 | 딩고뮤직ㅣDingo Music\nhttps://t.co/v7SIzGsQ4C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v7SIzGsQ4C",
+					"expanded_url": "https://youtu.be/bRrbFjdisM0",
+					"display_url": "youtu.be/bRrbFjdisM0",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#공연일정 #페스티벌 #인디밴드 #내한 #콘서트\n\n문화예술정보 @ArtManagementKR\n뮤직매거진 @Magazine_KR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								115,
+								138
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 246,
+			"friends_count": 431,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65043,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n[4K] TAEMIN 태민 - 이데아 (IDEA:理想)ㅣPerformance video | CHOREOGRAPHY | MOVE REC. 무브렉 | 딩고뮤직ㅣDingo Music\nhttps://t.co/v7SIzGsQ4C"
+	},
+	{
+		"created_at": "Fri Nov 13 09:38:14 +0000 2020",
+		"id": 1327183982635651000,
+		"id_str": "1327183982635651073",
+		"full_text": "#문화인 #MUNHWAIN #네이버포스트\n[문플리] 귀호강하는 나른할 때 듣는 인디 음악\nhttps://t.co/cpiKKa1gSN\n#Special https://t.co/VFCw220xaG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문화인",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "MUNHWAIN",
+					"indices": [
+						5,
+						14
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"text": "Special",
+					"indices": [
+						74,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cpiKKa1gSN",
+					"expanded_url": "https://post.naver.com/viewer/postView.nhn?volumeNo=29960664&memberNo=32269214&navigationType=push",
+					"display_url": "post.naver.com/viewer/postVie…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1327183981645877200,
+					"id_str": "1327183981645877248",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EmsazLGXUAA6qRI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmsazLGXUAA6qRI.jpg",
+					"url": "https://t.co/VFCw220xaG",
+					"display_url": "pic.twitter.com/VFCw220xaG",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1327183982635651073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327183981645877200,
+					"id_str": "1327183981645877248",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EmsazLGXUAA6qRI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmsazLGXUAA6qRI.jpg",
+					"url": "https://t.co/VFCw220xaG",
+					"display_url": "pic.twitter.com/VFCw220xaG",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1327183982635651073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#공연일정 #페스티벌 #인디밴드 #내한 #콘서트\n\n문화예술정보 @ArtManagementKR\n뮤직매거진 @Magazine_KR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								115,
+								138
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 246,
+			"friends_count": 431,
+			"listed_count": 4,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65043,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#문화인 #MUNHWAIN #네이버포스트\n[문플리] 귀호강하는 나른할 때 듣는 인디 음악\nhttps://t.co/cpiKKa1gSN\n#Special https://t.co/VFCw220xaG"
+	},
+	{
+		"created_at": "Fri Nov 13 09:29:48 +0000 2020",
+		"id": 1327176829082321000,
+		"id_str": "1327181861437792256",
+		"full_text": "[SM STATION] 최강창민 (MAX CHANGMIN) - All That Love \n\n🎧Listen now on your favorite platform\n👉🏻https://t.co/HrRcOPrkh7\n\n#최강창민 #MAX_CHANGMIN #동방신기 #TVXQ! #東方神起 #AllThatLove",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최강창민",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "MAX_CHANGMIN",
+					"indices": [
+						122,
+						135
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "AllThatLove",
+					"indices": [
+						155,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HrRcOPrkh7",
+					"expanded_url": "https://smarturl.it/MAXCHANGMIN_ATL",
+					"display_url": "smarturl.it/MAXCHANGMIN_ATL",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8640713,
+			"friends_count": 53,
+			"listed_count": 8432,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8966,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 924,
+		"favorite_count": 3555,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[SM STATION] 최강창민 (MAX CHANGMIN) - All That Love \n\n🎧Listen now on your favorite platform\n👉🏻https://t.co/HrRcOPrkh7\n\n#최강창민 #MAX_CHANGMIN #동방신기 #TVXQ! #東方神起 #AllThatLove"
+	},
+	{
+		"created_at": "Fri Nov 13 09:29:45 +0000 2020",
+		"id": 1327176630930862000,
+		"id_str": "1327181848389279744",
+		"full_text": "[#이적]\n드디어 오늘! 이적 정규 6집 타이틀곡 ‘돌팔매 (feat. 김진표)’의 첫 라이브 무대를 선보입니다. #유스케 본방사수 놓치지마세요⭐️\n\n📺 오늘 밤 12시 40분 &lt;유희열의 스케치북&gt;\n\n@jucklee #이적 #김진표 #돌팔매 #패닉 \nhttps://t.co/Ek7bb4KWdP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이적",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "유스케",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "이적",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "김진표",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "돌팔매",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "패닉",
+					"indices": [
+						141,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jucklee",
+					"name": "이적 Juck Lee",
+					"id": 51315123,
+					"id_str": "51315123",
+					"indices": [
+						118,
+						126
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ek7bb4KWdP",
+					"expanded_url": "https://tv.naver.com/v/16696445",
+					"display_url": "tv.naver.com/v/16696445",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언",
+			"url": "https://t.co/eSVSBHrncV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSVSBHrncV",
+							"expanded_url": "http://www.instagram.com/musicfarmkorea",
+							"display_url": "instagram.com/musicfarmkorea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9175,
+			"friends_count": 4,
+			"listed_count": 111,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 762,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1357424393",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#이적]\n드디어 오늘! 이적 정규 6집 타이틀곡 ‘돌팔매 (feat. 김진표)’의 첫 라이브 무대를 선보입니다. #유스케 본방사수 놓치지마세요⭐️\n\n📺 오늘 밤 12시 40분 &lt;유희열의 스케치북&gt;\n\n@jucklee #이적 #김진표 #돌팔매 #패닉 \nhttps://t.co/Ek7bb4KWdP"
+	},
+	{
+		"created_at": "Fri Nov 13 09:29:40 +0000 2020",
+		"id": 1327175002328744000,
+		"id_str": "1327181826939555840",
+		"full_text": "[SM STATION] 최강창민 (MAX CHANGMIN) - All That Love \n\n🎧Melon: https://t.co/tZCM16qDEJ\n🎧FLO: https://t.co/C5nlOdprLQ\n🎧genie: https://t.co/Cxyb1A9qjI\n🎧NAVER MUSIC: https://t.co/2oRGeOVmFR\n\n#최강창민 #MAX_CHANGMIN #동방신기 #TVXQ! #東方神起 #AllThatLove",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최강창민",
+					"indices": [
+						184,
+						189
+					]
+				},
+				{
+					"text": "MAX_CHANGMIN",
+					"indices": [
+						190,
+						203
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						204,
+						209
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						210,
+						215
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						217,
+						222
+					]
+				},
+				{
+					"text": "AllThatLove",
+					"indices": [
+						223,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tZCM16qDEJ",
+					"expanded_url": "https://www.melon.com/album/detail.htm?albumId=10518167",
+					"display_url": "melon.com/album/detail.h…",
+					"indices": [
+						59,
+						82
+					]
+				},
+				{
+					"url": "https://t.co/C5nlOdprLQ",
+					"expanded_url": "https://www.music-flo.com/detail/album/edliyloda/albumtrack",
+					"display_url": "music-flo.com/detail/album/e…",
+					"indices": [
+						89,
+						112
+					]
+				},
+				{
+					"url": "https://t.co/Cxyb1A9qjI",
+					"expanded_url": "https://www.genie.co.kr/detail/albumInfo?axnm=81730835",
+					"display_url": "genie.co.kr/detail/albumIn…",
+					"indices": [
+						121,
+						144
+					]
+				},
+				{
+					"url": "https://t.co/2oRGeOVmFR",
+					"expanded_url": "https://vibe.naver.com/album/5082743",
+					"display_url": "vibe.naver.com/album/5082743",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8640713,
+			"friends_count": 53,
+			"listed_count": 8432,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8966,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1088,
+		"favorite_count": 3624,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[SM STATION] 최강창민 (MAX CHANGMIN) - All That Love \n\n🎧Melon: https://t.co/tZCM16qDEJ\n🎧FLO: https://t.co/C5nlOdprLQ\n🎧genie: https://t.co/Cxyb1A9qjI\n🎧NAVER MUSIC: https://t.co/2oRGeOVmFR\n\n#최강창민 #MAX_CHANGMIN #동방신기 #TVXQ! #東方神起 #AllThatLove"
+	},
+	{
+		"created_at": "Fri Nov 13 09:29:37 +0000 2020",
+		"id": 1327174840588013600,
+		"id_str": "1327181818106433537",
+		"full_text": "[Video]\n최유리 - '답장' AZIT LIVE\n🎥 https://t.co/98XXl7tIkv\n\n#최유리 #답장 #ChoiYuRee #Reply\n#아지트라이브 #AZITLIVE\n#쇼파르뮤직 #ShofarMusic",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최유리",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "답장",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "ChoiYuRee",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"text": "Reply",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "아지트라이브",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "AZITLIVE",
+					"indices": [
+						91,
+						100
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "ShofarMusic",
+					"indices": [
+						108,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/98XXl7tIkv",
+					"expanded_url": "https://youtu.be/Y4Sfcse3u5s",
+					"display_url": "youtu.be/Y4Sfcse3u5s",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다.\n가수 바닐라 어쿠스틱, 스웨덴세탁소, 볼빨간사춘기, 김지수,\n스무살, 보라미유, WH3N, 최유리 소속사\nhttps://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7972,
+			"friends_count": 5,
+			"listed_count": 68,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1603433075",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Video]\n최유리 - '답장' AZIT LIVE\n🎥 https://t.co/98XXl7tIkv\n\n#최유리 #답장 #ChoiYuRee #Reply\n#아지트라이브 #AZITLIVE\n#쇼파르뮤직 #ShofarMusic"
+	},
+	{
+		"created_at": "Fri Nov 13 09:29:29 +0000 2020",
+		"id": 1327174665610006500,
+		"id_str": "1327181784115769354",
+		"full_text": "[paktory]\nPAKTORY COMPANY\nNEW ARTIST\n2020.11.16\n\n#PAKTORYCOMPANY https://t.co/TNUObNFyAy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PAKTORYCOMPANY",
+					"indices": [
+						49,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1327174656604872700,
+					"id_str": "1327174656604872704",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/EmsSUYnVoAAIDiF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmsSUYnVoAAIDiF.jpg",
+					"url": "https://t.co/TNUObNFyAy",
+					"display_url": "pic.twitter.com/TNUObNFyAy",
+					"expanded_url": "https://twitter.com/paktoryofficial/status/1327174665610006528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327174656604872700,
+					"id_str": "1327174656604872704",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/EmsSUYnVoAAIDiF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmsSUYnVoAAIDiF.jpg",
+					"url": "https://t.co/TNUObNFyAy",
+					"display_url": "pic.twitter.com/TNUObNFyAy",
+					"expanded_url": "https://twitter.com/paktoryofficial/status/1327174665610006528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189041084971634700,
+			"id_str": "1189041084971634688",
+			"name": "PAKTORY COMPANY",
+			"screen_name": "paktoryofficial",
+			"location": "seoul",
+			"description": "contact@paktory.net",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 0,
+			"listed_count": 4,
+			"created_at": "Tue Oct 29 04:47:52 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "[paktory]\nPAKTORY COMPANY\nNEW ARTIST\n2020.11.16\n\n#PAKTORYCOMPANY https://t.co/TNUObNFyAy"
+	},
+	{
+		"created_at": "Fri Nov 13 09:29:25 +0000 2020",
+		"id": 1327174500845187000,
+		"id_str": "1327181766847848451",
+		"full_text": "[#최첼로]\n\n\"멀어진다\" \n\n🍂\n\n𝑭𝒂𝒍𝒍\n𝑪𝒉𝒐𝒊 𝑪𝒆𝒍𝒍𝒐\n\n2020.11.18.12PM(KST)\n\n#ChoiCello #Fall https://t.co/ogyuutuVnn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최첼로",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "ChoiCello",
+					"indices": [
+						59,
+						69
+					]
+				},
+				{
+					"text": "Fall",
+					"indices": [
+						70,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1327174495811977200,
+					"id_str": "1327174495811977217",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EmsSLBnUwAEeeQV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmsSLBnUwAEeeQV.jpg",
+					"url": "https://t.co/ogyuutuVnn",
+					"display_url": "pic.twitter.com/ogyuutuVnn",
+					"expanded_url": "https://twitter.com/inplanet/status/1327174500845187072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327174495811977200,
+					"id_str": "1327174495811977217",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EmsSLBnUwAEeeQV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmsSLBnUwAEeeQV.jpg",
+					"url": "https://t.co/ogyuutuVnn",
+					"display_url": "pic.twitter.com/ogyuutuVnn",
+					"expanded_url": "https://twitter.com/inplanet/status/1327174500845187072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1327174495811952600,
+					"id_str": "1327174495811952641",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EmsSLBnUYAEZT9T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmsSLBnUYAEZT9T.jpg",
+					"url": "https://t.co/ogyuutuVnn",
+					"display_url": "pic.twitter.com/ogyuutuVnn",
+					"expanded_url": "https://twitter.com/inplanet/status/1327174500845187072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Promoting Hip Hop, R&B, soul music in Korea. Music Label & Distributor /\nBoni, Hwaji, The Suite, Wilcox, OuiOui, DAMYE / 유통 문의: 02-3472-6680 or DM or Mention",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1476,
+			"friends_count": 795,
+			"listed_count": 64,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 98,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/450885515772825600/JMia4PNt_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/450885515772825600/JMia4PNt_normal.jpeg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#최첼로]\n\n\"멀어진다\" \n\n🍂\n\n𝑭𝒂𝒍𝒍\n𝑪𝒉𝒐𝒊 𝑪𝒆𝒍𝒍𝒐\n\n2020.11.18.12PM(KST)\n\n#ChoiCello #Fall https://t.co/ogyuutuVnn"
+	},
+	{
 		"created_at": "Fri Nov 13 09:03:32 +0000 2020",
 		"id": 1327175251797680000,
 		"id_str": "1327175251797680129",
