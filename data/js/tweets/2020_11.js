@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 14 15:29:25 +0000 2020",
+		"id": 1327627351774007300,
+		"id_str": "1327634749171634178",
+		"full_text": "DRIPPIN 1st Mini Album\n[Boyager] 'Shine' MV Poster\n\nAdventure of the seven boys will begin...⭐🌟💫\n\n◾2020.11.16 12AM (KST) MV Release\n\n#DRIPPIN #드리핀\n#Boyager #Nostalgia\n#Shine https://t.co/aQfjm0iQp9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						133,
+						141
+					]
+				},
+				{
+					"text": "드리핀",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "Boyager",
+					"indices": [
+						147,
+						155
+					]
+				},
+				{
+					"text": "Nostalgia",
+					"indices": [
+						156,
+						166
+					]
+				},
+				{
+					"text": "Shine",
+					"indices": [
+						167,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1327614042974736400,
+					"id_str": "1327614042974736384",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/Emyh8CZUUAAtuPV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emyh8CZUUAAtuPV.jpg",
+					"url": "https://t.co/aQfjm0iQp9",
+					"display_url": "pic.twitter.com/aQfjm0iQp9",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1327627351774007297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327614042974736400,
+					"id_str": "1327614042974736384",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/Emyh8CZUUAAtuPV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emyh8CZUUAAtuPV.jpg",
+					"url": "https://t.co/aQfjm0iQp9",
+					"display_url": "pic.twitter.com/aQfjm0iQp9",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1327627351774007297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424841,
+			"friends_count": 10,
+			"listed_count": 1807,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1603033322",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 759,
+		"favorite_count": 1801,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DRIPPIN 1st Mini Album\n[Boyager] 'Shine' MV Poster\n\nAdventure of the seven boys will begin...⭐🌟💫\n\n◾2020.11.16 12AM (KST) MV Release\n\n#DRIPPIN #드리핀\n#Boyager #Nostalgia\n#Shine https://t.co/aQfjm0iQp9"
+	},
+	{
 		"created_at": "Sat Nov 14 15:11:25 +0000 2020",
 		"id": 1327630219973439500,
 		"id_str": "1327630219973439488",
