@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 15 10:11:16 +0000 2020",
+		"id": 1327909267295268900,
+		"id_str": "1327917074774167552",
+		"full_text": "Genie : https://t.co/gTnc9ZNzqB\nMelon : https://t.co/5Jy2qHKMr7\nBugs : https://t.co/HROeTr7tDH\nSoribada : https://t.co/YlF5D6aU2s\nFLO : https://t.co/MfTdntjF8y\nVibe : https://t.co/oUhlSm249M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gTnc9ZNzqB",
+					"expanded_url": "http://bit.ly/2IIHD2s",
+					"display_url": "bit.ly/2IIHD2s",
+					"indices": [
+						8,
+						31
+					]
+				},
+				{
+					"url": "https://t.co/5Jy2qHKMr7",
+					"expanded_url": "http://bit.ly/38GrQfP",
+					"display_url": "bit.ly/38GrQfP",
+					"indices": [
+						40,
+						63
+					]
+				},
+				{
+					"url": "https://t.co/HROeTr7tDH",
+					"expanded_url": "http://bit.ly/36RThAT",
+					"display_url": "bit.ly/36RThAT",
+					"indices": [
+						71,
+						94
+					]
+				},
+				{
+					"url": "https://t.co/YlF5D6aU2s",
+					"expanded_url": "http://bit.ly/2IDBbKe",
+					"display_url": "bit.ly/2IDBbKe",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/MfTdntjF8y",
+					"expanded_url": "http://bit.ly/35yvoPb",
+					"display_url": "bit.ly/35yvoPb",
+					"indices": [
+						136,
+						159
+					]
+				},
+				{
+					"url": "https://t.co/oUhlSm249M",
+					"expanded_url": "http://bit.ly/38IfpQq",
+					"display_url": "bit.ly/38IfpQq",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1327899137623224300,
+		"in_reply_to_status_id_str": "1327899137623224323",
+		"in_reply_to_user_id": 1291327050578456600,
+		"in_reply_to_user_id_str": "1291327050578456578",
+		"in_reply_to_screen_name": "rollinghall1995",
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/4e0ZekwoYX",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4e0ZekwoYX",
+							"expanded_url": "http://bitly.kr/LZ7SBbWTTTr",
+							"display_url": "bitly.kr/LZ7SBbWTTTr",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 63,
+			"friends_count": 3,
+			"listed_count": 1,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "pt",
+		"text": "Genie : https://t.co/gTnc9ZNzqB\nMelon : https://t.co/5Jy2qHKMr7\nBugs : https://t.co/HROeTr7tDH\nSoribada : https://t.co/YlF5D6aU2s\nFLO : https://t.co/MfTdntjF8y\nVibe : https://t.co/oUhlSm249M"
+	},
+	{
 		"created_at": "Sun Nov 15 09:11:17 +0000 2020",
 		"id": 1327899137623224300,
 		"id_str": "1327901977465004033",
