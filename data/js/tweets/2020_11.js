@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 15 09:11:17 +0000 2020",
+		"id": 1327899137623224300,
+		"id_str": "1327901977465004033",
+		"full_text": "📢 새 앨범 발매 소식\n\nD.COY [온종일 맑음 (Sunny Day)]\n\nD.COY의 보컬 성우가 부른 '온종일 맑음'은 연애의 참견 시즌3 OST 이다. 어쿠스틱 한 연주에 신스 사운드가 가미된 미디움 팝 장르로, 성우의 허스키하면서도 매력적인 목소리로 완벽하게 표현해냈다.\n\n#DCOY #성우 #온종일맑음 #연애의참견 https://t.co/htLOHsq47W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DCOY",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "성우",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "온종일맑음",
+					"indices": [
+						167,
+						173
+					]
+				},
+				{
+					"text": "연애의참견",
+					"indices": [
+						174,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1327141786255560700,
+					"id_str": "1327141786255560704",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/Emr0bFBXEAAZprC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emr0bFBXEAAZprC.jpg",
+					"url": "https://t.co/htLOHsq47W",
+					"display_url": "pic.twitter.com/htLOHsq47W",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1327899137623224323/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327141786255560700,
+					"id_str": "1327141786255560704",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/Emr0bFBXEAAZprC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Emr0bFBXEAAZprC.jpg",
+					"url": "https://t.co/htLOHsq47W",
+					"display_url": "pic.twitter.com/htLOHsq47W",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1327899137623224323/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/4e0ZekwoYX",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4e0ZekwoYX",
+							"expanded_url": "http://bitly.kr/LZ7SBbWTTTr",
+							"display_url": "bitly.kr/LZ7SBbWTTTr",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 63,
+			"friends_count": 3,
+			"listed_count": 1,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 새 앨범 발매 소식\n\nD.COY [온종일 맑음 (Sunny Day)]\n\nD.COY의 보컬 성우가 부른 '온종일 맑음'은 연애의 참견 시즌3 OST 이다. 어쿠스틱 한 연주에 신스 사운드가 가미된 미디움 팝 장르로, 성우의 허스키하면서도 매력적인 목소리로 완벽하게 표현해냈다.\n\n#DCOY #성우 #온종일맑음 #연애의참견 https://t.co/htLOHsq47W"
+	},
+	{
 		"created_at": "Sun Nov 15 08:11:16 +0000 2020",
 		"id": 1327884039869640700,
 		"id_str": "1327886875806343169",
