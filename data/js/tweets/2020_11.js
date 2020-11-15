@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 15 11:58:15 +0000 2020",
+		"id": 1327929338554151000,
+		"id_str": "1327943994740011008",
+		"full_text": "[KCON:TACT season 2] BACKSTAGE BEHIND \n\nDAY 7 Behind VOD is AVAILABLE NOW.\nDAY 7 백스테이지 비하인드 VOD를 공개합니다.\n\n▶ KCON official: https://t.co/LDINZk4jBw\n▶ Mnet K-POP: https://t.co/dw3uta9TUu\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/8iD5PK1YvQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						185,
+						190
+					]
+				},
+				{
+					"text": "LetsKCON",
+					"indices": [
+						191,
+						200
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						201,
+						210
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						211,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LDINZk4jBw",
+					"expanded_url": "https://youtu.be/YqxsnPLYVig",
+					"display_url": "youtu.be/YqxsnPLYVig",
+					"indices": [
+						122,
+						145
+					]
+				},
+				{
+					"url": "https://t.co/dw3uta9TUu",
+					"expanded_url": "https://youtu.be/a97i8TKSrpw",
+					"display_url": "youtu.be/a97i8TKSrpw",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1327172444415672300,
+					"id_str": "1327172444415672321",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EmsQTnkVQAEAiOe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmsQTnkVQAEAiOe.jpg",
+					"url": "https://t.co/8iD5PK1YvQ",
+					"display_url": "pic.twitter.com/8iD5PK1YvQ",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1327929338554150912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327172444415672300,
+					"id_str": "1327172444415672321",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EmsQTnkVQAEAiOe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmsQTnkVQAEAiOe.jpg",
+					"url": "https://t.co/8iD5PK1YvQ",
+					"display_url": "pic.twitter.com/8iD5PK1YvQ",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1327929338554150912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON:TACT season 2  Oct 16~25, 2020",
+			"url": "https://t.co/CCEcf5MtP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCEcf5MtP5",
+							"expanded_url": "https://www.youtube.com/KCON",
+							"display_url": "youtube.com/KCON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301882,
+			"friends_count": 67,
+			"listed_count": 902,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1600424283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 116,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[KCON:TACT season 2] BACKSTAGE BEHIND \n\nDAY 7 Behind VOD is AVAILABLE NOW.\nDAY 7 백스테이지 비하인드 VOD를 공개합니다.\n\n▶ KCON official: https://t.co/LDINZk4jBw\n▶ Mnet K-POP: https://t.co/dw3uta9TUu\n\n#KCON #LetsKCON #KCON2020 #KCONTACT https://t.co/8iD5PK1YvQ"
+	},
+	{
 		"created_at": "Sun Nov 15 11:11:23 +0000 2020",
 		"id": 1327930919257317400,
 		"id_str": "1327932204320743424",
