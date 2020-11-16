@@ -1,6 +1,989 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 16 11:11:24 +0000 2020",
+		"id": 1328287245078507500,
+		"id_str": "1328294596296761344",
+		"full_text": "방금 사진을 게시했습니다 https://t.co/fgajV6EOd5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fgajV6EOd5",
+					"expanded_url": "https://www.instagram.com/p/CHpg9zrpbwB/?igshid=1hlfi9uzlteun",
+					"display_url": "instagram.com/p/CHpg9zrpbwB/…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3225907891,
+			"id_str": "3225907891",
+			"name": "신도시",
+			"screen_name": "seendosi",
+			"location": "서울시 중구 수표동 11-2, 5층",
+			"description": "맥주.양주.커피.식사 /송년회•신년회•돌잔치•회갑연•상견례•생일연•피로연회석완비 /서울시 중구 수표동 11-2 5층 /평일 6PM-2AM /금 6PM-3AM /토 3PM-3AM /일 휴무 /070-8631-4557",
+			"url": "https://t.co/o9mzPvptV6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o9mzPvptV6",
+							"expanded_url": "http://seendosi.com",
+							"display_url": "seendosi.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3909,
+			"friends_count": 691,
+			"listed_count": 29,
+			"created_at": "Mon May 25 05:15:01 +0000 2015",
+			"favourites_count": 2948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7947,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3225907891/1442843307",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방금 사진을 게시했습니다 https://t.co/fgajV6EOd5"
+	},
+	{
+		"created_at": "Mon Nov 16 11:11:16 +0000 2020",
+		"id": 1328286666063106000,
+		"id_str": "1328294562247434241",
+		"full_text": "📢 새 앨범 발매 소식\n⠀\n밴드 D.COY의 메인 보컬 성우가 부른\n&lt;연애의 참견 시즌3&gt; OST '온종일 맑음'\n\"좋은 사람 날 웃게 해줄 한 사람♪\"\n⠀\nSpecial Clip (Full ver.)\n🔗 https://t.co/LR7c6f2eIk\n⠀\n#D.COY #디코이 #band_dcoy\n#성우 #Sungwoo\n#온종일맑음 #Sunny_Day #연애의참견 https://t.co/cWjrnbGiu3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "D",
+					"indices": [
+						147,
+						149
+					]
+				},
+				{
+					"text": "디코이",
+					"indices": [
+						154,
+						158
+					]
+				},
+				{
+					"text": "band_dcoy",
+					"indices": [
+						159,
+						169
+					]
+				},
+				{
+					"text": "성우",
+					"indices": [
+						170,
+						173
+					]
+				},
+				{
+					"text": "Sungwoo",
+					"indices": [
+						174,
+						182
+					]
+				},
+				{
+					"text": "온종일맑음",
+					"indices": [
+						183,
+						189
+					]
+				},
+				{
+					"text": "Sunny_Day",
+					"indices": [
+						190,
+						200
+					]
+				},
+				{
+					"text": "연애의참견",
+					"indices": [
+						201,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LR7c6f2eIk",
+					"expanded_url": "https://youtu.be/7YyY5nSN6JY",
+					"display_url": "youtu.be/7YyY5nSN6JY",
+					"indices": [
+						121,
+						144
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1328286622417252400,
+					"id_str": "1328286622417252352",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1328286622417252352/pu/img/6-Dc3OtTO_NLODTa.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1328286622417252352/pu/img/6-Dc3OtTO_NLODTa.jpg",
+					"url": "https://t.co/cWjrnbGiu3",
+					"display_url": "pic.twitter.com/cWjrnbGiu3",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1328286666063106048/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328286622417252400,
+					"id_str": "1328286622417252352",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1328286622417252352/pu/img/6-Dc3OtTO_NLODTa.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1328286622417252352/pu/img/6-Dc3OtTO_NLODTa.jpg",
+					"url": "https://t.co/cWjrnbGiu3",
+					"display_url": "pic.twitter.com/cWjrnbGiu3",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1328286666063106048/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 36954,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1328286622417252352/pu/vid/1280x720/9aDk-Z4FKW8smjJz.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1328286622417252352/pu/vid/480x270/kHJC_koeDm5RtBb9.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1328286622417252352/pu/vid/640x360/T1pJYjtC1WEzsWbP.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1328286622417252352/pu/pl/nK0u7x3YMm3L9lwV.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/4e0ZekwoYX",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4e0ZekwoYX",
+							"expanded_url": "http://bitly.kr/LZ7SBbWTTTr",
+							"display_url": "bitly.kr/LZ7SBbWTTTr",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 64,
+			"friends_count": 3,
+			"listed_count": 1,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 새 앨범 발매 소식\n⠀\n밴드 D.COY의 메인 보컬 성우가 부른\n&lt;연애의 참견 시즌3&gt; OST '온종일 맑음'\n\"좋은 사람 날 웃게 해줄 한 사람♪\"\n⠀\nSpecial Clip (Full ver.)\n🔗 https://t.co/LR7c6f2eIk\n⠀\n#D.COY #디코이 #band_dcoy\n#성우 #Sungwoo\n#온종일맑음 #Sunny_Day #연애의참견 https://t.co/cWjrnbGiu3"
+	},
+	{
+		"created_at": "Mon Nov 16 10:58:14 +0000 2020",
+		"id": 1328276629680922600,
+		"id_str": "1328291282767273986",
+		"full_text": "[KCON:TACT season 2] 🎬Backstage Behind🎬 \n\n♧ Day 8\n#ONF #ONEUS #THEBOYZ #VERIVERY\n\n⏰11/17 (Tue) 20:00 KST \n\n💎 Only for KCON:TACT Members \n\n♣ NONSTOP STREAMING \n▷KCON official: https://t.co/XqzsTlO5B7 \n▷Mnet K-POP :https://t.co/J388Ddaq1j \n\n#KCONTACT #KCON #KCON2020 https://t.co/J2zaUngVVP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ONF",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "ONEUS",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "THEBOYZ",
+					"indices": [
+						62,
+						70
+					]
+				},
+				{
+					"text": "VERIVERY",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						239,
+						248
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						249,
+						254
+					]
+				},
+				{
+					"text": "KCON2020",
+					"indices": [
+						255,
+						264
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XqzsTlO5B7",
+					"expanded_url": "https://youtu.be/u0GedSPEuyA",
+					"display_url": "youtu.be/u0GedSPEuyA",
+					"indices": [
+						175,
+						198
+					]
+				},
+				{
+					"url": "https://t.co/J388Ddaq1j",
+					"expanded_url": "https://youtu.be/HkpNQvi8gNA",
+					"display_url": "youtu.be/HkpNQvi8gNA",
+					"indices": [
+						213,
+						236
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1328145184115200000,
+					"id_str": "1328145184115200000",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Em6FAhVVEAA8OKd.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Em6FAhVVEAA8OKd.jpg",
+					"url": "https://t.co/J2zaUngVVP",
+					"display_url": "pic.twitter.com/J2zaUngVVP",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1328276629680922624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328145184115200000,
+					"id_str": "1328145184115200000",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Em6FAhVVEAA8OKd.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Em6FAhVVEAA8OKd.jpg",
+					"url": "https://t.co/J2zaUngVVP",
+					"display_url": "pic.twitter.com/J2zaUngVVP",
+					"expanded_url": "https://twitter.com/KCON_Global/status/1328276629680922624/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Em6FAhVVEAA8OKd.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON Global",
+			"screen_name": "KCON_Global",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON:TACT season 2  Oct 16~25, 2020",
+			"url": "https://t.co/CCEcf5MtP5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CCEcf5MtP5",
+							"expanded_url": "https://www.youtube.com/KCON",
+							"display_url": "youtube.com/KCON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301904,
+			"friends_count": 67,
+			"listed_count": 903,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8483,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306900277623021568/tbACxLt5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1600424283",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 236,
+		"favorite_count": 573,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT season 2] 🎬Backstage Behind🎬 \n\n♧ Day 8\n#ONF #ONEUS #THEBOYZ #VERIVERY\n\n⏰11/17 (Tue) 20:00 KST \n\n💎 Only for KCON:TACT Members \n\n♣ NONSTOP STREAMING \n▷KCON official: https://t.co/XqzsTlO5B7 \n▷Mnet K-POP :https://t.co/J388Ddaq1j \n\n#KCONTACT #KCON #KCON2020 https://t.co/J2zaUngVVP"
+	},
+	{
+		"created_at": "Mon Nov 16 10:31:54 +0000 2020",
+		"id": 1328140063079731200,
+		"id_str": "1328284652419727361",
+		"full_text": "&lt;한겨레신문&gt;인터뷰가 오늘 나왔네요. 잘 읽어주세요. 고맙습니다! :)\n\n정밀아, 노래에 담은 ‘푸른 언덕’ 청파동 소리들 https://t.co/FZovHZGiog",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FZovHZGiog",
+					"expanded_url": "http://www.hani.co.kr/arti/culture/music/970013.html",
+					"display_url": "hani.co.kr/arti/culture/m…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2972799367,
+			"id_str": "2972799367",
+			"name": "정밀아Jeongmilla",
+			"screen_name": "Jeong_milla",
+			"location": "",
+			"description": "정밀아 정규1집_그리움도 병/정규2집_은하수/정규3집_청파소나타/싱글_무명/꽃/언제나그댈",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 544,
+			"friends_count": 87,
+			"listed_count": 5,
+			"created_at": "Sat Jan 10 18:56:39 +0000 2015",
+			"favourites_count": 190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925331758010155009/ponxSZf9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925331758010155009/ponxSZf9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2972799367/1602596479",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;한겨레신문&gt;인터뷰가 오늘 나왔네요. 잘 읽어주세요. 고맙습니다! :)\n\n정밀아, 노래에 담은 ‘푸른 언덕’ 청파동 소리들 https://t.co/FZovHZGiog"
+	},
+	{
+		"created_at": "Mon Nov 16 10:29:33 +0000 2020",
+		"id": 1328277419904536600,
+		"id_str": "1328284062788751363",
+		"full_text": "띠링✨ 15일에 발매된 연애의참견 시즌 3 OST '온종일 맑음' 스페셜 클립이 도착했습니다! 💌💗\n다들 귀여운 성우 보러 가세요 ❗❗❗🎤\n\n👉 https://t.co/tLaafFL6UD\n\n#DCOY #디코이 #연애의참견 #OST #온종일맑음 https://t.co/oVjxqO2TOr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DCOY",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "디코이",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "연애의참견",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "OST",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "온종일맑음",
+					"indices": [
+						129,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tLaafFL6UD",
+					"expanded_url": "https://youtu.be/7YyY5nSN6JY",
+					"display_url": "youtu.be/7YyY5nSN6JY",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1328277341395505200,
+					"id_str": "1328277341395505152",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1328277341395505152/pu/img/urSlvmESQD5tOy_R.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1328277341395505152/pu/img/urSlvmESQD5tOy_R.jpg",
+					"url": "https://t.co/oVjxqO2TOr",
+					"display_url": "pic.twitter.com/oVjxqO2TOr",
+					"expanded_url": "https://twitter.com/RCultureone/status/1328277419904536577/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328277341395505200,
+					"id_str": "1328277341395505152",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1328277341395505152/pu/img/urSlvmESQD5tOy_R.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1328277341395505152/pu/img/urSlvmESQD5tOy_R.jpg",
+					"url": "https://t.co/oVjxqO2TOr",
+					"display_url": "pic.twitter.com/oVjxqO2TOr",
+					"expanded_url": "https://twitter.com/RCultureone/status/1328277419904536577/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 36952,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1328277341395505152/pu/vid/478x270/gJsOWmZ7kjB2bmfF.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1328277341395505152/pu/pl/9Xgr4JkJNRc6vyo-.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1328277341395505152/pu/vid/720x406/npZ8Hvr2HRNZnd8M.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1232510182682267600,
+			"id_str": "1232510182682267653",
+			"name": "ROLLING CULTUREONE (롤링컬쳐원)",
+			"screen_name": "RCultureone",
+			"location": "",
+			"description": "Artist 조문근밴드(MOONBAND),디코이(D.COY),락킷걸(ROCKIT GIRL), 피콕(PEACOCK)\n\nContact\nTel. 02-325-6071\nMail. rollingcultureone@naver.com",
+			"url": "https://t.co/e3JqDNKrBf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e3JqDNKrBf",
+							"expanded_url": "http://therolling.co.kr",
+							"display_url": "therolling.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40,
+			"friends_count": 28,
+			"listed_count": 1,
+			"created_at": "Wed Feb 26 03:38:36 +0000 2020",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1301755398714658817/j-2mG0NA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1301755398714658817/j-2mG0NA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1232510182682267653/1599197648",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "띠링✨ 15일에 발매된 연애의참견 시즌 3 OST '온종일 맑음' 스페셜 클립이 도착했습니다! 💌💗\n다들 귀여운 성우 보러 가세요 ❗❗❗🎤\n\n👉 https://t.co/tLaafFL6UD\n\n#DCOY #디코이 #연애의참견 #OST #온종일맑음 https://t.co/oVjxqO2TOr"
+	},
+	{
 		"created_at": "Mon Nov 16 10:11:24 +0000 2020",
 		"id": 1328271064938537000,
 		"id_str": "1328279496798187520",
