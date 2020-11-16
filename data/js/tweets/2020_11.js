@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 16 05:29:30 +0000 2020",
+		"id": 1328206092266995700,
+		"id_str": "1328208551945396226",
+		"full_text": "[#이적]\n𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝘾𝙤𝙢𝙢𝙚𝙣𝙩𝙖𝙧𝙮 𝙁𝙞𝙡𝙢\n𝙬𝙞𝙩𝙝 이적 &amp; 김진표 (𝙁𝙪𝙡𝙡 𝙑𝙚𝙧.)\n\n잠시 후 6시 이적 정규 6집 발매 기념 스페셜 코멘터리 필름이 공개됩니다. 알림 설정 잊지마세요🛎\n\n↘ https://t.co/YkmOku4QUj\n\n@jucklee #이적 #LEEJUCK #김진표\n#정규6집 #TRACE #돌팔매 #패닉",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이적",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "이적",
+					"indices": [
+						154,
+						157
+					]
+				},
+				{
+					"text": "LEEJUCK",
+					"indices": [
+						158,
+						166
+					]
+				},
+				{
+					"text": "김진표",
+					"indices": [
+						167,
+						171
+					]
+				},
+				{
+					"text": "정규6집",
+					"indices": [
+						172,
+						177
+					]
+				},
+				{
+					"text": "TRACE",
+					"indices": [
+						178,
+						184
+					]
+				},
+				{
+					"text": "돌팔매",
+					"indices": [
+						185,
+						189
+					]
+				},
+				{
+					"text": "패닉",
+					"indices": [
+						190,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jucklee",
+					"name": "이적 Juck Lee",
+					"id": 51315123,
+					"id_str": "51315123",
+					"indices": [
+						145,
+						153
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YkmOku4QUj",
+					"expanded_url": "http://youtu.be/aJUnGkNZiQo",
+					"display_url": "youtu.be/aJUnGkNZiQo",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언",
+			"url": "https://t.co/eSVSBHrncV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSVSBHrncV",
+							"expanded_url": "http://www.instagram.com/musicfarmkorea",
+							"display_url": "instagram.com/musicfarmkorea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9181,
+			"friends_count": 5,
+			"listed_count": 111,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1357424393",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#이적]\n𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝘾𝙤𝙢𝙢𝙚𝙣𝙩𝙖𝙧𝙮 𝙁𝙞𝙡𝙢\n𝙬𝙞𝙩𝙝 이적 &amp; 김진표 (𝙁𝙪𝙡𝙡 𝙑𝙚𝙧.)\n\n잠시 후 6시 이적 정규 6집 발매 기념 스페셜 코멘터리 필름이 공개됩니다. 알림 설정 잊지마세요🛎\n\n↘ https://t.co/YkmOku4QUj\n\n@jucklee #이적 #LEEJUCK #김진표\n#정규6집 #TRACE #돌팔매 #패닉"
+	},
+	{
 		"created_at": "Mon Nov 16 05:11:16 +0000 2020",
 		"id": 1328190509525844000,
 		"id_str": "1328203965385891842",
