@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 17 14:29:25 +0000 2020",
+		"id": 1328697135697522700,
+		"id_str": "1328706814742032385",
+		"full_text": "D.COY가 참여한 OST ‘온종일 맑음’이 오늘 연애의 참견 방송에 나온다고 합니다 🤗\n오후 10시 50분(KST)부터 KBS Joy에서 방영하는 ‘연애의 참견’에서 확인해보세요👀\n본방사수 못하는 디유들은 나중에 유튜부에서도 확인할 수 있답니다!\n\n#DCOY #디코이 #연애의참견 #OST #온종일맑음 https://t.co/XD334h9nre",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DCOY",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "디코이",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "연애의참견",
+					"indices": [
+						151,
+						157
+					]
+				},
+				{
+					"text": "OST",
+					"indices": [
+						158,
+						162
+					]
+				},
+				{
+					"text": "온종일맑음",
+					"indices": [
+						163,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1328697124347814000,
+					"id_str": "1328697124347813888",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EnB6_q7VoAA_oH7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnB6_q7VoAA_oH7.jpg",
+					"url": "https://t.co/XD334h9nre",
+					"display_url": "pic.twitter.com/XD334h9nre",
+					"expanded_url": "https://twitter.com/RCultureone/status/1328697135697522689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 791,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 791,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328697124347814000,
+					"id_str": "1328697124347813888",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EnB6_q7VoAA_oH7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnB6_q7VoAA_oH7.jpg",
+					"url": "https://t.co/XD334h9nre",
+					"display_url": "pic.twitter.com/XD334h9nre",
+					"expanded_url": "https://twitter.com/RCultureone/status/1328697135697522689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 791,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 791,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1232510182682267600,
+			"id_str": "1232510182682267653",
+			"name": "ROLLING CULTUREONE (롤링컬쳐원)",
+			"screen_name": "RCultureone",
+			"location": "",
+			"description": "Artist 조문근밴드(MOONBAND),디코이(D.COY),락킷걸(ROCKIT GIRL), 피콕(PEACOCK)\n\nContact\nTel. 02-325-6071\nMail. rollingcultureone@naver.com",
+			"url": "https://t.co/e3JqDNKrBf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e3JqDNKrBf",
+							"expanded_url": "http://therolling.co.kr",
+							"display_url": "therolling.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40,
+			"friends_count": 28,
+			"listed_count": 1,
+			"created_at": "Wed Feb 26 03:38:36 +0000 2020",
+			"favourites_count": 60,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 51,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1301755398714658817/j-2mG0NA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1301755398714658817/j-2mG0NA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1232510182682267653/1599197648",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "D.COY가 참여한 OST ‘온종일 맑음’이 오늘 연애의 참견 방송에 나온다고 합니다 🤗\n오후 10시 50분(KST)부터 KBS Joy에서 방영하는 ‘연애의 참견’에서 확인해보세요👀\n본방사수 못하는 디유들은 나중에 유튜부에서도 확인할 수 있답니다!\n\n#DCOY #디코이 #연애의참견 #OST #온종일맑음 https://t.co/XD334h9nre"
+	},
+	{
 		"created_at": "Tue Nov 17 14:11:17 +0000 2020",
 		"id": 1328702062540976000,
 		"id_str": "1328702249841946629",
