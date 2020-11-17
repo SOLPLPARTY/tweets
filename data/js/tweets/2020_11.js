@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 17 00:29:25 +0000 2020",
+		"id": 1328488113119895600,
+		"id_str": "1328495422877392896",
+		"full_text": "한국계 여성 멤버 예리 조의 몽환적인 보컬이 매력적인 뉴질랜드 출신의 혼성 신스팝 듀오 @_imugi_ 이무기의 새 싱글 ‘Somebody Else’, 지금 감상하세요! 🎧 https://t.co/YEgQ4Y5umI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1328486809677033500,
+					"id_str": "1328486809677033472",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1328486809677033472/pu/img/IFXlIdr9_9zkg2BV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1328486809677033472/pu/img/IFXlIdr9_9zkg2BV.jpg",
+					"url": "https://t.co/YEgQ4Y5umI",
+					"display_url": "pic.twitter.com/YEgQ4Y5umI",
+					"expanded_url": "https://twitter.com/livenationkr/status/1328488113119895554/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328486809677033500,
+					"id_str": "1328486809677033472",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1328486809677033472/pu/img/IFXlIdr9_9zkg2BV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1328486809677033472/pu/img/IFXlIdr9_9zkg2BV.jpg",
+					"url": "https://t.co/YEgQ4Y5umI",
+					"display_url": "pic.twitter.com/YEgQ4Y5umI",
+					"expanded_url": "https://twitter.com/livenationkr/status/1328488113119895554/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15015,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1328486809677033472/pu/vid/720x720/-fImQMWRDNWUFo-i.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1328486809677033472/pu/vid/320x320/Umr7ekyl_X-OLfqq.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1328486809677033472/pu/vid/480x480/WDrNnIm_ypsuQ7S9.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1328486809677033472/pu/pl/WZXEyasgVaq-MT7f.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 236888084,
+			"id_str": "236888084",
+			"name": "LIVE NATION KOREA",
+			"screen_name": "livenationkr",
+			"location": "Seoul, South Korea",
+			"description": "라이브네이션코리아 공식 트위터. Paul McCartney, Maroon5, Jason Mraz, Coldplay, MUSE, 등 해외 유명아티스트의 내한공연과 BIGBANG, Blackpink,BTS 등의 대규모 월드투어를 기획한 공연기획사. FOLLOW US!",
+			"url": "http://t.co/WZhcKy3xE8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/WZhcKy3xE8",
+							"expanded_url": "http://www.livenation.kr",
+							"display_url": "livenation.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6485,
+			"friends_count": 234,
+			"listed_count": 27,
+			"created_at": "Tue Jan 11 16:04:41 +0000 2011",
+			"favourites_count": 593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2039,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820816720998764545/T7P3FpWQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820816720998764545/T7P3FpWQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/236888084/1475559466",
+			"profile_link_color": "E21836",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한국계 여성 멤버 예리 조의 몽환적인 보컬이 매력적인 뉴질랜드 출신의 혼성 신스팝 듀오 @_imugi_ 이무기의 새 싱글 ‘Somebody Else’, 지금 감상하세요! 🎧 https://t.co/YEgQ4Y5umI"
+	},
+	{
 		"created_at": "Mon Nov 16 13:11:16 +0000 2020",
 		"id": 1328316942013276200,
 		"id_str": "1328324761357873154",
