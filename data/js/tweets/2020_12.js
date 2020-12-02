@@ -1,6 +1,731 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 02 10:11:27 +0000 2020",
+		"id": 1334077596498157600,
+		"id_str": "1334077713469083648",
+		"full_text": "✔ NAVER TV '서울 인디 뮤직 페스타’ 채널\n- 12/4(금) 7pm https://t.co/Obpan9bF4e\n- 12/5(토) 6pm https://t.co/tfCxQFS9a6\n- 12/6(일) 6pm https://t.co/8yyI10r9Mw\n\n✔ YouTube '아지트 라이브'\n- https://t.co/Oj8uJADENX\n\n오래 준비한 공연이니 많은 관객 분들의 기대와 관심 부탁 드립니다!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Obpan9bF4e",
+					"expanded_url": "https://tv.naver.com/l/62271",
+					"display_url": "tv.naver.com/l/62271",
+					"indices": [
+						43,
+						66
+					]
+				},
+				{
+					"url": "https://t.co/tfCxQFS9a6",
+					"expanded_url": "https://tv.naver.com/l/62272",
+					"display_url": "tv.naver.com/l/62272",
+					"indices": [
+						81,
+						104
+					]
+				},
+				{
+					"url": "https://t.co/8yyI10r9Mw",
+					"expanded_url": "https://tv.naver.com/l/62273",
+					"display_url": "tv.naver.com/l/62273",
+					"indices": [
+						119,
+						142
+					]
+				},
+				{
+					"url": "https://t.co/Oj8uJADENX",
+					"expanded_url": "https://www.youtube.com/user/CJculture",
+					"display_url": "youtube.com/user/CJculture",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1334077591301419000,
+		"in_reply_to_status_id_str": "1334077591301419008",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2800,
+			"friends_count": 2697,
+			"listed_count": 22,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5386,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9558,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✔ NAVER TV '서울 인디 뮤직 페스타’ 채널\n- 12/4(금) 7pm https://t.co/Obpan9bF4e\n- 12/5(토) 6pm https://t.co/tfCxQFS9a6\n- 12/6(일) 6pm https://t.co/8yyI10r9Mw\n\n✔ YouTube '아지트 라이브'\n- https://t.co/Oj8uJADENX\n\n오래 준비한 공연이니 많은 관객 분들의 기대와 관심 부탁 드립니다!"
+	},
+	{
+		"created_at": "Wed Dec 02 10:11:21 +0000 2020",
+		"id": 1334077591301419000,
+		"id_str": "1334077687825125376",
+		"full_text": "12월 4일(금) 7pm : 김사월, 이랑, 정밀아, Yonlapa\n12월 5일(토) 6pm : ADOY, 술탄오브더디스코, 잠비나이, Stuts, D.A.N\n12월 6일(일) 6pm : 실리카겔, 이디오테잎, 지윤해, GDJYB\n\nNAVER TV '서울 인디 뮤직 페스타' 채널과 YouTube '아지트라이브' 채널에서 생중계로 만나볼 수 있다고 합니다. https://t.co/e7G6B69r3m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1334077391988113400,
+					"id_str": "1334077391988113408",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EoOYUdxUwAAYrpz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoOYUdxUwAAYrpz.jpg",
+					"url": "https://t.co/e7G6B69r3m",
+					"display_url": "pic.twitter.com/e7G6B69r3m",
+					"expanded_url": "https://twitter.com/xindieticket/status/1334077591301419008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334077391988113400,
+					"id_str": "1334077391988113408",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EoOYUdxUwAAYrpz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoOYUdxUwAAYrpz.jpg",
+					"url": "https://t.co/e7G6B69r3m",
+					"display_url": "pic.twitter.com/e7G6B69r3m",
+					"expanded_url": "https://twitter.com/xindieticket/status/1334077591301419008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1334077582690513000,
+		"in_reply_to_status_id_str": "1334077582690512899",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2800,
+			"friends_count": 2697,
+			"listed_count": 22,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5386,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9558,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "12월 4일(금) 7pm : 김사월, 이랑, 정밀아, Yonlapa\n12월 5일(토) 6pm : ADOY, 술탄오브더디스코, 잠비나이, Stuts, D.A.N\n12월 6일(일) 6pm : 실리카겔, 이디오테잎, 지윤해, GDJYB\n\nNAVER TV '서울 인디 뮤직 페스타' 채널과 YouTube '아지트라이브' 채널에서 생중계로 만나볼 수 있다고 합니다. https://t.co/e7G6B69r3m"
+	},
+	{
+		"created_at": "Wed Dec 02 10:11:17 +0000 2020",
+		"id": 1334077582690513000,
+		"id_str": "1334077670527807488",
+		"full_text": "[실시간 라이브 스트리밍 공연 추천]\n⠀\n한국 뮤지션과 아시아 뮤지션 간의 교류의 장 역할을 해온 아시안 팝 스테이지가 다시 돌아온다고 합니다😍\n⠀\n교류해온 아시아의 여러 팀들의 인사 영상과 라이브 영상까지 만나볼 수 있는 이번 2020 아시안 팝 스테이지의 라인업은 아래와 같습니다😊 https://t.co/2CcWpcX4gz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1334077373986218000,
+					"id_str": "1334077373986217985",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EoOYTatVoAEVpvV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoOYTatVoAEVpvV.jpg",
+					"url": "https://t.co/2CcWpcX4gz",
+					"display_url": "pic.twitter.com/2CcWpcX4gz",
+					"expanded_url": "https://twitter.com/xindieticket/status/1334077582690512899/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1420,
+							"h": 2008,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334077373986218000,
+					"id_str": "1334077373986217985",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EoOYTatVoAEVpvV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoOYTatVoAEVpvV.jpg",
+					"url": "https://t.co/2CcWpcX4gz",
+					"display_url": "pic.twitter.com/2CcWpcX4gz",
+					"expanded_url": "https://twitter.com/xindieticket/status/1334077582690512899/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1420,
+							"h": 2008,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2800,
+			"friends_count": 2697,
+			"listed_count": 22,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5386,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9558,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[실시간 라이브 스트리밍 공연 추천]\n⠀\n한국 뮤지션과 아시아 뮤지션 간의 교류의 장 역할을 해온 아시안 팝 스테이지가 다시 돌아온다고 합니다😍\n⠀\n교류해온 아시아의 여러 팀들의 인사 영상과 라이브 영상까지 만나볼 수 있는 이번 2020 아시안 팝 스테이지의 라인업은 아래와 같습니다😊 https://t.co/2CcWpcX4gz"
+	},
+	{
+		"created_at": "Wed Dec 02 09:29:28 +0000 2020",
+		"id": 1334060258356994000,
+		"id_str": "1334067147539161088",
+		"full_text": "#20201202\n#디어클라우드 #나인 #이랑 #토근\n#멜론 #인디스웨이 녹음 마치고 #SBS 도착\nDJ 강아솔 님, 정민재 님\n#카카오엠 #라디오 #17일업로드 https://t.co/7AVQfa8tQu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "디어클라우드",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"text": "나인",
+					"indices": [
+						18,
+						21
+					]
+				},
+				{
+					"text": "이랑",
+					"indices": [
+						22,
+						25
+					]
+				},
+				{
+					"text": "토근",
+					"indices": [
+						26,
+						29
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						30,
+						33
+					]
+				},
+				{
+					"text": "인디스웨이",
+					"indices": [
+						34,
+						40
+					]
+				},
+				{
+					"text": "SBS",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "카카오엠",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "라디오",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "17일업로드",
+					"indices": [
+						83,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1334060254078746600,
+					"id_str": "1334060254078746627",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EoOIu6FUwAMvkz7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoOIu6FUwAMvkz7.jpg",
+					"url": "https://t.co/7AVQfa8tQu",
+					"display_url": "pic.twitter.com/7AVQfa8tQu",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1334060258356994048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334060254078746600,
+					"id_str": "1334060254078746627",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EoOIu6FUwAMvkz7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoOIu6FUwAMvkz7.jpg",
+					"url": "https://t.co/7AVQfa8tQu",
+					"display_url": "pic.twitter.com/7AVQfa8tQu",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1334060258356994048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2686,
+			"friends_count": 341,
+			"listed_count": 32,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 17435,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#20201202\n#디어클라우드 #나인 #이랑 #토근\n#멜론 #인디스웨이 녹음 마치고 #SBS 도착\nDJ 강아솔 님, 정민재 님\n#카카오엠 #라디오 #17일업로드 https://t.co/7AVQfa8tQu"
+	},
+	{
 		"created_at": "Wed Dec 02 09:11:18 +0000 2020",
 		"id": 1334062574589993000,
 		"id_str": "1334062574589992961",
