@@ -1,6 +1,1485 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 02 04:11:17 +0000 2020",
+		"id": 1333973679210958800,
+		"id_str": "1333987074144407552",
+		"full_text": "방금 사진을 게시했습니다 @프리즘홀 https://t.co/kydQGFzQ8E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kydQGFzQ8E",
+					"expanded_url": "https://www.instagram.com/p/CIR62v7l0Yw/?igshid=1e5wnu7btzyo4",
+					"display_url": "instagram.com/p/CIR62v7l0Yw/…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 곳!  최고의 핫플레이스로 떠오르고 있는 프리즘홀입니다!",
+			"url": "https://t.co/wj8kdioGqi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wj8kdioGqi",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2097,
+			"friends_count": 1143,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 73,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1945,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.55181802,
+				126.91748033
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				126.91748033,
+				37.55181802
+			]
+		},
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방금 사진을 게시했습니다 @프리즘홀 https://t.co/kydQGFzQ8E"
+	},
+	{
+		"created_at": "Wed Dec 02 03:29:44 +0000 2020",
+		"id": 1333970141378330600,
+		"id_str": "1333976619258613761",
+		"full_text": "#제비다방 컴필레이션 2020/2021\n\n벌써 다섯 번째 발매되는 이번 제비컴필 앨범은 2020년을 보내고 2021년을 맞이하면서 홍대 인디씬을 뜨겁게 달군 화제의 뮤지션들이 모였다. 헬렌&amp;최솔, 밴드88, 몽림, YOJA, 불고기디스코, 연희별곡, 까데호 까지\n\nhttps://t.co/F6ldNTWbGc https://t.co/2oQccvdoin",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제비다방",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F6ldNTWbGc",
+					"expanded_url": "https://bit.ly/3qfjyli",
+					"display_url": "bit.ly/3qfjyli",
+					"indices": [
+						152,
+						175
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1333698559871357000,
+					"id_str": "1333698559871356928",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EoI_xiKVEAA_kbd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoI_xiKVEAA_kbd.jpg",
+					"url": "https://t.co/2oQccvdoin",
+					"display_url": "pic.twitter.com/2oQccvdoin",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1333970141378330626/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1333698559871357000,
+					"id_str": "1333698559871356928",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EoI_xiKVEAA_kbd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoI_xiKVEAA_kbd.jpg",
+					"url": "https://t.co/2oQccvdoin",
+					"display_url": "pic.twitter.com/2oQccvdoin",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1333970141378330626/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9507,
+			"friends_count": 2870,
+			"listed_count": 248,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 954,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1603861113",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#제비다방 컴필레이션 2020/2021\n\n벌써 다섯 번째 발매되는 이번 제비컴필 앨범은 2020년을 보내고 2021년을 맞이하면서 홍대 인디씬을 뜨겁게 달군 화제의 뮤지션들이 모였다. 헬렌&amp;최솔, 밴드88, 몽림, YOJA, 불고기디스코, 연희별곡, 까데호 까지\n\nhttps://t.co/F6ldNTWbGc https://t.co/2oQccvdoin"
+	},
+	{
+		"created_at": "Wed Dec 02 03:29:37 +0000 2020",
+		"id": 1333970090178474000,
+		"id_str": "1333976589290401792",
+		"full_text": "[#미스틱스토리] 미스틱스토리에서 보내온 수능 응원 메시지💌\n\n대학수학능력시험을 앞둔 수험생 여러분을 미스틱스토리가 응원합니다💛\n\n#LUCY #신예찬 #최상엽 #조원상 #신광일 #민서 #김시아 https://t.co/jl4zNNNtRJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미스틱스토리",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "LUCY",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "신예찬",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "최상엽",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "조원상",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "신광일",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "민서",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "김시아",
+					"indices": [
+						103,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1333970071471882200,
+					"id_str": "1333970071471882245",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EoM2tlsVgAUG5Rn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoM2tlsVgAUG5Rn.jpg",
+					"url": "https://t.co/jl4zNNNtRJ",
+					"display_url": "pic.twitter.com/jl4zNNNtRJ",
+					"expanded_url": "https://twitter.com/themysticstory/status/1333970090178473986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1333970071471882200,
+					"id_str": "1333970071471882245",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EoM2tlsVgAUG5Rn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoM2tlsVgAUG5Rn.jpg",
+					"url": "https://t.co/jl4zNNNtRJ",
+					"display_url": "pic.twitter.com/jl4zNNNtRJ",
+					"expanded_url": "https://twitter.com/themysticstory/status/1333970090178473986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1333970071488667600,
+					"id_str": "1333970071488667648",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EoM2tlwVoAAoSnd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoM2tlwVoAAoSnd.jpg",
+					"url": "https://t.co/jl4zNNNtRJ",
+					"display_url": "pic.twitter.com/jl4zNNNtRJ",
+					"expanded_url": "https://twitter.com/themysticstory/status/1333970090178473986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1333970071484461000,
+					"id_str": "1333970071484461058",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EoM2tlvVcAIqrG6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoM2tlvVcAIqrG6.jpg",
+					"url": "https://t.co/jl4zNNNtRJ",
+					"display_url": "pic.twitter.com/jl4zNNNtRJ",
+					"expanded_url": "https://twitter.com/themysticstory/status/1333970090178473986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19874,
+			"friends_count": 18,
+			"listed_count": 223,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5450,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 72,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#미스틱스토리] 미스틱스토리에서 보내온 수능 응원 메시지💌\n\n대학수학능력시험을 앞둔 수험생 여러분을 미스틱스토리가 응원합니다💛\n\n#LUCY #신예찬 #최상엽 #조원상 #신광일 #민서 #김시아 https://t.co/jl4zNNNtRJ"
+	},
+	{
+		"created_at": "Wed Dec 02 03:29:30 +0000 2020",
+		"id": 1333969996968382500,
+		"id_str": "1333976559359827968",
+		"full_text": "[#미스틱스토리] 미스틱스토리에서 보내온 수능 응원 메시지💌\n\n대학수학능력시험을 앞둔 수험생 여러분을 미스틱스토리가 응원합니다💛\n\n#손태진 #정진운 #PERCENT https://t.co/DnqRYBgCbR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미스틱스토리",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "손태진",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "정진운",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "PERCENT",
+					"indices": [
+						83,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1333969977062289400,
+					"id_str": "1333969977062289408",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/EoM2oF_VcAAlANK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoM2oF_VcAAlANK.jpg",
+					"url": "https://t.co/DnqRYBgCbR",
+					"display_url": "pic.twitter.com/DnqRYBgCbR",
+					"expanded_url": "https://twitter.com/themysticstory/status/1333969996968382464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1333969977062289400,
+					"id_str": "1333969977062289408",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/EoM2oF_VcAAlANK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoM2oF_VcAAlANK.jpg",
+					"url": "https://t.co/DnqRYBgCbR",
+					"display_url": "pic.twitter.com/DnqRYBgCbR",
+					"expanded_url": "https://twitter.com/themysticstory/status/1333969996968382464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1333969977070653400,
+					"id_str": "1333969977070653440",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/EoM2oGBVEAAYND5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoM2oGBVEAAYND5.jpg",
+					"url": "https://t.co/DnqRYBgCbR",
+					"display_url": "pic.twitter.com/DnqRYBgCbR",
+					"expanded_url": "https://twitter.com/themysticstory/status/1333969996968382464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1333969977074806800,
+					"id_str": "1333969977074806785",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/EoM2oGCUcAED13u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoM2oGCUcAED13u.jpg",
+					"url": "https://t.co/DnqRYBgCbR",
+					"display_url": "pic.twitter.com/DnqRYBgCbR",
+					"expanded_url": "https://twitter.com/themysticstory/status/1333969996968382464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19874,
+			"friends_count": 18,
+			"listed_count": 223,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5450,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#미스틱스토리] 미스틱스토리에서 보내온 수능 응원 메시지💌\n\n대학수학능력시험을 앞둔 수험생 여러분을 미스틱스토리가 응원합니다💛\n\n#손태진 #정진운 #PERCENT https://t.co/DnqRYBgCbR"
+	},
+	{
+		"created_at": "Wed Dec 02 03:29:27 +0000 2020",
+		"id": 1333969857960837000,
+		"id_str": "1333976545979985921",
+		"full_text": "[#미스틱스토리] 미스틱스토리에서 보내온 수능 응원 메시지💌\n\n대학수학능력시험을 앞둔 수험생 여러분을 미스틱스토리가 응원합니다💛\n\n#JeA #박상돈 #기안84 https://t.co/QJ1iBhJg7S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미스틱스토리",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "JeA",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "박상돈",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "기안84",
+					"indices": [
+						83,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1333969850759168000,
+					"id_str": "1333969850759168000",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EoM2gveUwAABKU8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoM2gveUwAABKU8.jpg",
+					"url": "https://t.co/QJ1iBhJg7S",
+					"display_url": "pic.twitter.com/QJ1iBhJg7S",
+					"expanded_url": "https://twitter.com/themysticstory/status/1333969857960837122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1333969850759168000,
+					"id_str": "1333969850759168000",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EoM2gveUwAABKU8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoM2gveUwAABKU8.jpg",
+					"url": "https://t.co/QJ1iBhJg7S",
+					"display_url": "pic.twitter.com/QJ1iBhJg7S",
+					"expanded_url": "https://twitter.com/themysticstory/status/1333969857960837122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1333969850763415600,
+					"id_str": "1333969850763415552",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EoM2gvfVkAAXUvV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoM2gvfVkAAXUvV.jpg",
+					"url": "https://t.co/QJ1iBhJg7S",
+					"display_url": "pic.twitter.com/QJ1iBhJg7S",
+					"expanded_url": "https://twitter.com/themysticstory/status/1333969857960837122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1333969850763411500,
+					"id_str": "1333969850763411457",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EoM2gvfVgAEqp9B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoM2gvfVgAEqp9B.jpg",
+					"url": "https://t.co/QJ1iBhJg7S",
+					"display_url": "pic.twitter.com/QJ1iBhJg7S",
+					"expanded_url": "https://twitter.com/themysticstory/status/1333969857960837122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19874,
+			"friends_count": 18,
+			"listed_count": 223,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5450,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#미스틱스토리] 미스틱스토리에서 보내온 수능 응원 메시지💌\n\n대학수학능력시험을 앞둔 수험생 여러분을 미스틱스토리가 응원합니다💛\n\n#JeA #박상돈 #기안84 https://t.co/QJ1iBhJg7S"
+	},
+	{
+		"created_at": "Wed Dec 02 03:29:25 +0000 2020",
+		"id": 1333969653299703800,
+		"id_str": "1333976537004199936",
+		"full_text": "[#미스틱스토리] 미스틱스토리에서 보내온 수능 응원 메시지💌\n\n대학수학능력시험을 앞둔 수험생 여러분을 미스틱스토리가 응원합니다💛\n\n#JeA #박상돈 #기안84 #손태진 #정진운 #PERCENT #LUCY #신예찬 #최상엽 #조원상 #신광일 #민서 #김시아 https://t.co/wVXykUpWNR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미스틱스토리",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "JeA",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "박상돈",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "기안84",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "손태진",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "정진운",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "PERCENT",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"text": "LUCY",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "신예찬",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "최상엽",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "조원상",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "신광일",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "민서",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "김시아",
+					"indices": [
+						138,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1333969645934506000,
+					"id_str": "1333969645934505986",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EoM2U0cUcAIZbeI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoM2U0cUcAIZbeI.jpg",
+					"url": "https://t.co/wVXykUpWNR",
+					"display_url": "pic.twitter.com/wVXykUpWNR",
+					"expanded_url": "https://twitter.com/themysticstory/status/1333969653299703808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1333969645934506000,
+					"id_str": "1333969645934505986",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EoM2U0cUcAIZbeI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoM2U0cUcAIZbeI.jpg",
+					"url": "https://t.co/wVXykUpWNR",
+					"display_url": "pic.twitter.com/wVXykUpWNR",
+					"expanded_url": "https://twitter.com/themysticstory/status/1333969653299703808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19874,
+			"friends_count": 18,
+			"listed_count": 223,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5450,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#미스틱스토리] 미스틱스토리에서 보내온 수능 응원 메시지💌\n\n대학수학능력시험을 앞둔 수험생 여러분을 미스틱스토리가 응원합니다💛\n\n#JeA #박상돈 #기안84 #손태진 #정진운 #PERCENT #LUCY #신예찬 #최상엽 #조원상 #신광일 #민서 #김시아 https://t.co/wVXykUpWNR"
+	},
+	{
 		"created_at": "Wed Dec 02 03:11:16 +0000 2020",
 		"id": 1333969138868318200,
 		"id_str": "1333971972699664385",
