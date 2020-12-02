@@ -1,6 +1,730 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 02 06:58:14 +0000 2020",
+		"id": 1334022356382085000,
+		"id_str": "1334029090727325705",
+		"full_text": "[2020 아시안 팝 스테이지]\n✔ 네이버 TV '서울 인디 뮤직 페스타’ (⏰ 알림설정 필수)\n- 12/4(금) 7pm : https://t.co/72rusU4nnW\n- 12/5(토) 6pm : https://t.co/YTb5o9Uf3N\n- 12/6(일) 6pm : https://t.co/nyTjUofqA7\n✔ 유튜브 '아지트 라이브'\n- https://t.co/wcbhfCn27J https://t.co/GDaaR1T0HJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/72rusU4nnW",
+					"expanded_url": "https://tv.naver.com/l/62271",
+					"display_url": "tv.naver.com/l/62271",
+					"indices": [
+						70,
+						93
+					]
+				},
+				{
+					"url": "https://t.co/YTb5o9Uf3N",
+					"expanded_url": "https://tv.naver.com/l/62272",
+					"display_url": "tv.naver.com/l/62272",
+					"indices": [
+						110,
+						133
+					]
+				},
+				{
+					"url": "https://t.co/nyTjUofqA7",
+					"expanded_url": "https://tv.naver.com/l/62273",
+					"display_url": "tv.naver.com/l/62273",
+					"indices": [
+						150,
+						173
+					]
+				},
+				{
+					"url": "https://t.co/wcbhfCn27J",
+					"expanded_url": "https://www.youtube.com/user/CJculture",
+					"display_url": "youtube.com/user/CJculture",
+					"indices": [
+						192,
+						215
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334022344138899500,
+					"id_str": "1334022344138899461",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/EoNmQQjVQAU6O4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoNmQQjVQAU6O4D.jpg",
+					"url": "https://t.co/GDaaR1T0HJ",
+					"display_url": "pic.twitter.com/GDaaR1T0HJ",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1334022356382085122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2046,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334022344138899500,
+					"id_str": "1334022344138899461",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/EoNmQQjVQAU6O4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoNmQQjVQAU6O4D.jpg",
+					"url": "https://t.co/GDaaR1T0HJ",
+					"display_url": "pic.twitter.com/GDaaR1T0HJ",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1334022356382085122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2046,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1334022344138866700,
+					"id_str": "1334022344138866688",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/EoNmQQjUwAA-TPw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoNmQQjUwAA-TPw.jpg",
+					"url": "https://t.co/GDaaR1T0HJ",
+					"display_url": "pic.twitter.com/GDaaR1T0HJ",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1334022356382085122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2046,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1334022344151507000,
+					"id_str": "1334022344151506950",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/EoNmQQmVoAYH_WY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoNmQQmVoAYH_WY.jpg",
+					"url": "https://t.co/GDaaR1T0HJ",
+					"display_url": "pic.twitter.com/GDaaR1T0HJ",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1334022356382085122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1334022344147226600,
+					"id_str": "1334022344147226629",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/EoNmQQlUUAUVCxZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoNmQQlUUAUVCxZ.jpg",
+					"url": "https://t.co/GDaaR1T0HJ",
+					"display_url": "pic.twitter.com/GDaaR1T0HJ",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1334022356382085122/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910395807504916500,
+			"id_str": "910395807504916481",
+			"name": "서울 인디 뮤직 페스타 - Seoul Indie Music Festa",
+			"screen_name": "simfsimfsimf",
+			"location": "대한민국 마포구",
+			"description": "홍대 앞을 중심으로 활동하고 있는 단체들이 함께 모여 만든 타운형 페스티벌입니다.",
+			"url": "https://t.co/arOqhmk3eP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/arOqhmk3eP",
+							"expanded_url": "http://facebook.com/simfesta",
+							"display_url": "facebook.com/simfesta",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 333,
+			"friends_count": 283,
+			"listed_count": 5,
+			"created_at": "Wed Sep 20 06:50:49 +0000 2017",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292699161192669249/CkKnE3gF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292699161192669249/CkKnE3gF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910395807504916481/1597038472",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2020 아시안 팝 스테이지]\n✔ 네이버 TV '서울 인디 뮤직 페스타’ (⏰ 알림설정 필수)\n- 12/4(금) 7pm : https://t.co/72rusU4nnW\n- 12/5(토) 6pm : https://t.co/YTb5o9Uf3N\n- 12/6(일) 6pm : https://t.co/nyTjUofqA7\n✔ 유튜브 '아지트 라이브'\n- https://t.co/wcbhfCn27J https://t.co/GDaaR1T0HJ"
+	},
+	{
+		"created_at": "Wed Dec 02 06:52:10 +0000 2020",
+		"id": 1334027562582990800,
+		"id_str": "1334027562582990848",
+		"full_text": "#소니뮤직코리아 #Sony_Music_Korea\nMewloud - One of a kind (Visualizer)\nhttps://t.co/JfWo24WGYb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소니뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Sony_Music_Korea",
+					"indices": [
+						9,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JfWo24WGYb",
+					"expanded_url": "https://youtu.be/szaxYEPrjs0",
+					"display_url": "youtu.be/szaxYEPrjs0",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#공연일정 #페스티벌 #인디밴드 #내한 #콘서트\n\n문화예술정보 @ArtManagementKR\n뮤직매거진 @Magazine_KR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								115,
+								138
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 247,
+			"friends_count": 431,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#소니뮤직코리아 #Sony_Music_Korea\nMewloud - One of a kind (Visualizer)\nhttps://t.co/JfWo24WGYb"
+	},
+	{
+		"created_at": "Wed Dec 02 06:29:30 +0000 2020",
+		"id": 1334014436290355200,
+		"id_str": "1334021857713016838",
+		"full_text": "[1년 전 오늘] 오늘은 PERC%NT의 '멍'이 발매 된지 1년째 되는 날👏 이별의 아픔을 노래한 퍼센트의 이야기, 함께 들어볼까요?🎵🖤\n\n🔗 https://t.co/1PAhGPnB92\n⠀\n#1년전오늘 #퍼센트 #percent \n#LISTEN033 #멍 #Bruise #1주년 https://t.co/KNjQLB9pul",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "1년전오늘",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "퍼센트",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "percent",
+					"indices": [
+						119,
+						127
+					]
+				},
+				{
+					"text": "LISTEN033",
+					"indices": [
+						129,
+						139
+					]
+				},
+				{
+					"text": "멍",
+					"indices": [
+						140,
+						142
+					]
+				},
+				{
+					"text": "Bruise",
+					"indices": [
+						143,
+						150
+					]
+				},
+				{
+					"text": "1주년",
+					"indices": [
+						151,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1PAhGPnB92",
+					"expanded_url": "https://youtu.be/PaW7JrHe5Tk",
+					"display_url": "youtu.be/PaW7JrHe5Tk",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1333985026258600000,
+					"id_str": "1333985026258599937",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1333985026258599937/pu/img/bBRc3SKgCfj2aIWo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1333985026258599937/pu/img/bBRc3SKgCfj2aIWo.jpg",
+					"url": "https://t.co/KNjQLB9pul",
+					"display_url": "pic.twitter.com/KNjQLB9pul",
+					"expanded_url": "https://twitter.com/themysticstory/status/1334014436290355201/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1333985026258600000,
+					"id_str": "1333985026258599937",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1333985026258599937/pu/img/bBRc3SKgCfj2aIWo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1333985026258599937/pu/img/bBRc3SKgCfj2aIWo.jpg",
+					"url": "https://t.co/KNjQLB9pul",
+					"display_url": "pic.twitter.com/KNjQLB9pul",
+					"expanded_url": "https://twitter.com/themysticstory/status/1334014436290355201/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 84400,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1333985026258599937/pu/pl/FmPfXTv3CSIlaUOV.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1333985026258599937/pu/vid/480x480/Kzt4R4fLBSnlXOqT.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1333985026258599937/pu/vid/720x720/9yozGWRP6FjzuooS.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1333985026258599937/pu/vid/320x320/DFjaO_knuMWcIUh2.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19876,
+			"friends_count": 18,
+			"listed_count": 223,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[1년 전 오늘] 오늘은 PERC%NT의 '멍'이 발매 된지 1년째 되는 날👏 이별의 아픔을 노래한 퍼센트의 이야기, 함께 들어볼까요?🎵🖤\n\n🔗 https://t.co/1PAhGPnB92\n⠀\n#1년전오늘 #퍼센트 #percent \n#LISTEN033 #멍 #Bruise #1주년 https://t.co/KNjQLB9pul"
+	},
+	{
 		"created_at": "Wed Dec 02 04:29:28 +0000 2020",
 		"id": 1333987996979236900,
 		"id_str": "1333991650780131330",
