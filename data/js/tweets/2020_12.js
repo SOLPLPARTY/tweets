@@ -1,6 +1,141 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 03 15:29:25 +0000 2020",
+		"id": 1334513516477370400,
+		"id_str": "1334520118626443265",
+		"full_text": "Yerin Baek 'tellusboutyourself' Teaser \n\nhttps://t.co/tRwwQHtZjF\n⠀\n2nd Full-length Album [tellusboutyourself]\n2020.12.10 (THU) 6PM KST\n⠀\n#yerinbaek #tellusboutyourself\n#백예린 #백예린정규2집",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "yerinbaek",
+					"indices": [
+						137,
+						147
+					]
+				},
+				{
+					"text": "tellusboutyourself",
+					"indices": [
+						148,
+						167
+					]
+				},
+				{
+					"text": "백예린",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "백예린정규2집",
+					"indices": [
+						173,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tRwwQHtZjF",
+					"expanded_url": "https://youtu.be/W3U4m9Zyuh4",
+					"display_url": "youtu.be/W3U4m9Zyuh4",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl contact@bluevinyl.kr",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18989,
+			"friends_count": 0,
+			"listed_count": 113,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 99,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1333999688865914883/VUQjoqmj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1333999688865914883/VUQjoqmj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1606885286",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1186,
+		"favorite_count": 1368,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yerin Baek 'tellusboutyourself' Teaser \n\nhttps://t.co/tRwwQHtZjF\n⠀\n2nd Full-length Album [tellusboutyourself]\n2020.12.10 (THU) 6PM KST\n⠀\n#yerinbaek #tellusboutyourself\n#백예린 #백예린정규2집"
+	},
+	{
 		"created_at": "Thu Dec 03 12:11:17 +0000 2020",
 		"id": 1334469467535941600,
 		"id_str": "1334470257570885633",
