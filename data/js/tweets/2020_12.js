@@ -1,6 +1,1228 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 03 12:11:17 +0000 2020",
+		"id": 1334469467535941600,
+		"id_str": "1334470257570885633",
+		"full_text": "뮤지컬 &lt;#스모크&gt;\n2020.12.04(금) ~ 2021.02.21(일)\n예스24스테이지 2관\n\n온라인 문진표: \nhttps://t.co/ZflXzPf5YV\n(관람 당일에 한하여 사전 작성 가능)\n\n객석 입장시, 문진표 성함과 일치한 신분증을 확인하오니 지참하여 주시기 바랍니다 https://t.co/B7FpBSrQlu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스모크",
+					"indices": [
+						8,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZflXzPf5YV",
+					"expanded_url": "http://m.ticket.yes24.com/COVID19/37866",
+					"display_url": "m.ticket.yes24.com/COVID19/37866",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334469411055394800,
+					"id_str": "1334469411055394822",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1334469411055394822/pu/img/fUx8lSWCZCfhMKQn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1334469411055394822/pu/img/fUx8lSWCZCfhMKQn.jpg",
+					"url": "https://t.co/B7FpBSrQlu",
+					"display_url": "pic.twitter.com/B7FpBSrQlu",
+					"expanded_url": "https://twitter.com/yes24stage/status/1334469467535941633/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334469411055394800,
+					"id_str": "1334469411055394822",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1334469411055394822/pu/img/fUx8lSWCZCfhMKQn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1334469411055394822/pu/img/fUx8lSWCZCfhMKQn.jpg",
+					"url": "https://t.co/B7FpBSrQlu",
+					"display_url": "pic.twitter.com/B7FpBSrQlu",
+					"expanded_url": "https://twitter.com/yes24stage/status/1334469467535941633/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 31084,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1334469411055394822/pu/pl/hE2ksI3sgzsil6bF.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1334469411055394822/pu/vid/852x480/ZHnNmZAH_f2Dkb3d.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1334469411055394822/pu/vid/638x360/RJtZmz_v1hUB2IB2.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1334469411055394822/pu/vid/478x270/IFat7U77ZAZz3DZq.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1104695434893652000,
+			"id_str": "1104695434893651968",
+			"name": "YES24 STAGE_예스24 스테이지",
+			"screen_name": "yes24stage",
+			"location": "대한민국 서울 종로구 대학로12길, 21",
+			"description": "예스24(주)가 운영하는 공연장 운영법인인 예스24라이브홀(주)의 #대학로 공연장 #예스24스테이지 ( #YES24STAGE ) 의 공식 트위터입니다.",
+			"url": "https://t.co/gpVU45TxjE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gpVU45TxjE",
+							"expanded_url": "https://www.yes24stage.com/",
+							"display_url": "yes24stage.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4651,
+			"friends_count": 37,
+			"listed_count": 16,
+			"created_at": "Sun Mar 10 10:48:10 +0000 2019",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1104695434893651968/1585722791",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뮤지컬 &lt;#스모크&gt;\n2020.12.04(금) ~ 2021.02.21(일)\n예스24스테이지 2관\n\n온라인 문진표: \nhttps://t.co/ZflXzPf5YV\n(관람 당일에 한하여 사전 작성 가능)\n\n객석 입장시, 문진표 성함과 일치한 신분증을 확인하오니 지참하여 주시기 바랍니다 https://t.co/B7FpBSrQlu"
+	},
+	{
+		"created_at": "Thu Dec 03 11:29:53 +0000 2020",
+		"id": 1334452470261502000,
+		"id_str": "1334459841344102402",
+		"full_text": "❄️\n\n정승환 윈터 싱글 '어김없이 이 거리에'\n\nJung Seung Hwan Winter Single \n'Winter Again'\n\n❄️ Concept Photo ❄️\n\n2020. 12. 08. 6pm Release!\n\n#정승환 #JungSeungHwan #WinterSingle\n#어김없이_이_거리에 #Winter_Again https://t.co/tyfMoATU5W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정승환",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						129,
+						143
+					]
+				},
+				{
+					"text": "WinterSingle",
+					"indices": [
+						144,
+						157
+					]
+				},
+				{
+					"text": "어김없이_이_거리에",
+					"indices": [
+						158,
+						169
+					]
+				},
+				{
+					"text": "Winter_Again",
+					"indices": [
+						170,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1334452461717766100,
+					"id_str": "1334452461717766144",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EoTtcZZVQAAISAu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoTtcZZVQAAISAu.jpg",
+					"url": "https://t.co/tyfMoATU5W",
+					"display_url": "pic.twitter.com/tyfMoATU5W",
+					"expanded_url": "https://twitter.com/antennamusic/status/1334452470261501952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334452461717766100,
+					"id_str": "1334452461717766144",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EoTtcZZVQAAISAu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoTtcZZVQAAISAu.jpg",
+					"url": "https://t.co/tyfMoATU5W",
+					"display_url": "pic.twitter.com/tyfMoATU5W",
+					"expanded_url": "https://twitter.com/antennamusic/status/1334452470261501952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1334452461709353000,
+					"id_str": "1334452461709352961",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EoTtcZXU4AEDXmB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoTtcZXU4AEDXmB.jpg",
+					"url": "https://t.co/tyfMoATU5W",
+					"display_url": "pic.twitter.com/tyfMoATU5W",
+					"expanded_url": "https://twitter.com/antennamusic/status/1334452470261501952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seunghwan, Lee Jin Ah, CHAI, Yun Seokcheol, Jukjae Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35032,
+			"friends_count": 10,
+			"listed_count": 369,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3338,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1606994307",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 135,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❄️\n\n정승환 윈터 싱글 '어김없이 이 거리에'\n\nJung Seung Hwan Winter Single \n'Winter Again'\n\n❄️ Concept Photo ❄️\n\n2020. 12. 08. 6pm Release!\n\n#정승환 #JungSeungHwan #WinterSingle\n#어김없이_이_거리에 #Winter_Again https://t.co/tyfMoATU5W"
+	},
+	{
+		"created_at": "Thu Dec 03 11:29:48 +0000 2020",
+		"id": 1334446629965848600,
+		"id_str": "1334459819927941120",
+		"full_text": "슬릭 단독공연 &lt;SLEEQ SHOW&gt; \n공연 날짜 : 2020년 12월 26일 토요일 \n공연 시간 : 1회차 : 오후 2시 / 2회차 : 오후 7시\n공연 장소 : 구름아래소극장\n티켓 가격\n1회차 공연 : 50,000원\n2회차 공연 : 55,000원\n#슬릭 #단독공연 #단독콘서트 #슬릭쇼 #구름아래소극장 #토크콘서트 #추억쌓기 #코너소개 https://t.co/BYdiIKvRkn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬릭",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						155,
+						161
+					]
+				},
+				{
+					"text": "슬릭쇼",
+					"indices": [
+						162,
+						166
+					]
+				},
+				{
+					"text": "구름아래소극장",
+					"indices": [
+						167,
+						175
+					]
+				},
+				{
+					"text": "토크콘서트",
+					"indices": [
+						176,
+						182
+					]
+				},
+				{
+					"text": "추억쌓기",
+					"indices": [
+						183,
+						188
+					]
+				},
+				{
+					"text": "코너소개",
+					"indices": [
+						189,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1334446626132222000,
+					"id_str": "1334446626132221952",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EoToIuJUYAARLIH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoToIuJUYAARLIH.jpg",
+					"url": "https://t.co/BYdiIKvRkn",
+					"display_url": "pic.twitter.com/BYdiIKvRkn",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1334446629965848576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334446626132222000,
+					"id_str": "1334446626132221952",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EoToIuJUYAARLIH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoToIuJUYAARLIH.jpg",
+					"url": "https://t.co/BYdiIKvRkn",
+					"display_url": "pic.twitter.com/BYdiIKvRkn",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1334446629965848576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1334446159318851600,
+		"in_reply_to_status_id_str": "1334446159318851584",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1993,
+			"friends_count": 26,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1594485943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬릭 단독공연 &lt;SLEEQ SHOW&gt; \n공연 날짜 : 2020년 12월 26일 토요일 \n공연 시간 : 1회차 : 오후 2시 / 2회차 : 오후 7시\n공연 장소 : 구름아래소극장\n티켓 가격\n1회차 공연 : 50,000원\n2회차 공연 : 55,000원\n#슬릭 #단독공연 #단독콘서트 #슬릭쇼 #구름아래소극장 #토크콘서트 #추억쌓기 #코너소개 https://t.co/BYdiIKvRkn"
+	},
+	{
+		"created_at": "Thu Dec 03 11:29:40 +0000 2020",
+		"id": 1334446159318851600,
+		"id_str": "1334459785928986624",
+		"full_text": "5. No Dab sleeQ\n인라를 통해 당첨된 팬들의 아이디어! Q&amp;A 시간입니다.\n지금 바로 댓글을 통해 질문을 남겨주세요. \n노답? ㄴㄴ 인생은 답을 찾아 가는 여정이야.\n슬릭에게 궁금했던 것 모두모두 쏟아내세요. \n토크콘서트에서 슬릭이 답합니다. https://t.co/lBajEceihl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1334446156156264400,
+					"id_str": "1334446156156264449",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EoTntXWUYAEX9kD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoTntXWUYAEX9kD.jpg",
+					"url": "https://t.co/lBajEceihl",
+					"display_url": "pic.twitter.com/lBajEceihl",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1334446159318851584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334446156156264400,
+					"id_str": "1334446156156264449",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EoTntXWUYAEX9kD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoTntXWUYAEX9kD.jpg",
+					"url": "https://t.co/lBajEceihl",
+					"display_url": "pic.twitter.com/lBajEceihl",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1334446159318851584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1334446030356549600,
+		"in_reply_to_status_id_str": "1334446030356549632",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1993,
+			"friends_count": 26,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1594485943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "5. No Dab sleeQ\n인라를 통해 당첨된 팬들의 아이디어! Q&amp;A 시간입니다.\n지금 바로 댓글을 통해 질문을 남겨주세요. \n노답? ㄴㄴ 인생은 답을 찾아 가는 여정이야.\n슬릭에게 궁금했던 것 모두모두 쏟아내세요. \n토크콘서트에서 슬릭이 답합니다. https://t.co/lBajEceihl"
+	},
+	{
+		"created_at": "Thu Dec 03 11:29:32 +0000 2020",
+		"id": 1334446030356549600,
+		"id_str": "1334459751867035649",
+		"full_text": "4.  노래방 애창곡 뿜뿜\n여러분, 슬릭이 요즘 노래방을 못가서 한이 맺혀가지고..\n목 좀 풀자. https://t.co/gwllKrLycz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1334446027097559000,
+					"id_str": "1334446027097559040",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/EoTnl2kU0AAJgiN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoTnl2kU0AAJgiN.jpg",
+					"url": "https://t.co/gwllKrLycz",
+					"display_url": "pic.twitter.com/gwllKrLycz",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1334446030356549632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334446027097559000,
+					"id_str": "1334446027097559040",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/EoTnl2kU0AAJgiN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoTnl2kU0AAJgiN.jpg",
+					"url": "https://t.co/gwllKrLycz",
+					"display_url": "pic.twitter.com/gwllKrLycz",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1334446030356549632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1334445931249295400,
+		"in_reply_to_status_id_str": "1334445931249295361",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1993,
+			"friends_count": 26,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1594485943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "4.  노래방 애창곡 뿜뿜\n여러분, 슬릭이 요즘 노래방을 못가서 한이 맺혀가지고..\n목 좀 풀자. https://t.co/gwllKrLycz"
+	},
+	{
+		"created_at": "Thu Dec 03 11:29:30 +0000 2020",
+		"id": 1334445931249295400,
+		"id_str": "1334459742635298817",
+		"full_text": "3. 블라인드 폭로전\n아 진짜 이분이 오신다고? 생각지도 못한 게스트의 등장.\n아는 거 모르는 거 다 털고 가실게요. https://t.co/U6eJCc89rP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1334445928179122200,
+					"id_str": "1334445928179122183",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/EoTngGEVQAc6Wxv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoTngGEVQAc6Wxv.jpg",
+					"url": "https://t.co/U6eJCc89rP",
+					"display_url": "pic.twitter.com/U6eJCc89rP",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1334445931249295361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334445928179122200,
+					"id_str": "1334445928179122183",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/EoTngGEVQAc6Wxv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoTngGEVQAc6Wxv.jpg",
+					"url": "https://t.co/U6eJCc89rP",
+					"display_url": "pic.twitter.com/U6eJCc89rP",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1334445931249295361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1334445824047108000,
+		"in_reply_to_status_id_str": "1334445824047108098",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1993,
+			"friends_count": 26,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1594485943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "3. 블라인드 폭로전\n아 진짜 이분이 오신다고? 생각지도 못한 게스트의 등장.\n아는 거 모르는 거 다 털고 가실게요. https://t.co/U6eJCc89rP"
+	},
+	{
 		"created_at": "Thu Dec 03 11:17:57 +0000 2020",
 		"id": 1334456836565725200,
 		"id_str": "1334456836565725185",
