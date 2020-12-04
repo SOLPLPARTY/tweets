@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 04 05:11:17 +0000 2020",
+		"id": 1334717542640668700,
+		"id_str": "1334726948312985600",
+		"full_text": "[신규입고]\n\n다양한 문화 이야기가 담긴 Street H 138호가 입고 되었습니다 ♪(*´θ｀)ノ\n\n이번 호에서는 애플의 영감! 브라운사의 보물! \"Less but Better\" 산업 디자이너 디터 람스의 디자인 타임라인을 담은 포스터와 함께해요!\n⠀\n오늘도 씬디에 방문하셔서 무가지를 자유롭게 이용해보세요◕‿◕✿ https://t.co/1kvjOB1mzX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1334717388013498400,
+					"id_str": "1334717388013498374",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EoXeZIwU8AYj1As.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoXeZIwU8AYj1As.jpg",
+					"url": "https://t.co/1kvjOB1mzX",
+					"display_url": "pic.twitter.com/1kvjOB1mzX",
+					"expanded_url": "https://twitter.com/xindieticket/status/1334717542640668675/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 896,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1060,
+							"h": 1420,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334717388013498400,
+					"id_str": "1334717388013498374",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EoXeZIwU8AYj1As.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoXeZIwU8AYj1As.jpg",
+					"url": "https://t.co/1kvjOB1mzX",
+					"display_url": "pic.twitter.com/1kvjOB1mzX",
+					"expanded_url": "https://twitter.com/xindieticket/status/1334717542640668675/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 896,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1060,
+							"h": 1420,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2801,
+			"friends_count": 2697,
+			"listed_count": 22,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[신규입고]\n\n다양한 문화 이야기가 담긴 Street H 138호가 입고 되었습니다 ♪(*´θ｀)ノ\n\n이번 호에서는 애플의 영감! 브라운사의 보물! \"Less but Better\" 산업 디자이너 디터 람스의 디자인 타임라인을 담은 포스터와 함께해요!\n⠀\n오늘도 씬디에 방문하셔서 무가지를 자유롭게 이용해보세요◕‿◕✿ https://t.co/1kvjOB1mzX"
+	},
+	{
 		"created_at": "Fri Dec 04 03:36:36 +0000 2020",
 		"id": 1334703123399635000,
 		"id_str": "1334703123399634946",
