@@ -1,6 +1,316 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 05 07:58:14 +0000 2020",
+		"id": 1335122508471627800,
+		"id_str": "1335131353550118912",
+		"full_text": "아시안 팝 스테이지 둘째날입니다!\n열심히 리허설 중인 출연팀들😊\n알림 설정 잊지 마시고, 오후 6시에 만나요😍\n\n✔네이버 TV '아시안 팝 스테이지’ 채널\n-12/5(토) 6pm https://t.co/YTb5o9Uf3N\n-12/6(일) 6pm https://t.co/nyTjUofqA7\n✔유튜브 '아지트 라이브'\nhttps://t.co/wcbhfCn27J https://t.co/WtPsLQq7NZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YTb5o9Uf3N",
+					"expanded_url": "https://tv.naver.com/l/62272",
+					"display_url": "tv.naver.com/l/62272",
+					"indices": [
+						100,
+						123
+					]
+				},
+				{
+					"url": "https://t.co/nyTjUofqA7",
+					"expanded_url": "https://tv.naver.com/l/62273",
+					"display_url": "tv.naver.com/l/62273",
+					"indices": [
+						137,
+						160
+					]
+				},
+				{
+					"url": "https://t.co/wcbhfCn27J",
+					"expanded_url": "https://www.youtube.com/user/CJculture",
+					"display_url": "youtube.com/user/CJculture",
+					"indices": [
+						176,
+						199
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1335122495318290400,
+					"id_str": "1335122495318290434",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EodO1fEUcAIPKld.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EodO1fEUcAIPKld.jpg",
+					"url": "https://t.co/WtPsLQq7NZ",
+					"display_url": "pic.twitter.com/WtPsLQq7NZ",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1335122508471627776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1335122495318290400,
+					"id_str": "1335122495318290434",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EodO1fEUcAIPKld.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EodO1fEUcAIPKld.jpg",
+					"url": "https://t.co/WtPsLQq7NZ",
+					"display_url": "pic.twitter.com/WtPsLQq7NZ",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1335122508471627776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1335122496006176800,
+					"id_str": "1335122496006176768",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EodO1hoUwAA8rFF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EodO1hoUwAA8rFF.jpg",
+					"url": "https://t.co/WtPsLQq7NZ",
+					"display_url": "pic.twitter.com/WtPsLQq7NZ",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1335122508471627776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1335122497738399700,
+					"id_str": "1335122497738399744",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EodO1oFUYAArY28.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EodO1oFUYAArY28.jpg",
+					"url": "https://t.co/WtPsLQq7NZ",
+					"display_url": "pic.twitter.com/WtPsLQq7NZ",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1335122508471627776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1335122498493370400,
+					"id_str": "1335122498493370368",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EodO1q5UUAAJ8Rw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EodO1q5UUAAJ8Rw.jpg",
+					"url": "https://t.co/WtPsLQq7NZ",
+					"display_url": "pic.twitter.com/WtPsLQq7NZ",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1335122508471627776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1954,
+							"h": 1954,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910395807504916500,
+			"id_str": "910395807504916481",
+			"name": "서울 인디 뮤직 페스타 - Seoul Indie Music Festa",
+			"screen_name": "simfsimfsimf",
+			"location": "대한민국 마포구",
+			"description": "홍대 앞을 중심으로 활동하고 있는 단체들이 함께 모여 만든 타운형 페스티벌입니다.",
+			"url": "https://t.co/arOqhmk3eP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/arOqhmk3eP",
+							"expanded_url": "http://facebook.com/simfesta",
+							"display_url": "facebook.com/simfesta",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 333,
+			"friends_count": 283,
+			"listed_count": 5,
+			"created_at": "Wed Sep 20 06:50:49 +0000 2017",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292699161192669249/CkKnE3gF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292699161192669249/CkKnE3gF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910395807504916481/1597038472",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아시안 팝 스테이지 둘째날입니다!\n열심히 리허설 중인 출연팀들😊\n알림 설정 잊지 마시고, 오후 6시에 만나요😍\n\n✔네이버 TV '아시안 팝 스테이지’ 채널\n-12/5(토) 6pm https://t.co/YTb5o9Uf3N\n-12/6(일) 6pm https://t.co/nyTjUofqA7\n✔유튜브 '아지트 라이브'\nhttps://t.co/wcbhfCn27J https://t.co/WtPsLQq7NZ"
+	},
+	{
 		"created_at": "Sat Dec 05 06:29:25 +0000 2020",
 		"id": 1335101519486546000,
 		"id_str": "1335108999239360514",
