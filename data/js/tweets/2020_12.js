@@ -1,6 +1,606 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 05 13:11:17 +0000 2020",
+		"id": 1335204695371993000,
+		"id_str": "1335210133979336705",
+		"full_text": "We are streaming live on @mixcloud right now! Join the fun 📡 https://t.co/wlYWjyMsUj https://t.co/r3uO7uXbOm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mixcloud",
+					"name": "Mixcloud",
+					"id": 16081046,
+					"id_str": "16081046",
+					"indices": [
+						25,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wlYWjyMsUj",
+					"expanded_url": "http://www.mixcloud.com/live/cakeshop",
+					"display_url": "mixcloud.com/live/cakeshop",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1335204680813564000,
+					"id_str": "1335204680813563910",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EoeZlT5U0AYgd_A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoeZlT5U0AYgd_A.jpg",
+					"url": "https://t.co/r3uO7uXbOm",
+					"display_url": "pic.twitter.com/r3uO7uXbOm",
+					"expanded_url": "https://twitter.com/CakeshopSeoul/status/1335204695371993089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1241,
+							"h": 1540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 967,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 548,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1335204680813564000,
+					"id_str": "1335204680813563910",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EoeZlT5U0AYgd_A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoeZlT5U0AYgd_A.jpg",
+					"url": "https://t.co/r3uO7uXbOm",
+					"display_url": "pic.twitter.com/r3uO7uXbOm",
+					"expanded_url": "https://twitter.com/CakeshopSeoul/status/1335204695371993089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1241,
+							"h": 1540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 967,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 548,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 776033448,
+			"id_str": "776033448",
+			"name": "Cakeshop Seoul",
+			"screen_name": "CakeshopSeoul",
+			"location": "이태원동 34-16 용산구 서울",
+			"description": "",
+			"url": "https://t.co/Y6fLNJs2vN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y6fLNJs2vN",
+							"expanded_url": "http://www.cakeshopseoul.com",
+							"display_url": "cakeshopseoul.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2565,
+			"friends_count": 551,
+			"listed_count": 20,
+			"created_at": "Thu Aug 23 14:06:21 +0000 2012",
+			"favourites_count": 904,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838798045638635522/svqBMkbH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838798045638635522/svqBMkbH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/776033448/1465407468",
+			"profile_link_color": "ED3D26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are streaming live on @mixcloud right now! Join the fun 📡 https://t.co/wlYWjyMsUj https://t.co/r3uO7uXbOm"
+	},
+	{
+		"created_at": "Sat Dec 05 13:10:28 +0000 2020",
+		"id": 1335209929695703000,
+		"id_str": "1335209929695703040",
+		"full_text": "#온스테이지 #ONSTAGE\n온스테이지 10주년 | ​플레이리스트 : 11\nhttps://t.co/oxRYEPTW1n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "온스테이지",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "ONSTAGE",
+					"indices": [
+						7,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oxRYEPTW1n",
+					"expanded_url": "https://youtu.be/9yixJd4EWiA",
+					"display_url": "youtu.be/9yixJd4EWiA",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#공연일정 #페스티벌 #인디밴드 #내한 #콘서트\n\n문화예술정보 @ArtManagementKR\n뮤직매거진 @Magazine_KR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								115,
+								138
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 246,
+			"friends_count": 431,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65924,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#온스테이지 #ONSTAGE\n온스테이지 10주년 | ​플레이리스트 : 11\nhttps://t.co/oxRYEPTW1n"
+	},
+	{
+		"created_at": "Sat Dec 05 12:58:15 +0000 2020",
+		"id": 1335206786635161600,
+		"id_str": "1335206851877679105",
+		"full_text": "오늘 아시안 팝 스테이지 두번째 라이브 즐거우셨나요?\n내일은 지윤해, 실리카겔, 이디오테잎, GDJYB[HK]와 함께합니다.\n내일 오후 6시에 만나요😍\n✔네이버 TV '아시안 팝 스테이지’ 채널\n-12/6(일) 6pm https://t.co/nyTjUofqA7\n✔유튜브 '아지트 라이브'\nhttps://t.co/wcbhfCn27J https://t.co/XfMy6AbNlE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nyTjUofqA7",
+					"expanded_url": "https://tv.naver.com/l/62273",
+					"display_url": "tv.naver.com/l/62273",
+					"indices": [
+						122,
+						145
+					]
+				},
+				{
+					"url": "https://t.co/wcbhfCn27J",
+					"expanded_url": "https://www.youtube.com/user/CJculture",
+					"display_url": "youtube.com/user/CJculture",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1335206777353191400,
+					"id_str": "1335206777353191425",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EoebfWHUwAEU0Z9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoebfWHUwAEU0Z9.jpg",
+					"url": "https://t.co/XfMy6AbNlE",
+					"display_url": "pic.twitter.com/XfMy6AbNlE",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1335206786635161602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1335206777353191400,
+					"id_str": "1335206777353191425",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EoebfWHUwAEU0Z9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoebfWHUwAEU0Z9.jpg",
+					"url": "https://t.co/XfMy6AbNlE",
+					"display_url": "pic.twitter.com/XfMy6AbNlE",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1335206786635161602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1335206777357398000,
+					"id_str": "1335206777357398018",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EoebfWIU8AINnGm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoebfWIU8AINnGm.jpg",
+					"url": "https://t.co/XfMy6AbNlE",
+					"display_url": "pic.twitter.com/XfMy6AbNlE",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1335206786635161602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1335206777357443000,
+					"id_str": "1335206777357443072",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EoebfWIVoAAAlcp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoebfWIVoAAAlcp.jpg",
+					"url": "https://t.co/XfMy6AbNlE",
+					"display_url": "pic.twitter.com/XfMy6AbNlE",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1335206786635161602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910395807504916500,
+			"id_str": "910395807504916481",
+			"name": "서울 인디 뮤직 페스타 - Seoul Indie Music Festa",
+			"screen_name": "simfsimfsimf",
+			"location": "대한민국 마포구",
+			"description": "홍대 앞을 중심으로 활동하고 있는 단체들이 함께 모여 만든 타운형 페스티벌입니다.",
+			"url": "https://t.co/arOqhmk3eP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/arOqhmk3eP",
+							"expanded_url": "http://facebook.com/simfesta",
+							"display_url": "facebook.com/simfesta",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 333,
+			"friends_count": 283,
+			"listed_count": 5,
+			"created_at": "Wed Sep 20 06:50:49 +0000 2017",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292699161192669249/CkKnE3gF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292699161192669249/CkKnE3gF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910395807504916481/1597038472",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 아시안 팝 스테이지 두번째 라이브 즐거우셨나요?\n내일은 지윤해, 실리카겔, 이디오테잎, GDJYB[HK]와 함께합니다.\n내일 오후 6시에 만나요😍\n✔네이버 TV '아시안 팝 스테이지’ 채널\n-12/6(일) 6pm https://t.co/nyTjUofqA7\n✔유튜브 '아지트 라이브'\nhttps://t.co/wcbhfCn27J https://t.co/XfMy6AbNlE"
+	},
+	{
 		"created_at": "Sat Dec 05 11:29:25 +0000 2020",
 		"id": 1335177192058208300,
 		"id_str": "1335184496489091082",
