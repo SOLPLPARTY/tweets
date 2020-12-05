@@ -1,6 +1,144 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 05 13:29:29 +0000 2020",
+		"id": 1335209809419923500,
+		"id_str": "1335214713131704322",
+		"full_text": "[Interview]\n\nWH3N(웬)이 함께한 '강한나의 볼륨을 높여요' 다들 즐거우셨나요?\nWH3N(웬)의 정규 앨범에 대한 더 많은 정보가 궁금하시다면, WH3N(웬)이 직접 추천한 노래들과 함께 공개된 멜론 매거진의 인터뷰를 참고해 주세요 😊\n🖇 https://t.co/wZveEHjR7y\n\n#WH3N #웬 #bornxoxo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WH3N",
+					"indices": [
+						166,
+						171
+					]
+				},
+				{
+					"text": "웬",
+					"indices": [
+						172,
+						174
+					]
+				},
+				{
+					"text": "bornxoxo",
+					"indices": [
+						175,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wZveEHjR7y",
+					"expanded_url": "https://bit.ly/3gatBUc",
+					"display_url": "bit.ly/3gatBUc",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다.\n가수 스웨덴세탁소, 볼빨간사춘기, 김지수,\n스무살, 보라미유, WH3N, 최유리 소속사\nhttps://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7996,
+			"friends_count": 4,
+			"listed_count": 67,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1605598819",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Interview]\n\nWH3N(웬)이 함께한 '강한나의 볼륨을 높여요' 다들 즐거우셨나요?\nWH3N(웬)의 정규 앨범에 대한 더 많은 정보가 궁금하시다면, WH3N(웬)이 직접 추천한 노래들과 함께 공개된 멜론 매거진의 인터뷰를 참고해 주세요 😊\n🖇 https://t.co/wZveEHjR7y\n\n#WH3N #웬 #bornxoxo"
+	},
+	{
 		"created_at": "Sat Dec 05 13:11:17 +0000 2020",
 		"id": 1335204695371993000,
 		"id_str": "1335210133979336705",
@@ -199,7 +337,7 @@ Grailbird.data.tweets_2020_12 =
 		"created_at": "Sat Dec 05 13:10:28 +0000 2020",
 		"id": 1335209929695703000,
 		"id_str": "1335209929695703040",
-		"full_text": "#온스테이지 #ONSTAGE\n온스테이지 10주년 | ​플레이리스트 : 11\nhttps://t.co/oxRYEPTW1n",
+		"full_text": "#온스테이지 #ONSTAGE\n온스테이지 10주년 | 플레이리스트 : 11\nhttps://t.co/oxRYEPTW1n",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -333,7 +471,7 @@ Grailbird.data.tweets_2020_12 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#온스테이지 #ONSTAGE\n온스테이지 10주년 | ​플레이리스트 : 11\nhttps://t.co/oxRYEPTW1n"
+		"text": "#온스테이지 #ONSTAGE\n온스테이지 10주년 | 플레이리스트 : 11\nhttps://t.co/oxRYEPTW1n"
 	},
 	{
 		"created_at": "Sat Dec 05 12:58:15 +0000 2020",
