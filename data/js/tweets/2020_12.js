@@ -1,6 +1,141 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 06 15:29:31 +0000 2020",
+		"id": 1335601708613832700,
+		"id_str": "1335607309117100033",
+		"full_text": "Yerin Baek 'Hate you' Teaser \n\nhttps://t.co/kP6F5YhUf5\n\n2nd Full-length Album [tellusboutyourself]\n2020.12.10 (THU) 6PM KST\n\n#yerinbaek #tellusboutyourself\n#백예린 #백예린정규2집",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "yerinbaek",
+					"indices": [
+						125,
+						135
+					]
+				},
+				{
+					"text": "tellusboutyourself",
+					"indices": [
+						136,
+						155
+					]
+				},
+				{
+					"text": "백예린",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "백예린정규2집",
+					"indices": [
+						161,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kP6F5YhUf5",
+					"expanded_url": "https://www.youtube.com/watch?v=H3PQYtEc3rk",
+					"display_url": "youtube.com/watch?v=H3PQYt…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl contact@bluevinyl.kr",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19534,
+			"friends_count": 0,
+			"listed_count": 120,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1333999688865914883/VUQjoqmj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1333999688865914883/VUQjoqmj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1606885286",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 909,
+		"favorite_count": 952,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yerin Baek 'Hate you' Teaser \n\nhttps://t.co/kP6F5YhUf5\n\n2nd Full-length Album [tellusboutyourself]\n2020.12.10 (THU) 6PM KST\n\n#yerinbaek #tellusboutyourself\n#백예린 #백예린정규2집"
+	},
+	{
 		"created_at": "Sun Dec 06 14:29:25 +0000 2020",
 		"id": 1335587555085992000,
 		"id_str": "1335592184008085512",
