@@ -1,6 +1,704 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 06 04:11:17 +0000 2020",
+		"id": 1335424838136021000,
+		"id_str": "1335436624218501121",
+		"full_text": "#상상마당 #온라인공연\n2020년 12월 10일, '라디오가가TV'와 함께 공동기획 온라인 공연 '#포크의밤'을 진행 합니다.\n오랜만의 랜선 공연을 놓치지 마세요😉\n\n&lt;포크의 밤&gt;\n•출연진: #재주소년, #아티초크\n•시청채널 생중계 : 유튜브 라디오가가TV 채널\n(https://t.co/IXwiqLM66R) https://t.co/GprFIdA3iF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상상마당",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "온라인공연",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "포크의밤",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "재주소년",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "아티초크",
+					"indices": [
+						120,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IXwiqLM66R",
+					"expanded_url": "https://bit.ly/2Lc0HHT",
+					"display_url": "bit.ly/2Lc0HHT",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1335424832058445800,
+					"id_str": "1335424832058445828",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EohhzzMUUAQpwm6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EohhzzMUUAQpwm6.jpg",
+					"url": "https://t.co/GprFIdA3iF",
+					"display_url": "pic.twitter.com/GprFIdA3iF",
+					"expanded_url": "https://twitter.com/SSmadang/status/1335424838136020994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1058,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1058,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1335424832058445800,
+					"id_str": "1335424832058445828",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EohhzzMUUAQpwm6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EohhzzMUUAQpwm6.jpg",
+					"url": "https://t.co/GprFIdA3iF",
+					"display_url": "pic.twitter.com/GprFIdA3iF",
+					"expanded_url": "https://twitter.com/SSmadang/status/1335424838136020994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1058,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1058,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1335424832058486800,
+					"id_str": "1335424832058486790",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EohhzzMU8AYztIe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EohhzzMU8AYztIe.jpg",
+					"url": "https://t.co/GprFIdA3iF",
+					"display_url": "pic.twitter.com/GprFIdA3iF",
+					"expanded_url": "https://twitter.com/SSmadang/status/1335424838136020994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1058,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1058,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1335424832054251500,
+					"id_str": "1335424832054251520",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EohhzzLUUAAb6wj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EohhzzLUUAAb6wj.jpg",
+					"url": "https://t.co/GprFIdA3iF",
+					"display_url": "pic.twitter.com/GprFIdA3iF",
+					"expanded_url": "https://twitter.com/SSmadang/status/1335424838136020994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1058,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1058,
+							"h": 1058,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1335424832058507300,
+					"id_str": "1335424832058507268",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EohhzzMVQAQ8ZwD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EohhzzMVQAQ8ZwD.jpg",
+					"url": "https://t.co/GprFIdA3iF",
+					"display_url": "pic.twitter.com/GprFIdA3iF",
+					"expanded_url": "https://twitter.com/SSmadang/status/1335424838136020994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1058,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1058,
+							"h": 1058,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18300,
+			"friends_count": 1909,
+			"listed_count": 290,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#상상마당 #온라인공연\n2020년 12월 10일, '라디오가가TV'와 함께 공동기획 온라인 공연 '#포크의밤'을 진행 합니다.\n오랜만의 랜선 공연을 놓치지 마세요😉\n\n&lt;포크의 밤&gt;\n•출연진: #재주소년, #아티초크\n•시청채널 생중계 : 유튜브 라디오가가TV 채널\n(https://t.co/IXwiqLM66R) https://t.co/GprFIdA3iF"
+	},
+	{
+		"created_at": "Sun Dec 06 03:38:01 +0000 2020",
+		"id": 1335428254409388000,
+		"id_str": "1335428254409388032",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n12월 6일 | 우일\nhttps://t.co/EXdyd7xZBS\n#블로그 #유통사 #인디음악 #인디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "유통사",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						77,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EXdyd7xZBS",
+					"expanded_url": "https://bit.ly/39INjoQ",
+					"display_url": "bit.ly/39INjoQ",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#공연일정 #페스티벌 #인디밴드 #내한 #콘서트\n\n문화예술정보 @ArtManagementKR\n뮤직매거진 @Magazine_KR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								115,
+								138
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 246,
+			"friends_count": 431,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 65931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n12월 6일 | 우일\nhttps://t.co/EXdyd7xZBS\n#블로그 #유통사 #인디음악 #인디"
+	},
+	{
+		"created_at": "Sun Dec 06 03:29:34 +0000 2020",
+		"id": 1335421957345427500,
+		"id_str": "1335426127700127744",
+		"full_text": "#우일 [우일 ; 열일곱 번째 이야기]\n\n1년 6개월만에 돌아온 우일의 담담하지만 따뜻한 그의 매력적인 목소리\n지난 2019년 3월 It’s you 이후 이별 얘기 대신 ‘사랑’에 대한 따뜻함을 얘기한다.\n\n✚ 앨범 자세히 보기: https://t.co/vffJ3QIhHV https://t.co/3504NU5afn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우일",
+					"indices": [
+						0,
+						3
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vffJ3QIhHV",
+					"expanded_url": "https://bit.ly/3g6hLdA",
+					"display_url": "bit.ly/3g6hLdA",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334667215581237200,
+					"id_str": "1334667215581237248",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EoWwwt4UUAA-DKF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoWwwt4UUAA-DKF.jpg",
+					"url": "https://t.co/3504NU5afn",
+					"display_url": "pic.twitter.com/3504NU5afn",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1335421957345427459/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334667215581237200,
+					"id_str": "1334667215581237248",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EoWwwt4UUAA-DKF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoWwwt4UUAA-DKF.jpg",
+					"url": "https://t.co/3504NU5afn",
+					"display_url": "pic.twitter.com/3504NU5afn",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1335421957345427459/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9510,
+			"friends_count": 2870,
+			"listed_count": 248,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 954,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1603861113",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#우일 [우일 ; 열일곱 번째 이야기]\n\n1년 6개월만에 돌아온 우일의 담담하지만 따뜻한 그의 매력적인 목소리\n지난 2019년 3월 It’s you 이후 이별 얘기 대신 ‘사랑’에 대한 따뜻함을 얘기한다.\n\n✚ 앨범 자세히 보기: https://t.co/vffJ3QIhHV https://t.co/3504NU5afn"
+	},
+	{
 		"created_at": "Sun Dec 06 03:00:55 +0000 2020",
 		"id": 1335418917121106000,
 		"id_str": "1335418917121105920",
