@@ -1,6 +1,448 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 07 09:29:39 +0000 2020",
+		"id": 1335877042844254200,
+		"id_str": "1335879132719230976",
+		"full_text": "#슬릭 연말 콘서트 &lt;SLEEQ SHOW&gt; 연기 안내\n⠀\n안녕하세요. 유어썸머입니다.\n코로나19 확산이 지속됨에 따라 12월 26일 예정이었던 &lt;SLEEQ SHOW&gt;를 부득이하게 2021년 2월로 연기하게 되었습니다. 자세한 내용은 아래 이미지를 확인 부탁드립니다. https://t.co/jnCStBMFVZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬릭",
+					"indices": [
+						0,
+						3
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1335877038247354400,
+					"id_str": "1335877038247354369",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Eon9FqhVoAEl7nV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eon9FqhVoAEl7nV.jpg",
+					"url": "https://t.co/jnCStBMFVZ",
+					"display_url": "pic.twitter.com/jnCStBMFVZ",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1335877042844254210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1335877038247354400,
+					"id_str": "1335877038247354369",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Eon9FqhVoAEl7nV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eon9FqhVoAEl7nV.jpg",
+					"url": "https://t.co/jnCStBMFVZ",
+					"display_url": "pic.twitter.com/jnCStBMFVZ",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1335877042844254210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1335877038255657000,
+					"id_str": "1335877038255656961",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/Eon9FqjUUAEhr0o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eon9FqjUUAEhr0o.jpg",
+					"url": "https://t.co/jnCStBMFVZ",
+					"display_url": "pic.twitter.com/jnCStBMFVZ",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1335877042844254210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1997,
+			"friends_count": 26,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5062,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1594485943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬릭 연말 콘서트 &lt;SLEEQ SHOW&gt; 연기 안내\n⠀\n안녕하세요. 유어썸머입니다.\n코로나19 확산이 지속됨에 따라 12월 26일 예정이었던 &lt;SLEEQ SHOW&gt;를 부득이하게 2021년 2월로 연기하게 되었습니다. 자세한 내용은 아래 이미지를 확인 부탁드립니다. https://t.co/jnCStBMFVZ"
+	},
+	{
+		"created_at": "Mon Dec 07 09:29:32 +0000 2020",
+		"id": 1335874419076386800,
+		"id_str": "1335879102914568193",
+		"full_text": "소리꾼 ‘이자람’의 첫 정규앨범 [Composition I] 발매! \n\n판소리 &lt;억척가&gt;, &lt;이방인의 노래&gt; 무대의 뜨거운 공기를 음원과 음반으로 만나보세요!!\n\n🎧 이자람 [Composition I]\n📆 2020.12.17(목) 낮 12시\n\n#이자람 #LeeJaram #Composition_I @jjjjjam https://t.co/BXS5qpQhP1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이자람",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "LeeJaram",
+					"indices": [
+						153,
+						162
+					]
+				},
+				{
+					"text": "Composition_I",
+					"indices": [
+						163,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jjjjjam",
+					"name": "LeeJaram",
+					"id": 110053057,
+					"id_str": "110053057",
+					"indices": [
+						178,
+						186
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1335874372293128200,
+					"id_str": "1335874372293128192",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1335874372293128192/pu/img/EjF-KDsJpBqpdstN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1335874372293128192/pu/img/EjF-KDsJpBqpdstN.jpg",
+					"url": "https://t.co/BXS5qpQhP1",
+					"display_url": "pic.twitter.com/BXS5qpQhP1",
+					"expanded_url": "https://twitter.com/blueboy_kr/status/1335874419076386818/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1335874372293128200,
+					"id_str": "1335874372293128192",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1335874372293128192/pu/img/EjF-KDsJpBqpdstN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1335874372293128192/pu/img/EjF-KDsJpBqpdstN.jpg",
+					"url": "https://t.co/BXS5qpQhP1",
+					"display_url": "pic.twitter.com/BXS5qpQhP1",
+					"expanded_url": "https://twitter.com/blueboy_kr/status/1335874419076386818/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60014,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1335874372293128192/pu/vid/720x720/KyW784Yv9bBzgyf3.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1335874372293128192/pu/vid/320x320/8B6q3XxRrb2ck8mq.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1335874372293128192/pu/vid/480x480/85TxuMNesARWFvaX.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1335874372293128192/pu/pl/Wpd_zc3RAEhJqPJC.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 613235782,
+			"id_str": "613235782",
+			"name": "BLUE BOY",
+			"screen_name": "blueboy_kr",
+			"location": "",
+			"description": "언니네 이발관 / Wouter Hamel / 이자람 판소리 / 한승석&정재일 / [info.blueboy@gmail.com]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1310,
+			"friends_count": 189,
+			"listed_count": 14,
+			"created_at": "Wed Jun 20 07:48:47 +0000 2012",
+			"favourites_count": 101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1823,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소리꾼 ‘이자람’의 첫 정규앨범 [Composition I] 발매! \n\n판소리 &lt;억척가&gt;, &lt;이방인의 노래&gt; 무대의 뜨거운 공기를 음원과 음반으로 만나보세요!!\n\n🎧 이자람 [Composition I]\n📆 2020.12.17(목) 낮 12시\n\n#이자람 #LeeJaram #Composition_I @jjjjjam https://t.co/BXS5qpQhP1"
+	},
+	{
 		"created_at": "Mon Dec 07 09:08:23 +0000 2020",
 		"id": 1335873780112105500,
 		"id_str": "1335873780112105473",
