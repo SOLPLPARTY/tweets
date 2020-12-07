@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 07 14:04:44 +0000 2020",
+		"id": 1335895277106909200,
+		"id_str": "1335948360478441473",
+		"full_text": "선우정아가 3집 [Serenade] 발매 1주년을 기념해 소소한 유튜브 라이브를 진행합니다. 이번주 일요일, 선우정아 유튜브를 통해 만나요! 🕯\n\n✓ 일시 : 12월 13일 (Sun) 8PM\n✓ 채널 : ‘sunwoojunga’ Youtube\nhttps://t.co/f9pEzbmA6g https://t.co/MC0sqbz7Sq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f9pEzbmA6g",
+					"expanded_url": "https://www.youtube.com/c/Sunwoojunga/",
+					"display_url": "youtube.com/c/Sunwoojunga/",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1335895197016678400,
+					"id_str": "1335895197016678401",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EooNmpNUYAE0bMF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EooNmpNUYAE0bMF.jpg",
+					"url": "https://t.co/MC0sqbz7Sq",
+					"display_url": "pic.twitter.com/MC0sqbz7Sq",
+					"expanded_url": "https://twitter.com/msbsound/status/1335895277106909185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1335895197016678400,
+					"id_str": "1335895197016678401",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EooNmpNUYAE0bMF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EooNmpNUYAE0bMF.jpg",
+					"url": "https://t.co/MC0sqbz7Sq",
+					"display_url": "pic.twitter.com/MC0sqbz7Sq",
+					"expanded_url": "https://twitter.com/msbsound/status/1335895277106909185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드🍓\nMagicstrawberry Sound. Music label based in Korea.",
+			"url": "https://t.co/hG14tT4CA9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hG14tT4CA9",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8388,
+			"friends_count": 5720,
+			"listed_count": 97,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 83,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1597394894",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "선우정아가 3집 [Serenade] 발매 1주년을 기념해 소소한 유튜브 라이브를 진행합니다. 이번주 일요일, 선우정아 유튜브를 통해 만나요! 🕯\n\n✓ 일시 : 12월 13일 (Sun) 8PM\n✓ 채널 : ‘sunwoojunga’ Youtube\nhttps://t.co/f9pEzbmA6g https://t.co/MC0sqbz7Sq"
+	},
+	{
 		"created_at": "Mon Dec 07 12:29:25 +0000 2020",
 		"id": 1335910069666377700,
 		"id_str": "1335924372771663873",
