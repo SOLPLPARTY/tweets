@@ -1,6 +1,148 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 08 01:29:25 +0000 2020",
+		"id": 1336109070957199400,
+		"id_str": "1336120665284423680",
+		"full_text": "[기사] 정승환 오늘, 짧은 기다림 긴 여운 온다 [공식] \n(출처 : 스포츠경향 | 네이버 TV연예) \nhttps://t.co/BzPuK7FNpI\n\n정승환 Winter Single ‘어김없이 이 거리에’\nToday 6pm Release!\n\n#정승환 #어김없이_이_거리에 #Winter_Again #D_Day #2020_12_08_6PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정승환",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "어김없이_이_거리에",
+					"indices": [
+						140,
+						151
+					]
+				},
+				{
+					"text": "Winter_Again",
+					"indices": [
+						152,
+						165
+					]
+				},
+				{
+					"text": "D_Day",
+					"indices": [
+						166,
+						172
+					]
+				},
+				{
+					"text": "2020_12_08_6PM",
+					"indices": [
+						173,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BzPuK7FNpI",
+					"expanded_url": "http://naver.me/xHb4Hynv",
+					"display_url": "naver.me/xHb4Hynv",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seunghwan, Lee Jin Ah, CHAI, Yun Seokcheol, Jukjae Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35064,
+			"friends_count": 10,
+			"listed_count": 368,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1606994307",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[기사] 정승환 오늘, 짧은 기다림 긴 여운 온다 [공식] \n(출처 : 스포츠경향 | 네이버 TV연예) \nhttps://t.co/BzPuK7FNpI\n\n정승환 Winter Single ‘어김없이 이 거리에’\nToday 6pm Release!\n\n#정승환 #어김없이_이_거리에 #Winter_Again #D_Day #2020_12_08_6PM"
+	},
+	{
 		"created_at": "Mon Dec 07 15:29:25 +0000 2020",
 		"id": 1335962644348432400,
 		"id_str": "1335969670369865731",
