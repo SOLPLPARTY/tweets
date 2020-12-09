@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 09 12:29:25 +0000 2020",
+		"id": 1336641829924565000,
+		"id_str": "1336649147865313280",
+		"full_text": "김성규 (Kim Sung Kyu) 3rd Mini Album\n[INSIDE ME]｜Track List\n\nTitle : I'm Cold\n2020.12.14 6PM RELEASE\n\n#INFINITE #인피니트\n#Kim_Sung_Kyu #김성규\n#INSIDE_ME https://t.co/Sw21FP42fy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "INFINITE",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"text": "인피니트",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "Kim_Sung_Kyu",
+					"indices": [
+						115,
+						128
+					]
+				},
+				{
+					"text": "김성규",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "INSIDE_ME",
+					"indices": [
+						134,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1336636016040452000,
+					"id_str": "1336636016040452096",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EoyvX_IVoAAadbP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoyvX_IVoAAadbP.jpg",
+					"url": "https://t.co/Sw21FP42fy",
+					"display_url": "pic.twitter.com/Sw21FP42fy",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1336641829924564994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336636016040452000,
+					"id_str": "1336636016040452096",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EoyvX_IVoAAadbP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoyvX_IVoAAadbP.jpg",
+					"url": "https://t.co/Sw21FP42fy",
+					"display_url": "pic.twitter.com/Sw21FP42fy",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1336641829924564994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 425049,
+			"friends_count": 10,
+			"listed_count": 1812,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1607169766",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 788,
+		"favorite_count": 1457,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "김성규 (Kim Sung Kyu) 3rd Mini Album\n[INSIDE ME]｜Track List\n\nTitle : I'm Cold\n2020.12.14 6PM RELEASE\n\n#INFINITE #인피니트\n#Kim_Sung_Kyu #김성규\n#INSIDE_ME https://t.co/Sw21FP42fy"
+	},
+	{
 		"created_at": "Wed Dec 09 10:43:43 +0000 2020",
 		"id": 1336622547127971800,
 		"id_str": "1336622547127971841",
