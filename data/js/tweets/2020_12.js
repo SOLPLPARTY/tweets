@@ -1,6 +1,376 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 09 03:39:59 +0000 2020",
+		"id": 1336515914720809000,
+		"id_str": "1336515914720808961",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n12월 9일 | 권우유, 낭송자들, BLACKWOODENDOOR, NOAH\nhttps://t.co/yVaWNrKZSx\n#블로그 #유통사 #인디음악 #인디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "유통사",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						107,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yVaWNrKZSx",
+					"expanded_url": "https://bit.ly/3oBaFki",
+					"display_url": "bit.ly/3oBaFki",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#공연일정 #페스티벌 #인디밴드 #내한 #콘서트\n\n문화예술정보 @ArtManagementKR\n뮤직매거진 @Magazine_KR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								115,
+								138
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 246,
+			"friends_count": 431,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n12월 9일 | 권우유, 낭송자들, BLACKWOODENDOOR, NOAH\nhttps://t.co/yVaWNrKZSx\n#블로그 #유통사 #인디음악 #인디"
+	},
+	{
+		"created_at": "Wed Dec 09 03:29:30 +0000 2020",
+		"id": 1336509372776800300,
+		"id_str": "1336513274502914049",
+		"full_text": "#권우유\n[크리스마스에 눈이 내리면]\n\n들으면 기분 좋아지는 노래, ‘권우유’ 의 ‘크리스마스에 눈이 내리면’\n\n✚ 앨범 자세히 보기: https://t.co/rP0GxEAlOa https://t.co/2gW03pAx5f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권우유",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rP0GxEAlOa",
+					"expanded_url": "https://bit.ly/2VQdhP1",
+					"display_url": "bit.ly/2VQdhP1",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1336151097426104300,
+					"id_str": "1336151097426104320",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/Eor2WAhU0AAE5vl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eor2WAhU0AAE5vl.jpg",
+					"url": "https://t.co/2gW03pAx5f",
+					"display_url": "pic.twitter.com/2gW03pAx5f",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1336509372776800256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336151097426104300,
+					"id_str": "1336151097426104320",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/Eor2WAhU0AAE5vl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eor2WAhU0AAE5vl.jpg",
+					"url": "https://t.co/2gW03pAx5f",
+					"display_url": "pic.twitter.com/2gW03pAx5f",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1336509372776800256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9512,
+			"friends_count": 2870,
+			"listed_count": 248,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 954,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1603861113",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#권우유\n[크리스마스에 눈이 내리면]\n\n들으면 기분 좋아지는 노래, ‘권우유’ 의 ‘크리스마스에 눈이 내리면’\n\n✚ 앨범 자세히 보기: https://t.co/rP0GxEAlOa https://t.co/2gW03pAx5f"
+	},
+	{
 		"created_at": "Wed Dec 09 03:15:18 +0000 2020",
 		"id": 1336509698980393000,
 		"id_str": "1336509698980392963",
