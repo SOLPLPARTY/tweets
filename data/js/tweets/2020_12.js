@@ -1,6 +1,564 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 10 07:11:24 +0000 2020",
+		"id": 1336916897732784000,
+		"id_str": "1336931503658373120",
+		"full_text": "✓ 1차 라인업의 개별 일정은 추후 순차적으로 공개됩니다.⠀\n✓ ... and more⠀\n⠀\nDesign by @studio.himp \nmusic by @yangjiwan_\n⠀\n#롤링홀 #ROLLINGHALL \n#ONEWE  #맥거핀 #박소은⠀\n#디에이드 #안다은 #안예은 #정유진⠀\n#롤링26주년 #롤링26주년기념공연 #1차라인업⠀\n#공연 #인디 #멜론티켓",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤링홀",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						104,
+						116
+					]
+				},
+				{
+					"text": "ONEWE",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "맥거핀",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "박소은",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "디에이드",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "안다은",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "안예은",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "정유진",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "롤링26주년",
+					"indices": [
+						159,
+						166
+					]
+				},
+				{
+					"text": "롤링26주년기념공연",
+					"indices": [
+						167,
+						178
+					]
+				},
+				{
+					"text": "1차라인업",
+					"indices": [
+						179,
+						185
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						187,
+						190
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						191,
+						194
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						195,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "studio",
+					"name": "STUDIO",
+					"id": 7905042,
+					"id_str": "7905042",
+					"indices": [
+						62,
+						69
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1336916805290344400,
+		"in_reply_to_status_id_str": "1336916805290344448",
+		"in_reply_to_user_id": 1291327050578456600,
+		"in_reply_to_user_id_str": "1291327050578456578",
+		"in_reply_to_screen_name": "rollinghall1995",
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/4e0ZekwoYX",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4e0ZekwoYX",
+							"expanded_url": "http://bitly.kr/LZ7SBbWTTTr",
+							"display_url": "bitly.kr/LZ7SBbWTTTr",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 95,
+			"friends_count": 3,
+			"listed_count": 1,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 68,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "✓ 1차 라인업의 개별 일정은 추후 순차적으로 공개됩니다.⠀\n✓ ... and more⠀\n⠀\nDesign by @studio.himp \nmusic by @yangjiwan_\n⠀\n#롤링홀 #ROLLINGHALL \n#ONEWE  #맥거핀 #박소은⠀\n#디에이드 #안다은 #안예은 #정유진⠀\n#롤링26주년 #롤링26주년기념공연 #1차라인업⠀\n#공연 #인디 #멜론티켓"
+	},
+	{
+		"created_at": "Thu Dec 10 07:11:17 +0000 2020",
+		"id": 1336916805290344400,
+		"id_str": "1336931473836879872",
+		"full_text": "𝗥𝗢𝗟𝗟𝗜𝗡𝗚 𝟮𝟲𝗧𝗛 𝗔𝗡𝗡𝗜𝗩𝗘𝗥𝗦𝗔𝗥𝗬 𝗖𝗢𝗡𝗖𝗘𝗥𝗧 1st LINE UP OPEN\n\n━━━━━━━━━\n⠀📌 1st Line UP⠀\n⠀ONEWE⠀\n⠀맥거핀⠀\n⠀박소은⠀\n⠀안다은 of 디에이드⠀\n⠀안예은⠀\n⠀정유진⠀\n⠀[ ? ]⠀\n━━━━━━━━━ https://t.co/X2rwnKfkxE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1336916797392445400,
+					"id_str": "1336916797392445440",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo2uvnLUYAAsKqo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo2uvnLUYAAsKqo.jpg",
+					"url": "https://t.co/X2rwnKfkxE",
+					"display_url": "pic.twitter.com/X2rwnKfkxE",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1336916805290344448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336916797392445400,
+					"id_str": "1336916797392445440",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo2uvnLUYAAsKqo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo2uvnLUYAAsKqo.jpg",
+					"url": "https://t.co/X2rwnKfkxE",
+					"display_url": "pic.twitter.com/X2rwnKfkxE",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1336916805290344448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/4e0ZekwoYX",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4e0ZekwoYX",
+							"expanded_url": "http://bitly.kr/LZ7SBbWTTTr",
+							"display_url": "bitly.kr/LZ7SBbWTTTr",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 95,
+			"friends_count": 3,
+			"listed_count": 1,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 68,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 86,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "𝗥𝗢𝗟𝗟𝗜𝗡𝗚 𝟮𝟲𝗧𝗛 𝗔𝗡𝗡𝗜𝗩𝗘𝗥𝗦𝗔𝗥𝗬 𝗖𝗢𝗡𝗖𝗘𝗥𝗧 1st LINE UP OPEN\n\n━━━━━━━━━\n⠀📌 1st Line UP⠀\n⠀ONEWE⠀\n⠀맥거핀⠀\n⠀박소은⠀\n⠀안다은 of 디에이드⠀\n⠀안예은⠀\n⠀정유진⠀\n⠀[ ? ]⠀\n━━━━━━━━━ https://t.co/X2rwnKfkxE"
+	},
+	{
+		"created_at": "Thu Dec 10 06:29:34 +0000 2020",
+		"id": 1336919353736876000,
+		"id_str": "1336920976643280898",
+		"full_text": "[예약판매 바로가기]\n⠀\n알라딘 https://t.co/ruBkg5ijmx\n신나라 https://t.co/YFaGhjYzy9\nYes24 https://t.co/HEyTsgmbwI\n핫트랙스 https://t.co/k9fiLrImBq\n인터파크 https://t.co/xD8Nt6h3mC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ruBkg5ijmx",
+					"expanded_url": "https://bit.ly/341BzKi",
+					"display_url": "bit.ly/341BzKi",
+					"indices": [
+						18,
+						41
+					]
+				},
+				{
+					"url": "https://t.co/YFaGhjYzy9",
+					"expanded_url": "https://bit.ly/385s6mL",
+					"display_url": "bit.ly/385s6mL",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"url": "https://t.co/HEyTsgmbwI",
+					"expanded_url": "https://bit.ly/3qKBWmg",
+					"display_url": "bit.ly/3qKBWmg",
+					"indices": [
+						76,
+						99
+					]
+				},
+				{
+					"url": "https://t.co/k9fiLrImBq",
+					"expanded_url": "https://bit.ly/3a3I1EJ",
+					"display_url": "bit.ly/3a3I1EJ",
+					"indices": [
+						105,
+						128
+					]
+				},
+				{
+					"url": "https://t.co/xD8Nt6h3mC",
+					"expanded_url": "https://bit.ly/2JH1G2t",
+					"display_url": "bit.ly/2JH1G2t",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1336913539534102500,
+		"in_reply_to_status_id_str": "1336913539534102530",
+		"in_reply_to_user_id": 265792818,
+		"in_reply_to_user_id_str": "265792818",
+		"in_reply_to_screen_name": "ShofarMusic",
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다.\n가수 스웨덴세탁소, 볼빨간사춘기, 김지수,\n스무살, 보라미유, WH3N, 최유리 소속사\nhttps://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7963,
+			"friends_count": 4,
+			"listed_count": 67,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1607565242",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[예약판매 바로가기]\n⠀\n알라딘 https://t.co/ruBkg5ijmx\n신나라 https://t.co/YFaGhjYzy9\nYes24 https://t.co/HEyTsgmbwI\n핫트랙스 https://t.co/k9fiLrImBq\n인터파크 https://t.co/xD8Nt6h3mC"
+	},
+	{
 		"created_at": "Thu Dec 10 06:07:09 +0000 2020",
 		"id": 1336915337820954600,
 		"id_str": "1336915337820954625",
