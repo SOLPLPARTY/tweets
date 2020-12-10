@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 10 11:11:17 +0000 2020",
+		"id": 1336980158461309000,
+		"id_str": "1336991871864893441",
+		"full_text": "12/15(화) 코토바+까데호 공연은 예정대로 진행합니다. 처음부터 2.5단계에 맞춰 정원의 1/3인 40석으로 받았고, 철저한 방역으로 안전한 공연이 될 수 있도록 꼼꼼히 잘 준비하겠습니다. (7시 입장,7시30분 시작,9시 종료)\n\n* 소량의 티켓이 남아 있습니다.\n\n예매 :  https://t.co/vOmu5jV8NI https://t.co/me17GSusir",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vOmu5jV8NI",
+					"expanded_url": "https://c11.kr/jr57",
+					"display_url": "c11.kr/jr57",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1336980146671128600,
+					"id_str": "1336980146671128577",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo3oXBoVEAEOf3u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo3oXBoVEAEOf3u.jpg",
+					"url": "https://t.co/me17GSusir",
+					"display_url": "pic.twitter.com/me17GSusir",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1336980158461308929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1181,
+							"h": 1476,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336980146671128600,
+					"id_str": "1336980146671128577",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo3oXBoVEAEOf3u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo3oXBoVEAEOf3u.jpg",
+					"url": "https://t.co/me17GSusir",
+					"display_url": "pic.twitter.com/me17GSusir",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1336980158461308929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1181,
+							"h": 1476,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8735,
+			"friends_count": 145,
+			"listed_count": 133,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "12/15(화) 코토바+까데호 공연은 예정대로 진행합니다. 처음부터 2.5단계에 맞춰 정원의 1/3인 40석으로 받았고, 철저한 방역으로 안전한 공연이 될 수 있도록 꼼꼼히 잘 준비하겠습니다. (7시 입장,7시30분 시작,9시 종료)\n\n* 소량의 티켓이 남아 있습니다.\n\n예매 :  https://t.co/vOmu5jV8NI https://t.co/me17GSusir"
+	},
+	{
+		"created_at": "Thu Dec 10 10:29:27 +0000 2020",
+		"id": 1336978461794082800,
+		"id_str": "1336981345495625729",
+		"full_text": "Yerin Baek '0415' M/V\n\nhttps://t.co/ryVgEeHpbW\n⠀\nYerin Baek 유튜브 채널에서 풀버전으로 감상하세요!\nWatch the full video on Yerin Baek's Youtube channel!\n\n#백예린 #yerinbaek #tellusboutyourself #백예린정규2집",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						142,
+						152
+					]
+				},
+				{
+					"text": "tellusboutyourself",
+					"indices": [
+						153,
+						172
+					]
+				},
+				{
+					"text": "백예린정규2집",
+					"indices": [
+						173,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ryVgEeHpbW",
+					"expanded_url": "https://www.youtube.com/watch?v=K9ivJTc1Ls4",
+					"display_url": "youtube.com/watch?v=K9ivJT…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl contact@bluevinyl.kr",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20525,
+			"friends_count": 0,
+			"listed_count": 123,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1336970677748842497/UmAJjdzR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336970677748842497/UmAJjdzR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1606885286",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 701,
+		"favorite_count": 849,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Yerin Baek '0415' M/V\n\nhttps://t.co/ryVgEeHpbW\n⠀\nYerin Baek 유튜브 채널에서 풀버전으로 감상하세요!\nWatch the full video on Yerin Baek's Youtube channel!\n\n#백예린 #yerinbaek #tellusboutyourself #백예린정규2집"
+	},
+	{
 		"created_at": "Thu Dec 10 10:10:05 +0000 2020",
 		"id": 1336976473895350300,
 		"id_str": "1336976473895350273",
