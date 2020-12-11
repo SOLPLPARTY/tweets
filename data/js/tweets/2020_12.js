@@ -1,6 +1,587 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 11 09:29:44 +0000 2020",
+		"id": 1337323737947914200,
+		"id_str": "1337328707179061249",
+		"full_text": "[#에피톤프로젝트] MV 티저 공개🎬\n\n나는 애원하고 있잖아\n아프게 나를 버려두지 말아줘\n그대 나를 떠나가지 마\n\n불면증 (vocal by 윤하)\n2020. 12. 15. 18:00\n\n#불면증 #윤하 #김선호 https://t.co/faZrAWGT6R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에피톤프로젝트",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "불면증",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "윤하",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "김선호",
+					"indices": [
+						112,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337323466547024000,
+					"id_str": "1337323466547023872",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1337323466547023872/pu/img/yn5vL6LI2pSHPXn1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1337323466547023872/pu/img/yn5vL6LI2pSHPXn1.jpg",
+					"url": "https://t.co/faZrAWGT6R",
+					"display_url": "pic.twitter.com/faZrAWGT6R",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1337323737947914240/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337323466547024000,
+					"id_str": "1337323466547023872",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1337323466547023872/pu/img/yn5vL6LI2pSHPXn1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1337323466547023872/pu/img/yn5vL6LI2pSHPXn1.jpg",
+					"url": "https://t.co/faZrAWGT6R",
+					"display_url": "pic.twitter.com/faZrAWGT6R",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1337323737947914240/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 38507,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1337323466547023872/pu/vid/480x270/wB3xprrPTG8jgOXj.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1337323466547023872/pu/vid/1280x720/hPhXFwxMy6AA8pl5.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1337323466547023872/pu/pl/OrCnquLZKqAi7HFV.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1337323466547023872/pu/vid/640x360/MQzIObjDiaLmToXA.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 924920565906915300,
+			"id_str": "924920565906915328",
+			"name": "인터파크 엔터테인먼트",
+			"screen_name": "interpark_enter",
+			"location": "대한민국 서울",
+			"description": "인터파크 엔터테인먼트 공식 트위터입니다. 자우림 / 국카스텐 / 김윤아 / 에피톤 프로젝트 / 안녕하신가영 / O.O.O 일반 문의: e-info@interparkenter.com 섭외 및 프로모션: e-mgmt@interparkenter.com",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1747,
+			"friends_count": 12,
+			"listed_count": 5,
+			"created_at": "Mon Oct 30 08:47:01 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 343,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925888007030243328/W0b71PkA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925888007030243328/W0b71PkA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924920565906915328/1509583868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 98,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#에피톤프로젝트] MV 티저 공개🎬\n\n나는 애원하고 있잖아\n아프게 나를 버려두지 말아줘\n그대 나를 떠나가지 마\n\n불면증 (vocal by 윤하)\n2020. 12. 15. 18:00\n\n#불면증 #윤하 #김선호 https://t.co/faZrAWGT6R"
+	},
+	{
+		"created_at": "Fri Dec 11 09:29:39 +0000 2020",
+		"id": 1337323462893817900,
+		"id_str": "1337328685683183616",
+		"full_text": "[업떤라이브] \n쉼표가 필요할 때 듣기 좋은 노래\n(with 구기훈(위아영))\nhttps://t.co/Ygc7iYxsWt\n\n@YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						69,
+						77
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ygc7iYxsWt",
+					"expanded_url": "https://youtu.be/47-Z-jbzue0",
+					"display_url": "youtu.be/47-Z-jbzue0",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2686,
+			"friends_count": 341,
+			"listed_count": 0,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 17511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[업떤라이브] \n쉼표가 필요할 때 듣기 좋은 노래\n(with 구기훈(위아영))\nhttps://t.co/Ygc7iYxsWt\n\n@YouTube"
+	},
+	{
+		"created_at": "Fri Dec 11 09:29:30 +0000 2020",
+		"id": 1337321229896671200,
+		"id_str": "1337328647359893506",
+		"full_text": "[#김이나] 자이언트 펭TV &lt;동물 음악대&gt;의 '크리스마스 리턴즈' 발매🎼\n\n김이나가 ✏️작사하고 🥁록 단장 #윤상 이 프로듀싱한 곡! 🐧 #펭수 의 랩과 🐻소울곰 #김태우 🦊고막여우 #박진주 의 목소리로 함께한 캐럴송을 지금 바로 만나보세요✅ \n\n#동물음악대 #크리스마스리턴즈 #자이언트펭TV https://t.co/6YhmEfhh42",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김이나",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "윤상",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "펭수",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "김태우",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "박진주",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "동물음악대",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "크리스마스리턴즈",
+					"indices": [
+						152,
+						161
+					]
+				},
+				{
+					"text": "자이언트펭TV",
+					"indices": [
+						162,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337308074810376200,
+					"id_str": "1337308074810376192",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo8Sm9JVgAAKkSr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo8Sm9JVgAAKkSr.jpg",
+					"url": "https://t.co/6YhmEfhh42",
+					"display_url": "pic.twitter.com/6YhmEfhh42",
+					"expanded_url": "https://twitter.com/themysticstory/status/1337321229896671233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337308074810376200,
+					"id_str": "1337308074810376192",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo8Sm9JVgAAKkSr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo8Sm9JVgAAKkSr.jpg",
+					"url": "https://t.co/6YhmEfhh42",
+					"display_url": "pic.twitter.com/6YhmEfhh42",
+					"expanded_url": "https://twitter.com/themysticstory/status/1337321229896671233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19876,
+			"friends_count": 18,
+			"listed_count": 224,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#김이나] 자이언트 펭TV &lt;동물 음악대&gt;의 '크리스마스 리턴즈' 발매🎼\n\n김이나가 ✏️작사하고 🥁록 단장 #윤상 이 프로듀싱한 곡! 🐧 #펭수 의 랩과 🐻소울곰 #김태우 🦊고막여우 #박진주 의 목소리로 함께한 캐럴송을 지금 바로 만나보세요✅ \n\n#동물음악대 #크리스마스리턴즈 #자이언트펭TV https://t.co/6YhmEfhh42"
+	},
+	{
 		"created_at": "Fri Dec 11 09:15:42 +0000 2020",
 		"id": 1337325172488073200,
 		"id_str": "1337325172488073223",
