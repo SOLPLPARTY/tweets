@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 11 04:58:15 +0000 2020",
+		"id": 1337259077437587500,
+		"id_str": "1337260383212609537",
+		"full_text": "2020 아시안 팝 스테이지 1일차\n벨로주에서 이랑, 정밀아, 김사월과 함께했던 후기 사진입니다.\n\n#아시안팝스테이지 #서울인디뮤직페스타 #라이브클럽데이 #simf #seoulindiemusicfesta https://t.co/G3kkjtQw2m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아시안팝스테이지",
+					"indices": [
+						56,
+						65
+					]
+				},
+				{
+					"text": "서울인디뮤직페스타",
+					"indices": [
+						66,
+						76
+					]
+				},
+				{
+					"text": "라이브클럽데이",
+					"indices": [
+						77,
+						85
+					]
+				},
+				{
+					"text": "simf",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "seoulindiemusicfesta",
+					"indices": [
+						92,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337259068948287500,
+					"id_str": "1337259068948287488",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo7mCcFVEAA4_1Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo7mCcFVEAA4_1Q.jpg",
+					"url": "https://t.co/G3kkjtQw2m",
+					"display_url": "pic.twitter.com/G3kkjtQw2m",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1337259077437587464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337259068948287500,
+					"id_str": "1337259068948287488",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo7mCcFVEAA4_1Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo7mCcFVEAA4_1Q.jpg",
+					"url": "https://t.co/G3kkjtQw2m",
+					"display_url": "pic.twitter.com/G3kkjtQw2m",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1337259077437587464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1337259068944044000,
+					"id_str": "1337259068944044033",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo7mCcEUUAE7XrV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo7mCcEUUAE7XrV.jpg",
+					"url": "https://t.co/G3kkjtQw2m",
+					"display_url": "pic.twitter.com/G3kkjtQw2m",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1337259077437587464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1337259068948299800,
+					"id_str": "1337259068948299776",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo7mCcFVQAAbyUb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo7mCcFVQAAbyUb.jpg",
+					"url": "https://t.co/G3kkjtQw2m",
+					"display_url": "pic.twitter.com/G3kkjtQw2m",
+					"expanded_url": "https://twitter.com/simfsimfsimf/status/1337259077437587464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910395807504916500,
+			"id_str": "910395807504916481",
+			"name": "서울 인디 뮤직 페스타 - Seoul Indie Music Festa",
+			"screen_name": "simfsimfsimf",
+			"location": "대한민국 마포구",
+			"description": "홍대 앞을 중심으로 활동하고 있는 단체들이 함께 모여 만든 타운형 페스티벌입니다.",
+			"url": "https://t.co/arOqhmk3eP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/arOqhmk3eP",
+							"expanded_url": "http://facebook.com/simfesta",
+							"display_url": "facebook.com/simfesta",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 334,
+			"friends_count": 283,
+			"listed_count": 5,
+			"created_at": "Wed Sep 20 06:50:49 +0000 2017",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292699161192669249/CkKnE3gF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292699161192669249/CkKnE3gF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910395807504916481/1597038472",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2020 아시안 팝 스테이지 1일차\n벨로주에서 이랑, 정밀아, 김사월과 함께했던 후기 사진입니다.\n\n#아시안팝스테이지 #서울인디뮤직페스타 #라이브클럽데이 #simf #seoulindiemusicfesta https://t.co/G3kkjtQw2m"
+	},
+	{
 		"created_at": "Fri Dec 11 03:29:25 +0000 2020",
 		"id": 1337230877215006700,
 		"id_str": "1337238028822204416",
