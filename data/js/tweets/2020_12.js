@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 11 03:29:25 +0000 2020",
+		"id": 1337230877215006700,
+		"id_str": "1337238028822204416",
+		"full_text": "#이병현 [잊어버리라해요]\n\n“나와 손 붙잡고 같이 가요” 그대에게 꺼내는 마음 속 메세지. \n지난 여름 [행복해행복해] 싱글 발매 후 차가워진 계절, 따뜻하고 잔잔하게 이별하는 모든 이들을 위로하는 싱어송라이터 ‘이병현’의 싱글입니다.\n\n✚ 앨범 자세히 보기: https://t.co/Jf4IS9nFlO https://t.co/IFA9yUzVCQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이병현",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Jf4IS9nFlO",
+					"expanded_url": "https://bit.ly/2VWx53p",
+					"display_url": "bit.ly/2VWx53p",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1336851295282425900,
+					"id_str": "1336851295282425857",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo1zK4zUcAEqzXI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo1zK4zUcAEqzXI.jpg",
+					"url": "https://t.co/IFA9yUzVCQ",
+					"display_url": "pic.twitter.com/IFA9yUzVCQ",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1337230877215006726/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336851295282425900,
+					"id_str": "1336851295282425857",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo1zK4zUcAEqzXI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo1zK4zUcAEqzXI.jpg",
+					"url": "https://t.co/IFA9yUzVCQ",
+					"display_url": "pic.twitter.com/IFA9yUzVCQ",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1337230877215006726/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9510,
+			"friends_count": 2869,
+			"listed_count": 248,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 954,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1603861113",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이병현 [잊어버리라해요]\n\n“나와 손 붙잡고 같이 가요” 그대에게 꺼내는 마음 속 메세지. \n지난 여름 [행복해행복해] 싱글 발매 후 차가워진 계절, 따뜻하고 잔잔하게 이별하는 모든 이들을 위로하는 싱어송라이터 ‘이병현’의 싱글입니다.\n\n✚ 앨범 자세히 보기: https://t.co/Jf4IS9nFlO https://t.co/IFA9yUzVCQ"
+	},
+	{
 		"created_at": "Fri Dec 11 03:15:27 +0000 2020",
 		"id": 1337234514616090600,
 		"id_str": "1337234514616090624",
