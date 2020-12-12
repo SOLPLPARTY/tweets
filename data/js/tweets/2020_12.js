@@ -1,10 +1,538 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 12 07:29:30 +0000 2020",
+		"id": 1337649734144598000,
+		"id_str": "1337660836077297665",
+		"full_text": "행복하기 힘든 세상입니다. 그래도 '다같이 해피' 합시다. 어메이징비주얼이 [허수아비들의 거룩한 밤]에 수록한 'D Em A'라는 곡입니다. 뮤직비디오 풀버전은 유투브링크에서 확인\n https://t.co/qFG7HuiOlO https://t.co/IPWPCBl9QN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qFG7HuiOlO",
+					"expanded_url": "https://youtu.be/wdcOhygo3w0",
+					"display_url": "youtu.be/wdcOhygo3w0",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1337649691329118200,
+					"id_str": "1337649691329118210",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1337649691329118210/pu/img/ZKAl-fgMUmLtHiUp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1337649691329118210/pu/img/ZKAl-fgMUmLtHiUp.jpg",
+					"url": "https://t.co/IPWPCBl9QN",
+					"display_url": "pic.twitter.com/IPWPCBl9QN",
+					"expanded_url": "https://twitter.com/heosua_brecord/status/1337649734144598019/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337649691329118200,
+					"id_str": "1337649691329118210",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1337649691329118210/pu/img/ZKAl-fgMUmLtHiUp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1337649691329118210/pu/img/ZKAl-fgMUmLtHiUp.jpg",
+					"url": "https://t.co/IPWPCBl9QN",
+					"display_url": "pic.twitter.com/IPWPCBl9QN",
+					"expanded_url": "https://twitter.com/heosua_brecord/status/1337649734144598019/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 26967,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1337649691329118210/pu/vid/480x480/3y_eGrZZk8iupxKI.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1337649691329118210/pu/pl/1f48igd4sk-yW9uS.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1337649691329118210/pu/vid/320x320/d0G0YW0qcp8sXP_4.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 841601827074322400,
+			"id_str": "841601827074322432",
+			"name": "허수아비레코드",
+			"screen_name": "heosua_brecord",
+			"location": "대한민국 부산",
+			"description": "허수아비 레코드 공식 계정입니다. 소속 뮤지션들의 공연 문의나 기타 문의는 멘션으로 부탁드립니다. 감사합니다. #김태춘, #엉클밥 #어매이징비주얼 #행지 #8an99",
+			"url": "https://t.co/FHuf1QXI7M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FHuf1QXI7M",
+							"expanded_url": "http://www.facebook.com/scarecrowtown/",
+							"display_url": "facebook.com/scarecrowtown/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85,
+			"friends_count": 85,
+			"listed_count": 1,
+			"created_at": "Tue Mar 14 10:48:06 +0000 2017",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 584,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942639904764305408/7JjmkJGM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942639904764305408/7JjmkJGM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/841601827074322432/1498177351",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "행복하기 힘든 세상입니다. 그래도 '다같이 해피' 합시다. 어메이징비주얼이 [허수아비들의 거룩한 밤]에 수록한 'D Em A'라는 곡입니다. 뮤직비디오 풀버전은 유투브링크에서 확인\n https://t.co/qFG7HuiOlO https://t.co/IPWPCBl9QN"
+	},
+	{
+		"created_at": "Sat Dec 12 07:29:28 +0000 2020",
+		"id": 1337649229951455200,
+		"id_str": "1337660827235737601",
+		"full_text": "[최낙타] 12월 14일 정오, ‘고집’ 피아노 라이브 버전이 발매됩니다.\n피아노와 보컬로만 이루어져 또 다른 매력을 느낄 수 있는 ‘고집 Piano Live’\n곧 음원으로 만나보세요 🎹\n-\n#최낙타 #고집 #Pianolive #김호연 #조성태 https://t.co/yRowEV1AUw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최낙타",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "고집",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "Pianolive",
+					"indices": [
+						116,
+						126
+					]
+				},
+				{
+					"text": "김호연",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "조성태",
+					"indices": [
+						132,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337649191774945300,
+					"id_str": "1337649191774945281",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/EpBI2k3VgAEAxhP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpBI2k3VgAEAxhP.jpg",
+					"url": "https://t.co/yRowEV1AUw",
+					"display_url": "pic.twitter.com/yRowEV1AUw",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1337649229951455233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337649191774945300,
+					"id_str": "1337649191774945281",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/EpBI2k3VgAEAxhP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpBI2k3VgAEAxhP.jpg",
+					"url": "https://t.co/yRowEV1AUw",
+					"display_url": "pic.twitter.com/yRowEV1AUw",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1337649229951455233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1337649200541048800,
+					"id_str": "1337649200541048833",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/EpBI3FhVoAEJiBQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpBI3FhVoAEJiBQ.jpg",
+					"url": "https://t.co/yRowEV1AUw",
+					"display_url": "pic.twitter.com/yRowEV1AUw",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1337649229951455233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1337649209063874600,
+					"id_str": "1337649209063874561",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/EpBI3lRVoAEjUA3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpBI3lRVoAEjUA3.jpg",
+					"url": "https://t.co/yRowEV1AUw",
+					"display_url": "pic.twitter.com/yRowEV1AUw",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1337649229951455233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1337649218060570600,
+					"id_str": "1337649218060570624",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/EpBI4GyUUAAa43O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpBI4GyUUAAa43O.jpg",
+					"url": "https://t.co/yRowEV1AUw",
+					"display_url": "pic.twitter.com/yRowEV1AUw",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1337649229951455233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 721,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1994,
+			"friends_count": 26,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 503,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1594485943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[최낙타] 12월 14일 정오, ‘고집’ 피아노 라이브 버전이 발매됩니다.\n피아노와 보컬로만 이루어져 또 다른 매력을 느낄 수 있는 ‘고집 Piano Live’\n곧 음원으로 만나보세요 🎹\n-\n#최낙타 #고집 #Pianolive #김호연 #조성태 https://t.co/yRowEV1AUw"
+	},
+	{
 		"created_at": "Sat Dec 12 07:13:09 +0000 2020",
 		"id": 1337656722568196000,
 		"id_str": "1337656722568196098",
-		"full_text": "#딩고뮤직 #dingo_music\n🔥승부욕 폭발🔥 거친 여친이들과 불안한 🍎사과🍎와 그걸 지켜보는 🤦‍♀️딩고🤦‍♀️ ㅣ스타워즈 비하인드ㅣBehind ㅣMAGOㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/hSqCX8CMoS",
+		"full_text": "#딩고뮤직 #dingo_music\n🔥승부욕 폭발🔥 거친 여친이들과 불안한 🍎사과🍎와 그걸 지켜보는 🤦♀️딩고🤦♀️ ㅣ스타워즈 비하인드ㅣBehind ㅣMAGOㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/hSqCX8CMoS",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -138,7 +666,7 @@ Grailbird.data.tweets_2020_12 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#딩고뮤직 #dingo_music\n🔥승부욕 폭발🔥 거친 여친이들과 불안한 🍎사과🍎와 그걸 지켜보는 🤦‍♀️딩고🤦‍♀️ ㅣ스타워즈 비하인드ㅣBehind ㅣMAGOㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/hSqCX8CMoS"
+		"text": "#딩고뮤직 #dingo_music\n🔥승부욕 폭발🔥 거친 여친이들과 불안한 🍎사과🍎와 그걸 지켜보는 🤦♀️딩고🤦♀️ ㅣ스타워즈 비하인드ㅣBehind ㅣMAGOㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/hSqCX8CMoS"
 	},
 	{
 		"created_at": "Sat Dec 12 05:29:33 +0000 2020",
