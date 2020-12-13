@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 13 06:11:17 +0000 2020",
+		"id": 1338000699909607400,
+		"id_str": "1338003538253897728",
+		"full_text": "돌아온 씬디의 7days 7songs!\n읏추읏추,, ლ・﹏・ლ 올해가 어쨌거나 저 쨌거나 우리는 이번 12월도 역시 겨울을 관통하는 중.\n이 겨울 끝엔 더욱 큰 따뜻함이 있길 바라며 추운 겨울에 어울리는 곡 들로 만 플레이리스트를 준비 했지요! ♫꒰･◡･๑꒱\n\n#이준형 #이글루 #잔나비 #나의기쁨나의노래 https://t.co/StCmCsU2z9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이준형",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "이글루",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "잔나비",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "나의기쁨나의노래",
+					"indices": [
+						161,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337952440780431400,
+					"id_str": "1337952440780431365",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EpFcp_cVoAUnH8n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpFcp_cVoAUnH8n.jpg",
+					"url": "https://t.co/StCmCsU2z9",
+					"display_url": "pic.twitter.com/StCmCsU2z9",
+					"expanded_url": "https://twitter.com/xindieticket/status/1338000699909607430/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337952440780431400,
+					"id_str": "1337952440780431365",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EpFcp_cVoAUnH8n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpFcp_cVoAUnH8n.jpg",
+					"url": "https://t.co/StCmCsU2z9",
+					"display_url": "pic.twitter.com/StCmCsU2z9",
+					"expanded_url": "https://twitter.com/xindieticket/status/1338000699909607430/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1337952458471948300,
+					"id_str": "1337952458471948289",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EpFcrBWUwAEgD47.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpFcrBWUwAEgD47.jpg",
+					"url": "https://t.co/StCmCsU2z9",
+					"display_url": "pic.twitter.com/StCmCsU2z9",
+					"expanded_url": "https://twitter.com/xindieticket/status/1338000699909607430/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1337952476255846400,
+					"id_str": "1337952476255846400",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EpFcsDmVgAAzDPh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpFcsDmVgAAzDPh.jpg",
+					"url": "https://t.co/StCmCsU2z9",
+					"display_url": "pic.twitter.com/StCmCsU2z9",
+					"expanded_url": "https://twitter.com/xindieticket/status/1338000699909607430/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 11-20시, 수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2796,
+			"friends_count": 2693,
+			"listed_count": 0,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "돌아온 씬디의 7days 7songs!\n읏추읏추,, ლ・﹏・ლ 올해가 어쨌거나 저 쨌거나 우리는 이번 12월도 역시 겨울을 관통하는 중.\n이 겨울 끝엔 더욱 큰 따뜻함이 있길 바라며 추운 겨울에 어울리는 곡 들로 만 플레이리스트를 준비 했지요! ♫꒰･◡･๑꒱\n\n#이준형 #이글루 #잔나비 #나의기쁨나의노래 https://t.co/StCmCsU2z9"
+	},
+	{
 		"created_at": "Sun Dec 13 03:29:25 +0000 2020",
 		"id": 1337961692269924400,
 		"id_str": "1337962804624678915",
