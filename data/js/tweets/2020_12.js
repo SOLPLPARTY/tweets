@@ -1,6 +1,155 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 13 11:29:25 +0000 2020",
+		"id": 1338079681350811600,
+		"id_str": "1338083599350894593",
+		"full_text": "한뼘 안에서 즐기는 신청곡\n정승환의 한뼘콘서트\n\n- 십이월 이십오일의 고백\n- 안녕, 겨울\n- 눈의 꽃 (박효신)\n- 어김없이 이 거리에 \n\n❄️ https://t.co/pB6T8Oaqt2 \n\n#정승환 #한뼘콘서트 #어김없이_이_거리에\n#십이월_이십오일의_고백 #안녕겨울 #눈의꽃",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정승환",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "한뼘콘서트",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "어김없이_이_거리에",
+					"indices": [
+						120,
+						131
+					]
+				},
+				{
+					"text": "십이월_이십오일의_고백",
+					"indices": [
+						132,
+						145
+					]
+				},
+				{
+					"text": "안녕겨울",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "눈의꽃",
+					"indices": [
+						152,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pB6T8Oaqt2",
+					"expanded_url": "https://youtu.be/OqmDoEduupQ",
+					"display_url": "youtu.be/OqmDoEduupQ",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "Jung Jae Hyung, You Hee Yul(Toy), Lucid Fall, Peppertones, Park Sae Byul, Kwon Jin Ah, Sam Kim, Jung Seunghwan, Lee Jin Ah, CHAI, Yun Seokcheol, Jukjae Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35072,
+			"friends_count": 10,
+			"listed_count": 368,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1606994307",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한뼘 안에서 즐기는 신청곡\n정승환의 한뼘콘서트\n\n- 십이월 이십오일의 고백\n- 안녕, 겨울\n- 눈의 꽃 (박효신)\n- 어김없이 이 거리에 \n\n❄️ https://t.co/pB6T8Oaqt2 \n\n#정승환 #한뼘콘서트 #어김없이_이_거리에\n#십이월_이십오일의_고백 #안녕겨울 #눈의꽃"
+	},
+	{
 		"created_at": "Sun Dec 13 11:11:16 +0000 2020",
 		"id": 1338068898852331500,
 		"id_str": "1338079035298099207",
