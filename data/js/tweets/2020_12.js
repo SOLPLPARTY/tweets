@@ -1,6 +1,948 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 14 09:59:05 +0000 2020",
+		"id": 1338423254353055700,
+		"id_str": "1338423254353055751",
+		"full_text": "#루비레코드 #Ruby_Records\n[로칼리카] 인천 음악씬의 젊은 기획자들 with 염명섭(밴드 해머링) 한상태(불가마 사운드/ 밴드 톰톰) (5회)\nhttps://t.co/YUOqZnTl9g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "루비레코드",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Ruby_Records",
+					"indices": [
+						7,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YUOqZnTl9g",
+					"expanded_url": "https://youtu.be/tYd7_L6_ano",
+					"display_url": "youtu.be/tYd7_L6_ano",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#공연일정 #페스티벌 #인디밴드 #내한 #콘서트\n\n문화예술정보 @ArtManagementKR\n뮤직매거진 @Magazine_KR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								115,
+								138
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 245,
+			"friends_count": 431,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66228,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#루비레코드 #Ruby_Records\n[로칼리카] 인천 음악씬의 젊은 기획자들 with 염명섭(밴드 해머링) 한상태(불가마 사운드/ 밴드 톰톰) (5회)\nhttps://t.co/YUOqZnTl9g"
+	},
+	{
+		"created_at": "Mon Dec 14 09:29:39 +0000 2020",
+		"id": 1338408922823106600,
+		"id_str": "1338415849376534531",
+		"full_text": "[#OuiOui] \n\nOuiOui's Christmas Home Party🎄\n2020.12.23. PM6 Insta Live!\nhttps://t.co/aQjdjeGYKl \n\n❤️❤️❤️\n\n2020년 한 해를 돌아보며 위위와 작은 크리스마스 홈파티를 즐기실 분은 모두 모여주세요! 위위의 노래도 듣고 이야기도 나누면서 즐거운 시간 보내요 ❣️\n\n#OuiOui #Christmas #HomeParty https://t.co/h96WljciPY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OuiOui",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "OuiOui",
+					"indices": [
+						192,
+						199
+					]
+				},
+				{
+					"text": "Christmas",
+					"indices": [
+						200,
+						210
+					]
+				},
+				{
+					"text": "HomeParty",
+					"indices": [
+						211,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aQjdjeGYKl",
+					"expanded_url": "http://www.instagram.com/ouiouimusic",
+					"display_url": "instagram.com/ouiouimusic",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1338408915604672500,
+					"id_str": "1338408915604672513",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EpL70UrVEAEvnNm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpL70UrVEAEvnNm.jpg",
+					"url": "https://t.co/h96WljciPY",
+					"display_url": "pic.twitter.com/h96WljciPY",
+					"expanded_url": "https://twitter.com/inplanet/status/1338408922823106560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 761,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1298,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 431,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338408915604672500,
+					"id_str": "1338408915604672513",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EpL70UrVEAEvnNm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpL70UrVEAEvnNm.jpg",
+					"url": "https://t.co/h96WljciPY",
+					"display_url": "pic.twitter.com/h96WljciPY",
+					"expanded_url": "https://twitter.com/inplanet/status/1338408922823106560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 761,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1298,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 431,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Promoting Hip Hop, R&B, soul music in Korea. Music Label & Distributor /\nBoni, Hwaji, The Suite, Wilcox, OuiOui, DAMYE / 유통 문의: 02-3472-6680 or DM or Mention",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1477,
+			"friends_count": 792,
+			"listed_count": 64,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 98,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/450885515772825600/JMia4PNt_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/450885515772825600/JMia4PNt_normal.jpeg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#OuiOui] \n\nOuiOui's Christmas Home Party🎄\n2020.12.23. PM6 Insta Live!\nhttps://t.co/aQjdjeGYKl \n\n❤️❤️❤️\n\n2020년 한 해를 돌아보며 위위와 작은 크리스마스 홈파티를 즐기실 분은 모두 모여주세요! 위위의 노래도 듣고 이야기도 나누면서 즐거운 시간 보내요 ❣️\n\n#OuiOui #Christmas #HomeParty https://t.co/h96WljciPY"
+	},
+	{
+		"created_at": "Mon Dec 14 09:29:36 +0000 2020",
+		"id": 1338408649945837600,
+		"id_str": "1338415836332175361",
+		"full_text": "[강산에] 1분 알아보기 https://t.co/Z7ybKQC9oe 출처 @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						41,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Z7ybKQC9oe",
+					"expanded_url": "https://youtu.be/idRoUeuQkmE",
+					"display_url": "youtu.be/idRoUeuQkmE",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3660,
+			"friends_count": 5,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[강산에] 1분 알아보기 https://t.co/Z7ybKQC9oe 출처 @YouTube"
+	},
+	{
+		"created_at": "Mon Dec 14 09:29:30 +0000 2020",
+		"id": 1338408548754051000,
+		"id_str": "1338415810692440065",
+		"full_text": "김성규(Kim Sung Kyu) 'I'm Cold' MV\n\n2020.12.14 6PM RELEASE\n\nhttps://t.co/B8pxPmKV3o\nhttps://t.co/Vr4PzYjlze\n\n#INFINITE #인피니트\n#Kim_Sung_Kyu #김성규\n#INSIDE_ME #Im_Cold https://t.co/UceSIWFTY9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "INFINITE",
+					"indices": [
+						106,
+						115
+					]
+				},
+				{
+					"text": "인피니트",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "Kim_Sung_Kyu",
+					"indices": [
+						122,
+						135
+					]
+				},
+				{
+					"text": "김성규",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "INSIDE_ME",
+					"indices": [
+						141,
+						151
+					]
+				},
+				{
+					"text": "Im_Cold",
+					"indices": [
+						152,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B8pxPmKV3o",
+					"expanded_url": "http://youtu.be/AFl4UZc3LEA",
+					"display_url": "youtu.be/AFl4UZc3LEA",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/Vr4PzYjlze",
+					"expanded_url": "http://vlive.tv/video/227934",
+					"display_url": "vlive.tv/video/227934",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1338403009118707700,
+					"id_str": "1338403009118707713",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EpL2chTVoAEQoDg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpL2chTVoAEQoDg.jpg",
+					"url": "https://t.co/UceSIWFTY9",
+					"display_url": "pic.twitter.com/UceSIWFTY9",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1338408548754051072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338403009118707700,
+					"id_str": "1338403009118707713",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/EpL2chTVoAEQoDg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpL2chTVoAEQoDg.jpg",
+					"url": "https://t.co/UceSIWFTY9",
+					"display_url": "pic.twitter.com/UceSIWFTY9",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1338408548754051072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424479,
+			"friends_count": 10,
+			"listed_count": 1813,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2069,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1607169766",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1217,
+		"favorite_count": 1857,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김성규(Kim Sung Kyu) 'I'm Cold' MV\n\n2020.12.14 6PM RELEASE\n\nhttps://t.co/B8pxPmKV3o\nhttps://t.co/Vr4PzYjlze\n\n#INFINITE #인피니트\n#Kim_Sung_Kyu #김성규\n#INSIDE_ME #Im_Cold https://t.co/UceSIWFTY9"
+	},
+	{
+		"created_at": "Mon Dec 14 09:29:28 +0000 2020",
+		"id": 1338408386228965400,
+		"id_str": "1338415801804730369",
+		"full_text": "[Album Preview]\n최유리 2nd EP Album '우리만은'\n🎥 https://t.co/en5SpbSzqx\n⠀\n최유리 2nd EP Album '우리만은'\n2020. 12. 15. 6PM Release\n\n#최유리 #우리만은 #ChoiYuRee\n#AlbumPreview #쇼파르뮤직 #ShofarMusic https://t.co/zHUOqydAf9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최유리",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "우리만은",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "ChoiYuRee",
+					"indices": [
+						130,
+						140
+					]
+				},
+				{
+					"text": "AlbumPreview",
+					"indices": [
+						141,
+						154
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						155,
+						161
+					]
+				},
+				{
+					"text": "ShofarMusic",
+					"indices": [
+						162,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/en5SpbSzqx",
+					"expanded_url": "http://youtu.be/QF05t2ZPpK8",
+					"display_url": "youtu.be/QF05t2ZPpK8",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1338306908025802800,
+					"id_str": "1338306908025802752",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EpKfCs1UUAAYHe2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpKfCs1UUAAYHe2.jpg",
+					"url": "https://t.co/zHUOqydAf9",
+					"display_url": "pic.twitter.com/zHUOqydAf9",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1338408386228965376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338306908025802800,
+					"id_str": "1338306908025802752",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EpKfCs1UUAAYHe2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpKfCs1UUAAYHe2.jpg",
+					"url": "https://t.co/zHUOqydAf9",
+					"display_url": "pic.twitter.com/zHUOqydAf9",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1338408386228965376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다.\n가수 스웨덴세탁소, 볼빨간사춘기, 김지수,\n스무살, 보라미유, WH3N, 최유리 소속사\nhttps://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7964,
+			"friends_count": 4,
+			"listed_count": 67,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1607565242",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Album Preview]\n최유리 2nd EP Album '우리만은'\n🎥 https://t.co/en5SpbSzqx\n⠀\n최유리 2nd EP Album '우리만은'\n2020. 12. 15. 6PM Release\n\n#최유리 #우리만은 #ChoiYuRee\n#AlbumPreview #쇼파르뮤직 #ShofarMusic https://t.co/zHUOqydAf9"
+	},
+	{
 		"created_at": "Mon Dec 14 09:08:35 +0000 2020",
 		"id": 1338410545544884200,
 		"id_str": "1338410545544884225",
