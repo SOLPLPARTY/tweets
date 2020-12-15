@@ -1,6 +1,805 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 15 04:29:43 +0000 2020",
+		"id": 1338698720196509700,
+		"id_str": "1338702757721726979",
+		"full_text": "https://t.co/8IByqUjdez",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1338698691566157800,
+					"id_str": "1338698691566157826",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EpQDXgQUwAIS-kb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpQDXgQUwAIS-kb.jpg",
+					"url": "https://t.co/8IByqUjdez",
+					"display_url": "pic.twitter.com/8IByqUjdez",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1338698720196509696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338698691566157800,
+					"id_str": "1338698691566157826",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EpQDXgQUwAIS-kb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpQDXgQUwAIS-kb.jpg",
+					"url": "https://t.co/8IByqUjdez",
+					"display_url": "pic.twitter.com/8IByqUjdez",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1338698720196509696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1338698691788431400,
+					"id_str": "1338698691788431362",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EpQDXhFUYAIp6RQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpQDXhFUYAIp6RQ.jpg",
+					"url": "https://t.co/8IByqUjdez",
+					"display_url": "pic.twitter.com/8IByqUjdez",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1338698720196509696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1338698691977179100,
+					"id_str": "1338698691977179136",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EpQDXhyUcAADzfB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpQDXhyUcAADzfB.jpg",
+					"url": "https://t.co/8IByqUjdez",
+					"display_url": "pic.twitter.com/8IByqUjdez",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1338698720196509696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1338698692128170000,
+					"id_str": "1338698692128169985",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EpQDXiWUYAEuZLa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpQDXiWUYAEuZLa.jpg",
+					"url": "https://t.co/8IByqUjdez",
+					"display_url": "pic.twitter.com/8IByqUjdez",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1338698720196509696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1338698424472891400,
+		"in_reply_to_status_id_str": "1338698424472891392",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl contact@bluevinyl.kr",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22520,
+			"friends_count": 0,
+			"listed_count": 134,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1336970677748842497/UmAJjdzR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336970677748842497/UmAJjdzR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1606885286",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 289,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/8IByqUjdez"
+	},
+	{
+		"created_at": "Tue Dec 15 04:29:39 +0000 2020",
+		"id": 1338698424472891400,
+		"id_str": "1338702740336340993",
+		"full_text": "[NOTICE] 'tellusboutyourself' 음반 판매 • ‘tellusboutyourself’ Physical Album ▶️ https://t.co/SkjfEbFJRo\n\n#백예린 #tellusboutyourself\n#yerinbaek #백예린정규2집 https://t.co/Fw9j53NLKS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "tellusboutyourself",
+					"indices": [
+						107,
+						126
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						127,
+						137
+					]
+				},
+				{
+					"text": "백예린정규2집",
+					"indices": [
+						138,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SkjfEbFJRo",
+					"expanded_url": "http://instagram.com/p/CIze4kajgMI/?utm_source=ig_web_copy_link",
+					"display_url": "instagram.com/p/CIze4kajgMI/…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1338692791782633500,
+					"id_str": "1338692791782633472",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EpP-AF2UcAANGA4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpP-AF2UcAANGA4.jpg",
+					"url": "https://t.co/Fw9j53NLKS",
+					"display_url": "pic.twitter.com/Fw9j53NLKS",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1338698424472891392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338692791782633500,
+					"id_str": "1338692791782633472",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EpP-AF2UcAANGA4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpP-AF2UcAANGA4.jpg",
+					"url": "https://t.co/Fw9j53NLKS",
+					"display_url": "pic.twitter.com/Fw9j53NLKS",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1338698424472891392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1338692791782674400,
+					"id_str": "1338692791782674433",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EpP-AF2VEAE3hDu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpP-AF2VEAE3hDu.jpg",
+					"url": "https://t.co/Fw9j53NLKS",
+					"display_url": "pic.twitter.com/Fw9j53NLKS",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1338698424472891392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1338692791778472000,
+					"id_str": "1338692791778471941",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EpP-AF1U8AUAcXa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpP-AF1U8AUAcXa.jpg",
+					"url": "https://t.co/Fw9j53NLKS",
+					"display_url": "pic.twitter.com/Fw9j53NLKS",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1338698424472891392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1338692791866552300,
+					"id_str": "1338692791866552321",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EpP-AGKU8AElJhi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpP-AGKU8AElJhi.jpg",
+					"url": "https://t.co/Fw9j53NLKS",
+					"display_url": "pic.twitter.com/Fw9j53NLKS",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1338698424472891392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl contact@bluevinyl.kr",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22520,
+			"friends_count": 0,
+			"listed_count": 134,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1336970677748842497/UmAJjdzR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336970677748842497/UmAJjdzR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1606885286",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 496,
+		"favorite_count": 948,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[NOTICE] 'tellusboutyourself' 음반 판매 • ‘tellusboutyourself’ Physical Album ▶️ https://t.co/SkjfEbFJRo\n\n#백예린 #tellusboutyourself\n#yerinbaek #백예린정규2집 https://t.co/Fw9j53NLKS"
+	},
+	{
+		"created_at": "Tue Dec 15 04:29:31 +0000 2020",
+		"id": 1338688502033076200,
+		"id_str": "1338702706148581377",
+		"full_text": "벅스: https://t.co/fYtsvIHgxu\n지니: https://t.co/vfceh7g7Cp\n네이버: https://t.co/p0Fgl6arCY\n바이브: https://t.co/OsqZjxbztD\n플로: https://t.co/9fUmydrXFV\n소리바다: https://t.co/6iw2bwiNy0\n몽키3: https://t.co/Sie07amHvV\n\n#검은잎들 #leavesblack #flower #꽃을주세요 #디지털싱글",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "검은잎들",
+					"indices": [
+						202,
+						207
+					]
+				},
+				{
+					"text": "leavesblack",
+					"indices": [
+						208,
+						220
+					]
+				},
+				{
+					"text": "flower",
+					"indices": [
+						221,
+						228
+					]
+				},
+				{
+					"text": "꽃을주세요",
+					"indices": [
+						229,
+						235
+					]
+				},
+				{
+					"text": "디지털싱글",
+					"indices": [
+						236,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fYtsvIHgxu",
+					"expanded_url": "https://music.bugs.co.kr/album/4019093?wl_ref=M_contents_01_04",
+					"display_url": "music.bugs.co.kr/album/4019093?…",
+					"indices": [
+						4,
+						27
+					]
+				},
+				{
+					"url": "https://t.co/vfceh7g7Cp",
+					"expanded_url": "https://www.genie.co.kr/detail/albumInfo?axnm=81787638",
+					"display_url": "genie.co.kr/detail/albumIn…",
+					"indices": [
+						32,
+						55
+					]
+				},
+				{
+					"url": "https://t.co/p0Fgl6arCY",
+					"expanded_url": "https://music.naver.com/album/index.nhn?albumId=5156491",
+					"display_url": "music.naver.com/album/index.nh…",
+					"indices": [
+						61,
+						84
+					]
+				},
+				{
+					"url": "https://t.co/OsqZjxbztD",
+					"expanded_url": "https://vibe.naver.com/track/43709364",
+					"display_url": "vibe.naver.com/track/43709364",
+					"indices": [
+						90,
+						113
+					]
+				},
+				{
+					"url": "https://t.co/9fUmydrXFV",
+					"expanded_url": "https://www.music-flo.com/detail/album/edlllzdlh/albumtrack",
+					"display_url": "music-flo.com/detail/album/e…",
+					"indices": [
+						118,
+						141
+					]
+				},
+				{
+					"url": "https://t.co/6iw2bwiNy0",
+					"expanded_url": "http://www.soribada.com/music/album/KD0163064",
+					"display_url": "soribada.com/music/album/KD…",
+					"indices": [
+						148,
+						171
+					]
+				},
+				{
+					"url": "https://t.co/Sie07amHvV",
+					"expanded_url": "http://monkey3.momople.com/",
+					"display_url": "monkey3.momople.com",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1338688497297715200,
+		"in_reply_to_status_id_str": "1338688497297715201",
+		"in_reply_to_user_id": 52109991,
+		"in_reply_to_user_id_str": "52109991",
+		"in_reply_to_screen_name": "orm_ent",
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 717,
+			"friends_count": 326,
+			"listed_count": 12,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 706,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1608003222",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "벅스: https://t.co/fYtsvIHgxu\n지니: https://t.co/vfceh7g7Cp\n네이버: https://t.co/p0Fgl6arCY\n바이브: https://t.co/OsqZjxbztD\n플로: https://t.co/9fUmydrXFV\n소리바다: https://t.co/6iw2bwiNy0\n몽키3: https://t.co/Sie07amHvV\n\n#검은잎들 #leavesblack #flower #꽃을주세요 #디지털싱글"
+	},
+	{
 		"created_at": "Tue Dec 15 04:13:28 +0000 2020",
 		"id": 1338698666387890200,
 		"id_str": "1338698666387890176",
