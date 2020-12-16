@@ -1,6 +1,1160 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 16 06:12:41 +0000 2020",
+		"id": 1339091057259278300,
+		"id_str": "1339091057259278337",
+		"full_text": "#루비레코드 #Ruby_Records\n[로칼리카] 7화 포스트 코로나 시대, 쇼 머스트 고 온! with 달태앙(of Third Stone) 진두희 (전 GUTZ 현 싱어송라이터)\nhttps://t.co/4JpI5H0oOg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "루비레코드",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Ruby_Records",
+					"indices": [
+						7,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4JpI5H0oOg",
+					"expanded_url": "https://youtu.be/j_W9mFEWgWo",
+					"display_url": "youtu.be/j_W9mFEWgWo",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#공연일정 #페스티벌 #인디밴드 #내한 #콘서트\n\n문화예술정보 @ArtManagementKR\n뮤직매거진 @Magazine_KR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								115,
+								138
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 245,
+			"friends_count": 431,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66295,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#루비레코드 #Ruby_Records\n[로칼리카] 7화 포스트 코로나 시대, 쇼 머스트 고 온! with 달태앙(of Third Stone) 진두희 (전 GUTZ 현 싱어송라이터)\nhttps://t.co/4JpI5H0oOg"
+	},
+	{
+		"created_at": "Wed Dec 16 05:29:53 +0000 2020",
+		"id": 1339079763650957300,
+		"id_str": "1339080286571786240",
+		"full_text": "[#전기뱀장어][#아마도이자람밴드]서울메이드와 마장뮤직앤피처스의 프로젝트 LP\n[서울의 밤과 낮 : The night and day in seoul]의 온라인 예약 판매 시작되었습니다.\n온라인 셀렉트샵 29CM에서만 예약할 수 있으며 자세한 내용은 아래의 링크에서 확인 가능합니다.\n https://t.co/5sFMvPd8Q6 https://t.co/0l4zRbD9t4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전기뱀장어",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "아마도이자람밴드",
+					"indices": [
+						9,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5sFMvPd8Q6",
+					"expanded_url": "https://www.29cm.co.kr/product/920762",
+					"display_url": "29cm.co.kr/product/920762",
+					"indices": [
+						159,
+						182
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1339079756822638600,
+					"id_str": "1339079756822638592",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/EpVd8a9UcAAC12l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpVd8a9UcAAC12l.jpg",
+					"url": "https://t.co/0l4zRbD9t4",
+					"display_url": "pic.twitter.com/0l4zRbD9t4",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1339079763650957312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339079756822638600,
+					"id_str": "1339079756822638592",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/EpVd8a9UcAAC12l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpVd8a9UcAAC12l.jpg",
+					"url": "https://t.co/0l4zRbD9t4",
+					"display_url": "pic.twitter.com/0l4zRbD9t4",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1339079763650957312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1339079760824074200,
+					"id_str": "1339079760824074243",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/EpVd8p3VgAMqDbr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpVd8p3VgAMqDbr.jpg",
+					"url": "https://t.co/0l4zRbD9t4",
+					"display_url": "pic.twitter.com/0l4zRbD9t4",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1339079763650957312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1996,
+			"friends_count": 26,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 503,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1594485943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#전기뱀장어][#아마도이자람밴드]서울메이드와 마장뮤직앤피처스의 프로젝트 LP\n[서울의 밤과 낮 : The night and day in seoul]의 온라인 예약 판매 시작되었습니다.\n온라인 셀렉트샵 29CM에서만 예약할 수 있으며 자세한 내용은 아래의 링크에서 확인 가능합니다.\n https://t.co/5sFMvPd8Q6 https://t.co/0l4zRbD9t4"
+	},
+	{
+		"created_at": "Wed Dec 16 05:29:47 +0000 2020",
+		"id": 1339074606338961400,
+		"id_str": "1339080260869115905",
+		"full_text": "🎫 NAVER V LIVE Tickets\n\nKor) https://t.co/wtVTogxR5d\n\nEng) https://t.co/YSaaZFxZ46\n\nJP) https://t.co/wzKvpkJEUD\n\n簡) https://t.co/HFujl4d4K4\n\n繁) https://t.co/aeztfveDdC\n\n#동방신기 #TVXQ! #東方神起\n#2020_TVXQ_ONLINE_FANMEETING_동冬방房신기_with_Cassiopeia\n#TVXQ_BeyondLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "동방신기",
+					"indices": [
+						169,
+						174
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "2020_TVXQ_ONLINE_FANMEETING_동冬방房신기_with_Cassiopeia",
+					"indices": [
+						188,
+						239
+					]
+				},
+				{
+					"text": "TVXQ_BeyondLIVE",
+					"indices": [
+						240,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wtVTogxR5d",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=ko",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						29,
+						52
+					]
+				},
+				{
+					"url": "https://t.co/YSaaZFxZ46",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=en",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						59,
+						82
+					]
+				},
+				{
+					"url": "https://t.co/wzKvpkJEUD",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=ja",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						88,
+						111
+					]
+				},
+				{
+					"url": "https://t.co/HFujl4d4K4",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=zh_cn",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						116,
+						139
+					]
+				},
+				{
+					"url": "https://t.co/aeztfveDdC",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=zh_tw",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1339074523635728400,
+		"in_reply_to_status_id_str": "1339074523635728387",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8779458,
+			"friends_count": 53,
+			"listed_count": 8575,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 90,
+		"favorite_count": 635,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "da",
+		"text": "🎫 NAVER V LIVE Tickets\n\nKor) https://t.co/wtVTogxR5d\n\nEng) https://t.co/YSaaZFxZ46\n\nJP) https://t.co/wzKvpkJEUD\n\n簡) https://t.co/HFujl4d4K4\n\n繁) https://t.co/aeztfveDdC\n\n#동방신기 #TVXQ! #東方神起\n#2020_TVXQ_ONLINE_FANMEETING_동冬방房신기_with_Cassiopeia\n#TVXQ_BeyondLIVE"
+	},
+	{
+		"created_at": "Wed Dec 16 05:29:41 +0000 2020",
+		"id": 1339074523635728400,
+		"id_str": "1339080235258613769",
+		"full_text": "[CHI] Beyond LIVE - 2020 TVXQ! ONLINE FANMEETING '동(冬),방(房),신기 with Cassiopeia' : Invitation✉️\n\n12/26 SAT 5PM KST\n\n🎫YES24 Tickets\n\n*Cassiopeia-ACE\n韩国🔗https://t.co/vVLtuqnuc3\n全球🔗https://t.co/TrrFjTvGEE\n\n*普通\n韩国🔗https://t.co/gF4McAuvOL\n全球🔗https://t.co/4A0tK5BAck https://t.co/QGkOD2ZRjb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vVLtuqnuc3",
+					"expanded_url": "http://ticket.yes24.com/Special/38163",
+					"display_url": "ticket.yes24.com/Special/38163",
+					"indices": [
+						150,
+						173
+					]
+				},
+				{
+					"url": "https://t.co/TrrFjTvGEE",
+					"expanded_url": "http://ticket.yes24.com/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=38163",
+					"display_url": "ticket.yes24.com/Pages/English/…",
+					"indices": [
+						177,
+						200
+					]
+				},
+				{
+					"url": "https://t.co/gF4McAuvOL",
+					"expanded_url": "http://ticket.yes24.com/Special/38167",
+					"display_url": "ticket.yes24.com/Special/38167",
+					"indices": [
+						209,
+						232
+					]
+				},
+				{
+					"url": "https://t.co/4A0tK5BAck",
+					"expanded_url": "http://ticket.yes24.com/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=38167",
+					"display_url": "ticket.yes24.com/Pages/English/…",
+					"indices": [
+						236,
+						259
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1339056298453680000,
+					"id_str": "1339056298453680128",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/EpVUC4ZU8AAQ5U9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpVUC4ZU8AAQ5U9.jpg",
+					"url": "https://t.co/QGkOD2ZRjb",
+					"display_url": "pic.twitter.com/QGkOD2ZRjb",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1339074523635728387/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1150,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339056298453680000,
+					"id_str": "1339056298453680128",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/EpVUC4ZU8AAQ5U9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpVUC4ZU8AAQ5U9.jpg",
+					"url": "https://t.co/QGkOD2ZRjb",
+					"display_url": "pic.twitter.com/QGkOD2ZRjb",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1339074523635728387/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1150,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 10945,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1339056298453680128/vid/480x270/NJf56Mr11FPmzQ-F.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1339056298453680128/vid/640x360/cTz-KvHXvKoAncND.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1339056298453680128/vid/1280x720/yFJgULvorcYyFvX6.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1339056298453680128/pl/f0RlFA5Cq-W6sUkH.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8779458,
+			"friends_count": 53,
+			"listed_count": 8575,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 250,
+		"favorite_count": 2246,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "[CHI] Beyond LIVE - 2020 TVXQ! ONLINE FANMEETING '동(冬),방(房),신기 with Cassiopeia' : Invitation✉️\n\n12/26 SAT 5PM KST\n\n🎫YES24 Tickets\n\n*Cassiopeia-ACE\n韩国🔗https://t.co/vVLtuqnuc3\n全球🔗https://t.co/TrrFjTvGEE\n\n*普通\n韩国🔗https://t.co/gF4McAuvOL\n全球🔗https://t.co/4A0tK5BAck https://t.co/QGkOD2ZRjb"
+	},
+	{
+		"created_at": "Wed Dec 16 05:29:34 +0000 2020",
+		"id": 1339074147612127200,
+		"id_str": "1339080205374197762",
+		"full_text": "🎫 NAVER V LIVE Tickets\n\nKor) https://t.co/wtVTogxR5d\n\nEng) https://t.co/YSaaZFxZ46\n\nJP) https://t.co/wzKvpkJEUD\n\n簡) https://t.co/HFujl4d4K4\n\n繁) https://t.co/aeztfveDdC\n\n#동방신기 #TVXQ! #東方神起\n#2020_TVXQ_ONLINE_FANMEETING_동冬방房신기_with_Cassiopeia\n#TVXQ_BeyondLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "동방신기",
+					"indices": [
+						169,
+						174
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "2020_TVXQ_ONLINE_FANMEETING_동冬방房신기_with_Cassiopeia",
+					"indices": [
+						188,
+						239
+					]
+				},
+				{
+					"text": "TVXQ_BeyondLIVE",
+					"indices": [
+						240,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wtVTogxR5d",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=ko",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						29,
+						52
+					]
+				},
+				{
+					"url": "https://t.co/YSaaZFxZ46",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=en",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						59,
+						82
+					]
+				},
+				{
+					"url": "https://t.co/wzKvpkJEUD",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=ja",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						88,
+						111
+					]
+				},
+				{
+					"url": "https://t.co/HFujl4d4K4",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=zh_cn",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						116,
+						139
+					]
+				},
+				{
+					"url": "https://t.co/aeztfveDdC",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=zh_tw",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1339073266959474700,
+		"in_reply_to_status_id_str": "1339073266959474688",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8779458,
+			"friends_count": 53,
+			"listed_count": 8575,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 530,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "da",
+		"text": "🎫 NAVER V LIVE Tickets\n\nKor) https://t.co/wtVTogxR5d\n\nEng) https://t.co/YSaaZFxZ46\n\nJP) https://t.co/wzKvpkJEUD\n\n簡) https://t.co/HFujl4d4K4\n\n繁) https://t.co/aeztfveDdC\n\n#동방신기 #TVXQ! #東方神起\n#2020_TVXQ_ONLINE_FANMEETING_동冬방房신기_with_Cassiopeia\n#TVXQ_BeyondLIVE"
+	},
+	{
+		"created_at": "Wed Dec 16 05:29:27 +0000 2020",
+		"id": 1339074110509355000,
+		"id_str": "1339080175573667840",
+		"full_text": "🎫 NAVER V LIVE Tickets\n\nKor) https://t.co/wtVTogxR5d\n\nEng) https://t.co/YSaaZFxZ46\n\nJP) https://t.co/wzKvpkJEUD\n\n簡) https://t.co/HFujl4d4K4\n\n繁) https://t.co/aeztfveDdC\n\n#동방신기 #TVXQ! #東方神起\n#2020_TVXQ_ONLINE_FANMEETING_동冬방房신기_with_Cassiopeia\n#TVXQ_BeyondLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "동방신기",
+					"indices": [
+						169,
+						174
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "2020_TVXQ_ONLINE_FANMEETING_동冬방房신기_with_Cassiopeia",
+					"indices": [
+						188,
+						239
+					]
+				},
+				{
+					"text": "TVXQ_BeyondLIVE",
+					"indices": [
+						240,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wtVTogxR5d",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=ko",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						29,
+						52
+					]
+				},
+				{
+					"url": "https://t.co/YSaaZFxZ46",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=en",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						59,
+						82
+					]
+				},
+				{
+					"url": "https://t.co/wzKvpkJEUD",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=ja",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						88,
+						111
+					]
+				},
+				{
+					"url": "https://t.co/HFujl4d4K4",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=zh_cn",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						116,
+						139
+					]
+				},
+				{
+					"url": "https://t.co/aeztfveDdC",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=zh_tw",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1339073015334768600,
+		"in_reply_to_status_id_str": "1339073015334768642",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8779458,
+			"friends_count": 53,
+			"listed_count": 8575,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1801,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 436,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "da",
+		"text": "🎫 NAVER V LIVE Tickets\n\nKor) https://t.co/wtVTogxR5d\n\nEng) https://t.co/YSaaZFxZ46\n\nJP) https://t.co/wzKvpkJEUD\n\n簡) https://t.co/HFujl4d4K4\n\n繁) https://t.co/aeztfveDdC\n\n#동방신기 #TVXQ! #東方神起\n#2020_TVXQ_ONLINE_FANMEETING_동冬방房신기_with_Cassiopeia\n#TVXQ_BeyondLIVE"
+	},
+	{
 		"created_at": "Wed Dec 16 04:29:25 +0000 2020",
 		"id": 1339062151030448000,
 		"id_str": "1339065066163986437",
