@@ -1,6 +1,610 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 16 07:41:46 +0000 2020",
+		"id": 1339113472479666200,
+		"id_str": "1339113472479666177",
+		"full_text": "#문화가있는날 #블로그\n'문화처방사 몽이의 문화가 있는 날' 카카오톡 이모티콘 2차 배포 이벤트!\nhttps://t.co/NdotkgO8hy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문화가있는날",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						8,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NdotkgO8hy",
+					"expanded_url": "https://bit.ly/2WmvKDb",
+					"display_url": "bit.ly/2WmvKDb",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#공연일정 #페스티벌 #인디밴드 #내한 #콘서트\n\n문화예술정보 @ArtManagementKR\n뮤직매거진 @Magazine_KR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								115,
+								138
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 245,
+			"friends_count": 431,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66305,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#문화가있는날 #블로그\n'문화처방사 몽이의 문화가 있는 날' 카카오톡 이모티콘 2차 배포 이벤트!\nhttps://t.co/NdotkgO8hy"
+	},
+	{
+		"created_at": "Wed Dec 16 07:29:51 +0000 2020",
+		"id": 1339109209388904400,
+		"id_str": "1339110475787870208",
+		"full_text": "4편의 옴니버스 구성으로 진행되는 이번 공연은, 여러분이 보내주신 이야기들을 위한 셋리스트를 옥상달빛이 직접 구성하여 공연을 선보입니다.\n\n* 각 회차별 초대 관객은 1명이며, 이 공연은 유투브를 통해 생중계됩니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1339108869369254000,
+		"in_reply_to_status_id_str": "1339108869369253888",
+		"in_reply_to_user_id": 263751129,
+		"in_reply_to_user_id_str": "263751129",
+		"in_reply_to_screen_name": "msbsound",
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드🍓\nMagicstrawberry Sound. Music label based in Korea.",
+			"url": "https://t.co/hG14tT4CA9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hG14tT4CA9",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8375,
+			"friends_count": 19,
+			"listed_count": 97,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 84,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1597394894",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "4편의 옴니버스 구성으로 진행되는 이번 공연은, 여러분이 보내주신 이야기들을 위한 셋리스트를 옥상달빛이 직접 구성하여 공연을 선보입니다.\n\n* 각 회차별 초대 관객은 1명이며, 이 공연은 유투브를 통해 생중계됩니다."
+	},
+	{
+		"created_at": "Wed Dec 16 07:29:42 +0000 2020",
+		"id": 1339107331179651000,
+		"id_str": "1339110437590339584",
+		"full_text": "따끈따끈한 검은잎들의 정규1집 [책이여, 안녕!] CD가 오름 사무실에 도착했습니다! \n정규 1집인 만큼 11곡으로 꽉채워진 트랙들을 먼저 공개해 드릴게요~ \n이번 선공개된 &lt;꽃을 주세요&gt;는 마지막 11번 트랙입니다!\n\n#검은잎들 #책이여_안녕 #정규1집 #선공개 #트랙리스트 #꽃을주세요 #leavesblack https://t.co/1TpzPd1uSV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "검은잎들",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "책이여_안녕",
+					"indices": [
+						135,
+						142
+					]
+				},
+				{
+					"text": "정규1집",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "선공개",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "트랙리스트",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "꽃을주세요",
+					"indices": [
+						161,
+						167
+					]
+				},
+				{
+					"text": "leavesblack",
+					"indices": [
+						168,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1339106560501411800,
+					"id_str": "1339106560501411840",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/EpV2UmcU8AAFFgk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpV2UmcU8AAFFgk.jpg",
+					"url": "https://t.co/1TpzPd1uSV",
+					"display_url": "pic.twitter.com/1TpzPd1uSV",
+					"expanded_url": "https://twitter.com/orm_ent/status/1339107331179651073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339106560501411800,
+					"id_str": "1339106560501411840",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/EpV2UmcU8AAFFgk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpV2UmcU8AAFFgk.jpg",
+					"url": "https://t.co/1TpzPd1uSV",
+					"display_url": "pic.twitter.com/1TpzPd1uSV",
+					"expanded_url": "https://twitter.com/orm_ent/status/1339107331179651073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 717,
+			"friends_count": 326,
+			"listed_count": 12,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 706,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1608003222",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "따끈따끈한 검은잎들의 정규1집 [책이여, 안녕!] CD가 오름 사무실에 도착했습니다! \n정규 1집인 만큼 11곡으로 꽉채워진 트랙들을 먼저 공개해 드릴게요~ \n이번 선공개된 &lt;꽃을 주세요&gt;는 마지막 11번 트랙입니다!\n\n#검은잎들 #책이여_안녕 #정규1집 #선공개 #트랙리스트 #꽃을주세요 #leavesblack https://t.co/1TpzPd1uSV"
+	},
+	{
+		"created_at": "Wed Dec 16 07:29:34 +0000 2020",
+		"id": 1339105371097428000,
+		"id_str": "1339110403540922373",
+		"full_text": "그 외 루시드폴 바이닐 &lt;Dancing with water&gt; 관련 자세한 내용은 추후 김밥레코즈 홈페이지를 통해 확인하실 수 있습니다. \n\n많은 사랑과 관심 부탁드립니다 😊\n\n#루시드폴 #Dancing_with_water \n#LP #바이닐 #Vinyl\n#김밥레코즈 #gimbabrecords",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "루시드폴",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "Dancing_with_water",
+					"indices": [
+						110,
+						129
+					]
+				},
+				{
+					"text": "LP",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "바이닐",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "Vinyl",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "김밥레코즈",
+					"indices": [
+						147,
+						153
+					]
+				},
+				{
+					"text": "gimbabrecords",
+					"indices": [
+						154,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1339104919630958600,
+		"in_reply_to_status_id_str": "1339104919630958592",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35109,
+			"friends_count": 10,
+			"listed_count": 368,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3371,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1606994307",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그 외 루시드폴 바이닐 &lt;Dancing with water&gt; 관련 자세한 내용은 추후 김밥레코즈 홈페이지를 통해 확인하실 수 있습니다. \n\n많은 사랑과 관심 부탁드립니다 😊\n\n#루시드폴 #Dancing_with_water \n#LP #바이닐 #Vinyl\n#김밥레코즈 #gimbabrecords"
+	},
+	{
 		"created_at": "Wed Dec 16 07:11:25 +0000 2020",
 		"id": 1339099068480581600,
 		"id_str": "1339105836363378690",
