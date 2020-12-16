@@ -1,6 +1,919 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 16 09:29:51 +0000 2020",
+		"id": 1339133640484114400,
+		"id_str": "1339140676420857857",
+		"full_text": "📌[D-1] ‘이자람’ 정규 1집 [Composition I]이 내일 낮 12시, 주요 온•오프라인 판매처를 통해 발매됩니다! \n\n&lt;억척가&gt;, &lt;이방인의 노래&gt;에서 엄선된 12곡으로 뜨거웠던 공연의 공기를 느껴보세요!!\n\n🎧 이자람 [Composition I]\n📆 2020.12.17 (목) 낮 12시\n\n@jjjjjam\n#이자람 #Composition_I https://t.co/K4zVqhOgiz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이자람",
+					"indices": [
+						191,
+						195
+					]
+				},
+				{
+					"text": "Composition_I",
+					"indices": [
+						196,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jjjjjam",
+					"name": "LeeJaram",
+					"id": 110053057,
+					"id_str": "110053057",
+					"indices": [
+						182,
+						190
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1339133636755345400,
+					"id_str": "1339133636755345408",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EpWO8pWUUAAp-nG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpWO8pWUUAAp-nG.jpg",
+					"url": "https://t.co/K4zVqhOgiz",
+					"display_url": "pic.twitter.com/K4zVqhOgiz",
+					"expanded_url": "https://twitter.com/blueboy_kr/status/1339133640484114432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339133636755345400,
+					"id_str": "1339133636755345408",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EpWO8pWUUAAp-nG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpWO8pWUUAAp-nG.jpg",
+					"url": "https://t.co/K4zVqhOgiz",
+					"display_url": "pic.twitter.com/K4zVqhOgiz",
+					"expanded_url": "https://twitter.com/blueboy_kr/status/1339133640484114432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 613235782,
+			"id_str": "613235782",
+			"name": "BLUE BOY",
+			"screen_name": "blueboy_kr",
+			"location": "",
+			"description": "언니네 이발관 / Wouter Hamel / 이자람 판소리 / 한승석&정재일 / [info.blueboy@gmail.com]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1310,
+			"friends_count": 189,
+			"listed_count": 14,
+			"created_at": "Wed Jun 20 07:48:47 +0000 2012",
+			"favourites_count": 101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📌[D-1] ‘이자람’ 정규 1집 [Composition I]이 내일 낮 12시, 주요 온•오프라인 판매처를 통해 발매됩니다! \n\n&lt;억척가&gt;, &lt;이방인의 노래&gt;에서 엄선된 12곡으로 뜨거웠던 공연의 공기를 느껴보세요!!\n\n🎧 이자람 [Composition I]\n📆 2020.12.17 (목) 낮 12시\n\n@jjjjjam\n#이자람 #Composition_I https://t.co/K4zVqhOgiz"
+	},
+	{
+		"created_at": "Wed Dec 16 09:29:43 +0000 2020",
+		"id": 1339133258362015700,
+		"id_str": "1339140642363101184",
+		"full_text": "2020 안테나 크리스마스 캐럴\n💛 겨울의 우리들 💛\n\n2020 Antenna Christmas Carol\n💛 Our Christmas Wish For You 💛\n\n🎄 CONCEPT PHOTO 🎄\n\n2020. 12. 20. 6PM Release!\n\n#안테나 #Antenna #겨울의_우리들\n#Our_Christmas_Wish_For_You\n#크리스마스캐럴 #Christmas #Carol https://t.co/z5jOMq8prS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안테나",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "Antenna",
+					"indices": [
+						144,
+						152
+					]
+				},
+				{
+					"text": "겨울의_우리들",
+					"indices": [
+						153,
+						161
+					]
+				},
+				{
+					"text": "Our_Christmas_Wish_For_You",
+					"indices": [
+						162,
+						189
+					]
+				},
+				{
+					"text": "크리스마스캐럴",
+					"indices": [
+						190,
+						198
+					]
+				},
+				{
+					"text": "Christmas",
+					"indices": [
+						199,
+						209
+					]
+				},
+				{
+					"text": "Carol",
+					"indices": [
+						210,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1339133252859089000,
+					"id_str": "1339133252859088896",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/EpWOmTOUUAALVKZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpWOmTOUUAALVKZ.jpg",
+					"url": "https://t.co/z5jOMq8prS",
+					"display_url": "pic.twitter.com/z5jOMq8prS",
+					"expanded_url": "https://twitter.com/antennamusic/status/1339133258362015745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339133252859089000,
+					"id_str": "1339133252859088896",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/EpWOmTOUUAALVKZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpWOmTOUUAALVKZ.jpg",
+					"url": "https://t.co/z5jOMq8prS",
+					"display_url": "pic.twitter.com/z5jOMq8prS",
+					"expanded_url": "https://twitter.com/antennamusic/status/1339133258362015745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35124,
+			"friends_count": 10,
+			"listed_count": 368,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1606994307",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 226,
+		"favorite_count": 245,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2020 안테나 크리스마스 캐럴\n💛 겨울의 우리들 💛\n\n2020 Antenna Christmas Carol\n💛 Our Christmas Wish For You 💛\n\n🎄 CONCEPT PHOTO 🎄\n\n2020. 12. 20. 6PM Release!\n\n#안테나 #Antenna #겨울의_우리들\n#Our_Christmas_Wish_For_You\n#크리스마스캐럴 #Christmas #Carol https://t.co/z5jOMq8prS"
+	},
+	{
+		"created_at": "Wed Dec 16 09:29:40 +0000 2020",
+		"id": 1339133169258270700,
+		"id_str": "1339140629230661632",
+		"full_text": "NCT U 엔시티 유 'Make A Wish (Birthday Song) (Wuki Remix)' MV Teaser\n\n[iScreaM Vol.6 - Make A Wish / 90's Love Remix]\n\n🎧 2020. 12. 17. 12PM KST\n\n#NCT \n#MakeAWish\n#90sLove\n#Remix\n#Wuki \n#SQUAR \n#iScreaM\n#ScreaMRecords \n#SMTOWN https://t.co/Zqe8RlYfkb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NCT",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "MakeAWish",
+					"indices": [
+						147,
+						157
+					]
+				},
+				{
+					"text": "90sLove",
+					"indices": [
+						158,
+						166
+					]
+				},
+				{
+					"text": "Remix",
+					"indices": [
+						167,
+						173
+					]
+				},
+				{
+					"text": "Wuki",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "SQUAR",
+					"indices": [
+						181,
+						187
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						189,
+						197
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						198,
+						212
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						214,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1339087823794708500,
+					"id_str": "1339087823794708481",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EpVsrAxU0AED-eF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpVsrAxU0AED-eF.jpg",
+					"url": "https://t.co/Zqe8RlYfkb",
+					"display_url": "pic.twitter.com/Zqe8RlYfkb",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1339133169258270721/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339087823794708500,
+					"id_str": "1339087823794708481",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EpVsrAxU0AED-eF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpVsrAxU0AED-eF.jpg",
+					"url": "https://t.co/Zqe8RlYfkb",
+					"display_url": "pic.twitter.com/Zqe8RlYfkb",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1339133169258270721/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26276,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1339087823794708481/vid/640x360/FH--0LT5YKbDvxPN.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1339087823794708481/vid/1280x720/R6X5dgUaydAwco3y.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1339087823794708481/pl/FekeGnZSA1bn7GT6.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1339087823794708481/vid/480x270/Mbj1f-FhXqXL_0Rr.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8780385,
+			"friends_count": 53,
+			"listed_count": 8579,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1802,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9259,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9908,
+		"favorite_count": 33095,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NCT U 엔시티 유 'Make A Wish (Birthday Song) (Wuki Remix)' MV Teaser\n\n[iScreaM Vol.6 - Make A Wish / 90's Love Remix]\n\n🎧 2020. 12. 17. 12PM KST\n\n#NCT \n#MakeAWish\n#90sLove\n#Remix\n#Wuki \n#SQUAR \n#iScreaM\n#ScreaMRecords \n#SMTOWN https://t.co/Zqe8RlYfkb"
+	},
+	{
+		"created_at": "Wed Dec 16 09:29:32 +0000 2020",
+		"id": 1339133168369070000,
+		"id_str": "1339140595042889731",
+		"full_text": "[#LUCY] LUCY의 최상엽이 가창에 참여한 JTBC 새 수목드라마 '런 온'의 첫 번째 OST, 'Run To You' 발매🔊\n\n지금 바로 전 음원사이트를 통해 만나보세요🎶\n\n#루시 #최상엽 #JTBC #수목드라마 #OST #런온 #RunToYou https://t.co/Ppd15zgWc4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LUCY",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "루시",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "최상엽",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "수목드라마",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "OST",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "런온",
+					"indices": [
+						128,
+						131
+					]
+				},
+				{
+					"text": "RunToYou",
+					"indices": [
+						132,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1338666404803842000,
+					"id_str": "1338666404803842048",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EpPmAKsVEAAYhVz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpPmAKsVEAAYhVz.jpg",
+					"url": "https://t.co/Ppd15zgWc4",
+					"display_url": "pic.twitter.com/Ppd15zgWc4",
+					"expanded_url": "https://twitter.com/themysticstory/status/1339133168369070080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338666404803842000,
+					"id_str": "1338666404803842048",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/EpPmAKsVEAAYhVz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpPmAKsVEAAYhVz.jpg",
+					"url": "https://t.co/Ppd15zgWc4",
+					"display_url": "pic.twitter.com/Ppd15zgWc4",
+					"expanded_url": "https://twitter.com/themysticstory/status/1339133168369070080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19890,
+			"friends_count": 18,
+			"listed_count": 227,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#LUCY] LUCY의 최상엽이 가창에 참여한 JTBC 새 수목드라마 '런 온'의 첫 번째 OST, 'Run To You' 발매🔊\n\n지금 바로 전 음원사이트를 통해 만나보세요🎶\n\n#루시 #최상엽 #JTBC #수목드라마 #OST #런온 #RunToYou https://t.co/Ppd15zgWc4"
+	},
+	{
 		"created_at": "Wed Dec 16 09:06:39 +0000 2020",
 		"id": 1339134834455752700,
 		"id_str": "1339134834455752704",
