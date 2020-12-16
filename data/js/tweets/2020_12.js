@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 16 04:29:25 +0000 2020",
+		"id": 1339062151030448000,
+		"id_str": "1339065066163986437",
+		"full_text": "Merry Luna Christmas 🎄 \n\n#merrychristmas\n\n멜론\nhttps://t.co/cHlKRUElyt\n\n지니\nhttps://t.co/xuFTzo7nLh\n\n바이브\nhttps://t.co/37aW8nlJzI\n\n벅스뮤직\nhttps://t.co/37ArzYhSXU https://t.co/S1eIytd1MI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "merrychristmas",
+					"indices": [
+						25,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cHlKRUElyt",
+					"expanded_url": "http://kko.to/q-BWle2YM",
+					"display_url": "kko.to/q-BWle2YM",
+					"indices": [
+						45,
+						68
+					]
+				},
+				{
+					"url": "https://t.co/xuFTzo7nLh",
+					"expanded_url": "http://genie.co.kr/UHMLA2",
+					"display_url": "genie.co.kr/UHMLA2",
+					"indices": [
+						73,
+						96
+					]
+				},
+				{
+					"url": "https://t.co/37aW8nlJzI",
+					"expanded_url": "http://naver.me/IGAOXmKG",
+					"display_url": "naver.me/IGAOXmKG",
+					"indices": [
+						102,
+						125
+					]
+				},
+				{
+					"url": "https://t.co/37ArzYhSXU",
+					"expanded_url": "https://music.bugs.co.kr/track/32099964",
+					"display_url": "music.bugs.co.kr/track/32099964",
+					"indices": [
+						132,
+						155
+					]
+				},
+				{
+					"url": "https://t.co/S1eIytd1MI",
+					"expanded_url": "https://www.instagram.com/p/CI2E05yB1-A/?igshid=17lnwpvzv6joz",
+					"display_url": "instagram.com/p/CI2E05yB1-A/…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 964372210436591600,
+			"id_str": "964372210436591616",
+			"name": "Enterarts - A.I.M",
+			"screen_name": "aimbyenterarts",
+			"location": "대한민국 서울",
+			"description": "The World's First AI Music Production Record Label & Artist Management\n세계 최초 인공지능 음반 제작 레이블",
+			"url": "https://t.co/4A9OjK1Yel",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4A9OjK1Yel",
+							"expanded_url": "http://www.enterarts.net",
+							"display_url": "enterarts.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Fri Feb 16 05:33:46 +0000 2018",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964373734273433600/Z0O1Lz_s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964373734273433600/Z0O1Lz_s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/964372210436591616/1518759589",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Merry Luna Christmas 🎄 \n\n#merrychristmas\n\n멜론\nhttps://t.co/cHlKRUElyt\n\n지니\nhttps://t.co/xuFTzo7nLh\n\n바이브\nhttps://t.co/37aW8nlJzI\n\n벅스뮤직\nhttps://t.co/37ArzYhSXU https://t.co/S1eIytd1MI"
+	},
+	{
 		"created_at": "Wed Dec 16 03:44:51 +0000 2020",
 		"id": 1339053853619204000,
 		"id_str": "1339053853619204097",
