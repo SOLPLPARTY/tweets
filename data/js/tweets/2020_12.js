@@ -1,6 +1,795 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 17 10:11:17 +0000 2020",
+		"id": 1339509358724452400,
+		"id_str": "1339513487782014977",
+		"full_text": "[채널씬디 ✨구만(9.10000)✨ COMING SOON!]\n⠀\n이번 채널씬디의 주인공은 레트로 포크 뮤지션 ✨구만✨님입니다!\n유쾌한 인터뷰 현장을 살짝 공개합니다 o(*'▽'*)/☆\n남은 연말은 구만님의 'Dance Rather Than Love'과 함께해볼까요?💃\n\n*구만님의 채널씬디 인터뷰 영상은 이번 달 말에 공개됩니다. https://t.co/MkHbaWDWMS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1339509339640328200,
+					"id_str": "1339509339640328197",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EpbkpbqUcAUvEU6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpbkpbqUcAUvEU6.jpg",
+					"url": "https://t.co/MkHbaWDWMS",
+					"display_url": "pic.twitter.com/MkHbaWDWMS",
+					"expanded_url": "https://twitter.com/xindieticket/status/1339509358724452352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339509339640328200,
+					"id_str": "1339509339640328197",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EpbkpbqUcAUvEU6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpbkpbqUcAUvEU6.jpg",
+					"url": "https://t.co/MkHbaWDWMS",
+					"display_url": "pic.twitter.com/MkHbaWDWMS",
+					"expanded_url": "https://twitter.com/xindieticket/status/1339509358724452352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, \n수요일은 15-20시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2795,
+			"friends_count": 2689,
+			"listed_count": 21,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[채널씬디 ✨구만(9.10000)✨ COMING SOON!]\n⠀\n이번 채널씬디의 주인공은 레트로 포크 뮤지션 ✨구만✨님입니다!\n유쾌한 인터뷰 현장을 살짝 공개합니다 o(*'▽'*)/☆\n남은 연말은 구만님의 'Dance Rather Than Love'과 함께해볼까요?💃\n\n*구만님의 채널씬디 인터뷰 영상은 이번 달 말에 공개됩니다. https://t.co/MkHbaWDWMS"
+	},
+	{
+		"created_at": "Thu Dec 17 10:09:35 +0000 2020",
+		"id": 1339513063381282800,
+		"id_str": "1339513063381282817",
+		"full_text": "#서울뮤직 #SEOUL_MUSIC\n[LIVE(Teaser)] viceversa(바이스벌사) - ferrari (Prod. Ian Ka$h) l SEOUL MUSIC\nhttps://t.co/Z8t49N8fyY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SEOUL_MUSIC",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z8t49N8fyY",
+					"expanded_url": "https://youtu.be/W67rPqIFko8",
+					"display_url": "youtu.be/W67rPqIFko8",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#공연일정 #페스티벌 #인디밴드 #내한 #콘서트\n\n문화예술정보 @ArtManagementKR\n뮤직매거진 @Magazine_KR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								115,
+								138
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 247,
+			"friends_count": 431,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ht",
+		"text": "#서울뮤직 #SEOUL_MUSIC\n[LIVE(Teaser)] viceversa(바이스벌사) - ferrari (Prod. Ian Ka$h) l SEOUL MUSIC\nhttps://t.co/Z8t49N8fyY"
+	},
+	{
+		"created_at": "Thu Dec 17 09:29:36 +0000 2020",
+		"id": 1339498460144287700,
+		"id_str": "1339502999715147785",
+		"full_text": "[Kriz, Benzamin]\n\nPrimary Presents PAKTORY MIXTAPE VOL.6\n⠀⠀\n2020. 12. 22. 6PM (KST)\n⠀\n#Kriz #크리즈\n#Benzamin #벤자민\n#PAKTORYMIXTAPEVOL6\n#PAKTORYCOMPANY #팩토리컴퍼니 https://t.co/PeM0HGMIrf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Kriz",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "크리즈",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "Benzamin",
+					"indices": [
+						97,
+						106
+					]
+				},
+				{
+					"text": "벤자민",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "PAKTORYMIXTAPEVOL6",
+					"indices": [
+						112,
+						131
+					]
+				},
+				{
+					"text": "PAKTORYCOMPANY",
+					"indices": [
+						132,
+						147
+					]
+				},
+				{
+					"text": "팩토리컴퍼니",
+					"indices": [
+						148,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1339498446831546400,
+					"id_str": "1339498446831546370",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EpbavYyU8AIRpw5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpbavYyU8AIRpw5.jpg",
+					"url": "https://t.co/PeM0HGMIrf",
+					"display_url": "pic.twitter.com/PeM0HGMIrf",
+					"expanded_url": "https://twitter.com/paktoryofficial/status/1339498460144287744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339498446831546400,
+					"id_str": "1339498446831546370",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EpbavYyU8AIRpw5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpbavYyU8AIRpw5.jpg",
+					"url": "https://t.co/PeM0HGMIrf",
+					"display_url": "pic.twitter.com/PeM0HGMIrf",
+					"expanded_url": "https://twitter.com/paktoryofficial/status/1339498460144287744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189041084971634700,
+			"id_str": "1189041084971634688",
+			"name": "PAKTORY COMPANY",
+			"screen_name": "paktoryofficial",
+			"location": "seoul",
+			"description": "contact@paktory.net",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 311,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Tue Oct 29 04:47:52 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ht",
+		"text": "[Kriz, Benzamin]\n\nPrimary Presents PAKTORY MIXTAPE VOL.6\n⠀⠀\n2020. 12. 22. 6PM (KST)\n⠀\n#Kriz #크리즈\n#Benzamin #벤자민\n#PAKTORYMIXTAPEVOL6\n#PAKTORYCOMPANY #팩토리컴퍼니 https://t.co/PeM0HGMIrf"
+	},
+	{
+		"created_at": "Thu Dec 17 09:29:29 +0000 2020",
+		"id": 1339495753392160800,
+		"id_str": "1339502969843294217",
+		"full_text": "2020 안테나 크리스마스 캐럴\n💛 겨울의 우리들 💛\n\n2020 Antenna Christmas Carol\n💛 Our Christmas Wish For You 💛\n\n🎄 PRE-LISTENING 🎄\nhttps://t.co/ZklPAy8MXe\n\n2020. 12. 20. 6PM Release!\n\n#안테나 #Antenna #겨울의_우리들\n#Our_Christmas_Wish_For_You\n#크리스마스캐럴 #Christmas #Carol https://t.co/DKstxkKO4q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안테나",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "Antenna",
+					"indices": [
+						168,
+						176
+					]
+				},
+				{
+					"text": "겨울의_우리들",
+					"indices": [
+						177,
+						185
+					]
+				},
+				{
+					"text": "Our_Christmas_Wish_For_You",
+					"indices": [
+						186,
+						213
+					]
+				},
+				{
+					"text": "크리스마스캐럴",
+					"indices": [
+						214,
+						222
+					]
+				},
+				{
+					"text": "Christmas",
+					"indices": [
+						223,
+						233
+					]
+				},
+				{
+					"text": "Carol",
+					"indices": [
+						234,
+						240
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZklPAy8MXe",
+					"expanded_url": "https://youtu.be/7dqgDpprpV0",
+					"display_url": "youtu.be/7dqgDpprpV0",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1339495670219038700,
+					"id_str": "1339495670219038721",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1339495670219038721/pu/img/zyXDbkefyth6_lc6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1339495670219038721/pu/img/zyXDbkefyth6_lc6.jpg",
+					"url": "https://t.co/DKstxkKO4q",
+					"display_url": "pic.twitter.com/DKstxkKO4q",
+					"expanded_url": "https://twitter.com/antennamusic/status/1339495753392160775/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339495670219038700,
+					"id_str": "1339495670219038721",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1339495670219038721/pu/img/zyXDbkefyth6_lc6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1339495670219038721/pu/img/zyXDbkefyth6_lc6.jpg",
+					"url": "https://t.co/DKstxkKO4q",
+					"display_url": "pic.twitter.com/DKstxkKO4q",
+					"expanded_url": "https://twitter.com/antennamusic/status/1339495753392160775/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 40747,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1339495670219038721/pu/vid/320x400/VgQrbRbvQ9a7jY1z.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1339495670219038721/pu/vid/720x900/vBYEFoc3X8pXjtqC.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1339495670219038721/pu/pl/Hsf-bkn2s6aY9wQi.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1339495670219038721/pu/vid/360x450/3p8rmdJkSw__XVj3.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35132,
+			"friends_count": 10,
+			"listed_count": 368,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3374,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1606994307",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 183,
+		"favorite_count": 184,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2020 안테나 크리스마스 캐럴\n💛 겨울의 우리들 💛\n\n2020 Antenna Christmas Carol\n💛 Our Christmas Wish For You 💛\n\n🎄 PRE-LISTENING 🎄\nhttps://t.co/ZklPAy8MXe\n\n2020. 12. 20. 6PM Release!\n\n#안테나 #Antenna #겨울의_우리들\n#Our_Christmas_Wish_For_You\n#크리스마스캐럴 #Christmas #Carol https://t.co/DKstxkKO4q"
+	},
+	{
 		"created_at": "Thu Dec 17 09:18:15 +0000 2020",
 		"id": 1339500142920163300,
 		"id_str": "1339500142920163329",
