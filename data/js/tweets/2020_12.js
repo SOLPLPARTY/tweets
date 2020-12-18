@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 18 13:11:28 +0000 2020",
+		"id": 1339916425574531000,
+		"id_str": "1339921221962612736",
+		"full_text": "신도시에서 벌어지고 있는 일 VR로 체크하세요. \n\nhttps://t.co/WVE9UHTh30",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WVE9UHTh30",
+					"expanded_url": "https://my.matterport.com/show/?m=aB6FzPmDqPg",
+					"display_url": "my.matterport.com/show/?m=aB6FzP…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3225907891,
+			"id_str": "3225907891",
+			"name": "신도시",
+			"screen_name": "seendosi",
+			"location": "서울시 중구 수표동 11-2, 5층",
+			"description": "맥주.양주.커피.식사 /송년회•신년회•돌잔치•회갑연•상견례•생일연•피로연회석완비 /서울시 중구 수표동 11-2 5층 /평일 6PM-2AM /금 6PM-3AM /토 3PM-3AM /일 휴무 /070-8631-4557",
+			"url": "https://t.co/o9mzPvptV6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o9mzPvptV6",
+							"expanded_url": "http://seendosi.com",
+							"display_url": "seendosi.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3909,
+			"friends_count": 687,
+			"listed_count": 27,
+			"created_at": "Mon May 25 05:15:01 +0000 2015",
+			"favourites_count": 2938,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7945,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3225907891/1442843307",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "신도시에서 벌어지고 있는 일 VR로 체크하세요. \n\nhttps://t.co/WVE9UHTh30"
+	},
+	{
+		"created_at": "Fri Dec 18 13:11:19 +0000 2020",
+		"id": 1339910001331118000,
+		"id_str": "1339921183727362048",
+		"full_text": "If you like what you hear/see, please consider supporting us by purchasing a tee at https://t.co/bPuqcUDO3U 🙏🏼",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bPuqcUDO3U",
+					"expanded_url": "http://www.cakeshopseoul.com",
+					"display_url": "cakeshopseoul.com",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 776033448,
+			"id_str": "776033448",
+			"name": "Cakeshop Seoul",
+			"screen_name": "CakeshopSeoul",
+			"location": "이태원동 34-16 용산구 서울",
+			"description": "",
+			"url": "https://t.co/Y6fLNJs2vN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y6fLNJs2vN",
+							"expanded_url": "http://www.cakeshopseoul.com",
+							"display_url": "cakeshopseoul.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2564,
+			"friends_count": 551,
+			"listed_count": 20,
+			"created_at": "Thu Aug 23 14:06:21 +0000 2012",
+			"favourites_count": 902,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838798045638635522/svqBMkbH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838798045638635522/svqBMkbH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/776033448/1465407468",
+			"profile_link_color": "ED3D26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you like what you hear/see, please consider supporting us by purchasing a tee at https://t.co/bPuqcUDO3U 🙏🏼"
+	},
+	{
 		"created_at": "Fri Dec 18 12:11:17 +0000 2020",
 		"id": 1339899871659053000,
 		"id_str": "1339906075143921667",
@@ -155,7 +367,7 @@ Grailbird.data.tweets_2020_12 =
 		"created_at": "Fri Dec 18 11:58:14 +0000 2020",
 		"id": 1339900269220356000,
 		"id_str": "1339902794002804743",
-		"full_text": "🙋🏻‍♂️&lt;속.전.속.결&gt; 이런 분들에게 추천합니다!🙋🏻‍♀️\n\n☮️뮤직 페스티벌 기획 노하우를 알고 싶은 \n☮️팬데믹 이후 페스티벌,행사등의 변화와 진화를 탐색하고 싶은 \n☮️축제의 본질과 문화를 함께 탐색하고 싶은 \n☮️코로나 종식의 날, 기념파티와 페스티벌을 기획하고 싶은\n\n모든 현직/예비 기획자 레츠기릿~ https://t.co/1ZdKsef9aD",
+		"full_text": "🙋🏻♂️&lt;속.전.속.결&gt; 이런 분들에게 추천합니다!🙋🏻♀️\n\n☮️뮤직 페스티벌 기획 노하우를 알고 싶은 \n☮️팬데믹 이후 페스티벌,행사등의 변화와 진화를 탐색하고 싶은 \n☮️축제의 본질과 문화를 함께 탐색하고 싶은 \n☮️코로나 종식의 날, 기념파티와 페스티벌을 기획하고 싶은\n\n모든 현직/예비 기획자 레츠기릿~ https://t.co/1ZdKsef9aD",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -359,7 +571,7 @@ Grailbird.data.tweets_2020_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "🙋🏻‍♂️&lt;속.전.속.결&gt; 이런 분들에게 추천합니다!🙋🏻‍♀️\n\n☮️뮤직 페스티벌 기획 노하우를 알고 싶은 \n☮️팬데믹 이후 페스티벌,행사등의 변화와 진화를 탐색하고 싶은 \n☮️축제의 본질과 문화를 함께 탐색하고 싶은 \n☮️코로나 종식의 날, 기념파티와 페스티벌을 기획하고 싶은\n\n모든 현직/예비 기획자 레츠기릿~ https://t.co/1ZdKsef9aD"
+		"text": "🙋🏻♂️&lt;속.전.속.결&gt; 이런 분들에게 추천합니다!🙋🏻♀️\n\n☮️뮤직 페스티벌 기획 노하우를 알고 싶은 \n☮️팬데믹 이후 페스티벌,행사등의 변화와 진화를 탐색하고 싶은 \n☮️축제의 본질과 문화를 함께 탐색하고 싶은 \n☮️코로나 종식의 날, 기념파티와 페스티벌을 기획하고 싶은\n\n모든 현직/예비 기획자 레츠기릿~ https://t.co/1ZdKsef9aD"
 	},
 	{
 		"created_at": "Fri Dec 18 11:05:05 +0000 2020",
