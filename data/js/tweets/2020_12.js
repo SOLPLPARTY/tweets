@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 18 04:29:38 +0000 2020",
+		"id": 1339785199794602000,
+		"id_str": "1339789897297739776",
+		"full_text": "[#전기뱀장어]싱글 &lt;crybaby&gt;가 발매되었어요. 지금 모든 음원사이트에서 감상하세요 🎵 \n#crybaby #발매 #신곡 #싱글 https://t.co/VukZhQZ3c5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전기뱀장어",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "crybaby",
+					"indices": [
+						59,
+						67
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "신곡",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "싱글",
+					"indices": [
+						76,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1339785197378662400,
+					"id_str": "1339785197378662403",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Epffid0U8AM4lvx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Epffid0U8AM4lvx.jpg",
+					"url": "https://t.co/VukZhQZ3c5",
+					"display_url": "pic.twitter.com/VukZhQZ3c5",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1339785199794601984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1078,
+							"h": 1078,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1078,
+							"h": 1078,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339785197378662400,
+					"id_str": "1339785197378662403",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Epffid0U8AM4lvx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Epffid0U8AM4lvx.jpg",
+					"url": "https://t.co/VukZhQZ3c5",
+					"display_url": "pic.twitter.com/VukZhQZ3c5",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1339785199794601984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1078,
+							"h": 1078,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1078,
+							"h": 1078,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1998,
+			"friends_count": 26,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 503,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1594485943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#전기뱀장어]싱글 &lt;crybaby&gt;가 발매되었어요. 지금 모든 음원사이트에서 감상하세요 🎵 \n#crybaby #발매 #신곡 #싱글 https://t.co/VukZhQZ3c5"
+	},
+	{
+		"created_at": "Fri Dec 18 04:29:34 +0000 2020",
+		"id": 1339776184817602600,
+		"id_str": "1339789880080121856",
+		"full_text": "이혜진, 안미경-리안 피아노 듀오 프로젝트  https://t.co/h4SNNwqdsw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h4SNNwqdsw",
+					"expanded_url": "http://blog.naver.com/chili7272/222177670472",
+					"display_url": "blog.naver.com/chili7272/2221…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.naver.com\" rel=\"nofollow\">Naver</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114111001,
+			"id_str": "114111001",
+			"name": "칠리뮤직코리아",
+			"screen_name": "chilimusickorea",
+			"location": "Seoul, Korea",
+			"description": "음반제작 및 배급전문/국내 및 해외사이트 음원유통/매니지먼트 담당//\n허클베리 핀/에이프릴 세컨드/트레봉봉/오드트리/Steve Barakett/LasseLindh/Sioen 등",
+			"url": "https://t.co/XzPUfDyGhf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XzPUfDyGhf",
+							"expanded_url": "http://www.facebook.com/chilimusickorea1",
+							"display_url": "facebook.com/chilimusickore…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2132,
+			"friends_count": 2388,
+			"listed_count": 64,
+			"created_at": "Sun Feb 14 05:12:40 +0000 2010",
+			"favourites_count": 708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114111001/1427096436",
+			"profile_link_color": "FC420A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0B8C4",
+			"profile_text_color": "9FFEE3",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이혜진, 안미경-리안 피아노 듀오 프로젝트  https://t.co/h4SNNwqdsw"
+	},
+	{
 		"created_at": "Fri Dec 18 03:46:10 +0000 2020",
 		"id": 1339778959362416600,
 		"id_str": "1339778959362416641",
