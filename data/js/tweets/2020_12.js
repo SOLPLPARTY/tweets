@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 19 12:11:17 +0000 2020",
+		"id": 1340259368713953300,
+		"id_str": "1340268463445532672",
+		"full_text": "We’re live once again via @mixcloud for International Web Service 📡 Join the fun https://t.co/wlYWjyMsUj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mixcloud",
+					"name": "Mixcloud",
+					"id": 16081046,
+					"id_str": "16081046",
+					"indices": [
+						26,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wlYWjyMsUj",
+					"expanded_url": "http://www.mixcloud.com/live/cakeshop",
+					"display_url": "mixcloud.com/live/cakeshop",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 776033448,
+			"id_str": "776033448",
+			"name": "Cakeshop Seoul",
+			"screen_name": "CakeshopSeoul",
+			"location": "이태원동 34-16 용산구 서울",
+			"description": "",
+			"url": "https://t.co/Y6fLNJs2vN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y6fLNJs2vN",
+							"expanded_url": "http://www.cakeshopseoul.com",
+							"display_url": "cakeshopseoul.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2564,
+			"friends_count": 552,
+			"listed_count": 20,
+			"created_at": "Thu Aug 23 14:06:21 +0000 2012",
+			"favourites_count": 902,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838798045638635522/svqBMkbH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838798045638635522/svqBMkbH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/776033448/1465407468",
+			"profile_link_color": "ED3D26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’re live once again via @mixcloud for International Web Service 📡 Join the fun https://t.co/wlYWjyMsUj"
+	},
+	{
 		"created_at": "Sat Dec 19 09:29:25 +0000 2020",
 		"id": 1340220388941287400,
 		"id_str": "1340227727685808128",
