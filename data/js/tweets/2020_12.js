@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 19 09:29:25 +0000 2020",
+		"id": 1340220388941287400,
+		"id_str": "1340227727685808128",
+		"full_text": "[ #EVENT ]\n\n2020 안테나 크리스마스 캐럴 \n💛 겨울의 우리들 💛\n\n발매 기념 스트리밍 이벤트 안내 🎄✨\n\n이미지를 통해 자세한 사항을 확인해주세요!\n많은 팬분들의 관심과 참여를 기다립니다 💛\n\n#안테나 #겨울의_우리들 #Antenna\n#Our_Christmas_Wish_For_You  \n\n#스트리밍이벤트 #온택트사인회 https://t.co/pk3P2SiOWt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EVENT",
+					"indices": [
+						2,
+						8
+					]
+				},
+				{
+					"text": "안테나",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "겨울의_우리들",
+					"indices": [
+						120,
+						128
+					]
+				},
+				{
+					"text": "Antenna",
+					"indices": [
+						129,
+						137
+					]
+				},
+				{
+					"text": "Our_Christmas_Wish_For_You",
+					"indices": [
+						138,
+						165
+					]
+				},
+				{
+					"text": "스트리밍이벤트",
+					"indices": [
+						169,
+						177
+					]
+				},
+				{
+					"text": "온택트사인회",
+					"indices": [
+						178,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1340220378048655400,
+					"id_str": "1340220378048655365",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EplrVUJUcAUAhD0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EplrVUJUcAUAhD0.jpg",
+					"url": "https://t.co/pk3P2SiOWt",
+					"display_url": "pic.twitter.com/pk3P2SiOWt",
+					"expanded_url": "https://twitter.com/antennamusic/status/1340220388941287427/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1340220378048655400,
+					"id_str": "1340220378048655365",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EplrVUJUcAUAhD0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EplrVUJUcAUAhD0.jpg",
+					"url": "https://t.co/pk3P2SiOWt",
+					"display_url": "pic.twitter.com/pk3P2SiOWt",
+					"expanded_url": "https://twitter.com/antennamusic/status/1340220388941287427/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1340220378044457000,
+					"id_str": "1340220378044456960",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EplrVUIUYAAGuIO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EplrVUIUYAAGuIO.jpg",
+					"url": "https://t.co/pk3P2SiOWt",
+					"display_url": "pic.twitter.com/pk3P2SiOWt",
+					"expanded_url": "https://twitter.com/antennamusic/status/1340220388941287427/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1340220378052845600,
+					"id_str": "1340220378052845568",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EplrVUKUYAAubtI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EplrVUKUYAAubtI.jpg",
+					"url": "https://t.co/pk3P2SiOWt",
+					"display_url": "pic.twitter.com/pk3P2SiOWt",
+					"expanded_url": "https://twitter.com/antennamusic/status/1340220388941287427/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35152,
+			"friends_count": 10,
+			"listed_count": 369,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1606994307",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 116,
+		"favorite_count": 108,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ #EVENT ]\n\n2020 안테나 크리스마스 캐럴 \n💛 겨울의 우리들 💛\n\n발매 기념 스트리밍 이벤트 안내 🎄✨\n\n이미지를 통해 자세한 사항을 확인해주세요!\n많은 팬분들의 관심과 참여를 기다립니다 💛\n\n#안테나 #겨울의_우리들 #Antenna\n#Our_Christmas_Wish_For_You  \n\n#스트리밍이벤트 #온택트사인회 https://t.co/pk3P2SiOWt"
+	},
+	{
 		"created_at": "Sat Dec 19 09:12:35 +0000 2020",
 		"id": 1340223494819377200,
 		"id_str": "1340223494819377153",
