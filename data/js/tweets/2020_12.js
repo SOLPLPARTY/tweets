@@ -1,10 +1,152 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 19 21:29:25 +0000 2020",
+		"id": 1340403683100508200,
+		"id_str": "1340408922415517696",
+		"full_text": "[Kriz, Benzamin]\n\nPrimary Presents PAKTORY MIXTAPE VOL.6\n‘악마는 디테일에 있다 (The Devil Is In The Detail)’\n2020. 12. 22. 6PM (KST)\n⠀\n#Kriz #크리즈\n#Benzamin #벤자민\n#PAKTORYMIXTAPEVOL6\n#PAKTORYCOMPANY #팩토리컴퍼니\n \nhttps://t.co/o42PUaW5II",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Kriz",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "크리즈",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "Benzamin",
+					"indices": [
+						137,
+						146
+					]
+				},
+				{
+					"text": "벤자민",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "PAKTORYMIXTAPEVOL6",
+					"indices": [
+						152,
+						171
+					]
+				},
+				{
+					"text": "PAKTORYCOMPANY",
+					"indices": [
+						172,
+						187
+					]
+				},
+				{
+					"text": "팩토리컴퍼니",
+					"indices": [
+						188,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o42PUaW5II",
+					"expanded_url": "https://youtu.be/Q3iIb0dHOBE",
+					"display_url": "youtu.be/Q3iIb0dHOBE",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189041084971634700,
+			"id_str": "1189041084971634688",
+			"name": "PAKTORY COMPANY",
+			"screen_name": "paktoryofficial",
+			"location": "seoul",
+			"description": "contact@paktory.net",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 310,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Tue Oct 29 04:47:52 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Kriz, Benzamin]\n\nPrimary Presents PAKTORY MIXTAPE VOL.6\n‘악마는 디테일에 있다 (The Devil Is In The Detail)’\n2020. 12. 22. 6PM (KST)\n⠀\n#Kriz #크리즈\n#Benzamin #벤자민\n#PAKTORYMIXTAPEVOL6\n#PAKTORYCOMPANY #팩토리컴퍼니\n \nhttps://t.co/o42PUaW5II"
+	},
+	{
 		"created_at": "Sat Dec 19 13:10:33 +0000 2020",
 		"id": 1340283377145049000,
 		"id_str": "1340283377145049088",
-		"full_text": "#온스테이지 #ONSTAGE\n온스테이지 10주년 | ​플레이리스트 : 13\nhttps://t.co/kwmvjlpC5Y",
+		"full_text": "#온스테이지 #ONSTAGE\n온스테이지 10주년 | 플레이리스트 : 13\nhttps://t.co/kwmvjlpC5Y",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -138,7 +280,7 @@ Grailbird.data.tweets_2020_12 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#온스테이지 #ONSTAGE\n온스테이지 10주년 | ​플레이리스트 : 13\nhttps://t.co/kwmvjlpC5Y"
+		"text": "#온스테이지 #ONSTAGE\n온스테이지 10주년 | 플레이리스트 : 13\nhttps://t.co/kwmvjlpC5Y"
 	},
 	{
 		"created_at": "Sat Dec 19 12:11:17 +0000 2020",
