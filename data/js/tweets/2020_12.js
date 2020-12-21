@@ -1,6 +1,155 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 21 11:58:15 +0000 2020",
+		"id": 1340989790791979000,
+		"id_str": "1340989958266482689",
+		"full_text": "https://t.co/YG8owwqesC\n\n아시안 팝 스테이지 2일차 후기 영상입니다👍\n내년에는 공연장에서 만날 수 있기를 기대합니다✌\n\n#아시안팝스테이지 #서울인디뮤직페스타 #simf #아도이 #술탄오브더디스코 #잠비나이",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아시안팝스테이지",
+					"indices": [
+						78,
+						87
+					]
+				},
+				{
+					"text": "서울인디뮤직페스타",
+					"indices": [
+						88,
+						98
+					]
+				},
+				{
+					"text": "simf",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "아도이",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "술탄오브더디스코",
+					"indices": [
+						110,
+						119
+					]
+				},
+				{
+					"text": "잠비나이",
+					"indices": [
+						120,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YG8owwqesC",
+					"expanded_url": "https://youtu.be/hWGVGGivAFA",
+					"display_url": "youtu.be/hWGVGGivAFA",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910395807504916500,
+			"id_str": "910395807504916481",
+			"name": "서울 인디 뮤직 페스타 - Seoul Indie Music Festa",
+			"screen_name": "simfsimfsimf",
+			"location": "대한민국 마포구",
+			"description": "홍대 앞을 중심으로 활동하고 있는 단체들이 함께 모여 만든 타운형 페스티벌입니다.",
+			"url": "https://t.co/arOqhmk3eP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/arOqhmk3eP",
+							"expanded_url": "http://facebook.com/simfesta",
+							"display_url": "facebook.com/simfesta",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 339,
+			"friends_count": 283,
+			"listed_count": 4,
+			"created_at": "Wed Sep 20 06:50:49 +0000 2017",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292699161192669249/CkKnE3gF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292699161192669249/CkKnE3gF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910395807504916481/1597038472",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "https://t.co/YG8owwqesC\n\n아시안 팝 스테이지 2일차 후기 영상입니다👍\n내년에는 공연장에서 만날 수 있기를 기대합니다✌\n\n#아시안팝스테이지 #서울인디뮤직페스타 #simf #아도이 #술탄오브더디스코 #잠비나이"
+	},
+	{
 		"created_at": "Mon Dec 21 10:29:42 +0000 2020",
 		"id": 1340965040623505400,
 		"id_str": "1340967675401527301",
