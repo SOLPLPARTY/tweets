@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 21 15:29:25 +0000 2020",
+		"id": 1341035704890007600,
+		"id_str": "1341043099980754947",
+		"full_text": "[#리슨] LISTEN 036 \n\n박재정 - 사랑, 그게 될 거라고 생각했어 (Feat. 멜로우 키친)\n2020.12.25 6PM (KST)\n\n작사, 작곡 : DESK\n프로듀서 : 윤종신\n\n#미스틱스토리 #MYSTICSTORY #LISTEN #리슨 #박재정 #parcjaejung #윤종신 #사랑그게될거라고생각했어 #멜로우키친 https://t.co/FqOM1uupzZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "리슨",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "미스틱스토리",
+					"indices": [
+						106,
+						113
+					]
+				},
+				{
+					"text": "MYSTICSTORY",
+					"indices": [
+						114,
+						126
+					]
+				},
+				{
+					"text": "LISTEN",
+					"indices": [
+						127,
+						134
+					]
+				},
+				{
+					"text": "리슨",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "박재정",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "parcjaejung",
+					"indices": [
+						144,
+						156
+					]
+				},
+				{
+					"text": "윤종신",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "사랑그게될거라고생각했어",
+					"indices": [
+						162,
+						175
+					]
+				},
+				{
+					"text": "멜로우키친",
+					"indices": [
+						176,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1340982897621127200,
+					"id_str": "1340982897621127170",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/Epwg1y6U0AIkZTl.png",
+					"media_url_https": "https://pbs.twimg.com/media/Epwg1y6U0AIkZTl.png",
+					"url": "https://t.co/FqOM1uupzZ",
+					"display_url": "pic.twitter.com/FqOM1uupzZ",
+					"expanded_url": "https://twitter.com/themysticstory/status/1341035704890007553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1340982897621127200,
+					"id_str": "1340982897621127170",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/Epwg1y6U0AIkZTl.png",
+					"media_url_https": "https://pbs.twimg.com/media/Epwg1y6U0AIkZTl.png",
+					"url": "https://t.co/FqOM1uupzZ",
+					"display_url": "pic.twitter.com/FqOM1uupzZ",
+					"expanded_url": "https://twitter.com/themysticstory/status/1341035704890007553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19898,
+			"friends_count": 18,
+			"listed_count": 227,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5482,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#리슨] LISTEN 036 \n\n박재정 - 사랑, 그게 될 거라고 생각했어 (Feat. 멜로우 키친)\n2020.12.25 6PM (KST)\n\n작사, 작곡 : DESK\n프로듀서 : 윤종신\n\n#미스틱스토리 #MYSTICSTORY #LISTEN #리슨 #박재정 #parcjaejung #윤종신 #사랑그게될거라고생각했어 #멜로우키친 https://t.co/FqOM1uupzZ"
+	},
+	{
 		"created_at": "Mon Dec 21 13:29:25 +0000 2020",
 		"id": 1340997986738794500,
 		"id_str": "1341012902556385280",
