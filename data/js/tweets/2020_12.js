@@ -1,6 +1,521 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 21 10:29:42 +0000 2020",
+		"id": 1340965040623505400,
+		"id_str": "1340967675401527301",
+		"full_text": "Beyond LIVE - NCT : RESONANCE 'Global Wave’\n\n12/27 SUN 3PM (KST) \n12/26 SAT 10PM (PST) \n12/27 SUN 1AM (EST)\n\nKOR ➫ https://t.co/AySML2WbAH\nENG ➫ https://t.co/VK2mKm9btl\n\n#NCT #RESONANCE #Beyond_LIVE\n#NCT2020_Beyond_LIVE\n#BeyondLIVE_NCT_RESONANCE_Global_Wave\n#VLIVE #NAVER #YES24 https://t.co/5FcMkDRFWv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NCT",
+					"indices": [
+						170,
+						174
+					]
+				},
+				{
+					"text": "RESONANCE",
+					"indices": [
+						175,
+						185
+					]
+				},
+				{
+					"text": "Beyond_LIVE",
+					"indices": [
+						186,
+						198
+					]
+				},
+				{
+					"text": "NCT2020_Beyond_LIVE",
+					"indices": [
+						199,
+						219
+					]
+				},
+				{
+					"text": "BeyondLIVE_NCT_RESONANCE_Global_Wave",
+					"indices": [
+						220,
+						257
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						258,
+						264
+					]
+				},
+				{
+					"text": "NAVER",
+					"indices": [
+						265,
+						271
+					]
+				},
+				{
+					"text": "YES24",
+					"indices": [
+						272,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AySML2WbAH",
+					"expanded_url": "https://vlive.tv/product/ds00u00u00000360?lang=ko",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						115,
+						138
+					]
+				},
+				{
+					"url": "https://t.co/VK2mKm9btl",
+					"expanded_url": "https://vlive.tv/product/ds00u00u00000360?lang=en",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1340964251234488300,
+					"id_str": "1340964251234488320",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EpwQfwSUYAE7NJS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpwQfwSUYAE7NJS.jpg",
+					"url": "https://t.co/5FcMkDRFWv",
+					"display_url": "pic.twitter.com/5FcMkDRFWv",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1340965040623505408/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1340964251234488300,
+					"id_str": "1340964251234488320",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EpwQfwSUYAE7NJS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpwQfwSUYAE7NJS.jpg",
+					"url": "https://t.co/5FcMkDRFWv",
+					"display_url": "pic.twitter.com/5FcMkDRFWv",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1340965040623505408/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 39874,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1340964251234488320/vid/480x270/GYTc7d08vPIMu1fu.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1340964251234488320/pl/RRs_eYDDohxMRKgV.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1340964251234488320/vid/1280x720/gchIhSF-QHqHLWqO.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1340964251234488320/vid/640x360/DYUUP5x3SM6vqfvX.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8798379,
+			"friends_count": 53,
+			"listed_count": 8604,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1812,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1846,
+		"favorite_count": 7550,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Beyond LIVE - NCT : RESONANCE 'Global Wave’\n\n12/27 SUN 3PM (KST) \n12/26 SAT 10PM (PST) \n12/27 SUN 1AM (EST)\n\nKOR ➫ https://t.co/AySML2WbAH\nENG ➫ https://t.co/VK2mKm9btl\n\n#NCT #RESONANCE #Beyond_LIVE\n#NCT2020_Beyond_LIVE\n#BeyondLIVE_NCT_RESONANCE_Global_Wave\n#VLIVE #NAVER #YES24 https://t.co/5FcMkDRFWv"
+	},
+	{
+		"created_at": "Mon Dec 21 10:29:33 +0000 2020",
+		"id": 1340960933984620500,
+		"id_str": "1340967637111754755",
+		"full_text": "[D-3] 2020.12.24.12pm \nComing Soon\n1/N New Single\n\n#oneovern #엔분의일 #슈가레코드 #kindie #kpop #krock #kballad #인디음악 https://t.co/KY5FFjjHQM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "oneovern",
+					"indices": [
+						51,
+						60
+					]
+				},
+				{
+					"text": "엔분의일",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "슈가레코드",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "kindie",
+					"indices": [
+						74,
+						81
+					]
+				},
+				{
+					"text": "kpop",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "krock",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "kballad",
+					"indices": [
+						95,
+						103
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						104,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1340960749938638800,
+					"id_str": "1340960749938638850",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EpwMsoXVgAI5NKy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpwMsoXVgAI5NKy.jpg",
+					"url": "https://t.co/KY5FFjjHQM",
+					"display_url": "pic.twitter.com/KY5FFjjHQM",
+					"expanded_url": "https://twitter.com/sugar_records/status/1340960933984620544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 349,
+							"h": 349,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 349,
+							"h": 349,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 349,
+							"h": 349,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1340960749938638800,
+					"id_str": "1340960749938638850",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EpwMsoXVgAI5NKy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpwMsoXVgAI5NKy.jpg",
+					"url": "https://t.co/KY5FFjjHQM",
+					"display_url": "pic.twitter.com/KY5FFjjHQM",
+					"expanded_url": "https://twitter.com/sugar_records/status/1340960933984620544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 349,
+							"h": 349,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 349,
+							"h": 349,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 349,
+							"h": 349,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94343878,
+			"id_str": "94343878",
+			"name": "슈가레코드",
+			"screen_name": "sugar_records",
+			"location": "Seoul, KR",
+			"description": "#달에닿아 #뷰티핸섬 #리썬 #모브닝 #엔분의일 #당기시오 #우리같은사람들 슈가레코드",
+			"url": "https://t.co/MaZwhWbQNT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MaZwhWbQNT",
+							"expanded_url": "http://sugar-records.com",
+							"display_url": "sugar-records.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 548,
+			"friends_count": 37,
+			"listed_count": 10,
+			"created_at": "Thu Dec 03 14:51:49 +0000 2009",
+			"favourites_count": 372,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7404,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94343878/1548148600",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[D-3] 2020.12.24.12pm \nComing Soon\n1/N New Single\n\n#oneovern #엔분의일 #슈가레코드 #kindie #kpop #krock #kballad #인디음악 https://t.co/KY5FFjjHQM"
+	},
+	{
 		"created_at": "Mon Dec 21 10:11:17 +0000 2020",
 		"id": 1340960592975306800,
 		"id_str": "1340963040083271681",
