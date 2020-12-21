@@ -1,6 +1,1444 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 21 09:11:38 +0000 2020",
+		"id": 1340948029864628200,
+		"id_str": "1340948029864628225",
+		"full_text": "#서울뮤직 #SEOUL_MUSIC\n[LIVE(Teaser)] Kriz, Benzamin - 악마는 디테일에 있다 / Official Teaser\nhttps://t.co/M0PP2IFi1r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SEOUL_MUSIC",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M0PP2IFi1r",
+					"expanded_url": "https://youtu.be/BUc14lI3lNk",
+					"display_url": "youtu.be/BUc14lI3lNk",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#공연일정 #페스티벌 #인디밴드 #내한 #콘서트\n\n문화예술정보 @ArtManagementKR\n뮤직매거진 @Magazine_KR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								115,
+								138
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 247,
+			"friends_count": 431,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#서울뮤직 #SEOUL_MUSIC\n[LIVE(Teaser)] Kriz, Benzamin - 악마는 디테일에 있다 / Official Teaser\nhttps://t.co/M0PP2IFi1r"
+	},
+	{
+		"created_at": "Mon Dec 21 09:08:40 +0000 2020",
+		"id": 1340947281676275700,
+		"id_str": "1340947281676275713",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n와이 돈 위 (Why Don't We) - Slow Down 가사 번역 뮤직비디오\nhttps://t.co/LTdJbGKjgx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LTdJbGKjgx",
+					"expanded_url": "https://youtu.be/Kbd2fvvAhkA",
+					"display_url": "youtu.be/Kbd2fvvAhkA",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#공연일정 #페스티벌 #인디밴드 #내한 #콘서트\n\n문화예술정보 @ArtManagementKR\n뮤직매거진 @Magazine_KR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								115,
+								138
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 247,
+			"friends_count": 431,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n와이 돈 위 (Why Don't We) - Slow Down 가사 번역 뮤직비디오\nhttps://t.co/LTdJbGKjgx"
+	},
+	{
+		"created_at": "Mon Dec 21 09:08:40 +0000 2020",
+		"id": 1340947281563021300,
+		"id_str": "1340947281563021313",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n랑이 (Langyee) - 아직 (카이로스 OST) [Music Video]\nhttps://t.co/mwzgGBpL10",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mwzgGBpL10",
+					"expanded_url": "https://youtu.be/1MSwldg4GqM",
+					"display_url": "youtu.be/1MSwldg4GqM",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#공연일정 #페스티벌 #인디밴드 #내한 #콘서트\n\n문화예술정보 @ArtManagementKR\n뮤직매거진 @Magazine_KR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								115,
+								138
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 247,
+			"friends_count": 431,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n랑이 (Langyee) - 아직 (카이로스 OST) [Music Video]\nhttps://t.co/mwzgGBpL10"
+	},
+	{
+		"created_at": "Mon Dec 21 09:08:40 +0000 2020",
+		"id": 1340947281537851400,
+		"id_str": "1340947281537851392",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n남새라 (Nam Saera) - 그런 놈이 뭐가 좋다고 (Bad Guy) [Studio Live]\nhttps://t.co/p8avNLAsXf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p8avNLAsXf",
+					"expanded_url": "https://youtu.be/R3vtU-Y-qHU",
+					"display_url": "youtu.be/R3vtU-Y-qHU",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#공연일정 #페스티벌 #인디밴드 #내한 #콘서트\n\n문화예술정보 @ArtManagementKR\n뮤직매거진 @Magazine_KR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								115,
+								138
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 247,
+			"friends_count": 431,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n남새라 (Nam Saera) - 그런 놈이 뭐가 좋다고 (Bad Guy) [Studio Live]\nhttps://t.co/p8avNLAsXf"
+	},
+	{
+		"created_at": "Mon Dec 21 08:29:50 +0000 2020",
+		"id": 1340932210971447300,
+		"id_str": "1340937511653269505",
+		"full_text": "Beyond LIVE - BAEKHYUN : LIGHT\n2021/01/03 SUN 3PM (KST)\n\n&lt;TICKET OPEN INFORMATION&gt;\n \n2020/12/24 THU 3PM (KST)\n🎫 NAVER V LIVE Tickets\n🎫 SMTOWN &amp;STORE Tickets, MD\n \nComing Soon!\n\n#백현 #BAEKHYUN\n#엑소 #EXO #weareoneEXO\n#BAEKHYUN_LIGHT\n#BeyondLIVE_BAEKHYUN_LIGHT\n#NAVER #VLIVE https://t.co/7yvnE26CBb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백현",
+					"indices": [
+						187,
+						190
+					]
+				},
+				{
+					"text": "BAEKHYUN",
+					"indices": [
+						191,
+						200
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						201,
+						204
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						205,
+						209
+					]
+				},
+				{
+					"text": "weareoneEXO",
+					"indices": [
+						210,
+						222
+					]
+				},
+				{
+					"text": "BAEKHYUN_LIGHT",
+					"indices": [
+						223,
+						238
+					]
+				},
+				{
+					"text": "BeyondLIVE_BAEKHYUN_LIGHT",
+					"indices": [
+						239,
+						265
+					]
+				},
+				{
+					"text": "NAVER",
+					"indices": [
+						266,
+						272
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						273,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1340932091672887300,
+					"id_str": "1340932091672887303",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EpvyogAVgAcGXR7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpvyogAVgAcGXR7.jpg",
+					"url": "https://t.co/7yvnE26CBb",
+					"display_url": "pic.twitter.com/7yvnE26CBb",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1340932210971447296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1447,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1340932091672887300,
+					"id_str": "1340932091672887303",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EpvyogAVgAcGXR7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpvyogAVgAcGXR7.jpg",
+					"url": "https://t.co/7yvnE26CBb",
+					"display_url": "pic.twitter.com/7yvnE26CBb",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1340932210971447296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1447,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8797874,
+			"friends_count": 53,
+			"listed_count": 8603,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1812,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9280,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4125,
+		"favorite_count": 11116,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Beyond LIVE - BAEKHYUN : LIGHT\n2021/01/03 SUN 3PM (KST)\n\n&lt;TICKET OPEN INFORMATION&gt;\n \n2020/12/24 THU 3PM (KST)\n🎫 NAVER V LIVE Tickets\n🎫 SMTOWN &amp;STORE Tickets, MD\n \nComing Soon!\n\n#백현 #BAEKHYUN\n#엑소 #EXO #weareoneEXO\n#BAEKHYUN_LIGHT\n#BeyondLIVE_BAEKHYUN_LIGHT\n#NAVER #VLIVE https://t.co/7yvnE26CBb"
+	},
+	{
+		"created_at": "Mon Dec 21 08:29:47 +0000 2020",
+		"id": 1340928297052631000,
+		"id_str": "1340937498650939392",
+		"full_text": "🎤12월 23일 오전 11시!! G-Easy의 아주아주 특별한 라이브 공연이 시작됩니다. 렛츠 췍 킷 아웃😎\n(놀랄만한 게스트들과 신곡도 나온다는..🤭)\n\n🎫티켓: https://t.co/ihAGKGtIBn https://t.co/VVACAG5bR5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ihAGKGtIBn",
+					"expanded_url": "https://geazy-asia.nocapshows.com/",
+					"display_url": "geazy-asia.nocapshows.com",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1340928293231595500,
+					"id_str": "1340928293231595520",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EpvvLZtXEAAg77F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpvvLZtXEAAg77F.jpg",
+					"url": "https://t.co/VVACAG5bR5",
+					"display_url": "pic.twitter.com/VVACAG5bR5",
+					"expanded_url": "https://twitter.com/livenationkr/status/1340928297052631045/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1340928293231595500,
+					"id_str": "1340928293231595520",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EpvvLZtXEAAg77F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpvvLZtXEAAg77F.jpg",
+					"url": "https://t.co/VVACAG5bR5",
+					"display_url": "pic.twitter.com/VVACAG5bR5",
+					"expanded_url": "https://twitter.com/livenationkr/status/1340928297052631045/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 236888084,
+			"id_str": "236888084",
+			"name": "LIVE NATION KOREA",
+			"screen_name": "livenationkr",
+			"location": "Seoul, South Korea",
+			"description": "라이브네이션코리아 공식 트위터. Paul McCartney, Maroon5, Jason Mraz, Coldplay, MUSE, 등 해외 유명아티스트의 내한공연과 BIGBANG, Blackpink,BTS 등의 대규모 월드투어를 기획한 공연기획사. FOLLOW US!",
+			"url": "http://t.co/WZhcKy3xE8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/WZhcKy3xE8",
+							"expanded_url": "http://www.livenation.kr",
+							"display_url": "livenation.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6425,
+			"friends_count": 234,
+			"listed_count": 28,
+			"created_at": "Tue Jan 11 16:04:41 +0000 2011",
+			"favourites_count": 593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2058,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820816720998764545/T7P3FpWQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820816720998764545/T7P3FpWQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/236888084/1475559466",
+			"profile_link_color": "E21836",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎤12월 23일 오전 11시!! G-Easy의 아주아주 특별한 라이브 공연이 시작됩니다. 렛츠 췍 킷 아웃😎\n(놀랄만한 게스트들과 신곡도 나온다는..🤭)\n\n🎫티켓: https://t.co/ihAGKGtIBn https://t.co/VVACAG5bR5"
+	},
+	{
+		"created_at": "Mon Dec 21 08:29:41 +0000 2020",
+		"id": 1340927668825387000,
+		"id_str": "1340937472746921984",
+		"full_text": "[스케줄 안내] 12월 4째주 스케줄\n☞ https://t.co/sXeVrxkvuZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sXeVrxkvuZ",
+					"expanded_url": "https://bit.ly/37DYXjw",
+					"display_url": "bit.ly/37DYXjw",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스, 소란, 노리플라이, 쏜애플, LambC, SURL, OurR",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13041,
+			"friends_count": 1949,
+			"listed_count": 255,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[스케줄 안내] 12월 4째주 스케줄\n☞ https://t.co/sXeVrxkvuZ"
+	},
+	{
+		"created_at": "Mon Dec 21 08:29:32 +0000 2020",
+		"id": 1340925389930020900,
+		"id_str": "1340937434511585281",
+		"full_text": "🎫YES24 Tickets\n\nKR🔗 https://t.co/zBRqvYdnjG\nGlobal🔗 https://t.co/oIU1TtFKjD\nMD PKG KR🔗 https://t.co/LEK5gGIweh\nMD PKG Global🔗 https://t.co/PMmTttAHck\n\n#NCT #RESONANCE #Beyond_LIVE\n#NCT2020_Beyond_LIVE\n#BeyondLIVE_NCT_RESONANCE_Global_Wave\n#VLIVE #NAVER #YES24",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NCT",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "RESONANCE",
+					"indices": [
+						156,
+						166
+					]
+				},
+				{
+					"text": "Beyond_LIVE",
+					"indices": [
+						167,
+						179
+					]
+				},
+				{
+					"text": "NCT2020_Beyond_LIVE",
+					"indices": [
+						180,
+						200
+					]
+				},
+				{
+					"text": "BeyondLIVE_NCT_RESONANCE_Global_Wave",
+					"indices": [
+						201,
+						238
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						239,
+						245
+					]
+				},
+				{
+					"text": "NAVER",
+					"indices": [
+						246,
+						252
+					]
+				},
+				{
+					"text": "YES24",
+					"indices": [
+						253,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zBRqvYdnjG",
+					"expanded_url": "http://ticket.yes24.com/Perf/38192",
+					"display_url": "ticket.yes24.com/Perf/38192",
+					"indices": [
+						20,
+						43
+					]
+				},
+				{
+					"url": "https://t.co/oIU1TtFKjD",
+					"expanded_url": "http://ticket.yes24.com/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=38192",
+					"display_url": "ticket.yes24.com/Pages/English/…",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/LEK5gGIweh",
+					"expanded_url": "http://www.yes24.com/eWorld/EventWorld/Event?eventno=195757",
+					"display_url": "yes24.com/eWorld/EventWo…",
+					"indices": [
+						87,
+						110
+					]
+				},
+				{
+					"url": "https://t.co/PMmTttAHck",
+					"expanded_url": "https://global.yes24.com/Event/195758",
+					"display_url": "global.yes24.com/Event/195758",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1340925388218749000,
+		"in_reply_to_status_id_str": "1340925388218748928",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8797874,
+			"friends_count": 53,
+			"listed_count": 8603,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1812,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9280,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 593,
+		"favorite_count": 2680,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎫YES24 Tickets\n\nKR🔗 https://t.co/zBRqvYdnjG\nGlobal🔗 https://t.co/oIU1TtFKjD\nMD PKG KR🔗 https://t.co/LEK5gGIweh\nMD PKG Global🔗 https://t.co/PMmTttAHck\n\n#NCT #RESONANCE #Beyond_LIVE\n#NCT2020_Beyond_LIVE\n#BeyondLIVE_NCT_RESONANCE_Global_Wave\n#VLIVE #NAVER #YES24"
+	},
+	{
+		"created_at": "Mon Dec 21 08:29:27 +0000 2020",
+		"id": 1340925388218749000,
+		"id_str": "1340937413108125696",
+		"full_text": "🎫NAVER V LIVE Tickets\n\nESP🔗https://t.co/qN3cXRg31a\n\nIND🔗https://t.co/m4tddTkDNm\n\nCN(簡) 🔗https://t.co/d17htwQHwK\n\nCN(繁) 🔗https://t.co/atgKbpjM3K\n\nJP🔗https://t.co/oVzPWrb7Gq\n\nTHAI🔗https://t.co/gEOOHdUVCo\n\nVIET🔗https://t.co/PIzRe42ZsX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qN3cXRg31a",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000360?lang=es",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						27,
+						50
+					]
+				},
+				{
+					"url": "https://t.co/m4tddTkDNm",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000360?lang=id",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						56,
+						79
+					]
+				},
+				{
+					"url": "https://t.co/d17htwQHwK",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000360?lang=zh_cn",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						88,
+						111
+					]
+				},
+				{
+					"url": "https://t.co/atgKbpjM3K",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000360?lang=zh_tw",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						120,
+						143
+					]
+				},
+				{
+					"url": "https://t.co/oVzPWrb7Gq",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000360?lang=ja",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						148,
+						171
+					]
+				},
+				{
+					"url": "https://t.co/gEOOHdUVCo",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000360?lang=th",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						178,
+						201
+					]
+				},
+				{
+					"url": "https://t.co/PIzRe42ZsX",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000360?lang=vi",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						208,
+						231
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1340925383001051100,
+		"in_reply_to_status_id_str": "1340925383001051136",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8797874,
+			"friends_count": 53,
+			"listed_count": 8603,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1812,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9280,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 843,
+		"favorite_count": 3255,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "vi",
+		"text": "🎫NAVER V LIVE Tickets\n\nESP🔗https://t.co/qN3cXRg31a\n\nIND🔗https://t.co/m4tddTkDNm\n\nCN(簡) 🔗https://t.co/d17htwQHwK\n\nCN(繁) 🔗https://t.co/atgKbpjM3K\n\nJP🔗https://t.co/oVzPWrb7Gq\n\nTHAI🔗https://t.co/gEOOHdUVCo\n\nVIET🔗https://t.co/PIzRe42ZsX"
+	},
+	{
 		"created_at": "Mon Dec 21 08:15:37 +0000 2020",
 		"id": 1340933934050381800,
 		"id_str": "1340933934050381824",
