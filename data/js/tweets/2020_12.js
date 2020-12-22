@@ -1,6 +1,652 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 22 11:29:40 +0000 2020",
+		"id": 1341344405723127800,
+		"id_str": "1341345155111071745",
+		"full_text": "[라디오]\nSBS 파워FM &lt;두시탈출 컬투쇼&gt; with 이적\n📻 𝟮𝟬𝟮𝟬. 𝟭𝟮. 𝟮𝟯. 𝗪𝗘𝗗. 𝗣𝗠 𝟮:𝟬𝟬\n\n한 달여 만에 다시 스페셜 DJ로 함께 합니다!\n생방 보이는 라디오로 만나요✨\n\n@jucklee #이적 #LEEJUCK #컬투쇼 https://t.co/u6Et73wB2f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이적",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "LEEJUCK",
+					"indices": [
+						128,
+						136
+					]
+				},
+				{
+					"text": "컬투쇼",
+					"indices": [
+						137,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jucklee",
+					"name": "이적 Juck Lee",
+					"id": 51315123,
+					"id_str": "51315123",
+					"indices": [
+						115,
+						123
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341344396948607000,
+					"id_str": "1341344396948606983",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep1pn02VEAcsQlN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep1pn02VEAcsQlN.jpg",
+					"url": "https://t.co/u6Et73wB2f",
+					"display_url": "pic.twitter.com/u6Et73wB2f",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1341344405723127808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 740,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 740,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 671,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341344396948607000,
+					"id_str": "1341344396948606983",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep1pn02VEAcsQlN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep1pn02VEAcsQlN.jpg",
+					"url": "https://t.co/u6Et73wB2f",
+					"display_url": "pic.twitter.com/u6Et73wB2f",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1341344405723127808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 740,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 740,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 671,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언 / Official YouTube Channel https://t.co/gTSbPm12G9",
+			"url": "https://t.co/eSVSBHrncV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSVSBHrncV",
+							"expanded_url": "http://www.instagram.com/musicfarmkorea",
+							"display_url": "instagram.com/musicfarmkorea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gTSbPm12G9",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								44,
+								67
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9201,
+			"friends_count": 4,
+			"listed_count": 109,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1357424393",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[라디오]\nSBS 파워FM &lt;두시탈출 컬투쇼&gt; with 이적\n📻 𝟮𝟬𝟮𝟬. 𝟭𝟮. 𝟮𝟯. 𝗪𝗘𝗗. 𝗣𝗠 𝟮:𝟬𝟬\n\n한 달여 만에 다시 스페셜 DJ로 함께 합니다!\n생방 보이는 라디오로 만나요✨\n\n@jucklee #이적 #LEEJUCK #컬투쇼 https://t.co/u6Et73wB2f"
+	},
+	{
+		"created_at": "Tue Dec 22 11:29:31 +0000 2020",
+		"id": 1341340266628706300,
+		"id_str": "1341345116884246530",
+		"full_text": "[LIVE CLIP]\n\n적재(Jukjae) X 혁(HYUK) \n‘동백꽃(Camellia)' \n\n✔️ https://t.co/0cNinQpbRA \n\n#적재 #혁 #Jukjae #HYUK\n#동백꽃 #Camellia",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "적재",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "혁",
+					"indices": [
+						86,
+						88
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						89,
+						96
+					]
+				},
+				{
+					"text": "HYUK",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "동백꽃",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "Camellia",
+					"indices": [
+						108,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0cNinQpbRA",
+					"expanded_url": "https://youtu.be/Bre9hu6VK6Q",
+					"display_url": "youtu.be/Bre9hu6VK6Q",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official / 2020 안테나 크리스마스 캐럴 ‘겨울의 우리들’ Release!",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35212,
+			"friends_count": 10,
+			"listed_count": 370,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1608569605",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LIVE CLIP]\n\n적재(Jukjae) X 혁(HYUK) \n‘동백꽃(Camellia)' \n\n✔️ https://t.co/0cNinQpbRA \n\n#적재 #혁 #Jukjae #HYUK\n#동백꽃 #Camellia"
+	},
+	{
+		"created_at": "Tue Dec 22 11:29:27 +0000 2020",
+		"id": 1341333907787055000,
+		"id_str": "1341345099628892166",
+		"full_text": "#20201222\n#디어클라우드 #나인 #이랑 #토근\n내일은 #전주 #JUMF\n#전주MBC #유투브 #비대면콘서트\n#디클은3시부터 https://t.co/hGAff0c7dg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "디어클라우드",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"text": "나인",
+					"indices": [
+						18,
+						21
+					]
+				},
+				{
+					"text": "이랑",
+					"indices": [
+						22,
+						25
+					]
+				},
+				{
+					"text": "토근",
+					"indices": [
+						26,
+						29
+					]
+				},
+				{
+					"text": "전주",
+					"indices": [
+						34,
+						37
+					]
+				},
+				{
+					"text": "JUMF",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "전주MBC",
+					"indices": [
+						44,
+						50
+					]
+				},
+				{
+					"text": "유투브",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "비대면콘서트",
+					"indices": [
+						56,
+						63
+					]
+				},
+				{
+					"text": "디클은3시부터",
+					"indices": [
+						64,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341333896034586600,
+					"id_str": "1341333896034586624",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep1gEl5VEAAS9l5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep1gEl5VEAAS9l5.jpg",
+					"url": "https://t.co/hGAff0c7dg",
+					"display_url": "pic.twitter.com/hGAff0c7dg",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1341333907787055107/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 893,
+							"h": 1263,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341333896034586600,
+					"id_str": "1341333896034586624",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep1gEl5VEAAS9l5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep1gEl5VEAAS9l5.jpg",
+					"url": "https://t.co/hGAff0c7dg",
+					"display_url": "pic.twitter.com/hGAff0c7dg",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1341333907787055107/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 893,
+							"h": 1263,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1341333903827640300,
+					"id_str": "1341333903827640321",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep1gFC7VoAE81jm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep1gFC7VoAE81jm.jpg",
+					"url": "https://t.co/hGAff0c7dg",
+					"display_url": "pic.twitter.com/hGAff0c7dg",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1341333907787055107/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2681,
+			"friends_count": 342,
+			"listed_count": 32,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 17642,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5571,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#20201222\n#디어클라우드 #나인 #이랑 #토근\n내일은 #전주 #JUMF\n#전주MBC #유투브 #비대면콘서트\n#디클은3시부터 https://t.co/hGAff0c7dg"
+	},
+	{
 		"created_at": "Tue Dec 22 10:29:46 +0000 2020",
 		"id": 1341327831683350500,
 		"id_str": "1341330081017413632",
