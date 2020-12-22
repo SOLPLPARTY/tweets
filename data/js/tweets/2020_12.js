@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 22 05:29:34 +0000 2020",
+		"id": 1341253126469288000,
+		"id_str": "1341254531238289408",
+		"full_text": "[아마도이자람밴드]연말공연 공지\n\n고민과 논의를 하느라고 공지가 늦어졌습니다.\n\n밴드의 12월 25일 공연은 예정대로 퐁퐁당 좌석으로 진행합니다.\n\n아마도이자람밴드는 방역 수칙을 준수하며 저희의 일을 하겠습니다.\n\n공연장에서 뵙겠습니다! https://t.co/E7App9vhE8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341253117329862700,
+					"id_str": "1341253117329862657",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep0WmpxU8AE8DR0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep0WmpxU8AE8DR0.jpg",
+					"url": "https://t.co/E7App9vhE8",
+					"display_url": "pic.twitter.com/E7App9vhE8",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1341253126469287936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341253117329862700,
+					"id_str": "1341253117329862657",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep0WmpxU8AE8DR0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep0WmpxU8AE8DR0.jpg",
+					"url": "https://t.co/E7App9vhE8",
+					"display_url": "pic.twitter.com/E7App9vhE8",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1341253126469287936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1341253122518225000,
+					"id_str": "1341253122518224896",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep0Wm9GVEAAB1iC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep0Wm9GVEAAB1iC.jpg",
+					"url": "https://t.co/E7App9vhE8",
+					"display_url": "pic.twitter.com/E7App9vhE8",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1341253126469287936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1999,
+			"friends_count": 26,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 503,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5070,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1594485943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[아마도이자람밴드]연말공연 공지\n\n고민과 논의를 하느라고 공지가 늦어졌습니다.\n\n밴드의 12월 25일 공연은 예정대로 퐁퐁당 좌석으로 진행합니다.\n\n아마도이자람밴드는 방역 수칙을 준수하며 저희의 일을 하겠습니다.\n\n공연장에서 뵙겠습니다! https://t.co/E7App9vhE8"
+	},
+	{
 		"created_at": "Tue Dec 22 05:11:17 +0000 2020",
 		"id": 1341237531694616600,
 		"id_str": "1341249930170675200",
