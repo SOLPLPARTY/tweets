@@ -1,6 +1,1059 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 22 09:46:25 +0000 2020",
+		"id": 1341319172119212000,
+		"id_str": "1341319172119212032",
+		"full_text": "#문화가있는날 #블로그\n온라인 VR로 누리는 집콕 문화생활\nhttps://t.co/0UZmLhBxKj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문화가있는날",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						8,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0UZmLhBxKj",
+					"expanded_url": "https://bit.ly/3hapMPt",
+					"display_url": "bit.ly/3hapMPt",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#공연일정 #페스티벌 #인디밴드 #내한 #콘서트\n\n문화예술정보 @ArtManagementKR\n뮤직매거진 @Magazine_KR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								115,
+								138
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 246,
+			"friends_count": 432,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66540,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#문화가있는날 #블로그\n온라인 VR로 누리는 집콕 문화생활\nhttps://t.co/0UZmLhBxKj"
+	},
+	{
+		"created_at": "Tue Dec 22 09:29:51 +0000 2020",
+		"id": 1341308780407976000,
+		"id_str": "1341315003283099648",
+		"full_text": "[Release]\n\nJukjae X HYUK - ‘동백꽃’\n\nLyrics by 적재 Hyuk\nComposed by 적재 Hyuk MIN\nArranged by 적재 Hyuk\n\n지금 바로 전 온라인 음원사이트에서 감상하실 수 있습니다 🌺✨\n\n#적재 #혁 #빅스 #Jukjae #Hyuk #VIXX\n#동백꽃 #Camellia https://t.co/7EP58gTtBl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "적재",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "혁",
+					"indices": [
+						137,
+						139
+					]
+				},
+				{
+					"text": "빅스",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						144,
+						151
+					]
+				},
+				{
+					"text": "Hyuk",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "VIXX",
+					"indices": [
+						158,
+						163
+					]
+				},
+				{
+					"text": "동백꽃",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "Camellia",
+					"indices": [
+						169,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341308769783844900,
+					"id_str": "1341308769783844864",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep1JODUVEAA8_tq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep1JODUVEAA8_tq.jpg",
+					"url": "https://t.co/7EP58gTtBl",
+					"display_url": "pic.twitter.com/7EP58gTtBl",
+					"expanded_url": "https://twitter.com/antennamusic/status/1341308780407975936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341308769783844900,
+					"id_str": "1341308769783844864",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep1JODUVEAA8_tq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep1JODUVEAA8_tq.jpg",
+					"url": "https://t.co/7EP58gTtBl",
+					"display_url": "pic.twitter.com/7EP58gTtBl",
+					"expanded_url": "https://twitter.com/antennamusic/status/1341308780407975936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official / 2020 안테나 크리스마스 캐럴 ‘겨울의 우리들’ Release!",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35211,
+			"friends_count": 10,
+			"listed_count": 370,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1608569605",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 146,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release]\n\nJukjae X HYUK - ‘동백꽃’\n\nLyrics by 적재 Hyuk\nComposed by 적재 Hyuk MIN\nArranged by 적재 Hyuk\n\n지금 바로 전 온라인 음원사이트에서 감상하실 수 있습니다 🌺✨\n\n#적재 #혁 #빅스 #Jukjae #Hyuk #VIXX\n#동백꽃 #Camellia https://t.co/7EP58gTtBl"
+	},
+	{
+		"created_at": "Tue Dec 22 09:29:44 +0000 2020",
+		"id": 1341308376987304000,
+		"id_str": "1341314973465800704",
+		"full_text": "[Kriz, Benzamin]\n\nKriz, Benzamin의 ‘악마는 디테일에 있다’ Live Clip이 PAKTORY COMPANY 오피셜 유튜브 채널에 공개되었습니다. \n‘Kriz, Benzamin - The Devil Is In The Detail’ Live Clip has been released on PAKTORY COMPANY official YouTube channel.\n\n▶ https://t.co/wSRpManpHa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wSRpManpHa",
+					"expanded_url": "https://youtu.be/9O8MlNy1_Ws",
+					"display_url": "youtu.be/9O8MlNy1_Ws",
+					"indices": [
+						219,
+						242
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189041084971634700,
+			"id_str": "1189041084971634688",
+			"name": "PAKTORY COMPANY",
+			"screen_name": "paktoryofficial",
+			"location": "seoul",
+			"description": "contact@paktory.net",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 310,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Tue Oct 29 04:47:52 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Kriz, Benzamin]\n\nKriz, Benzamin의 ‘악마는 디테일에 있다’ Live Clip이 PAKTORY COMPANY 오피셜 유튜브 채널에 공개되었습니다. \n‘Kriz, Benzamin - The Devil Is In The Detail’ Live Clip has been released on PAKTORY COMPANY official YouTube channel.\n\n▶ https://t.co/wSRpManpHa"
+	},
+	{
+		"created_at": "Tue Dec 22 09:29:40 +0000 2020",
+		"id": 1341307898832380000,
+		"id_str": "1341314956176859136",
+		"full_text": "Yerin Baek ‘Hate you (One-take ver.)'\n\nhttps://t.co/suMdO5jZLN\n\n'Hate you (One-take ver.)' 영상이 공개되었습니다. Yerin Baek 유튜브 채널에서 풀버전으로 감상하세요! Watch the full video on Yerin Baek's Youtube channel!\n\n#백예린 #yerinbaek #tellusboutyourself #백예린정규2집",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						192,
+						196
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						197,
+						207
+					]
+				},
+				{
+					"text": "tellusboutyourself",
+					"indices": [
+						208,
+						227
+					]
+				},
+				{
+					"text": "백예린정규2집",
+					"indices": [
+						228,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/suMdO5jZLN",
+					"expanded_url": "https://www.youtube.com/watch?v=Sh4eEyEEb98",
+					"display_url": "youtube.com/watch?v=Sh4eEy…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl contact@bluevinyl.kr",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23044,
+			"friends_count": 0,
+			"listed_count": 134,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1336970677748842497/UmAJjdzR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336970677748842497/UmAJjdzR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1606885286",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 386,
+		"favorite_count": 553,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Yerin Baek ‘Hate you (One-take ver.)'\n\nhttps://t.co/suMdO5jZLN\n\n'Hate you (One-take ver.)' 영상이 공개되었습니다. Yerin Baek 유튜브 채널에서 풀버전으로 감상하세요! Watch the full video on Yerin Baek's Youtube channel!\n\n#백예린 #yerinbaek #tellusboutyourself #백예린정규2집"
+	},
+	{
+		"created_at": "Tue Dec 22 09:29:32 +0000 2020",
+		"id": 1341307836144357400,
+		"id_str": "1341314922169446400",
+		"full_text": "[Kriz, Benzamin]\n\nKriz, Benzamin의 신곡 ‘악마는 디테일에 있다’가 모든 음원사이트에 공개되었습니다.\n‘Kriz, Benzamin - The Devil Is In The Detail’ released on online music streaming platform.\n\n#Kriz #크리즈\n#Benzamin #벤자민\n#PAKTORYMIXTAPEVOL6\n#PAKTORYCOMPANY #팩토리컴퍼니 https://t.co/kMnzKy3KYq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Kriz",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "크리즈",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "Benzamin",
+					"indices": [
+						174,
+						183
+					]
+				},
+				{
+					"text": "벤자민",
+					"indices": [
+						184,
+						188
+					]
+				},
+				{
+					"text": "PAKTORYMIXTAPEVOL6",
+					"indices": [
+						189,
+						208
+					]
+				},
+				{
+					"text": "PAKTORYCOMPANY",
+					"indices": [
+						209,
+						224
+					]
+				},
+				{
+					"text": "팩토리컴퍼니",
+					"indices": [
+						225,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341304394327810000,
+					"id_str": "1341304394327810049",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep1FPXeUYAEPIGG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep1FPXeUYAEPIGG.jpg",
+					"url": "https://t.co/kMnzKy3KYq",
+					"display_url": "pic.twitter.com/kMnzKy3KYq",
+					"expanded_url": "https://twitter.com/paktoryofficial/status/1341307836144357376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341304394327810000,
+					"id_str": "1341304394327810049",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep1FPXeUYAEPIGG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep1FPXeUYAEPIGG.jpg",
+					"url": "https://t.co/kMnzKy3KYq",
+					"display_url": "pic.twitter.com/kMnzKy3KYq",
+					"expanded_url": "https://twitter.com/paktoryofficial/status/1341307836144357376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189041084971634700,
+			"id_str": "1189041084971634688",
+			"name": "PAKTORY COMPANY",
+			"screen_name": "paktoryofficial",
+			"location": "seoul",
+			"description": "contact@paktory.net",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 310,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Tue Oct 29 04:47:52 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Kriz, Benzamin]\n\nKriz, Benzamin의 신곡 ‘악마는 디테일에 있다’가 모든 음원사이트에 공개되었습니다.\n‘Kriz, Benzamin - The Devil Is In The Detail’ released on online music streaming platform.\n\n#Kriz #크리즈\n#Benzamin #벤자민\n#PAKTORYMIXTAPEVOL6\n#PAKTORYCOMPANY #팩토리컴퍼니 https://t.co/kMnzKy3KYq"
+	},
+	{
+		"created_at": "Tue Dec 22 09:29:29 +0000 2020",
+		"id": 1341307521399591000,
+		"id_str": "1341314909032865794",
+		"full_text": "[📸] Lovelyz (Babysoul, 류수정) &amp; Golden Child (TAG, 주찬) '순천의 하늘 아래에서'\n\n2020. 12. 24 (KST) 12PM RELEASE\n\n#Lovelyz #러블리즈\n#베이비소울 #류수정\n#GoldenChild #골든차일드\n#TAG #홍주찬\n#싱스트리트 #순천의하늘아래에서 https://t.co/89o6DPljOb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Lovelyz",
+					"indices": [
+						105,
+						113
+					]
+				},
+				{
+					"text": "러블리즈",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "베이비소울",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "류수정",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						132,
+						144
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "TAG",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "홍주찬",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "싱스트리트",
+					"indices": [
+						162,
+						168
+					]
+				},
+				{
+					"text": "순천의하늘아래에서",
+					"indices": [
+						169,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341306628599996400,
+					"id_str": "1341306628599996419",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep1HRayUYAMuv03.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep1HRayUYAMuv03.jpg",
+					"url": "https://t.co/89o6DPljOb",
+					"display_url": "pic.twitter.com/89o6DPljOb",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1341307521399590913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 496,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 875,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1494,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341306628599996400,
+					"id_str": "1341306628599996419",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep1HRayUYAMuv03.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep1HRayUYAMuv03.jpg",
+					"url": "https://t.co/89o6DPljOb",
+					"display_url": "pic.twitter.com/89o6DPljOb",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1341307521399590913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 496,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 875,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1494,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424476,
+			"friends_count": 10,
+			"listed_count": 1817,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2070,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1607169766",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1320,
+		"favorite_count": 2519,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📸] Lovelyz (Babysoul, 류수정) &amp; Golden Child (TAG, 주찬) '순천의 하늘 아래에서'\n\n2020. 12. 24 (KST) 12PM RELEASE\n\n#Lovelyz #러블리즈\n#베이비소울 #류수정\n#GoldenChild #골든차일드\n#TAG #홍주찬\n#싱스트리트 #순천의하늘아래에서 https://t.co/89o6DPljOb"
+	},
+	{
 		"created_at": "Tue Dec 22 09:18:59 +0000 2020",
 		"id": 1341312265845391400,
 		"id_str": "1341312265845391360",
