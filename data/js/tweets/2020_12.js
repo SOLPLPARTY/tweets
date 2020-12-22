@@ -1,6 +1,1122 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 22 03:58:36 +0000 2020",
+		"id": 1341221398014902300,
+		"id_str": "1341231639997853701",
+		"full_text": "#스펙 #강원 #강원도 #춘천 #춘천축제 #철원 #로컬 #로컬크리에이터 #문화기획자",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스펙",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "강원",
+					"indices": [
+						4,
+						7
+					]
+				},
+				{
+					"text": "강원도",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "춘천",
+					"indices": [
+						13,
+						16
+					]
+				},
+				{
+					"text": "춘천축제",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "철원",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "로컬",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "로컬크리에이터",
+					"indices": [
+						31,
+						39
+					]
+				},
+				{
+					"text": "문화기획자",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1341221396861468700,
+		"in_reply_to_status_id_str": "1341221396861468674",
+		"in_reply_to_user_id": 993804824138473500,
+		"in_reply_to_user_id_str": "993804824138473476",
+		"in_reply_to_screen_name": "dmz_peacetrain",
+		"user": {
+			"id": 993804824138473500,
+			"id_str": "993804824138473476",
+			"name": "DMZ Peace Train Music Festival",
+			"screen_name": "dmz_peacetrain",
+			"location": "대한민국 철원군",
+			"description": "지금 우리, 눈부신 평화와 만날 때! 2020.7.18~7.19 Cheorwon, South Korea",
+			"url": "https://t.co/xX5SCptuBk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xX5SCptuBk",
+							"expanded_url": "http://www.dmzpeacetrain.com",
+							"display_url": "dmzpeacetrain.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 540,
+			"friends_count": 39,
+			"listed_count": 6,
+			"created_at": "Tue May 08 10:48:28 +0000 2018",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993804824138473476/1581320908",
+			"profile_link_color": "007F5A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#스펙 #강원 #강원도 #춘천 #춘천축제 #철원 #로컬 #로컬크리에이터 #문화기획자"
+	},
+	{
+		"created_at": "Tue Dec 22 03:58:29 +0000 2020",
+		"id": 1341221396861468700,
+		"id_str": "1341231610226749440",
+		"full_text": "#축제 #페스티벌 #축제기획 #페스티벌기획 #문화기획 #피스트레인 #dmzpeacetrainsmusicfestival #디엠지피스트레인뮤직페스티벌 #공연기획 #아카데미 #캠프 #축제캠프 #이벤트기획 #공연 #크리에이터 #기획자 #창조경제혁신센터 #포스트코로나 #포스트펜데믹 #festival #스펙업 #취업 #포트폴리오",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "축제",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						4,
+						9
+					]
+				},
+				{
+					"text": "축제기획",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "페스티벌기획",
+					"indices": [
+						16,
+						23
+					]
+				},
+				{
+					"text": "문화기획",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"text": "피스트레인",
+					"indices": [
+						30,
+						36
+					]
+				},
+				{
+					"text": "dmzpeacetrainsmusicfestival",
+					"indices": [
+						37,
+						65
+					]
+				},
+				{
+					"text": "디엠지피스트레인뮤직페스티벌",
+					"indices": [
+						66,
+						81
+					]
+				},
+				{
+					"text": "공연기획",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "아카데미",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "캠프",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "축제캠프",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "이벤트기획",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "크리에이터",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "기획자",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "창조경제혁신센터",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"text": "포스트코로나",
+					"indices": [
+						137,
+						144
+					]
+				},
+				{
+					"text": "포스트펜데믹",
+					"indices": [
+						145,
+						152
+					]
+				},
+				{
+					"text": "festival",
+					"indices": [
+						153,
+						162
+					]
+				},
+				{
+					"text": "스펙업",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "취업",
+					"indices": [
+						168,
+						171
+					]
+				},
+				{
+					"text": "포트폴리오",
+					"indices": [
+						172,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1341221395628376000,
+		"in_reply_to_status_id_str": "1341221395628376064",
+		"in_reply_to_user_id": 993804824138473500,
+		"in_reply_to_user_id_str": "993804824138473476",
+		"in_reply_to_screen_name": "dmz_peacetrain",
+		"user": {
+			"id": 993804824138473500,
+			"id_str": "993804824138473476",
+			"name": "DMZ Peace Train Music Festival",
+			"screen_name": "dmz_peacetrain",
+			"location": "대한민국 철원군",
+			"description": "지금 우리, 눈부신 평화와 만날 때! 2020.7.18~7.19 Cheorwon, South Korea",
+			"url": "https://t.co/xX5SCptuBk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xX5SCptuBk",
+							"expanded_url": "http://www.dmzpeacetrain.com",
+							"display_url": "dmzpeacetrain.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 540,
+			"friends_count": 39,
+			"listed_count": 6,
+			"created_at": "Tue May 08 10:48:28 +0000 2018",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993804824138473476/1581320908",
+			"profile_link_color": "007F5A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#축제 #페스티벌 #축제기획 #페스티벌기획 #문화기획 #피스트레인 #dmzpeacetrainsmusicfestival #디엠지피스트레인뮤직페스티벌 #공연기획 #아카데미 #캠프 #축제캠프 #이벤트기획 #공연 #크리에이터 #기획자 #창조경제혁신센터 #포스트코로나 #포스트펜데믹 #festival #스펙업 #취업 #포트폴리오"
+	},
+	{
+		"created_at": "Tue Dec 22 03:58:26 +0000 2020",
+		"id": 1341221395628376000,
+		"id_str": "1341231597165666306",
+		"full_text": "🚇본 캠프는 방역지침을 준수하여 진행합니다.\n🚇코로나 19 확산세를 고려하여 숙박은 1인 1실을 제공하며, 정부가 제안하는 사회적 거리두기 지침에 따라 일부 프로그램에 변경이 있을 수 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1341221394412028000,
+		"in_reply_to_status_id_str": "1341221394412027904",
+		"in_reply_to_user_id": 993804824138473500,
+		"in_reply_to_user_id_str": "993804824138473476",
+		"in_reply_to_screen_name": "dmz_peacetrain",
+		"user": {
+			"id": 993804824138473500,
+			"id_str": "993804824138473476",
+			"name": "DMZ Peace Train Music Festival",
+			"screen_name": "dmz_peacetrain",
+			"location": "대한민국 철원군",
+			"description": "지금 우리, 눈부신 평화와 만날 때! 2020.7.18~7.19 Cheorwon, South Korea",
+			"url": "https://t.co/xX5SCptuBk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xX5SCptuBk",
+							"expanded_url": "http://www.dmzpeacetrain.com",
+							"display_url": "dmzpeacetrain.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 540,
+			"friends_count": 39,
+			"listed_count": 6,
+			"created_at": "Tue May 08 10:48:28 +0000 2018",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993804824138473476/1581320908",
+			"profile_link_color": "007F5A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "🚇본 캠프는 방역지침을 준수하여 진행합니다.\n🚇코로나 19 확산세를 고려하여 숙박은 1인 1실을 제공하며, 정부가 제안하는 사회적 거리두기 지침에 따라 일부 프로그램에 변경이 있을 수 있습니다."
+	},
+	{
+		"created_at": "Tue Dec 22 03:58:24 +0000 2020",
+		"id": 1341221394412028000,
+		"id_str": "1341231588307251202",
+		"full_text": "➖리워드:\n✌🏼피스트레인 축제 캠프 기간 숙박/식사/학습자료 제공\n✌🏼최우수, 우수 참가자 시상\n✌🏼2021 피스트레인 뮤직 페스티벌 협력 프로젝트 진행\n✌🏼축제 캠프 강사진과의 추가 멘토링 및 네트워킹\n-\n주최: 강원창조경제혁신센터 \n주관: MOTR\n후원: 사단법인 피스트레인",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1341221392574910500,
+		"in_reply_to_status_id_str": "1341221392574910464",
+		"in_reply_to_user_id": 993804824138473500,
+		"in_reply_to_user_id_str": "993804824138473476",
+		"in_reply_to_screen_name": "dmz_peacetrain",
+		"user": {
+			"id": 993804824138473500,
+			"id_str": "993804824138473476",
+			"name": "DMZ Peace Train Music Festival",
+			"screen_name": "dmz_peacetrain",
+			"location": "대한민국 철원군",
+			"description": "지금 우리, 눈부신 평화와 만날 때! 2020.7.18~7.19 Cheorwon, South Korea",
+			"url": "https://t.co/xX5SCptuBk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xX5SCptuBk",
+							"expanded_url": "http://www.dmzpeacetrain.com",
+							"display_url": "dmzpeacetrain.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 540,
+			"friends_count": 39,
+			"listed_count": 6,
+			"created_at": "Tue May 08 10:48:28 +0000 2018",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993804824138473476/1581320908",
+			"profile_link_color": "007F5A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "➖리워드:\n✌🏼피스트레인 축제 캠프 기간 숙박/식사/학습자료 제공\n✌🏼최우수, 우수 참가자 시상\n✌🏼2021 피스트레인 뮤직 페스티벌 협력 프로젝트 진행\n✌🏼축제 캠프 강사진과의 추가 멘토링 및 네트워킹\n-\n주최: 강원창조경제혁신센터 \n주관: MOTR\n후원: 사단법인 피스트레인"
+	},
+	{
+		"created_at": "Tue Dec 22 03:58:17 +0000 2020",
+		"id": 1341221392574910500,
+		"id_str": "1341231558427111425",
+		"full_text": "➖모집기간: 2020년 12월 31일 자정까지\n➖선정발표: 2021년 1월 4일(월) 개별 연락\n➖참가비: 무료(거주지~춘천 간 왕복 이동은 참가자 부담) https://t.co/iKBdXZZGkR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341220817594503200,
+					"id_str": "1341220817594503168",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/Epz5Oj4UUAAP11J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Epz5Oj4UUAAP11J.jpg",
+					"url": "https://t.co/iKBdXZZGkR",
+					"display_url": "pic.twitter.com/iKBdXZZGkR",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1341221392574910464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341220817594503200,
+					"id_str": "1341220817594503168",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/Epz5Oj4UUAAP11J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Epz5Oj4UUAAP11J.jpg",
+					"url": "https://t.co/iKBdXZZGkR",
+					"display_url": "pic.twitter.com/iKBdXZZGkR",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1341221392574910464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1341221388204458000,
+		"in_reply_to_status_id_str": "1341221388204457985",
+		"in_reply_to_user_id": 993804824138473500,
+		"in_reply_to_user_id_str": "993804824138473476",
+		"in_reply_to_screen_name": "dmz_peacetrain",
+		"user": {
+			"id": 993804824138473500,
+			"id_str": "993804824138473476",
+			"name": "DMZ Peace Train Music Festival",
+			"screen_name": "dmz_peacetrain",
+			"location": "대한민국 철원군",
+			"description": "지금 우리, 눈부신 평화와 만날 때! 2020.7.18~7.19 Cheorwon, South Korea",
+			"url": "https://t.co/xX5SCptuBk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xX5SCptuBk",
+							"expanded_url": "http://www.dmzpeacetrain.com",
+							"display_url": "dmzpeacetrain.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 540,
+			"friends_count": 39,
+			"listed_count": 6,
+			"created_at": "Tue May 08 10:48:28 +0000 2018",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993804824138473476/1581320908",
+			"profile_link_color": "007F5A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "➖모집기간: 2020년 12월 31일 자정까지\n➖선정발표: 2021년 1월 4일(월) 개별 연락\n➖참가비: 무료(거주지~춘천 간 왕복 이동은 참가자 부담) https://t.co/iKBdXZZGkR"
+	},
+	{
+		"created_at": "Tue Dec 22 03:58:14 +0000 2020",
+		"id": 1341221388204458000,
+		"id_str": "1341231549560344576",
+		"full_text": "➖일정: 2021. 01. 14.(목) – 17.(일)\n➖장소: 강원창조경제혁신센터, 상상마당 춘천 스테이\n➖모집인원: 20명 (강원지역 거주자 우선 선발 고려)\n➖지원방법: https://t.co/1toopTBmGp에서 지원서 다운로드 후 메일로 제출 https://t.co/dzNgoyawvN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1toopTBmGp",
+					"expanded_url": "http://www.dmzpeacetrain.com",
+					"display_url": "dmzpeacetrain.com",
+					"indices": [
+						98,
+						121
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1341220386441052200,
+					"id_str": "1341220386441052161",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/Epz41dtUwAE386D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Epz41dtUwAE386D.jpg",
+					"url": "https://t.co/dzNgoyawvN",
+					"display_url": "pic.twitter.com/dzNgoyawvN",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1341221388204457985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341220386441052200,
+					"id_str": "1341220386441052161",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/Epz41dtUwAE386D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Epz41dtUwAE386D.jpg",
+					"url": "https://t.co/dzNgoyawvN",
+					"display_url": "pic.twitter.com/dzNgoyawvN",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1341221388204457985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1341220386583679000,
+					"id_str": "1341220386583678978",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/Epz41ePVEAIBEWc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Epz41ePVEAIBEWc.jpg",
+					"url": "https://t.co/dzNgoyawvN",
+					"display_url": "pic.twitter.com/dzNgoyawvN",
+					"expanded_url": "https://twitter.com/dmz_peacetrain/status/1341221388204457985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1341221383775252500,
+		"in_reply_to_status_id_str": "1341221383775252480",
+		"in_reply_to_user_id": 993804824138473500,
+		"in_reply_to_user_id_str": "993804824138473476",
+		"in_reply_to_screen_name": "dmz_peacetrain",
+		"user": {
+			"id": 993804824138473500,
+			"id_str": "993804824138473476",
+			"name": "DMZ Peace Train Music Festival",
+			"screen_name": "dmz_peacetrain",
+			"location": "대한민국 철원군",
+			"description": "지금 우리, 눈부신 평화와 만날 때! 2020.7.18~7.19 Cheorwon, South Korea",
+			"url": "https://t.co/xX5SCptuBk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xX5SCptuBk",
+							"expanded_url": "http://www.dmzpeacetrain.com",
+							"display_url": "dmzpeacetrain.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 540,
+			"friends_count": 39,
+			"listed_count": 6,
+			"created_at": "Tue May 08 10:48:28 +0000 2018",
+			"favourites_count": 173,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215457877323698176/-84nQ6Mx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993804824138473476/1581320908",
+			"profile_link_color": "007F5A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "➖일정: 2021. 01. 14.(목) – 17.(일)\n➖장소: 강원창조경제혁신센터, 상상마당 춘천 스테이\n➖모집인원: 20명 (강원지역 거주자 우선 선발 고려)\n➖지원방법: https://t.co/1toopTBmGp에서 지원서 다운로드 후 메일로 제출 https://t.co/dzNgoyawvN"
+	},
+	{
+		"created_at": "Tue Dec 22 03:29:58 +0000 2020",
+		"id": 1341216706467786800,
+		"id_str": "1341224433118302208",
+		"full_text": "[News]\n\nNicolas Jaar와 Dave Harrington의 프로젝트 밴드\nDarkside가 기나긴 공백을 깨고 활동을 시작했습니다.\n\nhttps://t.co/ssxtCklgTS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ssxtCklgTS",
+					"expanded_url": "https://www.highjinkxmm.com/news/darkside-liberty-bell",
+					"display_url": "highjinkxmm.com/news/darkside-…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/P2V4wFkAko",
+			"url": "https://t.co/oAPJfxeB46",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAPJfxeB46",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P2V4wFkAko",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 404,
+			"friends_count": 19,
+			"listed_count": 3,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[News]\n\nNicolas Jaar와 Dave Harrington의 프로젝트 밴드\nDarkside가 기나긴 공백을 깨고 활동을 시작했습니다.\n\nhttps://t.co/ssxtCklgTS"
+	},
+	{
 		"created_at": "Tue Dec 22 03:18:48 +0000 2020",
 		"id": 1341221626042577000,
 		"id_str": "1341221626042576901",
