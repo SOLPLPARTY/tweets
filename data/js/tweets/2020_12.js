@@ -1,6 +1,498 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 22 10:29:46 +0000 2020",
+		"id": 1341327831683350500,
+		"id_str": "1341330081017413632",
+		"full_text": "9와 숫자들이 참여한 [평화 토크 콘서트] 영상을 유튜브로 지금 관람 하실수 있습니다. \n\"청년 통일을 말하다\" 라는 주제로 김사월 밴드, 김대중님과  함께 했던 [평화토크콘서트] 많은 관심 부탁 드려요!\n영상 관람 바로가기: https://t.co/SW4PxiPM2i \n\n@9andthenumbers  #9와숫자들 #평화토크콘서트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "9와숫자들",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "평화토크콘서트",
+					"indices": [
+						177,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "9andthenumbers",
+					"name": "9와 숫자들",
+					"id": 118578410,
+					"id_str": "118578410",
+					"indices": [
+						153,
+						168
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SW4PxiPM2i",
+					"expanded_url": "https://youtu.be/wahY8zoJ-fo",
+					"display_url": "youtu.be/wahY8zoJ-fo",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 715,
+			"friends_count": 326,
+			"listed_count": 12,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1608003222",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "9와 숫자들이 참여한 [평화 토크 콘서트] 영상을 유튜브로 지금 관람 하실수 있습니다. \n\"청년 통일을 말하다\" 라는 주제로 김사월 밴드, 김대중님과  함께 했던 [평화토크콘서트] 많은 관심 부탁 드려요!\n영상 관람 바로가기: https://t.co/SW4PxiPM2i \n\n@9andthenumbers  #9와숫자들 #평화토크콘서트"
+	},
+	{
+		"created_at": "Tue Dec 22 10:29:37 +0000 2020",
+		"id": 1341323947615215600,
+		"id_str": "1341330042836676609",
+		"full_text": "#ELLE스테이지 \n\n겨울 발라더 정승환이 부르는 캐럴 \n‘White Christmas' 커버 라이브 🎁\n\n❄️ https://t.co/aeZC0TLcM9 \n\n#정승환 #White_Christmas\n#크리스마스 #캐럴 #Christmas #Carol\n#어김없이_이_거리에 #Winter_Again",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELLE스테이지",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "White_Christmas",
+					"indices": [
+						94,
+						110
+					]
+				},
+				{
+					"text": "크리스마스",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "캐럴",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "Christmas",
+					"indices": [
+						122,
+						132
+					]
+				},
+				{
+					"text": "Carol",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "어김없이_이_거리에",
+					"indices": [
+						140,
+						151
+					]
+				},
+				{
+					"text": "Winter_Again",
+					"indices": [
+						152,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aeZC0TLcM9",
+					"expanded_url": "https://youtu.be/5rjFcIL5oEc",
+					"display_url": "youtu.be/5rjFcIL5oEc",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official / 2020 안테나 크리스마스 캐럴 ‘겨울의 우리들’ Release!",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35210,
+			"friends_count": 10,
+			"listed_count": 370,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3391,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1608569605",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ELLE스테이지 \n\n겨울 발라더 정승환이 부르는 캐럴 \n‘White Christmas' 커버 라이브 🎁\n\n❄️ https://t.co/aeZC0TLcM9 \n\n#정승환 #White_Christmas\n#크리스마스 #캐럴 #Christmas #Carol\n#어김없이_이_거리에 #Winter_Again"
+	},
+	{
+		"created_at": "Tue Dec 22 10:29:33 +0000 2020",
+		"id": 1341323151980970000,
+		"id_str": "1341330025531006976",
+		"full_text": "🎫YES24 Tickets\n\nKR🔗 https://t.co/zBRqvYdnjG\nGlobal🔗https://t.co/oIU1TtFKjD\nMD PKG KR🔗 https://t.co/LEK5gGIweh\nMD PKG Global🔗 https://t.co/PMmTttAHck\n\n#NCT  #RESONANCE #Beyond_LIVE\n#NCT2020_Beyond_LIVE\n#BeyondLIVE_NCT_RESONANCE_Global_Wave\n#VLIVE #NAVER #YES24",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NCT",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "RESONANCE",
+					"indices": [
+						156,
+						166
+					]
+				},
+				{
+					"text": "Beyond_LIVE",
+					"indices": [
+						167,
+						179
+					]
+				},
+				{
+					"text": "NCT2020_Beyond_LIVE",
+					"indices": [
+						180,
+						200
+					]
+				},
+				{
+					"text": "BeyondLIVE_NCT_RESONANCE_Global_Wave",
+					"indices": [
+						201,
+						238
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						239,
+						245
+					]
+				},
+				{
+					"text": "NAVER",
+					"indices": [
+						246,
+						252
+					]
+				},
+				{
+					"text": "YES24",
+					"indices": [
+						253,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zBRqvYdnjG",
+					"expanded_url": "http://ticket.yes24.com/Perf/38192",
+					"display_url": "ticket.yes24.com/Perf/38192",
+					"indices": [
+						20,
+						43
+					]
+				},
+				{
+					"url": "https://t.co/oIU1TtFKjD",
+					"expanded_url": "http://ticket.yes24.com/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=38192",
+					"display_url": "ticket.yes24.com/Pages/English/…",
+					"indices": [
+						51,
+						74
+					]
+				},
+				{
+					"url": "https://t.co/LEK5gGIweh",
+					"expanded_url": "http://www.yes24.com/eWorld/EventWorld/Event?eventno=195757",
+					"display_url": "yes24.com/eWorld/EventWo…",
+					"indices": [
+						86,
+						109
+					]
+				},
+				{
+					"url": "https://t.co/PMmTttAHck",
+					"expanded_url": "https://global.yes24.com/Event/195758",
+					"display_url": "global.yes24.com/Event/195758",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1341322824246423600,
+		"in_reply_to_status_id_str": "1341322824246423554",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8801046,
+			"friends_count": 53,
+			"listed_count": 8617,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9286,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 194,
+		"favorite_count": 1336,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎫YES24 Tickets\n\nKR🔗 https://t.co/zBRqvYdnjG\nGlobal🔗https://t.co/oIU1TtFKjD\nMD PKG KR🔗 https://t.co/LEK5gGIweh\nMD PKG Global🔗 https://t.co/PMmTttAHck\n\n#NCT  #RESONANCE #Beyond_LIVE\n#NCT2020_Beyond_LIVE\n#BeyondLIVE_NCT_RESONANCE_Global_Wave\n#VLIVE #NAVER #YES24"
+	},
+	{
 		"created_at": "Tue Dec 22 09:46:25 +0000 2020",
 		"id": 1341319172119212000,
 		"id_str": "1341319172119212032",
