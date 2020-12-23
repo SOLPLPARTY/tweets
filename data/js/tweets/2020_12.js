@@ -1,6 +1,690 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 23 12:29:44 +0000 2020",
+		"id": 1341716756893630500,
+		"id_str": "1341722659680358400",
+		"full_text": "[MR은 거들 뿐]\n\n적재 X 혁 ‘동백꽃’ Live\n(Jukjae X HYUK ‘Camellia’)\n\n✔️ https://t.co/WORHkMGmQ5 \n\n#적재 #혁 #동백꽃 #Jukjae #HYUK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "적재",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "혁",
+					"indices": [
+						91,
+						93
+					]
+				},
+				{
+					"text": "동백꽃",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "HYUK",
+					"indices": [
+						107,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WORHkMGmQ5",
+					"expanded_url": "https://youtu.be/c1aUEsJniiU",
+					"display_url": "youtu.be/c1aUEsJniiU",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official / 2020 안테나 크리스마스 캐럴 ‘겨울의 우리들’ Release!",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35237,
+			"friends_count": 10,
+			"listed_count": 368,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1608569605",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MR은 거들 뿐]\n\n적재 X 혁 ‘동백꽃’ Live\n(Jukjae X HYUK ‘Camellia’)\n\n✔️ https://t.co/WORHkMGmQ5 \n\n#적재 #혁 #동백꽃 #Jukjae #HYUK"
+	},
+	{
+		"created_at": "Wed Dec 23 12:29:41 +0000 2020",
+		"id": 1341715297607172000,
+		"id_str": "1341722646648676353",
+		"full_text": "[🎥] [좋아하면 울림🔔] 울림의 감성에 마음이 울림｜울림더라이브 감성 발라드 모음\n\n▶ https://t.co/2ECBY8JSWG\n\n#Woollim #울림\n#INFINITE #인피니트\n#Lovelyz #러블리즈\n#GoldenChild #골든차일드 https://t.co/N2s96cwKaV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Woollim",
+					"indices": [
+						75,
+						83
+					]
+				},
+				{
+					"text": "울림",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "INFINITE",
+					"indices": [
+						88,
+						97
+					]
+				},
+				{
+					"text": "인피니트",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "Lovelyz",
+					"indices": [
+						104,
+						112
+					]
+				},
+				{
+					"text": "러블리즈",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						119,
+						131
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						132,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2ECBY8JSWG",
+					"expanded_url": "http://youtu.be/gAT3csc5Wtw",
+					"display_url": "youtu.be/gAT3csc5Wtw",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1341715292024541200,
+					"id_str": "1341715292024541184",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep668wrVEAApISn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep668wrVEAApISn.jpg",
+					"url": "https://t.co/N2s96cwKaV",
+					"display_url": "pic.twitter.com/N2s96cwKaV",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1341715297607172098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341715292024541200,
+					"id_str": "1341715292024541184",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep668wrVEAApISn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep668wrVEAApISn.jpg",
+					"url": "https://t.co/N2s96cwKaV",
+					"display_url": "pic.twitter.com/N2s96cwKaV",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1341715297607172098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424670,
+			"friends_count": 10,
+			"listed_count": 1817,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1607169766",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1462,
+		"favorite_count": 2682,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥] [좋아하면 울림🔔] 울림의 감성에 마음이 울림｜울림더라이브 감성 발라드 모음\n\n▶ https://t.co/2ECBY8JSWG\n\n#Woollim #울림\n#INFINITE #인피니트\n#Lovelyz #러블리즈\n#GoldenChild #골든차일드 https://t.co/N2s96cwKaV"
+	},
+	{
+		"created_at": "Wed Dec 23 12:29:34 +0000 2020",
+		"id": 1341709169355706400,
+		"id_str": "1341722616860688387",
+		"full_text": "🎁 Ticket + MD\n \nKR 🔗 https://t.co/yGlPkUNlTq\nGlobal 🔗 https://t.co/qBm22YnDHw \n \n🎫 NAVER V LIVE Tickets\n \nKor) https://t.co/wtVTogxR5d  \n \nEng) https://t.co/YSaaZFxZ46  \n \nJP) https://t.co/wzKvpkJEUD   \n \n簡) https://t.co/HFujl4d4K4   \n \n繁) https://t.co/aeztfveDdC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yGlPkUNlTq",
+					"expanded_url": "http://www.yes24.com/eWorld/EventWorld/Event?eventno=193956",
+					"display_url": "yes24.com/eWorld/EventWo…",
+					"indices": [
+						21,
+						44
+					]
+				},
+				{
+					"url": "https://t.co/qBm22YnDHw",
+					"expanded_url": "https://global.yes24.com/Event/193857",
+					"display_url": "global.yes24.com/Event/193857",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/wtVTogxR5d",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=ko",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						111,
+						134
+					]
+				},
+				{
+					"url": "https://t.co/YSaaZFxZ46",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=en",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						144,
+						167
+					]
+				},
+				{
+					"url": "https://t.co/wzKvpkJEUD",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=ja",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						176,
+						199
+					]
+				},
+				{
+					"url": "https://t.co/HFujl4d4K4",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=zh_cn",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						208,
+						231
+					]
+				},
+				{
+					"url": "https://t.co/aeztfveDdC",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=zh_tw",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						240,
+						263
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1341709114330632200,
+		"in_reply_to_status_id_str": "1341709114330632192",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8806610,
+			"friends_count": 53,
+			"listed_count": 8617,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1817,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 107,
+		"favorite_count": 815,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "da",
+		"text": "🎁 Ticket + MD\n \nKR 🔗 https://t.co/yGlPkUNlTq\nGlobal 🔗 https://t.co/qBm22YnDHw \n \n🎫 NAVER V LIVE Tickets\n \nKor) https://t.co/wtVTogxR5d  \n \nEng) https://t.co/YSaaZFxZ46  \n \nJP) https://t.co/wzKvpkJEUD   \n \n簡) https://t.co/HFujl4d4K4   \n \n繁) https://t.co/aeztfveDdC"
+	},
+	{
+		"created_at": "Wed Dec 23 12:29:29 +0000 2020",
+		"id": 1341709114330632200,
+		"id_str": "1341722595373268998",
+		"full_text": "🎫 YES24 Tickets\n \n* Cassiopeia-ACE\nKR PC 🔗 https://t.co/vVLtuqnuc3\nGlobal PC 🔗 https://t.co/TrrFjTvGEE\n \n* General\nKR PC 🔗 https://t.co/gF4McAuvOL\nGlobal PC 🔗 https://t.co/4A0tK5BAck\n \n#2020_TVXQ_ONLINE_FANMEETING_동冬방房신기_with_Cassiopeia",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2020_TVXQ_ONLINE_FANMEETING_동冬방房신기_with_Cassiopeia",
+					"indices": [
+						185,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vVLtuqnuc3",
+					"expanded_url": "http://ticket.yes24.com/Special/38163",
+					"display_url": "ticket.yes24.com/Special/38163",
+					"indices": [
+						43,
+						66
+					]
+				},
+				{
+					"url": "https://t.co/TrrFjTvGEE",
+					"expanded_url": "http://ticket.yes24.com/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=38163",
+					"display_url": "ticket.yes24.com/Pages/English/…",
+					"indices": [
+						79,
+						102
+					]
+				},
+				{
+					"url": "https://t.co/gF4McAuvOL",
+					"expanded_url": "http://ticket.yes24.com/Special/38167",
+					"display_url": "ticket.yes24.com/Special/38167",
+					"indices": [
+						123,
+						146
+					]
+				},
+				{
+					"url": "https://t.co/4A0tK5BAck",
+					"expanded_url": "http://ticket.yes24.com/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=38167",
+					"display_url": "ticket.yes24.com/Pages/English/…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1341709061679505400,
+		"in_reply_to_status_id_str": "1341709061679505413",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8806610,
+			"friends_count": 53,
+			"listed_count": 8617,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1817,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 113,
+		"favorite_count": 895,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎫 YES24 Tickets\n \n* Cassiopeia-ACE\nKR PC 🔗 https://t.co/vVLtuqnuc3\nGlobal PC 🔗 https://t.co/TrrFjTvGEE\n \n* General\nKR PC 🔗 https://t.co/gF4McAuvOL\nGlobal PC 🔗 https://t.co/4A0tK5BAck\n \n#2020_TVXQ_ONLINE_FANMEETING_동冬방房신기_with_Cassiopeia"
+	},
+	{
 		"created_at": "Wed Dec 23 12:11:17 +0000 2020",
 		"id": 1341715396756271000,
 		"id_str": "1341718014979436545",
