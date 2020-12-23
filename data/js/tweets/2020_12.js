@@ -1,6 +1,986 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 23 10:11:17 +0000 2020",
+		"id": 1341681490741010400,
+		"id_str": "1341687815692804097",
+		"full_text": "[씬디매거진 1월호 COMING SOON!]\n⠀\n씬디 구독자 여러분~ \n곧 새해가 밝아와요! \n신년 씬디매거진 1월호의 커버 아티스트로 최예근님이 찾아와 주셨습니다 ๑˃̵ᴗ˂̵)و\n최예근님의 세계를 엿볼 수 있는 인터뷰와 그녀의 음악 소식이 잔뜩 실려 있는 씬디매거진 1월호!\n곧 발행되니 기다려주세요♬✧♡*+ https://t.co/W1lLQCcghw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341680971293229000,
+					"id_str": "1341680971293229056",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep6bvB_VgAAjv4y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep6bvB_VgAAjv4y.jpg",
+					"url": "https://t.co/W1lLQCcghw",
+					"display_url": "pic.twitter.com/W1lLQCcghw",
+					"expanded_url": "https://twitter.com/xindieticket/status/1341681490741010434/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341680971293229000,
+					"id_str": "1341680971293229056",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep6bvB_VgAAjv4y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep6bvB_VgAAjv4y.jpg",
+					"url": "https://t.co/W1lLQCcghw",
+					"display_url": "pic.twitter.com/W1lLQCcghw",
+					"expanded_url": "https://twitter.com/xindieticket/status/1341681490741010434/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 961,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1341681014540697600,
+					"id_str": "1341681014540697601",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep6bxjGVgAEWQhU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep6bxjGVgAEWQhU.jpg",
+					"url": "https://t.co/W1lLQCcghw",
+					"display_url": "pic.twitter.com/W1lLQCcghw",
+					"expanded_url": "https://twitter.com/xindieticket/status/1341681490741010434/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 961,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2792,
+			"friends_count": 2687,
+			"listed_count": 0,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[씬디매거진 1월호 COMING SOON!]\n⠀\n씬디 구독자 여러분~ \n곧 새해가 밝아와요! \n신년 씬디매거진 1월호의 커버 아티스트로 최예근님이 찾아와 주셨습니다 ๑˃̵ᴗ˂̵)و\n최예근님의 세계를 엿볼 수 있는 인터뷰와 그녀의 음악 소식이 잔뜩 실려 있는 씬디매거진 1월호!\n곧 발행되니 기다려주세요♬✧♡*+ https://t.co/W1lLQCcghw"
+	},
+	{
+		"created_at": "Wed Dec 23 09:29:43 +0000 2020",
+		"id": 1341676571925434400,
+		"id_str": "1341677357074173952",
+		"full_text": "[유라]\n\n유라의 새 싱글 '하양 (Feat. 헤이즈)'이 발매되었습니다.\nyoura's new single 'RAL 9002 (Feat. Heize)' is out.\n\n🤍 https://t.co/C1kPX4Wr8v\n\n#유라 #youra #하양 #RAL9002 #Heize https://t.co/tjhvPlJC74",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유라",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "youra",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "하양",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "RAL9002",
+					"indices": [
+						137,
+						145
+					]
+				},
+				{
+					"text": "Heize",
+					"indices": [
+						146,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C1kPX4Wr8v",
+					"expanded_url": "https://youtu.be/lRICos1bDxI",
+					"display_url": "youtu.be/lRICos1bDxI",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1341676563717243000,
+					"id_str": "1341676563717242880",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep6XuefVQAAyGZb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep6XuefVQAAyGZb.jpg",
+					"url": "https://t.co/tjhvPlJC74",
+					"display_url": "pic.twitter.com/tjhvPlJC74",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1341676571925434369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341676563717243000,
+					"id_str": "1341676563717242880",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep6XuefVQAAyGZb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep6XuefVQAAyGZb.jpg",
+					"url": "https://t.co/tjhvPlJC74",
+					"display_url": "pic.twitter.com/tjhvPlJC74",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1341676571925434369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 우효/윤현상/유라/크래커/로지/섞김/아일/에버루아",
+			"url": "https://t.co/SedMym1vHh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SedMym1vHh",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 711,
+			"friends_count": 5,
+			"listed_count": 15,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 52,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유라]\n\n유라의 새 싱글 '하양 (Feat. 헤이즈)'이 발매되었습니다.\nyoura's new single 'RAL 9002 (Feat. Heize)' is out.\n\n🤍 https://t.co/C1kPX4Wr8v\n\n#유라 #youra #하양 #RAL9002 #Heize https://t.co/tjhvPlJC74"
+	},
+	{
+		"created_at": "Wed Dec 23 09:29:34 +0000 2020",
+		"id": 1341672451177005000,
+		"id_str": "1341677318830481410",
+		"full_text": "[#고민시] #넷플릭스 #스위트홈 에서 멋쁨 ✨포텐 터트리고 있는 고민시 💕스위트홈 포스터 촬영부터 온라인 제작발표회 현장까지 모두 담은 포스트 오픈🙌🏻\n\n▶️https://t.co/pZL9ZvZCoF https://t.co/JCYKUi5gVi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고민시",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "넷플릭스",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "스위트홈",
+					"indices": [
+						13,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pZL9ZvZCoF",
+					"expanded_url": "http://naver.me/xzTaQwQu",
+					"display_url": "naver.me/xzTaQwQu",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1341672438761853000,
+					"id_str": "1341672438761852928",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep6T-X1VEAANePf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep6T-X1VEAANePf.jpg",
+					"url": "https://t.co/JCYKUi5gVi",
+					"display_url": "pic.twitter.com/JCYKUi5gVi",
+					"expanded_url": "https://twitter.com/themysticstory/status/1341672451177005056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341672438761853000,
+					"id_str": "1341672438761852928",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep6T-X1VEAANePf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep6T-X1VEAANePf.jpg",
+					"url": "https://t.co/JCYKUi5gVi",
+					"display_url": "pic.twitter.com/JCYKUi5gVi",
+					"expanded_url": "https://twitter.com/themysticstory/status/1341672451177005056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1341672438757642200,
+					"id_str": "1341672438757642243",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep6T-X0U0AMl5Jm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep6T-X0U0AMl5Jm.jpg",
+					"url": "https://t.co/JCYKUi5gVi",
+					"display_url": "pic.twitter.com/JCYKUi5gVi",
+					"expanded_url": "https://twitter.com/themysticstory/status/1341672451177005056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1368,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1341672438791241700,
+					"id_str": "1341672438791241728",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep6T-X8VgAApceO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep6T-X8VgAApceO.jpg",
+					"url": "https://t.co/JCYKUi5gVi",
+					"display_url": "pic.twitter.com/JCYKUi5gVi",
+					"expanded_url": "https://twitter.com/themysticstory/status/1341672451177005056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1368,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1341672438791250000,
+					"id_str": "1341672438791249923",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep6T-X8VoAMHr6p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep6T-X8VoAMHr6p.jpg",
+					"url": "https://t.co/JCYKUi5gVi",
+					"display_url": "pic.twitter.com/JCYKUi5gVi",
+					"expanded_url": "https://twitter.com/themysticstory/status/1341672451177005056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19928,
+			"friends_count": 18,
+			"listed_count": 229,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#고민시] #넷플릭스 #스위트홈 에서 멋쁨 ✨포텐 터트리고 있는 고민시 💕스위트홈 포스터 촬영부터 온라인 제작발표회 현장까지 모두 담은 포스트 오픈🙌🏻\n\n▶️https://t.co/pZL9ZvZCoF https://t.co/JCYKUi5gVi"
+	},
+	{
+		"created_at": "Wed Dec 23 09:29:28 +0000 2020",
+		"id": 1341670062046900200,
+		"id_str": "1341677293190729729",
+		"full_text": "러블리즈(Lovelyz), 골든차일드(Golden Child) \n'순천의 하늘 아래에서 (Sung by 베이비소울, 류수정, TAG, 홍주찬)' MV Teaser\n\n2020. 12. 24 (KST) 12PM RELEASE\n\nhttps://t.co/jw89Y7DbzW\nhttps://t.co/Dd0BbJjfEs\n\n#Lovelyz #러블리즈\n#GoldenChild #골든차일드\n#싱스트리트 #순천의하늘아래에서 https://t.co/09b0VIGpHT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Lovelyz",
+					"indices": [
+						174,
+						182
+					]
+				},
+				{
+					"text": "러블리즈",
+					"indices": [
+						183,
+						188
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						189,
+						201
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						202,
+						208
+					]
+				},
+				{
+					"text": "싱스트리트",
+					"indices": [
+						209,
+						215
+					]
+				},
+				{
+					"text": "순천의하늘아래에서",
+					"indices": [
+						216,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jw89Y7DbzW",
+					"expanded_url": "http://youtu.be/o4mnxdg4ibY",
+					"display_url": "youtu.be/o4mnxdg4ibY",
+					"indices": [
+						125,
+						148
+					]
+				},
+				{
+					"url": "https://t.co/Dd0BbJjfEs",
+					"expanded_url": "http://vlive.tv/video/229371",
+					"display_url": "vlive.tv/video/229371",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1341667874146926600,
+					"id_str": "1341667874146926592",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep6P0rUUwAARkQF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep6P0rUUwAARkQF.jpg",
+					"url": "https://t.co/09b0VIGpHT",
+					"display_url": "pic.twitter.com/09b0VIGpHT",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1341670062046900224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341667874146926600,
+					"id_str": "1341667874146926592",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep6P0rUUwAARkQF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep6P0rUUwAARkQF.jpg",
+					"url": "https://t.co/09b0VIGpHT",
+					"display_url": "pic.twitter.com/09b0VIGpHT",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1341670062046900224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424679,
+			"friends_count": 10,
+			"listed_count": 1820,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2071,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1607169766",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1123,
+		"favorite_count": 2136,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "러블리즈(Lovelyz), 골든차일드(Golden Child) \n'순천의 하늘 아래에서 (Sung by 베이비소울, 류수정, TAG, 홍주찬)' MV Teaser\n\n2020. 12. 24 (KST) 12PM RELEASE\n\nhttps://t.co/jw89Y7DbzW\nhttps://t.co/Dd0BbJjfEs\n\n#Lovelyz #러블리즈\n#GoldenChild #골든차일드\n#싱스트리트 #순천의하늘아래에서 https://t.co/09b0VIGpHT"
+	},
+	{
 		"created_at": "Wed Dec 23 09:11:14 +0000 2020",
 		"id": 1341672703011528700,
 		"id_str": "1341672703011528705",
