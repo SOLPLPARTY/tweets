@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 23 05:29:25 +0000 2020",
+		"id": 1341609479020847000,
+		"id_str": "1341616881237712896",
+		"full_text": "[#신재휘] On Air on 웨이브(WAVVE) '반오십'\n\n배우 신재휘 #웨이브 선공개 #드라마 #반오십 캐스팅🎉 인기 인터넷 📺방송인 #올케이 역을 맡아 열연 예정🤟\n\n🔔 지금, #WAVVE 에서✅ https://t.co/uKKNtoLwpG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신재휘",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "웨이브",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "드라마",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "반오십",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "올케이",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "WAVVE",
+					"indices": [
+						103,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1339482381044965400,
+					"id_str": "1339482381044965376",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EpbMIPEUYAA3OlA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpbMIPEUYAA3OlA.jpg",
+					"url": "https://t.co/uKKNtoLwpG",
+					"display_url": "pic.twitter.com/uKKNtoLwpG",
+					"expanded_url": "https://twitter.com/themysticstory/status/1341609479020847105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339482381044965400,
+					"id_str": "1339482381044965376",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EpbMIPEUYAA3OlA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpbMIPEUYAA3OlA.jpg",
+					"url": "https://t.co/uKKNtoLwpG",
+					"display_url": "pic.twitter.com/uKKNtoLwpG",
+					"expanded_url": "https://twitter.com/themysticstory/status/1341609479020847105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19928,
+			"friends_count": 18,
+			"listed_count": 229,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#신재휘] On Air on 웨이브(WAVVE) '반오십'\n\n배우 신재휘 #웨이브 선공개 #드라마 #반오십 캐스팅🎉 인기 인터넷 📺방송인 #올케이 역을 맡아 열연 예정🤟\n\n🔔 지금, #WAVVE 에서✅ https://t.co/uKKNtoLwpG"
+	},
+	{
 		"created_at": "Wed Dec 23 03:58:39 +0000 2020",
 		"id": 1341584194523156500,
 		"id_str": "1341594041247526912",
