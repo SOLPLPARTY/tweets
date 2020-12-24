@@ -1,6 +1,1112 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 24 07:11:17 +0000 2020",
+		"id": 1342002065208471600,
+		"id_str": "1342004904680951812",
+		"full_text": "[Merry 'Xindie' Christmas!]\n⠀\n2020년 한 해, 힘들었을 모두에게😔\n안전과 건강이 가득한🥰\n🎄크리스마스 연휴🎅 보내시길 바랍니다.\n⠀\n우리 곧 다시 만나요✌️ https://t.co/0K4dOpAFAo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341929644501569500,
+					"id_str": "1341929644501569539",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep995t4VEAMYLZT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep995t4VEAMYLZT.jpg",
+					"url": "https://t.co/0K4dOpAFAo",
+					"display_url": "pic.twitter.com/0K4dOpAFAo",
+					"expanded_url": "https://twitter.com/xindieticket/status/1342002065208471552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341929644501569500,
+					"id_str": "1341929644501569539",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep995t4VEAMYLZT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep995t4VEAMYLZT.jpg",
+					"url": "https://t.co/0K4dOpAFAo",
+					"display_url": "pic.twitter.com/0K4dOpAFAo",
+					"expanded_url": "https://twitter.com/xindieticket/status/1342002065208471552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2791,
+			"friends_count": 2686,
+			"listed_count": 21,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Merry 'Xindie' Christmas!]\n⠀\n2020년 한 해, 힘들었을 모두에게😔\n안전과 건강이 가득한🥰\n🎄크리스마스 연휴🎅 보내시길 바랍니다.\n⠀\n우리 곧 다시 만나요✌️ https://t.co/0K4dOpAFAo"
+	},
+	{
+		"created_at": "Thu Dec 24 06:29:58 +0000 2020",
+		"id": 1341992664221151200,
+		"id_str": "1341994508196712448",
+		"full_text": "Happy Christmas🎅\n올 한해 EM 음악가들을 사랑해주신 모든 분들께 감사드립니다. 크리스마스와 연말을 맞이해 EM 네이버스마트스토어에서 머천다이즈 할인을 시작합니다. 오늘부터 1.3까지 할인이 적용되니 많은 관심 부탁드립니다😎😎😎\n\nhttps://t.co/o4u7AdK9Wd https://t.co/iAywiMXJwX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o4u7AdK9Wd",
+					"expanded_url": "https://smartstore.naver.com/electricmuse",
+					"display_url": "smartstore.naver.com/electricmuse",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1341992540904407000,
+					"id_str": "1341992540904407041",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-3GxPUwAEn0qN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-3GxPUwAEn0qN.jpg",
+					"url": "https://t.co/iAywiMXJwX",
+					"display_url": "pic.twitter.com/iAywiMXJwX",
+					"expanded_url": "https://twitter.com/electric_muse/status/1341992664221151234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341992540904407000,
+					"id_str": "1341992540904407041",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-3GxPUwAEn0qN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-3GxPUwAEn0qN.jpg",
+					"url": "https://t.co/iAywiMXJwX",
+					"display_url": "pic.twitter.com/iAywiMXJwX",
+					"expanded_url": "https://twitter.com/electric_muse/status/1341992664221151234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3397,
+			"friends_count": 1304,
+			"listed_count": 106,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 5161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267787772711985153/NA7yMLTS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267787772711985153/NA7yMLTS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Happy Christmas🎅\n올 한해 EM 음악가들을 사랑해주신 모든 분들께 감사드립니다. 크리스마스와 연말을 맞이해 EM 네이버스마트스토어에서 머천다이즈 할인을 시작합니다. 오늘부터 1.3까지 할인이 적용되니 많은 관심 부탁드립니다😎😎😎\n\nhttps://t.co/o4u7AdK9Wd https://t.co/iAywiMXJwX"
+	},
+	{
+		"created_at": "Thu Dec 24 06:29:50 +0000 2020",
+		"id": 1341992290961694700,
+		"id_str": "1341994474197708810",
+		"full_text": "[#윤종신] '월간 윤종신' 12월호 'Destiny', \"이방인 프로젝트'를 마무리하는 곡 될 것\" [공식]\n\n▶️ https://t.co/gFyOp7oUgR\n\n#월간윤종신 #12월호 #Destiny #이방인프로젝트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤종신",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "월간윤종신",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "12월호",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "Destiny",
+					"indices": [
+						104,
+						112
+					]
+				},
+				{
+					"text": "이방인프로젝트",
+					"indices": [
+						113,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gFyOp7oUgR",
+					"expanded_url": "https://bit.ly/3aB09WJ",
+					"display_url": "bit.ly/3aB09WJ",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19929,
+			"friends_count": 18,
+			"listed_count": 228,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#윤종신] '월간 윤종신' 12월호 'Destiny', \"이방인 프로젝트'를 마무리하는 곡 될 것\" [공식]\n\n▶️ https://t.co/gFyOp7oUgR\n\n#월간윤종신 #12월호 #Destiny #이방인프로젝트"
+	},
+	{
+		"created_at": "Thu Dec 24 06:29:41 +0000 2020",
+		"id": 1341991763142054000,
+		"id_str": "1341994436000174080",
+		"full_text": "🎫SMTOWN&amp;STORE Tickets, MD\n\nKOR🎫https://t.co/ZUsIJc3beT\nEN🎫https://t.co/qIE8JCiLgD\nJP🎫https://t.co/lq25UYMoU8\n\n#백현 #BAEKHYUN\n#엑소 #EXO #weareoneEXO\n#BAEKHYUN_LIGHT\n#BeyondLIVE_BAEKHYUN_LIGHT\n#NAVER #VLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백현",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "BAEKHYUN",
+					"indices": [
+						118,
+						127
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						128,
+						131
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "weareoneEXO",
+					"indices": [
+						137,
+						149
+					]
+				},
+				{
+					"text": "BAEKHYUN_LIGHT",
+					"indices": [
+						150,
+						165
+					]
+				},
+				{
+					"text": "BeyondLIVE_BAEKHYUN_LIGHT",
+					"indices": [
+						166,
+						192
+					]
+				},
+				{
+					"text": "NAVER",
+					"indices": [
+						193,
+						199
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						200,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZUsIJc3beT",
+					"expanded_url": "https://www.smtownandstore.com/product/event/BeyondLive_BAEKHYUN.html",
+					"display_url": "smtownandstore.com/product/event/…",
+					"indices": [
+						35,
+						58
+					]
+				},
+				{
+					"url": "https://t.co/qIE8JCiLgD",
+					"expanded_url": "https://en.smtownandstore.com/product/event/BeyondLive_BAEKHYUN.html",
+					"display_url": "en.smtownandstore.com/product/event/…",
+					"indices": [
+						62,
+						85
+					]
+				},
+				{
+					"url": "https://t.co/lq25UYMoU8",
+					"expanded_url": "https://jp.smtownandstore.com/product/event/BeyondLive_BAEKHYUN.html",
+					"display_url": "jp.smtownandstore.com/product/event/…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1341991761481109500,
+		"in_reply_to_status_id_str": "1341991761481109505",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8808682,
+			"friends_count": 53,
+			"listed_count": 8622,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1817,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 134,
+		"favorite_count": 675,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "sv",
+		"text": "🎫SMTOWN&amp;STORE Tickets, MD\n\nKOR🎫https://t.co/ZUsIJc3beT\nEN🎫https://t.co/qIE8JCiLgD\nJP🎫https://t.co/lq25UYMoU8\n\n#백현 #BAEKHYUN\n#엑소 #EXO #weareoneEXO\n#BAEKHYUN_LIGHT\n#BeyondLIVE_BAEKHYUN_LIGHT\n#NAVER #VLIVE"
+	},
+	{
+		"created_at": "Thu Dec 24 06:29:38 +0000 2020",
+		"id": 1341991761481109500,
+		"id_str": "1341994422901366785",
+		"full_text": "ESP🎫https://t.co/hSbJDgwQMY\nIND🎫https://t.co/XgHxoshB40\nTHAI🎫https://t.co/4MIymegx4q\nVIET🎫https://t.co/qRWGeGvujd\n\n#BAEKHYUN_LIGHT\n#BeyondLIVE_BAEKHYUN_LIGHT\n#NAVER #VLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BAEKHYUN_LIGHT",
+					"indices": [
+						115,
+						130
+					]
+				},
+				{
+					"text": "BeyondLIVE_BAEKHYUN_LIGHT",
+					"indices": [
+						131,
+						157
+					]
+				},
+				{
+					"text": "NAVER",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						165,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hSbJDgwQMY",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000363?lang=es",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						4,
+						27
+					]
+				},
+				{
+					"url": "https://t.co/XgHxoshB40",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000363?lang=id",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						32,
+						55
+					]
+				},
+				{
+					"url": "https://t.co/4MIymegx4q",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000363?lang=th",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						61,
+						84
+					]
+				},
+				{
+					"url": "https://t.co/qRWGeGvujd",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000363?lang=vi",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1341991758008217600,
+		"in_reply_to_status_id_str": "1341991758008217600",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8808682,
+			"friends_count": 53,
+			"listed_count": 8622,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1817,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 196,
+		"favorite_count": 882,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ESP🎫https://t.co/hSbJDgwQMY\nIND🎫https://t.co/XgHxoshB40\nTHAI🎫https://t.co/4MIymegx4q\nVIET🎫https://t.co/qRWGeGvujd\n\n#BAEKHYUN_LIGHT\n#BeyondLIVE_BAEKHYUN_LIGHT\n#NAVER #VLIVE"
+	},
+	{
+		"created_at": "Thu Dec 24 06:29:32 +0000 2020",
+		"id": 1341991758008217600,
+		"id_str": "1341994398888898560",
+		"full_text": "Beyond LIVE - BAEKHYUN : LIGHT\n2020/12/24 THU 3PM(KST)\n\n🎫 NAVER V LIVE Tickets\n\nKOR🎫https://t.co/fXiXcQKZ4U \nEN🎫https://t.co/k7KFNgLt61\nJP🎫https://t.co/2BndBRJcLJ\nCN(簡)🎫https://t.co/KoCFlMUA28\nCN(繁)🎫https://t.co/LTRNPcMoJy\n\n#백현 #BAEKHYUN\n#엑소 #EXO #weareoneEXO https://t.co/XtSK2sfCLR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백현",
+					"indices": [
+						224,
+						227
+					]
+				},
+				{
+					"text": "BAEKHYUN",
+					"indices": [
+						228,
+						237
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						238,
+						241
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						242,
+						246
+					]
+				},
+				{
+					"text": "weareoneEXO",
+					"indices": [
+						247,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fXiXcQKZ4U",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000363?lang=kr",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/k7KFNgLt61",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000363?lang=en",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/2BndBRJcLJ",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000363?lang=ja",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						139,
+						162
+					]
+				},
+				{
+					"url": "https://t.co/KoCFlMUA28",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000363?lang=zh_cn",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						169,
+						192
+					]
+				},
+				{
+					"url": "https://t.co/LTRNPcMoJy",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000363?lang=zh_tw",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						199,
+						222
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1341988461448843300,
+					"id_str": "1341988461448843265",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-zZUFU0AEaIe9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-zZUFU0AEaIe9.jpg",
+					"url": "https://t.co/XtSK2sfCLR",
+					"display_url": "pic.twitter.com/XtSK2sfCLR",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1341991758008217600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1447,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341988461448843300,
+					"id_str": "1341988461448843265",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-zZUFU0AEaIe9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-zZUFU0AEaIe9.jpg",
+					"url": "https://t.co/XtSK2sfCLR",
+					"display_url": "pic.twitter.com/XtSK2sfCLR",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1341991758008217600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1447,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8808682,
+			"friends_count": 53,
+			"listed_count": 8622,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1817,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 905,
+		"favorite_count": 3824,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Beyond LIVE - BAEKHYUN : LIGHT\n2020/12/24 THU 3PM(KST)\n\n🎫 NAVER V LIVE Tickets\n\nKOR🎫https://t.co/fXiXcQKZ4U \nEN🎫https://t.co/k7KFNgLt61\nJP🎫https://t.co/2BndBRJcLJ\nCN(簡)🎫https://t.co/KoCFlMUA28\nCN(繁)🎫https://t.co/LTRNPcMoJy\n\n#백현 #BAEKHYUN\n#엑소 #EXO #weareoneEXO https://t.co/XtSK2sfCLR"
+	},
+	{
 		"created_at": "Thu Dec 24 05:58:28 +0000 2020",
 		"id": 1341971930048446500,
 		"id_str": "1341986579536109568",
