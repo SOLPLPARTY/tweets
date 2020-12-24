@@ -1,6 +1,750 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 24 12:15:02 +0000 2020",
+		"id": 1342081348488585200,
+		"id_str": "1342081348488585216",
+		"full_text": "#딩고뮤직 #dingo_music\n영화 한 편 다 본듯한 미친 서사 '루시 - 마지막 재회'ㅣ던전앤파이터 OST 편곡 [띵곡가들] l 딩고뮤직ㅣDingo Music\nhttps://t.co/NUMK2DmenW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NUMK2DmenW",
+					"expanded_url": "https://youtu.be/bvKctowGvE4",
+					"display_url": "youtu.be/bvKctowGvE4",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#공연일정 #페스티벌 #인디밴드 #내한 #콘서트\n\n문화예술정보 @ArtManagementKR\n뮤직매거진 @Magazine_KR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								115,
+								138
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 246,
+			"friends_count": 432,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66645,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n영화 한 편 다 본듯한 미친 서사 '루시 - 마지막 재회'ㅣ던전앤파이터 OST 편곡 [띵곡가들] l 딩고뮤직ㅣDingo Music\nhttps://t.co/NUMK2DmenW"
+	},
+	{
+		"created_at": "Thu Dec 24 11:58:30 +0000 2020",
+		"id": 1342067296286601200,
+		"id_str": "1342077188271726593",
+		"full_text": "지금부터 내일 오후 여덟시 슬케파 시작 전까지 아래 채널에서 과거 슬케파 믹스들을 들으실 수 있습니다 💫\n\nhttps://t.co/sixk9xREwP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sixk9xREwP",
+					"expanded_url": "https://now.naver.com/883",
+					"display_url": "now.naver.com/883",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬픔의케이팝파티",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/y66RIP08rM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y66RIP08rM",
+							"expanded_url": "https://instagram.com/seulpeumkpop?utm_source=ig_profile_share&igshid=levuw48ktbga",
+							"display_url": "instagram.com/seulpeumkpop?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7320,
+			"friends_count": 31,
+			"listed_count": 20,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1572341650",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지금부터 내일 오후 여덟시 슬케파 시작 전까지 아래 채널에서 과거 슬케파 믹스들을 들으실 수 있습니다 💫\n\nhttps://t.co/sixk9xREwP"
+	},
+	{
+		"created_at": "Thu Dec 24 11:29:38 +0000 2020",
+		"id": 1342069548837556200,
+		"id_str": "1342069922323701761",
+		"full_text": "💛 🎄 💛 ☕️ 💛\n⠀\n2020년 12월 31일까지 전국 탐앤탐스 매장에서 2020 안테나 크리스마스 캐럴 &lt;겨울의 우리들&gt; 뮤직비디오와 음원을 만나보실 수 있습니다 ☕️🥨♥️\n⠀\n#탐앤탐스 #탐탐 #TOMNTOMS\n⠀\n#안테나 #Antenna #겨울의_우리들\n#Our_Christmas_Wish_For_You https://t.co/mFqP89Cj1B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "탐앤탐스",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "탐탐",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "TOMNTOMS",
+					"indices": [
+						117,
+						126
+					]
+				},
+				{
+					"text": "안테나",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "Antenna",
+					"indices": [
+						134,
+						142
+					]
+				},
+				{
+					"text": "겨울의_우리들",
+					"indices": [
+						143,
+						151
+					]
+				},
+				{
+					"text": "Our_Christmas_Wish_For_You",
+					"indices": [
+						152,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1342069511420186600,
+					"id_str": "1342069511420186625",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1342069511420186625/pu/img/52u8E6ZFpoyiBvpx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1342069511420186625/pu/img/52u8E6ZFpoyiBvpx.jpg",
+					"url": "https://t.co/mFqP89Cj1B",
+					"display_url": "pic.twitter.com/mFqP89Cj1B",
+					"expanded_url": "https://twitter.com/antennamusic/status/1342069548837556225/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342069511420186600,
+					"id_str": "1342069511420186625",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1342069511420186625/pu/img/52u8E6ZFpoyiBvpx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1342069511420186625/pu/img/52u8E6ZFpoyiBvpx.jpg",
+					"url": "https://t.co/mFqP89Cj1B",
+					"display_url": "pic.twitter.com/mFqP89Cj1B",
+					"expanded_url": "https://twitter.com/antennamusic/status/1342069548837556225/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 12733,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1342069511420186625/pu/pl/BTVlNhp6ctFVoYPG.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1342069511420186625/pu/vid/1280x720/VQCzy0T_RrDTRySf.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1342069511420186625/pu/vid/640x360/45VTjJ5CFZl9HDiv.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1342069511420186625/pu/vid/480x270/A673TWBBfKhaBhCk.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official / 2020 안테나 크리스마스 캐럴 ‘겨울의 우리들’ Release!",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35244,
+			"friends_count": 10,
+			"listed_count": 368,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1608569605",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 98,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💛 🎄 💛 ☕️ 💛\n⠀\n2020년 12월 31일까지 전국 탐앤탐스 매장에서 2020 안테나 크리스마스 캐럴 &lt;겨울의 우리들&gt; 뮤직비디오와 음원을 만나보실 수 있습니다 ☕️🥨♥️\n⠀\n#탐앤탐스 #탐탐 #TOMNTOMS\n⠀\n#안테나 #Antenna #겨울의_우리들\n#Our_Christmas_Wish_For_You https://t.co/mFqP89Cj1B"
+	},
+	{
+		"created_at": "Thu Dec 24 11:29:34 +0000 2020",
+		"id": 1342069111392628700,
+		"id_str": "1342069905110290432",
+		"full_text": "추운 겨울을 녹일 새 앨범 [5.1]로 돌아온 #10CM 의 트위터 블루룸 라이브! #Ask10CM 해시태그와 함께 트윗으로 새 앨범에 대한 궁금했던 질문을 보내주시면 10CM가 라이브 당일 답변해드립니다.\n\n2020. 12. 28 9PM (KST)\n\n#10CM \n#입김 \n#이밤이다가기전에오늘이어제가되기전에\n#TwitterBlueroom",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "10CM",
+					"indices": [
+						26,
+						31
+					]
+				},
+				{
+					"text": "Ask10CM",
+					"indices": [
+						47,
+						55
+					]
+				},
+				{
+					"text": "10CM",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "입김",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "이밤이다가기전에오늘이어제가되기전에",
+					"indices": [
+						153,
+						172
+					]
+				},
+				{
+					"text": "TwitterBlueroom",
+					"indices": [
+						173,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://media.twitter.com\" rel=\"nofollow\">Twitter VIT App for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드🍓\nMagicstrawberry Sound. Music label based in Korea.",
+			"url": "https://t.co/hG14tT4CA9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hG14tT4CA9",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8390,
+			"friends_count": 19,
+			"listed_count": 98,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 84,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1597394894",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "추운 겨울을 녹일 새 앨범 [5.1]로 돌아온 #10CM 의 트위터 블루룸 라이브! #Ask10CM 해시태그와 함께 트윗으로 새 앨범에 대한 궁금했던 질문을 보내주시면 10CM가 라이브 당일 답변해드립니다.\n\n2020. 12. 28 9PM (KST)\n\n#10CM \n#입김 \n#이밤이다가기전에오늘이어제가되기전에\n#TwitterBlueroom"
+	},
+	{
+		"created_at": "Thu Dec 24 11:29:32 +0000 2020",
+		"id": 1342058407558168600,
+		"id_str": "1342069896264429572",
+		"full_text": "제이미(박지민)가 소개합니다. 정준일!! \nfeat. 뮤플리/올때믹/중고나라ㅣ \nJungJoonil  DOOM2 #02 \nhttps://t.co/ktPc4VSCks",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ktPc4VSCks",
+					"expanded_url": "https://youtu.be/laikNs5-zvs",
+					"display_url": "youtu.be/laikNs5-zvs",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2682,
+			"friends_count": 341,
+			"listed_count": 32,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 17661,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제이미(박지민)가 소개합니다. 정준일!! \nfeat. 뮤플리/올때믹/중고나라ㅣ \nJungJoonil  DOOM2 #02 \nhttps://t.co/ktPc4VSCks"
+	},
+	{
 		"created_at": "Thu Dec 24 10:29:32 +0000 2020",
 		"id": 1342052768974995500,
 		"id_str": "1342054796983939072",
