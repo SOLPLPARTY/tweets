@@ -1,6 +1,1222 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 24 04:11:17 +0000 2020",
+		"id": 1341951835821777000,
+		"id_str": "1341959606189359104",
+		"full_text": "빠르게 품절되었다가 재입고가 된 책들 소식입니다! 또 품절되기 전에 어서 공상온도에서 GET 하세요!\n.\nhttps://t.co/d7i5lM9g1E\n.\nhttps://t.co/XipgX92DRv\nㅡ\n#재입고 #공상온도입고서적 #연말정산 #에세이 https://t.co/x6IJ8DweFr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "재입고",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "공상온도입고서적",
+					"indices": [
+						116,
+						125
+					]
+				},
+				{
+					"text": "연말정산",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "에세이",
+					"indices": [
+						132,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7i5lM9g1E",
+					"expanded_url": "http://www.gongsangondo.com",
+					"display_url": "gongsangondo.com",
+					"indices": [
+						59,
+						82
+					]
+				},
+				{
+					"url": "https://t.co/XipgX92DRv",
+					"expanded_url": "http://smartstore.naver.com/gongsangondo",
+					"display_url": "smartstore.naver.com/gongsangondo",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/x6IJ8DweFr",
+					"expanded_url": "https://www.instagram.com/p/CJKm5PaJSsn/?igshid=1r9pr31wdtjou",
+					"display_url": "instagram.com/p/CJKm5PaJSsn/…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "음식점을 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 363,
+			"friends_count": 191,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.55764455,
+				126.91971391
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				126.91971391,
+				37.55764455
+			]
+		},
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빠르게 품절되었다가 재입고가 된 책들 소식입니다! 또 품절되기 전에 어서 공상온도에서 GET 하세요!\n.\nhttps://t.co/d7i5lM9g1E\n.\nhttps://t.co/XipgX92DRv\nㅡ\n#재입고 #공상온도입고서적 #연말정산 #에세이 https://t.co/x6IJ8DweFr"
+	},
+	{
+		"created_at": "Thu Dec 24 03:29:54 +0000 2020",
+		"id": 1341949047200891000,
+		"id_str": "1341949191124299776",
+		"full_text": "[아마도이자람밴드]싱글 &lt;A Year 2020 (feat.슬릭)&gt; 발매\n\n지금 모든 음원사이트에서 감상하세요 🎵\n\n#아마도이자람밴드 #아이밴 #슬릭 #싱글 #ayear2020 https://t.co/1gOaX4oqBb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아마도이자람밴드",
+					"indices": [
+						70,
+						79
+					]
+				},
+				{
+					"text": "아이밴",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "슬릭",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "싱글",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "ayear2020",
+					"indices": [
+						93,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341949044805931000,
+					"id_str": "1341949044805931008",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-Pi9pVEAA1d-B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-Pi9pVEAA1d-B.jpg",
+					"url": "https://t.co/1gOaX4oqBb",
+					"display_url": "pic.twitter.com/1gOaX4oqBb",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1341949047200890880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341949044805931000,
+					"id_str": "1341949044805931008",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-Pi9pVEAA1d-B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-Pi9pVEAA1d-B.jpg",
+					"url": "https://t.co/1gOaX4oqBb",
+					"display_url": "pic.twitter.com/1gOaX4oqBb",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1341949047200890880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2006,
+			"friends_count": 26,
+			"listed_count": 0,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 503,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1594485943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[아마도이자람밴드]싱글 &lt;A Year 2020 (feat.슬릭)&gt; 발매\n\n지금 모든 음원사이트에서 감상하세요 🎵\n\n#아마도이자람밴드 #아이밴 #슬릭 #싱글 #ayear2020 https://t.co/1gOaX4oqBb"
+	},
+	{
+		"created_at": "Thu Dec 24 03:29:45 +0000 2020",
+		"id": 1341942489578532900,
+		"id_str": "1341949157079187462",
+		"full_text": "[🎧] Lovelyz (Babysoul, 류수정) &amp; Golden Child (TAG, 주찬) '순천의 하늘 아래에서' 음원 공개 안내🤎\n\n🍂 멜론 - https://t.co/KNZqQppkiO\n🍂 지니 - https://t.co/gv8rvPeL0k\n\n#Lovelyz #러블리즈\n#베이비소울 #류수정\n#GoldenChild #골든차일드\n#TAG #홍주찬\n#싱스트리트 #순천의하늘아래에서 https://t.co/1zviAJIAuY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Lovelyz",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"text": "러블리즈",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "베이비소울",
+					"indices": [
+						160,
+						166
+					]
+				},
+				{
+					"text": "류수정",
+					"indices": [
+						167,
+						171
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						172,
+						184
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						185,
+						191
+					]
+				},
+				{
+					"text": "TAG",
+					"indices": [
+						192,
+						196
+					]
+				},
+				{
+					"text": "홍주찬",
+					"indices": [
+						197,
+						201
+					]
+				},
+				{
+					"text": "싱스트리트",
+					"indices": [
+						202,
+						208
+					]
+				},
+				{
+					"text": "순천의하늘아래에서",
+					"indices": [
+						209,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KNZqQppkiO",
+					"expanded_url": "https://bit.ly/3pl7BcB",
+					"display_url": "bit.ly/3pl7BcB",
+					"indices": [
+						89,
+						112
+					]
+				},
+				{
+					"url": "https://t.co/gv8rvPeL0k",
+					"expanded_url": "https://bit.ly/2WE8XTo",
+					"display_url": "bit.ly/2WE8XTo",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1341942464605614000,
+					"id_str": "1341942464605614080",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-Jj8fUcAAQ8C6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-Jj8fUcAAQ8C6.jpg",
+					"url": "https://t.co/1zviAJIAuY",
+					"display_url": "pic.twitter.com/1zviAJIAuY",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1341942489578532866/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341942464605614000,
+					"id_str": "1341942464605614080",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-Jj8fUcAAQ8C6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-Jj8fUcAAQ8C6.jpg",
+					"url": "https://t.co/1zviAJIAuY",
+					"display_url": "pic.twitter.com/1zviAJIAuY",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1341942489578532866/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424646,
+			"friends_count": 10,
+			"listed_count": 1816,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1607169766",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1011,
+		"favorite_count": 2104,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎧] Lovelyz (Babysoul, 류수정) &amp; Golden Child (TAG, 주찬) '순천의 하늘 아래에서' 음원 공개 안내🤎\n\n🍂 멜론 - https://t.co/KNZqQppkiO\n🍂 지니 - https://t.co/gv8rvPeL0k\n\n#Lovelyz #러블리즈\n#베이비소울 #류수정\n#GoldenChild #골든차일드\n#TAG #홍주찬\n#싱스트리트 #순천의하늘아래에서 https://t.co/1zviAJIAuY"
+	},
+	{
+		"created_at": "Thu Dec 24 03:29:37 +0000 2020",
+		"id": 1341942113856995300,
+		"id_str": "1341949123017273346",
+		"full_text": "[#미스틱스토리] CHRISTMAS with MYSTIC STORY 🎄 \n\n미스틱스토리 배우들이 준비한 크리스마스 영화 추천 도착🎁 행복한 크리스마스 되세요🎅\n\n#크리스마스 #CHRISTMAS #MYSTICSTORY #김강민 #박선우 #이지원 #조한선 #김시아 #하재숙 #오동민 https://t.co/iujB5C6Pjr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미스틱스토리",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "크리스마스",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "CHRISTMAS",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"text": "MYSTICSTORY",
+					"indices": [
+						108,
+						120
+					]
+				},
+				{
+					"text": "김강민",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "박선우",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "이지원",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "조한선",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "김시아",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "하재숙",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "오동민",
+					"indices": [
+						151,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341942092180799500,
+					"id_str": "1341942092180799488",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-JORGUwAAjmXR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-JORGUwAAjmXR.jpg",
+					"url": "https://t.co/iujB5C6Pjr",
+					"display_url": "pic.twitter.com/iujB5C6Pjr",
+					"expanded_url": "https://twitter.com/themysticstory/status/1341942113856995329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341942092180799500,
+					"id_str": "1341942092180799488",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-JORGUwAAjmXR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-JORGUwAAjmXR.jpg",
+					"url": "https://t.co/iujB5C6Pjr",
+					"display_url": "pic.twitter.com/iujB5C6Pjr",
+					"expanded_url": "https://twitter.com/themysticstory/status/1341942113856995329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1341942092336038000,
+					"id_str": "1341942092336037888",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-JORrVgAAmw66.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-JORrVgAAmw66.jpg",
+					"url": "https://t.co/iujB5C6Pjr",
+					"display_url": "pic.twitter.com/iujB5C6Pjr",
+					"expanded_url": "https://twitter.com/themysticstory/status/1341942113856995329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1341942092650573800,
+					"id_str": "1341942092650573824",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-JOS2U8AAGwcZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-JOS2U8AAGwcZ.jpg",
+					"url": "https://t.co/iujB5C6Pjr",
+					"display_url": "pic.twitter.com/iujB5C6Pjr",
+					"expanded_url": "https://twitter.com/themysticstory/status/1341942113856995329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1341942092747051000,
+					"id_str": "1341942092747051009",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-JOTNVEAEDTqr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-JOTNVEAEDTqr.jpg",
+					"url": "https://t.co/iujB5C6Pjr",
+					"display_url": "pic.twitter.com/iujB5C6Pjr",
+					"expanded_url": "https://twitter.com/themysticstory/status/1341942113856995329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19933,
+			"friends_count": 18,
+			"listed_count": 228,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#미스틱스토리] CHRISTMAS with MYSTIC STORY 🎄 \n\n미스틱스토리 배우들이 준비한 크리스마스 영화 추천 도착🎁 행복한 크리스마스 되세요🎅\n\n#크리스마스 #CHRISTMAS #MYSTICSTORY #김강민 #박선우 #이지원 #조한선 #김시아 #하재숙 #오동민 https://t.co/iujB5C6Pjr"
+	},
+	{
+		"created_at": "Thu Dec 24 03:29:33 +0000 2020",
+		"id": 1341941838912086000,
+		"id_str": "1341949105510240257",
+		"full_text": "[New Release] 2020.12.24.12pm \n엔분의일 - 사진\n1/N Scenes\nhttps://t.co/UJ1VKG0pZi https://t.co/YOflq1wvC2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UJ1VKG0pZi",
+					"expanded_url": "https://youtu.be/BVLyEtL66PI",
+					"display_url": "youtu.be/BVLyEtL66PI",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1341938756312395800,
+					"id_str": "1341938756312395776",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-GMGBUcAAfA5C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-GMGBUcAAfA5C.jpg",
+					"url": "https://t.co/YOflq1wvC2",
+					"display_url": "pic.twitter.com/YOflq1wvC2",
+					"expanded_url": "https://twitter.com/sugar_records/status/1341941838912086017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341938756312395800,
+					"id_str": "1341938756312395776",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-GMGBUcAAfA5C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-GMGBUcAAfA5C.jpg",
+					"url": "https://t.co/YOflq1wvC2",
+					"display_url": "pic.twitter.com/YOflq1wvC2",
+					"expanded_url": "https://twitter.com/sugar_records/status/1341941838912086017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94343878,
+			"id_str": "94343878",
+			"name": "슈가레코드",
+			"screen_name": "sugar_records",
+			"location": "Seoul, KR",
+			"description": "#달에닿아 #뷰티핸섬 #리썬 #모브닝 #엔분의일 #당기시오 #우리같은사람들 슈가레코드",
+			"url": "https://t.co/MaZwhWbQNT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MaZwhWbQNT",
+							"expanded_url": "http://sugar-records.com",
+							"display_url": "sugar-records.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 548,
+			"friends_count": 37,
+			"listed_count": 10,
+			"created_at": "Thu Dec 03 14:51:49 +0000 2009",
+			"favourites_count": 374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94343878/1548148600",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[New Release] 2020.12.24.12pm \n엔분의일 - 사진\n1/N Scenes\nhttps://t.co/UJ1VKG0pZi https://t.co/YOflq1wvC2"
+	},
+	{
 		"created_at": "Thu Dec 24 03:20:17 +0000 2020",
 		"id": 1341946770981609500,
 		"id_str": "1341946770981609472",
