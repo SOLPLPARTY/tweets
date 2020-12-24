@@ -1,6 +1,1239 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 24 07:58:15 +0000 2020",
+		"id": 1342002828542263300,
+		"id_str": "1342016723776663554",
+		"full_text": "슬픔의케이팝파티 크리스마스 온라인 D-1\n슬픔의 크리스마스 파티를 함께해요 🎄😿\n\n본방은 25일 크리스마스 저녁 여덟시 🕗 \n일찍 들어오시면 지난 슬케파 믹스셋을 사전에 들으실 수 있습니다! 🎧 \n\nhttps://t.co/sixk9xREwP\n네이버 앱의 알림설정도 꼭 눌러주세요 🔔",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sixk9xREwP",
+					"expanded_url": "https://now.naver.com/883",
+					"display_url": "now.naver.com/883",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬픔의케이팝파티",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/y66RIP08rM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y66RIP08rM",
+							"expanded_url": "https://instagram.com/seulpeumkpop?utm_source=ig_profile_share&igshid=levuw48ktbga",
+							"display_url": "instagram.com/seulpeumkpop?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7317,
+			"friends_count": 31,
+			"listed_count": 21,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1572341650",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 166,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬픔의케이팝파티 크리스마스 온라인 D-1\n슬픔의 크리스마스 파티를 함께해요 🎄😿\n\n본방은 25일 크리스마스 저녁 여덟시 🕗 \n일찍 들어오시면 지난 슬케파 믹스셋을 사전에 들으실 수 있습니다! 🎧 \n\nhttps://t.co/sixk9xREwP\n네이버 앱의 알림설정도 꼭 눌러주세요 🔔"
+	},
+	{
+		"created_at": "Thu Dec 24 07:29:53 +0000 2020",
+		"id": 1342003323763830800,
+		"id_str": "1342009584836337666",
+		"full_text": "Merry Christmas With HYUKOH's Playlist 'Rhythm'\nListen on Spotify.\n\nhttps://t.co/6qU0THvTy3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6qU0THvTy3",
+					"expanded_url": "https://open.spotify.com/playlist/3Je0WlN6XjrGOlf4bQ5Aml",
+					"display_url": "open.spotify.com/playlist/3Je0W…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3677,
+			"friends_count": 5,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 81,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2407,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Merry Christmas With HYUKOH's Playlist 'Rhythm'\nListen on Spotify.\n\nhttps://t.co/6qU0THvTy3"
+	},
+	{
+		"created_at": "Thu Dec 24 07:29:49 +0000 2020",
+		"id": 1342002317164490800,
+		"id_str": "1342009571800477697",
+		"full_text": "[#미스틱스토리] CHRISTMAS with MYSTIC STORY 🎄 \n\n미스틱스토리 배우들이 준비한 크리스마스 영화 추천 도착🎁 행복한 크리스마스 되세요🎅\n\n#크리스마스 #CHRISTMAS #MYSTICSTORY #정태우 #박시연 #고민시 #차민지 #장원형 #이유안 #이찬형 https://t.co/RJ83AnKJoZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미스틱스토리",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "크리스마스",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "CHRISTMAS",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"text": "MYSTICSTORY",
+					"indices": [
+						108,
+						120
+					]
+				},
+				{
+					"text": "정태우",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "박시연",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "고민시",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "차민지",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "장원형",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "이유안",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "이찬형",
+					"indices": [
+						151,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341946298547675100,
+					"id_str": "1341946298547675137",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-NDHCVoAE2-U7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-NDHCVoAE2-U7.jpg",
+					"url": "https://t.co/RJ83AnKJoZ",
+					"display_url": "pic.twitter.com/RJ83AnKJoZ",
+					"expanded_url": "https://twitter.com/themysticstory/status/1342002317164490753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341946298547675100,
+					"id_str": "1341946298547675137",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-NDHCVoAE2-U7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-NDHCVoAE2-U7.jpg",
+					"url": "https://t.co/RJ83AnKJoZ",
+					"display_url": "pic.twitter.com/RJ83AnKJoZ",
+					"expanded_url": "https://twitter.com/themysticstory/status/1342002317164490753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1341946304583225300,
+					"id_str": "1341946304583225345",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-NDdhU0AEqRR9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-NDdhU0AEqRR9.jpg",
+					"url": "https://t.co/RJ83AnKJoZ",
+					"display_url": "pic.twitter.com/RJ83AnKJoZ",
+					"expanded_url": "https://twitter.com/themysticstory/status/1342002317164490753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1341946310203568000,
+					"id_str": "1341946310203568128",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-NDydUcAA7lxW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-NDydUcAA7lxW.jpg",
+					"url": "https://t.co/RJ83AnKJoZ",
+					"display_url": "pic.twitter.com/RJ83AnKJoZ",
+					"expanded_url": "https://twitter.com/themysticstory/status/1342002317164490753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1341946316239249400,
+					"id_str": "1341946316239249408",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-NEI8VoAAtKTz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-NEI8VoAAtKTz.jpg",
+					"url": "https://t.co/RJ83AnKJoZ",
+					"display_url": "pic.twitter.com/RJ83AnKJoZ",
+					"expanded_url": "https://twitter.com/themysticstory/status/1342002317164490753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19928,
+			"friends_count": 18,
+			"listed_count": 228,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#미스틱스토리] CHRISTMAS with MYSTIC STORY 🎄 \n\n미스틱스토리 배우들이 준비한 크리스마스 영화 추천 도착🎁 행복한 크리스마스 되세요🎅\n\n#크리스마스 #CHRISTMAS #MYSTICSTORY #정태우 #박시연 #고민시 #차민지 #장원형 #이유안 #이찬형 https://t.co/RJ83AnKJoZ"
+	},
+	{
+		"created_at": "Thu Dec 24 07:29:43 +0000 2020",
+		"id": 1342002069792718800,
+		"id_str": "1342009546038980608",
+		"full_text": "[#미스틱스토리] CHRISTMAS with MYSTIC STORY 🎄 \n\n미스틱스토리 배우들이 준비한 크리스마스 영화 추천 도착🎁 행복한 크리스마스 되세요🎅\n\n#크리스마스 #CHRISTMAS #MYSTICSTORY #정태우 #박시연 #고민시 #차민지 #장원형 #이유안 #이찬형 https://t.co/xWq0lxI2iQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미스틱스토리",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "크리스마스",
+					"indices": [
+						90,
+						96
+					]
+				},
+				{
+					"text": "CHRISTMAS",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"text": "MYSTICSTORY",
+					"indices": [
+						108,
+						120
+					]
+				},
+				{
+					"text": "정태우",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "박시연",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "고민시",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "차민지",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "장원형",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "이유안",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "이찬형",
+					"indices": [
+						151,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341946131140337700,
+					"id_str": "1341946131140337667",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-M5XZUYAMagr6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-M5XZUYAMagr6.jpg",
+					"url": "https://t.co/xWq0lxI2iQ",
+					"display_url": "pic.twitter.com/xWq0lxI2iQ",
+					"expanded_url": "https://twitter.com/themysticstory/status/1342002069792718848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341946131140337700,
+					"id_str": "1341946131140337667",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-M5XZUYAMagr6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-M5XZUYAMagr6.jpg",
+					"url": "https://t.co/xWq0lxI2iQ",
+					"display_url": "pic.twitter.com/xWq0lxI2iQ",
+					"expanded_url": "https://twitter.com/themysticstory/status/1342002069792718848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1341946135288500200,
+					"id_str": "1341946135288500226",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-M5m2UUAI-D5o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-M5m2UUAI-D5o.jpg",
+					"url": "https://t.co/xWq0lxI2iQ",
+					"display_url": "pic.twitter.com/xWq0lxI2iQ",
+					"expanded_url": "https://twitter.com/themysticstory/status/1342002069792718848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1341946139046596600,
+					"id_str": "1341946139046596608",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-M502UUAAP9Vf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-M502UUAAP9Vf.jpg",
+					"url": "https://t.co/xWq0lxI2iQ",
+					"display_url": "pic.twitter.com/xWq0lxI2iQ",
+					"expanded_url": "https://twitter.com/themysticstory/status/1342002069792718848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1341946145992413200,
+					"id_str": "1341946145992413188",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-M6OuVEAQHbpg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-M6OuVEAQHbpg.jpg",
+					"url": "https://t.co/xWq0lxI2iQ",
+					"display_url": "pic.twitter.com/xWq0lxI2iQ",
+					"expanded_url": "https://twitter.com/themysticstory/status/1342002069792718848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19928,
+			"friends_count": 18,
+			"listed_count": 228,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#미스틱스토리] CHRISTMAS with MYSTIC STORY 🎄 \n\n미스틱스토리 배우들이 준비한 크리스마스 영화 추천 도착🎁 행복한 크리스마스 되세요🎅\n\n#크리스마스 #CHRISTMAS #MYSTICSTORY #정태우 #박시연 #고민시 #차민지 #장원형 #이유안 #이찬형 https://t.co/xWq0lxI2iQ"
+	},
+	{
+		"created_at": "Thu Dec 24 07:29:37 +0000 2020",
+		"id": 1341997590707986400,
+		"id_str": "1342009520369840128",
+		"full_text": "🎁 Ticket + MD\nKR 🔗 https://t.co/yGlPkUNlTq\nGlobal 🔗 https://t.co/qBm22YnDHw \n \n🎫 NAVER V LIVE Tickets\n \nKor) https://t.co/wtVTogxR5d  \n \nEng) https://t.co/YSaaZFxZ46  \n \nJP) https://t.co/wzKvpkJEUD   \n \n簡) https://t.co/HFujl4d4K4   \n \n繁) https://t.co/aeztfveDdC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yGlPkUNlTq",
+					"expanded_url": "http://www.yes24.com/eWorld/EventWorld/Event?eventno=193956",
+					"display_url": "yes24.com/eWorld/EventWo…",
+					"indices": [
+						19,
+						42
+					]
+				},
+				{
+					"url": "https://t.co/qBm22YnDHw",
+					"expanded_url": "https://global.yes24.com/Event/193857",
+					"display_url": "global.yes24.com/Event/193857",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/wtVTogxR5d",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=ko",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/YSaaZFxZ46",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=en",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						142,
+						165
+					]
+				},
+				{
+					"url": "https://t.co/wzKvpkJEUD",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=ja",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						174,
+						197
+					]
+				},
+				{
+					"url": "https://t.co/HFujl4d4K4",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=zh_cn",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						206,
+						229
+					]
+				},
+				{
+					"url": "https://t.co/aeztfveDdC",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=zh_tw",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						238,
+						261
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1341997524417015800,
+		"in_reply_to_status_id_str": "1341997524417015808",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8808870,
+			"friends_count": 53,
+			"listed_count": 8621,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1817,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 462,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "da",
+		"text": "🎁 Ticket + MD\nKR 🔗 https://t.co/yGlPkUNlTq\nGlobal 🔗 https://t.co/qBm22YnDHw \n \n🎫 NAVER V LIVE Tickets\n \nKor) https://t.co/wtVTogxR5d  \n \nEng) https://t.co/YSaaZFxZ46  \n \nJP) https://t.co/wzKvpkJEUD   \n \n簡) https://t.co/HFujl4d4K4   \n \n繁) https://t.co/aeztfveDdC"
+	},
+	{
+		"created_at": "Thu Dec 24 07:29:33 +0000 2020",
+		"id": 1341997524417015800,
+		"id_str": "1342009503022264320",
+		"full_text": "🗓 12/26 SAT 5PM (KST)\n \n🎫 YES24 Tickets\n \n* Cassiopeia-ACE\nKR PC 🔗 https://t.co/vVLtuqnuc3\nGlobal PC 🔗 https://t.co/TrrFjTvGEE\n \n* General\nKR PC 🔗 https://t.co/gF4McAuvOL\nGlobal PC 🔗 https://t.co/4A0tK5BAck\n \n#2020_TVXQ_ONLINE_FANMEETING_동冬방房신기_with_Cassiopeia",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2020_TVXQ_ONLINE_FANMEETING_동冬방房신기_with_Cassiopeia",
+					"indices": [
+						209,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vVLtuqnuc3",
+					"expanded_url": "http://ticket.yes24.com/Special/38163",
+					"display_url": "ticket.yes24.com/Special/38163",
+					"indices": [
+						67,
+						90
+					]
+				},
+				{
+					"url": "https://t.co/TrrFjTvGEE",
+					"expanded_url": "http://ticket.yes24.com/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=38163",
+					"display_url": "ticket.yes24.com/Pages/English/…",
+					"indices": [
+						103,
+						126
+					]
+				},
+				{
+					"url": "https://t.co/gF4McAuvOL",
+					"expanded_url": "http://ticket.yes24.com/Special/38167",
+					"display_url": "ticket.yes24.com/Special/38167",
+					"indices": [
+						147,
+						170
+					]
+				},
+				{
+					"url": "https://t.co/4A0tK5BAck",
+					"expanded_url": "http://ticket.yes24.com/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=38167",
+					"display_url": "ticket.yes24.com/Pages/English/…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1341997436475084800,
+		"in_reply_to_status_id_str": "1341997436475084800",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8808870,
+			"friends_count": 53,
+			"listed_count": 8621,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1817,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 549,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🗓 12/26 SAT 5PM (KST)\n \n🎫 YES24 Tickets\n \n* Cassiopeia-ACE\nKR PC 🔗 https://t.co/vVLtuqnuc3\nGlobal PC 🔗 https://t.co/TrrFjTvGEE\n \n* General\nKR PC 🔗 https://t.co/gF4McAuvOL\nGlobal PC 🔗 https://t.co/4A0tK5BAck\n \n#2020_TVXQ_ONLINE_FANMEETING_동冬방房신기_with_Cassiopeia"
+	},
+	{
 		"created_at": "Thu Dec 24 07:11:17 +0000 2020",
 		"id": 1342002065208471600,
 		"id_str": "1342004904680951812",
