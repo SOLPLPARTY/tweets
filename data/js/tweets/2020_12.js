@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 24 10:29:32 +0000 2020",
+		"id": 1342052768974995500,
+		"id_str": "1342054796983939072",
+		"full_text": "[#하현우] 음원 발매 소식🙌\n\nKB생명보험과 함께한 전국민 극복송 프로젝트 음원 ‘Higher’가 발매됐습니다.\n\n“끝이 보이지 않겠지만\n분명 끝은 찾아 올거야\n우리 함께 웃으며 말하자”\n\n#KB생명보험 #Higher https://t.co/W8lMbb8bT3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하현우",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "KB생명보험",
+					"indices": [
+						107,
+						114
+					]
+				},
+				{
+					"text": "Higher",
+					"indices": [
+						115,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1342052762301784000,
+					"id_str": "1342052762301784064",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep_t4HbUYAAhVX8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep_t4HbUYAAhVX8.jpg",
+					"url": "https://t.co/W8lMbb8bT3",
+					"display_url": "pic.twitter.com/W8lMbb8bT3",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1342052768974995456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1124,
+							"h": 1124,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1124,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342052762301784000,
+					"id_str": "1342052762301784064",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep_t4HbUYAAhVX8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep_t4HbUYAAhVX8.jpg",
+					"url": "https://t.co/W8lMbb8bT3",
+					"display_url": "pic.twitter.com/W8lMbb8bT3",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1342052768974995456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1124,
+							"h": 1124,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1124,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 924920565906915300,
+			"id_str": "924920565906915328",
+			"name": "인터파크 엔터테인먼트",
+			"screen_name": "interpark_enter",
+			"location": "대한민국 서울",
+			"description": "인터파크 엔터테인먼트 공식 트위터입니다. 자우림 / 국카스텐 / 김윤아 / 에피톤 프로젝트 / 안녕하신가영 / O.O.O 일반 문의: e-info@interparkenter.com 섭외 및 프로모션: e-mgmt@interparkenter.com",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1746,
+			"friends_count": 12,
+			"listed_count": 5,
+			"created_at": "Mon Oct 30 08:47:01 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925888007030243328/W0b71PkA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925888007030243328/W0b71PkA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924920565906915328/1509583868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#하현우] 음원 발매 소식🙌\n\nKB생명보험과 함께한 전국민 극복송 프로젝트 음원 ‘Higher’가 발매됐습니다.\n\n“끝이 보이지 않겠지만\n분명 끝은 찾아 올거야\n우리 함께 웃으며 말하자”\n\n#KB생명보험 #Higher https://t.co/W8lMbb8bT3"
+	},
+	{
 		"created_at": "Thu Dec 24 10:14:32 +0000 2020",
 		"id": 1342051023054110700,
 		"id_str": "1342051023054110720",
