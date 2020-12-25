@@ -1,6 +1,141 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 25 18:29:25 +0000 2020",
+		"id": 1342530260911280000,
+		"id_str": "1342537950068953089",
+		"full_text": "#유희열의스케치북 #성탄특집 \n\n이적 - ‘걱정말아요 그대’ (with. #유희열, \n윤종신, 10CM, 잔나비, 마마무, #정승환) \n\n✔️ https://t.co/Kuq8Wa3kbZ\n\n* 12월 26일 낮 12시 유희열, 정승환이 함께한 ‘걱정말아요 그대’ 음원이 공개됩니다!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유희열의스케치북",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "성탄특집",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "유희열",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						69,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Kuq8Wa3kbZ",
+					"expanded_url": "http://naver.me/xtWmAl2e",
+					"display_url": "naver.me/xtWmAl2e",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official / 2020 안테나 크리스마스 캐럴 ‘겨울의 우리들’ Release!",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35255,
+			"friends_count": 10,
+			"listed_count": 368,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1608569605",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유희열의스케치북 #성탄특집 \n\n이적 - ‘걱정말아요 그대’ (with. #유희열, \n윤종신, 10CM, 잔나비, 마마무, #정승환) \n\n✔️ https://t.co/Kuq8Wa3kbZ\n\n* 12월 26일 낮 12시 유희열, 정승환이 함께한 ‘걱정말아요 그대’ 음원이 공개됩니다!"
+	},
+	{
 		"created_at": "Fri Dec 25 14:58:14 +0000 2020",
 		"id": 1342471091562823700,
 		"id_str": "1342484807725551616",
