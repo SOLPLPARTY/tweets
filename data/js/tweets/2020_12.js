@@ -1,6 +1,195 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 25 02:11:17 +0000 2020",
+		"id": 1342285388350513200,
+		"id_str": "1342291795816964096",
+		"full_text": "벌써 올해가 끝나가네요~!\n여러분 메리크리스마스🎄🤍\n행복한 하루 보내세요😘\n\n#함께하는상상마당\n#merrychristmas🎄 https://t.co/z7uuSoi5Zl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "함께하는상상마당",
+					"indices": [
+						43,
+						52
+					]
+				},
+				{
+					"text": "merrychristmas",
+					"indices": [
+						53,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1342285382503698400,
+					"id_str": "1342285382503698432",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EqDBcZNVEAALfpZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqDBcZNVEAALfpZ.jpg",
+					"url": "https://t.co/z7uuSoi5Zl",
+					"display_url": "pic.twitter.com/z7uuSoi5Zl",
+					"expanded_url": "https://twitter.com/SSmadang/status/1342285388350513152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1134,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1134,
+							"h": 1134,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342285382503698400,
+					"id_str": "1342285382503698432",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EqDBcZNVEAALfpZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqDBcZNVEAALfpZ.jpg",
+					"url": "https://t.co/z7uuSoi5Zl",
+					"display_url": "pic.twitter.com/z7uuSoi5Zl",
+					"expanded_url": "https://twitter.com/SSmadang/status/1342285388350513152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1134,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1134,
+							"h": 1134,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18281,
+			"friends_count": 1905,
+			"listed_count": 290,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 494,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "벌써 올해가 끝나가네요~!\n여러분 메리크리스마스🎄🤍\n행복한 하루 보내세요😘\n\n#함께하는상상마당\n#merrychristmas🎄 https://t.co/z7uuSoi5Zl"
+	},
+	{
 		"created_at": "Fri Dec 25 00:29:25 +0000 2020",
 		"id": 1342257999465775000,
 		"id_str": "1342266160709066752",
