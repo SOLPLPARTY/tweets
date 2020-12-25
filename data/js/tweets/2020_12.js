@@ -1,6 +1,1146 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 25 03:29:49 +0000 2020",
+		"id": 1342308296753963000,
+		"id_str": "1342311561759698949",
+		"full_text": "[성진환]싱글 &lt;내 강아지&gt; 발매되었습니다 \n지금 바로 모든 음원사이트에서 감상하세요 🎵\n\n#성진환 #싱글 #내강아지 #발매 #흑당이 https://t.co/xolGceuEBy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "성진환",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "싱글",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "내강아지",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "흑당이",
+					"indices": [
+						76,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1342308294933708800,
+					"id_str": "1342308294933708803",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EqDWSEqVgAMyeie.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqDWSEqVgAMyeie.jpg",
+					"url": "https://t.co/xolGceuEBy",
+					"display_url": "pic.twitter.com/xolGceuEBy",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1342308296753963010/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342308294933708800,
+					"id_str": "1342308294933708803",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EqDWSEqVgAMyeie.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqDWSEqVgAMyeie.jpg",
+					"url": "https://t.co/xolGceuEBy",
+					"display_url": "pic.twitter.com/xolGceuEBy",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1342308296753963010/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2007,
+			"friends_count": 26,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1594485943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[성진환]싱글 &lt;내 강아지&gt; 발매되었습니다 \n지금 바로 모든 음원사이트에서 감상하세요 🎵\n\n#성진환 #싱글 #내강아지 #발매 #흑당이 https://t.co/xolGceuEBy"
+	},
+	{
+		"created_at": "Fri Dec 25 03:29:45 +0000 2020",
+		"id": 1342307326896685000,
+		"id_str": "1342311544521109505",
+		"full_text": "Collective Arts, 하람\n[STORY#11]\n\n여름의 꿈처럼 온 세상이 맑게 빛나던 그 시절을 추억하며 사랑과 축복을 담아 인사를 건넨다.\n\n보고 싶은 나의 친구에게\n\n✚ 앨범 자세히 보기: https://t.co/MZDrTYuaIs https://t.co/SHxmhA7t9s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MZDrTYuaIs",
+					"expanded_url": "https://bit.ly/3rpNawT",
+					"display_url": "bit.ly/3rpNawT",
+					"indices": [
+						113,
+						136
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1341964778307084300,
+					"id_str": "1341964778307084288",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-d2xgUYAAlfNK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-d2xgUYAAlfNK.jpg",
+					"url": "https://t.co/SHxmhA7t9s",
+					"display_url": "pic.twitter.com/SHxmhA7t9s",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1342307326896685058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341964778307084300,
+					"id_str": "1341964778307084288",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-d2xgUYAAlfNK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-d2xgUYAAlfNK.jpg",
+					"url": "https://t.co/SHxmhA7t9s",
+					"display_url": "pic.twitter.com/SHxmhA7t9s",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1342307326896685058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9501,
+			"friends_count": 2866,
+			"listed_count": 248,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 954,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1603861113",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Collective Arts, 하람\n[STORY#11]\n\n여름의 꿈처럼 온 세상이 맑게 빛나던 그 시절을 추억하며 사랑과 축복을 담아 인사를 건넨다.\n\n보고 싶은 나의 친구에게\n\n✚ 앨범 자세히 보기: https://t.co/MZDrTYuaIs https://t.co/SHxmhA7t9s"
+	},
+	{
+		"created_at": "Fri Dec 25 03:29:42 +0000 2020",
+		"id": 1342307001691492400,
+		"id_str": "1342311531434958856",
+		"full_text": "21.1.11.12\n#hayeon #merrychristmas #music #기대 https://t.co/dMvhW4JXYy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hayeon",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"text": "merrychristmas",
+					"indices": [
+						19,
+						34
+					]
+				},
+				{
+					"text": "music",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"text": "기대",
+					"indices": [
+						42,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dMvhW4JXYy",
+					"expanded_url": "https://www.instagram.com/p/CJNIacQhikV/?igshid=wbgfsih6ysll",
+					"display_url": "instagram.com/p/CJNIacQhikV/…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 964372210436591600,
+			"id_str": "964372210436591616",
+			"name": "Enterarts - A.I.M",
+			"screen_name": "aimbyenterarts",
+			"location": "대한민국 서울",
+			"description": "The World's First AI Music Production Record Label & Artist Management\n세계 최초 인공지능 음반 제작 레이블",
+			"url": "https://t.co/4A9OjK1Yel",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4A9OjK1Yel",
+							"expanded_url": "http://www.enterarts.net",
+							"display_url": "enterarts.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 23,
+			"listed_count": 2,
+			"created_at": "Fri Feb 16 05:33:46 +0000 2018",
+			"favourites_count": 773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 120,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964373734273433600/Z0O1Lz_s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964373734273433600/Z0O1Lz_s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/964372210436591616/1518759589",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "21.1.11.12\n#hayeon #merrychristmas #music #기대 https://t.co/dMvhW4JXYy"
+	},
+	{
+		"created_at": "Fri Dec 25 03:29:35 +0000 2020",
+		"id": 1342304856355135500,
+		"id_str": "1342311501575696384",
+		"full_text": "🎁 Ticket + MD\nKR 🔗 https://t.co/yGlPkUNlTq\nGlobal 🔗 https://t.co/qBm22YnDHw \n \n🎫 NAVER V LIVE Tickets\n \nKor) https://t.co/wtVTogxR5d  \n \nEng) https://t.co/YSaaZFxZ46  \n \nJP) https://t.co/wzKvpkJEUD  \n \n簡) https://t.co/HFujl4d4K4  \n \n繁) https://t.co/aeztfveDdC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yGlPkUNlTq",
+					"expanded_url": "http://www.yes24.com/eWorld/EventWorld/Event?eventno=193956",
+					"display_url": "yes24.com/eWorld/EventWo…",
+					"indices": [
+						19,
+						42
+					]
+				},
+				{
+					"url": "https://t.co/qBm22YnDHw",
+					"expanded_url": "https://global.yes24.com/Event/193857",
+					"display_url": "global.yes24.com/Event/193857",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/wtVTogxR5d",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=ko",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/YSaaZFxZ46",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=en",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						142,
+						165
+					]
+				},
+				{
+					"url": "https://t.co/wzKvpkJEUD",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=ja",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						174,
+						197
+					]
+				},
+				{
+					"url": "https://t.co/HFujl4d4K4",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=zh_cn",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						205,
+						228
+					]
+				},
+				{
+					"url": "https://t.co/aeztfveDdC",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000357?lang=zh_tw",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						236,
+						259
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1342304799279050800,
+		"in_reply_to_status_id_str": "1342304799279050752",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8811267,
+			"friends_count": 53,
+			"listed_count": 8618,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1817,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 481,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "da",
+		"text": "🎁 Ticket + MD\nKR 🔗 https://t.co/yGlPkUNlTq\nGlobal 🔗 https://t.co/qBm22YnDHw \n \n🎫 NAVER V LIVE Tickets\n \nKor) https://t.co/wtVTogxR5d  \n \nEng) https://t.co/YSaaZFxZ46  \n \nJP) https://t.co/wzKvpkJEUD  \n \n簡) https://t.co/HFujl4d4K4  \n \n繁) https://t.co/aeztfveDdC"
+	},
+	{
+		"created_at": "Fri Dec 25 03:29:33 +0000 2020",
+		"id": 1342304799279050800,
+		"id_str": "1342311492692140033",
+		"full_text": "🗓 12/26 SAT 5PM (KST)\n \n🎫 YES24 Tickets\n \n* Cassiopeia-ACE\nKR PC 🔗 https://t.co/vVLtuqnuc3\nGlobal PC 🔗 https://t.co/TrrFjTvGEE\n \n* General\nKR PC 🔗 https://t.co/gF4McAuvOL\nGlobal PC 🔗 https://t.co/4A0tK5BAck\n \n#2020_TVXQ_ONLINE_FANMEETING_동冬방房신기_with_Cassiopeia",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2020_TVXQ_ONLINE_FANMEETING_동冬방房신기_with_Cassiopeia",
+					"indices": [
+						209,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vVLtuqnuc3",
+					"expanded_url": "http://ticket.yes24.com/Special/38163",
+					"display_url": "ticket.yes24.com/Special/38163",
+					"indices": [
+						67,
+						90
+					]
+				},
+				{
+					"url": "https://t.co/TrrFjTvGEE",
+					"expanded_url": "http://ticket.yes24.com/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=38163",
+					"display_url": "ticket.yes24.com/Pages/English/…",
+					"indices": [
+						103,
+						126
+					]
+				},
+				{
+					"url": "https://t.co/gF4McAuvOL",
+					"expanded_url": "http://ticket.yes24.com/Special/38167",
+					"display_url": "ticket.yes24.com/Special/38167",
+					"indices": [
+						147,
+						170
+					]
+				},
+				{
+					"url": "https://t.co/4A0tK5BAck",
+					"expanded_url": "http://ticket.yes24.com/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=38167",
+					"display_url": "ticket.yes24.com/Pages/English/…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1342304060129472500,
+		"in_reply_to_status_id_str": "1342304060129472512",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8811267,
+			"friends_count": 53,
+			"listed_count": 8618,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1817,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 532,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🗓 12/26 SAT 5PM (KST)\n \n🎫 YES24 Tickets\n \n* Cassiopeia-ACE\nKR PC 🔗 https://t.co/vVLtuqnuc3\nGlobal PC 🔗 https://t.co/TrrFjTvGEE\n \n* General\nKR PC 🔗 https://t.co/gF4McAuvOL\nGlobal PC 🔗 https://t.co/4A0tK5BAck\n \n#2020_TVXQ_ONLINE_FANMEETING_동冬방房신기_with_Cassiopeia"
+	},
+	{
+		"created_at": "Fri Dec 25 03:29:25 +0000 2020",
+		"id": 1342304063644344300,
+		"id_str": "1342311458672156673",
+		"full_text": "[#미스틱스토리] CHRISTMAS with MYSTIC STORY 🎄 \n\n미스틱스토리 아티스트들이 준비한 크리스마스 캐럴 '울면 안 돼' 도착🎁 행복한 크리스마스 되세요🎅\n\n🔗https://t.co/QCrz9VSBsX\n\n#크리스마스 #CHRISTMAS #MYSTICSTORY #정인 #박상돈 #루시 #LUCY #신예찬 #최상엽 #조원상 #신광일 https://t.co/qKrPzjaMD8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미스틱스토리",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "크리스마스",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "CHRISTMAS",
+					"indices": [
+						131,
+						141
+					]
+				},
+				{
+					"text": "MYSTICSTORY",
+					"indices": [
+						142,
+						154
+					]
+				},
+				{
+					"text": "정인",
+					"indices": [
+						155,
+						158
+					]
+				},
+				{
+					"text": "박상돈",
+					"indices": [
+						159,
+						163
+					]
+				},
+				{
+					"text": "루시",
+					"indices": [
+						164,
+						167
+					]
+				},
+				{
+					"text": "LUCY",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "신예찬",
+					"indices": [
+						174,
+						178
+					]
+				},
+				{
+					"text": "최상엽",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "조원상",
+					"indices": [
+						184,
+						188
+					]
+				},
+				{
+					"text": "신광일",
+					"indices": [
+						189,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QCrz9VSBsX",
+					"expanded_url": "http://youtu.be/fMxK83ogTRc",
+					"display_url": "youtu.be/fMxK83ogTRc",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1342083897878712300,
+					"id_str": "1342083897878712321",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1342083897878712321/pu/img/BDmKXAS2APaokmeW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1342083897878712321/pu/img/BDmKXAS2APaokmeW.jpg",
+					"url": "https://t.co/qKrPzjaMD8",
+					"display_url": "pic.twitter.com/qKrPzjaMD8",
+					"expanded_url": "https://twitter.com/themysticstory/status/1342304063644344320/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342083897878712300,
+					"id_str": "1342083897878712321",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1342083897878712321/pu/img/BDmKXAS2APaokmeW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1342083897878712321/pu/img/BDmKXAS2APaokmeW.jpg",
+					"url": "https://t.co/qKrPzjaMD8",
+					"display_url": "pic.twitter.com/qKrPzjaMD8",
+					"expanded_url": "https://twitter.com/themysticstory/status/1342304063644344320/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 106542,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1342083897878712321/pu/vid/1280x720/7i6VWtIjlHloGIaQ.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1342083897878712321/pu/vid/640x360/R1LJC1z92tTF8-by.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1342083897878712321/pu/pl/91P5muWwq9lfvdV6.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1342083897878712321/pu/vid/480x270/eBjSiXB2yYtghQUy.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19927,
+			"friends_count": 18,
+			"listed_count": 229,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#미스틱스토리] CHRISTMAS with MYSTIC STORY 🎄 \n\n미스틱스토리 아티스트들이 준비한 크리스마스 캐럴 '울면 안 돼' 도착🎁 행복한 크리스마스 되세요🎅\n\n🔗https://t.co/QCrz9VSBsX\n\n#크리스마스 #CHRISTMAS #MYSTICSTORY #정인 #박상돈 #루시 #LUCY #신예찬 #최상엽 #조원상 #신광일 https://t.co/qKrPzjaMD8"
+	},
+	{
 		"created_at": "Fri Dec 25 03:00:43 +0000 2020",
 		"id": 1342304235438960600,
 		"id_str": "1342304235438960641",
