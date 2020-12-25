@@ -1,6 +1,1342 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 25 08:05:33 +0000 2020",
+		"id": 1342380952442593300,
+		"id_str": "1342380952442593280",
+		"full_text": "#딩고뮤직 #dingo_music\n🚨입꼬리 승천주의🚨 파노라마처럼 펼쳐지는 앚즈원들의 비주얼_모먼트 .zip | MAFIA DANCE BEHIND | 아이즈원 | IZ*ONEㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/CZnuT0Fih8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CZnuT0Fih8",
+					"expanded_url": "https://youtu.be/WXvDq3cmv9w",
+					"display_url": "youtu.be/WXvDq3cmv9w",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#공연일정 #페스티벌 #인디밴드 #내한 #콘서트\n\n문화예술정보 @ArtManagementKR\n뮤직매거진 @Magazine_KR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								115,
+								138
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 245,
+			"friends_count": 431,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n🚨입꼬리 승천주의🚨 파노라마처럼 펼쳐지는 앚즈원들의 비주얼_모먼트 .zip | MAFIA DANCE BEHIND | 아이즈원 | IZ*ONEㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/CZnuT0Fih8"
+	},
+	{
+		"created_at": "Fri Dec 25 07:29:56 +0000 2020",
+		"id": 1342368890265903000,
+		"id_str": "1342371989240111105",
+		"full_text": "Beyond LIVE - BAEKHYUN : LIGHT\n2021 / 01 / 03 SUN 3PM (KST)\n \n🎫 NAVER V LIVE Tickets\nhttps://t.co/3bkpCwZ5cq\n🎫 SMTOWN &amp;STORE Tickets , MD\nhttps://t.co/b5PrDHWFtB\n\n#백현 #BAEKHYUN\n#엑소 #EXO #weareoneEXO\n#BAEKHYUN_LIGHT\n#BeyondLIVE_BAEKHYUN_LIGHT\n#NAVER #VLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백현",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "BAEKHYUN",
+					"indices": [
+						171,
+						180
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						181,
+						184
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						185,
+						189
+					]
+				},
+				{
+					"text": "weareoneEXO",
+					"indices": [
+						190,
+						202
+					]
+				},
+				{
+					"text": "BAEKHYUN_LIGHT",
+					"indices": [
+						203,
+						218
+					]
+				},
+				{
+					"text": "BeyondLIVE_BAEKHYUN_LIGHT",
+					"indices": [
+						219,
+						245
+					]
+				},
+				{
+					"text": "NAVER",
+					"indices": [
+						246,
+						252
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						253,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3bkpCwZ5cq",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000363",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/b5PrDHWFtB",
+					"expanded_url": "https://bit.ly/3pmpMPa",
+					"display_url": "bit.ly/3pmpMPa",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1342368888978174000,
+		"in_reply_to_status_id_str": "1342368888978173952",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8811950,
+			"friends_count": 53,
+			"listed_count": 8619,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1817,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 608,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Beyond LIVE - BAEKHYUN : LIGHT\n2021 / 01 / 03 SUN 3PM (KST)\n \n🎫 NAVER V LIVE Tickets\nhttps://t.co/3bkpCwZ5cq\n🎫 SMTOWN &amp;STORE Tickets , MD\nhttps://t.co/b5PrDHWFtB\n\n#백현 #BAEKHYUN\n#엑소 #EXO #weareoneEXO\n#BAEKHYUN_LIGHT\n#BeyondLIVE_BAEKHYUN_LIGHT\n#NAVER #VLIVE"
+	},
+	{
+		"created_at": "Fri Dec 25 07:29:50 +0000 2020",
+		"id": 1342368888978174000,
+		"id_str": "1342371963520634880",
+		"full_text": "[Beyond LIVE –BAEKHYUN : LIGHT] VCR Making Film\n\n🎬https://t.co/IiGSFDIA23\n\n#백현 #BAEKHYUN\n#엑소 #EXO #weareoneEXO\n#BAEKHYUN_LIGHT\n#BeyondLIVE_BAEKHYUN_LIGHT\n#NAVER #VLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백현",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "BAEKHYUN",
+					"indices": [
+						79,
+						88
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "weareoneEXO",
+					"indices": [
+						98,
+						110
+					]
+				},
+				{
+					"text": "BAEKHYUN_LIGHT",
+					"indices": [
+						111,
+						126
+					]
+				},
+				{
+					"text": "BeyondLIVE_BAEKHYUN_LIGHT",
+					"indices": [
+						127,
+						153
+					]
+				},
+				{
+					"text": "NAVER",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						161,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IiGSFDIA23",
+					"expanded_url": "https://youtu.be/eUp5jJ6-Rp8",
+					"display_url": "youtu.be/eUp5jJ6-Rp8",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8811950,
+			"friends_count": 53,
+			"listed_count": 8619,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1817,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 466,
+		"favorite_count": 2918,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Beyond LIVE –BAEKHYUN : LIGHT] VCR Making Film\n\n🎬https://t.co/IiGSFDIA23\n\n#백현 #BAEKHYUN\n#엑소 #EXO #weareoneEXO\n#BAEKHYUN_LIGHT\n#BeyondLIVE_BAEKHYUN_LIGHT\n#NAVER #VLIVE"
+	},
+	{
+		"created_at": "Fri Dec 25 07:29:44 +0000 2020",
+		"id": 1342364453065478100,
+		"id_str": "1342371937876652032",
+		"full_text": "[#미스틱스토리] CHRISTMAS with MYSTIC STORY 🎄 \n\n미스틱스토리 아티스트들이 준비한 크리스마스 캐럴 '징글벨' 도착🎁 행복한 크리스마스 되세요🎅\n\n🔗https://t.co/2T2vHLLBn2\n\n #CHRISTMAS #MYSTICSTORY #김진수 #손태진 #퍼센트 #Percent https://t.co/4BXFrHTYda",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미스틱스토리",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "CHRISTMAS",
+					"indices": [
+						122,
+						132
+					]
+				},
+				{
+					"text": "MYSTICSTORY",
+					"indices": [
+						133,
+						145
+					]
+				},
+				{
+					"text": "김진수",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "손태진",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "퍼센트",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "Percent",
+					"indices": [
+						161,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2T2vHLLBn2",
+					"expanded_url": "http://youtu.be/f9cjA3JRYeg",
+					"display_url": "youtu.be/f9cjA3JRYeg",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1342086068644933600,
+					"id_str": "1342086068644933632",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1342086068644933632/pu/img/BkWpEKr1FrCFAA2V.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1342086068644933632/pu/img/BkWpEKr1FrCFAA2V.jpg",
+					"url": "https://t.co/4BXFrHTYda",
+					"display_url": "pic.twitter.com/4BXFrHTYda",
+					"expanded_url": "https://twitter.com/themysticstory/status/1342364453065478144/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342086068644933600,
+					"id_str": "1342086068644933632",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1342086068644933632/pu/img/BkWpEKr1FrCFAA2V.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1342086068644933632/pu/img/BkWpEKr1FrCFAA2V.jpg",
+					"url": "https://t.co/4BXFrHTYda",
+					"display_url": "pic.twitter.com/4BXFrHTYda",
+					"expanded_url": "https://twitter.com/themysticstory/status/1342364453065478144/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 58042,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1342086068644933632/pu/vid/1280x720/djLpGz69g66YMgpx.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1342086068644933632/pu/vid/640x360/MJoIe1osq_XegdrK.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1342086068644933632/pu/vid/480x270/XMnHSOvd1lWV3ARE.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1342086068644933632/pu/pl/wZ6LY_Gu0ZhGe7KG.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19921,
+			"friends_count": 18,
+			"listed_count": 230,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#미스틱스토리] CHRISTMAS with MYSTIC STORY 🎄 \n\n미스틱스토리 아티스트들이 준비한 크리스마스 캐럴 '징글벨' 도착🎁 행복한 크리스마스 되세요🎅\n\n🔗https://t.co/2T2vHLLBn2\n\n #CHRISTMAS #MYSTICSTORY #김진수 #손태진 #퍼센트 #Percent https://t.co/4BXFrHTYda"
+	},
+	{
+		"created_at": "Fri Dec 25 07:29:39 +0000 2020",
+		"id": 1342357899369037800,
+		"id_str": "1342371916376641536",
+		"full_text": "[VIET] Beyond LIVE - BAEKHYUN : LIGHT\n2021 / 01 / 03 SUN 3PM (KST)\n \n🎫 NAVER V LIVE Tickets\nhttps://t.co/3bkpCwZ5cq\n\n🎫 SMTOWN &amp;STORE Tickets , MD\nhttps://t.co/b5PrDHWFtB\n\n#백현 #BAEKHYUN\n#엑소 #EXO #weareoneEXO\n#BAEKHYUN_LIGHT\n#BeyondLIVE_BAEKHYUN_LIGHT\n#NAVER #VLIVE https://t.co/Fwx712g0Z5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백현",
+					"indices": [
+						175,
+						178
+					]
+				},
+				{
+					"text": "BAEKHYUN",
+					"indices": [
+						179,
+						188
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						189,
+						192
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						193,
+						197
+					]
+				},
+				{
+					"text": "weareoneEXO",
+					"indices": [
+						198,
+						210
+					]
+				},
+				{
+					"text": "BAEKHYUN_LIGHT",
+					"indices": [
+						211,
+						226
+					]
+				},
+				{
+					"text": "BeyondLIVE_BAEKHYUN_LIGHT",
+					"indices": [
+						227,
+						253
+					]
+				},
+				{
+					"text": "NAVER",
+					"indices": [
+						254,
+						260
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						261,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3bkpCwZ5cq",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000363",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/b5PrDHWFtB",
+					"expanded_url": "https://bit.ly/3pmpMPa",
+					"display_url": "bit.ly/3pmpMPa",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1342348020596134000,
+					"id_str": "1342348020596133889",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1342348020596133889/img/Axn5NKxrGHvhg8tc.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1342348020596133889/img/Axn5NKxrGHvhg8tc.jpg",
+					"url": "https://t.co/Fwx712g0Z5",
+					"display_url": "pic.twitter.com/Fwx712g0Z5",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1342357899369037824/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342348020596134000,
+					"id_str": "1342348020596133889",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1342348020596133889/img/Axn5NKxrGHvhg8tc.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1342348020596133889/img/Axn5NKxrGHvhg8tc.jpg",
+					"url": "https://t.co/Fwx712g0Z5",
+					"display_url": "pic.twitter.com/Fwx712g0Z5",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1342357899369037824/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 65357,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1342348020596133889/vid/480x270/ATt3ZM2RRALrFkyV.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1342348020596133889/vid/640x360/4aA_28oA4crvuut_.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1342348020596133889/vid/1280x720/8nj4s6EH6kUBbLgd.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1342348020596133889/pl/_DOMX2aYIljt09pK.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8811950,
+			"friends_count": 53,
+			"listed_count": 8619,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1817,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 409,
+		"favorite_count": 3322,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[VIET] Beyond LIVE - BAEKHYUN : LIGHT\n2021 / 01 / 03 SUN 3PM (KST)\n \n🎫 NAVER V LIVE Tickets\nhttps://t.co/3bkpCwZ5cq\n\n🎫 SMTOWN &amp;STORE Tickets , MD\nhttps://t.co/b5PrDHWFtB\n\n#백현 #BAEKHYUN\n#엑소 #EXO #weareoneEXO\n#BAEKHYUN_LIGHT\n#BeyondLIVE_BAEKHYUN_LIGHT\n#NAVER #VLIVE https://t.co/Fwx712g0Z5"
+	},
+	{
+		"created_at": "Fri Dec 25 07:29:31 +0000 2020",
+		"id": 1342357517850955800,
+		"id_str": "1342371882310508545",
+		"full_text": "[TH] Beyond LIVE - BAEKHYUN : LIGHT\n2021 / 01 / 03 SUN 3PM (KST)\n \n🎫 NAVER V LIVE Tickets\nhttps://t.co/3bkpCwZ5cq\n\n🎫 SMTOWN &amp;STORE Tickets , MD\nhttps://t.co/b5PrDHWFtB\n\n#백현 #BAEKHYUN\n#엑소 #EXO #weareoneEXO\n#BAEKHYUN_LIGHT\n#BeyondLIVE_BAEKHYUN_LIGHT\n#NAVER #VLIVE https://t.co/uYFkyBfSdN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백현",
+					"indices": [
+						173,
+						176
+					]
+				},
+				{
+					"text": "BAEKHYUN",
+					"indices": [
+						177,
+						186
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						187,
+						190
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						191,
+						195
+					]
+				},
+				{
+					"text": "weareoneEXO",
+					"indices": [
+						196,
+						208
+					]
+				},
+				{
+					"text": "BAEKHYUN_LIGHT",
+					"indices": [
+						209,
+						224
+					]
+				},
+				{
+					"text": "BeyondLIVE_BAEKHYUN_LIGHT",
+					"indices": [
+						225,
+						251
+					]
+				},
+				{
+					"text": "NAVER",
+					"indices": [
+						252,
+						258
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						259,
+						265
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3bkpCwZ5cq",
+					"expanded_url": "https://www.vlive.tv/product/ds00u00u00000363",
+					"display_url": "vlive.tv/product/ds00u0…",
+					"indices": [
+						90,
+						113
+					]
+				},
+				{
+					"url": "https://t.co/b5PrDHWFtB",
+					"expanded_url": "https://bit.ly/3pmpMPa",
+					"display_url": "bit.ly/3pmpMPa",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1342347985141649400,
+					"id_str": "1342347985141649409",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1342347985141649409/img/OymBQ2x_8TG89-LB.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1342347985141649409/img/OymBQ2x_8TG89-LB.jpg",
+					"url": "https://t.co/uYFkyBfSdN",
+					"display_url": "pic.twitter.com/uYFkyBfSdN",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1342357517850955777/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342347985141649400,
+					"id_str": "1342347985141649409",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1342347985141649409/img/OymBQ2x_8TG89-LB.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1342347985141649409/img/OymBQ2x_8TG89-LB.jpg",
+					"url": "https://t.co/uYFkyBfSdN",
+					"display_url": "pic.twitter.com/uYFkyBfSdN",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1342357517850955777/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 65816,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1342347985141649409/vid/480x270/vnuXGbBkILg-WDLT.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1342347985141649409/pl/sghOQ_SfJekZDvva.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1342347985141649409/vid/640x360/LhvCBvDX6Q0N2Dih.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1342347985141649409/vid/1280x720/j4VZjkjvfmaLfvB7.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8811950,
+			"friends_count": 53,
+			"listed_count": 8619,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1817,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 403,
+		"favorite_count": 2562,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[TH] Beyond LIVE - BAEKHYUN : LIGHT\n2021 / 01 / 03 SUN 3PM (KST)\n \n🎫 NAVER V LIVE Tickets\nhttps://t.co/3bkpCwZ5cq\n\n🎫 SMTOWN &amp;STORE Tickets , MD\nhttps://t.co/b5PrDHWFtB\n\n#백현 #BAEKHYUN\n#엑소 #EXO #weareoneEXO\n#BAEKHYUN_LIGHT\n#BeyondLIVE_BAEKHYUN_LIGHT\n#NAVER #VLIVE https://t.co/uYFkyBfSdN"
+	},
+	{
 		"created_at": "Fri Dec 25 06:58:14 +0000 2020",
 		"id": 1342355933293244400,
 		"id_str": "1342364011485081600",
