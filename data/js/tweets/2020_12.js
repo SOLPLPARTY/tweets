@@ -1,6 +1,305 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 25 09:29:33 +0000 2020",
+		"id": 1342394663211212800,
+		"id_str": "1342402090161885184",
+		"full_text": "[Concept Photo]\n⠀\n스무살 - 'Closer (Me Before You)' D-3\n2020.12.28. 6PM Release\n\n#스무살 #Closer #MeBeforeYou\n#20YearsOfAge #쇼파르뮤직 #ShofarMusic https://t.co/Ia0idBC23P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스무살",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "Closer",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "MeBeforeYou",
+					"indices": [
+						91,
+						103
+					]
+				},
+				{
+					"text": "20YearsOfAge",
+					"indices": [
+						104,
+						117
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "ShofarMusic",
+					"indices": [
+						125,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1342021233286684700,
+					"id_str": "1342021233286684672",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep_RM4sVoAAaXLN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep_RM4sVoAAaXLN.jpg",
+					"url": "https://t.co/Ia0idBC23P",
+					"display_url": "pic.twitter.com/Ia0idBC23P",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1342394663211212800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342021233286684700,
+					"id_str": "1342021233286684672",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep_RM4sVoAAaXLN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep_RM4sVoAAaXLN.jpg",
+					"url": "https://t.co/Ia0idBC23P",
+					"display_url": "pic.twitter.com/Ia0idBC23P",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1342394663211212800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1342021233290801200,
+					"id_str": "1342021233290801152",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep_RM4tUcAAgcdE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep_RM4tUcAAgcdE.jpg",
+					"url": "https://t.co/Ia0idBC23P",
+					"display_url": "pic.twitter.com/Ia0idBC23P",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1342394663211212800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1342021233290854400,
+					"id_str": "1342021233290854403",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep_RM4tVQAM8ybf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep_RM4tVQAM8ybf.jpg",
+					"url": "https://t.co/Ia0idBC23P",
+					"display_url": "pic.twitter.com/Ia0idBC23P",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1342394663211212800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다.\n가수 스웨덴세탁소, 볼빨간사춘기, 김지수,\n스무살, 보라미유, WH3N, 최유리 소속사\nhttps://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7973,
+			"friends_count": 4,
+			"listed_count": 65,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1608776544",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Concept Photo]\n⠀\n스무살 - 'Closer (Me Before You)' D-3\n2020.12.28. 6PM Release\n\n#스무살 #Closer #MeBeforeYou\n#20YearsOfAge #쇼파르뮤직 #ShofarMusic https://t.co/Ia0idBC23P"
+	},
+	{
 		"created_at": "Fri Dec 25 09:15:52 +0000 2020",
 		"id": 1342398645572939800,
 		"id_str": "1342398645572939776",
