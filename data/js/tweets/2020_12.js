@@ -1,6 +1,683 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 25 13:58:38 +0000 2020",
+		"id": 1342466071308071000,
+		"id_str": "1342469808361791488",
+		"full_text": "🦚💓",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			2
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬픔의케이팝파티",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/y66RIP08rM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y66RIP08rM",
+							"expanded_url": "https://instagram.com/seulpeumkpop?utm_source=ig_profile_share&igshid=levuw48ktbga",
+							"display_url": "instagram.com/seulpeumkpop?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7436,
+			"friends_count": 31,
+			"listed_count": 20,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1572341650",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "🦚💓"
+	},
+	{
+		"created_at": "Fri Dec 25 13:58:36 +0000 2020",
+		"id": 1342465117783433200,
+		"id_str": "1342469799444697088",
+		"full_text": "루돌프!!! 일어나!!!!! https://t.co/zzdixc6l0P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1342465109231210500,
+					"id_str": "1342465109231210497",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/EqFk53cVEAEQrTf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqFk53cVEAEQrTf.jpg",
+					"url": "https://t.co/zzdixc6l0P",
+					"display_url": "pic.twitter.com/zzdixc6l0P",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1342465117783433217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 790,
+							"h": 427,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 790,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342465109231210500,
+					"id_str": "1342465109231210497",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/EqFk53cVEAEQrTf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqFk53cVEAEQrTf.jpg",
+					"url": "https://t.co/zzdixc6l0P",
+					"display_url": "pic.twitter.com/zzdixc6l0P",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1342465117783433217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 790,
+							"h": 427,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 790,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬픔의케이팝파티",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/y66RIP08rM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y66RIP08rM",
+							"expanded_url": "https://instagram.com/seulpeumkpop?utm_source=ig_profile_share&igshid=levuw48ktbga",
+							"display_url": "instagram.com/seulpeumkpop?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7436,
+			"friends_count": 31,
+			"listed_count": 20,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1572341650",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "루돌프!!! 일어나!!!!! https://t.co/zzdixc6l0P"
+	},
+	{
+		"created_at": "Fri Dec 25 13:58:34 +0000 2020",
+		"id": 1342464994839949300,
+		"id_str": "1342469790603079680",
+		"full_text": "오늘의 MVP는 루돌프와 산타입니다\n(두분 다 디제이라는건 안비밀.~~~~!!) https://t.co/umcQMwIjo2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1342464987856392200,
+					"id_str": "1342464987856392194",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/EqFkyzSUUAI_gYA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqFkyzSUUAI_gYA.jpg",
+					"url": "https://t.co/umcQMwIjo2",
+					"display_url": "pic.twitter.com/umcQMwIjo2",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1342464994839949312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 827,
+							"h": 827,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 827,
+							"h": 827,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342464987856392200,
+					"id_str": "1342464987856392194",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/EqFkyzSUUAI_gYA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqFkyzSUUAI_gYA.jpg",
+					"url": "https://t.co/umcQMwIjo2",
+					"display_url": "pic.twitter.com/umcQMwIjo2",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1342464994839949312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 827,
+							"h": 827,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 827,
+							"h": 827,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1342464987869016000,
+					"id_str": "1342464987869016066",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/media/EqFkyzVU8AI5uB1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqFkyzVU8AI5uB1.jpg",
+					"url": "https://t.co/umcQMwIjo2",
+					"display_url": "pic.twitter.com/umcQMwIjo2",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1342464994839949312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬픔의케이팝파티",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/y66RIP08rM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y66RIP08rM",
+							"expanded_url": "https://instagram.com/seulpeumkpop?utm_source=ig_profile_share&igshid=levuw48ktbga",
+							"display_url": "instagram.com/seulpeumkpop?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7436,
+			"friends_count": 31,
+			"listed_count": 20,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1572341650",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘의 MVP는 루돌프와 산타입니다\n(두분 다 디제이라는건 안비밀.~~~~!!) https://t.co/umcQMwIjo2"
+	},
+	{
+		"created_at": "Fri Dec 25 13:58:31 +0000 2020",
+		"id": 1342464128598732800,
+		"id_str": "1342469777458081792",
+		"full_text": "실트 #슬케파 도 감사합니다 💗 조금만 더 놀고 같이 자러 가요 ~ 리트윗 이벤트 당첨자는 내일 오후에 랜덤 추첨 후 발표하겠습니다! 감사합니다 💫",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬케파",
+					"indices": [
+						3,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬픔의케이팝파티",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/y66RIP08rM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y66RIP08rM",
+							"expanded_url": "https://instagram.com/seulpeumkpop?utm_source=ig_profile_share&igshid=levuw48ktbga",
+							"display_url": "instagram.com/seulpeumkpop?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7436,
+			"friends_count": 31,
+			"listed_count": 20,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1572341650",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "실트 #슬케파 도 감사합니다 💗 조금만 더 놀고 같이 자러 가요 ~ 리트윗 이벤트 당첨자는 내일 오후에 랜덤 추첨 후 발표하겠습니다! 감사합니다 💫"
+	},
+	{
+		"created_at": "Fri Dec 25 13:58:22 +0000 2020",
+		"id": 1342462851227652000,
+		"id_str": "1342469738698584064",
+		"full_text": "혹시 아직도 여운이 남으시나요? 조금 더 할까요?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬픔의케이팝파티",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/y66RIP08rM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y66RIP08rM",
+							"expanded_url": "https://instagram.com/seulpeumkpop?utm_source=ig_profile_share&igshid=levuw48ktbga",
+							"display_url": "instagram.com/seulpeumkpop?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7436,
+			"friends_count": 31,
+			"listed_count": 20,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1572341650",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "혹시 아직도 여운이 남으시나요? 조금 더 할까요?"
+	},
+	{
 		"created_at": "Fri Dec 25 12:58:31 +0000 2020",
 		"id": 1342448418757570600,
 		"id_str": "1342454678639009793",
