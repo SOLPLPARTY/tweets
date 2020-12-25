@@ -1,6 +1,960 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 25 12:58:31 +0000 2020",
+		"id": 1342448418757570600,
+		"id_str": "1342454678639009793",
+		"full_text": "슬케파가 아니라면 들을 수 없는 넷갈라의 케이팝 믹스! 지금 가장 세련된 케이팝 믹스와 이밤을 chill하고 싶다면 주저말고 와주세요!! 첫곡은 fx입니다!\n\nlisten only on\nhttps://t.co/sixk9xREwP @kr_now https://t.co/H0MzdzJk5k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kr_now",
+					"name": "NOW.",
+					"id": 1159646410414817300,
+					"id_str": "1159646410414817281",
+					"indices": [
+						128,
+						135
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sixk9xREwP",
+					"expanded_url": "https://now.naver.com/883",
+					"display_url": "now.naver.com/883",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1342448410037645300,
+					"id_str": "1342448410037645315",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EqFVt2GU8AMITLY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqFVt2GU8AMITLY.jpg",
+					"url": "https://t.co/H0MzdzJk5k",
+					"display_url": "pic.twitter.com/H0MzdzJk5k",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1342448418757570560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 529,
+							"h": 353,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 529,
+							"h": 353,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 529,
+							"h": 353,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342448410037645300,
+					"id_str": "1342448410037645315",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EqFVt2GU8AMITLY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqFVt2GU8AMITLY.jpg",
+					"url": "https://t.co/H0MzdzJk5k",
+					"display_url": "pic.twitter.com/H0MzdzJk5k",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1342448418757570560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 529,
+							"h": 353,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 529,
+							"h": 353,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 529,
+							"h": 353,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬픔의케이팝파티",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/y66RIP08rM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y66RIP08rM",
+							"expanded_url": "https://instagram.com/seulpeumkpop?utm_source=ig_profile_share&igshid=levuw48ktbga",
+							"display_url": "instagram.com/seulpeumkpop?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7397,
+			"friends_count": 31,
+			"listed_count": 20,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1572341650",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬케파가 아니라면 들을 수 없는 넷갈라의 케이팝 믹스! 지금 가장 세련된 케이팝 믹스와 이밤을 chill하고 싶다면 주저말고 와주세요!! 첫곡은 fx입니다!\n\nlisten only on\nhttps://t.co/sixk9xREwP @kr_now https://t.co/H0MzdzJk5k"
+	},
+	{
+		"created_at": "Fri Dec 25 12:58:24 +0000 2020",
+		"id": 1342447511722606600,
+		"id_str": "1342454648779714565",
+		"full_text": "GCM이 만든 광란의 케이팝 셋이 마무리 되고 있습니다! 심혈을 기울여 만든 마지막 곡은! All I Want for Christmas Is Not a Man 입니다!\n지금 바로 듣기! \n\nlisten only on\nhttps://t.co/sixk9xREwP @kr_now https://t.co/90cfYtYQZL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kr_now",
+					"name": "NOW.",
+					"id": 1159646410414817300,
+					"id_str": "1159646410414817281",
+					"indices": [
+						145,
+						152
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sixk9xREwP",
+					"expanded_url": "https://now.naver.com/883",
+					"display_url": "now.naver.com/883",
+					"indices": [
+						121,
+						144
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1342447500880269300,
+					"id_str": "1342447500880269312",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EqFU47OUUAArxkD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqFU47OUUAArxkD.jpg",
+					"url": "https://t.co/90cfYtYQZL",
+					"display_url": "pic.twitter.com/90cfYtYQZL",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1342447511722606592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 827,
+							"h": 603,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 827,
+							"h": 603,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 496,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342447500880269300,
+					"id_str": "1342447500880269312",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EqFU47OUUAArxkD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqFU47OUUAArxkD.jpg",
+					"url": "https://t.co/90cfYtYQZL",
+					"display_url": "pic.twitter.com/90cfYtYQZL",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1342447511722606592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 827,
+							"h": 603,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 827,
+							"h": 603,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 496,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬픔의케이팝파티",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/y66RIP08rM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y66RIP08rM",
+							"expanded_url": "https://instagram.com/seulpeumkpop?utm_source=ig_profile_share&igshid=levuw48ktbga",
+							"display_url": "instagram.com/seulpeumkpop?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7397,
+			"friends_count": 31,
+			"listed_count": 20,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1572341650",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "GCM이 만든 광란의 케이팝 셋이 마무리 되고 있습니다! 심혈을 기울여 만든 마지막 곡은! All I Want for Christmas Is Not a Man 입니다!\n지금 바로 듣기! \n\nlisten only on\nhttps://t.co/sixk9xREwP @kr_now https://t.co/90cfYtYQZL"
+	},
+	{
+		"created_at": "Fri Dec 25 12:58:15 +0000 2020",
+		"id": 1342440157824225300,
+		"id_str": "1342454610410266624",
+		"full_text": "이제까지 본적없던 빠르고 신나는 케이팝 디제잉을 즐기고 싶으신가요? 지금 GCM의 셋이 시작됐습니다! 오빤쓰레기!!가 기다리고 있으니 지금 빨리 모여주세요!!\n\nlisten only on\nhttps://t.co/sixk9xREwP @kr_now https://t.co/53q5vAYbkW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kr_now",
+					"name": "NOW.",
+					"id": 1159646410414817300,
+					"id_str": "1159646410414817281",
+					"indices": [
+						129,
+						136
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sixk9xREwP",
+					"expanded_url": "https://now.naver.com/883",
+					"display_url": "now.naver.com/883",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1342440151520170000,
+					"id_str": "1342440151520169984",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/EqFONIuU0AAMpMv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqFONIuU0AAMpMv.jpg",
+					"url": "https://t.co/53q5vAYbkW",
+					"display_url": "pic.twitter.com/53q5vAYbkW",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1342440157824225280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 179,
+							"h": 179,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 179,
+							"h": 179,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 179,
+							"h": 179,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342440151520170000,
+					"id_str": "1342440151520169984",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/EqFONIuU0AAMpMv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqFONIuU0AAMpMv.jpg",
+					"url": "https://t.co/53q5vAYbkW",
+					"display_url": "pic.twitter.com/53q5vAYbkW",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1342440157824225280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 179,
+							"h": 179,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 179,
+							"h": 179,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 179,
+							"h": 179,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬픔의케이팝파티",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/y66RIP08rM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y66RIP08rM",
+							"expanded_url": "https://instagram.com/seulpeumkpop?utm_source=ig_profile_share&igshid=levuw48ktbga",
+							"display_url": "instagram.com/seulpeumkpop?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7397,
+			"friends_count": 31,
+			"listed_count": 20,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1572341650",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이제까지 본적없던 빠르고 신나는 케이팝 디제잉을 즐기고 싶으신가요? 지금 GCM의 셋이 시작됐습니다! 오빤쓰레기!!가 기다리고 있으니 지금 빨리 모여주세요!!\n\nlisten only on\nhttps://t.co/sixk9xREwP @kr_now https://t.co/53q5vAYbkW"
+	},
+	{
+		"created_at": "Fri Dec 25 12:29:35 +0000 2020",
+		"id": 1342432679602446300,
+		"id_str": "1342447397813805061",
+		"full_text": "[2020 가요대전]\n이적x주헌x아이엠 - 돌팔매\n🔗 https://t.co/Qws7Bfzi2i\n\n@jucklee #이적 #LEEJUCK #돌팔매",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이적",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "LEEJUCK",
+					"indices": [
+						68,
+						76
+					]
+				},
+				{
+					"text": "돌팔매",
+					"indices": [
+						77,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jucklee",
+					"name": "이적 Juck Lee",
+					"id": 51315123,
+					"id_str": "51315123",
+					"indices": [
+						55,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Qws7Bfzi2i",
+					"expanded_url": "http://naver.me/FGoQxDO8",
+					"display_url": "naver.me/FGoQxDO8",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1342432293059588000,
+		"in_reply_to_status_id_str": "1342432293059588096",
+		"in_reply_to_user_id": 387577661,
+		"in_reply_to_user_id_str": "387577661",
+		"in_reply_to_screen_name": "musicfarmkorea",
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언 / Official YouTube Channel https://t.co/gTSbPm12G9",
+			"url": "https://t.co/eSVSBHrncV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSVSBHrncV",
+							"expanded_url": "http://www.instagram.com/musicfarmkorea",
+							"display_url": "instagram.com/musicfarmkorea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gTSbPm12G9",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								44,
+								67
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9201,
+			"friends_count": 4,
+			"listed_count": 109,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 768,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1357424393",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2020 가요대전]\n이적x주헌x아이엠 - 돌팔매\n🔗 https://t.co/Qws7Bfzi2i\n\n@jucklee #이적 #LEEJUCK #돌팔매"
+	},
+	{
+		"created_at": "Fri Dec 25 12:29:29 +0000 2020",
+		"id": 1342432567299952600,
+		"id_str": "1342447372211810304",
+		"full_text": "안테나와 함께하는 메리크리스마스! 🎄\nMerry Christmas with Antenna! 💛\n\n2021년엔 더 좋은 일들이,\n행복한 일들이 우릴 기다릴 거예요!\n\nOur Christmas Wish For You -\nEverything Is OK, with Antenna 💛\n\n-\n\n🎁 더 많은 &lt;겨울의 우리들&gt; 보러가기\n👉 https://t.co/4qKGOCleyP https://t.co/yWX2p10E03",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4qKGOCleyP",
+					"expanded_url": "https://www.instagram.com/antenna_official/",
+					"display_url": "instagram.com/antenna_offici…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1342432557854380000,
+					"id_str": "1342432557854380032",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/EqFHTIHUUAAm3_r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqFHTIHUUAAm3_r.jpg",
+					"url": "https://t.co/yWX2p10E03",
+					"display_url": "pic.twitter.com/yWX2p10E03",
+					"expanded_url": "https://twitter.com/antennamusic/status/1342432567299952640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342432557854380000,
+					"id_str": "1342432557854380032",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/EqFHTIHUUAAm3_r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqFHTIHUUAAm3_r.jpg",
+					"url": "https://t.co/yWX2p10E03",
+					"display_url": "pic.twitter.com/yWX2p10E03",
+					"expanded_url": "https://twitter.com/antennamusic/status/1342432567299952640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1342432557854466000,
+					"id_str": "1342432557854466048",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/EqFHTIHVoAArQdH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqFHTIHVoAArQdH.jpg",
+					"url": "https://t.co/yWX2p10E03",
+					"display_url": "pic.twitter.com/yWX2p10E03",
+					"expanded_url": "https://twitter.com/antennamusic/status/1342432567299952640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official / 2020 안테나 크리스마스 캐럴 ‘겨울의 우리들’ Release!",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35253,
+			"friends_count": 10,
+			"listed_count": 368,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1608569605",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 117,
+		"favorite_count": 164,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안테나와 함께하는 메리크리스마스! 🎄\nMerry Christmas with Antenna! 💛\n\n2021년엔 더 좋은 일들이,\n행복한 일들이 우릴 기다릴 거예요!\n\nOur Christmas Wish For You -\nEverything Is OK, with Antenna 💛\n\n-\n\n🎁 더 많은 &lt;겨울의 우리들&gt; 보러가기\n👉 https://t.co/4qKGOCleyP https://t.co/yWX2p10E03"
+	},
+	{
 		"created_at": "Fri Dec 25 11:58:32 +0000 2020",
 		"id": 1342439127057219600,
 		"id_str": "1342439583414439936",
@@ -587,7 +1541,7 @@ Grailbird.data.tweets_2020_12 =
 		"created_at": "Fri Dec 25 11:58:22 +0000 2020",
 		"id": 1342432758186983400,
 		"id_str": "1342439540070477825",
-		"full_text": "DJ manna의 타임이 끝나고 있습니다! manna 타임의 마무리는 여성시대의 원더우먼 🦸🏻‍♀️ 입니다!\n\nlisten only on\nhttps://t.co/sixk9xREwP @kr_now https://t.co/O4MTLhQu5m",
+		"full_text": "DJ manna의 타임이 끝나고 있습니다! manna 타임의 마무리는 여성시대의 원더우먼 🦸🏻♀️ 입니다!\n\nlisten only on\nhttps://t.co/sixk9xREwP @kr_now https://t.co/O4MTLhQu5m",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -776,7 +1730,7 @@ Grailbird.data.tweets_2020_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "DJ manna의 타임이 끝나고 있습니다! manna 타임의 마무리는 여성시대의 원더우먼 🦸🏻‍♀️ 입니다!\n\nlisten only on\nhttps://t.co/sixk9xREwP @kr_now https://t.co/O4MTLhQu5m"
+		"text": "DJ manna의 타임이 끝나고 있습니다! manna 타임의 마무리는 여성시대의 원더우먼 🦸🏻♀️ 입니다!\n\nlisten only on\nhttps://t.co/sixk9xREwP @kr_now https://t.co/O4MTLhQu5m"
 	},
 	{
 		"created_at": "Fri Dec 25 11:58:15 +0000 2020",
