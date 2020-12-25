@@ -1,6 +1,899 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 25 10:58:25 +0000 2020",
+		"id": 1342422697934946300,
+		"id_str": "1342424453259669504",
+		"full_text": "슬케파 크리스마스 라이브 10분 뒤 시작입니다! \n미리 사전에 접속하실 수 있어요!\n\n본 트윗을 리트윗 하신 분 중 두 분을 추첨해 이솝 레져렉션 아로마틱 핸드워시를 증정합니다!\n\n그럼 함께 슬프러 가BoA영 🐌🎄\nhttps://t.co/sixk9xREwP https://t.co/XRAriZydPw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sixk9xREwP",
+					"expanded_url": "https://now.naver.com/883",
+					"display_url": "now.naver.com/883",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1342422687956623400,
+					"id_str": "1342422687956623360",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/EqE-Un4UYAAqANV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqE-Un4UYAAqANV.jpg",
+					"url": "https://t.co/XRAriZydPw",
+					"display_url": "pic.twitter.com/XRAriZydPw",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1342422697934946313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342422687956623400,
+					"id_str": "1342422687956623360",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/EqE-Un4UYAAqANV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqE-Un4UYAAqANV.jpg",
+					"url": "https://t.co/XRAriZydPw",
+					"display_url": "pic.twitter.com/XRAriZydPw",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1342422697934946313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬픔의케이팝파티",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/y66RIP08rM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y66RIP08rM",
+							"expanded_url": "https://instagram.com/seulpeumkpop?utm_source=ig_profile_share&igshid=levuw48ktbga",
+							"display_url": "instagram.com/seulpeumkpop?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7361,
+			"friends_count": 31,
+			"listed_count": 20,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 863,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1572341650",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 427,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬케파 크리스마스 라이브 10분 뒤 시작입니다! \n미리 사전에 접속하실 수 있어요!\n\n본 트윗을 리트윗 하신 분 중 두 분을 추첨해 이솝 레져렉션 아로마틱 핸드워시를 증정합니다!\n\n그럼 함께 슬프러 가BoA영 🐌🎄\nhttps://t.co/sixk9xREwP https://t.co/XRAriZydPw"
+	},
+	{
+		"created_at": "Fri Dec 25 10:58:22 +0000 2020",
+		"id": 1342416682665476000,
+		"id_str": "1342424440215367681",
+		"full_text": "https://t.co/TfAwiacgt8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1342416669398843400,
+					"id_str": "1342416669398843398",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EqE42TAUwAYdf2g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqE42TAUwAYdf2g.jpg",
+					"url": "https://t.co/TfAwiacgt8",
+					"display_url": "pic.twitter.com/TfAwiacgt8",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1342416682665476098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342416669398843400,
+					"id_str": "1342416669398843398",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EqE42TAUwAYdf2g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqE42TAUwAYdf2g.jpg",
+					"url": "https://t.co/TfAwiacgt8",
+					"display_url": "pic.twitter.com/TfAwiacgt8",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1342416682665476098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬픔의케이팝파티",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/y66RIP08rM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y66RIP08rM",
+							"expanded_url": "https://instagram.com/seulpeumkpop?utm_source=ig_profile_share&igshid=levuw48ktbga",
+							"display_url": "instagram.com/seulpeumkpop?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7361,
+			"friends_count": 31,
+			"listed_count": 20,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 863,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1572341650",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/TfAwiacgt8"
+	},
+	{
+		"created_at": "Fri Dec 25 10:58:15 +0000 2020",
+		"id": 1342411945756901400,
+		"id_str": "1342424410364510209",
+		"full_text": "슬케파는? 아는 케이팝 명곡들이 잔뜩 나오는 파티!!이기도 하지만 몰랐던 케이팝을 새로운 방식으로 접하기 좋은 케이팝 🎧디제잉🎧 파티 입니다! 다섯명의 디제이가 만든 150분의 꽉찬 시간을 함께 즐겨주세요! 근사한 술이 있으면 좋겠지만 없어도 깡생수로 GOGO!! 1시간 뒤에 만나요! https://t.co/5Z1S2HO0Ly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1342411935535386600,
+					"id_str": "1342411935535386624",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EqE0iv_U0AAza5R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqE0iv_U0AAza5R.jpg",
+					"url": "https://t.co/5Z1S2HO0Ly",
+					"display_url": "pic.twitter.com/5Z1S2HO0Ly",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1342411945756901376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 518,
+							"h": 387,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 518,
+							"h": 387,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 518,
+							"h": 387,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342411935535386600,
+					"id_str": "1342411935535386624",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EqE0iv_U0AAza5R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqE0iv_U0AAza5R.jpg",
+					"url": "https://t.co/5Z1S2HO0Ly",
+					"display_url": "pic.twitter.com/5Z1S2HO0Ly",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1342411945756901376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 518,
+							"h": 387,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 518,
+							"h": 387,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 518,
+							"h": 387,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬픔의케이팝파티",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/y66RIP08rM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y66RIP08rM",
+							"expanded_url": "https://instagram.com/seulpeumkpop?utm_source=ig_profile_share&igshid=levuw48ktbga",
+							"display_url": "instagram.com/seulpeumkpop?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7361,
+			"friends_count": 31,
+			"listed_count": 20,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 863,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1572341650",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬케파는? 아는 케이팝 명곡들이 잔뜩 나오는 파티!!이기도 하지만 몰랐던 케이팝을 새로운 방식으로 접하기 좋은 케이팝 🎧디제잉🎧 파티 입니다! 다섯명의 디제이가 만든 150분의 꽉찬 시간을 함께 즐겨주세요! 근사한 술이 있으면 좋겠지만 없어도 깡생수로 GOGO!! 1시간 뒤에 만나요! https://t.co/5Z1S2HO0Ly"
+	},
+	{
+		"created_at": "Fri Dec 25 10:29:30 +0000 2020",
+		"id": 1342410714216992800,
+		"id_str": "1342417176104415233",
+		"full_text": "[티저]\n소란 10주년 기념 다큐멘터리 「A Decade of SORAN」\n소란의 코멘터리와 함께 12월 28일 공개됩니다!\n\n🔗 https://t.co/LmMvus3gLm https://t.co/h7guUH1P6a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LmMvus3gLm",
+					"expanded_url": "http://youtu.be/sayqtQsWGLM",
+					"display_url": "youtu.be/sayqtQsWGLM",
+					"indices": [
+						73,
+						96
+					]
+				},
+				{
+					"url": "https://t.co/h7guUH1P6a",
+					"expanded_url": "https://twitter.com/band_SORAN/status/1342410003584577536",
+					"display_url": "twitter.com/band_SORAN/sta…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스, 소란, 노리플라이, 쏜애플, LambC, SURL, OurR",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13049,
+			"friends_count": 1950,
+			"listed_count": 255,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13161,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1342410003584577500,
+		"quoted_status_id_str": "1342410003584577536",
+		"quoted_status_permalink": {
+			"url": "https://t.co/h7guUH1P6a",
+			"expanded": "https://twitter.com/band_SORAN/status/1342410003584577536",
+			"display": "twitter.com/band_SORAN/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 25 10:01:00 +0000 2020",
+			"id": 1342410003584577500,
+			"id_str": "1342410003584577536",
+			"full_text": "소란 10주년 기념 다큐멘터리 「A Decade of SORAN」 TEASER\n\n지금의 소란을 있게 만들어 준 소라너들을 위한 10주년 기념 다큐멘터리✨\n풀버전은 28일에 공개됩니다! 소라너 모두 메리 크리스마스 되세요🎄\n\n🔗 https://t.co/pzi5awvJnq\n\n#소란 #SORAN #ADecadeofSORAN https://t.co/heacCZL4k7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				178
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "소란",
+						"indices": [
+							152,
+							155
+						]
+					},
+					{
+						"text": "SORAN",
+						"indices": [
+							156,
+							162
+						]
+					},
+					{
+						"text": "ADecadeofSORAN",
+						"indices": [
+							163,
+							178
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pzi5awvJnq",
+						"expanded_url": "http://youtu.be/sayqtQsWGLM",
+						"display_url": "youtu.be/sayqtQsWGLM",
+						"indices": [
+							127,
+							150
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1342390639154012200,
+						"id_str": "1342390639154012160",
+						"indices": [
+							179,
+							202
+						],
+						"media_url": "http://pbs.twimg.com/media/EqEhhLdVEAArwZE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EqEhhLdVEAArwZE.jpg",
+						"url": "https://t.co/heacCZL4k7",
+						"display_url": "pic.twitter.com/heacCZL4k7",
+						"expanded_url": "https://twitter.com/band_SORAN/status/1342410003584577536/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1342390639154012200,
+						"id_str": "1342390639154012160",
+						"indices": [
+							179,
+							202
+						],
+						"media_url": "http://pbs.twimg.com/media/EqEhhLdVEAArwZE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EqEhhLdVEAArwZE.jpg",
+						"url": "https://t.co/heacCZL4k7",
+						"display_url": "pic.twitter.com/heacCZL4k7",
+						"expanded_url": "https://twitter.com/band_SORAN/status/1342410003584577536/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 42793,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1342390639154012160/pl/ckfJ4waRnVqnBvzN.m3u8?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1342390639154012160/vid/640x360/m0ozl8cOeb8gwGNa.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1342390639154012160/vid/480x270/uOi0jvXjDNs1siLo.mp4?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1342390639154012160/vid/1280x720/5aZ1isij3AkcjY6D.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "소란 10주년 기념 다큐멘터리 「A Decade of SORAN」 TEASER",
+							"description": "SORAN\nVocal, Chorus / 고영배\nBass / 서면호\nDrums / 편유일\nGuitars / 이태욱",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3235980565,
+				"id_str": "3235980565",
+				"name": "소란(SORAN)_오피셜",
+				"screen_name": "band_SORAN",
+				"location": "",
+				"description": "SORAN Official Twitter / Vocal 고영배 / Bass 서면호 / Drums 편유일 / Guitars 이태욱",
+				"url": "https://t.co/WPmQdjeHQ7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WPmQdjeHQ7",
+								"expanded_url": "http://www.youtube.com/bandsoran",
+								"display_url": "youtube.com/bandsoran",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3451,
+				"friends_count": 5,
+				"listed_count": 8,
+				"created_at": "Thu Jun 04 11:13:36 +0000 2015",
+				"favourites_count": 251,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1735,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1229628071625424896/utNjHow__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229628071625424896/utNjHow__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3235980565/1600767187",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 56,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[티저]\n소란 10주년 기념 다큐멘터리 「A Decade of SORAN」\n소란의 코멘터리와 함께 12월 28일 공개됩니다!\n\n🔗 https://t.co/LmMvus3gLm https://t.co/h7guUH1P6a"
+	},
+	{
 		"created_at": "Fri Dec 25 09:29:33 +0000 2020",
 		"id": 1342394663211212800,
 		"id_str": "1342402090161885184",
