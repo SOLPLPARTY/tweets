@@ -1,6 +1,283 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 26 09:29:25 +0000 2020",
+		"id": 1342757045280403500,
+		"id_str": "1342764443650945024",
+		"full_text": "Beyond LIVE - NCT : RESONANCE 'Global Wave’\n \n12/27 SUN 3PM (KST) \n12/26 SAT 10PM (PST) \n12/27 SUN 1AM (EST)\n \nKOR&gt; https://t.co/4VbRiWYnsF\nENG&gt; https://t.co/mR19rbdsZn\n \n#NCT  #RESONANCE #Beyond_LIVE\n#NCT2020_Beyond_LIVE\n#BeyondLIVE_NCT_RESONANCE_Global_Wave\n#VLIVE #NAVER https://t.co/Fk2FuTUVPh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NCT",
+					"indices": [
+						177,
+						181
+					]
+				},
+				{
+					"text": "RESONANCE",
+					"indices": [
+						183,
+						193
+					]
+				},
+				{
+					"text": "Beyond_LIVE",
+					"indices": [
+						194,
+						206
+					]
+				},
+				{
+					"text": "NCT2020_Beyond_LIVE",
+					"indices": [
+						207,
+						227
+					]
+				},
+				{
+					"text": "BeyondLIVE_NCT_RESONANCE_Global_Wave",
+					"indices": [
+						228,
+						265
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						266,
+						272
+					]
+				},
+				{
+					"text": "NAVER",
+					"indices": [
+						273,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4VbRiWYnsF",
+					"expanded_url": "http://asq.kr/KOCXAch1gltqBW",
+					"display_url": "asq.kr/KOCXAch1gltqBW",
+					"indices": [
+						119,
+						142
+					]
+				},
+				{
+					"url": "https://t.co/mR19rbdsZn",
+					"expanded_url": "http://asq.kr/FMGAUn8wSvVCX9",
+					"display_url": "asq.kr/FMGAUn8wSvVCX9",
+					"indices": [
+						151,
+						174
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1342733811218489300,
+					"id_str": "1342733811218489345",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EqJbmg5VoAEUIsW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqJbmg5VoAEUIsW.jpg",
+					"url": "https://t.co/Fk2FuTUVPh",
+					"display_url": "pic.twitter.com/Fk2FuTUVPh",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1342757045280403456/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342733811218489300,
+					"id_str": "1342733811218489345",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EqJbmg5VoAEUIsW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqJbmg5VoAEUIsW.jpg",
+					"url": "https://t.co/Fk2FuTUVPh",
+					"display_url": "pic.twitter.com/Fk2FuTUVPh",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1342757045280403456/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 37771,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1342733811218489345/vid/1280x720/LV_P6KnlWM20QMKq.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1342733811218489345/vid/480x270/QQZt7yZxrABnXga8.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1342733811218489345/vid/640x360/hY6W1-AoHp7I8YOX.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1342733811218489345/pl/13Jji9zs7nit3vOf.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8816095,
+			"friends_count": 53,
+			"listed_count": 8624,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1817,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1938,
+		"favorite_count": 6893,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Beyond LIVE - NCT : RESONANCE 'Global Wave’\n \n12/27 SUN 3PM (KST) \n12/26 SAT 10PM (PST) \n12/27 SUN 1AM (EST)\n \nKOR&gt; https://t.co/4VbRiWYnsF\nENG&gt; https://t.co/mR19rbdsZn\n \n#NCT  #RESONANCE #Beyond_LIVE\n#NCT2020_Beyond_LIVE\n#BeyondLIVE_NCT_RESONANCE_Global_Wave\n#VLIVE #NAVER https://t.co/Fk2FuTUVPh"
+	},
+	{
 		"created_at": "Sat Dec 26 08:58:15 +0000 2020",
 		"id": 1342750970158039000,
 		"id_str": "1342756598897369088",
