@@ -1,6 +1,411 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 26 03:29:27 +0000 2020",
+		"id": 1342670721160364000,
+		"id_str": "1342673855735681025",
+		"full_text": "#귀울임\n[얼마나 더]\n\n그리움을 노래하다 ‘귀울임'의 새 싱글앨범 ‘얼마나 더’ 발매\n\n평소 발라드를 많이 발매했지만 이번 노래는 밴드 사운드와 함께 조금 더 애절함을 표현해봤어요. 마음이 잘 전달되어 공감됐으면 좋겠어요.\n\n✚ 앨범 자세히 보기: https://t.co/eqzAj47P3g https://t.co/fXS8NUtbbB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "귀울임",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eqzAj47P3g",
+					"expanded_url": "https://bit.ly/2Kwv2Rq",
+					"display_url": "bit.ly/2Kwv2Rq",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1341966042965237800,
+					"id_str": "1341966042965237760",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-fAYuUYAALieP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-fAYuUYAALieP.jpg",
+					"url": "https://t.co/fXS8NUtbbB",
+					"display_url": "pic.twitter.com/fXS8NUtbbB",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1342670721160364037/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341966042965237800,
+					"id_str": "1341966042965237760",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-fAYuUYAALieP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-fAYuUYAALieP.jpg",
+					"url": "https://t.co/fXS8NUtbbB",
+					"display_url": "pic.twitter.com/fXS8NUtbbB",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1342670721160364037/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9501,
+			"friends_count": 2865,
+			"listed_count": 248,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 954,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10500,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1603861113",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#귀울임\n[얼마나 더]\n\n그리움을 노래하다 ‘귀울임'의 새 싱글앨범 ‘얼마나 더’ 발매\n\n평소 발라드를 많이 발매했지만 이번 노래는 밴드 사운드와 함께 조금 더 애절함을 표현해봤어요. 마음이 잘 전달되어 공감됐으면 좋겠어요.\n\n✚ 앨범 자세히 보기: https://t.co/eqzAj47P3g https://t.co/fXS8NUtbbB"
+	},
+	{
+		"created_at": "Sat Dec 26 03:29:25 +0000 2020",
+		"id": 1342668755755679700,
+		"id_str": "1342673846701355008",
+		"full_text": "[Release]\n\n[Vol.79] 유희열의 스케치북 : 쉰 번째 목소리\n‘유스케 X 이적, #유희열, 윤종신, 10cm,\n잔나비, 마마무, #정승환’ - ‘걱정말아요 그대’\n\nLyrics by 전인권\nComposed by 전인권\nArranged by 이적\n\n전 온라인 음원 사이트에서 감상하실 수 있습니다 💛\n\n#유희열의스케치북 #걱정말아요그대 https://t.co/avGyc10bq0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유희열",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "유희열의스케치북",
+					"indices": [
+						175,
+						184
+					]
+				},
+				{
+					"text": "걱정말아요그대",
+					"indices": [
+						185,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1342668749472555000,
+					"id_str": "1342668749472555008",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EqIeHSdUYAA0SWh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqIeHSdUYAA0SWh.jpg",
+					"url": "https://t.co/avGyc10bq0",
+					"display_url": "pic.twitter.com/avGyc10bq0",
+					"expanded_url": "https://twitter.com/antennamusic/status/1342668755755679745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342668749472555000,
+					"id_str": "1342668749472555008",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EqIeHSdUYAA0SWh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqIeHSdUYAA0SWh.jpg",
+					"url": "https://t.co/avGyc10bq0",
+					"display_url": "pic.twitter.com/avGyc10bq0",
+					"expanded_url": "https://twitter.com/antennamusic/status/1342668755755679745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official / 2020 안테나 크리스마스 캐럴 ‘겨울의 우리들’ Release!",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35255,
+			"friends_count": 10,
+			"listed_count": 368,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1608569605",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release]\n\n[Vol.79] 유희열의 스케치북 : 쉰 번째 목소리\n‘유스케 X 이적, #유희열, 윤종신, 10cm,\n잔나비, 마마무, #정승환’ - ‘걱정말아요 그대’\n\nLyrics by 전인권\nComposed by 전인권\nArranged by 이적\n\n전 온라인 음원 사이트에서 감상하실 수 있습니다 💛\n\n#유희열의스케치북 #걱정말아요그대 https://t.co/avGyc10bq0"
+	},
+	{
 		"created_at": "Sat Dec 26 03:00:20 +0000 2020",
 		"id": 1342666526059593700,
 		"id_str": "1342666526059593731",
