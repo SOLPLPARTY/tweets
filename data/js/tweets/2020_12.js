@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 27 15:29:30 +0000 2020",
+		"id": 1343210026463330300,
+		"id_str": "1343217449622253570",
+		"full_text": "SMTOWN LIVE \"Culture Humanity\" Line-up Teaser\n\n➫ 01.01.21 1PM KST\n➫ 31.12.20 8PM PST\n➫ 31.12.20 11PM EST\n\n#SMTOWN_LIVE_Culture_Humanity\n#KANGTA #TVXQ! #SUPERJUNIOR #TAEYEON #TAEMIN #BAEKHYUN #KAI #RedVelvet\n#NCTU #NCT127 #NCTDREAM #WayV #SuperM #aespa #Raiden #GINJO #IMLAY https://t.co/X78EhlwWOx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_LIVE_Culture_Humanity",
+					"indices": [
+						106,
+						135
+					]
+				},
+				{
+					"text": "KANGTA",
+					"indices": [
+						136,
+						143
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						151,
+						163
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						164,
+						172
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						173,
+						180
+					]
+				},
+				{
+					"text": "BAEKHYUN",
+					"indices": [
+						181,
+						190
+					]
+				},
+				{
+					"text": "KAI",
+					"indices": [
+						191,
+						195
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						196,
+						206
+					]
+				},
+				{
+					"text": "NCTU",
+					"indices": [
+						207,
+						212
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						213,
+						220
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						221,
+						230
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						231,
+						236
+					]
+				},
+				{
+					"text": "SuperM",
+					"indices": [
+						237,
+						244
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						245,
+						251
+					]
+				},
+				{
+					"text": "Raiden",
+					"indices": [
+						252,
+						259
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						260,
+						266
+					]
+				},
+				{
+					"text": "IMLAY",
+					"indices": [
+						267,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1343155930205024300,
+					"id_str": "1343155930205024257",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/EqP3_tHUwAEVLOE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqP3_tHUwAEVLOE.jpg",
+					"url": "https://t.co/X78EhlwWOx",
+					"display_url": "pic.twitter.com/X78EhlwWOx",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1343210026463330305/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1343155930205024300,
+					"id_str": "1343155930205024257",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/EqP3_tHUwAEVLOE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqP3_tHUwAEVLOE.jpg",
+					"url": "https://t.co/X78EhlwWOx",
+					"display_url": "pic.twitter.com/X78EhlwWOx",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1343210026463330305/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 52970,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1343155930205024257/vid/480x270/Y3nMNDu_KPgPYOvi.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1343155930205024257/pl/0xYjbOy-2BMcNpyv.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1343155930205024257/vid/640x360/4qtb3Q5vYJSl95mt.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1343155930205024257/vid/1280x720/iqBRPEHY1MQDvGFA.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8822590,
+			"friends_count": 53,
+			"listed_count": 8631,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9319,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51727,
+		"favorite_count": 95252,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SMTOWN LIVE \"Culture Humanity\" Line-up Teaser\n\n➫ 01.01.21 1PM KST\n➫ 31.12.20 8PM PST\n➫ 31.12.20 11PM EST\n\n#SMTOWN_LIVE_Culture_Humanity\n#KANGTA #TVXQ! #SUPERJUNIOR #TAEYEON #TAEMIN #BAEKHYUN #KAI #RedVelvet\n#NCTU #NCT127 #NCTDREAM #WayV #SuperM #aespa #Raiden #GINJO #IMLAY https://t.co/X78EhlwWOx"
+	},
+	{
 		"created_at": "Sun Dec 27 15:10:03 +0000 2020",
 		"id": 1343212553481171000,
 		"id_str": "1343212553481170945",
