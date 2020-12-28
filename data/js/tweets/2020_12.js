@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 28 14:29:25 +0000 2020",
+		"id": 1343549678520991700,
+		"id_str": "1343564716564746240",
+		"full_text": "💌SMTOWN LIVE Ticket from #SuperM has arrived!\n\n➫ 01.01.21 1PM KST\n➫ 31.12.20 8PM PST\n➫ 31.12.20 11PM EST\n\n#SMTOWN_LIVE_Culture_Humanity\n#TAEMIN #BAEKHYUN #KAI #TEN #MARK #LUCAS \n#SMTOWN_LIVE #SMTOWN https://t.co/antJXJQWyX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SuperM",
+					"indices": [
+						25,
+						32
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE_Culture_Humanity",
+					"indices": [
+						106,
+						135
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						136,
+						143
+					]
+				},
+				{
+					"text": "BAEKHYUN",
+					"indices": [
+						144,
+						153
+					]
+				},
+				{
+					"text": "KAI",
+					"indices": [
+						154,
+						158
+					]
+				},
+				{
+					"text": "TEN",
+					"indices": [
+						159,
+						163
+					]
+				},
+				{
+					"text": "MARK",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "LUCAS",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						178,
+						190
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						191,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1343549466847035400,
+					"id_str": "1343549466847035392",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EqU_HyWVQAAKk-o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqU_HyWVQAAKk-o.jpg",
+					"url": "https://t.co/antJXJQWyX",
+					"display_url": "pic.twitter.com/antJXJQWyX",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1343549678520991744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 565,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1976,
+							"h": 930,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1343549466847035400,
+					"id_str": "1343549466847035392",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EqU_HyWVQAAKk-o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqU_HyWVQAAKk-o.jpg",
+					"url": "https://t.co/antJXJQWyX",
+					"display_url": "pic.twitter.com/antJXJQWyX",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1343549678520991744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 565,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1976,
+							"h": 930,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8835110,
+			"friends_count": 53,
+			"listed_count": 8647,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17487,
+		"favorite_count": 45332,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💌SMTOWN LIVE Ticket from #SuperM has arrived!\n\n➫ 01.01.21 1PM KST\n➫ 31.12.20 8PM PST\n➫ 31.12.20 11PM EST\n\n#SMTOWN_LIVE_Culture_Humanity\n#TAEMIN #BAEKHYUN #KAI #TEN #MARK #LUCAS \n#SMTOWN_LIVE #SMTOWN https://t.co/antJXJQWyX"
+	},
+	{
 		"created_at": "Mon Dec 28 13:29:51 +0000 2020",
 		"id": 1343549283828596700,
 		"id_str": "1343549725002395648",
