@@ -1,6 +1,926 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 28 04:12:36 +0000 2020",
+		"id": 1343409491216396300,
+		"id_str": "1343409491216396288",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n🥇🏆 2020 워너뮤직 베스트 라인업 20 🏆🥇\nhttps://t.co/Foy1X4Zk8q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Foy1X4Zk8q",
+					"expanded_url": "https://youtu.be/aENrC7-lXNE",
+					"display_url": "youtu.be/aENrC7-lXNE",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#공연일정 #페스티벌 #인디밴드 #내한 #콘서트\n\n문화예술정보 @ArtManagementKR\n뮤직매거진 @Magazine_KR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								115,
+								138
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 248,
+			"friends_count": 431,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n🥇🏆 2020 워너뮤직 베스트 라인업 20 🏆🥇\nhttps://t.co/Foy1X4Zk8q"
+	},
+	{
+		"created_at": "Mon Dec 28 04:11:17 +0000 2020",
+		"id": 1343400483520573400,
+		"id_str": "1343409157710503936",
+		"full_text": "&lt;롤링 26주년 기념 공연 : 안다은 of 디에이드 단독 콘서트&gt;\n\n· 일시 : 2021년 01월 15일 (금) 오후 8시, 01월 16일 (토) 오후 5시, 01월 17일 (일) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : 안다은\n· 예매 : 멜론티켓 2021년 01월 04일 (월) 오후 8시 예매오픈\n\nDesign by @studio.himp\n\n#안다은 #롤링홀 https://t.co/wRxoDtV2BS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안다은",
+					"indices": [
+						202,
+						206
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						207,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "studio",
+					"name": "STUDIO",
+					"id": 7905042,
+					"id_str": "7905042",
+					"indices": [
+						188,
+						195
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1343400473143832600,
+					"id_str": "1343400473143832576",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/EqS3nNjUcAASs1R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqS3nNjUcAASs1R.jpg",
+					"url": "https://t.co/wRxoDtV2BS",
+					"display_url": "pic.twitter.com/wRxoDtV2BS",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1343400483520573440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1100,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1343400473143832600,
+					"id_str": "1343400473143832576",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/EqS3nNjUcAASs1R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqS3nNjUcAASs1R.jpg",
+					"url": "https://t.co/wRxoDtV2BS",
+					"display_url": "pic.twitter.com/wRxoDtV2BS",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1343400483520573440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1100,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 1100,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/4e0ZekwoYX",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4e0ZekwoYX",
+							"expanded_url": "http://bitly.kr/LZ7SBbWTTTr",
+							"display_url": "bitly.kr/LZ7SBbWTTTr",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 115,
+			"friends_count": 3,
+			"listed_count": 1,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 96,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;롤링 26주년 기념 공연 : 안다은 of 디에이드 단독 콘서트&gt;\n\n· 일시 : 2021년 01월 15일 (금) 오후 8시, 01월 16일 (토) 오후 5시, 01월 17일 (일) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : 안다은\n· 예매 : 멜론티켓 2021년 01월 04일 (월) 오후 8시 예매오픈\n\nDesign by @studio.himp\n\n#안다은 #롤링홀 https://t.co/wRxoDtV2BS"
+	},
+	{
+		"created_at": "Mon Dec 28 03:29:30 +0000 2020",
+		"id": 1343398162942185500,
+		"id_str": "1343398644326793216",
+		"full_text": "HeMeets-Michelle https://t.co/V6XQwW1f9G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V6XQwW1f9G",
+					"expanded_url": "http://blog.naver.com/chili7272/222187844587",
+					"display_url": "blog.naver.com/chili7272/2221…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.naver.com\" rel=\"nofollow\">Naver</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114111001,
+			"id_str": "114111001",
+			"name": "칠리뮤직코리아",
+			"screen_name": "chilimusickorea",
+			"location": "Seoul, Korea",
+			"description": "음반제작 및 배급전문/국내 및 해외사이트 음원유통/매니지먼트 담당//\n허클베리 핀/에이프릴 세컨드/트레봉봉/오드트리/Steve Barakett/LasseLindh/Sioen 등",
+			"url": "https://t.co/XzPUfDyGhf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XzPUfDyGhf",
+							"expanded_url": "http://www.facebook.com/chilimusickorea1",
+							"display_url": "facebook.com/chilimusickore…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2129,
+			"friends_count": 2383,
+			"listed_count": 64,
+			"created_at": "Sun Feb 14 05:12:40 +0000 2010",
+			"favourites_count": 708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114111001/1427096436",
+			"profile_link_color": "FC420A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0B8C4",
+			"profile_text_color": "9FFEE3",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HeMeets-Michelle https://t.co/V6XQwW1f9G"
+	},
+	{
+		"created_at": "Mon Dec 28 03:29:27 +0000 2020",
+		"id": 1343393232076607500,
+		"id_str": "1343398631227977730",
+		"full_text": "#강백수\n[3집 Track 11. 맺음말 (完)]\n\n어쩌면 추억으로 가만히 두었으면 좋겠을, 기억 한 켠 첫사랑을 노래하다.\n2020년 한 해 동안 매 달 발표된 문학과 음악의 요정 강백수의 3집앨범 마지막 노래, '맺음말’\n\n✚ 앨범 자세히 보기: https://t.co/foQewHYie3 https://t.co/QSr6gz77Ub",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강백수",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/foQewHYie3",
+					"expanded_url": "https://bit.ly/3nMC4Qs",
+					"display_url": "bit.ly/3nMC4Qs",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1341974150429098000,
+					"id_str": "1341974150429097985",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-mYTYVQAEXTMX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-mYTYVQAEXTMX.jpg",
+					"url": "https://t.co/QSr6gz77Ub",
+					"display_url": "pic.twitter.com/QSr6gz77Ub",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1343393232076607488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341974150429098000,
+					"id_str": "1341974150429097985",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep-mYTYVQAEXTMX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep-mYTYVQAEXTMX.jpg",
+					"url": "https://t.co/QSr6gz77Ub",
+					"display_url": "pic.twitter.com/QSr6gz77Ub",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1343393232076607488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9499,
+			"friends_count": 2864,
+			"listed_count": 248,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 954,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1603861113",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#강백수\n[3집 Track 11. 맺음말 (完)]\n\n어쩌면 추억으로 가만히 두었으면 좋겠을, 기억 한 켠 첫사랑을 노래하다.\n2020년 한 해 동안 매 달 발표된 문학과 음악의 요정 강백수의 3집앨범 마지막 노래, '맺음말’\n\n✚ 앨범 자세히 보기: https://t.co/foQewHYie3 https://t.co/QSr6gz77Ub"
+	},
+	{
+		"created_at": "Mon Dec 28 03:29:25 +0000 2020",
+		"id": 1343391535253975000,
+		"id_str": "1343398622361223170",
+		"full_text": "[#손태진] 2020 손태진 온택트 홈파티🍷'먹고 마시고 사랑하라' - The Christmas Song\n\nfull ver. 🔗 https://t.co/IY84snjAjb\n\n#온택트 #홈파티 #먹고마시고사랑하라 #TheChristmasSong @teejson https://t.co/N3m7QycDvN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손태진",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "온택트",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "홈파티",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "먹고마시고사랑하라",
+					"indices": [
+						107,
+						117
+					]
+				},
+				{
+					"text": "TheChristmasSong",
+					"indices": [
+						118,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "teejson",
+					"name": ".",
+					"id": 1056856365254139900,
+					"id_str": "1056856365254139904",
+					"indices": [
+						136,
+						144
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IY84snjAjb",
+					"expanded_url": "http://youtu.be/BU-BAKXAawc",
+					"display_url": "youtu.be/BU-BAKXAawc",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1343391347164684300,
+					"id_str": "1343391347164684288",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1343391347164684288/pu/img/AfKkZX8qev46uTjU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1343391347164684288/pu/img/AfKkZX8qev46uTjU.jpg",
+					"url": "https://t.co/N3m7QycDvN",
+					"display_url": "pic.twitter.com/N3m7QycDvN",
+					"expanded_url": "https://twitter.com/themysticstory/status/1343391535253975040/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1343391347164684300,
+					"id_str": "1343391347164684288",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1343391347164684288/pu/img/AfKkZX8qev46uTjU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1343391347164684288/pu/img/AfKkZX8qev46uTjU.jpg",
+					"url": "https://t.co/N3m7QycDvN",
+					"display_url": "pic.twitter.com/N3m7QycDvN",
+					"expanded_url": "https://twitter.com/themysticstory/status/1343391535253975040/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 115375,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1343391347164684288/pu/vid/852x480/yrTsjkiSTZABZuCW.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1343391347164684288/pu/vid/478x270/8WjZnKTsRypYDS2u.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1343391347164684288/pu/vid/638x360/OWNZcg7Q3wzY6qNr.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1343391347164684288/pu/pl/uzPSMkrHf-DGfcJs.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19934,
+			"friends_count": 18,
+			"listed_count": 230,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#손태진] 2020 손태진 온택트 홈파티🍷'먹고 마시고 사랑하라' - The Christmas Song\n\nfull ver. 🔗 https://t.co/IY84snjAjb\n\n#온택트 #홈파티 #먹고마시고사랑하라 #TheChristmasSong @teejson https://t.co/N3m7QycDvN"
+	},
+	{
 		"created_at": "Mon Dec 28 03:11:17 +0000 2020",
 		"id": 1343384097897365500,
 		"id_str": "1343394058664873989",
