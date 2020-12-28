@@ -1,6 +1,922 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 28 09:29:59 +0000 2020",
+		"id": 1343486671401046000,
+		"id_str": "1343489364358266880",
+		"full_text": "[스무살 ‘Closer (Me Before You)’ 바로 듣기]\n\n멜론 https://t.co/stTsYqUPKp\n지니 https://t.co/nZqXereRN6\n플로 https://t.co/bE79IUaOSw\n벅스 https://t.co/GI09CZ78F1\n바이브 https://t.co/dUdBu9kmQI\n\n#스무살 #Closer #MeBeforeYou\n#20YearsOfAge #쇼파르뮤직 #ShofarMusic",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스무살",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "Closer",
+					"indices": [
+						180,
+						187
+					]
+				},
+				{
+					"text": "MeBeforeYou",
+					"indices": [
+						188,
+						200
+					]
+				},
+				{
+					"text": "20YearsOfAge",
+					"indices": [
+						201,
+						214
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						215,
+						221
+					]
+				},
+				{
+					"text": "ShofarMusic",
+					"indices": [
+						222,
+						234
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/stTsYqUPKp",
+					"expanded_url": "https://bit.ly/3nVJaSC",
+					"display_url": "bit.ly/3nVJaSC",
+					"indices": [
+						41,
+						64
+					]
+				},
+				{
+					"url": "https://t.co/nZqXereRN6",
+					"expanded_url": "https://bit.ly/2JpId6f",
+					"display_url": "bit.ly/2JpId6f",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/bE79IUaOSw",
+					"expanded_url": "https://bit.ly/2KEEt1e",
+					"display_url": "bit.ly/2KEEt1e",
+					"indices": [
+						95,
+						118
+					]
+				},
+				{
+					"url": "https://t.co/GI09CZ78F1",
+					"expanded_url": "https://bit.ly/3psKMUh",
+					"display_url": "bit.ly/3psKMUh",
+					"indices": [
+						122,
+						145
+					]
+				},
+				{
+					"url": "https://t.co/dUdBu9kmQI",
+					"expanded_url": "https://bit.ly/38Ee6R9",
+					"display_url": "bit.ly/38Ee6R9",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1343481822814953500,
+		"in_reply_to_status_id_str": "1343481822814953472",
+		"in_reply_to_user_id": 265792818,
+		"in_reply_to_user_id_str": "265792818",
+		"in_reply_to_screen_name": "ShofarMusic",
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다.\n가수 스웨덴세탁소, 볼빨간사춘기, 김지수,\n스무살, 보라미유, WH3N, 최유리 소속사\nhttps://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7972,
+			"friends_count": 4,
+			"listed_count": 65,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1608776544",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[스무살 ‘Closer (Me Before You)’ 바로 듣기]\n\n멜론 https://t.co/stTsYqUPKp\n지니 https://t.co/nZqXereRN6\n플로 https://t.co/bE79IUaOSw\n벅스 https://t.co/GI09CZ78F1\n바이브 https://t.co/dUdBu9kmQI\n\n#스무살 #Closer #MeBeforeYou\n#20YearsOfAge #쇼파르뮤직 #ShofarMusic"
+	},
+	{
+		"created_at": "Mon Dec 28 09:29:56 +0000 2020",
+		"id": 1343483074307215400,
+		"id_str": "1343489351326568448",
+		"full_text": "[EVENT]\n\n스무살의 고막 콘서트 (VOICE CALL EVENT)\n\n스무살의 'Closer (Me Before You)' 스트리밍 후\n캡쳐하여 인스타그램 스토리에 업로드 해주세요.\n▷https://t.co/CeRxbIQU8U\n\n※본 이벤트는 카카오톡의 보이스톡을 통해 당첨자와 스무살이 정해진 시간동안 음성 통화를 진행하는 이벤트입니다. https://t.co/nMegrt4kAP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CeRxbIQU8U",
+					"expanded_url": "https://www.instagram.com/shofar_music/",
+					"display_url": "instagram.com/shofar_music/",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1343456890412363800,
+					"id_str": "1343456890412363776",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EqTq7IQUcAAQQqj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqTq7IQUcAAQQqj.jpg",
+					"url": "https://t.co/nMegrt4kAP",
+					"display_url": "pic.twitter.com/nMegrt4kAP",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1343483074307215361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1343456890412363800,
+					"id_str": "1343456890412363776",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EqTq7IQUcAAQQqj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqTq7IQUcAAQQqj.jpg",
+					"url": "https://t.co/nMegrt4kAP",
+					"display_url": "pic.twitter.com/nMegrt4kAP",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1343483074307215361/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다.\n가수 스웨덴세탁소, 볼빨간사춘기, 김지수,\n스무살, 보라미유, WH3N, 최유리 소속사\nhttps://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7972,
+			"friends_count": 4,
+			"listed_count": 65,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1608776544",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EVENT]\n\n스무살의 고막 콘서트 (VOICE CALL EVENT)\n\n스무살의 'Closer (Me Before You)' 스트리밍 후\n캡쳐하여 인스타그램 스토리에 업로드 해주세요.\n▷https://t.co/CeRxbIQU8U\n\n※본 이벤트는 카카오톡의 보이스톡을 통해 당첨자와 스무살이 정해진 시간동안 음성 통화를 진행하는 이벤트입니다. https://t.co/nMegrt4kAP"
+	},
+	{
+		"created_at": "Mon Dec 28 09:29:47 +0000 2020",
+		"id": 1343481839298650000,
+		"id_str": "1343489313133178880",
+		"full_text": "[트위터]\n@pptnzof \n@__seung__m \n@Kwon_718 \n\n[인스타그램]\n@ jukjaemusicgenius\n@ ddolmangs_mam_us\n\n당첨자분들께는 금일 중 안테나 공식 계정으로 개별 메시지(DM)를 통해 연락드릴 예정이며, 당첨자 이벤트(온택트 사인회) 진행 관련 상세 안내 또한 함께 전달드릴 예정이니 참고 부탁드립니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pptnzof",
+					"name": "Of.",
+					"id": 1316255423222087700,
+					"id_str": "1316255423222087682",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"screen_name": "__seung__m",
+					"name": "모모카",
+					"id": 1225779049919729700,
+					"id_str": "1225779049919729664",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "Kwon_718",
+					"name": "영원",
+					"id": 1190652810901147600,
+					"id_str": "1190652810901147648",
+					"indices": [
+						29,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1343481836500992000,
+		"in_reply_to_status_id_str": "1343481836500992000",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official / 2020 안테나 크리스마스 캐럴 ‘겨울의 우리들’ Release!",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35260,
+			"friends_count": 10,
+			"listed_count": 368,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1608569605",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[트위터]\n@pptnzof \n@__seung__m \n@Kwon_718 \n\n[인스타그램]\n@ jukjaemusicgenius\n@ ddolmangs_mam_us\n\n당첨자분들께는 금일 중 안테나 공식 계정으로 개별 메시지(DM)를 통해 연락드릴 예정이며, 당첨자 이벤트(온택트 사인회) 진행 관련 상세 안내 또한 함께 전달드릴 예정이니 참고 부탁드립니다."
+	},
+	{
+		"created_at": "Mon Dec 28 09:29:41 +0000 2020",
+		"id": 1343481836500992000,
+		"id_str": "1343489287489253376",
+		"full_text": "2020 안테나 크리스마스 캐럴 \n💛겨울의 우리들💛\n스트리밍 이벤트 당첨자 안내\n\n2020 안테나 크리스마스 캐럴 '겨울의 우리들'에 많은 사랑을 보내주신 분들께 감사드리며, 발매와 동시에 지난 12월 25일까지 진행된 스트리밍 이벤트 당첨자를 안내드립니다. https://t.co/7E161NTDdP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1343481825524473900,
+					"id_str": "1343481825524473856",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EqUBmiyUYAA-WXy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqUBmiyUYAA-WXy.jpg",
+					"url": "https://t.co/7E161NTDdP",
+					"display_url": "pic.twitter.com/7E161NTDdP",
+					"expanded_url": "https://twitter.com/antennamusic/status/1343481836500992000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1343481825524473900,
+					"id_str": "1343481825524473856",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EqUBmiyUYAA-WXy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqUBmiyUYAA-WXy.jpg",
+					"url": "https://t.co/7E161NTDdP",
+					"display_url": "pic.twitter.com/7E161NTDdP",
+					"expanded_url": "https://twitter.com/antennamusic/status/1343481836500992000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official / 2020 안테나 크리스마스 캐럴 ‘겨울의 우리들’ Release!",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35260,
+			"friends_count": 10,
+			"listed_count": 368,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1608569605",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2020 안테나 크리스마스 캐럴 \n💛겨울의 우리들💛\n스트리밍 이벤트 당첨자 안내\n\n2020 안테나 크리스마스 캐럴 '겨울의 우리들'에 많은 사랑을 보내주신 분들께 감사드리며, 발매와 동시에 지난 12월 25일까지 진행된 스트리밍 이벤트 당첨자를 안내드립니다. https://t.co/7E161NTDdP"
+	},
+	{
+		"created_at": "Mon Dec 28 09:29:33 +0000 2020",
+		"id": 1343481822814953500,
+		"id_str": "1343489253498638336",
+		"full_text": "[Release]\n⠀\n끝이 있다 해도 너에게로 가까이.\n밀려오는 파도 같은 사랑의 감정을 담아낸\n스무살의 'Closer (Me Before You)'\n⠀\n2020.12.28. 6PM Now Released\n\n#스무살 #Closer #MeBeforeYou\n#20YearsOfAge #쇼파르뮤직 #ShofarMusic https://t.co/p02TKGF0vo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스무살",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "Closer",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"text": "MeBeforeYou",
+					"indices": [
+						129,
+						141
+					]
+				},
+				{
+					"text": "20YearsOfAge",
+					"indices": [
+						142,
+						155
+					]
+				},
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "ShofarMusic",
+					"indices": [
+						163,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1343440451139821600,
+					"id_str": "1343440451139821568",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EqTb-PMUYAAt2kO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqTb-PMUYAAt2kO.jpg",
+					"url": "https://t.co/p02TKGF0vo",
+					"display_url": "pic.twitter.com/p02TKGF0vo",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1343481822814953472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1343440451139821600,
+					"id_str": "1343440451139821568",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EqTb-PMUYAAt2kO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqTb-PMUYAAt2kO.jpg",
+					"url": "https://t.co/p02TKGF0vo",
+					"display_url": "pic.twitter.com/p02TKGF0vo",
+					"expanded_url": "https://twitter.com/ShofarMusic/status/1343481822814953472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르뮤직",
+			"screen_name": "ShofarMusic",
+			"location": "",
+			"description": "우리의 심장에 영혼을 불어 넣을 음악, Shofar Music입니다.\n가수 스웨덴세탁소, 볼빨간사춘기, 김지수,\n스무살, 보라미유, WH3N, 최유리 소속사\nhttps://t.co/xkqfFh5RtV",
+			"url": "https://t.co/6sa5R4iwyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6sa5R4iwyd",
+							"expanded_url": "https://www.youtube.com/TheShofarMusic",
+							"display_url": "youtube.com/TheShofarMusic",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xkqfFh5RtV",
+							"expanded_url": "http://shofar-music.com",
+							"display_url": "shofar-music.com",
+							"indices": [
+								88,
+								111
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7972,
+			"friends_count": 4,
+			"listed_count": 65,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1874105762/________normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1608776544",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release]\n⠀\n끝이 있다 해도 너에게로 가까이.\n밀려오는 파도 같은 사랑의 감정을 담아낸\n스무살의 'Closer (Me Before You)'\n⠀\n2020.12.28. 6PM Now Released\n\n#스무살 #Closer #MeBeforeYou\n#20YearsOfAge #쇼파르뮤직 #ShofarMusic https://t.co/p02TKGF0vo"
+	},
+	{
 		"created_at": "Mon Dec 28 09:10:54 +0000 2020",
 		"id": 1343484558524747800,
 		"id_str": "1343484558524747776",
