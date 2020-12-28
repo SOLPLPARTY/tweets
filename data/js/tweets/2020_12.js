@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 28 05:11:17 +0000 2020",
+		"id": 1343418799509315600,
+		"id_str": "1343424257209020416",
+		"full_text": "KT&amp;G 상상마당 아카데미\n1월 첫 수업  EVENT!!\n▼자세한 수업내용 링크 클릭▼\nhttps://t.co/xvvgxpuiWu https://t.co/F8gAbJOzfU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xvvgxpuiWu",
+					"expanded_url": "http://bit.ly/3mR4Iyn",
+					"display_url": "bit.ly/3mR4Iyn",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1343418335606632400,
+					"id_str": "1343418335606632448",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EqTH28aUcAAUCZE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqTH28aUcAAUCZE.jpg",
+					"url": "https://t.co/F8gAbJOzfU",
+					"display_url": "pic.twitter.com/F8gAbJOzfU",
+					"expanded_url": "https://twitter.com/SSmadang/status/1343418799509315589/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1343418335606632400,
+					"id_str": "1343418335606632448",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EqTH28aUcAAUCZE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqTH28aUcAAUCZE.jpg",
+					"url": "https://t.co/F8gAbJOzfU",
+					"display_url": "pic.twitter.com/F8gAbJOzfU",
+					"expanded_url": "https://twitter.com/SSmadang/status/1343418799509315589/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1343418335615012900,
+					"id_str": "1343418335615012864",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EqTH28cUUAAR8VM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqTH28cUUAAR8VM.jpg",
+					"url": "https://t.co/F8gAbJOzfU",
+					"display_url": "pic.twitter.com/F8gAbJOzfU",
+					"expanded_url": "https://twitter.com/SSmadang/status/1343418799509315589/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1343418335615021000,
+					"id_str": "1343418335615021057",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EqTH28cUcAE2tq0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqTH28cUcAE2tq0.jpg",
+					"url": "https://t.co/F8gAbJOzfU",
+					"display_url": "pic.twitter.com/F8gAbJOzfU",
+					"expanded_url": "https://twitter.com/SSmadang/status/1343418799509315589/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1343418335619211300,
+					"id_str": "1343418335619211264",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/EqTH28dUYAANAMx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqTH28dUYAANAMx.jpg",
+					"url": "https://t.co/F8gAbJOzfU",
+					"display_url": "pic.twitter.com/F8gAbJOzfU",
+					"expanded_url": "https://twitter.com/SSmadang/status/1343418799509315589/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18267,
+			"friends_count": 1905,
+			"listed_count": 290,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 495,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KT&amp;G 상상마당 아카데미\n1월 첫 수업  EVENT!!\n▼자세한 수업내용 링크 클릭▼\nhttps://t.co/xvvgxpuiWu https://t.co/F8gAbJOzfU"
+	},
+	{
 		"created_at": "Mon Dec 28 04:12:36 +0000 2020",
 		"id": 1343409491216396300,
 		"id_str": "1343409491216396288",
