@@ -1,6 +1,858 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 29 13:11:20 +0000 2020",
+		"id": 1343907456385241000,
+		"id_str": "1343907456385241095",
+		"full_text": "#SMTOWN\n🎟 Let's make a SMTOWN LIVE TICKET with #TAEYEON | 🎫 #태연 이와 티꾸\nhttps://t.co/gbYIlvBgTg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						47,
+						55
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						60,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gbYIlvBgTg",
+					"expanded_url": "https://youtu.be/DPikcuszwLA",
+					"display_url": "youtu.be/DPikcuszwLA",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#공연일정 #페스티벌 #인디밴드 #내한 #콘서트\n\n문화예술정보 @ArtManagementKR\n뮤직매거진 @Magazine_KR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								115,
+								138
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 246,
+			"friends_count": 434,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66830,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN\n🎟 Let's make a SMTOWN LIVE TICKET with #TAEYEON | 🎫 #태연 이와 티꾸\nhttps://t.co/gbYIlvBgTg"
+	},
+	{
+		"created_at": "Tue Dec 29 13:11:17 +0000 2020",
+		"id": 1343893378778349600,
+		"id_str": "1343907441050673152",
+		"full_text": "[아마츄어증폭기를위한아마츄어증폭기 단독 공연 @ 재미공작소 2021] 2021.01.09(토) PM 7:00 https://t.co/PFZN3e5ebV https://t.co/vHrewBqtWd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PFZN3e5ebV",
+					"expanded_url": "https://m.blog.naver.com/studiozemi/222189148941",
+					"display_url": "m.blog.naver.com/studiozemi/222…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1343893360730275800,
+					"id_str": "1343893360730275846",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EqZ35C5VgAYjw4l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqZ35C5VgAYjw4l.jpg",
+					"url": "https://t.co/vHrewBqtWd",
+					"display_url": "pic.twitter.com/vHrewBqtWd",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1343893378778349568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 740,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 740,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1343893360730275800,
+					"id_str": "1343893360730275846",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EqZ35C5VgAYjw4l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqZ35C5VgAYjw4l.jpg",
+					"url": "https://t.co/vHrewBqtWd",
+					"display_url": "pic.twitter.com/vHrewBqtWd",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1343893378778349568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 740,
+							"h": 740,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 740,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8129,
+			"friends_count": 577,
+			"listed_count": 80,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14591,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[아마츄어증폭기를위한아마츄어증폭기 단독 공연 @ 재미공작소 2021] 2021.01.09(토) PM 7:00 https://t.co/PFZN3e5ebV https://t.co/vHrewBqtWd"
+	},
+	{
+		"created_at": "Tue Dec 29 12:29:42 +0000 2020",
+		"id": 1343890195091869700,
+		"id_str": "1343896979282268160",
+		"full_text": "During this difficult time of COVID 19, enjoy the SMTOWN LIVE “Culture Humanity” that will encourage and cheer you up for free all around the world.\n\n 코로나 19로 힘든 시기, 서로를 격려하고 위로하는 SMTOWN LIVE “Culture Humanity” 전 세계에서 무료로 즐겨요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1343890191077965800,
+		"in_reply_to_status_id_str": "1343890191077965824",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8844192,
+			"friends_count": 53,
+			"listed_count": 8663,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 270,
+		"favorite_count": 1817,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "During this difficult time of COVID 19, enjoy the SMTOWN LIVE “Culture Humanity” that will encourage and cheer you up for free all around the world.\n\n 코로나 19로 힘든 시기, 서로를 격려하고 위로하는 SMTOWN LIVE “Culture Humanity” 전 세계에서 무료로 즐겨요."
+	},
+	{
+		"created_at": "Tue Dec 29 12:29:40 +0000 2020",
+		"id": 1343890191077965800,
+		"id_str": "1343896970289676288",
+		"full_text": "🎟#SUPERJUNIOR's SMTOWN LIVE TICKETS\n\n➫ 01.01.21 1PM KST\n➫ 31.12.20 8PM PST\n➫ 31.12.20 11PM EST\n\n#SMTOWN_LIVE_Culture_Humanity\n#LEETEUK #SHINDONG #SIWON #DONGHAE #EUNHYUK #KYUHYUN #RYEOWOOK #YESUNG\n#SMTOWN_LIVE #SMTOWN https://t.co/B3X90ue7As",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						1,
+						13
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE_Culture_Humanity",
+					"indices": [
+						96,
+						125
+					]
+				},
+				{
+					"text": "LEETEUK",
+					"indices": [
+						126,
+						134
+					]
+				},
+				{
+					"text": "SHINDONG",
+					"indices": [
+						135,
+						144
+					]
+				},
+				{
+					"text": "SIWON",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "DONGHAE",
+					"indices": [
+						152,
+						160
+					]
+				},
+				{
+					"text": "EUNHYUK",
+					"indices": [
+						161,
+						169
+					]
+				},
+				{
+					"text": "KYUHYUN",
+					"indices": [
+						170,
+						178
+					]
+				},
+				{
+					"text": "RYEOWOOK",
+					"indices": [
+						179,
+						188
+					]
+				},
+				{
+					"text": "YESUNG",
+					"indices": [
+						189,
+						196
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						197,
+						209
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						210,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1343890057262862300,
+					"id_str": "1343890057262862336",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/EqZ04whVEAAcO2i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqZ04whVEAAcO2i.jpg",
+					"url": "https://t.co/B3X90ue7As",
+					"display_url": "pic.twitter.com/B3X90ue7As",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1343890191077965824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1343890057262862300,
+					"id_str": "1343890057262862336",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/EqZ04whVEAAcO2i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqZ04whVEAAcO2i.jpg",
+					"url": "https://t.co/B3X90ue7As",
+					"display_url": "pic.twitter.com/B3X90ue7As",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1343890191077965824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1343890112946425900,
+					"id_str": "1343890112946425857",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/EqZ07_9U0AEcmBC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqZ07_9U0AEcmBC.jpg",
+					"url": "https://t.co/B3X90ue7As",
+					"display_url": "pic.twitter.com/B3X90ue7As",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1343890191077965824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1343890127681069000,
+					"id_str": "1343890127681069056",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/EqZ0822VoAAcmwi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqZ0822VoAAcmwi.jpg",
+					"url": "https://t.co/B3X90ue7As",
+					"display_url": "pic.twitter.com/B3X90ue7As",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1343890191077965824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8844192,
+			"friends_count": 53,
+			"listed_count": 8663,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3215,
+		"favorite_count": 10832,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎟#SUPERJUNIOR's SMTOWN LIVE TICKETS\n\n➫ 01.01.21 1PM KST\n➫ 31.12.20 8PM PST\n➫ 31.12.20 11PM EST\n\n#SMTOWN_LIVE_Culture_Humanity\n#LEETEUK #SHINDONG #SIWON #DONGHAE #EUNHYUK #KYUHYUN #RYEOWOOK #YESUNG\n#SMTOWN_LIVE #SMTOWN https://t.co/B3X90ue7As"
+	},
+	{
+		"created_at": "Tue Dec 29 12:29:34 +0000 2020",
+		"id": 1343889825737240600,
+		"id_str": "1343896944645697536",
+		"full_text": "During this difficult time of COVID 19, enjoy the SMTOWN LIVE “Culture Humanity” that will encourage and cheer you up for free all around the world. \n\n 코로나 19로 힘든 시기, 서로를 격려하고 위로하는 SMTOWN LIVE “Culture Humanity” 전 세계에서 무료로 즐겨요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1343889749350600700,
+		"in_reply_to_status_id_str": "1343889749350600704",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8844192,
+			"friends_count": 53,
+			"listed_count": 8663,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 133,
+		"favorite_count": 1232,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "During this difficult time of COVID 19, enjoy the SMTOWN LIVE “Culture Humanity” that will encourage and cheer you up for free all around the world. \n\n 코로나 19로 힘든 시기, 서로를 격려하고 위로하는 SMTOWN LIVE “Culture Humanity” 전 세계에서 무료로 즐겨요."
+	},
+	{
 		"created_at": "Tue Dec 29 12:06:18 +0000 2020",
 		"id": 1343891086721360000,
 		"id_str": "1343891086721359872",
