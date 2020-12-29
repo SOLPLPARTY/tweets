@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 29 16:29:33 +0000 2020",
+		"id": 1343944699724198000,
+		"id_str": "1343957337577566214",
+		"full_text": "💗FREE💗 SMTOWN LIVE \"Culture Humanity\"\n\n➫ 2021.01.01. 12PM (CST)\n\n在因\"COVID-19\"而困難的時期，SMTOWN LIVE “Culture Humanity”面向全球免費播出，傳遞互相鼓勵與安慰的力量。 \n\n#SMTOWN_LIVE_Culture_Humanity\n#SMTOWN_LIVE #SMTOWN https://t.co/1FGQOyxDM6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_LIVE_Culture_Humanity",
+					"indices": [
+						139,
+						168
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						169,
+						181
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						182,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1343944659509203000,
+					"id_str": "1343944659509202944",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EqamjBvUUAAu2j8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqamjBvUUAAu2j8.jpg",
+					"url": "https://t.co/1FGQOyxDM6",
+					"display_url": "pic.twitter.com/1FGQOyxDM6",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1343944699724197888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1343944659509203000,
+					"id_str": "1343944659509202944",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EqamjBvUUAAu2j8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqamjBvUUAAu2j8.jpg",
+					"url": "https://t.co/1FGQOyxDM6",
+					"display_url": "pic.twitter.com/1FGQOyxDM6",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1343944699724197888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1343944575392477200,
+		"in_reply_to_status_id_str": "1343944575392477184",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8846815,
+			"friends_count": 53,
+			"listed_count": 8662,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 618,
+		"favorite_count": 3684,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "💗FREE💗 SMTOWN LIVE \"Culture Humanity\"\n\n➫ 2021.01.01. 12PM (CST)\n\n在因\"COVID-19\"而困難的時期，SMTOWN LIVE “Culture Humanity”面向全球免費播出，傳遞互相鼓勵與安慰的力量。 \n\n#SMTOWN_LIVE_Culture_Humanity\n#SMTOWN_LIVE #SMTOWN https://t.co/1FGQOyxDM6"
+	},
+	{
 		"created_at": "Tue Dec 29 15:30:26 +0000 2020",
 		"id": 1343941566893678600,
 		"id_str": "1343942458485469184",
