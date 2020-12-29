@@ -1,6 +1,435 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 29 05:58:15 +0000 2020",
+		"id": 1343787663648673800,
+		"id_str": "1343798464422027264",
+		"full_text": "12/31 슬픔의 케이팝 파티를 줌으로 함께 즐기실 분을 찾습니다! 31일 밤 전까지 케이팝 1분 댄스 영상을 본인 SNS에 #슬케파 @kr_now 멘션해서 올려주시면 50분을 선정하여 다양한 선물과 함께 31일 밤 생방송으로 진행되는 슬케파에 줌으로 초대합니다! https://t.co/fdwXkqQRpo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬케파",
+					"indices": [
+						70,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kr_now",
+					"name": "NOW.",
+					"id": 1159646410414817300,
+					"id_str": "1159646410414817281",
+					"indices": [
+						75,
+						82
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1343787648888914000,
+					"id_str": "1343787648888913920",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EqYXvzmUwAANh5q.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EqYXvzmUwAANh5q.jpg",
+					"url": "https://t.co/fdwXkqQRpo",
+					"display_url": "pic.twitter.com/fdwXkqQRpo",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1343787663648673797/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 374,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 374,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1343787648888914000,
+					"id_str": "1343787648888913920",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EqYXvzmUwAANh5q.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EqYXvzmUwAANh5q.jpg",
+					"url": "https://t.co/fdwXkqQRpo",
+					"display_url": "pic.twitter.com/fdwXkqQRpo",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1343787663648673797/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 374,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 374,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							250,
+							187
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EqYXvzmUwAANh5q.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬픔의케이팝파티",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/y66RIP08rM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y66RIP08rM",
+							"expanded_url": "https://instagram.com/seulpeumkpop?utm_source=ig_profile_share&igshid=levuw48ktbga",
+							"display_url": "instagram.com/seulpeumkpop?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7495,
+			"friends_count": 31,
+			"listed_count": 19,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 704,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 887,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1572341650",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "12/31 슬픔의 케이팝 파티를 줌으로 함께 즐기실 분을 찾습니다! 31일 밤 전까지 케이팝 1분 댄스 영상을 본인 SNS에 #슬케파 @kr_now 멘션해서 올려주시면 50분을 선정하여 다양한 선물과 함께 31일 밤 생방송으로 진행되는 슬케파에 줌으로 초대합니다! https://t.co/fdwXkqQRpo"
+	},
+	{
+		"created_at": "Tue Dec 29 05:29:34 +0000 2020",
+		"id": 1343785575313145900,
+		"id_str": "1343791247660560384",
+		"full_text": "김동률 2019 라이브 앨범 ‘오래된 노래’\nLP 추가 예약 판매 안내 💿\n\n☑️ 예약 판매\n2020년 12월 31일(목) 오전 11시\n~ 2021년 1월 10일(일)까지\n☑️ 배송 예정일:\n2021년 5월 3일(월)부터 순차 배송\n\n자세한 공지: https://t.co/vXf2i6kGQp\n\n#김동률 #KIMDONGRYUL #라이브앨범 #오래된노래 https://t.co/H57xtScNpV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김동률",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "KIMDONGRYUL",
+					"indices": [
+						169,
+						181
+					]
+				},
+				{
+					"text": "라이브앨범",
+					"indices": [
+						182,
+						188
+					]
+				},
+				{
+					"text": "오래된노래",
+					"indices": [
+						189,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vXf2i6kGQp",
+					"expanded_url": "https://www.instagram.com/p/CJXoKzhlb6u/?igshid=zktupnf6up0g",
+					"display_url": "instagram.com/p/CJXoKzhlb6u/…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1343785568354717700,
+					"id_str": "1343785568354717696",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EqYV2tAUUAA5nST.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqYV2tAUUAA5nST.jpg",
+					"url": "https://t.co/H57xtScNpV",
+					"display_url": "pic.twitter.com/H57xtScNpV",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1343785575313145856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 437,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 771,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1316,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1343785568354717700,
+					"id_str": "1343785568354717696",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EqYV2tAUUAA5nST.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqYV2tAUUAA5nST.jpg",
+					"url": "https://t.co/H57xtScNpV",
+					"display_url": "pic.twitter.com/H57xtScNpV",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1343785575313145856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 437,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 771,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1316,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언 / Official YouTube Channel https://t.co/gTSbPm12G9",
+			"url": "https://t.co/eSVSBHrncV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSVSBHrncV",
+							"expanded_url": "http://www.instagram.com/musicfarmkorea",
+							"display_url": "instagram.com/musicfarmkorea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gTSbPm12G9",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								44,
+								67
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9203,
+			"friends_count": 4,
+			"listed_count": 109,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1357424393",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김동률 2019 라이브 앨범 ‘오래된 노래’\nLP 추가 예약 판매 안내 💿\n\n☑️ 예약 판매\n2020년 12월 31일(목) 오전 11시\n~ 2021년 1월 10일(일)까지\n☑️ 배송 예정일:\n2021년 5월 3일(월)부터 순차 배송\n\n자세한 공지: https://t.co/vXf2i6kGQp\n\n#김동률 #KIMDONGRYUL #라이브앨범 #오래된노래 https://t.co/H57xtScNpV"
+	},
+	{
 		"created_at": "Tue Dec 29 05:11:26 +0000 2020",
 		"id": 1343783807892086800,
 		"id_str": "1343786685180555265",
