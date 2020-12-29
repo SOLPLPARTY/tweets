@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 29 14:58:14 +0000 2020",
+		"id": 1343919371605823500,
+		"id_str": "1343934358726582274",
+		"full_text": "이벤트 참여 경품 안내 3 추첨 후 나우에서 준비한 다양한 기프트 세트를 드립니다! (추첨인원미정)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1343918850601963500,
+		"in_reply_to_status_id_str": "1343918850601963521",
+		"in_reply_to_user_id": 729495493080809500,
+		"in_reply_to_user_id_str": "729495493080809473",
+		"in_reply_to_screen_name": "seulpeumkpop",
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬픔의케이팝파티",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/y66RIP08rM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y66RIP08rM",
+							"expanded_url": "https://instagram.com/seulpeumkpop?utm_source=ig_profile_share&igshid=levuw48ktbga",
+							"display_url": "instagram.com/seulpeumkpop?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7520,
+			"friends_count": 31,
+			"listed_count": 19,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 704,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1572341650",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이벤트 참여 경품 안내 3 추첨 후 나우에서 준비한 다양한 기프트 세트를 드립니다! (추첨인원미정)"
+	},
+	{
 		"created_at": "Tue Dec 29 13:58:17 +0000 2020",
 		"id": 1343918850601963500,
 		"id_str": "1343919269441101824",
