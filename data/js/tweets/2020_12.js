@@ -1,6 +1,862 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 29 13:58:17 +0000 2020",
+		"id": 1343918850601963500,
+		"id_str": "1343919269441101824",
+		"full_text": "이벤트 참여 경품 안내 2 키엘 핸드워시&amp;크림 (3분) https://t.co/8Pxt8Vrizh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1343918843412922400,
+					"id_str": "1343918843412922369",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/EqaPEVSUwAEeen_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqaPEVSUwAEeen_.jpg",
+					"url": "https://t.co/8Pxt8Vrizh",
+					"display_url": "pic.twitter.com/8Pxt8Vrizh",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1343918850601963521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 827,
+							"h": 761,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 827,
+							"h": 761,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 626,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1343918843412922400,
+					"id_str": "1343918843412922369",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/EqaPEVSUwAEeen_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqaPEVSUwAEeen_.jpg",
+					"url": "https://t.co/8Pxt8Vrizh",
+					"display_url": "pic.twitter.com/8Pxt8Vrizh",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1343918850601963521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 827,
+							"h": 761,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 827,
+							"h": 761,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 626,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1343918563942285300,
+		"in_reply_to_status_id_str": "1343918563942285312",
+		"in_reply_to_user_id": 729495493080809500,
+		"in_reply_to_user_id_str": "729495493080809473",
+		"in_reply_to_screen_name": "seulpeumkpop",
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬픔의케이팝파티",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/y66RIP08rM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y66RIP08rM",
+							"expanded_url": "https://instagram.com/seulpeumkpop?utm_source=ig_profile_share&igshid=levuw48ktbga",
+							"display_url": "instagram.com/seulpeumkpop?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7517,
+			"friends_count": 31,
+			"listed_count": 19,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 704,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1572341650",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이벤트 참여 경품 안내 2 키엘 핸드워시&amp;크림 (3분) https://t.co/8Pxt8Vrizh"
+	},
+	{
+		"created_at": "Tue Dec 29 13:58:15 +0000 2020",
+		"id": 1343918563942285300,
+		"id_str": "1343919260528205825",
+		"full_text": "이벤트 참여 경품 안내 1. 슬케파 티셔츠 (50장) https://t.co/zE8oO3XrUV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1343918554328928300,
+					"id_str": "1343918554328928256",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EqaOzgXVEAAaEh1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqaOzgXVEAAaEh1.jpg",
+					"url": "https://t.co/zE8oO3XrUV",
+					"display_url": "pic.twitter.com/zE8oO3XrUV",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1343918563942285312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 710,
+							"h": 776,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 622,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 710,
+							"h": 776,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1343918554328928300,
+					"id_str": "1343918554328928256",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EqaOzgXVEAAaEh1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqaOzgXVEAAaEh1.jpg",
+					"url": "https://t.co/zE8oO3XrUV",
+					"display_url": "pic.twitter.com/zE8oO3XrUV",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1343918563942285312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 710,
+							"h": 776,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 622,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 710,
+							"h": 776,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1343918554328907800,
+					"id_str": "1343918554328907777",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/EqaOzgXUwAENNBW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqaOzgXUwAENNBW.jpg",
+					"url": "https://t.co/zE8oO3XrUV",
+					"display_url": "pic.twitter.com/zE8oO3XrUV",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1343918563942285312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 710,
+							"h": 776,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 622,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 710,
+							"h": 776,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1343787663648673800,
+		"in_reply_to_status_id_str": "1343787663648673797",
+		"in_reply_to_user_id": 729495493080809500,
+		"in_reply_to_user_id_str": "729495493080809473",
+		"in_reply_to_screen_name": "seulpeumkpop",
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬픔의케이팝파티",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/y66RIP08rM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y66RIP08rM",
+							"expanded_url": "https://instagram.com/seulpeumkpop?utm_source=ig_profile_share&igshid=levuw48ktbga",
+							"display_url": "instagram.com/seulpeumkpop?u…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7517,
+			"friends_count": 31,
+			"listed_count": 19,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 704,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146756124240048128/VY0VqAzb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1572341650",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이벤트 참여 경품 안내 1. 슬케파 티셔츠 (50장) https://t.co/zE8oO3XrUV"
+	},
+	{
+		"created_at": "Tue Dec 29 13:29:46 +0000 2020",
+		"id": 1343904847771275300,
+		"id_str": "1343912094396264448",
+		"full_text": "During this difficult time of COVID 19, enjoy the SMTOWN LIVE “Culture Humanity” that will encourage and cheer you up for free all around the world.\n \n코로나 19로 힘든 시기, 서로를 격려하고 위로하는 SMTOWN LIVE “Culture Humanity” 전 세계에서 무료로 즐겨요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1343904842482241500,
+		"in_reply_to_status_id_str": "1343904842482241543",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8845120,
+			"friends_count": 53,
+			"listed_count": 8661,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 171,
+		"favorite_count": 1630,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "During this difficult time of COVID 19, enjoy the SMTOWN LIVE “Culture Humanity” that will encourage and cheer you up for free all around the world.\n \n코로나 19로 힘든 시기, 서로를 격려하고 위로하는 SMTOWN LIVE “Culture Humanity” 전 세계에서 무료로 즐겨요."
+	},
+	{
+		"created_at": "Tue Dec 29 13:29:38 +0000 2020",
+		"id": 1343904842482241500,
+		"id_str": "1343912060283924486",
+		"full_text": "🎟 #TAEYEON’s SMTOWN LIVE TICKET\n\n➫ 01.01.21 1PM KST\n➫ 31.12.20 8PM PST\n➫ 31.12.20 11PM EST\n\n#SMTOWN_LIVE_Culture_Humanity\n#GirlsGeneration\n#SMTOWN_LIVE #SMTOWN https://t.co/FIl3ZWWccW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						2,
+						10
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE_Culture_Humanity",
+					"indices": [
+						92,
+						121
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						122,
+						138
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						139,
+						151
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						152,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1343903546211664000,
+					"id_str": "1343903546211663872",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EqaBJ6xVgAA1guc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqaBJ6xVgAA1guc.jpg",
+					"url": "https://t.co/FIl3ZWWccW",
+					"display_url": "pic.twitter.com/FIl3ZWWccW",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1343904842482241543/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1343903546211664000,
+					"id_str": "1343903546211663872",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EqaBJ6xVgAA1guc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqaBJ6xVgAA1guc.jpg",
+					"url": "https://t.co/FIl3ZWWccW",
+					"display_url": "pic.twitter.com/FIl3ZWWccW",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1343904842482241543/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1343903553627115500,
+					"id_str": "1343903553627115522",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EqaBKWZUUAIAMQZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqaBKWZUUAIAMQZ.jpg",
+					"url": "https://t.co/FIl3ZWWccW",
+					"display_url": "pic.twitter.com/FIl3ZWWccW",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1343904842482241543/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1343903562070327300,
+					"id_str": "1343903562070327297",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EqaBK12VgAEG7bd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqaBK12VgAEG7bd.jpg",
+					"url": "https://t.co/FIl3ZWWccW",
+					"display_url": "pic.twitter.com/FIl3ZWWccW",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1343904842482241543/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8845120,
+			"friends_count": 53,
+			"listed_count": 8661,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3691,
+		"favorite_count": 11798,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎟 #TAEYEON’s SMTOWN LIVE TICKET\n\n➫ 01.01.21 1PM KST\n➫ 31.12.20 8PM PST\n➫ 31.12.20 11PM EST\n\n#SMTOWN_LIVE_Culture_Humanity\n#GirlsGeneration\n#SMTOWN_LIVE #SMTOWN https://t.co/FIl3ZWWccW"
+	},
+	{
+		"created_at": "Tue Dec 29 13:29:30 +0000 2020",
+		"id": 1343904706389667800,
+		"id_str": "1343912026251415554",
+		"full_text": "During this difficult time of COVID 19, enjoy the SMTOWN LIVE “Culture Humanity” that will encourage and cheer you up for free all around the world.\n\n코로나 19로 힘든 시기, 서로를 격려하고 위로하는 SMTOWN LIVE “Culture Humanity” 전 세계에서 무료로 즐겨요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1343904704519008300,
+		"in_reply_to_status_id_str": "1343904704519008257",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8845120,
+			"friends_count": 53,
+			"listed_count": 8661,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 121,
+		"favorite_count": 1180,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "During this difficult time of COVID 19, enjoy the SMTOWN LIVE “Culture Humanity” that will encourage and cheer you up for free all around the world.\n\n코로나 19로 힘든 시기, 서로를 격려하고 위로하는 SMTOWN LIVE “Culture Humanity” 전 세계에서 무료로 즐겨요."
+	},
+	{
 		"created_at": "Tue Dec 29 13:11:20 +0000 2020",
 		"id": 1343907456385241000,
 		"id_str": "1343907456385241095",
