@@ -1,6 +1,1357 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 01 13:30:01 +0000 2021",
+		"id": 1344994785149522000,
+		"id_str": "1344999321721315328",
+		"full_text": "Thank you for enjoying  \nSMTOWN LIVE \"Culture Humanity\" with us! \n#NCT127 🎞\n\n#SMTOWN_LIVE_Culture_Humanity\n#NCT127 #NCT\n#SMTOWN_LIVE #SMTOWN https://t.co/BjQZQysHbD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NCT127",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE_Culture_Humanity",
+					"indices": [
+						77,
+						106
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						107,
+						114
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						120,
+						132
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						133,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1344993033134043100,
+					"id_str": "1344993033134043136",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EqpgCZ1UcAADll8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqpgCZ1UcAADll8.jpg",
+					"url": "https://t.co/BjQZQysHbD",
+					"display_url": "pic.twitter.com/BjQZQysHbD",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1344994785149521920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 613,
+							"h": 1804,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 408,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 231,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344993033134043100,
+					"id_str": "1344993033134043136",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EqpgCZ1UcAADll8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqpgCZ1UcAADll8.jpg",
+					"url": "https://t.co/BjQZQysHbD",
+					"display_url": "pic.twitter.com/BjQZQysHbD",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1344994785149521920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 613,
+							"h": 1804,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 408,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 231,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1344993033201221600,
+					"id_str": "1344993033201221639",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EqpgCaFVgActviU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqpgCaFVgActviU.jpg",
+					"url": "https://t.co/BjQZQysHbD",
+					"display_url": "pic.twitter.com/BjQZQysHbD",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1344994785149521920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 408,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 231,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 613,
+							"h": 1804,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1344993045289156600,
+					"id_str": "1344993045289156609",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EqpgDHHUwAE6iEL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqpgDHHUwAE6iEL.jpg",
+					"url": "https://t.co/BjQZQysHbD",
+					"display_url": "pic.twitter.com/BjQZQysHbD",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1344994785149521920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 613,
+							"h": 1804,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 231,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 408,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1344993061403676700,
+					"id_str": "1344993061403676673",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EqpgEDJU0AEgK82.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqpgEDJU0AEgK82.jpg",
+					"url": "https://t.co/BjQZQysHbD",
+					"display_url": "pic.twitter.com/BjQZQysHbD",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1344994785149521920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 231,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 613,
+							"h": 1804,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 408,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8895154,
+			"friends_count": 53,
+			"listed_count": 8687,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20492,
+		"favorite_count": 45122,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you for enjoying  \nSMTOWN LIVE \"Culture Humanity\" with us! \n#NCT127 🎞\n\n#SMTOWN_LIVE_Culture_Humanity\n#NCT127 #NCT\n#SMTOWN_LIVE #SMTOWN https://t.co/BjQZQysHbD"
+	},
+	{
+		"created_at": "Fri Jan 01 13:29:57 +0000 2021",
+		"id": 1344994533403054000,
+		"id_str": "1344999304377856000",
+		"full_text": "Thank you for enjoying  \nSMTOWN LIVE \"Culture Humanity\" with us! \n#RedVelvet🎞\n\n#SMTOWN_LIVE_Culture_Humanity\n#IRENE #SEULGI #WENDY #JOY #YERI\n#SMTOWN_LIVE #SMTOWN https://t.co/XRLGtuaPyf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RedVelvet",
+					"indices": [
+						66,
+						76
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE_Culture_Humanity",
+					"indices": [
+						79,
+						108
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						116,
+						123
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						142,
+						154
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						155,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1344992161956208600,
+					"id_str": "1344992161956208641",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EqpfPscVoAEQ2OD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqpfPscVoAEQ2OD.jpg",
+					"url": "https://t.co/XRLGtuaPyf",
+					"display_url": "pic.twitter.com/XRLGtuaPyf",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1344994533403054080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 597,
+							"h": 1791,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 227,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344992161956208600,
+					"id_str": "1344992161956208641",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EqpfPscVoAEQ2OD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqpfPscVoAEQ2OD.jpg",
+					"url": "https://t.co/XRLGtuaPyf",
+					"display_url": "pic.twitter.com/XRLGtuaPyf",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1344994533403054080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 597,
+							"h": 1791,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 227,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1344992162006458400,
+					"id_str": "1344992162006458368",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/EqpfPsoUYAA3VET.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqpfPsoUYAA3VET.jpg",
+					"url": "https://t.co/XRLGtuaPyf",
+					"display_url": "pic.twitter.com/XRLGtuaPyf",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1344994533403054080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 227,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 401,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 601,
+							"h": 1799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8895154,
+			"friends_count": 53,
+			"listed_count": 8687,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15201,
+		"favorite_count": 35336,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you for enjoying  \nSMTOWN LIVE \"Culture Humanity\" with us! \n#RedVelvet🎞\n\n#SMTOWN_LIVE_Culture_Humanity\n#IRENE #SEULGI #WENDY #JOY #YERI\n#SMTOWN_LIVE #SMTOWN https://t.co/XRLGtuaPyf"
+	},
+	{
+		"created_at": "Fri Jan 01 13:29:48 +0000 2021",
+		"id": 1344994281899978800,
+		"id_str": "1344999266150920193",
+		"full_text": "Thank you for enjoying  \nSMTOWN LIVE \"Culture Humanity\" with us! \n#KANGTA🎞\n\n#SMTOWN_LIVE_Culture_Humanity\n#SMTOWN_LIVE #SMTOWN https://t.co/cL5YKKxAKm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KANGTA",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE_Culture_Humanity",
+					"indices": [
+						76,
+						105
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						106,
+						118
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						119,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1344991781889351700,
+					"id_str": "1344991781889351688",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/Eqpe5klVoAgnxjZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eqpe5klVoAgnxjZ.jpg",
+					"url": "https://t.co/cL5YKKxAKm",
+					"display_url": "pic.twitter.com/cL5YKKxAKm",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1344994281899978752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 228,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 402,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 402,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344991781889351700,
+					"id_str": "1344991781889351688",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/Eqpe5klVoAgnxjZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eqpe5klVoAgnxjZ.jpg",
+					"url": "https://t.co/cL5YKKxAKm",
+					"display_url": "pic.twitter.com/cL5YKKxAKm",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1344994281899978752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 228,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 402,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 402,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8895154,
+			"friends_count": 53,
+			"listed_count": 8687,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1111,
+		"favorite_count": 7590,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you for enjoying  \nSMTOWN LIVE \"Culture Humanity\" with us! \n#KANGTA🎞\n\n#SMTOWN_LIVE_Culture_Humanity\n#SMTOWN_LIVE #SMTOWN https://t.co/cL5YKKxAKm"
+	},
+	{
+		"created_at": "Fri Jan 01 13:29:39 +0000 2021",
+		"id": 1344994030149640200,
+		"id_str": "1344999227932422144",
+		"full_text": "Thank you for enjoying  \nSMTOWN LIVE \"Culture Humanity\" with us! \n#SUNGCHAN &amp; #SHOTARO 🎞\n\n#SMTOWN_LIVE_Culture_Humanity\n#NCTU #NCT\n#SMTOWN_LIVE #SMTOWN https://t.co/4YsFLKfbN7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SUNGCHAN",
+					"indices": [
+						66,
+						75
+					]
+				},
+				{
+					"text": "SHOTARO",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE_Culture_Humanity",
+					"indices": [
+						94,
+						123
+					]
+				},
+				{
+					"text": "NCTU",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						135,
+						147
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						148,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1344990967040938000,
+					"id_str": "1344990967040937985",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EqpeKJCVkAEr_S6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqpeKJCVkAEr_S6.jpg",
+					"url": "https://t.co/4YsFLKfbN7",
+					"display_url": "pic.twitter.com/4YsFLKfbN7",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1344994030149640192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 613,
+							"h": 1804,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 231,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 408,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344990967040938000,
+					"id_str": "1344990967040937985",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/EqpeKJCVkAEr_S6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqpeKJCVkAEr_S6.jpg",
+					"url": "https://t.co/4YsFLKfbN7",
+					"display_url": "pic.twitter.com/4YsFLKfbN7",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1344994030149640192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 613,
+							"h": 1804,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 231,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 408,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8895154,
+			"friends_count": 53,
+			"listed_count": 8687,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15191,
+		"favorite_count": 41210,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you for enjoying  \nSMTOWN LIVE \"Culture Humanity\" with us! \n#SUNGCHAN &amp; #SHOTARO 🎞\n\n#SMTOWN_LIVE_Culture_Humanity\n#NCTU #NCT\n#SMTOWN_LIVE #SMTOWN https://t.co/4YsFLKfbN7"
+	},
+	{
+		"created_at": "Fri Jan 01 13:29:31 +0000 2021",
+		"id": 1344993778549985300,
+		"id_str": "1344999193862168578",
+		"full_text": "Thank you for enjoying  \nSMTOWN LIVE \"Culture Humanity\" with us! \n#NCTDREAM 🎞\n\n#SMTOWN_LIVE_Culture_Humanity\n#NCTDREAM #NCT\n#SMTOWN_LIVE #SMTOWN https://t.co/tpv1mUDKLj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						66,
+						75
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE_Culture_Humanity",
+					"indices": [
+						79,
+						108
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						109,
+						118
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						124,
+						136
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						137,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1344990314033893400,
+					"id_str": "1344990314033893376",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EqpdkIZU0AAgj2D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqpdkIZU0AAgj2D.jpg",
+					"url": "https://t.co/tpv1mUDKLj",
+					"display_url": "pic.twitter.com/tpv1mUDKLj",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1344993778549985280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 613,
+							"h": 1804,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 408,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 231,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344990314033893400,
+					"id_str": "1344990314033893376",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EqpdkIZU0AAgj2D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqpdkIZU0AAgj2D.jpg",
+					"url": "https://t.co/tpv1mUDKLj",
+					"display_url": "pic.twitter.com/tpv1mUDKLj",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1344993778549985280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 613,
+							"h": 1804,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 408,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 231,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1344990363543507000,
+					"id_str": "1344990363543506947",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EqpdnA1VkAMN43a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqpdnA1VkAMN43a.jpg",
+					"url": "https://t.co/tpv1mUDKLj",
+					"display_url": "pic.twitter.com/tpv1mUDKLj",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1344993778549985280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 613,
+							"h": 1804,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 408,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 231,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1344990397664149500,
+					"id_str": "1344990397664149509",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/Eqpdo_8VQAULs1x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eqpdo_8VQAULs1x.jpg",
+					"url": "https://t.co/tpv1mUDKLj",
+					"display_url": "pic.twitter.com/tpv1mUDKLj",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1344993778549985280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 231,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 613,
+							"h": 1804,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 408,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1344990436901884000,
+					"id_str": "1344990436901883905",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/EqpdrSHVkAEPbgM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqpdrSHVkAEPbgM.jpg",
+					"url": "https://t.co/tpv1mUDKLj",
+					"display_url": "pic.twitter.com/tpv1mUDKLj",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1344993778549985280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 613,
+							"h": 1804,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 231,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 408,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8895154,
+			"friends_count": 53,
+			"listed_count": 8687,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21667,
+		"favorite_count": 46670,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you for enjoying  \nSMTOWN LIVE \"Culture Humanity\" with us! \n#NCTDREAM 🎞\n\n#SMTOWN_LIVE_Culture_Humanity\n#NCTDREAM #NCT\n#SMTOWN_LIVE #SMTOWN https://t.co/tpv1mUDKLj"
+	},
+	{
 		"created_at": "Fri Jan 01 10:29:25 +0000 2021",
 		"id": 1344946541958635500,
 		"id_str": "1344953869974040577",
