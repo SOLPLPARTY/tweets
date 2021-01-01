@@ -1,6 +1,1095 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 01 10:03:33 +0000 2021",
+		"id": 1344947362024853500,
+		"id_str": "1344947362024853506",
+		"full_text": "#서울뮤직 #SEOUL_MUSIC\n[LIVE] 히피는 집시였다 - 버드나무 l SEOUL MUSIC\nhttps://t.co/Pz2hRtNc8z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SEOUL_MUSIC",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Pz2hRtNc8z",
+					"expanded_url": "https://youtu.be/dOtG5Aef-ik",
+					"display_url": "youtu.be/dOtG5Aef-ik",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#공연일정 #페스티벌 #인디밴드 #내한 #콘서트\n\n문화예술정보 @ArtManagementKR\n뮤직매거진 @Magazine_KR\n티켓오픈 @TicketOpen\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\nABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								115,
+								138
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 244,
+			"friends_count": 434,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67032,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#서울뮤직 #SEOUL_MUSIC\n[LIVE] 히피는 집시였다 - 버드나무 l SEOUL MUSIC\nhttps://t.co/Pz2hRtNc8z"
+	},
+	{
+		"created_at": "Fri Jan 01 09:29:45 +0000 2021",
+		"id": 1344937598976893000,
+		"id_str": "1344938855766622209",
+		"full_text": "그래도 지난 한 해, 그 어느 때보다도 많은 앨범으로 여러분들을 찾아갈 수 있어서 뜻깊은 한 해였습니다. 늘 저희의 음악과 콘텐츠에 많은 관심과 사랑 주셔서 감사드리며, 새해에는 건강하고 행복하게 많은 곳에서 만나기를 바랍니다.\n\n여러분 새해 복 많이 받으세요 🎉\nHappy New Year 🎉",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1344937554529816600,
+		"in_reply_to_status_id_str": "1344937554529816576",
+		"in_reply_to_user_id": 263751129,
+		"in_reply_to_user_id_str": "263751129",
+		"in_reply_to_screen_name": "msbsound",
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드🍓\nMagicstrawberry Sound. Music label based in Korea.",
+			"url": "https://t.co/hG14tT4CA9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hG14tT4CA9",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8432,
+			"friends_count": 18,
+			"listed_count": 97,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 84,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5779,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1597394894",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그래도 지난 한 해, 그 어느 때보다도 많은 앨범으로 여러분들을 찾아갈 수 있어서 뜻깊은 한 해였습니다. 늘 저희의 음악과 콘텐츠에 많은 관심과 사랑 주셔서 감사드리며, 새해에는 건강하고 행복하게 많은 곳에서 만나기를 바랍니다.\n\n여러분 새해 복 많이 받으세요 🎉\nHappy New Year 🎉"
+	},
+	{
+		"created_at": "Fri Jan 01 09:29:40 +0000 2021",
+		"id": 1344931461367881700,
+		"id_str": "1344938834295975939",
+		"full_text": "골든차일드(Golden Child)\n5th Mini Album｜Comeback Trailer\n\n2021.01.25 6PM RELEASE\n\nhttps://t.co/RFVESzliWR\nhttps://t.co/VwtGBv142N\n\n#GoldenChild #골든차일드 https://t.co/i443s20lFp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoldenChild",
+					"indices": [
+						126,
+						138
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						139,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RFVESzliWR",
+					"expanded_url": "http://youtu.be/8fLmsVB7C9U",
+					"display_url": "youtu.be/8fLmsVB7C9U",
+					"indices": [
+						77,
+						100
+					]
+				},
+				{
+					"url": "https://t.co/VwtGBv142N",
+					"expanded_url": "http://vlive.tv/video/230759",
+					"display_url": "vlive.tv/video/230759",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1344916744033370000,
+					"id_str": "1344916744033370113",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EqoapyyVgAE-Y2w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqoapyyVgAE-Y2w.jpg",
+					"url": "https://t.co/i443s20lFp",
+					"display_url": "pic.twitter.com/i443s20lFp",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1344931461367881731/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344916744033370000,
+					"id_str": "1344916744033370113",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EqoapyyVgAE-Y2w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqoapyyVgAE-Y2w.jpg",
+					"url": "https://t.co/i443s20lFp",
+					"display_url": "pic.twitter.com/i443s20lFp",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1344931461367881731/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424465,
+			"friends_count": 10,
+			"listed_count": 1805,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1609491777",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1029,
+		"favorite_count": 1976,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "골든차일드(Golden Child)\n5th Mini Album｜Comeback Trailer\n\n2021.01.25 6PM RELEASE\n\nhttps://t.co/RFVESzliWR\nhttps://t.co/VwtGBv142N\n\n#GoldenChild #골든차일드 https://t.co/i443s20lFp"
+	},
+	{
+		"created_at": "Fri Jan 01 09:29:34 +0000 2021",
+		"id": 1344931372394307600,
+		"id_str": "1344938808513617920",
+		"full_text": "#SMTOWN '#빛 (#Hope)' Official Video @ #SMTOWN_LIVE \"Culture Humanity\"\n\n🎬 https://t.co/Fvy5RbSVau\n\n#SMTOWN_LIVE_Culture_Humanity\n#KANGTA #TVXQ! #SUPERJUNIOR #TAEYEON #TAEMIN #BAEKHYUN #KAI #RedVelvet #NCTU #NCT127 #NCTDREAM #WayV #SuperM #aespa https://t.co/R1iTaDeclc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "빛",
+					"indices": [
+						9,
+						11
+					]
+				},
+				{
+					"text": "Hope",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						38,
+						50
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE_Culture_Humanity",
+					"indices": [
+						98,
+						127
+					]
+				},
+				{
+					"text": "KANGTA",
+					"indices": [
+						128,
+						135
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						143,
+						155
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						156,
+						164
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						165,
+						172
+					]
+				},
+				{
+					"text": "BAEKHYUN",
+					"indices": [
+						173,
+						182
+					]
+				},
+				{
+					"text": "KAI",
+					"indices": [
+						183,
+						187
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						188,
+						198
+					]
+				},
+				{
+					"text": "NCTU",
+					"indices": [
+						199,
+						204
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						205,
+						212
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						213,
+						222
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						223,
+						228
+					]
+				},
+				{
+					"text": "SuperM",
+					"indices": [
+						229,
+						236
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						237,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fvy5RbSVau",
+					"expanded_url": "https://youtu.be/VlM68GOkEUg",
+					"display_url": "youtu.be/VlM68GOkEUg",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1344893832031211500,
+					"id_str": "1344893832031211520",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/EqoF0I7VkAAXsLf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqoF0I7VkAAXsLf.jpg",
+					"url": "https://t.co/R1iTaDeclc",
+					"display_url": "pic.twitter.com/R1iTaDeclc",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1344931372394307584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344893832031211500,
+					"id_str": "1344893832031211520",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/EqoF0I7VkAAXsLf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqoF0I7VkAAXsLf.jpg",
+					"url": "https://t.co/R1iTaDeclc",
+					"display_url": "pic.twitter.com/R1iTaDeclc",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1344931372394307584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8890662,
+			"friends_count": 53,
+			"listed_count": 8693,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20610,
+		"favorite_count": 49545,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SMTOWN '#빛 (#Hope)' Official Video @ #SMTOWN_LIVE \"Culture Humanity\"\n\n🎬 https://t.co/Fvy5RbSVau\n\n#SMTOWN_LIVE_Culture_Humanity\n#KANGTA #TVXQ! #SUPERJUNIOR #TAEYEON #TAEMIN #BAEKHYUN #KAI #RedVelvet #NCTU #NCT127 #NCTDREAM #WayV #SuperM #aespa https://t.co/R1iTaDeclc"
+	},
+	{
+		"created_at": "Fri Jan 01 09:29:31 +0000 2021",
+		"id": 1344931369990893600,
+		"id_str": "1344938795444146181",
+		"full_text": "💗New Year, New Heart💗\nWith Kindness Humility and Love\n\n친절, 겸손, 사랑과 함께 하는\n새로운 마음, 새로운 한 해\n\n#SMTOWN_LIVE #SMTOWN \n#SMTOWN_LIVE_Culture_Humanity\n#KANGTA #TVXQ! #SUPERJUNIOR #TAEYEON #TAEMIN #BAEKHYUN #KAI #RedVelvet #NCTU #NCT127 #NCTDREAM #WayV #SuperM #aespa https://t.co/yOdekMRuC5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						90,
+						102
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						103,
+						110
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE_Culture_Humanity",
+					"indices": [
+						112,
+						141
+					]
+				},
+				{
+					"text": "KANGTA",
+					"indices": [
+						142,
+						149
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						157,
+						169
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						170,
+						178
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						179,
+						186
+					]
+				},
+				{
+					"text": "BAEKHYUN",
+					"indices": [
+						187,
+						196
+					]
+				},
+				{
+					"text": "KAI",
+					"indices": [
+						197,
+						201
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						202,
+						212
+					]
+				},
+				{
+					"text": "NCTU",
+					"indices": [
+						213,
+						218
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						219,
+						226
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						227,
+						236
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						237,
+						242
+					]
+				},
+				{
+					"text": "SuperM",
+					"indices": [
+						243,
+						250
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						251,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1344902390617526300,
+					"id_str": "1344902390617526274",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/EqoOzOrUcAMQXJT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqoOzOrUcAMQXJT.jpg",
+					"url": "https://t.co/yOdekMRuC5",
+					"display_url": "pic.twitter.com/yOdekMRuC5",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1344931369990893568/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344902390617526300,
+					"id_str": "1344902390617526274",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/EqoOzOrUcAMQXJT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqoOzOrUcAMQXJT.jpg",
+					"url": "https://t.co/yOdekMRuC5",
+					"display_url": "pic.twitter.com/yOdekMRuC5",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1344931369990893568/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 106857,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1344902390617526274/vid/1280x720/tGoMA8qbJHUpF8bA.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1344902390617526274/pl/VXsBt27UPTpLZG19.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1344902390617526274/vid/480x270/n4gcOG3UKHKf8C2L.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1344902390617526274/vid/640x360/xZbWiDPApV-8fbPZ.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8890662,
+			"friends_count": 53,
+			"listed_count": 8693,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20168,
+		"favorite_count": 55283,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💗New Year, New Heart💗\nWith Kindness Humility and Love\n\n친절, 겸손, 사랑과 함께 하는\n새로운 마음, 새로운 한 해\n\n#SMTOWN_LIVE #SMTOWN \n#SMTOWN_LIVE_Culture_Humanity\n#KANGTA #TVXQ! #SUPERJUNIOR #TAEYEON #TAEMIN #BAEKHYUN #KAI #RedVelvet #NCTU #NCT127 #NCTDREAM #WayV #SuperM #aespa https://t.co/yOdekMRuC5"
+	},
+	{
 		"created_at": "Fri Jan 01 09:10:34 +0000 2021",
 		"id": 1344934026839273500,
 		"id_str": "1344934026839273472",
