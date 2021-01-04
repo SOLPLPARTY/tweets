@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 04 10:29:25 +0000 2021",
+		"id": 1346033707031744500,
+		"id_str": "1346041032526475264",
+		"full_text": "골든차일드(Golden Child) \n5th Mini Album [YES.]｜Concept Photo\n#최보민 (#ChoiBomin)\n\n2021.01.25 6PM RELEASE\n\n#GoldenChild #골든차일드 #YES https://t.co/nXeGIscRmx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최보민",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "ChoiBomin",
+					"indices": [
+						63,
+						73
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						100,
+						112
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "YES",
+					"indices": [
+						120,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1346027531955146800,
+					"id_str": "1346027531955146754",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq4M6KQVEAIRKR5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq4M6KQVEAIRKR5.jpg",
+					"url": "https://t.co/nXeGIscRmx",
+					"display_url": "pic.twitter.com/nXeGIscRmx",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1346033707031744513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1346027531955146800,
+					"id_str": "1346027531955146754",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq4M6KQVEAIRKR5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq4M6KQVEAIRKR5.jpg",
+					"url": "https://t.co/nXeGIscRmx",
+					"display_url": "pic.twitter.com/nXeGIscRmx",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1346033707031744513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1346027551852957700,
+					"id_str": "1346027551852957701",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq4M7UYVkAUsa01.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq4M7UYVkAUsa01.jpg",
+					"url": "https://t.co/nXeGIscRmx",
+					"display_url": "pic.twitter.com/nXeGIscRmx",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1346033707031744513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1346027570341367800,
+					"id_str": "1346027570341367809",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq4M8ZQUUAEj4Cw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq4M8ZQUUAEj4Cw.jpg",
+					"url": "https://t.co/nXeGIscRmx",
+					"display_url": "pic.twitter.com/nXeGIscRmx",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1346033707031744513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424648,
+			"friends_count": 10,
+			"listed_count": 1809,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1609750857",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1204,
+		"favorite_count": 2496,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "골든차일드(Golden Child) \n5th Mini Album [YES.]｜Concept Photo\n#최보민 (#ChoiBomin)\n\n2021.01.25 6PM RELEASE\n\n#GoldenChild #골든차일드 #YES https://t.co/nXeGIscRmx"
+	},
+	{
 		"created_at": "Mon Jan 04 09:29:31 +0000 2021",
 		"id": 1346025819538292700,
 		"id_str": "1346025959913357312",
