@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 04 12:45:20 +0000 2021",
+		"id": 1346071081140904000,
+		"id_str": "1346075239038427136",
+		"full_text": "[RT요청]\n슈퍼밴드2 '남성 뮤지션(X)' ▶ '뮤지션(O)'이라면 성별/나이/국적/학벌 상관없이 누구나 지원 가능!\n\n▶ 서명참여\nhttps://t.co/uP47HuTx0d\n\n#슈퍼밴드 #슈퍼밴드2\n#슈퍼밴드누구나참여 #음악은보편적인언어입니다 #MusicisUniversal @jtbclove https://t.co/wPX3OszgFi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슈퍼밴드",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "슈퍼밴드2",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "슈퍼밴드누구나참여",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"text": "음악은보편적인언어입니다",
+					"indices": [
+						124,
+						137
+					]
+				},
+				{
+					"text": "MusicisUniversal",
+					"indices": [
+						138,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jtbclove",
+					"name": "@jtbclove",
+					"id": 418488729,
+					"id_str": "418488729",
+					"indices": [
+						156,
+						165
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uP47HuTx0d",
+					"expanded_url": "http://chng.it/6MVWLzxP2g",
+					"display_url": "chng.it/6MVWLzxP2g",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1346070673374859300,
+					"id_str": "1346070673374859266",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq40JUkUUAI4sVo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq40JUkUUAI4sVo.jpg",
+					"url": "https://t.co/wPX3OszgFi",
+					"display_url": "pic.twitter.com/wPX3OszgFi",
+					"expanded_url": "https://twitter.com/AmblerKR/status/1346071081140903936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1346070673374859300,
+					"id_str": "1346070673374859266",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq40JUkUUAI4sVo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq40JUkUUAI4sVo.jpg",
+					"url": "https://t.co/wPX3OszgFi",
+					"display_url": "pic.twitter.com/wPX3OszgFi",
+					"expanded_url": "https://twitter.com/AmblerKR/status/1346071081140903936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1252910486435164200,
+			"id_str": "1252910486435164161",
+			"name": "Ambler",
+			"screen_name": "AmblerKR",
+			"location": "ambler@ambler.kr",
+			"description": "음악과 공연을 좋아하는 크리에이터 😎\n#팬마케팅 #팬매니지먼트\n\n#솔플파티 @SOLPLPARTY \n#뮤직비즈니스 #예술경영 @ArtManagementKR \n#티켓오픈 @TicketOpen\n#뮤직매거진 @magazine_kr\n#음악방송 @KPOP_Broadcast",
+			"url": "https://t.co/X3M7TFezVE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X3M7TFezVE",
+							"expanded_url": "http://ambler.kr",
+							"display_url": "ambler.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12,
+			"friends_count": 19,
+			"listed_count": 0,
+			"created_at": "Wed Apr 22 10:42:04 +0000 2020",
+			"favourites_count": 45,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269999552225873920/4SpDKr1y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269999552225873920/4SpDKr1y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1252910486435164161/1591626465",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[RT요청]\n슈퍼밴드2 '남성 뮤지션(X)' ▶ '뮤지션(O)'이라면 성별/나이/국적/학벌 상관없이 누구나 지원 가능!\n\n▶ 서명참여\nhttps://t.co/uP47HuTx0d\n\n#슈퍼밴드 #슈퍼밴드2\n#슈퍼밴드누구나참여 #음악은보편적인언어입니다 #MusicisUniversal @jtbclove https://t.co/wPX3OszgFi"
+	},
+	{
 		"created_at": "Mon Jan 04 11:29:25 +0000 2021",
 		"id": 1346041122871595000,
 		"id_str": "1346056132012421121",
