@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 04 09:29:31 +0000 2021",
+		"id": 1346025819538292700,
+		"id_str": "1346025959913357312",
+		"full_text": "‘싱어송라이터 김목인’…히트곡·음악상 없어도, 음악의 길 20년\n\n\"그래도 지치는 법이 없다. 올해는 4집 앨범을 내고, 온라인 등 팬들과 새로운 방식으로 만날 수 있는 길을 마련하려 한다. ....그 목표를 향해 그는 오늘도 우직한 소처럼 걷고 또 걷는다.\"\n\n원문보기:\nhttps://t.co/eyK7CPssdw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eyK7CPssdw",
+					"expanded_url": "http://www.hani.co.kr/arti/culture/culture_general/977085.html#csidx7122b60e1f14a83878e068d1ba86e44",
+					"display_url": "hani.co.kr/arti/culture/c…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3393,
+			"friends_count": 1304,
+			"listed_count": 105,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 5188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘싱어송라이터 김목인’…히트곡·음악상 없어도, 음악의 길 20년\n\n\"그래도 지치는 법이 없다. 올해는 4집 앨범을 내고, 온라인 등 팬들과 새로운 방식으로 만날 수 있는 길을 마련하려 한다. ....그 목표를 향해 그는 오늘도 우직한 소처럼 걷고 또 걷는다.\"\n\n원문보기:\nhttps://t.co/eyK7CPssdw"
+	},
+	{
 		"created_at": "Mon Jan 04 08:29:25 +0000 2021",
 		"id": 1346005007141802000,
 		"id_str": "1346010833516720129",
