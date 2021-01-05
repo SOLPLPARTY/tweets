@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 05 13:29:25 +0000 2021",
+		"id": 1346448438486061000,
+		"id_str": "1346448720011927556",
+		"full_text": "방금 동영상을 게시했습니다 @Seoul, Korea https://t.co/q16swD2NuO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "seoul",
+					"name": "Seoul",
+					"id": 1564242998,
+					"id_str": "1564242998",
+					"indices": [
+						15,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/q16swD2NuO",
+					"expanded_url": "https://www.instagram.com/p/CJqjTcOF5O0/?igshid=74q3l67c92z0",
+					"display_url": "instagram.com/p/CJqjTcOF5O0/…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2855837208,
+			"id_str": "2855837208",
+			"name": "동양 표준 음향사/ Eastern Standard Sounds",
+			"screen_name": "E_S_Sounds",
+			"location": "Seoul, Korea",
+			"description": "All Roots and Culture/ Label/ Agency/ Distribute/ Produce/",
+			"url": "https://t.co/oI8deHx50b",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oI8deHx50b",
+							"expanded_url": "http://www.easternstandardsounds.com",
+							"display_url": "easternstandardsounds.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 620,
+			"friends_count": 1792,
+			"listed_count": 10,
+			"created_at": "Tue Oct 14 19:11:59 +0000 2014",
+			"favourites_count": 234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/669566643438116865/faHYzrAM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/669566643438116865/faHYzrAM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2855837208/1609456279",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.51502,
+				127.01648
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				127.01648,
+				37.51502
+			]
+		},
+		"place": {
+			"id": "0190ea0c6981204e",
+			"url": "https://api.twitter.com/1.1/geo/id/0190ea0c6981204e.json",
+			"place_type": "city",
+			"name": "강남구",
+			"full_name": "대한민국 강남구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							127.005165636288,
+							37.4385022172146
+						],
+						[
+							127.106354128286,
+							37.4385022172146
+						],
+						[
+							127.106354128286,
+							37.5386131091282
+						],
+						[
+							127.005165636288,
+							37.5386131091282
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방금 동영상을 게시했습니다 @Seoul, Korea https://t.co/q16swD2NuO"
+	},
+	{
 		"created_at": "Tue Jan 05 10:29:25 +0000 2021",
 		"id": 1346396113964728300,
 		"id_str": "1346403420610179074",
