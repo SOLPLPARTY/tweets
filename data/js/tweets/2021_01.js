@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 06 00:29:25 +0000 2021",
+		"id": 1346613491910594600,
+		"id_str": "1346614816316780563",
+		"full_text": "21.1.11.12\n#hayeon #newsong #2111112 #하연 https://t.co/Zk3eazgaou",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hayeon",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"text": "newsong",
+					"indices": [
+						19,
+						27
+					]
+				},
+				{
+					"text": "하연",
+					"indices": [
+						37,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Zk3eazgaou",
+					"expanded_url": "https://www.instagram.com/p/CJrux60BIPZ/?igshid=i2q5g1mtsu7b",
+					"display_url": "instagram.com/p/CJrux60BIPZ/…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 964372210436591600,
+			"id_str": "964372210436591616",
+			"name": "Enterarts - A.I.M",
+			"screen_name": "aimbyenterarts",
+			"location": "대한민국 서울",
+			"description": "The World's First AI Music Production Company & Record Label / Artist Management\n세계 최초 인공지능 음반 제작 레이블",
+			"url": "https://t.co/4A9OjJKnmN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4A9OjJKnmN",
+							"expanded_url": "http://www.enterarts.net",
+							"display_url": "enterarts.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 25,
+			"listed_count": 2,
+			"created_at": "Fri Feb 16 05:33:46 +0000 2018",
+			"favourites_count": 775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964373734273433600/Z0O1Lz_s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964373734273433600/Z0O1Lz_s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/964372210436591616/1518759589",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "21.1.11.12\n#hayeon #newsong #2111112 #하연 https://t.co/Zk3eazgaou"
+	},
+	{
 		"created_at": "Tue Jan 05 13:29:25 +0000 2021",
 		"id": 1346448438486061000,
 		"id_str": "1346448720011927556",
