@@ -1,6 +1,1460 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 07 10:15:01 +0000 2021",
+		"id": 1347123924597756000,
+		"id_str": "1347124575025303553",
+		"full_text": "Hayeon 하연 'WALK AWAY'\n\n🎵 2021.01.11 12:00PM \n\n#Hayeon #하연 #WALK_AWAY https://t.co/80lb5JYbRr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Hayeon",
+					"indices": [
+						46,
+						53
+					]
+				},
+				{
+					"text": "하연",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "WALK_AWAY",
+					"indices": [
+						58,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1347123908927910000,
+					"id_str": "1347123908927909889",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/ErHyDswVcAENyjx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErHyDswVcAENyjx.jpg",
+					"url": "https://t.co/80lb5JYbRr",
+					"display_url": "pic.twitter.com/80lb5JYbRr",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1347123924597755909/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 632,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1078,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347123908927910000,
+					"id_str": "1347123908927909889",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/ErHyDswVcAENyjx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErHyDswVcAENyjx.jpg",
+					"url": "https://t.co/80lb5JYbRr",
+					"display_url": "pic.twitter.com/80lb5JYbRr",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1347123924597755909/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 358,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 632,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1078,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 964372210436591600,
+			"id_str": "964372210436591616",
+			"name": "Enterarts - A.I.M",
+			"screen_name": "aimbyenterarts",
+			"location": "대한민국 서울",
+			"description": "The World's First AI Music Production Company & Record Label / Artist Management\n세계 최초 인공지능 음반 제작 레이블",
+			"url": "https://t.co/4A9OjJKnmN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4A9OjJKnmN",
+							"expanded_url": "http://www.enterarts.net",
+							"display_url": "enterarts.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 195,
+			"friends_count": 25,
+			"listed_count": 2,
+			"created_at": "Fri Feb 16 05:33:46 +0000 2018",
+			"favourites_count": 776,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964373734273433600/Z0O1Lz_s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964373734273433600/Z0O1Lz_s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/964372210436591616/1518759589",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Hayeon 하연 'WALK AWAY'\n\n🎵 2021.01.11 12:00PM \n\n#Hayeon #하연 #WALK_AWAY https://t.co/80lb5JYbRr"
+	},
+	{
+		"created_at": "Thu Jan 07 10:11:25 +0000 2021",
+		"id": 1347113789108277200,
+		"id_str": "1347123666816016387",
+		"full_text": "[CREDIT]\n◼ 인터뷰 : 임희윤\n◼ 사진 : 김태훈, 하쿠나폴레\n◼ 디자인 : 이솔이\n◼ 기획 : 웨스트브릿지\n◼ 발행 : 씬디 티켓라운지 @xindieticket https://t.co/kRoZWg8Yai",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xindieticket",
+					"name": "씬디 티켓라운지",
+					"id": 1220731080,
+					"id_str": "1220731080",
+					"indices": [
+						81,
+						94
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1347113396852822000,
+					"id_str": "1347113396852822053",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/ErHof0OVECU_cgt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErHof0OVECU_cgt.jpg",
+					"url": "https://t.co/kRoZWg8Yai",
+					"display_url": "pic.twitter.com/kRoZWg8Yai",
+					"expanded_url": "https://twitter.com/xindieticket/status/1347113789108277248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347113396852822000,
+					"id_str": "1347113396852822053",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/ErHof0OVECU_cgt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErHof0OVECU_cgt.jpg",
+					"url": "https://t.co/kRoZWg8Yai",
+					"display_url": "pic.twitter.com/kRoZWg8Yai",
+					"expanded_url": "https://twitter.com/xindieticket/status/1347113789108277248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1347113396915687400,
+					"id_str": "1347113396915687424",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/ErHof0dUUAAwWAK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErHof0dUUAAwWAK.jpg",
+					"url": "https://t.co/kRoZWg8Yai",
+					"display_url": "pic.twitter.com/kRoZWg8Yai",
+					"expanded_url": "https://twitter.com/xindieticket/status/1347113789108277248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1347113397029015600,
+					"id_str": "1347113397029015552",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/ErHof04VkAAtJe3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErHof04VkAAtJe3.jpg",
+					"url": "https://t.co/kRoZWg8Yai",
+					"display_url": "pic.twitter.com/kRoZWg8Yai",
+					"expanded_url": "https://twitter.com/xindieticket/status/1347113789108277248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1347113780778451000,
+		"in_reply_to_status_id_str": "1347113780778450944",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2785,
+			"friends_count": 2679,
+			"listed_count": 21,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[CREDIT]\n◼ 인터뷰 : 임희윤\n◼ 사진 : 김태훈, 하쿠나폴레\n◼ 디자인 : 이솔이\n◼ 기획 : 웨스트브릿지\n◼ 발행 : 씬디 티켓라운지 @xindieticket https://t.co/kRoZWg8Yai"
+	},
+	{
+		"created_at": "Thu Jan 07 10:11:17 +0000 2021",
+		"id": 1347113780778451000,
+		"id_str": "1347123632720523265",
+		"full_text": "[#씬디매거진 21년 1월호]\n\n이번 호 커버 아티스트는 싱어송라이터 🔥최예근❤️님입니다!\n\n어디서도 들어볼 수 없던 최예근님의 이야기와 주머니 속 손난로같은 따뜻한 내용이 잔뜩 실려 있는 씬디매거진 1월호와 함께 새해에 적응해 볼까요?\n\n🌞 원본보기 : https://t.co/dMpi6l1KgQ https://t.co/ptAhU6VsZ6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "씬디매거진",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dMpi6l1KgQ",
+					"expanded_url": "http://reurl.kr/6BEED9CAP",
+					"display_url": "reurl.kr/6BEED9CAP",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1347113265080397800,
+					"id_str": "1347113265080397824",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/ErHoYJVVcAAaBIs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErHoYJVVcAAaBIs.jpg",
+					"url": "https://t.co/ptAhU6VsZ6",
+					"display_url": "pic.twitter.com/ptAhU6VsZ6",
+					"expanded_url": "https://twitter.com/xindieticket/status/1347113780778450944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347113265080397800,
+					"id_str": "1347113265080397824",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/ErHoYJVVcAAaBIs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErHoYJVVcAAaBIs.jpg",
+					"url": "https://t.co/ptAhU6VsZ6",
+					"display_url": "pic.twitter.com/ptAhU6VsZ6",
+					"expanded_url": "https://twitter.com/xindieticket/status/1347113780778450944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1347113265084592000,
+					"id_str": "1347113265084592131",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/ErHoYJWVcAM5uYh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErHoYJWVcAM5uYh.jpg",
+					"url": "https://t.co/ptAhU6VsZ6",
+					"display_url": "pic.twitter.com/ptAhU6VsZ6",
+					"expanded_url": "https://twitter.com/xindieticket/status/1347113780778450944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1347113265080397800,
+					"id_str": "1347113265080397825",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/ErHoYJVVcAEjzwC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErHoYJVVcAEjzwC.jpg",
+					"url": "https://t.co/ptAhU6VsZ6",
+					"display_url": "pic.twitter.com/ptAhU6VsZ6",
+					"expanded_url": "https://twitter.com/xindieticket/status/1347113780778450944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2785,
+			"friends_count": 2679,
+			"listed_count": 21,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#씬디매거진 21년 1월호]\n\n이번 호 커버 아티스트는 싱어송라이터 🔥최예근❤️님입니다!\n\n어디서도 들어볼 수 없던 최예근님의 이야기와 주머니 속 손난로같은 따뜻한 내용이 잔뜩 실려 있는 씬디매거진 1월호와 함께 새해에 적응해 볼까요?\n\n🌞 원본보기 : https://t.co/dMpi6l1KgQ https://t.co/ptAhU6VsZ6"
+	},
+	{
+		"created_at": "Thu Jan 07 09:30:19 +0000 2021",
+		"id": 1347108434231976000,
+		"id_str": "1347113324757082112",
+		"full_text": "[Stone Music+] A.K.A 카더가든 (Car, the garden)｜여신강림 OST - Happy Ending https://t.co/X4EQNIhRUH 출처 @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						95,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/X4EQNIhRUH",
+					"expanded_url": "https://youtu.be/xp0KmlniCqE",
+					"display_url": "youtu.be/xp0KmlniCqE",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3720,
+			"friends_count": 6,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 81,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Stone Music+] A.K.A 카더가든 (Car, the garden)｜여신강림 OST - Happy Ending https://t.co/X4EQNIhRUH 출처 @YouTube"
+	},
+	{
+		"created_at": "Thu Jan 07 09:30:09 +0000 2021",
+		"id": 1347105958984523800,
+		"id_str": "1347113282180669441",
+		"full_text": "[#bobae]\n\n⚭\nbobae - 붙잡아 onoff -\n2021/01/13 12PM(KST) https://t.co/EG7G9BlUSa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bobae",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1347105950780440600,
+					"id_str": "1347105950780440577",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/ErHhuZcVQAEi7eY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErHhuZcVQAEi7eY.jpg",
+					"url": "https://t.co/EG7G9BlUSa",
+					"display_url": "pic.twitter.com/EG7G9BlUSa",
+					"expanded_url": "https://twitter.com/inplanet/status/1347105958984523777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347105950780440600,
+					"id_str": "1347105950780440577",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/ErHhuZcVQAEi7eY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErHhuZcVQAEi7eY.jpg",
+					"url": "https://t.co/EG7G9BlUSa",
+					"display_url": "pic.twitter.com/EG7G9BlUSa",
+					"expanded_url": "https://twitter.com/inplanet/status/1347105958984523777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Promoting Hip Hop, R&B, soul music in Korea. Music Label & Distributor /\nBoni, Hwaji, The Suite, Wilcox, OuiOui, DAMYE / 유통 문의: 02-3472-6680 or DM or Mention",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1476,
+			"friends_count": 789,
+			"listed_count": 63,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 98,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5279,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/450885515772825600/JMia4PNt_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/450885515772825600/JMia4PNt_normal.jpeg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#bobae]\n\n⚭\nbobae - 붙잡아 onoff -\n2021/01/13 12PM(KST) https://t.co/EG7G9BlUSa"
+	},
+	{
+		"created_at": "Thu Jan 07 09:30:00 +0000 2021",
+		"id": 1347105890646642700,
+		"id_str": "1347113243958009857",
+		"full_text": "[paktory]\n\nPAKTORY COMPANY 컴필레이션 앨범 ‘PAKTORY PLAYLIST 2020’이 모든 음원사이트에 공개되었습니다.\nPAKTORY COMPANY compilation album ‘PAKTORY PLAYLIST 2020’  released on online music streaming platform.\n\n#팩토리컴퍼니\n#Primary #ron #OV #1of1 \n#Meego #Kriz #Benzamin https://t.co/7XHNX9nNYn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팩토리컴퍼니",
+					"indices": [
+						185,
+						192
+					]
+				},
+				{
+					"text": "Primary",
+					"indices": [
+						193,
+						201
+					]
+				},
+				{
+					"text": "ron",
+					"indices": [
+						202,
+						206
+					]
+				},
+				{
+					"text": "OV",
+					"indices": [
+						207,
+						210
+					]
+				},
+				{
+					"text": "1of1",
+					"indices": [
+						211,
+						216
+					]
+				},
+				{
+					"text": "Meego",
+					"indices": [
+						218,
+						224
+					]
+				},
+				{
+					"text": "Kriz",
+					"indices": [
+						225,
+						230
+					]
+				},
+				{
+					"text": "Benzamin",
+					"indices": [
+						231,
+						240
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1347102611841843200,
+					"id_str": "1347102611841843202",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/ErHesC7VgAI6jtg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErHesC7VgAI6jtg.jpg",
+					"url": "https://t.co/7XHNX9nNYn",
+					"display_url": "pic.twitter.com/7XHNX9nNYn",
+					"expanded_url": "https://twitter.com/paktoryofficial/status/1347105890646642690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347102611841843200,
+					"id_str": "1347102611841843202",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/ErHesC7VgAI6jtg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErHesC7VgAI6jtg.jpg",
+					"url": "https://t.co/7XHNX9nNYn",
+					"display_url": "pic.twitter.com/7XHNX9nNYn",
+					"expanded_url": "https://twitter.com/paktoryofficial/status/1347105890646642690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189041084971634700,
+			"id_str": "1189041084971634688",
+			"name": "PAKTORY COMPANY",
+			"screen_name": "paktoryofficial",
+			"location": "seoul",
+			"description": "contact@paktory.net",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Tue Oct 29 04:47:52 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[paktory]\n\nPAKTORY COMPANY 컴필레이션 앨범 ‘PAKTORY PLAYLIST 2020’이 모든 음원사이트에 공개되었습니다.\nPAKTORY COMPANY compilation album ‘PAKTORY PLAYLIST 2020’  released on online music streaming platform.\n\n#팩토리컴퍼니\n#Primary #ron #OV #1of1 \n#Meego #Kriz #Benzamin https://t.co/7XHNX9nNYn"
+	},
+	{
+		"created_at": "Thu Jan 07 09:29:51 +0000 2021",
+		"id": 1347105827409203200,
+		"id_str": "1347113209183039488",
+		"full_text": "골든차일드(Golden Child) \n5th Mini Album [YES.] : Concept Trailer\n#TAG\n\n2021.01.25 6PM RELEASE\n\nhttps://t.co/in3dTfFQD9\nhttps://t.co/cOpb1NuXG6\n\n#GoldenChild #골든차일드 #YES https://t.co/8UVnfIZDfg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAG",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						140,
+						152
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "YES",
+					"indices": [
+						160,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/in3dTfFQD9",
+					"expanded_url": "http://youtu.be/qXEl6V4Z5i8",
+					"display_url": "youtu.be/qXEl6V4Z5i8",
+					"indices": [
+						91,
+						114
+					]
+				},
+				{
+					"url": "https://t.co/cOpb1NuXG6",
+					"expanded_url": "http://vlive.tv/video/231657",
+					"display_url": "vlive.tv/video/231657",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1347098664058069000,
+					"id_str": "1347098664058068993",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/ErHbGQSVoAECw10.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErHbGQSVoAECw10.jpg",
+					"url": "https://t.co/8UVnfIZDfg",
+					"display_url": "pic.twitter.com/8UVnfIZDfg",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1347105827409203202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347098664058069000,
+					"id_str": "1347098664058068993",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/ErHbGQSVoAECw10.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErHbGQSVoAECw10.jpg",
+					"url": "https://t.co/8UVnfIZDfg",
+					"display_url": "pic.twitter.com/8UVnfIZDfg",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1347105827409203202/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424845,
+			"friends_count": 10,
+			"listed_count": 1811,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2084,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1609750857",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 761,
+		"favorite_count": 1667,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "골든차일드(Golden Child) \n5th Mini Album [YES.] : Concept Trailer\n#TAG\n\n2021.01.25 6PM RELEASE\n\nhttps://t.co/in3dTfFQD9\nhttps://t.co/cOpb1NuXG6\n\n#GoldenChild #골든차일드 #YES https://t.co/8UVnfIZDfg"
+	},
+	{
 		"created_at": "Thu Jan 07 09:05:11 +0000 2021",
 		"id": 1347106999134281700,
 		"id_str": "1347106999134281728",
