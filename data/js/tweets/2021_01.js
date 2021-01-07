@@ -1,6 +1,764 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 07 07:11:17 +0000 2021",
+		"id": 1347073365748699100,
+		"id_str": "1347078335474655232",
+		"full_text": "방금 사진을 게시했습니다 @공상온도 https://t.co/7OgtiX1cKs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7OgtiX1cKs",
+					"expanded_url": "https://www.instagram.com/p/CJu_50jJJYU/?igshid=1hiki69iiy3km",
+					"display_url": "instagram.com/p/CJu_50jJJYU/…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "음식점을 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 363,
+			"friends_count": 191,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.55764455,
+				126.91971391
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				126.91971391,
+				37.55764455
+			]
+		},
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방금 사진을 게시했습니다 @공상온도 https://t.co/7OgtiX1cKs"
+	},
+	{
+		"created_at": "Thu Jan 07 06:29:42 +0000 2021",
+		"id": 1347060641870225400,
+		"id_str": "1347067872686841858",
+		"full_text": "[paktory]\n\nPAKTORY COMPANY 컴필레이션 앨범 ‘PAKTORY PLAYLIST 2020’이 오늘 오후 6시에 발매됩니다. \nPAKTORY COMPANY compilation album ‘PAKTORY PLAYLIST 2020’ will be released on today 6PM (KST)\n\n#PAKTORYCOMPANY #팩토리컴퍼니\n#Primary #ron #OV #1of1 \n#Meego #Kriz #Benzamin https://t.co/FJMg2nYlQd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PAKTORYCOMPANY",
+					"indices": [
+						174,
+						189
+					]
+				},
+				{
+					"text": "팩토리컴퍼니",
+					"indices": [
+						190,
+						197
+					]
+				},
+				{
+					"text": "Primary",
+					"indices": [
+						198,
+						206
+					]
+				},
+				{
+					"text": "ron",
+					"indices": [
+						207,
+						211
+					]
+				},
+				{
+					"text": "OV",
+					"indices": [
+						212,
+						215
+					]
+				},
+				{
+					"text": "1of1",
+					"indices": [
+						216,
+						221
+					]
+				},
+				{
+					"text": "Meego",
+					"indices": [
+						223,
+						229
+					]
+				},
+				{
+					"text": "Kriz",
+					"indices": [
+						230,
+						235
+					]
+				},
+				{
+					"text": "Benzamin",
+					"indices": [
+						236,
+						245
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1347059765474586600,
+					"id_str": "1347059765474586624",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1347059765474586624/pu/img/UgYSJjTAex_CTLE-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1347059765474586624/pu/img/UgYSJjTAex_CTLE-.jpg",
+					"url": "https://t.co/FJMg2nYlQd",
+					"display_url": "pic.twitter.com/FJMg2nYlQd",
+					"expanded_url": "https://twitter.com/paktoryofficial/status/1347060641870225408/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347059765474586600,
+					"id_str": "1347059765474586624",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1347059765474586624/pu/img/UgYSJjTAex_CTLE-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1347059765474586624/pu/img/UgYSJjTAex_CTLE-.jpg",
+					"url": "https://t.co/FJMg2nYlQd",
+					"display_url": "pic.twitter.com/FJMg2nYlQd",
+					"expanded_url": "https://twitter.com/paktoryofficial/status/1347060641870225408/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 43160,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1347059765474586624/pu/vid/480x270/wrAGkG-tvtvvRl_o.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1347059765474586624/pu/vid/640x360/k436dh1_NEhPxS2s.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1347059765474586624/pu/pl/pdBij3xNjy1Wbngb.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1347059765474586624/pu/vid/1280x720/dHvP3Pb8zx8bksn9.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189041084971634700,
+			"id_str": "1189041084971634688",
+			"name": "PAKTORY COMPANY",
+			"screen_name": "paktoryofficial",
+			"location": "seoul",
+			"description": "contact@paktory.net",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 305,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Tue Oct 29 04:47:52 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[paktory]\n\nPAKTORY COMPANY 컴필레이션 앨범 ‘PAKTORY PLAYLIST 2020’이 오늘 오후 6시에 발매됩니다. \nPAKTORY COMPANY compilation album ‘PAKTORY PLAYLIST 2020’ will be released on today 6PM (KST)\n\n#PAKTORYCOMPANY #팩토리컴퍼니\n#Primary #ron #OV #1of1 \n#Meego #Kriz #Benzamin https://t.co/FJMg2nYlQd"
+	},
+	{
+		"created_at": "Thu Jan 07 06:29:38 +0000 2021",
+		"id": 1347055299539075000,
+		"id_str": "1347067855464968192",
+		"full_text": "다큐플렉스 | GO! MBC https://t.co/zupMGzSTP5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zupMGzSTP5",
+					"expanded_url": "http://m.imbc.com/VOD/VodView?progCode=1005073100000100000&broadcastID=1005073100029100000&type=Prevod",
+					"display_url": "m.imbc.com/VOD/VodView?pr…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3719,
+			"friends_count": 6,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 81,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다큐플렉스 | GO! MBC https://t.co/zupMGzSTP5"
+	},
+	{
+		"created_at": "Thu Jan 07 06:29:32 +0000 2021",
+		"id": 1347054474896973800,
+		"id_str": "1347067829821042689",
+		"full_text": ".\n조문근 원샷 (one shot) MV Teaser \n.\n1/11 (MON) 정오 12시 (KST) 발매!\nComing Soon\n\n👉🏼 https://t.co/b9PqmCtDG2\n.\n#조문근 #원샷 #oneshot #MV #TEASER https://t.co/xuL2vSRhpG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조문근",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "원샷",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "oneshot",
+					"indices": [
+						112,
+						120
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "TEASER",
+					"indices": [
+						125,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b9PqmCtDG2",
+					"expanded_url": "https://youtu.be/ixeEJtzfvLc",
+					"display_url": "youtu.be/ixeEJtzfvLc",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1347054418999472000,
+					"id_str": "1347054418999472131",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1347054418999472131/pu/img/e5_IDQvzyhhfHN6t.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1347054418999472131/pu/img/e5_IDQvzyhhfHN6t.jpg",
+					"url": "https://t.co/xuL2vSRhpG",
+					"display_url": "pic.twitter.com/xuL2vSRhpG",
+					"expanded_url": "https://twitter.com/RCultureone/status/1347054474896973826/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347054418999472000,
+					"id_str": "1347054418999472131",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1347054418999472131/pu/img/e5_IDQvzyhhfHN6t.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1347054418999472131/pu/img/e5_IDQvzyhhfHN6t.jpg",
+					"url": "https://t.co/xuL2vSRhpG",
+					"display_url": "pic.twitter.com/xuL2vSRhpG",
+					"expanded_url": "https://twitter.com/RCultureone/status/1347054474896973826/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 38458,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1347054418999472131/pu/vid/480x480/HojiZNNVutoLQCbA.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1347054418999472131/pu/vid/320x320/D8CKj9VZ3FKFwtDi.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1347054418999472131/pu/pl/Psq7NQHvhKWYlSWc.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1232510182682267600,
+			"id_str": "1232510182682267653",
+			"name": "ROLLING CULTUREONE (롤링컬쳐원)",
+			"screen_name": "RCultureone",
+			"location": "",
+			"description": "Artist 조문근밴드(MOONBAND),디코이(D.COY),락킷걸(ROCKIT GIRL), 피콕(PEACOCK)\n\nContact\nTel. 02-325-6071\nMail. rollingcultureone@naver.com",
+			"url": "https://t.co/e3JqDNKrBf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e3JqDNKrBf",
+							"expanded_url": "http://therolling.co.kr",
+							"display_url": "therolling.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62,
+			"friends_count": 28,
+			"listed_count": 1,
+			"created_at": "Wed Feb 26 03:38:36 +0000 2020",
+			"favourites_count": 67,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 59,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1301755398714658817/j-2mG0NA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1301755398714658817/j-2mG0NA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1232510182682267653/1599197648",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": ".\n조문근 원샷 (one shot) MV Teaser \n.\n1/11 (MON) 정오 12시 (KST) 발매!\nComing Soon\n\n👉🏼 https://t.co/b9PqmCtDG2\n.\n#조문근 #원샷 #oneshot #MV #TEASER https://t.co/xuL2vSRhpG"
+	},
+	{
 		"created_at": "Thu Jan 07 04:11:16 +0000 2021",
 		"id": 1347031909436715000,
 		"id_str": "1347033035385040898",
