@@ -1,6 +1,1520 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 08 09:29:55 +0000 2021",
+		"id": 1347471908774707200,
+		"id_str": "1347475613448286208",
+		"full_text": "[Release]\n존박 - ‘어쩐지 오늘’ (도시남녀의 사랑법 OST)\n🔗 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗠/𝗩 https://t.co/hmsXAhkpWQ\n\n존박이 참여한 카카오TV 오리지널 &lt;도시남녀의 사랑법&gt; OST Part.2 ‘어쩐지 오늘’ 지금 바로 각종 음원 사이트를 통해 만나보세요🎧\n\n#존박 #JOHNPARK #어쩐지오늘 #도시남녀의사랑법 https://t.co/hQ1iv9x0a0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "존박",
+					"indices": [
+						165,
+						168
+					]
+				},
+				{
+					"text": "JOHNPARK",
+					"indices": [
+						169,
+						178
+					]
+				},
+				{
+					"text": "어쩐지오늘",
+					"indices": [
+						179,
+						185
+					]
+				},
+				{
+					"text": "도시남녀의사랑법",
+					"indices": [
+						186,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hmsXAhkpWQ",
+					"expanded_url": "http://youtu.be/k2pBOxFqZoU",
+					"display_url": "youtu.be/k2pBOxFqZoU",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1347471892454674400,
+					"id_str": "1347471892454674432",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/ErMujAaVkAAWtkM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErMujAaVkAAWtkM.jpg",
+					"url": "https://t.co/hQ1iv9x0a0",
+					"display_url": "pic.twitter.com/hQ1iv9x0a0",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1347471908774707201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347471892454674400,
+					"id_str": "1347471892454674432",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/ErMujAaVkAAWtkM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErMujAaVkAAWtkM.jpg",
+					"url": "https://t.co/hQ1iv9x0a0",
+					"display_url": "pic.twitter.com/hQ1iv9x0a0",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1347471908774707201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언 / Official YouTube Channel https://t.co/gTSbPm12G9",
+			"url": "https://t.co/eSVSBHrncV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSVSBHrncV",
+							"expanded_url": "http://www.instagram.com/musicfarmkorea",
+							"display_url": "instagram.com/musicfarmkorea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gTSbPm12G9",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								44,
+								67
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9206,
+			"friends_count": 4,
+			"listed_count": 110,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 777,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1357424393",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release]\n존박 - ‘어쩐지 오늘’ (도시남녀의 사랑법 OST)\n🔗 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗠/𝗩 https://t.co/hmsXAhkpWQ\n\n존박이 참여한 카카오TV 오리지널 &lt;도시남녀의 사랑법&gt; OST Part.2 ‘어쩐지 오늘’ 지금 바로 각종 음원 사이트를 통해 만나보세요🎧\n\n#존박 #JOHNPARK #어쩐지오늘 #도시남녀의사랑법 https://t.co/hQ1iv9x0a0"
+	},
+	{
+		"created_at": "Fri Jan 08 09:29:47 +0000 2021",
+		"id": 1347471752423633000,
+		"id_str": "1347475579394732033",
+		"full_text": "[#국카스텐] 스페셜 MD 선주문 판매 오픈🤗 https://t.co/zG9rQPBem2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "국카스텐",
+					"indices": [
+						1,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1347471743456211000,
+					"id_str": "1347471743456210946",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/ErMuaVWVcAI5YZ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErMuaVWVcAI5YZ1.jpg",
+					"url": "https://t.co/zG9rQPBem2",
+					"display_url": "pic.twitter.com/zG9rQPBem2",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1347471752423632899/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347471743456211000,
+					"id_str": "1347471743456210946",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/ErMuaVWVcAI5YZ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErMuaVWVcAI5YZ1.jpg",
+					"url": "https://t.co/zG9rQPBem2",
+					"display_url": "pic.twitter.com/zG9rQPBem2",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1347471752423632899/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1347471743464530000,
+					"id_str": "1347471743464529922",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/ErMuaVYUYAIJdx8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErMuaVYUYAIJdx8.jpg",
+					"url": "https://t.co/zG9rQPBem2",
+					"display_url": "pic.twitter.com/zG9rQPBem2",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1347471752423632899/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1347471743468753000,
+					"id_str": "1347471743468752897",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/ErMuaVZU0AE_9fY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErMuaVZU0AE_9fY.jpg",
+					"url": "https://t.co/zG9rQPBem2",
+					"display_url": "pic.twitter.com/zG9rQPBem2",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1347471752423632899/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 924920565906915300,
+			"id_str": "924920565906915328",
+			"name": "인터파크 엔터테인먼트",
+			"screen_name": "interpark_enter",
+			"location": "대한민국 서울",
+			"description": "인터파크 엔터테인먼트 공식 트위터입니다. 자우림 / 국카스텐 / 김윤아 / 에피톤 프로젝트 / 안녕하신가영 / O.O.O 일반 문의: e-info@interparkenter.com 섭외 및 프로모션: e-mgmt@interparkenter.com",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1742,
+			"friends_count": 12,
+			"listed_count": 5,
+			"created_at": "Mon Oct 30 08:47:01 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925888007030243328/W0b71PkA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925888007030243328/W0b71PkA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924920565906915328/1509583868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#국카스텐] 스페셜 MD 선주문 판매 오픈🤗 https://t.co/zG9rQPBem2"
+	},
+	{
+		"created_at": "Fri Jan 08 09:29:43 +0000 2021",
+		"id": 1347471031221457000,
+		"id_str": "1347475562168803329",
+		"full_text": "[#국카스텐] 스페셜 MD 선주문 판매 오픈🤗\n\n&lt;GUCKKASTEN X AECA WHITE&gt;\nCOLLABORATION SPECIAL MD\n[ALL ARTWORK BY HA HYUNWOO]\n\n✔️선주문 예약 판매 : \n2021년 1월 8일 오후 6시 ~ 2021년 1월 21일 밤 12시\n\n✔️판매처 : 인터파크 스타샵\nhttps://t.co/a1AKVvBDLS https://t.co/WU8wPvY5VZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "국카스텐",
+					"indices": [
+						1,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a1AKVvBDLS",
+					"expanded_url": "https://bit.ly/3pYnANT",
+					"display_url": "bit.ly/3pYnANT",
+					"indices": [
+						185,
+						208
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1347471017371791400,
+					"id_str": "1347471017371791366",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/ErMtwEeUcAYoYsw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErMtwEeUcAYoYsw.jpg",
+					"url": "https://t.co/WU8wPvY5VZ",
+					"display_url": "pic.twitter.com/WU8wPvY5VZ",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1347471031221456897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347471017371791400,
+					"id_str": "1347471017371791366",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/ErMtwEeUcAYoYsw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErMtwEeUcAYoYsw.jpg",
+					"url": "https://t.co/WU8wPvY5VZ",
+					"display_url": "pic.twitter.com/WU8wPvY5VZ",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1347471031221456897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1347471017392754700,
+					"id_str": "1347471017392754689",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/ErMtwEjUUAEo-aF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErMtwEjUUAEo-aF.jpg",
+					"url": "https://t.co/WU8wPvY5VZ",
+					"display_url": "pic.twitter.com/WU8wPvY5VZ",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1347471031221456897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1347471017371783200,
+					"id_str": "1347471017371783169",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/ErMtwEeUUAELGjJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErMtwEeUUAELGjJ.jpg",
+					"url": "https://t.co/WU8wPvY5VZ",
+					"display_url": "pic.twitter.com/WU8wPvY5VZ",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1347471031221456897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1347471017371865000,
+					"id_str": "1347471017371865089",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/ErMtwEeVkAE_IxG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErMtwEeVkAE_IxG.jpg",
+					"url": "https://t.co/WU8wPvY5VZ",
+					"display_url": "pic.twitter.com/WU8wPvY5VZ",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1347471031221456897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 924920565906915300,
+			"id_str": "924920565906915328",
+			"name": "인터파크 엔터테인먼트",
+			"screen_name": "interpark_enter",
+			"location": "대한민국 서울",
+			"description": "인터파크 엔터테인먼트 공식 트위터입니다. 자우림 / 국카스텐 / 김윤아 / 에피톤 프로젝트 / 안녕하신가영 / O.O.O 일반 문의: e-info@interparkenter.com 섭외 및 프로모션: e-mgmt@interparkenter.com",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1742,
+			"friends_count": 12,
+			"listed_count": 5,
+			"created_at": "Mon Oct 30 08:47:01 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925888007030243328/W0b71PkA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925888007030243328/W0b71PkA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924920565906915328/1509583868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#국카스텐] 스페셜 MD 선주문 판매 오픈🤗\n\n&lt;GUCKKASTEN X AECA WHITE&gt;\nCOLLABORATION SPECIAL MD\n[ALL ARTWORK BY HA HYUNWOO]\n\n✔️선주문 예약 판매 : \n2021년 1월 8일 오후 6시 ~ 2021년 1월 21일 밤 12시\n\n✔️판매처 : 인터파크 스타샵\nhttps://t.co/a1AKVvBDLS https://t.co/WU8wPvY5VZ"
+	},
+	{
+		"created_at": "Fri Jan 08 09:29:36 +0000 2021",
+		"id": 1347468817807540200,
+		"id_str": "1347475532322115587",
+		"full_text": "노안 대 동안, \"외모가 다가 아니야..\" https://t.co/GXA20yfLKF 출처 @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						51,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GXA20yfLKF",
+					"expanded_url": "https://youtu.be/FgK2sZLltcA",
+					"display_url": "youtu.be/FgK2sZLltcA",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3721,
+			"friends_count": 6,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 81,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "노안 대 동안, \"외모가 다가 아니야..\" https://t.co/GXA20yfLKF 출처 @YouTube"
+	},
+	{
+		"created_at": "Fri Jan 08 09:29:33 +0000 2021",
+		"id": 1347468227413123000,
+		"id_str": "1347475519135219712",
+		"full_text": "HAYEON 하연 'WALK AWAY' Teaser #1\n\n🎵 2021.01.11 12:00PM (KST)\n\n💟 https://t.co/2SlqCh8G9w\n\n#하연 #Hayeon #WalkAway \n#HAYEON_WalkAway https://t.co/cIBb9mVlR3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하연",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "Hayeon",
+					"indices": [
+						92,
+						99
+					]
+				},
+				{
+					"text": "WalkAway",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"text": "HAYEON_WalkAway",
+					"indices": [
+						111,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2SlqCh8G9w",
+					"expanded_url": "https://youtu.be/ujqpHz9RGRE",
+					"display_url": "youtu.be/ujqpHz9RGRE",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1347468205573357600,
+					"id_str": "1347468205573357571",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1347468205573357571/pu/img/zq2V-Q--jjBi8cnF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1347468205573357571/pu/img/zq2V-Q--jjBi8cnF.jpg",
+					"url": "https://t.co/cIBb9mVlR3",
+					"display_url": "pic.twitter.com/cIBb9mVlR3",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1347468227413123074/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 672,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347468205573357600,
+					"id_str": "1347468205573357571",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1347468205573357571/pu/img/zq2V-Q--jjBi8cnF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1347468205573357571/pu/img/zq2V-Q--jjBi8cnF.jpg",
+					"url": "https://t.co/cIBb9mVlR3",
+					"display_url": "pic.twitter.com/cIBb9mVlR3",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1347468227413123074/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 672,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							40,
+							21
+						],
+						"duration_millis": 7040,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1347468205573357571/pu/vid/1280x672/pG0Qy5B4hZiTYqBX.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1347468205573357571/pu/pl/KaXczBHVEou5Uups.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1347468205573357571/pu/vid/514x270/gPeKhi5CoYIkdKcJ.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1347468205573357571/pu/vid/684x360/aC_pQ-L5rErg22dr.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 964372210436591600,
+			"id_str": "964372210436591616",
+			"name": "Enterarts - A.I.M",
+			"screen_name": "aimbyenterarts",
+			"location": "대한민국 서울",
+			"description": "The World's First AI Music Production Company & Record Label / Artist Management\n세계 최초 인공지능 음반 제작 레이블",
+			"url": "https://t.co/4A9OjJKnmN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4A9OjJKnmN",
+							"expanded_url": "http://www.enterarts.net",
+							"display_url": "enterarts.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 227,
+			"friends_count": 25,
+			"listed_count": 2,
+			"created_at": "Fri Feb 16 05:33:46 +0000 2018",
+			"favourites_count": 829,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/964372210436591616/1518759589",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HAYEON 하연 'WALK AWAY' Teaser #1\n\n🎵 2021.01.11 12:00PM (KST)\n\n💟 https://t.co/2SlqCh8G9w\n\n#하연 #Hayeon #WalkAway \n#HAYEON_WalkAway https://t.co/cIBb9mVlR3"
+	},
+	{
+		"created_at": "Fri Jan 08 09:29:25 +0000 2021",
+		"id": 1347468211738972200,
+		"id_str": "1347475485010309120",
+		"full_text": "골든차일드(Golden Child)\n5th Mini Album [YES.] : Concept Trailer\n#김지범 (#KimJibeom)\n\n2021.01.25 6PM RELEASE\n\nhttps://t.co/Oun9HYWkor\nhttps://t.co/TE0dDcUTed\n\n#GoldenChild #골든차일드 #YES https://t.co/iLTljXBx3T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김지범",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "KimJibeom",
+					"indices": [
+						66,
+						76
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						152,
+						164
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						165,
+						171
+					]
+				},
+				{
+					"text": "YES",
+					"indices": [
+						172,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Oun9HYWkor",
+					"expanded_url": "http://youtu.be/D4MWHDH59eI",
+					"display_url": "youtu.be/D4MWHDH59eI",
+					"indices": [
+						103,
+						126
+					]
+				},
+				{
+					"url": "https://t.co/TE0dDcUTed",
+					"expanded_url": "http://vlive.tv/video/231839",
+					"display_url": "vlive.tv/video/231839",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1347462127431286800,
+					"id_str": "1347462127431286786",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/ErMlqm3VgAI6PRb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErMlqm3VgAI6PRb.jpg",
+					"url": "https://t.co/iLTljXBx3T",
+					"display_url": "pic.twitter.com/iLTljXBx3T",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1347468211738972161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347462127431286800,
+					"id_str": "1347462127431286786",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/ErMlqm3VgAI6PRb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErMlqm3VgAI6PRb.jpg",
+					"url": "https://t.co/iLTljXBx3T",
+					"display_url": "pic.twitter.com/iLTljXBx3T",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1347468211738972161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424852,
+			"friends_count": 10,
+			"listed_count": 1814,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2086,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1609750857",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 779,
+		"favorite_count": 1698,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "골든차일드(Golden Child)\n5th Mini Album [YES.] : Concept Trailer\n#김지범 (#KimJibeom)\n\n2021.01.25 6PM RELEASE\n\nhttps://t.co/Oun9HYWkor\nhttps://t.co/TE0dDcUTed\n\n#GoldenChild #골든차일드 #YES https://t.co/iLTljXBx3T"
+	},
+	{
+		"created_at": "Fri Jan 08 09:25:42 +0000 2021",
+		"id": 1347474549454073900,
+		"id_str": "1347474549454073857",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n#Team워너 Live : 혼네 (HONNE) - no song without you\nhttps://t.co/anDyZQUPz4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				},
+				{
+					"text": "Team워너",
+					"indices": [
+						29,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/anDyZQUPz4",
+					"expanded_url": "https://youtu.be/xV9RNgi4AoI",
+					"display_url": "youtu.be/xV9RNgi4AoI",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 246,
+			"friends_count": 435,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n#Team워너 Live : 혼네 (HONNE) - no song without you\nhttps://t.co/anDyZQUPz4"
+	},
+	{
 		"created_at": "Fri Jan 08 08:00:52 +0000 2021",
 		"id": 1347453203504361500,
 		"id_str": "1347453203504361474",
