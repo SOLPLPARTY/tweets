@@ -1,6 +1,370 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 08 14:11:23 +0000 2021",
+		"id": 1347538105423679500,
+		"id_str": "1347546444841033730",
+		"full_text": ":\n1만원권 상품권을 행사 기간중 10% 할인가(9000원)로 구입가능합니다.\n*\n실내 총 수용 인원은 15명으로 제한하고, 출입명부 작성과 손소독, 체온측정을 하고 있으니 협조 부탁드립니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1347538104006054000,
+		"in_reply_to_status_id_str": "1347538104006053891",
+		"in_reply_to_user_id": 3225907891,
+		"in_reply_to_user_id_str": "3225907891",
+		"in_reply_to_screen_name": "seendosi",
+		"user": {
+			"id": 3225907891,
+			"id_str": "3225907891",
+			"name": "신도시",
+			"screen_name": "seendosi",
+			"location": "서울시 중구 수표동 11-2, 5층",
+			"description": "맥주.양주.커피.식사 /송년회•신년회•돌잔치•회갑연•상견례•생일연•피로연회석완비 /서울시 중구 수표동 11-2 5층 /평일 6PM-2AM /금 6PM-3AM /토 3PM-3AM /일 휴무 /070-8631-4557",
+			"url": "https://t.co/o9mzPvptV6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o9mzPvptV6",
+							"expanded_url": "http://seendosi.com",
+							"display_url": "seendosi.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3932,
+			"friends_count": 685,
+			"listed_count": 27,
+			"created_at": "Mon May 25 05:15:01 +0000 2015",
+			"favourites_count": 2923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3225907891/1442843307",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": ":\n1만원권 상품권을 행사 기간중 10% 할인가(9000원)로 구입가능합니다.\n*\n실내 총 수용 인원은 15명으로 제한하고, 출입명부 작성과 손소독, 체온측정을 하고 있으니 협조 부탁드립니다."
+	},
+	{
+		"created_at": "Fri Jan 08 14:11:19 +0000 2021",
+		"id": 1347538104006054000,
+		"id_str": "1347546427522740227",
+		"full_text": "사를 2주간 진행합니다.\n⠀\n*\n신상품을 제외한 기존 제품들은 40% - 50 % 할인 된 가격으로 판매됩니다.\n⠀\n*\n신도시 상품권 발매\n:\n신도시에서 주류를 결제하거나 향후 이루어질 공연과 신도시 프로덕션의 제품들을 구매 하실 때 화폐처럼 사용 가능한 상품권입니다.(신도시에서만 사용 가능합니다.)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1347538101900435500,
+		"in_reply_to_status_id_str": "1347538101900435458",
+		"in_reply_to_user_id": 3225907891,
+		"in_reply_to_user_id_str": "3225907891",
+		"in_reply_to_screen_name": "seendosi",
+		"user": {
+			"id": 3225907891,
+			"id_str": "3225907891",
+			"name": "신도시",
+			"screen_name": "seendosi",
+			"location": "서울시 중구 수표동 11-2, 5층",
+			"description": "맥주.양주.커피.식사 /송년회•신년회•돌잔치•회갑연•상견례•생일연•피로연회석완비 /서울시 중구 수표동 11-2 5층 /평일 6PM-2AM /금 6PM-3AM /토 3PM-3AM /일 휴무 /070-8631-4557",
+			"url": "https://t.co/o9mzPvptV6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o9mzPvptV6",
+							"expanded_url": "http://seendosi.com",
+							"display_url": "seendosi.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3932,
+			"friends_count": 685,
+			"listed_count": 27,
+			"created_at": "Mon May 25 05:15:01 +0000 2015",
+			"favourites_count": 2923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3225907891/1442843307",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "사를 2주간 진행합니다.\n⠀\n*\n신상품을 제외한 기존 제품들은 40% - 50 % 할인 된 가격으로 판매됩니다.\n⠀\n*\n신도시 상품권 발매\n:\n신도시에서 주류를 결제하거나 향후 이루어질 공연과 신도시 프로덕션의 제품들을 구매 하실 때 화폐처럼 사용 가능한 상품권입니다.(신도시에서만 사용 가능합니다.)"
+	},
+	{
+		"created_at": "Fri Jan 08 14:11:17 +0000 2021",
+		"id": 1347538101900435500,
+		"id_str": "1347546418475487232",
+		"full_text": "신도시 프라자\nseendosi Plaza\n⠀\n1월 10일 (일) - 1월 24일 (일)\n3 pm - 9pm (신도시 영업 병행)\n서울시 중구 수표동 11-2. 5층 신도시\n⠀\n*\n지난 5년동안 신도시 프로덕션에서 제작 된 티셔츠, 책, 음반 등의 제품들과 함께 그 동안의 쓰였던 실크스크린 제판을 활용한 새로운 제품들을 판매하는 행 https://t.co/SitcTyXNxZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1347538092966641700,
+					"id_str": "1347538092966641664",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/ErNqwYiVgAAjJtC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErNqwYiVgAAjJtC.jpg",
+					"url": "https://t.co/SitcTyXNxZ",
+					"display_url": "pic.twitter.com/SitcTyXNxZ",
+					"expanded_url": "https://twitter.com/seendosi/status/1347538101900435458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 563,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1060,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 994,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347538092966641700,
+					"id_str": "1347538092966641664",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/ErNqwYiVgAAjJtC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErNqwYiVgAAjJtC.jpg",
+					"url": "https://t.co/SitcTyXNxZ",
+					"display_url": "pic.twitter.com/SitcTyXNxZ",
+					"expanded_url": "https://twitter.com/seendosi/status/1347538101900435458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 563,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1060,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 994,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3225907891,
+			"id_str": "3225907891",
+			"name": "신도시",
+			"screen_name": "seendosi",
+			"location": "서울시 중구 수표동 11-2, 5층",
+			"description": "맥주.양주.커피.식사 /송년회•신년회•돌잔치•회갑연•상견례•생일연•피로연회석완비 /서울시 중구 수표동 11-2 5층 /평일 6PM-2AM /금 6PM-3AM /토 3PM-3AM /일 휴무 /070-8631-4557",
+			"url": "https://t.co/o9mzPvptV6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o9mzPvptV6",
+							"expanded_url": "http://seendosi.com",
+							"display_url": "seendosi.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3932,
+			"friends_count": 685,
+			"listed_count": 27,
+			"created_at": "Mon May 25 05:15:01 +0000 2015",
+			"favourites_count": 2923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3225907891/1442843307",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "신도시 프라자\nseendosi Plaza\n⠀\n1월 10일 (일) - 1월 24일 (일)\n3 pm - 9pm (신도시 영업 병행)\n서울시 중구 수표동 11-2. 5층 신도시\n⠀\n*\n지난 5년동안 신도시 프로덕션에서 제작 된 티셔츠, 책, 음반 등의 제품들과 함께 그 동안의 쓰였던 실크스크린 제판을 활용한 새로운 제품들을 판매하는 행 https://t.co/SitcTyXNxZ"
+	},
+	{
 		"created_at": "Fri Jan 08 11:11:17 +0000 2021",
 		"id": 1347497536370651100,
 		"id_str": "1347501120554463238",
