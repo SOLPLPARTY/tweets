@@ -1,6 +1,1268 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 10 10:11:34 +0000 2021",
+		"id": 1348210213266935800,
+		"id_str": "1348210868580999168",
+		"full_text": "🔗 네이버 POST : https://t.co/9jS0z96857\n\n☃️  크르르 (krr) 「흰」\n☃️  재주소년 「눈 오던 날」\n☃️  Odd Future 「White (feat. Frank Ocean)」 https://t.co/PMEbpodEsM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9jS0z96857",
+					"expanded_url": "http://naver.me/GJr0p5w2",
+					"display_url": "naver.me/GJr0p5w2",
+					"indices": [
+						13,
+						36
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1348210162276864000,
+					"id_str": "1348210162276864003",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ErXN_90VkAMisYe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErXN_90VkAMisYe.jpg",
+					"url": "https://t.co/PMEbpodEsM",
+					"display_url": "pic.twitter.com/PMEbpodEsM",
+					"expanded_url": "https://twitter.com/xindieticket/status/1348210213266935809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348210162276864000,
+					"id_str": "1348210162276864003",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ErXN_90VkAMisYe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErXN_90VkAMisYe.jpg",
+					"url": "https://t.co/PMEbpodEsM",
+					"display_url": "pic.twitter.com/PMEbpodEsM",
+					"expanded_url": "https://twitter.com/xindieticket/status/1348210213266935809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348210162541072400,
+					"id_str": "1348210162541072388",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ErXN_-zVEAQUOpf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErXN_-zVEAQUOpf.jpg",
+					"url": "https://t.co/PMEbpodEsM",
+					"display_url": "pic.twitter.com/PMEbpodEsM",
+					"expanded_url": "https://twitter.com/xindieticket/status/1348210213266935809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348210162700415000,
+					"id_str": "1348210162700414986",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ErXN__ZUcAofi1A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErXN__ZUcAofi1A.jpg",
+					"url": "https://t.co/PMEbpodEsM",
+					"display_url": "pic.twitter.com/PMEbpodEsM",
+					"expanded_url": "https://twitter.com/xindieticket/status/1348210213266935809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1348210207613096000,
+		"in_reply_to_status_id_str": "1348210207613095937",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2785,
+			"friends_count": 2676,
+			"listed_count": 20,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9586,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔗 네이버 POST : https://t.co/9jS0z96857\n\n☃️  크르르 (krr) 「흰」\n☃️  재주소년 「눈 오던 날」\n☃️  Odd Future 「White (feat. Frank Ocean)」 https://t.co/PMEbpodEsM"
+	},
+	{
+		"created_at": "Sun Jan 10 10:11:25 +0000 2021",
+		"id": 1348210207613096000,
+		"id_str": "1348210830337331202",
+		"full_text": "🔗 네이버 POST : https://t.co/9jS0z96857\n\n☃️  SURL 「눈」   \n☃️  폴킴 (Paul Kim) 「눈」\n☃️  김사월 「설원」 \n☃️  Zion.T 「눈 (feat. 이문세)」 https://t.co/TnRgDhSd8s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9jS0z96857",
+					"expanded_url": "http://naver.me/GJr0p5w2",
+					"display_url": "naver.me/GJr0p5w2",
+					"indices": [
+						13,
+						36
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1348210044593082400,
+					"id_str": "1348210044593082371",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ErXN5HaVkAM140h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErXN5HaVkAM140h.jpg",
+					"url": "https://t.co/TnRgDhSd8s",
+					"display_url": "pic.twitter.com/TnRgDhSd8s",
+					"expanded_url": "https://twitter.com/xindieticket/status/1348210207613095937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348210044593082400,
+					"id_str": "1348210044593082371",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ErXN5HaVkAM140h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErXN5HaVkAM140h.jpg",
+					"url": "https://t.co/TnRgDhSd8s",
+					"display_url": "pic.twitter.com/TnRgDhSd8s",
+					"expanded_url": "https://twitter.com/xindieticket/status/1348210207613095937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348210044815302700,
+					"id_str": "1348210044815302660",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ErXN5IPUYAQ_mI3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErXN5IPUYAQ_mI3.jpg",
+					"url": "https://t.co/TnRgDhSd8s",
+					"display_url": "pic.twitter.com/TnRgDhSd8s",
+					"expanded_url": "https://twitter.com/xindieticket/status/1348210207613095937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348210045008285700,
+					"id_str": "1348210045008285697",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ErXN5I9VEAEhJMT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErXN5I9VEAEhJMT.jpg",
+					"url": "https://t.co/TnRgDhSd8s",
+					"display_url": "pic.twitter.com/TnRgDhSd8s",
+					"expanded_url": "https://twitter.com/xindieticket/status/1348210207613095937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348210045163503600,
+					"id_str": "1348210045163503617",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ErXN5JiVgAEY5TC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErXN5JiVgAEY5TC.jpg",
+					"url": "https://t.co/TnRgDhSd8s",
+					"display_url": "pic.twitter.com/TnRgDhSd8s",
+					"expanded_url": "https://twitter.com/xindieticket/status/1348210207613095937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1348210201061589000,
+		"in_reply_to_status_id_str": "1348210201061588997",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2785,
+			"friends_count": 2676,
+			"listed_count": 20,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9586,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔗 네이버 POST : https://t.co/9jS0z96857\n\n☃️  SURL 「눈」   \n☃️  폴킴 (Paul Kim) 「눈」\n☃️  김사월 「설원」 \n☃️  Zion.T 「눈 (feat. 이문세)」 https://t.co/TnRgDhSd8s"
+	},
+	{
+		"created_at": "Sun Jan 10 10:11:17 +0000 2021",
+		"id": 1348210201061589000,
+		"id_str": "1348210796300533762",
+		"full_text": "[2021년 1월 셋째 주 XINDIE'S PLAYLIST]\n\n1월 셋째 주, 플레이리스트 주제는 &lt;하얀, 눈&gt;입니다☃️❄️\n\n하얀 색도 종류가 여러개듯이, 개개인에게 눈이 가져다 주는 감정도 모두 다르죠. 그래서, 눈 혹은 하얀색의 느낌을 다양하게 담은 곡들만 뽑아 플레이리스트를 준비해 보았지요! ♫꒰･◡･๑꒱ https://t.co/yqY6KOhAHr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1348209850254192600,
+					"id_str": "1348209850254192640",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/ErXNtzcVcAA9Xfh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErXNtzcVcAA9Xfh.jpg",
+					"url": "https://t.co/yqY6KOhAHr",
+					"display_url": "pic.twitter.com/yqY6KOhAHr",
+					"expanded_url": "https://twitter.com/xindieticket/status/1348210201061588997/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348209850254192600,
+					"id_str": "1348209850254192640",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/ErXNtzcVcAA9Xfh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErXNtzcVcAA9Xfh.jpg",
+					"url": "https://t.co/yqY6KOhAHr",
+					"display_url": "pic.twitter.com/yqY6KOhAHr",
+					"expanded_url": "https://twitter.com/xindieticket/status/1348210201061588997/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2785,
+			"friends_count": 2676,
+			"listed_count": 20,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9586,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2021년 1월 셋째 주 XINDIE'S PLAYLIST]\n\n1월 셋째 주, 플레이리스트 주제는 &lt;하얀, 눈&gt;입니다☃️❄️\n\n하얀 색도 종류가 여러개듯이, 개개인에게 눈이 가져다 주는 감정도 모두 다르죠. 그래서, 눈 혹은 하얀색의 느낌을 다양하게 담은 곡들만 뽑아 플레이리스트를 준비해 보았지요! ♫꒰･◡･๑꒱ https://t.co/yqY6KOhAHr"
+	},
+	{
+		"created_at": "Sun Jan 10 09:29:33 +0000 2021",
+		"id": 1348196513214722000,
+		"id_str": "1348200295671721985",
+		"full_text": "[#bobae]\n\n⚭\nbobae - 붙잡아 onoff -\n2021/01/13 12PM(KST) https://t.co/8NKpWZlfoE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bobae",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1348196503316168700,
+					"id_str": "1348196503316168704",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/ErXBk6OVgAAgr1Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErXBk6OVgAAgr1Q.jpg",
+					"url": "https://t.co/8NKpWZlfoE",
+					"display_url": "pic.twitter.com/8NKpWZlfoE",
+					"expanded_url": "https://twitter.com/inplanet/status/1348196513214722049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 730,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 730,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 485,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348196503316168700,
+					"id_str": "1348196503316168704",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/ErXBk6OVgAAgr1Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErXBk6OVgAAgr1Q.jpg",
+					"url": "https://t.co/8NKpWZlfoE",
+					"display_url": "pic.twitter.com/8NKpWZlfoE",
+					"expanded_url": "https://twitter.com/inplanet/status/1348196513214722049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 730,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 730,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 485,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348196503349653500,
+					"id_str": "1348196503349653506",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/ErXBk6WUcAImmz0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErXBk6WUcAImmz0.jpg",
+					"url": "https://t.co/8NKpWZlfoE",
+					"display_url": "pic.twitter.com/8NKpWZlfoE",
+					"expanded_url": "https://twitter.com/inplanet/status/1348196513214722049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 730,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 730,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348196503353921500,
+					"id_str": "1348196503353921537",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/ErXBk6XVkAEVN9H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErXBk6XVkAEVN9H.jpg",
+					"url": "https://t.co/8NKpWZlfoE",
+					"display_url": "pic.twitter.com/8NKpWZlfoE",
+					"expanded_url": "https://twitter.com/inplanet/status/1348196513214722049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 730,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 730,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348196503353925600,
+					"id_str": "1348196503353925634",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/ErXBk6XVoAIYivp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErXBk6XVoAIYivp.jpg",
+					"url": "https://t.co/8NKpWZlfoE",
+					"display_url": "pic.twitter.com/8NKpWZlfoE",
+					"expanded_url": "https://twitter.com/inplanet/status/1348196513214722049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 730,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 730,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Promoting Hip Hop, R&B, soul music in Korea. Music Label & Distributor /\nBoni, Hwaji, The Suite, Wilcox, OuiOui, DAMYE / 유통 문의: 02-3472-6680 or DM or Mention",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1476,
+			"friends_count": 789,
+			"listed_count": 63,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 98,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/450885515772825600/JMia4PNt_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/450885515772825600/JMia4PNt_normal.jpeg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#bobae]\n\n⚭\nbobae - 붙잡아 onoff -\n2021/01/13 12PM(KST) https://t.co/8NKpWZlfoE"
+	},
+	{
+		"created_at": "Sun Jan 10 09:29:30 +0000 2021",
+		"id": 1348196101535404000,
+		"id_str": "1348200282510020613",
+		"full_text": "[#Percent] Mac Miller - Come Back To Earth｜Cover By 96BPM 공개!\n\nfull ver. 🔗https://t.co/Kvw6QDaXhX\n\n#퍼센트 #96bpm #MacMiller #ComeBackToEarth https://t.co/Ppk4uLYROF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Percent",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "퍼센트",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "96bpm",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "MacMiller",
+					"indices": [
+						111,
+						121
+					]
+				},
+				{
+					"text": "ComeBackToEarth",
+					"indices": [
+						122,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Kvw6QDaXhX",
+					"expanded_url": "http://youtu.be/b-HQ1a12404",
+					"display_url": "youtu.be/b-HQ1a12404",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1348195985567084500,
+					"id_str": "1348195985567084544",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1348195985567084544/pu/img/tRxc_nwgQXHIqx0T.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1348195985567084544/pu/img/tRxc_nwgQXHIqx0T.jpg",
+					"url": "https://t.co/Ppk4uLYROF",
+					"display_url": "pic.twitter.com/Ppk4uLYROF",
+					"expanded_url": "https://twitter.com/themysticstory/status/1348196101535404034/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348195985567084500,
+					"id_str": "1348195985567084544",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1348195985567084544/pu/img/tRxc_nwgQXHIqx0T.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1348195985567084544/pu/img/tRxc_nwgQXHIqx0T.jpg",
+					"url": "https://t.co/Ppk4uLYROF",
+					"display_url": "pic.twitter.com/Ppk4uLYROF",
+					"expanded_url": "https://twitter.com/themysticstory/status/1348196101535404034/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 61311,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1348195985567084544/pu/vid/480x270/OO9elj75SCQNXIs4.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1348195985567084544/pu/pl/NVeJt1KB1lC_kp8p.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1348195985567084544/pu/vid/640x360/ho_6CU0vjdctoW9g.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1348195985567084544/pu/vid/1280x720/36Hk3dSaic0hT_bK.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20016,
+			"friends_count": 18,
+			"listed_count": 230,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5533,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Percent] Mac Miller - Come Back To Earth｜Cover By 96BPM 공개!\n\nfull ver. 🔗https://t.co/Kvw6QDaXhX\n\n#퍼센트 #96bpm #MacMiller #ComeBackToEarth https://t.co/Ppk4uLYROF"
+	},
+	{
 		"created_at": "Sun Jan 10 09:11:44 +0000 2021",
 		"id": 1348195811843301400,
 		"id_str": "1348195811843301377",
