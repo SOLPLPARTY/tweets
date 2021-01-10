@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 10 06:29:25 +0000 2021",
+		"id": 1348147612029907000,
+		"id_str": "1348154965492178944",
+		"full_text": "[📸] Hayeon 하연 'WALK AWAY' Behind Photo\n\n🎵 2021.01.11 12:00PM (KST)\n\n💌 Official Fancafe \n👉 https://t.co/OMD6UVU66A\n\n#하연 #Hayeon #WALKAWAY\n#Hayeon_WALKAWAY https://t.co/xmVqHou0hB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하연",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "Hayeon",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"text": "WALKAWAY",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"text": "Hayeon_WALKAWAY",
+					"indices": [
+						137,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OMD6UVU66A",
+					"expanded_url": "http://cafe.daum.net/Hayeon",
+					"display_url": "cafe.daum.net/Hayeon",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1348147603465097200,
+					"id_str": "1348147603465097216",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/ErWVGkFU0AACRcz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErWVGkFU0AACRcz.jpg",
+					"url": "https://t.co/xmVqHou0hB",
+					"display_url": "pic.twitter.com/xmVqHou0hB",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1348147612029906944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348147603465097200,
+					"id_str": "1348147603465097216",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/ErWVGkFU0AACRcz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErWVGkFU0AACRcz.jpg",
+					"url": "https://t.co/xmVqHou0hB",
+					"display_url": "pic.twitter.com/xmVqHou0hB",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1348147612029906944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 964372210436591600,
+			"id_str": "964372210436591616",
+			"name": "Enterarts - A.I.M",
+			"screen_name": "aimbyenterarts",
+			"location": "대한민국 서울",
+			"description": "The World's First AI Music Production Company & Record Label / Artist Management\n세계 최초 인공지능 음반 제작 레이블",
+			"url": "https://t.co/4A9OjJKnmN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4A9OjJKnmN",
+							"expanded_url": "http://www.enterarts.net",
+							"display_url": "enterarts.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 11,
+			"listed_count": 3,
+			"created_at": "Fri Feb 16 05:33:46 +0000 2018",
+			"favourites_count": 873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/964372210436591616/1518759589",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📸] Hayeon 하연 'WALK AWAY' Behind Photo\n\n🎵 2021.01.11 12:00PM (KST)\n\n💌 Official Fancafe \n👉 https://t.co/OMD6UVU66A\n\n#하연 #Hayeon #WALKAWAY\n#Hayeon_WALKAWAY https://t.co/xmVqHou0hB"
+	},
+	{
 		"created_at": "Sun Jan 10 04:01:41 +0000 2021",
 		"id": 1348117784060973000,
 		"id_str": "1348117784060973057",
