@@ -1,6 +1,930 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 11 10:29:42 +0000 2021",
+		"id": 1348570451350413300,
+		"id_str": "1348577821011148802",
+		"full_text": "골든차일드(Golden Child)\n5th Mini Album [YES.]｜Concept Photo\n#김동현 (#KimDonghyun)\n\n2021.01.25 6PM RELEASE\n\n#GoldenChild #골든차일드 #YES https://t.co/M3UTmrF2PT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김동현",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "KimDonghyun",
+					"indices": [
+						62,
+						74
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						101,
+						113
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "YES",
+					"indices": [
+						121,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1348566898355495000,
+					"id_str": "1348566898355494919",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/ErcScvRUYAcassF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErcScvRUYAcassF.jpg",
+					"url": "https://t.co/M3UTmrF2PT",
+					"display_url": "pic.twitter.com/M3UTmrF2PT",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1348570451350413313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348566898355495000,
+					"id_str": "1348566898355494919",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/ErcScvRUYAcassF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErcScvRUYAcassF.jpg",
+					"url": "https://t.co/M3UTmrF2PT",
+					"display_url": "pic.twitter.com/M3UTmrF2PT",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1348570451350413313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348566920845426700,
+					"id_str": "1348566920845426688",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/ErcSeDDVgAAexTS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErcSeDDVgAAexTS.jpg",
+					"url": "https://t.co/M3UTmrF2PT",
+					"display_url": "pic.twitter.com/M3UTmrF2PT",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1348570451350413313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348566940088815600,
+					"id_str": "1348566940088815620",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/ErcSfKvUUAQ0ATQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErcSfKvUUAQ0ATQ.jpg",
+					"url": "https://t.co/M3UTmrF2PT",
+					"display_url": "pic.twitter.com/M3UTmrF2PT",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1348570451350413313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424952,
+			"friends_count": 10,
+			"listed_count": 1818,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2092,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1609750857",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 646,
+		"favorite_count": 1497,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "골든차일드(Golden Child)\n5th Mini Album [YES.]｜Concept Photo\n#김동현 (#KimDonghyun)\n\n2021.01.25 6PM RELEASE\n\n#GoldenChild #골든차일드 #YES https://t.co/M3UTmrF2PT"
+	},
+	{
+		"created_at": "Mon Jan 11 10:29:34 +0000 2021",
+		"id": 1348563931871072300,
+		"id_str": "1348577786869538816",
+		"full_text": "[📸] Hayeon 하연 'WALK AWAY' MV STILL CUT \n\n💌 Official Fancafe \n👉 https://t.co/OMD6UVU66A\n\n#하연 #Hayeon #WALKAWAY\n#Hayeon_WALKAWAY https://t.co/c2tv4Azngl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하연",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "Hayeon",
+					"indices": [
+						92,
+						99
+					]
+				},
+				{
+					"text": "WALKAWAY",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"text": "Hayeon_WALKAWAY",
+					"indices": [
+						110,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OMD6UVU66A",
+					"expanded_url": "http://cafe.daum.net/Hayeon",
+					"display_url": "cafe.daum.net/Hayeon",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1348563923067302000,
+					"id_str": "1348563923067301888",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/ErcPvjdVcAAx5zq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErcPvjdVcAAx5zq.jpg",
+					"url": "https://t.co/c2tv4Azngl",
+					"display_url": "pic.twitter.com/c2tv4Azngl",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1348563931871072260/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1076,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348563923067302000,
+					"id_str": "1348563923067301888",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/ErcPvjdVcAAx5zq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErcPvjdVcAAx5zq.jpg",
+					"url": "https://t.co/c2tv4Azngl",
+					"display_url": "pic.twitter.com/c2tv4Azngl",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1348563931871072260/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1076,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348563923276992500,
+					"id_str": "1348563923276992521",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/ErcPvkPVEAkgEId.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErcPvkPVEAkgEId.jpg",
+					"url": "https://t.co/c2tv4Azngl",
+					"display_url": "pic.twitter.com/c2tv4Azngl",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1348563931871072260/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1076,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348563923486740500,
+					"id_str": "1348563923486740481",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/ErcPvlBVkAEHwi_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErcPvlBVkAEHwi_.jpg",
+					"url": "https://t.co/c2tv4Azngl",
+					"display_url": "pic.twitter.com/c2tv4Azngl",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1348563931871072260/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1076,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348563924082311200,
+					"id_str": "1348563924082311168",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/ErcPvnPVQAA04uF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErcPvnPVQAA04uF.jpg",
+					"url": "https://t.co/c2tv4Azngl",
+					"display_url": "pic.twitter.com/c2tv4Azngl",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1348563931871072260/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1076,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 964372210436591600,
+			"id_str": "964372210436591616",
+			"name": "Enterarts - A.I.M",
+			"screen_name": "aimbyenterarts",
+			"location": "대한민국 서울",
+			"description": "The World's First AI Music Production Company & Record Label / Artist Management\n세계 최초 인공지능 음반 제작 레이블",
+			"url": "https://t.co/4A9OjJKnmN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4A9OjJKnmN",
+							"expanded_url": "http://www.enterarts.net",
+							"display_url": "enterarts.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 11,
+			"listed_count": 3,
+			"created_at": "Fri Feb 16 05:33:46 +0000 2018",
+			"favourites_count": 919,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/964372210436591616/1518759589",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📸] Hayeon 하연 'WALK AWAY' MV STILL CUT \n\n💌 Official Fancafe \n👉 https://t.co/OMD6UVU66A\n\n#하연 #Hayeon #WALKAWAY\n#Hayeon_WALKAWAY https://t.co/c2tv4Azngl"
+	},
+	{
+		"created_at": "Mon Jan 11 10:29:32 +0000 2021",
+		"id": 1348563896186015700,
+		"id_str": "1348577777755303937",
+		"full_text": "[📸] Hayeon 하연 'WALK AWAY' MV STILL CUT \n\n💌 Official Fancafe \n👉 https://t.co/OMD6UVU66A\n\n#하연 #Hayeon #WALKAWAY\n#Hayeon_WALKAWAY https://t.co/joAE39GJgp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하연",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "Hayeon",
+					"indices": [
+						92,
+						99
+					]
+				},
+				{
+					"text": "WALKAWAY",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"text": "Hayeon_WALKAWAY",
+					"indices": [
+						110,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OMD6UVU66A",
+					"expanded_url": "http://cafe.daum.net/Hayeon",
+					"display_url": "cafe.daum.net/Hayeon",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1348563887956717600,
+					"id_str": "1348563887956717569",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/ErcPtgqUcAEJQ4i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErcPtgqUcAEJQ4i.jpg",
+					"url": "https://t.co/joAE39GJgp",
+					"display_url": "pic.twitter.com/joAE39GJgp",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1348563896186015746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1076,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348563887956717600,
+					"id_str": "1348563887956717569",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/ErcPtgqUcAEJQ4i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErcPtgqUcAEJQ4i.jpg",
+					"url": "https://t.co/joAE39GJgp",
+					"display_url": "pic.twitter.com/joAE39GJgp",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1348563896186015746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1076,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348563887973494800,
+					"id_str": "1348563887973494789",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/ErcPtguUcAULBpb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErcPtguUcAULBpb.jpg",
+					"url": "https://t.co/joAE39GJgp",
+					"display_url": "pic.twitter.com/joAE39GJgp",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1348563896186015746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1076,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348563888191594500,
+					"id_str": "1348563888191594497",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/ErcPthiUYAESmHi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErcPthiUYAESmHi.jpg",
+					"url": "https://t.co/joAE39GJgp",
+					"display_url": "pic.twitter.com/joAE39GJgp",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1348563896186015746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1076,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348563888766271500,
+					"id_str": "1348563888766271494",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/ErcPtjrVQAYTr7o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErcPtjrVQAYTr7o.jpg",
+					"url": "https://t.co/joAE39GJgp",
+					"display_url": "pic.twitter.com/joAE39GJgp",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1348563896186015746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1076,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 964372210436591600,
+			"id_str": "964372210436591616",
+			"name": "Enterarts - A.I.M",
+			"screen_name": "aimbyenterarts",
+			"location": "대한민국 서울",
+			"description": "The World's First AI Music Production Company & Record Label / Artist Management\n세계 최초 인공지능 음반 제작 레이블",
+			"url": "https://t.co/4A9OjJKnmN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4A9OjJKnmN",
+							"expanded_url": "http://www.enterarts.net",
+							"display_url": "enterarts.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 292,
+			"friends_count": 11,
+			"listed_count": 3,
+			"created_at": "Fri Feb 16 05:33:46 +0000 2018",
+			"favourites_count": 919,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/964372210436591616/1518759589",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📸] Hayeon 하연 'WALK AWAY' MV STILL CUT \n\n💌 Official Fancafe \n👉 https://t.co/OMD6UVU66A\n\n#하연 #Hayeon #WALKAWAY\n#Hayeon_WALKAWAY https://t.co/joAE39GJgp"
+	},
+	{
 		"created_at": "Mon Jan 11 09:29:34 +0000 2021",
 		"id": 1348562556500070400,
 		"id_str": "1348562686959874049",
