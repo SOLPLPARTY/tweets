@@ -1,6 +1,592 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 11 06:53:40 +0000 2021",
+		"id": 1348523452345561000,
+		"id_str": "1348523452345561090",
+		"full_text": "#해피로봇레코드 #Happy_Robot_Records\n1/11(월) ~ 1/17(일) 해피로봇 스케줄\nhttps://t.co/m99Aaw7ldm\n#블로그 #레이블 #기획사 #인디 #인디음악",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "해피로봇레코드",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Happy_Robot_Records",
+					"indices": [
+						9,
+						29
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "레이블",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "기획사",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						100,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m99Aaw7ldm",
+					"expanded_url": "https://bit.ly/38vLmuJ",
+					"display_url": "bit.ly/38vLmuJ",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 249,
+			"friends_count": 437,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#해피로봇레코드 #Happy_Robot_Records\n1/11(월) ~ 1/17(일) 해피로봇 스케줄\nhttps://t.co/m99Aaw7ldm\n#블로그 #레이블 #기획사 #인디 #인디음악"
+	},
+	{
+		"created_at": "Mon Jan 11 06:29:33 +0000 2021",
+		"id": 1348512300416655400,
+		"id_str": "1348517384454348801",
+		"full_text": "✔️ 전시 일정\n- 2021. 01. 01 ~ 2021. 02. 15 \n- 10:30 ~ 19:00 \n* 백화점 휴점일 휴관\n\n✔️ 전시 장소\n- 에비뉴엘 아트홀 (잠실 롯데 월드타워 6F)\n\n#유희열 #루시드폴 #페퍼톤스 \n#권진아 #이진아 #윤석철 #적재\n\n#롯데백화점 #김환기 #미디어프로젝트\n#오디오도슨트 #안테나 #Antenna",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유희열",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "루시드폴",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "이진아",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "윤석철",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "롯데백화점",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "김환기",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "미디어프로젝트",
+					"indices": [
+						158,
+						166
+					]
+				},
+				{
+					"text": "오디오도슨트",
+					"indices": [
+						167,
+						174
+					]
+				},
+				{
+					"text": "안테나",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "Antenna",
+					"indices": [
+						180,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1348511878981460000,
+		"in_reply_to_status_id_str": "1348511878981459970",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official / 2020 안테나 크리스마스 캐럴 ‘겨울의 우리들’ Release!",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35321,
+			"friends_count": 10,
+			"listed_count": 362,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3407,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1608569605",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "✔️ 전시 일정\n- 2021. 01. 01 ~ 2021. 02. 15 \n- 10:30 ~ 19:00 \n* 백화점 휴점일 휴관\n\n✔️ 전시 장소\n- 에비뉴엘 아트홀 (잠실 롯데 월드타워 6F)\n\n#유희열 #루시드폴 #페퍼톤스 \n#권진아 #이진아 #윤석철 #적재\n\n#롯데백화점 #김환기 #미디어프로젝트\n#오디오도슨트 #안테나 #Antenna"
+	},
+	{
+		"created_at": "Mon Jan 11 06:29:28 +0000 2021",
+		"id": 1348511878981460000,
+		"id_str": "1348517363008860166",
+		"full_text": "롯데백화점 X 김환기 미디어 프로젝트\n&lt; UNIVERSE _ WHANKI 1 -Ⅰ- 21 &gt;\n\n🎧 오디오 도슨트 with Antenna\n\n안테나 아티스트 #유희열 #루시드폴 #페퍼톤스 #권진아 #이진아 #윤석철 #적재 가 참여한 오디오 도슨트를 오늘부터 전시장에서 만나보실 수 있습니다. https://t.co/nVf7tRlw98",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유희열",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "루시드폴",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "이진아",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "윤석철",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						124,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1348511856097255400,
+					"id_str": "1348511856097255427",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/ErbgY24UYAME7oG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErbgY24UYAME7oG.jpg",
+					"url": "https://t.co/nVf7tRlw98",
+					"display_url": "pic.twitter.com/nVf7tRlw98",
+					"expanded_url": "https://twitter.com/antennamusic/status/1348511878981459970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 677,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1984,
+							"h": 1994,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1194,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348511856097255400,
+					"id_str": "1348511856097255427",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/ErbgY24UYAME7oG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErbgY24UYAME7oG.jpg",
+					"url": "https://t.co/nVf7tRlw98",
+					"display_url": "pic.twitter.com/nVf7tRlw98",
+					"expanded_url": "https://twitter.com/antennamusic/status/1348511878981459970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 677,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1984,
+							"h": 1994,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1194,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official / 2020 안테나 크리스마스 캐럴 ‘겨울의 우리들’ Release!",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35321,
+			"friends_count": 10,
+			"listed_count": 362,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3407,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1608569605",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "롯데백화점 X 김환기 미디어 프로젝트\n&lt; UNIVERSE _ WHANKI 1 -Ⅰ- 21 &gt;\n\n🎧 오디오 도슨트 with Antenna\n\n안테나 아티스트 #유희열 #루시드폴 #페퍼톤스 #권진아 #이진아 #윤석철 #적재 가 참여한 오디오 도슨트를 오늘부터 전시장에서 만나보실 수 있습니다. https://t.co/nVf7tRlw98"
+	},
+	{
 		"created_at": "Mon Jan 11 05:29:25 +0000 2021",
 		"id": 1348495495379832800,
 		"id_str": "1348502250126274560",
