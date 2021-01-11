@@ -1,6 +1,930 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 11 04:11:24 +0000 2021",
+		"id": 1348473110706626600,
+		"id_str": "1348482618048860160",
+		"full_text": "Official M/V ▼\nhttps://t.co/rsUCAEY8YM\n\n음원 ▼\n지니 : https://t.co/n9iJS2N9HN\n멜론 : https://t.co/nwbSRrnUn9\n플로 : https://t.co/k9ZhzuCuUb\n벅스 : https://t.co/nI6F7tHKVU\n바이브 : https://t.co/FVAsxpNNhX\n유튜브 : https://t.co/pkvOuCycbG\n\n#조문근 #원샷 \n#보이스트롯 #트로트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조문근",
+					"indices": [
+						222,
+						226
+					]
+				},
+				{
+					"text": "원샷",
+					"indices": [
+						227,
+						230
+					]
+				},
+				{
+					"text": "보이스트롯",
+					"indices": [
+						232,
+						238
+					]
+				},
+				{
+					"text": "트로트",
+					"indices": [
+						239,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rsUCAEY8YM",
+					"expanded_url": "https://bit.ly/3scgNCj",
+					"display_url": "bit.ly/3scgNCj",
+					"indices": [
+						15,
+						38
+					]
+				},
+				{
+					"url": "https://t.co/n9iJS2N9HN",
+					"expanded_url": "https://bit.ly/2LlJPyD",
+					"display_url": "bit.ly/2LlJPyD",
+					"indices": [
+						50,
+						73
+					]
+				},
+				{
+					"url": "https://t.co/nwbSRrnUn9",
+					"expanded_url": "https://bit.ly/3oyWSvc",
+					"display_url": "bit.ly/3oyWSvc",
+					"indices": [
+						79,
+						102
+					]
+				},
+				{
+					"url": "https://t.co/k9ZhzuCuUb",
+					"expanded_url": "https://bit.ly/3i3k4is",
+					"display_url": "bit.ly/3i3k4is",
+					"indices": [
+						108,
+						131
+					]
+				},
+				{
+					"url": "https://t.co/nI6F7tHKVU",
+					"expanded_url": "https://bit.ly/2LlJRXh",
+					"display_url": "bit.ly/2LlJRXh",
+					"indices": [
+						137,
+						160
+					]
+				},
+				{
+					"url": "https://t.co/FVAsxpNNhX",
+					"expanded_url": "https://bit.ly/3saryVH",
+					"display_url": "bit.ly/3saryVH",
+					"indices": [
+						167,
+						190
+					]
+				},
+				{
+					"url": "https://t.co/pkvOuCycbG",
+					"expanded_url": "https://bit.ly/35sj1Up",
+					"display_url": "bit.ly/35sj1Up",
+					"indices": [
+						197,
+						220
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1348472978070139000,
+		"in_reply_to_status_id_str": "1348472978070138880",
+		"in_reply_to_user_id": 1291327050578456600,
+		"in_reply_to_user_id_str": "1291327050578456578",
+		"in_reply_to_screen_name": "rollinghall1995",
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/4e0ZekwoYX",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4e0ZekwoYX",
+							"expanded_url": "http://bitly.kr/LZ7SBbWTTTr",
+							"display_url": "bitly.kr/LZ7SBbWTTTr",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 118,
+			"friends_count": 3,
+			"listed_count": 1,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 87,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Official M/V ▼\nhttps://t.co/rsUCAEY8YM\n\n음원 ▼\n지니 : https://t.co/n9iJS2N9HN\n멜론 : https://t.co/nwbSRrnUn9\n플로 : https://t.co/k9ZhzuCuUb\n벅스 : https://t.co/nI6F7tHKVU\n바이브 : https://t.co/FVAsxpNNhX\n유튜브 : https://t.co/pkvOuCycbG\n\n#조문근 #원샷 \n#보이스트롯 #트로트"
+	},
+	{
+		"created_at": "Mon Jan 11 04:11:17 +0000 2021",
+		"id": 1348472978070139000,
+		"id_str": "1348482588135075844",
+		"full_text": "📢 새 앨범 발매 소식\n\n조문근 [원샷]\n\n조문근표 트로트, '원샷'\nMBN 보이스트롯 TOP3의 조문근이 트로트 팬들을 위해 특별한 앨범을 준비했다. 중독성 강한 멜로디에 신나는 리듬이 잘 살아있는 트롯곡으로, 조문근의 파워풀하면서도 간드러지는 목소리가 돋보인다.\n\n01. 원샷\n02. 원샷 (Inst.) https://t.co/RAzQM0bumZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1348472800672059400,
+					"id_str": "1348472800672059393",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/Era83iFVkAEInZl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Era83iFVkAEInZl.jpg",
+					"url": "https://t.co/RAzQM0bumZ",
+					"display_url": "pic.twitter.com/RAzQM0bumZ",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1348472978070138880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348472800672059400,
+					"id_str": "1348472800672059393",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/Era83iFVkAEInZl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Era83iFVkAEInZl.jpg",
+					"url": "https://t.co/RAzQM0bumZ",
+					"display_url": "pic.twitter.com/RAzQM0bumZ",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1348472978070138880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/4e0ZekwoYX",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4e0ZekwoYX",
+							"expanded_url": "http://bitly.kr/LZ7SBbWTTTr",
+							"display_url": "bitly.kr/LZ7SBbWTTTr",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 118,
+			"friends_count": 3,
+			"listed_count": 1,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 87,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 새 앨범 발매 소식\n\n조문근 [원샷]\n\n조문근표 트로트, '원샷'\nMBN 보이스트롯 TOP3의 조문근이 트로트 팬들을 위해 특별한 앨범을 준비했다. 중독성 강한 멜로디에 신나는 리듬이 잘 살아있는 트롯곡으로, 조문근의 파워풀하면서도 간드러지는 목소리가 돋보인다.\n\n01. 원샷\n02. 원샷 (Inst.) https://t.co/RAzQM0bumZ"
+	},
+	{
+		"created_at": "Mon Jan 11 04:02:18 +0000 2021",
+		"id": 1348480330399936500,
+		"id_str": "1348480330399936515",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n1월 11일 | 이준형, Loi, 사막꽃\nhttps://t.co/GRHFTEsjxD\n#블로그 #유통사 #인디음악 #인디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "유통사",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						88,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GRHFTEsjxD",
+					"expanded_url": "https://bit.ly/38umEer",
+					"display_url": "bit.ly/38umEer",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 249,
+			"friends_count": 437,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n1월 11일 | 이준형, Loi, 사막꽃\nhttps://t.co/GRHFTEsjxD\n#블로그 #유통사 #인디음악 #인디"
+	},
+	{
+		"created_at": "Mon Jan 11 03:29:42 +0000 2021",
+		"id": 1348468283289211000,
+		"id_str": "1348472123690528768",
+		"full_text": "[🎧]  Hayeon 하연 'WALK AWAY' 가 발매되었습니다 🎉💗\n\n🎬 https://t.co/qw0Hshh1P0\n\n▶️ Melon - https://t.co/o82pFS9kSB\n▶️ Genie - https://t.co/HprAC0w809\n▶️ Bugs - https://t.co/ni2PaM3z1H\n▶️ VIBE - https://t.co/h0XjQenek1\n\n#하연 #Hayeon #WALKAWAY\n#Hayeon_WALKAWAY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하연",
+					"indices": [
+						207,
+						210
+					]
+				},
+				{
+					"text": "Hayeon",
+					"indices": [
+						211,
+						218
+					]
+				},
+				{
+					"text": "WALKAWAY",
+					"indices": [
+						219,
+						228
+					]
+				},
+				{
+					"text": "Hayeon_WALKAWAY",
+					"indices": [
+						229,
+						245
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qw0Hshh1P0",
+					"expanded_url": "https://youtu.be/FQUKU8xgaM4",
+					"display_url": "youtu.be/FQUKU8xgaM4",
+					"indices": [
+						43,
+						66
+					]
+				},
+				{
+					"url": "https://t.co/o82pFS9kSB",
+					"expanded_url": "http://kko.to/2GY2F_NDj",
+					"display_url": "kko.to/2GY2F_NDj",
+					"indices": [
+						79,
+						102
+					]
+				},
+				{
+					"url": "https://t.co/HprAC0w809",
+					"expanded_url": "http://genie.co.kr/HPEDP6",
+					"display_url": "genie.co.kr/HPEDP6",
+					"indices": [
+						114,
+						137
+					]
+				},
+				{
+					"url": "https://t.co/ni2PaM3z1H",
+					"expanded_url": "https://m.bugs.co.kr/track/6050861",
+					"display_url": "m.bugs.co.kr/track/6050861",
+					"indices": [
+						148,
+						171
+					]
+				},
+				{
+					"url": "https://t.co/h0XjQenek1",
+					"expanded_url": "http://naver.me/F6mMuXQq",
+					"display_url": "naver.me/F6mMuXQq",
+					"indices": [
+						182,
+						205
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 964372210436591600,
+			"id_str": "964372210436591616",
+			"name": "Enterarts - A.I.M",
+			"screen_name": "aimbyenterarts",
+			"location": "대한민국 서울",
+			"description": "The World's First AI Music Production Company & Record Label / Artist Management\n세계 최초 인공지능 음반 제작 레이블",
+			"url": "https://t.co/4A9OjJKnmN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4A9OjJKnmN",
+							"expanded_url": "http://www.enterarts.net",
+							"display_url": "enterarts.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278,
+			"friends_count": 11,
+			"listed_count": 3,
+			"created_at": "Fri Feb 16 05:33:46 +0000 2018",
+			"favourites_count": 894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/964372210436591616/1518759589",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎧]  Hayeon 하연 'WALK AWAY' 가 발매되었습니다 🎉💗\n\n🎬 https://t.co/qw0Hshh1P0\n\n▶️ Melon - https://t.co/o82pFS9kSB\n▶️ Genie - https://t.co/HprAC0w809\n▶️ Bugs - https://t.co/ni2PaM3z1H\n▶️ VIBE - https://t.co/h0XjQenek1\n\n#하연 #Hayeon #WALKAWAY\n#Hayeon_WALKAWAY"
+	},
+	{
+		"created_at": "Mon Jan 11 03:29:39 +0000 2021",
+		"id": 1348467920582701000,
+		"id_str": "1348472110566535168",
+		"full_text": "#이준형\n[을왕리 (Single ver.)]\n\n쓸쓸하고 아련한 우리들의 사랑, 그리고 그 기억. 을왕리는 그 '쓸쓸함'을 가득 담고있는 노래이다.\n인디가수 이준형의 목소리는 담백하기에, 그래서 더 쓸쓸하게 들린다.\n\n✚ 앨범 자세히 보기: https://t.co/Zad0CbCMoL https://t.co/KOXo3Sy2n4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이준형",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Zad0CbCMoL",
+					"expanded_url": "https://bit.ly/3s3UNcB",
+					"display_url": "bit.ly/3s3UNcB",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1347400677622833200,
+					"id_str": "1347400677622833152",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/ErLtxwfUYAAb0UA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErLtxwfUYAAb0UA.jpg",
+					"url": "https://t.co/KOXo3Sy2n4",
+					"display_url": "pic.twitter.com/KOXo3Sy2n4",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1348467920582701056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347400677622833200,
+					"id_str": "1347400677622833152",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/ErLtxwfUYAAb0UA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErLtxwfUYAAb0UA.jpg",
+					"url": "https://t.co/KOXo3Sy2n4",
+					"display_url": "pic.twitter.com/KOXo3Sy2n4",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1348467920582701056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9512,
+			"friends_count": 2860,
+			"listed_count": 244,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 954,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1610091287",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#이준형\n[을왕리 (Single ver.)]\n\n쓸쓸하고 아련한 우리들의 사랑, 그리고 그 기억. 을왕리는 그 '쓸쓸함'을 가득 담고있는 노래이다.\n인디가수 이준형의 목소리는 담백하기에, 그래서 더 쓸쓸하게 들린다.\n\n✚ 앨범 자세히 보기: https://t.co/Zad0CbCMoL https://t.co/KOXo3Sy2n4"
+	},
+	{
 		"created_at": "Mon Jan 11 03:07:38 +0000 2021",
 		"id": 1348466570377351200,
 		"id_str": "1348466570377351171",
