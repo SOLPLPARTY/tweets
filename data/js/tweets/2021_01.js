@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 11 05:29:25 +0000 2021",
+		"id": 1348495495379832800,
+		"id_str": "1348502250126274560",
+		"full_text": "[MPMG WEEK 2021]\n\nMPMG와 함께 해주시는 많은 분들께\n2021년, 첫 번째 추억을 선물하고자 준비한 전대미문의 레이블 파티 MPMG WEEK🎊🎉\n\n어디서도 만나 볼 수 없는 특별한 구성🎁\n다채로운 프로그램들이🎮\n여러분을 찾아갑니다!\n\n우리, 곧 만나요! https://t.co/n1GRoEklwh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1348495485753909200,
+					"id_str": "1348495485753909249",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/ErbRf-mUYAEK3Ni.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErbRf-mUYAEK3Ni.jpg",
+					"url": "https://t.co/n1GRoEklwh",
+					"display_url": "pic.twitter.com/n1GRoEklwh",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1348495495379832838/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348495485753909200,
+					"id_str": "1348495485753909249",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/ErbRf-mUYAEK3Ni.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErbRf-mUYAEK3Ni.jpg",
+					"url": "https://t.co/n1GRoEklwh",
+					"display_url": "pic.twitter.com/n1GRoEklwh",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1348495495379832838/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스, 소란, 노리플라이, 쏜애플, LambC, SURL, OurR",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13030,
+			"friends_count": 1948,
+			"listed_count": 253,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13168,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MPMG WEEK 2021]\n\nMPMG와 함께 해주시는 많은 분들께\n2021년, 첫 번째 추억을 선물하고자 준비한 전대미문의 레이블 파티 MPMG WEEK🎊🎉\n\n어디서도 만나 볼 수 없는 특별한 구성🎁\n다채로운 프로그램들이🎮\n여러분을 찾아갑니다!\n\n우리, 곧 만나요! https://t.co/n1GRoEklwh"
+	},
+	{
 		"created_at": "Mon Jan 11 04:29:27 +0000 2021",
 		"id": 1348484017721471000,
 		"id_str": "1348487159125319682",
