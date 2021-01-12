@@ -1,6 +1,1099 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 12 05:11:17 +0000 2021",
+		"id": 1348851346972151800,
+		"id_str": "1348860075990016000",
+		"full_text": "#상상마당아카데미 #온라인수업 #개강안내\n\n🟠콘텐츠, 스토리텔링하다🟠_6기 수강생 모집\n• 1/13(수) 19:30 OPEN #육진아 강사\n• 강의 소개 : 상상마당 홈페이지 (https://t.co/YzDc23nuzs)\n• 장소 : KT&amp;G 상상마당 홍대 ZOOM 온라인 강의실\n\n#상상마당 #코로나시대 #ZOOM #콘텐츠기획 #채널메이킹 https://t.co/ajLS5DVBOD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상상마당아카데미",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "온라인수업",
+					"indices": [
+						10,
+						16
+					]
+				},
+				{
+					"text": "개강안내",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "육진아",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "상상마당",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "코로나시대",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "ZOOM",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "콘텐츠기획",
+					"indices": [
+						181,
+						187
+					]
+				},
+				{
+					"text": "채널메이킹",
+					"indices": [
+						188,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YzDc23nuzs",
+					"expanded_url": "https://bit.ly/3owKBaJ",
+					"display_url": "bit.ly/3owKBaJ",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1348851183167754200,
+					"id_str": "1348851183167754240",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/ErgVASuUUAA5z3D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErgVASuUUAA5z3D.jpg",
+					"url": "https://t.co/ajLS5DVBOD",
+					"display_url": "pic.twitter.com/ajLS5DVBOD",
+					"expanded_url": "https://twitter.com/SSmadang/status/1348851346972151809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 695,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 695,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348851183167754200,
+					"id_str": "1348851183167754240",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/ErgVASuUUAA5z3D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErgVASuUUAA5z3D.jpg",
+					"url": "https://t.co/ajLS5DVBOD",
+					"display_url": "pic.twitter.com/ajLS5DVBOD",
+					"expanded_url": "https://twitter.com/SSmadang/status/1348851346972151809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 695,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 695,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348851183335608300,
+					"id_str": "1348851183335608320",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/ErgVATWVkAAAmpL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErgVATWVkAAAmpL.jpg",
+					"url": "https://t.co/ajLS5DVBOD",
+					"display_url": "pic.twitter.com/ajLS5DVBOD",
+					"expanded_url": "https://twitter.com/SSmadang/status/1348851346972151809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 695,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 695,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18269,
+			"friends_count": 1895,
+			"listed_count": 290,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 497,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#상상마당아카데미 #온라인수업 #개강안내\n\n🟠콘텐츠, 스토리텔링하다🟠_6기 수강생 모집\n• 1/13(수) 19:30 OPEN #육진아 강사\n• 강의 소개 : 상상마당 홈페이지 (https://t.co/YzDc23nuzs)\n• 장소 : KT&amp;G 상상마당 홍대 ZOOM 온라인 강의실\n\n#상상마당 #코로나시대 #ZOOM #콘텐츠기획 #채널메이킹 https://t.co/ajLS5DVBOD"
+	},
+	{
+		"created_at": "Tue Jan 12 04:29:56 +0000 2021",
+		"id": 1348843037351297000,
+		"id_str": "1348849670873894912",
+		"full_text": "📌 라잌댓 채널 바로가기\nhttps://t.co/WvVkeqjYCR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WvVkeqjYCR",
+					"expanded_url": "https://www.youtube.com/channel/UCIq7cqgQRXTXBQurJSeJJ9w",
+					"display_url": "youtube.com/channel/UCIq7c…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1348842999552217000,
+		"in_reply_to_status_id_str": "1348842999552217091",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2005,
+			"friends_count": 25,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5080,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1594485943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📌 라잌댓 채널 바로가기\nhttps://t.co/WvVkeqjYCR"
+	},
+	{
+		"created_at": "Tue Jan 12 04:29:50 +0000 2021",
+		"id": 1348842999552217000,
+		"id_str": "1348849645225725954",
+		"full_text": "📌 웹드라마 리플레이 바로가기 \nhttps://t.co/5JM2osU7E9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5JM2osU7E9",
+					"expanded_url": "https://youtu.be/LEOfrhyVtlE",
+					"display_url": "youtu.be/LEOfrhyVtlE",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1348842831855566800,
+		"in_reply_to_status_id_str": "1348842831855566849",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2005,
+			"friends_count": 25,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5080,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1594485943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📌 웹드라마 리플레이 바로가기 \nhttps://t.co/5JM2osU7E9"
+	},
+	{
+		"created_at": "Tue Jan 12 04:29:42 +0000 2021",
+		"id": 1348842831855566800,
+		"id_str": "1348849611193147395",
+		"full_text": "[리플레이] #유어썸머 가 OST제작에 참여한 웹드라마 '리플레이'의 OST 라인업이 공개되었어요🎉\n#펜타곤 #몬스타엑스 #기현 \n#2F #신용재 #김원주 #BTOB #서은광 \n#여자아이들 #미연 #틴탑 #니엘 #PL\n#PENTAGON #MonstaX #KIHYUN\n#ShinYongJae #KimWonJoo #SeoEunkwang\n#GIDLE #Miyeon #TEENTOP #NIEL https://t.co/YEF6p55BId",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유어썸머",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "펜타곤",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "몬스타엑스",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "기현",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "2F",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "신용재",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "김원주",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "BTOB",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "서은광",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "여자아이들",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "미연",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "틴탑",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "니엘",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "PL",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "PENTAGON",
+					"indices": [
+						122,
+						131
+					]
+				},
+				{
+					"text": "MonstaX",
+					"indices": [
+						132,
+						140
+					]
+				},
+				{
+					"text": "KIHYUN",
+					"indices": [
+						141,
+						148
+					]
+				},
+				{
+					"text": "ShinYongJae",
+					"indices": [
+						149,
+						161
+					]
+				},
+				{
+					"text": "KimWonJoo",
+					"indices": [
+						162,
+						172
+					]
+				},
+				{
+					"text": "SeoEunkwang",
+					"indices": [
+						173,
+						185
+					]
+				},
+				{
+					"text": "GIDLE",
+					"indices": [
+						186,
+						192
+					]
+				},
+				{
+					"text": "Miyeon",
+					"indices": [
+						193,
+						200
+					]
+				},
+				{
+					"text": "TEENTOP",
+					"indices": [
+						201,
+						209
+					]
+				},
+				{
+					"text": "NIEL",
+					"indices": [
+						210,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1348842820056936400,
+					"id_str": "1348842820056936448",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/ErgNZftUcAA2H-0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErgNZftUcAA2H-0.jpg",
+					"url": "https://t.co/YEF6p55BId",
+					"display_url": "pic.twitter.com/YEF6p55BId",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1348842831855566849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348842820056936400,
+					"id_str": "1348842820056936448",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/ErgNZftUcAA2H-0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErgNZftUcAA2H-0.jpg",
+					"url": "https://t.co/YEF6p55BId",
+					"display_url": "pic.twitter.com/YEF6p55BId",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1348842831855566849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348842824175734800,
+					"id_str": "1348842824175734784",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/ErgNZvDUUAAT4Ec.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErgNZvDUUAAT4Ec.jpg",
+					"url": "https://t.co/YEF6p55BId",
+					"display_url": "pic.twitter.com/YEF6p55BId",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1348842831855566849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1348842829053771800,
+					"id_str": "1348842829053771776",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/ErgNaBOVQAAxp88.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErgNaBOVQAAxp88.jpg",
+					"url": "https://t.co/YEF6p55BId",
+					"display_url": "pic.twitter.com/YEF6p55BId",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1348842831855566849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2005,
+			"friends_count": 25,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5080,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1594485943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[리플레이] #유어썸머 가 OST제작에 참여한 웹드라마 '리플레이'의 OST 라인업이 공개되었어요🎉\n#펜타곤 #몬스타엑스 #기현 \n#2F #신용재 #김원주 #BTOB #서은광 \n#여자아이들 #미연 #틴탑 #니엘 #PL\n#PENTAGON #MonstaX #KIHYUN\n#ShinYongJae #KimWonJoo #SeoEunkwang\n#GIDLE #Miyeon #TEENTOP #NIEL https://t.co/YEF6p55BId"
+	},
+	{
+		"created_at": "Tue Jan 12 04:29:34 +0000 2021",
+		"id": 1348839080163827700,
+		"id_str": "1348849577101840384",
+		"full_text": "#우주왕복선싸이드미러 Listen To You (feat. 버벌진트)\n2021.01.15 12PM RELEASE https://t.co/unixfGA5rF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우주왕복선싸이드미러",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1348839075667538000,
+					"id_str": "1348839075667537922",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/ErgJ_ixUcAIrBEY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErgJ_ixUcAIrBEY.jpg",
+					"url": "https://t.co/unixfGA5rF",
+					"display_url": "pic.twitter.com/unixfGA5rF",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1348839080163827712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1425,
+							"h": 1425,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348839075667538000,
+					"id_str": "1348839075667537922",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/ErgJ_ixUcAIrBEY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErgJ_ixUcAIrBEY.jpg",
+					"url": "https://t.co/unixfGA5rF",
+					"display_url": "pic.twitter.com/unixfGA5rF",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1348839080163827712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1425,
+							"h": 1425,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2005,
+			"friends_count": 25,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5080,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1594485943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#우주왕복선싸이드미러 Listen To You (feat. 버벌진트)\n2021.01.15 12PM RELEASE https://t.co/unixfGA5rF"
+	},
+	{
 		"created_at": "Tue Jan 12 04:02:53 +0000 2021",
 		"id": 1348842864671862800,
 		"id_str": "1348842864671862784",
