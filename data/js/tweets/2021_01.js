@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 12 01:29:25 +0000 2021",
+		"id": 1348801282262253600,
+		"id_str": "1348804240463056896",
+		"full_text": "[#STATION]\nKANGTA’s new song ‘감기약 (Cough Syrup)’ to be released on 1/15 12PM KST!\n\nR&amp;B song with unique beat and sentimental melody that compares the sorrow of parting to a cold\n\n🎧 KANGTA 강타 ‘감기약 (Cough Syrup): 2021.01.15. 12PM KST\n\n#강타 #KANGTA\n#감기약\n#Cough_Syrup https://t.co/9sJ0mXH47v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STATION",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "강타",
+					"indices": [
+						237,
+						240
+					]
+				},
+				{
+					"text": "KANGTA",
+					"indices": [
+						241,
+						248
+					]
+				},
+				{
+					"text": "감기약",
+					"indices": [
+						249,
+						253
+					]
+				},
+				{
+					"text": "Cough_Syrup",
+					"indices": [
+						254,
+						266
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1348801280177623000,
+					"id_str": "1348801280177623040",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/ErfnnjmUUAAjZRO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErfnnjmUUAAjZRO.jpg",
+					"url": "https://t.co/9sJ0mXH47v",
+					"display_url": "pic.twitter.com/9sJ0mXH47v",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1348801282262253574/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 461,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1388,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 813,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348801280177623000,
+					"id_str": "1348801280177623040",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/ErfnnjmUUAAjZRO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErfnnjmUUAAjZRO.jpg",
+					"url": "https://t.co/9sJ0mXH47v",
+					"display_url": "pic.twitter.com/9sJ0mXH47v",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1348801282262253574/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 461,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1388,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 813,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8967424,
+			"friends_count": 53,
+			"listed_count": 8782,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9555,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 466,
+		"favorite_count": 4406,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#STATION]\nKANGTA’s new song ‘감기약 (Cough Syrup)’ to be released on 1/15 12PM KST!\n\nR&amp;B song with unique beat and sentimental melody that compares the sorrow of parting to a cold\n\n🎧 KANGTA 강타 ‘감기약 (Cough Syrup): 2021.01.15. 12PM KST\n\n#강타 #KANGTA\n#감기약\n#Cough_Syrup https://t.co/9sJ0mXH47v"
+	},
+	{
 		"created_at": "Mon Jan 11 18:29:25 +0000 2021",
 		"id": 1348686238950121500,
 		"id_str": "1348698544149032962",
