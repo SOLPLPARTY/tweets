@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 12 23:11:17 +0000 2021",
+		"id": 1349119522934907000,
+		"id_str": "1349131867832905729",
+		"full_text": "주말(1/16-17)에는 8년 째 이어지고 있는 포크 음악가들의 축제 '새해의 포크'가 찾아옵니다. 일요일 공연은 몇 좌석이 남아있으니 늦지 않게 예매하세요.\n\n1월16일(토) 김사월, 예람, 황푸하 (매진)\n1월17일(일) 김제형, 빅베이비드라이버, 정밀아\n (예매 : https://t.co/AlzA0fCpOn ) https://t.co/HtPGAPDVZ6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AlzA0fCpOn",
+					"expanded_url": "https://c11.kr/kpky",
+					"display_url": "c11.kr/kpky",
+					"indices": [
+						152,
+						175
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1349119368160977000,
+					"id_str": "1349119368160976898",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/ErkI6trVoAI0jnn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErkI6trVoAI0jnn.jpg",
+					"url": "https://t.co/HtPGAPDVZ6",
+					"display_url": "pic.twitter.com/HtPGAPDVZ6",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1349119522934906880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1349119368160977000,
+					"id_str": "1349119368160976898",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/ErkI6trVoAI0jnn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErkI6trVoAI0jnn.jpg",
+					"url": "https://t.co/HtPGAPDVZ6",
+					"display_url": "pic.twitter.com/HtPGAPDVZ6",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1349119522934906880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8735,
+			"friends_count": 145,
+			"listed_count": 131,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "주말(1/16-17)에는 8년 째 이어지고 있는 포크 음악가들의 축제 '새해의 포크'가 찾아옵니다. 일요일 공연은 몇 좌석이 남아있으니 늦지 않게 예매하세요.\n\n1월16일(토) 김사월, 예람, 황푸하 (매진)\n1월17일(일) 김제형, 빅베이비드라이버, 정밀아\n (예매 : https://t.co/AlzA0fCpOn ) https://t.co/HtPGAPDVZ6"
+	},
+	{
 		"created_at": "Tue Jan 12 13:29:25 +0000 2021",
 		"id": 1348978814190112800,
 		"id_str": "1348985436270718976",
