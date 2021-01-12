@@ -1,6 +1,613 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 12 10:13:04 +0000 2021",
+		"id": 1348936020830675000,
+		"id_str": "1348936020830674944",
+		"full_text": "#CASPER_RADIO #캐스퍼라디오\n아지트 모임장 형이 음악 레이블 대표가 되었다 (feat.엔젤하우스) | B-side | 오주환 of ADOY\nhttps://t.co/vCqeSvaCff",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vCqeSvaCff",
+					"expanded_url": "https://youtu.be/eb5T5zbyA3k",
+					"display_url": "youtu.be/eb5T5zbyA3k",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 249,
+			"friends_count": 437,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67294,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#CASPER_RADIO #캐스퍼라디오\n아지트 모임장 형이 음악 레이블 대표가 되었다 (feat.엔젤하우스) | B-side | 오주환 of ADOY\nhttps://t.co/vCqeSvaCff"
+	},
+	{
+		"created_at": "Tue Jan 12 09:29:32 +0000 2021",
+		"id": 1348920386449150000,
+		"id_str": "1348925066994708483",
+		"full_text": "[Release]\n이적(@jucklee) - ‘쉼표 (with 윤석철)’\n영화 &lt;소울&gt; 국내 더빙판의 엔드크레딧 송!\n\n1월 20일 개봉 예정인 디즈니·픽사 신작 &lt;소울&gt;의 국내 엔드크레딧 송! 지금 바로 각종 음원 사이트를 통해 만나보세요🎧\n\n#이적 #LEEJUCK #쉼표 #소울 #디즈니 #픽사 https://t.co/03Hm8Dsnyb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이적",
+					"indices": [
+						149,
+						152
+					]
+				},
+				{
+					"text": "LEEJUCK",
+					"indices": [
+						153,
+						161
+					]
+				},
+				{
+					"text": "쉼표",
+					"indices": [
+						162,
+						165
+					]
+				},
+				{
+					"text": "소울",
+					"indices": [
+						166,
+						169
+					]
+				},
+				{
+					"text": "디즈니",
+					"indices": [
+						170,
+						174
+					]
+				},
+				{
+					"text": "픽사",
+					"indices": [
+						175,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jucklee",
+					"name": "이적",
+					"id": 51315123,
+					"id_str": "51315123",
+					"indices": [
+						13,
+						21
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1348920374373748700,
+					"id_str": "1348920374373748739",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/ErhT7wDVkAM5K8f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErhT7wDVkAM5K8f.jpg",
+					"url": "https://t.co/03Hm8Dsnyb",
+					"display_url": "pic.twitter.com/03Hm8Dsnyb",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1348920386449149956/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348920374373748700,
+					"id_str": "1348920374373748739",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/ErhT7wDVkAM5K8f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErhT7wDVkAM5K8f.jpg",
+					"url": "https://t.co/03Hm8Dsnyb",
+					"display_url": "pic.twitter.com/03Hm8Dsnyb",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1348920386449149956/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언 / Official YouTube Channel https://t.co/gTSbPm12G9",
+			"url": "https://t.co/eSVSBHrncV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSVSBHrncV",
+							"expanded_url": "http://www.instagram.com/musicfarmkorea",
+							"display_url": "instagram.com/musicfarmkorea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gTSbPm12G9",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								44,
+								67
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9205,
+			"friends_count": 4,
+			"listed_count": 109,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 779,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1357424393",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release]\n이적(@jucklee) - ‘쉼표 (with 윤석철)’\n영화 &lt;소울&gt; 국내 더빙판의 엔드크레딧 송!\n\n1월 20일 개봉 예정인 디즈니·픽사 신작 &lt;소울&gt;의 국내 엔드크레딧 송! 지금 바로 각종 음원 사이트를 통해 만나보세요🎧\n\n#이적 #LEEJUCK #쉼표 #소울 #디즈니 #픽사 https://t.co/03Hm8Dsnyb"
+	},
+	{
+		"created_at": "Tue Jan 12 09:29:30 +0000 2021",
+		"id": 1348917766640738300,
+		"id_str": "1348925058031509505",
+		"full_text": "골든차일드(Golden Child)\n5th Mini Album [YES.] : Concept Trailer\n#홍주찬 (#HongJoochan)\n\n2021.01.25 6PM RELEASE\n\nhttps://t.co/DFMsJkh2Es\nhttps://t.co/cNyNNPlXG4\n\n#GoldenChild #골든차일드 #YES https://t.co/SVY4DZ72H7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍주찬",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "HongJoochan",
+					"indices": [
+						66,
+						78
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						154,
+						166
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						167,
+						173
+					]
+				},
+				{
+					"text": "YES",
+					"indices": [
+						174,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DFMsJkh2Es",
+					"expanded_url": "http://youtu.be/WnkPCYTVu08",
+					"display_url": "youtu.be/WnkPCYTVu08",
+					"indices": [
+						105,
+						128
+					]
+				},
+				{
+					"url": "https://t.co/cNyNNPlXG4",
+					"expanded_url": "http://vlive.tv/video/232253",
+					"display_url": "vlive.tv/video/232253",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1348913045540520000,
+					"id_str": "1348913045540519936",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/ErhNRKBVQAA_kOa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErhNRKBVQAA_kOa.jpg",
+					"url": "https://t.co/SVY4DZ72H7",
+					"display_url": "pic.twitter.com/SVY4DZ72H7",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1348917766640738306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348913045540520000,
+					"id_str": "1348913045540519936",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/ErhNRKBVQAA_kOa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErhNRKBVQAA_kOa.jpg",
+					"url": "https://t.co/SVY4DZ72H7",
+					"display_url": "pic.twitter.com/SVY4DZ72H7",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1348917766640738306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 425039,
+			"friends_count": 10,
+			"listed_count": 1815,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1609750857",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 679,
+		"favorite_count": 1500,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "골든차일드(Golden Child)\n5th Mini Album [YES.] : Concept Trailer\n#홍주찬 (#HongJoochan)\n\n2021.01.25 6PM RELEASE\n\nhttps://t.co/DFMsJkh2Es\nhttps://t.co/cNyNNPlXG4\n\n#GoldenChild #골든차일드 #YES https://t.co/SVY4DZ72H7"
+	},
+	{
 		"created_at": "Tue Jan 12 09:11:24 +0000 2021",
 		"id": 1348918234381250600,
 		"id_str": "1348920503256424449",
