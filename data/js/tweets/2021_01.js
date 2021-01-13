@@ -1,6 +1,438 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 13 12:11:17 +0000 2021",
+		"id": 1349326223676113000,
+		"id_str": "1349328158789689344",
+		"full_text": "[재미공작소 팝업숍] 2021년 1월 팝업숍은 이옥토 작가와 함께합니다. 2021.1.30(토) PM 1:00~7:00 https://t.co/cjymMa6SSe https://t.co/vwaTKhozvW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cjymMa6SSe",
+					"expanded_url": "https://m.blog.naver.com/studiozemi/222205698858",
+					"display_url": "m.blog.naver.com/studiozemi/222…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1349326207779709000,
+					"id_str": "1349326207779708930",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/ErnFCXTVoAIlRqN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErnFCXTVoAIlRqN.jpg",
+					"url": "https://t.co/vwaTKhozvW",
+					"display_url": "pic.twitter.com/vwaTKhozvW",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1349326223676112896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 740,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 740,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1349326207779709000,
+					"id_str": "1349326207779708930",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/ErnFCXTVoAIlRqN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErnFCXTVoAIlRqN.jpg",
+					"url": "https://t.co/vwaTKhozvW",
+					"display_url": "pic.twitter.com/vwaTKhozvW",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1349326223676112896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 740,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 740,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8124,
+			"friends_count": 576,
+			"listed_count": 80,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[재미공작소 팝업숍] 2021년 1월 팝업숍은 이옥토 작가와 함께합니다. 2021.1.30(토) PM 1:00~7:00 https://t.co/cjymMa6SSe https://t.co/vwaTKhozvW"
+	},
+	{
+		"created_at": "Wed Jan 13 11:29:52 +0000 2021",
+		"id": 1349312500785770500,
+		"id_str": "1349317736313315328",
+		"full_text": "- #신나라 : https://t.co/FhLB2PhZwR\n- #예스24 : https://t.co/oK6KxMS5m5\n- #알라딘 : https://t.co/ybboFmlrlh\n- #인터파크 : https://t.co/VE4RBN37VR\n- #핫트랙스 : https://t.co/jFMs1CYrzR\n#전기뱀장어 #정규2집 #fluke #바이닐 #LP #VINYL #예약판매 #예판 #앨범 #한정판",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신나라",
+					"indices": [
+						2,
+						6
+					]
+				},
+				{
+					"text": "예스24",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "알라딘",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "인터파크",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "핫트랙스",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "전기뱀장어",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "정규2집",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "fluke",
+					"indices": [
+						181,
+						187
+					]
+				},
+				{
+					"text": "바이닐",
+					"indices": [
+						188,
+						192
+					]
+				},
+				{
+					"text": "LP",
+					"indices": [
+						193,
+						196
+					]
+				},
+				{
+					"text": "VINYL",
+					"indices": [
+						197,
+						203
+					]
+				},
+				{
+					"text": "예약판매",
+					"indices": [
+						204,
+						209
+					]
+				},
+				{
+					"text": "예판",
+					"indices": [
+						210,
+						213
+					]
+				},
+				{
+					"text": "앨범",
+					"indices": [
+						214,
+						217
+					]
+				},
+				{
+					"text": "한정판",
+					"indices": [
+						218,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FhLB2PhZwR",
+					"expanded_url": "https://bit.ly/3nL9LkI",
+					"display_url": "bit.ly/3nL9LkI",
+					"indices": [
+						9,
+						32
+					]
+				},
+				{
+					"url": "https://t.co/oK6KxMS5m5",
+					"expanded_url": "https://bit.ly/38E4xTt",
+					"display_url": "bit.ly/38E4xTt",
+					"indices": [
+						43,
+						66
+					]
+				},
+				{
+					"url": "https://t.co/ybboFmlrlh",
+					"expanded_url": "https://bit.ly/3qcX8jS",
+					"display_url": "bit.ly/3qcX8jS",
+					"indices": [
+						76,
+						99
+					]
+				},
+				{
+					"url": "https://t.co/VE4RBN37VR",
+					"expanded_url": "https://bit.ly/38C7tQk",
+					"display_url": "bit.ly/38C7tQk",
+					"indices": [
+						110,
+						133
+					]
+				},
+				{
+					"url": "https://t.co/jFMs1CYrzR",
+					"expanded_url": "https://bit.ly/39knkSE",
+					"display_url": "bit.ly/39knkSE",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1349312382963642400,
+		"in_reply_to_status_id_str": "1349312382963642368",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이지형, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2009,
+			"friends_count": 25,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1594485943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "- #신나라 : https://t.co/FhLB2PhZwR\n- #예스24 : https://t.co/oK6KxMS5m5\n- #알라딘 : https://t.co/ybboFmlrlh\n- #인터파크 : https://t.co/VE4RBN37VR\n- #핫트랙스 : https://t.co/jFMs1CYrzR\n#전기뱀장어 #정규2집 #fluke #바이닐 #LP #VINYL #예약판매 #예판 #앨범 #한정판"
+	},
+	{
 		"created_at": "Wed Jan 13 11:04:27 +0000 2021",
 		"id": 1349311339563528200,
 		"id_str": "1349311339563528192",
