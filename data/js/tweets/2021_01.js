@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 13 13:20:10 +0000 2021",
+		"id": 1349323089499148300,
+		"id_str": "1349345496939130881",
+		"full_text": "코로나19의 위기로 사라지고 있는 우리의 무대를 지켜주세요. \n1. 소규모 공연장과 라이브 클럽의 공연에 대한 비현실적인 거리 두기 정책을 조정해야 합니다.\n2. 인디 음악 생태계에 대한 문화체육관광부 차원의 정책적 지원을 촉구합니다. \n *입장문 전문 &gt; https://t.co/4Il8E1HhgS https://t.co/oa2Qy36JMj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4Il8E1HhgS",
+					"expanded_url": "https://www.facebook.com/611837972294706/posts/2642156945929455/?d=n",
+					"display_url": "facebook.com/61183797229470…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1349323082658324500,
+					"id_str": "1349323082658324482",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/ErnCMdUVoAI03rs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErnCMdUVoAI03rs.jpg",
+					"url": "https://t.co/oa2Qy36JMj",
+					"display_url": "pic.twitter.com/oa2Qy36JMj",
+					"expanded_url": "https://twitter.com/liveclubday/status/1349323089499148289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1349323082658324500,
+					"id_str": "1349323082658324482",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/ErnCMdUVoAI03rs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErnCMdUVoAI03rs.jpg",
+					"url": "https://t.co/oa2Qy36JMj",
+					"display_url": "pic.twitter.com/oa2Qy36JMj",
+					"expanded_url": "https://twitter.com/liveclubday/status/1349323089499148289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2984929856,
+			"id_str": "2984929856",
+			"name": "라이브 클럽 데이",
+			"screen_name": "liveclubday",
+			"location": "홍대",
+			"description": "홍대 앞 무경계 음악 축제! 라이브클럽데이!  Instagram : @liveclubday / facebook : https://t.co/W4XFUoYsNN",
+			"url": "https://t.co/kyqNi9o44l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kyqNi9o44l",
+							"expanded_url": "http://bit.ly/2YgzGZw",
+							"display_url": "bit.ly/2YgzGZw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/W4XFUoYsNN",
+							"expanded_url": "http://facebook.com/liveclubday",
+							"display_url": "facebook.com/liveclubday",
+							"indices": [
+								64,
+								87
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3697,
+			"friends_count": 648,
+			"listed_count": 30,
+			"created_at": "Fri Jan 16 01:37:20 +0000 2015",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/582364480543174656/8OKEKfV4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/582364480543174656/8OKEKfV4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2984929856/1592189690",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 100,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "코로나19의 위기로 사라지고 있는 우리의 무대를 지켜주세요. \n1. 소규모 공연장과 라이브 클럽의 공연에 대한 비현실적인 거리 두기 정책을 조정해야 합니다.\n2. 인디 음악 생태계에 대한 문화체육관광부 차원의 정책적 지원을 촉구합니다. \n *입장문 전문 &gt; https://t.co/4Il8E1HhgS https://t.co/oa2Qy36JMj"
+	},
+	{
 		"created_at": "Wed Jan 13 12:18:38 +0000 2021",
 		"id": 1349330009572442000,
 		"id_str": "1349330009572442113",
