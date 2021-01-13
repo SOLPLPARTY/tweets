@@ -1,6 +1,148 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 13 14:29:25 +0000 2021",
+		"id": 1349356134944030700,
+		"id_str": "1349362923706200065",
+		"full_text": "Producer #SOOMANLEE receives K-Pop Contribution of the Year award at #GaonChartMusicAwards\n“I will continue to make innovative efforts to spread K-Pop”\n#이수만 총괄 프로듀서 2021 #가온차트 K팝 공헌상 수상 \"새로운 것 시도해 K팝 알릴 것\"\n\n👉🏻https://t.co/SjNgakSh6W\n\n#SMEntertainment",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SOOMANLEE",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"text": "GaonChartMusicAwards",
+					"indices": [
+						69,
+						90
+					]
+				},
+				{
+					"text": "이수만",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "가온차트",
+					"indices": [
+						170,
+						175
+					]
+				},
+				{
+					"text": "SMEntertainment",
+					"indices": [
+						234,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SjNgakSh6W",
+					"expanded_url": "http://naver.me/5jAPWLaP",
+					"display_url": "naver.me/5jAPWLaP",
+					"indices": [
+						209,
+						232
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8975696,
+			"friends_count": 53,
+			"listed_count": 8784,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1874,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 998,
+		"favorite_count": 6317,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Producer #SOOMANLEE receives K-Pop Contribution of the Year award at #GaonChartMusicAwards\n“I will continue to make innovative efforts to spread K-Pop”\n#이수만 총괄 프로듀서 2021 #가온차트 K팝 공헌상 수상 \"새로운 것 시도해 K팝 알릴 것\"\n\n👉🏻https://t.co/SjNgakSh6W\n\n#SMEntertainment"
+	},
+	{
 		"created_at": "Wed Jan 13 13:29:25 +0000 2021",
 		"id": 1349333042922360800,
 		"id_str": "1349347822877990915",
