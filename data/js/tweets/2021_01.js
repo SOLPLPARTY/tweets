@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 14 05:29:25 +0000 2021",
+		"id": 1349582013271953400,
+		"id_str": "1349589414213808128",
+		"full_text": "[#하재숙] On Air on KBS2 새 주말드라마 '오케이 광자매'\n\n배우 하재숙 #오케이광자매 캐스팅🙌🏻 수더분한 성격의 #신마리아 로 탄탄한 연기력 뽐낼 예정🎁\n\n3월 첫 방송📺 https://t.co/bYRL9K590g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하재숙",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "오케이광자매",
+					"indices": [
+						48,
+						55
+					]
+				},
+				{
+					"text": "신마리아",
+					"indices": [
+						71,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1349293193183993900,
+					"id_str": "1349293193183993858",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/ErmnAqWVoAIC9fK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErmnAqWVoAIC9fK.jpg",
+					"url": "https://t.co/bYRL9K590g",
+					"display_url": "pic.twitter.com/bYRL9K590g",
+					"expanded_url": "https://twitter.com/themysticstory/status/1349582013271953411/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1349293193183993900,
+					"id_str": "1349293193183993858",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/ErmnAqWVoAIC9fK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErmnAqWVoAIC9fK.jpg",
+					"url": "https://t.co/bYRL9K590g",
+					"display_url": "pic.twitter.com/bYRL9K590g",
+					"expanded_url": "https://twitter.com/themysticstory/status/1349582013271953411/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20101,
+			"friends_count": 18,
+			"listed_count": 233,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#하재숙] On Air on KBS2 새 주말드라마 '오케이 광자매'\n\n배우 하재숙 #오케이광자매 캐스팅🙌🏻 수더분한 성격의 #신마리아 로 탄탄한 연기력 뽐낼 예정🎁\n\n3월 첫 방송📺 https://t.co/bYRL9K590g"
+	},
+	{
 		"created_at": "Thu Jan 14 04:11:17 +0000 2021",
 		"id": 1349558046092128300,
 		"id_str": "1349569751295651840",
