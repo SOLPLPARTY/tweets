@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 15 05:29:27 +0000 2021",
+		"id": 1349945347439644700,
+		"id_str": "1349951811621441536",
+		"full_text": "[🎧] 김환희 '버려둘래' 발매되었습니다 🎉💗 2021. 1.15\n\n🎬 https://t.co/R8CIJ9VENY\n\n▶️ Melon - https://t.co/4cqJbYJ6zJ\n▶️ Genie - https://t.co/6HMl0wisKh\n▶️ Bugs - https://t.co/sR0LTy3aLu\n▶️ VIBE - https://t.co/su5zwVilfu\n\n#김환희 #버려둘래 https://t.co/tNpVhB8TPD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김환희",
+					"indices": [
+						204,
+						208
+					]
+				},
+				{
+					"text": "버려둘래",
+					"indices": [
+						209,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R8CIJ9VENY",
+					"expanded_url": "http://youtu.be/cvCbXrNCxps",
+					"display_url": "youtu.be/cvCbXrNCxps",
+					"indices": [
+						40,
+						63
+					]
+				},
+				{
+					"url": "https://t.co/4cqJbYJ6zJ",
+					"expanded_url": "http://kko.to/kZzkmDqDT",
+					"display_url": "kko.to/kZzkmDqDT",
+					"indices": [
+						76,
+						99
+					]
+				},
+				{
+					"url": "https://t.co/6HMl0wisKh",
+					"expanded_url": "http://genie.co.kr/31S8N5",
+					"display_url": "genie.co.kr/31S8N5",
+					"indices": [
+						111,
+						134
+					]
+				},
+				{
+					"url": "https://t.co/sR0LTy3aLu",
+					"expanded_url": "http://m.bugs.co.kr/track/32124007",
+					"display_url": "m.bugs.co.kr/track/32124007",
+					"indices": [
+						145,
+						168
+					]
+				},
+				{
+					"url": "https://t.co/su5zwVilfu",
+					"expanded_url": "http://naver.me/xv0XBzuO",
+					"display_url": "naver.me/xv0XBzuO",
+					"indices": [
+						179,
+						202
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1349945339814445000,
+					"id_str": "1349945339814445058",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/Erv4Il3VgAIRGXG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Erv4Il3VgAIRGXG.jpg",
+					"url": "https://t.co/tNpVhB8TPD",
+					"display_url": "pic.twitter.com/tNpVhB8TPD",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1349945347439644677/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1349945339814445000,
+					"id_str": "1349945339814445058",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/Erv4Il3VgAIRGXG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Erv4Il3VgAIRGXG.jpg",
+					"url": "https://t.co/tNpVhB8TPD",
+					"display_url": "pic.twitter.com/tNpVhB8TPD",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1349945347439644677/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 964372210436591600,
+			"id_str": "964372210436591616",
+			"name": "Enterarts - A.I.M",
+			"screen_name": "aimbyenterarts",
+			"location": "대한민국 서울",
+			"description": "The World's First AI Music Production Company & Record Label / Artist Management\n세계 최초 인공지능 음반 제작 레이블",
+			"url": "https://t.co/4A9OjJKnmN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4A9OjJKnmN",
+							"expanded_url": "http://www.enterarts.net",
+							"display_url": "enterarts.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 11,
+			"listed_count": 3,
+			"created_at": "Fri Feb 16 05:33:46 +0000 2018",
+			"favourites_count": 1183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/964372210436591616/1518759589",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎧] 김환희 '버려둘래' 발매되었습니다 🎉💗 2021. 1.15\n\n🎬 https://t.co/R8CIJ9VENY\n\n▶️ Melon - https://t.co/4cqJbYJ6zJ\n▶️ Genie - https://t.co/6HMl0wisKh\n▶️ Bugs - https://t.co/sR0LTy3aLu\n▶️ VIBE - https://t.co/su5zwVilfu\n\n#김환희 #버려둘래 https://t.co/tNpVhB8TPD"
+	},
+	{
 		"created_at": "Fri Jan 15 04:29:33 +0000 2021",
 		"id": 1349928971186540500,
 		"id_str": "1349936737167028224",
