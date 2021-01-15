@@ -1,6 +1,717 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 15 12:11:17 +0000 2021",
+		"id": 1350046185797640200,
+		"id_str": "1350052935552688134",
+		"full_text": "#연기되고 #새로만나는 1월 프리즘홀의 공연들 체크부탁드립니다.\n\n1&gt; 안전은 말할 것 없다\n2&gt; 뮤지션들이 무대가 고프다\n3&gt; 관객들이 너무 오래 기다렸다\n\n여러분. 함께 해요~!\n\n#프리즘홀 #1월스케쥴 #공연공지 #1월공연 #방역철저 #안전공연 @프리즘홀 https://t.co/QAviJeSBMj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "연기되고",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "새로만나는",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "프리즘홀",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "1월스케쥴",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "공연공지",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "1월공연",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "방역철저",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "안전공연",
+					"indices": [
+						143,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QAviJeSBMj",
+					"expanded_url": "https://www.instagram.com/p/CKEHyfllskc/?igshid=1rb7ya3322wlb",
+					"display_url": "instagram.com/p/CKEHyfllskc/…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 곳!  최고의 핫플레이스로 떠오르고 있는 프리즘홀입니다!",
+			"url": "https://t.co/wj8kdioGqi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wj8kdioGqi",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2087,
+			"friends_count": 1139,
+			"listed_count": 27,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 73,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.55181802,
+				126.91748033
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				126.91748033,
+				37.55181802
+			]
+		},
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#연기되고 #새로만나는 1월 프리즘홀의 공연들 체크부탁드립니다.\n\n1&gt; 안전은 말할 것 없다\n2&gt; 뮤지션들이 무대가 고프다\n3&gt; 관객들이 너무 오래 기다렸다\n\n여러분. 함께 해요~!\n\n#프리즘홀 #1월스케쥴 #공연공지 #1월공연 #방역철저 #안전공연 @프리즘홀 https://t.co/QAviJeSBMj"
+	},
+	{
+		"created_at": "Fri Jan 15 11:29:48 +0000 2021",
+		"id": 1350035210910331000,
+		"id_str": "1350042496844312584",
+		"full_text": "[오래된정원] 22화 가슴이 웅장해지는 지큐 화보 촬영 현장(feat.박서원 대표님) https://t.co/0ZJKgjsOtf - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						74,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0ZJKgjsOtf",
+					"expanded_url": "https://youtu.be/Q1776DBMON8",
+					"display_url": "youtu.be/Q1776DBMON8",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3731,
+			"friends_count": 6,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 81,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[오래된정원] 22화 가슴이 웅장해지는 지큐 화보 촬영 현장(feat.박서원 대표님) https://t.co/0ZJKgjsOtf - @YouTube"
+	},
+	{
+		"created_at": "Fri Jan 15 11:29:41 +0000 2021",
+		"id": 1350031952967975000,
+		"id_str": "1350042467006091265",
+		"full_text": "2부 \n'21.1.28(목) 20:00-\n유예(2012) 2/2, 보물섬(2014)\nSpecial MC BOY.D\n\n* 예매 오픈 : 1월 21일 목요일 8시\n단추 바로가기: https://t.co/BFuaAdzZWX\n\n티켓 : 25,000원",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BFuaAdzZWX",
+					"expanded_url": "https://danchu.tv/ticket_open/show/1685d239-cb46-4dec-8504-804e53513dd1",
+					"display_url": "danchu.tv/ticket_open/sh…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1350031951411875800,
+		"in_reply_to_status_id_str": "1350031951411875840",
+		"in_reply_to_user_id": 52109991,
+		"in_reply_to_user_id_str": "52109991",
+		"in_reply_to_screen_name": "orm_ent",
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 714,
+			"friends_count": 323,
+			"listed_count": 12,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 711,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1608003222",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2부 \n'21.1.28(목) 20:00-\n유예(2012) 2/2, 보물섬(2014)\nSpecial MC BOY.D\n\n* 예매 오픈 : 1월 21일 목요일 8시\n단추 바로가기: https://t.co/BFuaAdzZWX\n\n티켓 : 25,000원"
+	},
+	{
+		"created_at": "Fri Jan 15 11:29:33 +0000 2021",
+		"id": 1350031951411875800,
+		"id_str": "1350042432885325826",
+		"full_text": "&lt;9와 숫자들 디스코그라피 온라인 콘서트&gt;\n\n1부 '21.1.27(수) 20:00-\n9와 숫자들(2009), 유예(2012) 1/2\nSpecial MC 유정목\n* 예매 오픈 : 1월 20일 수요일 8시\n단추 바로가기: https://t.co/zWTPQJ6HGQ\n\n티켓: 25,000원",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zWTPQJ6HGQ",
+					"expanded_url": "https://danchu.tv/ticket_open/show/6681c0ea-0d21-4fd1-b243-5eeda204b4a4",
+					"display_url": "danchu.tv/ticket_open/sh…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1350031948882665500,
+		"in_reply_to_status_id_str": "1350031948882665472",
+		"in_reply_to_user_id": 52109991,
+		"in_reply_to_user_id_str": "52109991",
+		"in_reply_to_screen_name": "orm_ent",
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 714,
+			"friends_count": 323,
+			"listed_count": 12,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 711,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1608003222",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;9와 숫자들 디스코그라피 온라인 콘서트&gt;\n\n1부 '21.1.27(수) 20:00-\n9와 숫자들(2009), 유예(2012) 1/2\nSpecial MC 유정목\n* 예매 오픈 : 1월 20일 수요일 8시\n단추 바로가기: https://t.co/zWTPQJ6HGQ\n\n티켓: 25,000원"
+	},
+	{
+		"created_at": "Fri Jan 15 11:29:25 +0000 2021",
+		"id": 1350031948882665500,
+		"id_str": "1350042398706040833",
+		"full_text": "[공연 공지]\n12 Years 6 Albums 62 Songs \n\n2018년 톤스튜디오에서 진행했던 디스코그라피 라이브를 온라인에서 진행합니다.\n\n세상에 공개되었던 순서대로 들려 드리는 독특한 형태의 라이브 공연 \n9와 숫자들 디스코 그라피 온라인 라이브! https://t.co/2lSBUWd4Nb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1350031231426052000,
+					"id_str": "1350031231426052098",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/ErxGQJDVQAIKK2k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErxGQJDVQAIKK2k.jpg",
+					"url": "https://t.co/2lSBUWd4Nb",
+					"display_url": "pic.twitter.com/2lSBUWd4Nb",
+					"expanded_url": "https://twitter.com/orm_ent/status/1350031948882665472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1191,
+							"h": 1684,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1350031231426052000,
+					"id_str": "1350031231426052098",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/ErxGQJDVQAIKK2k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErxGQJDVQAIKK2k.jpg",
+					"url": "https://t.co/2lSBUWd4Nb",
+					"display_url": "pic.twitter.com/2lSBUWd4Nb",
+					"expanded_url": "https://twitter.com/orm_ent/status/1350031948882665472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1191,
+							"h": 1684,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 714,
+			"friends_count": 323,
+			"listed_count": 12,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 711,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1608003222",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공연 공지]\n12 Years 6 Albums 62 Songs \n\n2018년 톤스튜디오에서 진행했던 디스코그라피 라이브를 온라인에서 진행합니다.\n\n세상에 공개되었던 순서대로 들려 드리는 독특한 형태의 라이브 공연 \n9와 숫자들 디스코 그라피 온라인 라이브! https://t.co/2lSBUWd4Nb"
+	},
+	{
 		"created_at": "Fri Jan 15 10:00:20 +0000 2021",
 		"id": 1350019982063771600,
 		"id_str": "1350019982063771648",
