@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 15 15:29:25 +0000 2021",
+		"id": 1350091089760325600,
+		"id_str": "1350102799175049218",
+		"full_text": "지난 2020년 5월, 어느 산골 앞마당에서 펼쳐진 안테나 X 채널십오야 삼시네세끼 라이브. 그곳에서 남발(?)된 공약의 결과물이 곧 찾아옵니다 😎🖤\n\n유희열x젝키 공약 이행 프로젝트\n💛 뒤돌아보지 말아요 💛\n\n1월 22일 (금) 밤 10시 50분 tvN 첫 방송!\n\n#유희열 #토이 #젝스키스 #뒤돌아보지말아요 https://t.co/sD3bbBeXhe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유희열",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "토이",
+					"indices": [
+						155,
+						158
+					]
+				},
+				{
+					"text": "젝스키스",
+					"indices": [
+						159,
+						164
+					]
+				},
+				{
+					"text": "뒤돌아보지말아요",
+					"indices": [
+						165,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1350088310576697300,
+					"id_str": "1350088310576697346",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1350088310576697346/img/QBK5JbvFFvWZgFKJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1350088310576697346/img/QBK5JbvFFvWZgFKJ.jpg",
+					"url": "https://t.co/sD3bbBeXhe",
+					"display_url": "pic.twitter.com/sD3bbBeXhe",
+					"expanded_url": "https://twitter.com/antennamusic/status/1350091089760325632/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1350088310576697300,
+					"id_str": "1350088310576697346",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1350088310576697346/img/QBK5JbvFFvWZgFKJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1350088310576697346/img/QBK5JbvFFvWZgFKJ.jpg",
+					"url": "https://t.co/sD3bbBeXhe",
+					"display_url": "pic.twitter.com/sD3bbBeXhe",
+					"expanded_url": "https://twitter.com/antennamusic/status/1350091089760325632/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 78812,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1350088310576697346/vid/1280x720/Z9Dos8emMvoOA368.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1350088310576697346/vid/480x270/QI8dDTlXxSeVzhwK.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1350088310576697346/pl/7lQxxTX7h-2_dRbP.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1350088310576697346/vid/640x360/gmuYqN-IYD2gidHy.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "유희열x젝키 공약 이행 프로젝트 💛 뒤돌아보지 말아요 💛",
+						"description": "지난 2020년 5월, 어느 산골 앞마당에서 펼쳐진 안테나 X 채널십오야 삼시네세끼 라이브. 그곳에서 남발(?)된 공약의 결과물이 곧 찾아옵니다 😎🖤\n\n유희열x젝키 공약 이행 프로젝트\n💛 뒤돌아보지 말아요 💛\n\n1월 22일 (금) 밤 10시 50분 tvN 첫 방송!\n\n방송 직후 <채널십오야> 유튜브 채널에서 공개되는 풀버전도 놓치지 마세요! 😉",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official / 2020 안테나 크리스마스 캐럴 ‘겨울의 우리들’ Release!",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35346,
+			"friends_count": 10,
+			"listed_count": 362,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1608569605",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 270,
+		"favorite_count": 357,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지난 2020년 5월, 어느 산골 앞마당에서 펼쳐진 안테나 X 채널십오야 삼시네세끼 라이브. 그곳에서 남발(?)된 공약의 결과물이 곧 찾아옵니다 😎🖤\n\n유희열x젝키 공약 이행 프로젝트\n💛 뒤돌아보지 말아요 💛\n\n1월 22일 (금) 밤 10시 50분 tvN 첫 방송!\n\n#유희열 #토이 #젝스키스 #뒤돌아보지말아요 https://t.co/sD3bbBeXhe"
+	},
+	{
 		"created_at": "Fri Jan 15 12:11:17 +0000 2021",
 		"id": 1350046185797640200,
 		"id_str": "1350052935552688134",
