@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 15 04:29:33 +0000 2021",
+		"id": 1349928971186540500,
+		"id_str": "1349936737167028224",
+		"full_text": "[🎧] Unpro 언프로 '동정同情' 발매되었습니다 🎉💗 2021. 1.14\n\n🎬 https://t.co/M82NWXNNzL\n\n▶️ Melon - https://t.co/X3z2DVhRnl\n▶️ Genie - https://t.co/q0cJSAvErg\n▶️ Bugs - https://t.co/vSmGtb2eb7\n▶️ VIBE - https://t.co/f3W0kXybxm https://t.co/tatA7WWVKH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M82NWXNNzL",
+					"expanded_url": "http://www.youtube.com/watch?v=oMLbzGqFZOE",
+					"display_url": "youtube.com/watch?v=oMLbzG…",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"url": "https://t.co/X3z2DVhRnl",
+					"expanded_url": "https://www.melon.com/album/detail.htm?albumId=10547353",
+					"display_url": "melon.com/album/detail.h…",
+					"indices": [
+						82,
+						105
+					]
+				},
+				{
+					"url": "https://t.co/q0cJSAvErg",
+					"expanded_url": "http://genie.co.kr/88EMC6",
+					"display_url": "genie.co.kr/88EMC6",
+					"indices": [
+						117,
+						140
+					]
+				},
+				{
+					"url": "https://t.co/vSmGtb2eb7",
+					"expanded_url": "https://m.bugs.co.kr/track/32123940",
+					"display_url": "m.bugs.co.kr/track/32123940",
+					"indices": [
+						151,
+						174
+					]
+				},
+				{
+					"url": "https://t.co/f3W0kXybxm",
+					"expanded_url": "http://naver.me/GQ4Wq1Ag",
+					"display_url": "naver.me/GQ4Wq1Ag",
+					"indices": [
+						185,
+						208
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1349928963984920600,
+					"id_str": "1349928963984920576",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/ErvpPZJVEAARow8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErvpPZJVEAARow8.jpg",
+					"url": "https://t.co/tatA7WWVKH",
+					"display_url": "pic.twitter.com/tatA7WWVKH",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1349928971186540546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1349928963984920600,
+					"id_str": "1349928963984920576",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/ErvpPZJVEAARow8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErvpPZJVEAARow8.jpg",
+					"url": "https://t.co/tatA7WWVKH",
+					"display_url": "pic.twitter.com/tatA7WWVKH",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1349928971186540546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 964372210436591600,
+			"id_str": "964372210436591616",
+			"name": "Enterarts - A.I.M",
+			"screen_name": "aimbyenterarts",
+			"location": "대한민국 서울",
+			"description": "The World's First AI Music Production Company & Record Label / Artist Management\n세계 최초 인공지능 음반 제작 레이블",
+			"url": "https://t.co/4A9OjJKnmN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4A9OjJKnmN",
+							"expanded_url": "http://www.enterarts.net",
+							"display_url": "enterarts.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 312,
+			"friends_count": 11,
+			"listed_count": 3,
+			"created_at": "Fri Feb 16 05:33:46 +0000 2018",
+			"favourites_count": 1183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 142,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/964372210436591616/1518759589",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎧] Unpro 언프로 '동정同情' 발매되었습니다 🎉💗 2021. 1.14\n\n🎬 https://t.co/M82NWXNNzL\n\n▶️ Melon - https://t.co/X3z2DVhRnl\n▶️ Genie - https://t.co/q0cJSAvErg\n▶️ Bugs - https://t.co/vSmGtb2eb7\n▶️ VIBE - https://t.co/f3W0kXybxm https://t.co/tatA7WWVKH"
+	},
+	{
 		"created_at": "Fri Jan 15 04:11:17 +0000 2021",
 		"id": 1349931877876985900,
 		"id_str": "1349932138632785921",
