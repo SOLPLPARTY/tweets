@@ -1,10 +1,125 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 16 15:11:17 +0000 2021",
+		"id": 1350453644676591600,
+		"id_str": "1350460622471880704",
+		"full_text": "@witncynical 😢",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "witncynical",
+					"name": "시집서점 위트 앤 시니컬",
+					"id": 730729587177459700,
+					"id_str": "730729587177459713",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1347793056825634800,
+		"in_reply_to_status_id_str": "1347793056825634816",
+		"in_reply_to_user_id": 730729587177459700,
+		"in_reply_to_user_id_str": "730729587177459713",
+		"in_reply_to_screen_name": "witncynical",
+		"user": {
+			"id": 1120917323248832500,
+			"id_str": "1120917323248832512",
+			"name": "파랑새극장",
+			"screen_name": "parangsae_hall",
+			"location": "대한민국 종로구 ",
+			"description": "서울시 종로구 대학로 116. 혜화역 도보1분. 음악 공연 및 영상 상영 Music theater in Hyehwa, Daehak-ro, Seoul, Since 1984 https://t.co/rJt1LEK4OS\n공연 및 대관문의 parangsae.theater@00ground.kr",
+			"url": "https://t.co/rJt1LEK4OS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rJt1LEK4OS",
+							"expanded_url": "http://parangsae.theater",
+							"display_url": "parangsae.theater",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rJt1LEK4OS",
+							"expanded_url": "http://parangsae.theater",
+							"display_url": "parangsae.theater",
+							"indices": [
+								95,
+								118
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 50,
+			"friends_count": 510,
+			"listed_count": 1,
+			"created_at": "Wed Apr 24 05:08:10 +0000 2019",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123502666242375680/wLJlkUBI_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123502666242375680/wLJlkUBI_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "@witncynical 😢"
+	},
+	{
 		"created_at": "Sat Jan 16 13:06:59 +0000 2021",
 		"id": 1350429341184831500,
 		"id_str": "1350429341184831489",
-		"full_text": "#온스테이지 #ONSTAGE\n온스테이지 10주년 | ​플레이리스트 : 17\nhttps://t.co/E6GrqzbV0Z",
+		"full_text": "#온스테이지 #ONSTAGE\n온스테이지 10주년 | 플레이리스트 : 17\nhttps://t.co/E6GrqzbV0Z",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -138,7 +253,7 @@ Grailbird.data.tweets_2021_01 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#온스테이지 #ONSTAGE\n온스테이지 10주년 | ​플레이리스트 : 17\nhttps://t.co/E6GrqzbV0Z"
+		"text": "#온스테이지 #ONSTAGE\n온스테이지 10주년 | 플레이리스트 : 17\nhttps://t.co/E6GrqzbV0Z"
 	},
 	{
 		"created_at": "Sat Jan 16 11:29:25 +0000 2021",
