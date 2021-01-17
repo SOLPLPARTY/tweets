@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 17 03:29:25 +0000 2021",
+		"id": 1350643002612605000,
+		"id_str": "1350646378880512000",
+		"full_text": "#신현필 [Jarasum Jazz Residency I (How to face my anxiety)]\n\n자라섬재즈페스티벌 아티스트 레지던시 프로젝트를 담은 첫 앨범 ‘How to face my anxiety’ 아티스트로 선정된 신현필과 함께 참여한 이원술, 유태성, 지박이 음악으로 해석한 이 시대의 불안과 그 해답\n\nhttps://t.co/vK9mbl4pXx https://t.co/uCnzaN0rvq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신현필",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vK9mbl4pXx",
+					"expanded_url": "https://bit.ly/2XNh6W1",
+					"display_url": "bit.ly/2XNh6W1",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1349893005025558500,
+					"id_str": "1349893005025558531",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/ErvIiTlVQAM0Kry.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErvIiTlVQAM0Kry.jpg",
+					"url": "https://t.co/uCnzaN0rvq",
+					"display_url": "pic.twitter.com/uCnzaN0rvq",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1350643002612604936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1349893005025558500,
+					"id_str": "1349893005025558531",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/ErvIiTlVQAM0Kry.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErvIiTlVQAM0Kry.jpg",
+					"url": "https://t.co/uCnzaN0rvq",
+					"display_url": "pic.twitter.com/uCnzaN0rvq",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1350643002612604936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9523,
+			"friends_count": 2856,
+			"listed_count": 245,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 954,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10517,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1610091287",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#신현필 [Jarasum Jazz Residency I (How to face my anxiety)]\n\n자라섬재즈페스티벌 아티스트 레지던시 프로젝트를 담은 첫 앨범 ‘How to face my anxiety’ 아티스트로 선정된 신현필과 함께 참여한 이원술, 유태성, 지박이 음악으로 해석한 이 시대의 불안과 그 해답\n\nhttps://t.co/vK9mbl4pXx https://t.co/uCnzaN0rvq"
+	},
+	{
 		"created_at": "Sun Jan 17 03:05:54 +0000 2021",
 		"id": 1350640460788867000,
 		"id_str": "1350640460788867073",
