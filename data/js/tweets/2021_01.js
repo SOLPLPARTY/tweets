@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 17 10:29:25 +0000 2021",
+		"id": 1350747657707298800,
+		"id_str": "1350752075269992450",
+		"full_text": "[#Percent] Beabadoobee - You Lie All The Time｜Cover By 96BPM 공개\n\nfull ver. 🔗 https://t.co/FtJo1WPBYE\n\n#퍼센트 #96bpm #Beabadoobee #YouLieAllTheTime https://t.co/STePw0uhqT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Percent",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "퍼센트",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "96bpm",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "Beabadoobee",
+					"indices": [
+						114,
+						126
+					]
+				},
+				{
+					"text": "YouLieAllTheTime",
+					"indices": [
+						127,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FtJo1WPBYE",
+					"expanded_url": "http://youtu.be/J0yXJlJwh_A",
+					"display_url": "youtu.be/J0yXJlJwh_A",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1350747168475279400,
+					"id_str": "1350747168475279360",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1350747168475279360/pu/img/AEri_d7MNG9NXbaX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1350747168475279360/pu/img/AEri_d7MNG9NXbaX.jpg",
+					"url": "https://t.co/STePw0uhqT",
+					"display_url": "pic.twitter.com/STePw0uhqT",
+					"expanded_url": "https://twitter.com/themysticstory/status/1350747657707298819/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1350747168475279400,
+					"id_str": "1350747168475279360",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1350747168475279360/pu/img/AEri_d7MNG9NXbaX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1350747168475279360/pu/img/AEri_d7MNG9NXbaX.jpg",
+					"url": "https://t.co/STePw0uhqT",
+					"display_url": "pic.twitter.com/STePw0uhqT",
+					"expanded_url": "https://twitter.com/themysticstory/status/1350747657707298819/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 57724,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1350747168475279360/pu/vid/480x270/qcYQizufSEJs7Lxf.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1350747168475279360/pu/pl/jLawVq3G9ENWk27q.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1350747168475279360/pu/vid/640x360/mMjDCV3k3AEgTmGs.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1350747168475279360/pu/vid/1280x720/tshTIrCH-rhNSJFA.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20162,
+			"friends_count": 18,
+			"listed_count": 234,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Percent] Beabadoobee - You Lie All The Time｜Cover By 96BPM 공개\n\nfull ver. 🔗 https://t.co/FtJo1WPBYE\n\n#퍼센트 #96bpm #Beabadoobee #YouLieAllTheTime https://t.co/STePw0uhqT"
+	},
+	{
 		"created_at": "Sun Jan 17 09:29:25 +0000 2021",
 		"id": 1350729574825517000,
 		"id_str": "1350736975473618944",
