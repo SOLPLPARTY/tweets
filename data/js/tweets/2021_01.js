@@ -1,10 +1,215 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 18 07:29:25 +0000 2021",
+		"id": 1351062660960444400,
+		"id_str": "1351069164203597827",
+		"full_text": "🎵The Weeknd  - Save Your Tears \n\n 위켄드 슈퍼볼 하프타임 공연 기대 되는 사람? 🙋‍♂️🙋‍♀️ https://t.co/HfbTloLOvn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1351062567070871600,
+					"id_str": "1351062567070871555",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1351062567070871555/pu/img/dYuaWiMl2bPHlGQS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1351062567070871555/pu/img/dYuaWiMl2bPHlGQS.jpg",
+					"url": "https://t.co/HfbTloLOvn",
+					"display_url": "pic.twitter.com/HfbTloLOvn",
+					"expanded_url": "https://twitter.com/livenationkr/status/1351062660960444416/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351062567070871600,
+					"id_str": "1351062567070871555",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1351062567070871555/pu/img/dYuaWiMl2bPHlGQS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1351062567070871555/pu/img/dYuaWiMl2bPHlGQS.jpg",
+					"url": "https://t.co/HfbTloLOvn",
+					"display_url": "pic.twitter.com/HfbTloLOvn",
+					"expanded_url": "https://twitter.com/livenationkr/status/1351062660960444416/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15033,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1351062567070871555/pu/vid/320x320/nI6lH_agpTIHuoST.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1351062567070871555/pu/pl/8xXtLRswLjoD7Z9j.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1351062567070871555/pu/vid/480x480/rbVtv-q7ECx2MVCB.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1351062567070871555/pu/vid/720x720/QGEYbObGOGGgUDtr.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 236888084,
+			"id_str": "236888084",
+			"name": "LIVE NATION KOREA",
+			"screen_name": "livenationkr",
+			"location": "Seoul, South Korea",
+			"description": "라이브네이션코리아 공식 트위터. Paul McCartney, Maroon5, Jason Mraz, Coldplay, MUSE, 등 해외 유명아티스트의 내한공연과 BIGBANG, Blackpink,BTS 등의 대규모 월드투어를 기획한 공연기획사. FOLLOW US!",
+			"url": "http://t.co/WZhcKy3xE8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/WZhcKy3xE8",
+							"expanded_url": "http://www.livenation.kr",
+							"display_url": "livenation.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6394,
+			"friends_count": 234,
+			"listed_count": 28,
+			"created_at": "Tue Jan 11 16:04:41 +0000 2011",
+			"favourites_count": 593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2063,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/820816720998764545/T7P3FpWQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/820816720998764545/T7P3FpWQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/236888084/1475559466",
+			"profile_link_color": "E21836",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎵The Weeknd  - Save Your Tears \n\n 위켄드 슈퍼볼 하프타임 공연 기대 되는 사람? 🙋‍♂️🙋‍♀️ https://t.co/HfbTloLOvn"
+	},
+	{
 		"created_at": "Mon Jan 18 06:29:25 +0000 2021",
 		"id": 1351041772349255700,
 		"id_str": "1351054064969273350",
-		"full_text": "#GOND [I don’t care about your love life.]​\n\n행복과 아픔이 공존하는 우리의 연애사, ‘GOND’의 ‘I don’t care about your love life.’\n\n✚ 앨범 자세히 보기: https://t.co/BEH6tDImmA https://t.co/MLQWrYksvH",
+		"full_text": "#GOND [I don’t care about your love life.]\n\n행복과 아픔이 공존하는 우리의 연애사, ‘GOND’의 ‘I don’t care about your love life.’\n\n✚ 앨범 자세히 보기: https://t.co/BEH6tDImmA https://t.co/MLQWrYksvH",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -200,7 +405,7 @@ Grailbird.data.tweets_2021_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#GOND [I don’t care about your love life.]​\n\n행복과 아픔이 공존하는 우리의 연애사, ‘GOND’의 ‘I don’t care about your love life.’\n\n✚ 앨범 자세히 보기: https://t.co/BEH6tDImmA https://t.co/MLQWrYksvH"
+		"text": "#GOND [I don’t care about your love life.]\n\n행복과 아픔이 공존하는 우리의 연애사, ‘GOND’의 ‘I don’t care about your love life.’\n\n✚ 앨범 자세히 보기: https://t.co/BEH6tDImmA https://t.co/MLQWrYksvH"
 	},
 	{
 		"created_at": "Mon Jan 18 06:11:16 +0000 2021",
