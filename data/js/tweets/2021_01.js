@@ -1,6 +1,891 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 18 09:29:48 +0000 2021",
+		"id": 1351092910360563700,
+		"id_str": "1351099463130091526",
+		"full_text": "[아지트 라이브 Azit Live #77]\n\n적재(Jukjae) - ‘흔적 (Trace)’\n✔️ https://t.co/OMFF9jkiq0\n\n#적재 #Jukjae #흔적 #Trace\n#아지트라이브 #AzitLive",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "적재",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "흔적",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "Trace",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "아지트라이브",
+					"indices": [
+						102,
+						109
+					]
+				},
+				{
+					"text": "AzitLive",
+					"indices": [
+						110,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OMFF9jkiq0",
+					"expanded_url": "https://youtu.be/6mexOaWh4gk",
+					"display_url": "youtu.be/6mexOaWh4gk",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official / 2020 안테나 크리스마스 캐럴 ‘겨울의 우리들’ Release!",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35372,
+			"friends_count": 10,
+			"listed_count": 361,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1608569605",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[아지트 라이브 Azit Live #77]\n\n적재(Jukjae) - ‘흔적 (Trace)’\n✔️ https://t.co/OMFF9jkiq0\n\n#적재 #Jukjae #흔적 #Trace\n#아지트라이브 #AzitLive"
+	},
+	{
+		"created_at": "Mon Jan 18 09:29:41 +0000 2021",
+		"id": 1351092255898132500,
+		"id_str": "1351099433300193281",
+		"full_text": "[Meego]\n\nMeego의 새 EP 앨범 '0 degrees'가 1월 21일 오후 6시에 발매됩니다. \nMeego’s new EP album ‘0 degrees’ will be released on January 21, 6PM (KST)\n\n#Meego #미고\n#0degrees\n#PAKTORYCOMPANY #팩토리컴퍼니 https://t.co/aNdV6AnXTy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Meego",
+					"indices": [
+						135,
+						141
+					]
+				},
+				{
+					"text": "미고",
+					"indices": [
+						142,
+						145
+					]
+				},
+				{
+					"text": "0degrees",
+					"indices": [
+						146,
+						155
+					]
+				},
+				{
+					"text": "PAKTORYCOMPANY",
+					"indices": [
+						156,
+						171
+					]
+				},
+				{
+					"text": "팩토리컴퍼니",
+					"indices": [
+						172,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1351090238647636000,
+					"id_str": "1351090238647635970",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/EsAJaeYXEAIU3cN.png",
+					"media_url_https": "https://pbs.twimg.com/media/EsAJaeYXEAIU3cN.png",
+					"url": "https://t.co/aNdV6AnXTy",
+					"display_url": "pic.twitter.com/aNdV6AnXTy",
+					"expanded_url": "https://twitter.com/paktoryofficial/status/1351092255898132480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351090238647636000,
+					"id_str": "1351090238647635970",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/EsAJaeYXEAIU3cN.png",
+					"media_url_https": "https://pbs.twimg.com/media/EsAJaeYXEAIU3cN.png",
+					"url": "https://t.co/aNdV6AnXTy",
+					"display_url": "pic.twitter.com/aNdV6AnXTy",
+					"expanded_url": "https://twitter.com/paktoryofficial/status/1351092255898132480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189041084971634700,
+			"id_str": "1189041084971634688",
+			"name": "PAKTORY COMPANY",
+			"screen_name": "paktoryofficial",
+			"location": "seoul",
+			"description": "contact@paktory.net",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Tue Oct 29 04:47:52 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 75,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Meego]\n\nMeego의 새 EP 앨범 '0 degrees'가 1월 21일 오후 6시에 발매됩니다. \nMeego’s new EP album ‘0 degrees’ will be released on January 21, 6PM (KST)\n\n#Meego #미고\n#0degrees\n#PAKTORYCOMPANY #팩토리컴퍼니 https://t.co/aNdV6AnXTy"
+	},
+	{
+		"created_at": "Mon Jan 18 09:29:34 +0000 2021",
+		"id": 1351092138642174000,
+		"id_str": "1351099403411595264",
+		"full_text": "골든차일드(Golden Child)\n'안아줄게 (Burn It)' MV Teaser (A ver.)\n\n2021.01.25 6PM RELEASE\n\nhttps://t.co/LIgCeyy9Ko\nhttps://t.co/YoZKOZ7TUb\n\n#GoldenChild #골든차일드 #YES\n#안아줄게 #Burn_It https://t.co/KVxRDsrf1I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoldenChild",
+					"indices": [
+						130,
+						142
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						143,
+						149
+					]
+				},
+				{
+					"text": "YES",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "안아줄게",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "Burn_It",
+					"indices": [
+						161,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LIgCeyy9Ko",
+					"expanded_url": "http://youtu.be/lg4nklAQ2ZQ",
+					"display_url": "youtu.be/lg4nklAQ2ZQ",
+					"indices": [
+						81,
+						104
+					]
+				},
+				{
+					"url": "https://t.co/YoZKOZ7TUb",
+					"expanded_url": "http://vlive.tv/video/233117",
+					"display_url": "vlive.tv/video/233117",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1351079690635780000,
+					"id_str": "1351079690635780100",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Er__0f-XIAQJgI2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Er__0f-XIAQJgI2.jpg",
+					"url": "https://t.co/KVxRDsrf1I",
+					"display_url": "pic.twitter.com/KVxRDsrf1I",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1351092138642173952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351079690635780000,
+					"id_str": "1351079690635780100",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Er__0f-XIAQJgI2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Er__0f-XIAQJgI2.jpg",
+					"url": "https://t.co/KVxRDsrf1I",
+					"display_url": "pic.twitter.com/KVxRDsrf1I",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1351092138642173952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424995,
+			"friends_count": 10,
+			"listed_count": 1824,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1610618486",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 871,
+		"favorite_count": 1763,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "골든차일드(Golden Child)\n'안아줄게 (Burn It)' MV Teaser (A ver.)\n\n2021.01.25 6PM RELEASE\n\nhttps://t.co/LIgCeyy9Ko\nhttps://t.co/YoZKOZ7TUb\n\n#GoldenChild #골든차일드 #YES\n#안아줄게 #Burn_It https://t.co/KVxRDsrf1I"
+	},
+	{
+		"created_at": "Mon Jan 18 09:29:32 +0000 2021",
+		"id": 1351091965660639200,
+		"id_str": "1351099394544852993",
+		"full_text": "카더가든 NEW EP &lt;부재&gt;\n2021. 01. 28 (THU) 6PM 발매 https://t.co/jzY8bhLyzH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1350302203307720700,
+					"id_str": "1350302203307720705",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1350302203307720705/pu/img/HZzuRzvo7YHXtjgt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1350302203307720705/pu/img/HZzuRzvo7YHXtjgt.jpg",
+					"url": "https://t.co/jzY8bhLyzH",
+					"display_url": "pic.twitter.com/jzY8bhLyzH",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1351091965660639234/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1350302203307720700,
+					"id_str": "1350302203307720705",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1350302203307720705/pu/img/HZzuRzvo7YHXtjgt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1350302203307720705/pu/img/HZzuRzvo7YHXtjgt.jpg",
+					"url": "https://t.co/jzY8bhLyzH",
+					"display_url": "pic.twitter.com/jzY8bhLyzH",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1351091965660639234/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 25025,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1350302203307720705/pu/vid/1280x720/6vrmlfMTOacN0Jt_.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1350302203307720705/pu/pl/8cAc-yD6RtpAZtVO.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1350302203307720705/pu/vid/480x270/PHVbu_eyYV7g3jg5.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1350302203307720705/pu/vid/640x360/_0dh2ospBKjZbRTb.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3731,
+			"friends_count": 6,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 81,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "카더가든 NEW EP &lt;부재&gt;\n2021. 01. 28 (THU) 6PM 발매 https://t.co/jzY8bhLyzH"
+	},
+	{
+		"created_at": "Mon Jan 18 09:29:29 +0000 2021",
+		"id": 1351088451836371000,
+		"id_str": "1351099381093687298",
+		"full_text": "[스케줄 안내] 1월 4째주 스케줄\n☞ https://t.co/xUrxSMGGsm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xUrxSMGGsm",
+					"expanded_url": "https://bit.ly/3qtjvl3",
+					"display_url": "bit.ly/3qtjvl3",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스, 소란, 노리플라이, 쏜애플, LambC, SURL, OurR",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13021,
+			"friends_count": 1949,
+			"listed_count": 253,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13171,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[스케줄 안내] 1월 4째주 스케줄\n☞ https://t.co/xUrxSMGGsm"
+	},
+	{
 		"created_at": "Mon Jan 18 09:10:55 +0000 2021",
 		"id": 1351094710920749000,
 		"id_str": "1351094710920749059",
