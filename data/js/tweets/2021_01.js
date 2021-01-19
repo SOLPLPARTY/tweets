@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 19 06:11:17 +0000 2021",
+		"id": 1351399315508514800,
+		"id_str": "1351411890400997376",
+		"full_text": "방금 사진을 게시했습니다 @탈영역우정국 Ujeongguk https://t.co/iX24A4g6F2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iX24A4g6F2",
+					"expanded_url": "https://www.instagram.com/p/CKNvHj0J7ix/?igshid=1nry37b1og6do",
+					"display_url": "instagram.com/p/CKNvHj0J7ix/…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3196228226,
+			"id_str": "3196228226",
+			"name": "탈영역우정국",
+			"screen_name": "ujeongguk",
+			"location": "마포구 독막로20길 42",
+			"description": "탈영역우정국 Post Territory UJEONGGUK",
+			"url": "https://t.co/6kN85O9Yf7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6kN85O9Yf7",
+							"expanded_url": "http://www.ujeongguk.com",
+							"display_url": "ujeongguk.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5783,
+			"friends_count": 289,
+			"listed_count": 24,
+			"created_at": "Fri May 15 11:23:36 +0000 2015",
+			"favourites_count": 1084,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/920123700468256773/d1xMq9tC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/920123700468256773/d1xMq9tC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3196228226/1508210330",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.54692456,
+				126.92759959
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				126.92759959,
+				37.54692456
+			]
+		},
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "방금 사진을 게시했습니다 @탈영역우정국 Ujeongguk https://t.co/iX24A4g6F2"
+	},
+	{
+		"created_at": "Tue Jan 19 05:29:34 +0000 2021",
+		"id": 1351396556813987800,
+		"id_str": "1351401391584124928",
+		"full_text": "[LambC]\nᴘᴀʀᴛ 1 : ᴇᴍᴏᴛɪᴏɴᴀʟ &lt;ɪ'ʟʟ ꜱᴇᴇ ʏᴏᴜ ᴡʜᴇɴ ɪ ꜱᴇᴇ ʏᴏᴜ&gt;\nʀᴇʟᴇᴀꜱᴇ ᴏɴ 2021.01.24. 12ᴘᴍ. ᴋꜱᴛ. https://t.co/r2vIccPLJO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1351396260620632000,
+					"id_str": "1351396260620632065",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EsEfvTEVgAEf1j4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsEfvTEVgAEf1j4.jpg",
+					"url": "https://t.co/r2vIccPLJO",
+					"display_url": "pic.twitter.com/r2vIccPLJO",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1351396556813987842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351396260620632000,
+					"id_str": "1351396260620632065",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EsEfvTEVgAEf1j4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsEfvTEVgAEf1j4.jpg",
+					"url": "https://t.co/r2vIccPLJO",
+					"display_url": "pic.twitter.com/r2vIccPLJO",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1351396556813987842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스, 소란, 노리플라이, 쏜애플, LambC, SURL, OurR",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13016,
+			"friends_count": 1949,
+			"listed_count": 253,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "[LambC]\nᴘᴀʀᴛ 1 : ᴇᴍᴏᴛɪᴏɴᴀʟ &lt;ɪ'ʟʟ ꜱᴇᴇ ʏᴏᴜ ᴡʜᴇɴ ɪ ꜱᴇᴇ ʏᴏᴜ&gt;\nʀᴇʟᴇᴀꜱᴇ ᴏɴ 2021.01.24. 12ᴘᴍ. ᴋꜱᴛ. https://t.co/r2vIccPLJO"
+	},
+	{
 		"created_at": "Tue Jan 19 03:11:17 +0000 2021",
 		"id": 1351363646308302800,
 		"id_str": "1351366591032782851",
