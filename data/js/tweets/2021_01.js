@@ -1,6 +1,344 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 19 09:29:41 +0000 2021",
+		"id": 1351455153816125400,
+		"id_str": "1351461820041719813",
+		"full_text": "[Meego]\n\n‘1/10’ (Teaser)\n\nMeego - ‘0 degrees’\n2021. 1. 21. 6PM (KST)\n\n#Meego #미고\n#0degrees\n#PAKTORYCOMPANY #팩토리컴퍼니\n\nhttps://t.co/eyHX0zetRK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Meego",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "미고",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "0degrees",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"text": "PAKTORYCOMPANY",
+					"indices": [
+						91,
+						106
+					]
+				},
+				{
+					"text": "팩토리컴퍼니",
+					"indices": [
+						107,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eyHX0zetRK",
+					"expanded_url": "https://youtu.be/ZmE7hvJNcoc",
+					"display_url": "youtu.be/ZmE7hvJNcoc",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189041084971634700,
+			"id_str": "1189041084971634688",
+			"name": "PAKTORY COMPANY",
+			"screen_name": "paktoryofficial",
+			"location": "seoul",
+			"description": "contact@paktory.net",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 303,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Tue Oct 29 04:47:52 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 77,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "[Meego]\n\n‘1/10’ (Teaser)\n\nMeego - ‘0 degrees’\n2021. 1. 21. 6PM (KST)\n\n#Meego #미고\n#0degrees\n#PAKTORYCOMPANY #팩토리컴퍼니\n\nhttps://t.co/eyHX0zetRK"
+	},
+	{
+		"created_at": "Tue Jan 19 09:29:32 +0000 2021",
+		"id": 1351454503808114700,
+		"id_str": "1351461781835812866",
+		"full_text": "골든차일드(Golden Child) \n5th Mini Album [YES.] : Track List\n\nTitle : 안아줄게 (Burn It)\n2021.01.25 6PM RELEASE\n\n#GoldenChild #골든차일드 #YES\n#안아줄게 #Burn_It https://t.co/76dmLRnKii",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoldenChild",
+					"indices": [
+						104,
+						116
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "YES",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "안아줄게",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "Burn_It",
+					"indices": [
+						135,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1351450813332295700,
+					"id_str": "1351450813332295681",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/EsFRWrwVkAEYXrZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsFRWrwVkAEYXrZ.jpg",
+					"url": "https://t.co/76dmLRnKii",
+					"display_url": "pic.twitter.com/76dmLRnKii",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1351454503808114690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 836,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1427,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 474,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351450813332295700,
+					"id_str": "1351450813332295681",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/EsFRWrwVkAEYXrZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsFRWrwVkAEYXrZ.jpg",
+					"url": "https://t.co/76dmLRnKii",
+					"display_url": "pic.twitter.com/76dmLRnKii",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1351454503808114690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 836,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1427,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 474,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/FVUD6x00cm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FVUD6x00cm",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 425060,
+			"friends_count": 10,
+			"listed_count": 1823,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1610618486",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 761,
+		"favorite_count": 1659,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "골든차일드(Golden Child) \n5th Mini Album [YES.] : Track List\n\nTitle : 안아줄게 (Burn It)\n2021.01.25 6PM RELEASE\n\n#GoldenChild #골든차일드 #YES\n#안아줄게 #Burn_It https://t.co/76dmLRnKii"
+	},
+	{
 		"created_at": "Tue Jan 19 09:07:38 +0000 2021",
 		"id": 1351456272474919000,
 		"id_str": "1351456272474918912",
