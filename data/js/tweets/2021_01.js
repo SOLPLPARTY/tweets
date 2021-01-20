@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 20 02:11:16 +0000 2021",
+		"id": 1351699399156539400,
+		"id_str": "1351713878812618753",
+		"full_text": "#seosamuel #damye\nRoof with SAMUEL SEO\n\nstay safe and enjoy!\n\n• 2021. 01. 23 sat 5pm(KST) release!\n• on youtube of 상상마당\n• 링크 ▶️ https://t.co/x2hknjsvXp\n\n#Roof_with_서사무엘\n#상상마당 https://t.co/it2OVZFtZ2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "seosamuel",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "damye",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"text": "Roof_with_서사무엘",
+					"indices": [
+						153,
+						168
+					]
+				},
+				{
+					"text": "상상마당",
+					"indices": [
+						169,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x2hknjsvXp",
+					"expanded_url": "http://bit.ly/2Jj88cB",
+					"display_url": "bit.ly/2Jj88cB",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1351698614796468200,
+					"id_str": "1351698614796468224",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1351698614796468224/pu/img/GMZXxwX20H-NzCKo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1351698614796468224/pu/img/GMZXxwX20H-NzCKo.jpg",
+					"url": "https://t.co/it2OVZFtZ2",
+					"display_url": "pic.twitter.com/it2OVZFtZ2",
+					"expanded_url": "https://twitter.com/SSmadang/status/1351699399156539392/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351698614796468200,
+					"id_str": "1351698614796468224",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1351698614796468224/pu/img/GMZXxwX20H-NzCKo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1351698614796468224/pu/img/GMZXxwX20H-NzCKo.jpg",
+					"url": "https://t.co/it2OVZFtZ2",
+					"display_url": "pic.twitter.com/it2OVZFtZ2",
+					"expanded_url": "https://twitter.com/SSmadang/status/1351699399156539392/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28996,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1351698614796468224/pu/pl/5t9TgXt_XSkYR9-N.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1351698614796468224/pu/vid/480x270/pEurGCdmG0GAOdtq.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1351698614796468224/pu/vid/1280x720/qOepkLbBAoOHuzs3.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1351698614796468224/pu/vid/640x360/0_VRXe730CoJxmbV.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18257,
+			"friends_count": 1896,
+			"listed_count": 291,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#seosamuel #damye\nRoof with SAMUEL SEO\n\nstay safe and enjoy!\n\n• 2021. 01. 23 sat 5pm(KST) release!\n• on youtube of 상상마당\n• 링크 ▶️ https://t.co/x2hknjsvXp\n\n#Roof_with_서사무엘\n#상상마당 https://t.co/it2OVZFtZ2"
+	},
+	{
 		"created_at": "Tue Jan 19 13:11:17 +0000 2021",
 		"id": 1351516871208562700,
 		"id_str": "1351517585725136899",
