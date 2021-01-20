@@ -1,6 +1,987 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 20 03:01:07 +0000 2021",
+		"id": 1351726422952435700,
+		"id_str": "1351726422952435716",
+		"full_text": "#솔플파티 트위터 뉴스레터 (Jan 20) https://t.co/TleCfJjZ8H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "솔플파티",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TleCfJjZ8H",
+					"expanded_url": "https://nzzl.us/uilLOZK",
+					"display_url": "nzzl.us/uilLOZK",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 440,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#솔플파티 트위터 뉴스레터 (Jan 20) https://t.co/TleCfJjZ8H"
+	},
+	{
+		"created_at": "Wed Jan 20 02:54:40 +0000 2021",
+		"id": 1351607012078084000,
+		"id_str": "1351724797693050881",
+		"full_text": "part two: jules\nstream it early friday at 9pm et/6pm pt on @hbomax. https://t.co/DOpixn4itM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hbomax",
+					"name": "HBO Max",
+					"id": 89090040,
+					"id_str": "89090040",
+					"indices": [
+						59,
+						66
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1350169239110504400,
+					"id_str": "1350169239110504449",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/ErzqFOhXUAMDE1W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErzqFOhXUAMDE1W.jpg",
+					"url": "https://t.co/DOpixn4itM",
+					"display_url": "pic.twitter.com/DOpixn4itM",
+					"expanded_url": "https://twitter.com/euphoriaHBO/status/1351607012078084104/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1350169239110504400,
+					"id_str": "1350169239110504449",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/ErzqFOhXUAMDE1W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErzqFOhXUAMDE1W.jpg",
+					"url": "https://t.co/DOpixn4itM",
+					"display_url": "pic.twitter.com/DOpixn4itM",
+					"expanded_url": "https://twitter.com/euphoriaHBO/status/1351607012078084104/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60060,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1350169239110504449/vid/480x270/-DByryADv6lp84pl.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1350169239110504449/pl/hYPWIzR0sHrof8Jn.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1350169239110504449/vid/1280x720/jBsNjDTOcGle3Syd.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1350169239110504449/vid/640x360/G043k8leO6j2Fyg3.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1023959908687982600,
+			"id_str": "1023959908687982593",
+			"name": "euphoria",
+			"screen_name": "euphoriaHBO",
+			"location": "",
+			"description": "part two: jules premieres january 24 on @hbo.\nstream it early this friday at 9pm et/6pm pt on @hbomax.",
+			"url": "https://t.co/QBvciAV7ao",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QBvciAV7ao",
+							"expanded_url": "https://itsh.bo/35Vnu28",
+							"display_url": "itsh.bo/35Vnu28",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 522528,
+			"friends_count": 100,
+			"listed_count": 338,
+			"created_at": "Mon Jul 30 15:54:01 +0000 2018",
+			"favourites_count": 16331,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1348656982950096900/C51y_zhI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1348656982950096900/C51y_zhI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1023959908687982593/1610379857",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24370,
+		"favorite_count": 109566,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "part two: jules\nstream it early friday at 9pm et/6pm pt on @hbomax. https://t.co/DOpixn4itM"
+	},
+	{
+		"created_at": "Wed Jan 20 02:54:37 +0000 2021",
+		"id": 1351608573525061600,
+		"id_str": "1351724786137800705",
+		"full_text": "Billie and @Rosalia - “Lo Vas A Olvidar” \nFor @EuphoriaHBO\nSong and music video out on 1/21/21 at 9am PT https://t.co/7m6kaos1fQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rosalia",
+					"name": "R O S A L Í A",
+					"id": 1728956976,
+					"id_str": "1728956976",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"screen_name": "euphoriaHBO",
+					"name": "euphoria",
+					"id": 1023959908687982600,
+					"id_str": "1023959908687982593",
+					"indices": [
+						46,
+						58
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1351608474254209000,
+					"id_str": "1351608474254209024",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1351608474254209024/pu/img/DDbkPMo58YtoRl4C.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1351608474254209024/pu/img/DDbkPMo58YtoRl4C.jpg",
+					"url": "https://t.co/7m6kaos1fQ",
+					"display_url": "pic.twitter.com/7m6kaos1fQ",
+					"expanded_url": "https://twitter.com/billieeilish/status/1351608573525061634/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351608474254209000,
+					"id_str": "1351608474254209024",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1351608474254209024/pu/img/DDbkPMo58YtoRl4C.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1351608474254209024/pu/img/DDbkPMo58YtoRl4C.jpg",
+					"url": "https://t.co/7m6kaos1fQ",
+					"display_url": "pic.twitter.com/7m6kaos1fQ",
+					"expanded_url": "https://twitter.com/billieeilish/status/1351608573525061634/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 15000,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1351608474254209024/pu/vid/320x320/Zb7QtX7fHJJofp0f.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1351608474254209024/pu/vid/480x480/ttAAYFiAaATh9SC8.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1351608474254209024/pu/vid/720x720/2Qk5JRP2WYAi_5Un.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1351608474254209024/pu/pl/E8Pxe7dcakhwOgkh.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? https://t.co/jPS2qPEVbA | “Therefore I Am” https://t.co/E5ubhVL7x3",
+			"url": "https://t.co/oRhmwrN1J1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRhmwrN1J1",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPS2qPEVbA",
+							"expanded_url": "https://smarturl.it/BILLIEALBUM",
+							"display_url": "smarturl.it/BILLIEALBUM",
+							"indices": [
+								41,
+								64
+							]
+						},
+						{
+							"url": "https://t.co/E5ubhVL7x3",
+							"expanded_url": "https://smarturl.it/ThereforeIAm",
+							"display_url": "smarturl.it/ThereforeIAm",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5377586,
+			"friends_count": 0,
+			"listed_count": 3317,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 585,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326956252845371394/4UYImnxl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326956252845371394/4UYImnxl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1605204422",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11334,
+		"favorite_count": 56995,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Billie and @Rosalia - “Lo Vas A Olvidar” \nFor @EuphoriaHBO\nSong and music video out on 1/21/21 at 9am PT https://t.co/7m6kaos1fQ"
+	},
+	{
+		"created_at": "Wed Jan 20 02:54:34 +0000 2021",
+		"id": 1351608441375080400,
+		"id_str": "1351724772707586049",
+		"full_text": "Billie and @Rosalia - “Lo Vas A Olvidar” \nFor @EuphoriaHBO\nSong and music video out on 1/21/21 at 9am PT https://t.co/kj97D8le4r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rosalia",
+					"name": "R O S A L Í A",
+					"id": 1728956976,
+					"id_str": "1728956976",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"screen_name": "euphoriaHBO",
+					"name": "euphoria",
+					"id": 1023959908687982600,
+					"id_str": "1023959908687982593",
+					"indices": [
+						46,
+						58
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1351603985568829400,
+					"id_str": "1351603985568829440",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/EsHcqezVEAA3dja.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsHcqezVEAA3dja.jpg",
+					"url": "https://t.co/kj97D8le4r",
+					"display_url": "pic.twitter.com/kj97D8le4r",
+					"expanded_url": "https://twitter.com/billieeilish/status/1351608441375080448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351603985568829400,
+					"id_str": "1351603985568829440",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/EsHcqezVEAA3dja.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsHcqezVEAA3dja.jpg",
+					"url": "https://t.co/kj97D8le4r",
+					"display_url": "pic.twitter.com/kj97D8le4r",
+					"expanded_url": "https://twitter.com/billieeilish/status/1351608441375080448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2150327072,
+			"id_str": "2150327072",
+			"name": "billie eilish",
+			"screen_name": "billieeilish",
+			"location": "",
+			"description": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO? https://t.co/jPS2qPEVbA | “Therefore I Am” https://t.co/E5ubhVL7x3",
+			"url": "https://t.co/oRhmwrN1J1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oRhmwrN1J1",
+							"expanded_url": "http://Instagram.com/billieeilish",
+							"display_url": "Instagram.com/billieeilish",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jPS2qPEVbA",
+							"expanded_url": "https://smarturl.it/BILLIEALBUM",
+							"display_url": "smarturl.it/BILLIEALBUM",
+							"indices": [
+								41,
+								64
+							]
+						},
+						{
+							"url": "https://t.co/E5ubhVL7x3",
+							"expanded_url": "https://smarturl.it/ThereforeIAm",
+							"display_url": "smarturl.it/ThereforeIAm",
+							"indices": [
+								84,
+								107
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5377586,
+			"friends_count": 0,
+			"listed_count": 3317,
+			"created_at": "Wed Oct 23 05:51:13 +0000 2013",
+			"favourites_count": 7278,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 585,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326956252845371394/4UYImnxl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326956252845371394/4UYImnxl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150327072/1605204422",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9846,
+		"favorite_count": 61811,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Billie and @Rosalia - “Lo Vas A Olvidar” \nFor @EuphoriaHBO\nSong and music video out on 1/21/21 at 9am PT https://t.co/kj97D8le4r"
+	},
+	{
+		"created_at": "Wed Jan 20 02:36:41 +0000 2021",
+		"id": 1351718269883883500,
+		"id_str": "1351720274777960450",
+		"full_text": "온라인 라이브 스트리밍 소식을 전해드리는 계정을 만들었습니다.\n@LIVESTREAM_KR\n\n온라인 공연, 팬미팅, 인스타그램 라이브, 브이라이브 등 소식을 전달해드릴게요.\n\n#생중계 #라이브스트리밍 #언택트공연 #비대면공연\n#온라인공연 #온라인콘서트 #OnlineConcert #OnlineStage #온라인스트리밍",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "생중계",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "라이브스트리밍",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"text": "언택트공연",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "비대면공연",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "온라인공연",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "온라인콘서트",
+					"indices": [
+						132,
+						139
+					]
+				},
+				{
+					"text": "OnlineConcert",
+					"indices": [
+						140,
+						154
+					]
+				},
+				{
+					"text": "OnlineStage",
+					"indices": [
+						155,
+						167
+					]
+				},
+				{
+					"text": "온라인스트리밍",
+					"indices": [
+						168,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LIVESTREAM_KR",
+					"name": "온라인 라이브 스트리밍",
+					"id": 1351451613760655400,
+					"id_str": "1351451613760655360",
+					"indices": [
+						35,
+						49
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 881516922294067200,
+			"id_str": "881516922294067201",
+			"name": "티켓오픈 봇",
+			"screen_name": "TicketOpen",
+			"location": "contact@solplparty.com",
+			"description": "🇰🇷 🎫 🎪 \n#티켓오픈 #공연안내\n#하나티켓 #티켓링크 #위메프공연티켓\n#라이브클럽 #공연장 #인디공연\n\n인터파크 티켓 @InterTicketOpen\n예스24 티켓 @YES24TicketOpen\n멜론 티켓 @MelonTicketOpen\n\n문의: DM 또는 이메일",
+			"url": "https://t.co/V3CH1HXl6D",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V3CH1HXl6D",
+							"expanded_url": "https://twitter.com/i/lists/1246796494155304961",
+							"display_url": "twitter.com/i/lists/124679…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 240,
+			"friends_count": 25,
+			"listed_count": 4,
+			"created_at": "Sun Jul 02 14:16:26 +0000 2017",
+			"favourites_count": 16,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246791111240105984/gMbltwbr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246791111240105984/gMbltwbr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/881516922294067201/1586083867",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "온라인 라이브 스트리밍 소식을 전해드리는 계정을 만들었습니다.\n@LIVESTREAM_KR\n\n온라인 공연, 팬미팅, 인스타그램 라이브, 브이라이브 등 소식을 전달해드릴게요.\n\n#생중계 #라이브스트리밍 #언택트공연 #비대면공연\n#온라인공연 #온라인콘서트 #OnlineConcert #OnlineStage #온라인스트리밍"
+	},
+	{
 		"created_at": "Wed Jan 20 02:11:16 +0000 2021",
 		"id": 1351699399156539400,
 		"id_str": "1351713878812618753",
