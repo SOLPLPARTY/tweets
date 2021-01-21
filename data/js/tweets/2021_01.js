@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 21 06:29:32 +0000 2021",
+		"id": 1352138016773476400,
+		"id_str": "1352141258924429312",
+		"full_text": "[포커스] 파이널 TOP 4 ＜오존＞ 히스토리#포커스(FolkUs) | FOLK US EP.9 https://t.co/zhfowTZAVx 출처 @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						80,
+						88
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zhfowTZAVx",
+					"expanded_url": "https://youtu.be/QF3PFRG1t6s",
+					"display_url": "youtu.be/QF3PFRG1t6s",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3733,
+			"friends_count": 6,
+			"listed_count": 83,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 81,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2450,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[포커스] 파이널 TOP 4 ＜오존＞ 히스토리#포커스(FolkUs) | FOLK US EP.9 https://t.co/zhfowTZAVx 출처 @YouTube"
+	},
+	{
 		"created_at": "Thu Jan 21 05:29:42 +0000 2021",
 		"id": 1352125332455780400,
 		"id_str": "1352126202228731914",
