@@ -1,6 +1,585 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 21 05:29:42 +0000 2021",
+		"id": 1352125332455780400,
+		"id_str": "1352126202228731914",
+		"full_text": "내일 22일 오후 6시에는\n저희 회사 뮤지션 두팀의 앨범이 발매 됩니다\n\n말꼬리, 고요 에 이어 세번째로 참여하는 \n월간윤종신 에서 '잘했어요'를 정준일\n목소리로 들으실 수 있고요\n\n디어클라우드 '하루만큼강해진너에게' 를\n어쿠스틱 버전으로 발매를 합니다\n코로나19 로 어려운 시기에 힘이 되기를 https://t.co/uz0OXGZyhG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1352125329884602400,
+					"id_str": "1352125329884602368",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EsO20tuUYAAnDpp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsO20tuUYAAnDpp.jpg",
+					"url": "https://t.co/uz0OXGZyhG",
+					"display_url": "pic.twitter.com/uz0OXGZyhG",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1352125332455780352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352125329884602400,
+					"id_str": "1352125329884602368",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EsO20tuUYAAnDpp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsO20tuUYAAnDpp.jpg",
+					"url": "https://t.co/uz0OXGZyhG",
+					"display_url": "pic.twitter.com/uz0OXGZyhG",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1352125332455780352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2679,
+			"friends_count": 341,
+			"listed_count": 32,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 18052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5594,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/540007978649128960/jSz5oRO7_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내일 22일 오후 6시에는\n저희 회사 뮤지션 두팀의 앨범이 발매 됩니다\n\n말꼬리, 고요 에 이어 세번째로 참여하는 \n월간윤종신 에서 '잘했어요'를 정준일\n목소리로 들으실 수 있고요\n\n디어클라우드 '하루만큼강해진너에게' 를\n어쿠스틱 버전으로 발매를 합니다\n코로나19 로 어려운 시기에 힘이 되기를 https://t.co/uz0OXGZyhG"
+	},
+	{
+		"created_at": "Thu Jan 21 05:29:33 +0000 2021",
+		"id": 1352125240113938400,
+		"id_str": "1352126164039561216",
+		"full_text": "[#홍이삭]#카카오TV #도시남녀의사랑법 #OST 라인업 공개⠀\n'도시남녀의 사랑법'만의 특별한 OST들이 순차적으로 발매될 예정이니 많은 관심과 기대 부탁드립니다 🙆💜 https://t.co/7ntKczbV65",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍이삭",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "카카오TV",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "도시남녀의사랑법",
+					"indices": [
+						13,
+						22
+					]
+				},
+				{
+					"text": "OST",
+					"indices": [
+						23,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1352125230957772800,
+					"id_str": "1352125230957772800",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EsO2u9MUwAAZFGV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsO2u9MUwAAZFGV.jpg",
+					"url": "https://t.co/7ntKczbV65",
+					"display_url": "pic.twitter.com/7ntKczbV65",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1352125240113938433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 403,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1215,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 712,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352125230957772800,
+					"id_str": "1352125230957772800",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EsO2u9MUwAAZFGV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsO2u9MUwAAZFGV.jpg",
+					"url": "https://t.co/7ntKczbV65",
+					"display_url": "pic.twitter.com/7ntKczbV65",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1352125240113938433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 403,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1215,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 712,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2003,
+			"friends_count": 25,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5088,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1594485943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#홍이삭]#카카오TV #도시남녀의사랑법 #OST 라인업 공개⠀\n'도시남녀의 사랑법'만의 특별한 OST들이 순차적으로 발매될 예정이니 많은 관심과 기대 부탁드립니다 🙆💜 https://t.co/7ntKczbV65"
+	},
+	{
+		"created_at": "Thu Jan 21 05:29:31 +0000 2021",
+		"id": 1352118727098081300,
+		"id_str": "1352126155197980672",
+		"full_text": "[#오동민] On Air on Web Drama '대나무숲 살인사건'\n\n배우 오동민, 웹드라마 대나무숲 살인사건 캐스팅✔\n\n김서연의 대학선배이자 주인공 윤정욱을 맡아 청춘의 민낯을 파헤칠 예정📸 COMING SOON🔜\n\n#웹드라마 #대나무숲살인사건 #윤정욱 https://t.co/WTaJsx6rBw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오동민",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "웹드라마",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "대나무숲살인사건",
+					"indices": [
+						129,
+						138
+					]
+				},
+				{
+					"text": "윤정욱",
+					"indices": [
+						139,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1351835489788022800,
+					"id_str": "1351835489788022790",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/EsKvNzOU0AYgtyQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsKvNzOU0AYgtyQ.jpg",
+					"url": "https://t.co/WTaJsx6rBw",
+					"display_url": "pic.twitter.com/WTaJsx6rBw",
+					"expanded_url": "https://twitter.com/themysticstory/status/1352118727098081280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351835489788022800,
+					"id_str": "1351835489788022790",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/EsKvNzOU0AYgtyQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsKvNzOU0AYgtyQ.jpg",
+					"url": "https://t.co/WTaJsx6rBw",
+					"display_url": "pic.twitter.com/WTaJsx6rBw",
+					"expanded_url": "https://twitter.com/themysticstory/status/1352118727098081280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20225,
+			"friends_count": 18,
+			"listed_count": 237,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5555,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#오동민] On Air on Web Drama '대나무숲 살인사건'\n\n배우 오동민, 웹드라마 대나무숲 살인사건 캐스팅✔\n\n김서연의 대학선배이자 주인공 윤정욱을 맡아 청춘의 민낯을 파헤칠 예정📸 COMING SOON🔜\n\n#웹드라마 #대나무숲살인사건 #윤정욱 https://t.co/WTaJsx6rBw"
+	},
+	{
 		"created_at": "Thu Jan 21 04:29:46 +0000 2021",
 		"id": 1352109003480858600,
 		"id_str": "1352111119226306560",
