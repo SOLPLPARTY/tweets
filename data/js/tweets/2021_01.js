@@ -1,6 +1,578 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 21 09:29:44 +0000 2021",
+		"id": 1352182331759419400,
+		"id_str": "1352186608532021248",
+		"full_text": "[티저]\nLambC ‘Emotional’ Official MV Teaser\nPart 1 : Emotional &lt;I’ll see you when I see you&gt;\nRELEASE ON 2021. 01. 24. 12PM (KST)\nhttps://t.co/S1nOWxCCkC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S1nOWxCCkC",
+					"expanded_url": "https://youtu.be/O7i_C4lWTYo",
+					"display_url": "youtu.be/O7i_C4lWTYo",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스, 소란, 노리플라이, 쏜애플, LambC, SURL, OurR",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13020,
+			"friends_count": 1949,
+			"listed_count": 254,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[티저]\nLambC ‘Emotional’ Official MV Teaser\nPart 1 : Emotional &lt;I’ll see you when I see you&gt;\nRELEASE ON 2021. 01. 24. 12PM (KST)\nhttps://t.co/S1nOWxCCkC"
+	},
+	{
+		"created_at": "Thu Jan 21 09:29:36 +0000 2021",
+		"id": 1352180479240278000,
+		"id_str": "1352186574486831104",
+		"full_text": "[Meego]\n\nMeego의 ‘빈털터리’ Visualizer가 PAKTORY COMPANY 오피셜 유튜브 채널에 공개되었습니다. \n‘Meego - Penniless’ Visualizer has been released on PAKTORY COMPANY official YouTube channel.\n\nhttps://t.co/XDHsEp5pdG\n\n#Meego #미고\n#빈털터리 #Penniless\n#0degrees\n#PAKTORYCOMPANY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Meego",
+					"indices": [
+						193,
+						199
+					]
+				},
+				{
+					"text": "미고",
+					"indices": [
+						200,
+						203
+					]
+				},
+				{
+					"text": "빈털터리",
+					"indices": [
+						204,
+						209
+					]
+				},
+				{
+					"text": "Penniless",
+					"indices": [
+						210,
+						220
+					]
+				},
+				{
+					"text": "0degrees",
+					"indices": [
+						221,
+						230
+					]
+				},
+				{
+					"text": "PAKTORYCOMPANY",
+					"indices": [
+						231,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XDHsEp5pdG",
+					"expanded_url": "https://youtu.be/HK6VmgVFwQQ",
+					"display_url": "youtu.be/HK6VmgVFwQQ",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189041084971634700,
+			"id_str": "1189041084971634688",
+			"name": "PAKTORY COMPANY",
+			"screen_name": "paktoryofficial",
+			"location": "seoul",
+			"description": "contact@paktory.net",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Tue Oct 29 04:47:52 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Meego]\n\nMeego의 ‘빈털터리’ Visualizer가 PAKTORY COMPANY 오피셜 유튜브 채널에 공개되었습니다. \n‘Meego - Penniless’ Visualizer has been released on PAKTORY COMPANY official YouTube channel.\n\nhttps://t.co/XDHsEp5pdG\n\n#Meego #미고\n#빈털터리 #Penniless\n#0degrees\n#PAKTORYCOMPANY"
+	},
+	{
+		"created_at": "Thu Jan 21 09:29:32 +0000 2021",
+		"id": 1352180118387474400,
+		"id_str": "1352186557248241664",
+		"full_text": "[Meego]\n\nMeego의 ‘1/10’ 뮤직비디오가 PAKTORY COMPANY 오피셜 유튜브 채널에 공개되었습니다. \n‘Meego - 1/10’ MV has been released on PAKTORY COMPANY official YouTube channel.\n\nhttps://t.co/xj1mZFVytz\n\n#Meego #미고\n#십분의일 #0degrees\n#PAKTORYCOMPANY #팩토리컴퍼니",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Meego",
+					"indices": [
+						175,
+						181
+					]
+				},
+				{
+					"text": "미고",
+					"indices": [
+						182,
+						185
+					]
+				},
+				{
+					"text": "십분의일",
+					"indices": [
+						186,
+						191
+					]
+				},
+				{
+					"text": "0degrees",
+					"indices": [
+						192,
+						201
+					]
+				},
+				{
+					"text": "PAKTORYCOMPANY",
+					"indices": [
+						202,
+						217
+					]
+				},
+				{
+					"text": "팩토리컴퍼니",
+					"indices": [
+						218,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xj1mZFVytz",
+					"expanded_url": "https://youtu.be/AS3nhUmvTKM",
+					"display_url": "youtu.be/AS3nhUmvTKM",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189041084971634700,
+			"id_str": "1189041084971634688",
+			"name": "PAKTORY COMPANY",
+			"screen_name": "paktoryofficial",
+			"location": "seoul",
+			"description": "contact@paktory.net",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Tue Oct 29 04:47:52 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Meego]\n\nMeego의 ‘1/10’ 뮤직비디오가 PAKTORY COMPANY 오피셜 유튜브 채널에 공개되었습니다. \n‘Meego - 1/10’ MV has been released on PAKTORY COMPANY official YouTube channel.\n\nhttps://t.co/xj1mZFVytz\n\n#Meego #미고\n#십분의일 #0degrees\n#PAKTORYCOMPANY #팩토리컴퍼니"
+	},
+	{
+		"created_at": "Thu Jan 21 09:29:29 +0000 2021",
+		"id": 1352180062691369000,
+		"id_str": "1352186544019402753",
+		"full_text": "[Meego]\n\nMeego의 새 앨범 ‘0 degrees’가 모든 음원사이트에 공개되었습니다.\nMeego’s new album ‘0 degrees’ released on online music streaming platform.\n\n#Meego #미고\n#0degrees\n#PAKTORYCOMPANY #팩토리컴퍼니 https://t.co/bk7TjB30sh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Meego",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "미고",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "0degrees",
+					"indices": [
+						140,
+						149
+					]
+				},
+				{
+					"text": "PAKTORYCOMPANY",
+					"indices": [
+						150,
+						165
+					]
+				},
+				{
+					"text": "팩토리컴퍼니",
+					"indices": [
+						166,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1352178962114330600,
+					"id_str": "1352178962114330625",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EsPnmhWUwAEnmvJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsPnmhWUwAEnmvJ.jpg",
+					"url": "https://t.co/bk7TjB30sh",
+					"display_url": "pic.twitter.com/bk7TjB30sh",
+					"expanded_url": "https://twitter.com/paktoryofficial/status/1352180062691368962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352178962114330600,
+					"id_str": "1352178962114330625",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EsPnmhWUwAEnmvJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsPnmhWUwAEnmvJ.jpg",
+					"url": "https://t.co/bk7TjB30sh",
+					"display_url": "pic.twitter.com/bk7TjB30sh",
+					"expanded_url": "https://twitter.com/paktoryofficial/status/1352180062691368962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189041084971634700,
+			"id_str": "1189041084971634688",
+			"name": "PAKTORY COMPANY",
+			"screen_name": "paktoryofficial",
+			"location": "seoul",
+			"description": "contact@paktory.net",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 302,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Tue Oct 29 04:47:52 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Meego]\n\nMeego의 새 앨범 ‘0 degrees’가 모든 음원사이트에 공개되었습니다.\nMeego’s new album ‘0 degrees’ released on online music streaming platform.\n\n#Meego #미고\n#0degrees\n#PAKTORYCOMPANY #팩토리컴퍼니 https://t.co/bk7TjB30sh"
+	},
+	{
 		"created_at": "Thu Jan 21 09:18:43 +0000 2021",
 		"id": 1352183837191786500,
 		"id_str": "1352183837191786498",
