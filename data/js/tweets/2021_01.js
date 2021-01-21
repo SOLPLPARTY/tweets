@@ -1,6 +1,428 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 21 04:29:46 +0000 2021",
+		"id": 1352109003480858600,
+		"id_str": "1352111119226306560",
+		"full_text": "뮤직비디오를 만들어주신 디자인팀 MYZY SPACE 정말 감사합니다! 🙏🙏\n\n@Leavesblack #검은잎들 #정규1집 #타이틀곡 #책이여안녕 #뮤직비디오 #감상하기 #미지스페이스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "검은잎들",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "정규1집",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "타이틀곡",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "책이여안녕",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "뮤직비디오",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "감상하기",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "미지스페이스",
+					"indices": [
+						94,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Leavesblack",
+					"name": "검은잎들",
+					"id": 3432037692,
+					"id_str": "3432037692",
+					"indices": [
+						43,
+						55
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1352109002130247700,
+		"in_reply_to_status_id_str": "1352109002130247680",
+		"in_reply_to_user_id": 52109991,
+		"in_reply_to_user_id_str": "52109991",
+		"in_reply_to_screen_name": "orm_ent",
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 717,
+			"friends_count": 323,
+			"listed_count": 12,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 711,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1611200656",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "뮤직비디오를 만들어주신 디자인팀 MYZY SPACE 정말 감사합니다! 🙏🙏\n\n@Leavesblack #검은잎들 #정규1집 #타이틀곡 #책이여안녕 #뮤직비디오 #감상하기 #미지스페이스"
+	},
+	{
+		"created_at": "Thu Jan 21 04:29:40 +0000 2021",
+		"id": 1352109002130247700,
+		"id_str": "1352111093599109120",
+		"full_text": "앨범의 타이틀 곡인 &lt;책이여, 안녕!&gt;의 M/V도 공개 되었습니다! \n\"이 음악들도 우리가 사라진 뒤에 어디선가는 숨 쉬고 있었으면 하는 바람을 담았습니다.” 라는 검은잎들의 설명처럼 [책이여, 안녕!]이 오랫동안 사랑받는 앨범으로 자리매김하기를 기대합니다.\n바로가기=&gt;&gt;\nhttps://t.co/2wXOy9P9jV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2wXOy9P9jV",
+					"expanded_url": "https://youtu.be/kwgvbdgzhq4",
+					"display_url": "youtu.be/kwgvbdgzhq4",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 717,
+			"friends_count": 323,
+			"listed_count": 12,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 711,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1611200656",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "앨범의 타이틀 곡인 &lt;책이여, 안녕!&gt;의 M/V도 공개 되었습니다! \n\"이 음악들도 우리가 사라진 뒤에 어디선가는 숨 쉬고 있었으면 하는 바람을 담았습니다.” 라는 검은잎들의 설명처럼 [책이여, 안녕!]이 오랫동안 사랑받는 앨범으로 자리매김하기를 기대합니다.\n바로가기=&gt;&gt;\nhttps://t.co/2wXOy9P9jV"
+	},
+	{
+		"created_at": "Thu Jan 21 04:29:32 +0000 2021",
+		"id": 1352097072699228200,
+		"id_str": "1352111059545563136",
+		"full_text": "바로가기=&gt;&gt;\n멜론: https://t.co/UZfmLwrS8U\n지니: https://t.co/wX1n6PhnNB\n벅스: https://t.co/X9PYczLdLn\n바이브: https://t.co/DOEEwWRcAe\n플로: https://t.co/HNLxjBWmRg\n소리바다: https://t.co/bx2ef2rmBn\n몽키3: https://t.co/Sie07amHvV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UZfmLwrS8U",
+					"expanded_url": "https://www.melon.com/album/detail.htm?albumId=10550341#none",
+					"display_url": "melon.com/album/detail.h…",
+					"indices": [
+						18,
+						41
+					]
+				},
+				{
+					"url": "https://t.co/wX1n6PhnNB",
+					"expanded_url": "https://www.genie.co.kr/detail/albumInfo?axnm=81852746",
+					"display_url": "genie.co.kr/detail/albumIn…",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"url": "https://t.co/X9PYczLdLn",
+					"expanded_url": "https://music.bugs.co.kr/album/14991106?wl_ref=M_contents_01_04",
+					"display_url": "music.bugs.co.kr/album/14991106…",
+					"indices": [
+						74,
+						97
+					]
+				},
+				{
+					"url": "https://t.co/DOEEwWRcAe",
+					"expanded_url": "https://vibe.naver.com/album/5200231",
+					"display_url": "vibe.naver.com/album/5200231",
+					"indices": [
+						103,
+						126
+					]
+				},
+				{
+					"url": "https://t.co/HNLxjBWmRg",
+					"expanded_url": "https://www.music-flo.com/detail/album/edlzozdyz/albumtrack",
+					"display_url": "music-flo.com/detail/album/e…",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"url": "https://t.co/bx2ef2rmBn",
+					"expanded_url": "http://www.soribada.com/music/album/KA0114919",
+					"display_url": "soribada.com/music/album/KA…",
+					"indices": [
+						161,
+						184
+					]
+				},
+				{
+					"url": "https://t.co/Sie07amHvV",
+					"expanded_url": "http://monkey3.momople.com/",
+					"display_url": "monkey3.momople.com",
+					"indices": [
+						190,
+						213
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1352097068446204000,
+		"in_reply_to_status_id_str": "1352097068446203904",
+		"in_reply_to_user_id": 52109991,
+		"in_reply_to_user_id_str": "52109991",
+		"in_reply_to_screen_name": "orm_ent",
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 717,
+			"friends_count": 323,
+			"listed_count": 12,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 711,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1611200656",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "바로가기=&gt;&gt;\n멜론: https://t.co/UZfmLwrS8U\n지니: https://t.co/wX1n6PhnNB\n벅스: https://t.co/X9PYczLdLn\n바이브: https://t.co/DOEEwWRcAe\n플로: https://t.co/HNLxjBWmRg\n소리바다: https://t.co/bx2ef2rmBn\n몽키3: https://t.co/Sie07amHvV"
+	},
+	{
 		"created_at": "Thu Jan 21 03:29:38 +0000 2021",
 		"id": 1352091763402391600,
 		"id_str": "1352095985900658691",
