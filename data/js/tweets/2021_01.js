@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 21 10:29:29 +0000 2021",
+		"id": 1352194896598188000,
+		"id_str": "1352201644738547717",
+		"full_text": "[MPMG WEEK 2021]\n\n🎉EVENT PROGRAMS🎉\n🎁 1.30(토) ~ 2.6(토) : 믚믁 𝐎𝐍 𝐀𝐈𝐑\n🎁 2.1(월) ~ 2.5(금) : 소원 상점\n\nmore 🔗 https://t.co/GBWjTy5UdB https://t.co/hxBViZDze8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GBWjTy5UdB",
+					"expanded_url": "http://bit.ly/3ocjIYF",
+					"display_url": "bit.ly/3ocjIYF",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1352192680642531300,
+					"id_str": "1352192680642531328",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EsP0FC2U0AAwbsu.png",
+					"media_url_https": "https://pbs.twimg.com/media/EsP0FC2U0AAwbsu.png",
+					"url": "https://t.co/hxBViZDze8",
+					"display_url": "pic.twitter.com/hxBViZDze8",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1352194896598188033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352192680642531300,
+					"id_str": "1352192680642531328",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EsP0FC2U0AAwbsu.png",
+					"media_url_https": "https://pbs.twimg.com/media/EsP0FC2U0AAwbsu.png",
+					"url": "https://t.co/hxBViZDze8",
+					"display_url": "pic.twitter.com/hxBViZDze8",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1352194896598188033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1352192694542499800,
+					"id_str": "1352192694542499841",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EsP0F2oVgAEnDAx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsP0F2oVgAEnDAx.jpg",
+					"url": "https://t.co/hxBViZDze8",
+					"display_url": "pic.twitter.com/hxBViZDze8",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1352194896598188033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1352192708232679400,
+					"id_str": "1352192708232679425",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EsP0GpoVEAE98RA.png",
+					"media_url_https": "https://pbs.twimg.com/media/EsP0GpoVEAE98RA.png",
+					"url": "https://t.co/hxBViZDze8",
+					"display_url": "pic.twitter.com/hxBViZDze8",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1352194896598188033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스, 소란, 노리플라이, 쏜애플, LambC, SURL, OurR",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13019,
+			"friends_count": 1949,
+			"listed_count": 254,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MPMG WEEK 2021]\n\n🎉EVENT PROGRAMS🎉\n🎁 1.30(토) ~ 2.6(토) : 믚믁 𝐎𝐍 𝐀𝐈𝐑\n🎁 2.1(월) ~ 2.5(금) : 소원 상점\n\nmore 🔗 https://t.co/GBWjTy5UdB https://t.co/hxBViZDze8"
+	},
+	{
 		"created_at": "Thu Jan 21 09:29:44 +0000 2021",
 		"id": 1352182331759419400,
 		"id_str": "1352186608532021248",
