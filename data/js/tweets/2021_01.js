@@ -1,6 +1,620 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 22 08:02:35 +0000 2021",
+		"id": 1352527063325028400,
+		"id_str": "1352527063325028352",
+		"full_text": "#Private_Curve #프라이빗커브\nMessages From Private Curve Artists\nhttps://t.co/Dicq3uhwBQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Private_Curve",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "프라이빗커브",
+					"indices": [
+						15,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Dicq3uhwBQ",
+					"expanded_url": "https://youtu.be/DJUVsfQIboY",
+					"display_url": "youtu.be/DJUVsfQIboY",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 440,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Private_Curve #프라이빗커브\nMessages From Private Curve Artists\nhttps://t.co/Dicq3uhwBQ"
+	},
+	{
+		"created_at": "Fri Jan 22 07:29:42 +0000 2021",
+		"id": 1352516463035203600,
+		"id_str": "1352518788789506049",
+		"full_text": "@zzxxxsoooo 혹시나 코로나가 좀 풀리고 공연하게될때 꼭 가지고 오셔서 싸인 받아주세요 ㅠㅠ",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zzxxxsoooo",
+					"name": "철",
+					"id": 699012112132104200,
+					"id_str": "699012112132104192",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1352514496972038100,
+		"in_reply_to_status_id_str": "1352514496972038145",
+		"in_reply_to_user_id": 699012112132104200,
+		"in_reply_to_user_id_str": "699012112132104192",
+		"in_reply_to_screen_name": "zzxxxsoooo",
+		"user": {
+			"id": 1302973592448036900,
+			"id_str": "1302973592448036869",
+			"name": "두루미 흥업",
+			"screen_name": "dooroomi_c",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/w0g5ZZkoX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w0g5ZZkoX6",
+							"expanded_url": "http://drmicp.com",
+							"display_url": "drmicp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74,
+			"friends_count": 122,
+			"listed_count": 1,
+			"created_at": "Mon Sep 07 14:14:53 +0000 2020",
+			"favourites_count": 406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1302973592448036869/1610302463",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@zzxxxsoooo 혹시나 코로나가 좀 풀리고 공연하게될때 꼭 가지고 오셔서 싸인 받아주세요 ㅠㅠ"
+	},
+	{
+		"created_at": "Fri Jan 22 07:29:39 +0000 2021",
+		"id": 1352512260984328200,
+		"id_str": "1352518775761997825",
+		"full_text": "김일두 ' 꿈 속 꿈 + 새 계 절 ' 합본 CD가 김일두의 스마트 스토어를 통해 판매중 입니다. 개별 주문보다 5000원정도 저렴하게 구매하실수 있습니다. 아직 두앨범을 다 구매하지 않으셨다면~ 합본 기회놓치지 마셔요~~😍😍\n\nhttps://t.co/q8tuOoHmXu https://t.co/mICN2udY8z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q8tuOoHmXu",
+					"expanded_url": "https://smartstore.naver.com/drmicp/products/5347650328",
+					"display_url": "smartstore.naver.com/drmicp/product…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1352512244551020500,
+					"id_str": "1352512244551020544",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EsUWuHLUcAA4BuQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsUWuHLUcAA4BuQ.jpg",
+					"url": "https://t.co/mICN2udY8z",
+					"display_url": "pic.twitter.com/mICN2udY8z",
+					"expanded_url": "https://twitter.com/dooroomi_c/status/1352512260984328193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 543,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 958,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1636,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352512244551020500,
+					"id_str": "1352512244551020544",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EsUWuHLUcAA4BuQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsUWuHLUcAA4BuQ.jpg",
+					"url": "https://t.co/mICN2udY8z",
+					"display_url": "pic.twitter.com/mICN2udY8z",
+					"expanded_url": "https://twitter.com/dooroomi_c/status/1352512260984328193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 543,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 958,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1636,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1302973592448036900,
+			"id_str": "1302973592448036869",
+			"name": "두루미 흥업",
+			"screen_name": "dooroomi_c",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/w0g5ZZkoX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w0g5ZZkoX6",
+							"expanded_url": "http://drmicp.com",
+							"display_url": "drmicp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74,
+			"friends_count": 122,
+			"listed_count": 1,
+			"created_at": "Mon Sep 07 14:14:53 +0000 2020",
+			"favourites_count": 406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1302973592448036869/1610302463",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김일두 ' 꿈 속 꿈 + 새 계 절 ' 합본 CD가 김일두의 스마트 스토어를 통해 판매중 입니다. 개별 주문보다 5000원정도 저렴하게 구매하실수 있습니다. 아직 두앨범을 다 구매하지 않으셨다면~ 합본 기회놓치지 마셔요~~😍😍\n\nhttps://t.co/q8tuOoHmXu https://t.co/mICN2udY8z"
+	},
+	{
+		"created_at": "Fri Jan 22 07:29:31 +0000 2021",
+		"id": 1352511487370170400,
+		"id_str": "1352518741645553664",
+		"full_text": "김일두 ' 새 계 절 ' CD가 김일두의 스마트 스토어를 통해 판매중 입니다. 혹시나 주문전 김일두 음악가에게 싸인 CD로 요청하시면 음악가가 직접 싸인해서 배송 보내 드립니다. 김일두의 새앨범인 ' 새 계 절 ' 에 많은 관심 부탁 드려요~~\n\nhttps://t.co/wvtZNck1df https://t.co/7VCrA4ERiG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wvtZNck1df",
+					"expanded_url": "https://smartstore.naver.com/drmicp/products/5347640879",
+					"display_url": "smartstore.naver.com/drmicp/product…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1352511472912396300,
+					"id_str": "1352511472912396289",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EsUWBMmVcAEUqgn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsUWBMmVcAEUqgn.jpg",
+					"url": "https://t.co/7VCrA4ERiG",
+					"display_url": "pic.twitter.com/7VCrA4ERiG",
+					"expanded_url": "https://twitter.com/dooroomi_c/status/1352511487370170369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 647,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1142,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2026,
+							"h": 1928,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352511472912396300,
+					"id_str": "1352511472912396289",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EsUWBMmVcAEUqgn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsUWBMmVcAEUqgn.jpg",
+					"url": "https://t.co/7VCrA4ERiG",
+					"display_url": "pic.twitter.com/7VCrA4ERiG",
+					"expanded_url": "https://twitter.com/dooroomi_c/status/1352511487370170369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 647,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1142,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2026,
+							"h": 1928,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1302973592448036900,
+			"id_str": "1302973592448036869",
+			"name": "두루미 흥업",
+			"screen_name": "dooroomi_c",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/w0g5ZZkoX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w0g5ZZkoX6",
+							"expanded_url": "http://drmicp.com",
+							"display_url": "drmicp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74,
+			"friends_count": 122,
+			"listed_count": 1,
+			"created_at": "Mon Sep 07 14:14:53 +0000 2020",
+			"favourites_count": 406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1302973592448036869/1610302463",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김일두 ' 새 계 절 ' CD가 김일두의 스마트 스토어를 통해 판매중 입니다. 혹시나 주문전 김일두 음악가에게 싸인 CD로 요청하시면 음악가가 직접 싸인해서 배송 보내 드립니다. 김일두의 새앨범인 ' 새 계 절 ' 에 많은 관심 부탁 드려요~~\n\nhttps://t.co/wvtZNck1df https://t.co/7VCrA4ERiG"
+	},
+	{
 		"created_at": "Fri Jan 22 06:29:31 +0000 2021",
 		"id": 1352497255048073200,
 		"id_str": "1352503643153559552",
