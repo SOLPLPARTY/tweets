@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 22 06:29:31 +0000 2021",
+		"id": 1352497255048073200,
+		"id_str": "1352503643153559552",
+		"full_text": "[MPMG WEEK 2021]\n‼️게임 상점 공지‼️\n⠀\n2.2(화) 오후 7시 ~ 7시 50분에 예정되었던 게임 상점 게스트는 내부 사정에 의해 조소정 님에서 ▶이민혁 님으로 변경되었습니다. 참고 부탁드립니다!\n⠀\n🎮 게임 상점\n- 01.30(토) 5:30PM 김선일 VS 박진규\n- 02.02(화) 7PM 장희원 VS 이민혁 https://t.co/evzqxrpgqA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1352497244977549300,
+					"id_str": "1352497244977549312",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EsUJFBaU0AACZl0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsUJFBaU0AACZl0.jpg",
+					"url": "https://t.co/evzqxrpgqA",
+					"display_url": "pic.twitter.com/evzqxrpgqA",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1352497255048073217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352497244977549300,
+					"id_str": "1352497244977549312",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EsUJFBaU0AACZl0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsUJFBaU0AACZl0.jpg",
+					"url": "https://t.co/evzqxrpgqA",
+					"display_url": "pic.twitter.com/evzqxrpgqA",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1352497255048073217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1352497244998516700,
+					"id_str": "1352497244998516736",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EsUJFBfUwAABy-l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsUJFBfUwAABy-l.jpg",
+					"url": "https://t.co/evzqxrpgqA",
+					"display_url": "pic.twitter.com/evzqxrpgqA",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1352497255048073217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스, 소란, 노리플라이, 쏜애플, LambC, SURL, OurR",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13019,
+			"friends_count": 1949,
+			"listed_count": 254,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MPMG WEEK 2021]\n‼️게임 상점 공지‼️\n⠀\n2.2(화) 오후 7시 ~ 7시 50분에 예정되었던 게임 상점 게스트는 내부 사정에 의해 조소정 님에서 ▶이민혁 님으로 변경되었습니다. 참고 부탁드립니다!\n⠀\n🎮 게임 상점\n- 01.30(토) 5:30PM 김선일 VS 박진규\n- 02.02(화) 7PM 장희원 VS 이민혁 https://t.co/evzqxrpgqA"
+	},
+	{
 		"created_at": "Fri Jan 22 06:11:17 +0000 2021",
 		"id": 1352488658285244400,
 		"id_str": "1352499053154729984",
