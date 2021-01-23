@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 23 01:11:17 +0000 2021",
+		"id": 1352781489440612400,
+		"id_str": "1352785944018100229",
+		"full_text": "1.30(토)에 열리는 이옥토 작가의 팝업숍 방문 예정이신 분들께 투표 부탁드립니다🙏🏻 오픈 시간 1~7시 중 예상 방문시간대를 골라주세요! https://t.co/PqVxVOmSgW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PqVxVOmSgW",
+					"expanded_url": "https://twitter.com/okto_lee/status/1352503343889801216",
+					"display_url": "twitter.com/okto_lee/statu…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8178,
+			"friends_count": 576,
+			"listed_count": 80,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1352503343889801200,
+		"quoted_status_id_str": "1352503343889801216",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PqVxVOmSgW",
+			"expanded": "https://twitter.com/okto_lee/status/1352503343889801216",
+			"display": "twitter.com/okto_lee/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 22 06:28:20 +0000 2021",
+			"id": 1352503343889801200,
+			"id_str": "1352503343889801216",
+			"full_text": "30일에 열리는 팝업샵 예상 방문 시간대를 여쭙니다 ! 🤍 저는 상주 예정이에요 !",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				46
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4027616773,
+				"id_str": "4027616773",
+				"name": "OKTO LEE",
+				"screen_name": "OKTO_LEE",
+				"location": "Winter",
+				"description": "사진과 영상을 합니다\ncontact : okto_@naver.com",
+				"url": "https://t.co/69GhzVKUCZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/69GhzVKUCZ",
+								"expanded_url": "https://oktolee.format.com/",
+								"display_url": "oktolee.format.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 22888,
+				"friends_count": 365,
+				"listed_count": 76,
+				"created_at": "Mon Oct 26 19:30:21 +0000 2015",
+				"favourites_count": 18863,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5256,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1214488412922638336/KvW3WK2v_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214488412922638336/KvW3WK2v_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4027616773/1523451151",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "1.30(토)에 열리는 이옥토 작가의 팝업숍 방문 예정이신 분들께 투표 부탁드립니다🙏🏻 오픈 시간 1~7시 중 예상 방문시간대를 골라주세요! https://t.co/PqVxVOmSgW"
+	},
+	{
 		"created_at": "Fri Jan 22 23:38:19 +0000 2021",
 		"id": 1352662314877554700,
 		"id_str": "1352762550471909376",
