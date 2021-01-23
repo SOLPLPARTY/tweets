@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 22 23:38:19 +0000 2021",
+		"id": 1352662314877554700,
+		"id_str": "1352762550471909376",
+		"full_text": "Surrender. The official video is now yours 💛 \nFilmed and directed by the one and only Sophie Muller, on the beautiful shores of St Leonard's ✨  Hope you love it as much as I do \nhttps://t.co/7gMf3Nome5 https://t.co/9gM29QBNtE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7gMf3Nome5",
+					"expanded_url": "http://Birdy.lnk.to/surrender-video",
+					"display_url": "Birdy.lnk.to/surrender-video",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1352623847711903700,
+					"id_str": "1352623847711903744",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/EsV8hVEXMAQ7Cq6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsV8hVEXMAQ7Cq6.jpg",
+					"url": "https://t.co/9gM29QBNtE",
+					"display_url": "pic.twitter.com/9gM29QBNtE",
+					"expanded_url": "https://twitter.com/birdy/status/1352662314877554688/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1433,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352623847711903700,
+					"id_str": "1352623847711903744",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/EsV8hVEXMAQ7Cq6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsV8hVEXMAQ7Cq6.jpg",
+					"url": "https://t.co/9gM29QBNtE",
+					"display_url": "pic.twitter.com/9gM29QBNtE",
+					"expanded_url": "https://twitter.com/birdy/status/1352662314877554688/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1433,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 21217,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1352623847711903744/vid/640x360/w3YRnh0s7s5zLvQt.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1352623847711903744/vid/1280x720/Czv4LMMWnDOEZLXK.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1352623847711903744/vid/480x270/yflpMM0a_0YNn0Ge.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1352623847711903744/pl/oDeuiVqqhKax0BB5.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270901752,
+			"id_str": "270901752",
+			"name": "Birdy",
+			"screen_name": "birdy",
+			"location": "",
+			"description": "Young Heart - my new album, coming April 30th 💛 \nPre-order it now: https://t.co/63LBqFwNr4\nMy latest single Surrender - out now ✨\nhttps://t.co/mk6ZHiHtmY",
+			"url": "https://t.co/69gdbgA6ot",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/69gdbgA6ot",
+							"expanded_url": "http://officialbirdy.com",
+							"display_url": "officialbirdy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/63LBqFwNr4",
+							"expanded_url": "http://birdy.lnk.to/Young-Heart",
+							"display_url": "birdy.lnk.to/Young-Heart",
+							"indices": [
+								67,
+								90
+							]
+						},
+						{
+							"url": "https://t.co/mk6ZHiHtmY",
+							"expanded_url": "http://birdy.lnk.to/Surrender",
+							"display_url": "birdy.lnk.to/Surrender",
+							"indices": [
+								130,
+								153
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 322625,
+			"friends_count": 184,
+			"listed_count": 1189,
+			"created_at": "Wed Mar 23 13:25:01 +0000 2011",
+			"favourites_count": 614,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2062,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352526552010027009/XJy4RlYX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270901752/1611309650",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 216,
+		"favorite_count": 798,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Surrender. The official video is now yours 💛 \nFilmed and directed by the one and only Sophie Muller, on the beautiful shores of St Leonard's ✨  Hope you love it as much as I do \nhttps://t.co/7gMf3Nome5 https://t.co/9gM29QBNtE"
+	},
+	{
 		"created_at": "Fri Jan 22 12:29:25 +0000 2021",
 		"id": 1352580189109149700,
 		"id_str": "1352594213561655298",
