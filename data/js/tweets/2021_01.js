@@ -1,6 +1,485 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 24 04:11:16 +0000 2021",
+		"id": 1353184272195063800,
+		"id_str": "1353193629209288709",
+		"full_text": "We’re back on @mixcloud for a Sunday session from the shop. Join the fun and turn it up loud 🧨\n\nhttps://t.co/wlYWjyMsUj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mixcloud",
+					"name": "Mixcloud",
+					"id": 16081046,
+					"id_str": "16081046",
+					"indices": [
+						14,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wlYWjyMsUj",
+					"expanded_url": "http://www.mixcloud.com/live/cakeshop",
+					"display_url": "mixcloud.com/live/cakeshop",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 776033448,
+			"id_str": "776033448",
+			"name": "Cakeshop Seoul",
+			"screen_name": "CakeshopSeoul",
+			"location": "이태원동 34-16 용산구 서울",
+			"description": "",
+			"url": "https://t.co/Y6fLNJs2vN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y6fLNJs2vN",
+							"expanded_url": "http://www.cakeshopseoul.com",
+							"display_url": "cakeshopseoul.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2551,
+			"friends_count": 557,
+			"listed_count": 20,
+			"created_at": "Thu Aug 23 14:06:21 +0000 2012",
+			"favourites_count": 881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838798045638635522/svqBMkbH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838798045638635522/svqBMkbH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/776033448/1465407468",
+			"profile_link_color": "ED3D26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’re back on @mixcloud for a Sunday session from the shop. Join the fun and turn it up loud 🧨\n\nhttps://t.co/wlYWjyMsUj"
+	},
+	{
+		"created_at": "Sun Jan 24 03:29:38 +0000 2021",
+		"id": 1353180679379423200,
+		"id_str": "1353183149132541953",
+		"full_text": "[발매]\nLambC (램씨) - Part 1 : Emotional &lt;I'll see you when I see you&gt;\n\nApple Music: https://t.co/WglGpmFOQ9\nSpotify: https://t.co/pJDYMrjopy\ndeezer: https://t.co/MVHR5phxNk\nkkbox: https://t.co/FJ0CJJgWut\nYouTube Music: https://t.co/5k8MIBmfzC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WglGpmFOQ9",
+					"expanded_url": "https://apple.co/39XzfWT",
+					"display_url": "apple.co/39XzfWT",
+					"indices": [
+						87,
+						110
+					]
+				},
+				{
+					"url": "https://t.co/pJDYMrjopy",
+					"expanded_url": "https://spoti.fi/2NvGVZ4",
+					"display_url": "spoti.fi/2NvGVZ4",
+					"indices": [
+						120,
+						143
+					]
+				},
+				{
+					"url": "https://t.co/MVHR5phxNk",
+					"expanded_url": "https://bit.ly/3iDL5to",
+					"display_url": "bit.ly/3iDL5to",
+					"indices": [
+						152,
+						175
+					]
+				},
+				{
+					"url": "https://t.co/FJ0CJJgWut",
+					"expanded_url": "https://bit.ly/39RkW68",
+					"display_url": "bit.ly/39RkW68",
+					"indices": [
+						183,
+						206
+					]
+				},
+				{
+					"url": "https://t.co/5k8MIBmfzC",
+					"expanded_url": "https://bit.ly/368mwj1",
+					"display_url": "bit.ly/368mwj1",
+					"indices": [
+						222,
+						245
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1353180675097026600,
+		"in_reply_to_status_id_str": "1353180675097026560",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스, 소란, 노리플라이, 쏜애플, LambC, SURL, OurR",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13022,
+			"friends_count": 1949,
+			"listed_count": 253,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[발매]\nLambC (램씨) - Part 1 : Emotional &lt;I'll see you when I see you&gt;\n\nApple Music: https://t.co/WglGpmFOQ9\nSpotify: https://t.co/pJDYMrjopy\ndeezer: https://t.co/MVHR5phxNk\nkkbox: https://t.co/FJ0CJJgWut\nYouTube Music: https://t.co/5k8MIBmfzC"
+	},
+	{
+		"created_at": "Sun Jan 24 03:29:29 +0000 2021",
+		"id": 1353180675097026600,
+		"id_str": "1353183110867931136",
+		"full_text": "[발매]\nLambC (램씨) - Part 1 : Emotional &lt;I'll see you when I see you&gt;\n\nMelon: https://t.co/IO4VPU4TYZ\ngenie: https://t.co/aV9UyepNQG\nFLO: https://t.co/3XEi7feEV6\nBugs: https://t.co/9THUC7NY6c\nVIBE: https://t.co/TDlABIfOru https://t.co/s6XlyhOieU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IO4VPU4TYZ",
+					"expanded_url": "https://bit.ly/39crSvz",
+					"display_url": "bit.ly/39crSvz",
+					"indices": [
+						81,
+						104
+					]
+				},
+				{
+					"url": "https://t.co/aV9UyepNQG",
+					"expanded_url": "https://bit.ly/3pbKhyc",
+					"display_url": "bit.ly/3pbKhyc",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/3XEi7feEV6",
+					"expanded_url": "https://bit.ly/3iFYeSE",
+					"display_url": "bit.ly/3iFYeSE",
+					"indices": [
+						141,
+						164
+					]
+				},
+				{
+					"url": "https://t.co/9THUC7NY6c",
+					"expanded_url": "https://bit.ly/2MlFH1H",
+					"display_url": "bit.ly/2MlFH1H",
+					"indices": [
+						171,
+						194
+					]
+				},
+				{
+					"url": "https://t.co/TDlABIfOru",
+					"expanded_url": "https://bit.ly/2NygRMT",
+					"display_url": "bit.ly/2NygRMT",
+					"indices": [
+						201,
+						224
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1353180488786079700,
+					"id_str": "1353180488786079744",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/Esd2fC8VcAAva8Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Esd2fC8VcAAva8Y.jpg",
+					"url": "https://t.co/s6XlyhOieU",
+					"display_url": "pic.twitter.com/s6XlyhOieU",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1353180675097026560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1353180488786079700,
+					"id_str": "1353180488786079744",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/Esd2fC8VcAAva8Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Esd2fC8VcAAva8Y.jpg",
+					"url": "https://t.co/s6XlyhOieU",
+					"display_url": "pic.twitter.com/s6XlyhOieU",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1353180675097026560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1353177841634959400,
+		"in_reply_to_status_id_str": "1353177841634959360",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스, 소란, 노리플라이, 쏜애플, LambC, SURL, OurR",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13022,
+			"friends_count": 1949,
+			"listed_count": 253,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[발매]\nLambC (램씨) - Part 1 : Emotional &lt;I'll see you when I see you&gt;\n\nMelon: https://t.co/IO4VPU4TYZ\ngenie: https://t.co/aV9UyepNQG\nFLO: https://t.co/3XEi7feEV6\nBugs: https://t.co/9THUC7NY6c\nVIBE: https://t.co/TDlABIfOru https://t.co/s6XlyhOieU"
+	},
+	{
 		"created_at": "Sun Jan 24 03:10:29 +0000 2021",
 		"id": 1353178332523876400,
 		"id_str": "1353178332523876358",
