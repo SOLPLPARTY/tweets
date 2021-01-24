@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 24 10:29:25 +0000 2021",
+		"id": 1353277824371630000,
+		"id_str": "1353288789758783488",
+		"full_text": "[#Percent] BTS - Euphoria | Cover By 96BPM 공개\n\nFull ver. 🔗 https://t.co/3M15jCq7OG\n\n#퍼센트 #96bpm #BTS #Euphoria https://t.co/09ybkKHDWQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Percent",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "퍼센트",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "96bpm",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "Euphoria",
+					"indices": [
+						101,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3M15jCq7OG",
+					"expanded_url": "http://youtu.be/jL5B5FbNz-c",
+					"display_url": "youtu.be/jL5B5FbNz-c",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1353277441905582000,
+					"id_str": "1353277441905582080",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1353277441905582080/pu/img/hNPr6qSmq6qMb3TI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1353277441905582080/pu/img/hNPr6qSmq6qMb3TI.jpg",
+					"url": "https://t.co/09ybkKHDWQ",
+					"display_url": "pic.twitter.com/09ybkKHDWQ",
+					"expanded_url": "https://twitter.com/themysticstory/status/1353277824371630086/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1353277441905582000,
+					"id_str": "1353277441905582080",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1353277441905582080/pu/img/hNPr6qSmq6qMb3TI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1353277441905582080/pu/img/hNPr6qSmq6qMb3TI.jpg",
+					"url": "https://t.co/09ybkKHDWQ",
+					"display_url": "pic.twitter.com/09ybkKHDWQ",
+					"expanded_url": "https://twitter.com/themysticstory/status/1353277824371630086/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 56223,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1353277441905582080/pu/vid/480x270/Rk5Wap36AzoEcvu2.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1353277441905582080/pu/vid/640x360/UyYDxzxkEwX4iuXw.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1353277441905582080/pu/pl/vxe53ODneLfrd_We.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1353277441905582080/pu/vid/1280x720/FI5ZYCklWWhqVYY1.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20235,
+			"friends_count": 18,
+			"listed_count": 241,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Percent] BTS - Euphoria | Cover By 96BPM 공개\n\nFull ver. 🔗 https://t.co/3M15jCq7OG\n\n#퍼센트 #96bpm #BTS #Euphoria https://t.co/09ybkKHDWQ"
+	},
+	{
 		"created_at": "Sun Jan 24 10:05:19 +0000 2021",
 		"id": 1353282725323669500,
 		"id_str": "1353282725323669504",
