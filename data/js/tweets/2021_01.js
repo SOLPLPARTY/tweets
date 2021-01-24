@@ -1,6 +1,554 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 24 09:11:33 +0000 2021",
+		"id": 1353266177661755400,
+		"id_str": "1353269195102945280",
+		"full_text": "⚽️Sole &lt;Ride (feat. THAMA)&gt;\n🏀THAMA &lt;질러&gt;\n⚽️CLUB 33 (KIRIN &amp; SUMIN) &lt;It’s Not Too Late (feat. sokodomo)&gt;\n\n⛓ 플레이리스트 링크 : https://t.co/KpGqqs3OVb https://t.co/b3NftlZU6g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KpGqqs3OVb",
+					"expanded_url": "http://reurl.kr/79F2652EZ",
+					"display_url": "reurl.kr/79F2652EZ",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1353264635001008000,
+					"id_str": "1353264635001008128",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EsfDBABVcAAViJ0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsfDBABVcAAViJ0.jpg",
+					"url": "https://t.co/b3NftlZU6g",
+					"display_url": "pic.twitter.com/b3NftlZU6g",
+					"expanded_url": "https://twitter.com/xindieticket/status/1353266177661755392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1353264635001008000,
+					"id_str": "1353264635001008128",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EsfDBABVcAAViJ0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsfDBABVcAAViJ0.jpg",
+					"url": "https://t.co/b3NftlZU6g",
+					"display_url": "pic.twitter.com/b3NftlZU6g",
+					"expanded_url": "https://twitter.com/xindieticket/status/1353266177661755392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1353264635168780300,
+					"id_str": "1353264635168780289",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EsfDBApVcAEcXHM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsfDBApVcAEcXHM.jpg",
+					"url": "https://t.co/b3NftlZU6g",
+					"display_url": "pic.twitter.com/b3NftlZU6g",
+					"expanded_url": "https://twitter.com/xindieticket/status/1353266177661755392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1353264635315511300,
+					"id_str": "1353264635315511297",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EsfDBBMUYAEmYix.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsfDBBMUYAEmYix.jpg",
+					"url": "https://t.co/b3NftlZU6g",
+					"display_url": "pic.twitter.com/b3NftlZU6g",
+					"expanded_url": "https://twitter.com/xindieticket/status/1353266177661755392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1353266171127033900,
+		"in_reply_to_status_id_str": "1353266171127033857",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2779,
+			"friends_count": 2669,
+			"listed_count": 20,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⚽️Sole &lt;Ride (feat. THAMA)&gt;\n🏀THAMA &lt;질러&gt;\n⚽️CLUB 33 (KIRIN &amp; SUMIN) &lt;It’s Not Too Late (feat. sokodomo)&gt;\n\n⛓ 플레이리스트 링크 : https://t.co/KpGqqs3OVb https://t.co/b3NftlZU6g"
+	},
+	{
+		"created_at": "Sun Jan 24 09:11:26 +0000 2021",
+		"id": 1353266171127033900,
+		"id_str": "1353269165239496704",
+		"full_text": "⚽️ Billie Eilish  &lt;come out and play&gt; \n🏀 죠지 &lt;Boat&gt;\n⚽️ Jill Scott &lt;A Long Walk&gt; \n🏀 서사무엘  &lt;Playaplayaplaya&gt;\n\n⛓ 플레이리스트 링크 : https://t.co/KpGqqs3OVb https://t.co/Jkbz4RXxH8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KpGqqs3OVb",
+					"expanded_url": "http://reurl.kr/79F2652EZ",
+					"display_url": "reurl.kr/79F2652EZ",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1353264581167079400,
+					"id_str": "1353264581167079424",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EsfC93eU4AALF9z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsfC93eU4AALF9z.jpg",
+					"url": "https://t.co/Jkbz4RXxH8",
+					"display_url": "pic.twitter.com/Jkbz4RXxH8",
+					"expanded_url": "https://twitter.com/xindieticket/status/1353266171127033857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1353264581167079400,
+					"id_str": "1353264581167079424",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EsfC93eU4AALF9z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsfC93eU4AALF9z.jpg",
+					"url": "https://t.co/Jkbz4RXxH8",
+					"display_url": "pic.twitter.com/Jkbz4RXxH8",
+					"expanded_url": "https://twitter.com/xindieticket/status/1353266171127033857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1353264581380960300,
+					"id_str": "1353264581380960256",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EsfC94RUcAAr8y8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsfC94RUcAAr8y8.jpg",
+					"url": "https://t.co/Jkbz4RXxH8",
+					"display_url": "pic.twitter.com/Jkbz4RXxH8",
+					"expanded_url": "https://twitter.com/xindieticket/status/1353266171127033857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1353264581552955400,
+					"id_str": "1353264581552955393",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EsfC946U4AELhIK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsfC946U4AELhIK.jpg",
+					"url": "https://t.co/Jkbz4RXxH8",
+					"display_url": "pic.twitter.com/Jkbz4RXxH8",
+					"expanded_url": "https://twitter.com/xindieticket/status/1353266171127033857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1353264581674586000,
+					"id_str": "1353264581674586112",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EsfC95XU0AAKQjr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsfC95XU0AAKQjr.jpg",
+					"url": "https://t.co/Jkbz4RXxH8",
+					"display_url": "pic.twitter.com/Jkbz4RXxH8",
+					"expanded_url": "https://twitter.com/xindieticket/status/1353266171127033857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1353266164827185200,
+		"in_reply_to_status_id_str": "1353266164827185152",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2779,
+			"friends_count": 2669,
+			"listed_count": 20,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⚽️ Billie Eilish  &lt;come out and play&gt; \n🏀 죠지 &lt;Boat&gt;\n⚽️ Jill Scott &lt;A Long Walk&gt; \n🏀 서사무엘  &lt;Playaplayaplaya&gt;\n\n⛓ 플레이리스트 링크 : https://t.co/KpGqqs3OVb https://t.co/Jkbz4RXxH8"
+	},
+	{
 		"created_at": "Sun Jan 24 08:11:16 +0000 2021",
 		"id": 1353249196355313700,
 		"id_str": "1353254026410946560",
