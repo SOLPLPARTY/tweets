@@ -1,6 +1,580 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 25 11:29:37 +0000 2021",
+		"id": 1353658903075070000,
+		"id_str": "1353666329023311873",
+		"full_text": "https://t.co/61cAnXI4rk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1353657092859564000,
+					"id_str": "1353657092859564040",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Eskn9DeVEAgqq19.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eskn9DeVEAgqq19.jpg",
+					"url": "https://t.co/61cAnXI4rk",
+					"display_url": "pic.twitter.com/61cAnXI4rk",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1353658903075069953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1353657092859564000,
+					"id_str": "1353657092859564040",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Eskn9DeVEAgqq19.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eskn9DeVEAgqq19.jpg",
+					"url": "https://t.co/61cAnXI4rk",
+					"display_url": "pic.twitter.com/61cAnXI4rk",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1353658903075069953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1353657093023121400,
+					"id_str": "1353657093023121408",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Eskn9EFUwAANvAL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eskn9EFUwAANvAL.jpg",
+					"url": "https://t.co/61cAnXI4rk",
+					"display_url": "pic.twitter.com/61cAnXI4rk",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1353658903075069953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1353657093165703200,
+					"id_str": "1353657093165703168",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Eskn9EnUYAA1GJR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eskn9EnUYAA1GJR.jpg",
+					"url": "https://t.co/61cAnXI4rk",
+					"display_url": "pic.twitter.com/61cAnXI4rk",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1353658903075069953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1353657093283172400,
+					"id_str": "1353657093283172354",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Eskn9FDU0AIM2yK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eskn9FDU0AIM2yK.jpg",
+					"url": "https://t.co/61cAnXI4rk",
+					"display_url": "pic.twitter.com/61cAnXI4rk",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1353658903075069953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1353658895227515000,
+		"in_reply_to_status_id_str": "1353658895227514880",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스, 소란, 노리플라이, 쏜애플, LambC, SURL, OurR",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13025,
+			"friends_count": 1949,
+			"listed_count": 253,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/61cAnXI4rk"
+	},
+	{
+		"created_at": "Mon Jan 25 11:29:28 +0000 2021",
+		"id": 1353658895227515000,
+		"id_str": "1353666290775425024",
+		"full_text": "[MPMG LABEL FAIR]\n이번 페어에서는 Vinyl뿐만 아니라 새로 제작되는 카세트, 한정 MD, 그리고 패키지 상품까지 만나보실 수 있습니다 🎁\n\n이벤트도 준비되어 있으니 잠깐 들러서 이벤트 참여하시고\n선물도 받아 가세요 👀🙌\n\nmore 🔗 https://t.co/zhh8bdi8fN https://t.co/cgEVBx3JGr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zhh8bdi8fN",
+					"expanded_url": "http://bit.ly/3qN2bYp",
+					"display_url": "bit.ly/3qN2bYp",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1353657030788096000,
+					"id_str": "1353657030788096000",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/Eskn5cPVoAAbPHC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eskn5cPVoAAbPHC.jpg",
+					"url": "https://t.co/cgEVBx3JGr",
+					"display_url": "pic.twitter.com/cgEVBx3JGr",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1353658895227514880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1353657030788096000,
+					"id_str": "1353657030788096000",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/Eskn5cPVoAAbPHC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eskn5cPVoAAbPHC.jpg",
+					"url": "https://t.co/cgEVBx3JGr",
+					"display_url": "pic.twitter.com/cgEVBx3JGr",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1353658895227514880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1353657061037330400,
+					"id_str": "1353657061037330433",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/Eskn7M7UUAEviEd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eskn7M7UUAEviEd.jpg",
+					"url": "https://t.co/cgEVBx3JGr",
+					"display_url": "pic.twitter.com/cgEVBx3JGr",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1353658895227514880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1353657061138026500,
+					"id_str": "1353657061138026497",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/Eskn7NTU0AEkdEo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eskn7NTU0AEkdEo.jpg",
+					"url": "https://t.co/cgEVBx3JGr",
+					"display_url": "pic.twitter.com/cgEVBx3JGr",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1353658895227514880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1353657061226107000,
+					"id_str": "1353657061226106881",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/Eskn7NoU0AE2tMR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eskn7NoU0AE2tMR.jpg",
+					"url": "https://t.co/cgEVBx3JGr",
+					"display_url": "pic.twitter.com/cgEVBx3JGr",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1353658895227514880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스, 소란, 노리플라이, 쏜애플, LambC, SURL, OurR",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13025,
+			"friends_count": 1949,
+			"listed_count": 253,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MPMG LABEL FAIR]\n이번 페어에서는 Vinyl뿐만 아니라 새로 제작되는 카세트, 한정 MD, 그리고 패키지 상품까지 만나보실 수 있습니다 🎁\n\n이벤트도 준비되어 있으니 잠깐 들러서 이벤트 참여하시고\n선물도 받아 가세요 👀🙌\n\nmore 🔗 https://t.co/zhh8bdi8fN https://t.co/cgEVBx3JGr"
+	},
+	{
 		"created_at": "Mon Jan 25 11:10:53 +0000 2021",
 		"id": 1353661615699341300,
 		"id_str": "1353661615699341314",
