@@ -1,6 +1,422 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 26 03:29:32 +0000 2021",
+		"id": 1353903150495797200,
+		"id_str": "1353907899937009664",
+		"full_text": "[유라]\n\nGAUSSIAN\n2021.02.02 6PM KST\n\n#유라 #youra #NewRelease https://t.co/GARHNxJcup",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유라",
+					"indices": [
+						35,
+						38
+					]
+				},
+				{
+					"text": "youra",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"text": "NewRelease",
+					"indices": [
+						46,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1353903138617520000,
+					"id_str": "1353903138617520128",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/EsoHuzWVcAAdRCQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsoHuzWVcAAdRCQ.jpg",
+					"url": "https://t.co/GARHNxJcup",
+					"display_url": "pic.twitter.com/GARHNxJcup",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1353903150495797252/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1353903138617520000,
+					"id_str": "1353903138617520128",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/EsoHuzWVcAAdRCQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsoHuzWVcAAdRCQ.jpg",
+					"url": "https://t.co/GARHNxJcup",
+					"display_url": "pic.twitter.com/GARHNxJcup",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1353903150495797252/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 우효/윤현상/유라/크래커/로지/섞김/아일/에버루아",
+			"url": "https://t.co/SedMym1vHh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SedMym1vHh",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 718,
+			"friends_count": 6,
+			"listed_count": 15,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유라]\n\nGAUSSIAN\n2021.02.02 6PM KST\n\n#유라 #youra #NewRelease https://t.co/GARHNxJcup"
+	},
+	{
+		"created_at": "Tue Jan 26 03:29:27 +0000 2021",
+		"id": 1353900468758581200,
+		"id_str": "1353907878290223105",
+		"full_text": "[#홍자] 네이버 NOW. '점심어택' 홍자 출연✔️\n\n홍자와 함께하는 점심시간💕 오늘 오후 12시 30분🕧 네이버 나우에서📣\n\n🔗 https://t.co/VqVvUzZHLj\n\n#점심어택 #네이버나우 #NOW온에어 #네이버 https://t.co/C4mjCAD8Nq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍자",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "점심어택",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "네이버나우",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "네이버",
+					"indices": [
+						120,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VqVvUzZHLj",
+					"expanded_url": "https://now.naver.com/169",
+					"display_url": "now.naver.com/169",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1353897722764382200,
+					"id_str": "1353897722764382209",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EsoCzjuU0AEzjgI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsoCzjuU0AEzjgI.jpg",
+					"url": "https://t.co/C4mjCAD8Nq",
+					"display_url": "pic.twitter.com/C4mjCAD8Nq",
+					"expanded_url": "https://twitter.com/themysticstory/status/1353900468758581252/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1353897722764382200,
+					"id_str": "1353897722764382209",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EsoCzjuU0AEzjgI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsoCzjuU0AEzjgI.jpg",
+					"url": "https://t.co/C4mjCAD8Nq",
+					"display_url": "pic.twitter.com/C4mjCAD8Nq",
+					"expanded_url": "https://twitter.com/themysticstory/status/1353900468758581252/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20244,
+			"friends_count": 18,
+			"listed_count": 239,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#홍자] 네이버 NOW. '점심어택' 홍자 출연✔️\n\n홍자와 함께하는 점심시간💕 오늘 오후 12시 30분🕧 네이버 나우에서📣\n\n🔗 https://t.co/VqVvUzZHLj\n\n#점심어택 #네이버나우 #NOW온에어 #네이버 https://t.co/C4mjCAD8Nq"
+	},
+	{
 		"created_at": "Tue Jan 26 03:11:50 +0000 2021",
 		"id": 1353903445409935400,
 		"id_str": "1353903445409935360",
