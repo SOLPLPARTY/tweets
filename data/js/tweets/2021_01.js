@@ -1,6 +1,727 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 26 09:29:42 +0000 2021",
+		"id": 1353996470366531600,
+		"id_str": "1353998539437780992",
+		"full_text": "[#슬릭] #슬릭쇼 #스포 #1부 #게스트 #누구\n따란! 🎁 슬릭쇼 1부 토크콘서트 게스트 소개📢\n🎈#퐄황상제 #김사월 @april_sour\n🎈#슬잘알끝판왕 #윤성애 #aka어머니\n슬릭을 탈탈 털어줄 게스트의 등장을 기대해주세요!\n#슬릭쇼 예매\nhttps://t.co/1vIU20UF0v\n#블라이드인데 #누군지알지 #모르는척해줘 https://t.co/OT19yuGpJO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬릭",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "슬릭쇼",
+					"indices": [
+						6,
+						10
+					]
+				},
+				{
+					"text": "스포",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "1부",
+					"indices": [
+						15,
+						18
+					]
+				},
+				{
+					"text": "게스트",
+					"indices": [
+						19,
+						23
+					]
+				},
+				{
+					"text": "누구",
+					"indices": [
+						24,
+						27
+					]
+				},
+				{
+					"text": "퐄황상제",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "김사월",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "슬잘알끝판왕",
+					"indices": [
+						80,
+						87
+					]
+				},
+				{
+					"text": "윤성애",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "aka어머니",
+					"indices": [
+						93,
+						100
+					]
+				},
+				{
+					"text": "슬릭쇼",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "블라이드인데",
+					"indices": [
+						161,
+						168
+					]
+				},
+				{
+					"text": "누군지알지",
+					"indices": [
+						169,
+						175
+					]
+				},
+				{
+					"text": "모르는척해줘",
+					"indices": [
+						176,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "april_sour",
+					"name": "April Chavez",
+					"id": 2203887188,
+					"id_str": "2203887188",
+					"indices": [
+						67,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1vIU20UF0v",
+					"expanded_url": "http://bit.ly/2XXB7cQ",
+					"display_url": "bit.ly/2XXB7cQ",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1353996466109386800,
+					"id_str": "1353996466109386753",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EspcnLWVkAE1E4P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EspcnLWVkAE1E4P.jpg",
+					"url": "https://t.co/OT19yuGpJO",
+					"display_url": "pic.twitter.com/OT19yuGpJO",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1353996470366531584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1353996466109386800,
+					"id_str": "1353996466109386753",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EspcnLWVkAE1E4P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EspcnLWVkAE1E4P.jpg",
+					"url": "https://t.co/OT19yuGpJO",
+					"display_url": "pic.twitter.com/OT19yuGpJO",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1353996470366531584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1351441745444184000,
+		"in_reply_to_status_id_str": "1351441745444184065",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1994,
+			"friends_count": 25,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5089,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1594485943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#슬릭] #슬릭쇼 #스포 #1부 #게스트 #누구\n따란! 🎁 슬릭쇼 1부 토크콘서트 게스트 소개📢\n🎈#퐄황상제 #김사월 @april_sour\n🎈#슬잘알끝판왕 #윤성애 #aka어머니\n슬릭을 탈탈 털어줄 게스트의 등장을 기대해주세요!\n#슬릭쇼 예매\nhttps://t.co/1vIU20UF0v\n#블라이드인데 #누군지알지 #모르는척해줘 https://t.co/OT19yuGpJO"
+	},
+	{
+		"created_at": "Tue Jan 26 09:29:35 +0000 2021",
+		"id": 1353995731586044000,
+		"id_str": "1353998509586919425",
+		"full_text": "새 EP 발매 예정 🔥#프리티머치🔥\n첫 번째 수록곡 ⭐𝑺𝒕𝒂𝒓𝒔⭐ 발매!\n🎧음원듣기 https://t.co/92jOHN41Ix https://t.co/VGhsUAqAmB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프리티머치",
+					"indices": [
+						12,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/92jOHN41Ix",
+					"expanded_url": "https://WMK.lnk.to/GwtnfkLw",
+					"display_url": "WMK.lnk.to/GwtnfkLw",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1353995483048337400,
+					"id_str": "1353995483048337408",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1353995483048337408/pu/img/bNbitRIj-dy8Tbqw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1353995483048337408/pu/img/bNbitRIj-dy8Tbqw.jpg",
+					"url": "https://t.co/VGhsUAqAmB",
+					"display_url": "pic.twitter.com/VGhsUAqAmB",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1353995731586043904/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1353995483048337400,
+					"id_str": "1353995483048337408",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1353995483048337408/pu/img/bNbitRIj-dy8Tbqw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1353995483048337408/pu/img/bNbitRIj-dy8Tbqw.jpg",
+					"url": "https://t.co/VGhsUAqAmB",
+					"display_url": "pic.twitter.com/VGhsUAqAmB",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1353995731586043904/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 38997,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1353995483048337408/pu/vid/480x480/g-UWR59ZNIawSXSY.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1353995483048337408/pu/vid/720x720/qw7VDR22T91DqNEz.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1353995483048337408/pu/pl/C6ldNzFk43uZBzd5.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1353995483048337408/pu/vid/320x320/jvJJTL3lGmrOBLgd.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10456,
+			"friends_count": 495,
+			"listed_count": 122,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11096,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1589339161",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "새 EP 발매 예정 🔥#프리티머치🔥\n첫 번째 수록곡 ⭐𝑺𝒕𝒂𝒓𝒔⭐ 발매!\n🎧음원듣기 https://t.co/92jOHN41Ix https://t.co/VGhsUAqAmB"
+	},
+	{
+		"created_at": "Tue Jan 26 09:29:30 +0000 2021",
+		"id": 1353994907866730500,
+		"id_str": "1353998488149905411",
+		"full_text": "𝗜 𝗟𝗼𝘃𝗲 𝗬𝗼𝘂 𝟯𝟬𝟬𝟬 ✨#스테파니포에트리✨\n신곡 💜𝑯𝒐𝒘 𝑾𝒆 𝑼𝒔𝒆𝒅 𝑻𝒐💜 공개!\n🎧음원듣기 https://t.co/bCQOq8D6pY https://t.co/KMFimFnV8l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스테파니포에트리",
+					"indices": [
+						17,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bCQOq8D6pY",
+					"expanded_url": "https://WMK.lnk.to/qKBM8qO0",
+					"display_url": "WMK.lnk.to/qKBM8qO0",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1353994690551419000,
+					"id_str": "1353994690551418883",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1353994690551418883/pu/img/EnxxjR3BCoY6hrgd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1353994690551418883/pu/img/EnxxjR3BCoY6hrgd.jpg",
+					"url": "https://t.co/KMFimFnV8l",
+					"display_url": "pic.twitter.com/KMFimFnV8l",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1353994907866730496/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1353994690551419000,
+					"id_str": "1353994690551418883",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1353994690551418883/pu/img/EnxxjR3BCoY6hrgd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1353994690551418883/pu/img/EnxxjR3BCoY6hrgd.jpg",
+					"url": "https://t.co/KMFimFnV8l",
+					"display_url": "pic.twitter.com/KMFimFnV8l",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1353994907866730496/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 41875,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1353994690551418883/pu/pl/ns5BD0E17LXZOM2Z.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1353994690551418883/pu/vid/480x480/LcvmbQKs9uK6qqjW.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1353994690551418883/pu/vid/320x320/9rTx7vpu1VUo1vVN.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1353994690551418883/pu/vid/720x720/0p4m-f8zw5BJSUdC.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10456,
+			"friends_count": 495,
+			"listed_count": 122,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11096,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1589339161",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "𝗜 𝗟𝗼𝘃𝗲 𝗬𝗼𝘂 𝟯𝟬𝟬𝟬 ✨#스테파니포에트리✨\n신곡 💜𝑯𝒐𝒘 𝑾𝒆 𝑼𝒔𝒆𝒅 𝑻𝒐💜 공개!\n🎧음원듣기 https://t.co/bCQOq8D6pY https://t.co/KMFimFnV8l"
+	},
+	{
 		"created_at": "Tue Jan 26 09:12:04 +0000 2021",
 		"id": 1353994102505877500,
 		"id_str": "1353994102505877510",
