@@ -1,10 +1,256 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 27 11:29:33 +0000 2021",
+		"id": 1354384449597706200,
+		"id_str": "1354391087520034816",
+		"full_text": "https://t.co/WvuwSPv5HJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1354384442601611300,
+					"id_str": "1354384442601611267",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Esu9eYaVoAMMG6r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Esu9eYaVoAMMG6r.jpg",
+					"url": "https://t.co/WvuwSPv5HJ",
+					"display_url": "pic.twitter.com/WvuwSPv5HJ",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1354384449597706242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1354384442601611300,
+					"id_str": "1354384442601611267",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Esu9eYaVoAMMG6r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Esu9eYaVoAMMG6r.jpg",
+					"url": "https://t.co/WvuwSPv5HJ",
+					"display_url": "pic.twitter.com/WvuwSPv5HJ",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1354384449597706242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1354384442958049300,
+					"id_str": "1354384442958049281",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Esu9eZvUcAE9uGK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Esu9eZvUcAE9uGK.jpg",
+					"url": "https://t.co/WvuwSPv5HJ",
+					"display_url": "pic.twitter.com/WvuwSPv5HJ",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1354384449597706242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1354384443314557000,
+					"id_str": "1354384443314556929",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Esu9ebEUUAEfLmc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Esu9ebEUUAEfLmc.jpg",
+					"url": "https://t.co/WvuwSPv5HJ",
+					"display_url": "pic.twitter.com/WvuwSPv5HJ",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1354384449597706242/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1354384438591770600,
+		"in_reply_to_status_id_str": "1354384438591770625",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스, 소란, 노리플라이, 쏜애플, LambC, SURL, OurR",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13029,
+			"friends_count": 1949,
+			"listed_count": 253,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/WvuwSPv5HJ"
+	},
+	{
 		"created_at": "Wed Jan 27 10:29:30 +0000 2021",
 		"id": 1354368586253357000,
 		"id_str": "1354375975212101633",
-		"full_text": "[𝗗-𝟲] 𝑺𝑰𝑵𝑮𝑳𝑬 𝑪𝑶𝑽𝑬𝑹 \n데이브레이크의 새 싱글\n'말이 안 되잖아 (Feat. 헤이즈)'🤷‍♀️의 커버를 공개합니다!\n\n2021.02.02. 6PM Release https://t.co/h0GRxcglrk",
+		"full_text": "[𝗗-𝟲] 𝑺𝑰𝑵𝑮𝑳𝑬 𝑪𝑶𝑽𝑬𝑹 \n데이브레이크의 새 싱글\n'말이 안 되잖아 (Feat. 헤이즈)'🤷♀️의 커버를 공개합니다!\n\n2021.02.02. 6PM Release https://t.co/h0GRxcglrk",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -172,7 +418,7 @@ Grailbird.data.tweets_2021_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[𝗗-𝟲] 𝑺𝑰𝑵𝑮𝑳𝑬 𝑪𝑶𝑽𝑬𝑹 \n데이브레이크의 새 싱글\n'말이 안 되잖아 (Feat. 헤이즈)'🤷‍♀️의 커버를 공개합니다!\n\n2021.02.02. 6PM Release https://t.co/h0GRxcglrk"
+		"text": "[𝗗-𝟲] 𝑺𝑰𝑵𝑮𝑳𝑬 𝑪𝑶𝑽𝑬𝑹 \n데이브레이크의 새 싱글\n'말이 안 되잖아 (Feat. 헤이즈)'🤷♀️의 커버를 공개합니다!\n\n2021.02.02. 6PM Release https://t.co/h0GRxcglrk"
 	},
 	{
 		"created_at": "Wed Jan 27 10:29:25 +0000 2021",
