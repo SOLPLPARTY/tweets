@@ -1,6 +1,376 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 27 10:29:30 +0000 2021",
+		"id": 1354368586253357000,
+		"id_str": "1354375975212101633",
+		"full_text": "[𝗗-𝟲] 𝑺𝑰𝑵𝑮𝑳𝑬 𝑪𝑶𝑽𝑬𝑹 \n데이브레이크의 새 싱글\n'말이 안 되잖아 (Feat. 헤이즈)'🤷‍♀️의 커버를 공개합니다!\n\n2021.02.02. 6PM Release https://t.co/h0GRxcglrk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1354368031799996400,
+					"id_str": "1354368031799996416",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EsuujJaVcAA1ZyA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsuujJaVcAA1ZyA.jpg",
+					"url": "https://t.co/h0GRxcglrk",
+					"display_url": "pic.twitter.com/h0GRxcglrk",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1354368586253357065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1354368031799996400,
+					"id_str": "1354368031799996416",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EsuujJaVcAA1ZyA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsuujJaVcAA1ZyA.jpg",
+					"url": "https://t.co/h0GRxcglrk",
+					"display_url": "pic.twitter.com/h0GRxcglrk",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1354368586253357065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스, 소란, 노리플라이, 쏜애플, LambC, SURL, OurR",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13027,
+			"friends_count": 1949,
+			"listed_count": 253,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[𝗗-𝟲] 𝑺𝑰𝑵𝑮𝑳𝑬 𝑪𝑶𝑽𝑬𝑹 \n데이브레이크의 새 싱글\n'말이 안 되잖아 (Feat. 헤이즈)'🤷‍♀️의 커버를 공개합니다!\n\n2021.02.02. 6PM Release https://t.co/h0GRxcglrk"
+	},
+	{
+		"created_at": "Wed Jan 27 10:29:25 +0000 2021",
+		"id": 1354366478187786200,
+		"id_str": "1354375953779204096",
+		"full_text": "Spotify의 In The K-Indie 리스트에 룸306의 ‘우리는 소복하게 앉아’가 소개됐습니다. 룸306은 현재 세 번째 앨범을 준비중이며 보컬 홍효진의 새 프로젝트도 3월에 첫 공개될 예정이라는 소식도 함께 전합니다. #룸306 #Room306 #Spotify https://t.co/1hy7DqPcpB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "룸306",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "Room306",
+					"indices": [
+						133,
+						141
+					]
+				},
+				{
+					"text": "Spotify",
+					"indices": [
+						142,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1354366473079144400,
+					"id_str": "1354366473079144456",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EsutIauUwAg8WPj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsutIauUwAg8WPj.jpg",
+					"url": "https://t.co/1hy7DqPcpB",
+					"display_url": "pic.twitter.com/1hy7DqPcpB",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1354366478187786241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1793,
+							"h": 901,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 603,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 342,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1354366473079144400,
+					"id_str": "1354366473079144456",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EsutIauUwAg8WPj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsutIauUwAg8WPj.jpg",
+					"url": "https://t.co/1hy7DqPcpB",
+					"display_url": "pic.twitter.com/1hy7DqPcpB",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1354366478187786241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1793,
+							"h": 901,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 603,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 342,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3567,
+			"friends_count": 1215,
+			"listed_count": 50,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 631,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Spotify의 In The K-Indie 리스트에 룸306의 ‘우리는 소복하게 앉아’가 소개됐습니다. 룸306은 현재 세 번째 앨범을 준비중이며 보컬 홍효진의 새 프로젝트도 3월에 첫 공개될 예정이라는 소식도 함께 전합니다. #룸306 #Room306 #Spotify https://t.co/1hy7DqPcpB"
+	},
+	{
 		"created_at": "Wed Jan 27 10:12:05 +0000 2021",
 		"id": 1354371595222065200,
 		"id_str": "1354371595222065152",
