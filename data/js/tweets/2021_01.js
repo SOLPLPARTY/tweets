@@ -1,6 +1,1020 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 28 03:30:03 +0000 2021",
+		"id": 1354630952828330000,
+		"id_str": "1354632807478407169",
+		"full_text": "진작에 차단했어야 했는데😠💢\n#사라케이스 💔𝑹𝒆𝒎𝒆𝒎𝒃𝒆𝒓 𝑻𝒉𝒂𝒕 𝑵𝒊𝒈𝒉𝒕?💔\n🎧음원듣기 https://t.co/zEFxSEjSOm https://t.co/qyOhrQmGgt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사라케이스",
+					"indices": [
+						16,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zEFxSEjSOm",
+					"expanded_url": "https://WMK.lnk.to/WJkEVJEs",
+					"display_url": "WMK.lnk.to/WJkEVJEs",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1354630671512211500,
+					"id_str": "1354630671512211458",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1354630671512211458/pu/img/G6zwNQi39ys4daAt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1354630671512211458/pu/img/G6zwNQi39ys4daAt.jpg",
+					"url": "https://t.co/qyOhrQmGgt",
+					"display_url": "pic.twitter.com/qyOhrQmGgt",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1354630952828329984/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1354630671512211500,
+					"id_str": "1354630671512211458",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1354630671512211458/pu/img/G6zwNQi39ys4daAt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1354630671512211458/pu/img/G6zwNQi39ys4daAt.jpg",
+					"url": "https://t.co/qyOhrQmGgt",
+					"display_url": "pic.twitter.com/qyOhrQmGgt",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1354630952828329984/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 47548,
+						"variants": [
+							{
+								"bitrate": 896000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1354630671512211458/pu/vid/540x540/1XxIPGqtvA0Xov-U.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1354630671512211458/pu/pl/iCkHetwUt1r_Bxgo.m3u8?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1354630671512211458/pu/vid/320x320/RvAVCAJFHWmED5LG.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1354630671512211458/pu/vid/720x720/QTQC8Arz82XZAGc-.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10456,
+			"friends_count": 495,
+			"listed_count": 122,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1589339161",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "진작에 차단했어야 했는데😠💢\n#사라케이스 💔𝑹𝒆𝒎𝒆𝒎𝒃𝒆𝒓 𝑻𝒉𝒂𝒕 𝑵𝒊𝒈𝒉𝒕?💔\n🎧음원듣기 https://t.co/zEFxSEjSOm https://t.co/qyOhrQmGgt"
+	},
+	{
+		"created_at": "Thu Jan 28 03:29:59 +0000 2021",
+		"id": 1354630315638018000,
+		"id_str": "1354632790189469699",
+		"full_text": "벅스: https://t.co/TBeG4qM5UZ\n바이브: https://t.co/e610I3fKo6\n플로: https://t.co/y7RRT9jj7C\n소리바다: https://t.co/Bl5yyIdB4M\n몽키3: https://t.co/Sie07amHvV\n\n#보이디 #BOY_D #평행선 #Paradox #몬구 #MONGOO #REMIX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보이디",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "BOY_D",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "평행선",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "Paradox",
+					"indices": [
+						162,
+						170
+					]
+				},
+				{
+					"text": "몬구",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "MONGOO",
+					"indices": [
+						175,
+						182
+					]
+				},
+				{
+					"text": "REMIX",
+					"indices": [
+						183,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TBeG4qM5UZ",
+					"expanded_url": "https://music.bugs.co.kr/album/15034523?wl_ref=M_contents_01_04",
+					"display_url": "music.bugs.co.kr/album/15034523…",
+					"indices": [
+						4,
+						27
+					]
+				},
+				{
+					"url": "https://t.co/e610I3fKo6",
+					"expanded_url": "https://vibe.naver.com/track/44175010",
+					"display_url": "vibe.naver.com/track/44175010",
+					"indices": [
+						33,
+						56
+					]
+				},
+				{
+					"url": "https://t.co/y7RRT9jj7C",
+					"expanded_url": "https://www.music-flo.com/detail/album/edloodeaa/albumtrack",
+					"display_url": "music-flo.com/detail/album/e…",
+					"indices": [
+						61,
+						84
+					]
+				},
+				{
+					"url": "https://t.co/Bl5yyIdB4M",
+					"expanded_url": "http://www.soribada.com/music/album/KD0165939",
+					"display_url": "soribada.com/music/album/KD…",
+					"indices": [
+						91,
+						114
+					]
+				},
+				{
+					"url": "https://t.co/Sie07amHvV",
+					"expanded_url": "http://monkey3.momople.com/",
+					"display_url": "monkey3.momople.com",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1354630311267639300,
+		"in_reply_to_status_id_str": "1354630311267639301",
+		"in_reply_to_user_id": 52109991,
+		"in_reply_to_user_id_str": "52109991",
+		"in_reply_to_screen_name": "orm_ent",
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 719,
+			"friends_count": 324,
+			"listed_count": 12,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2876,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1611200656",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "벅스: https://t.co/TBeG4qM5UZ\n바이브: https://t.co/e610I3fKo6\n플로: https://t.co/y7RRT9jj7C\n소리바다: https://t.co/Bl5yyIdB4M\n몽키3: https://t.co/Sie07amHvV\n\n#보이디 #BOY_D #평행선 #Paradox #몬구 #MONGOO #REMIX"
+	},
+	{
+		"created_at": "Thu Jan 28 03:29:50 +0000 2021",
+		"id": 1354630311267639300,
+		"id_str": "1354632751903862792",
+		"full_text": "수평선을 품은 보이.디(BOY.D)의 목소리, 까데호(Cadejo)의 이태훈의 우아하고 멜로우하게 플레이한 기타의 선율을 몬구(MONGOO)가 재편성하여 리믹스한 평행선 Mongoo REMIX (Paradox)가 발매 되었습니다! \n\n멜론: https://t.co/jR0TiTe5Yf\n지니: https://t.co/T2qUHHB8S3 https://t.co/BGvhwh7RZD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jR0TiTe5Yf",
+					"expanded_url": "https://www.melon.com/album/detail.htm?albumId=10554226",
+					"display_url": "melon.com/album/detail.h…",
+					"indices": [
+						135,
+						158
+					]
+				},
+				{
+					"url": "https://t.co/T2qUHHB8S3",
+					"expanded_url": "https://www.genie.co.kr/detail/albumInfo?axnm=81865796",
+					"display_url": "genie.co.kr/detail/albumIn…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1354629821658062800,
+					"id_str": "1354629821658062849",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/EsycpUoUYAEzc-w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsycpUoUYAEzc-w.jpg",
+					"url": "https://t.co/BGvhwh7RZD",
+					"display_url": "pic.twitter.com/BGvhwh7RZD",
+					"expanded_url": "https://twitter.com/orm_ent/status/1354630311267639301/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1354629821658062800,
+					"id_str": "1354629821658062849",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/EsycpUoUYAEzc-w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsycpUoUYAEzc-w.jpg",
+					"url": "https://t.co/BGvhwh7RZD",
+					"display_url": "pic.twitter.com/BGvhwh7RZD",
+					"expanded_url": "https://twitter.com/orm_ent/status/1354630311267639301/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 719,
+			"friends_count": 324,
+			"listed_count": 12,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2876,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1611200656",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "수평선을 품은 보이.디(BOY.D)의 목소리, 까데호(Cadejo)의 이태훈의 우아하고 멜로우하게 플레이한 기타의 선율을 몬구(MONGOO)가 재편성하여 리믹스한 평행선 Mongoo REMIX (Paradox)가 발매 되었습니다! \n\n멜론: https://t.co/jR0TiTe5Yf\n지니: https://t.co/T2qUHHB8S3 https://t.co/BGvhwh7RZD"
+	},
+	{
+		"created_at": "Thu Jan 28 03:29:41 +0000 2021",
+		"id": 1354630005444120600,
+		"id_str": "1354632714863996931",
+		"full_text": "#켈라니 의 피처링으로 새롭게 태어난✨\n#핑크스웨츠 🌷𝑨𝒕 𝑴𝒚 𝑾𝒐𝒓𝒔𝒕 (𝒇𝒕. 𝑲𝒆𝒉𝒍𝒂𝒏𝒊)🌷\n🎧음원듣기 https://t.co/oA40Vt9AI0 https://t.co/RKkRLYF1BK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "켈라니",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "핑크스웨츠",
+					"indices": [
+						22,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oA40Vt9AI0",
+					"expanded_url": "https://WMK.lnk.to/Shf9ON8x",
+					"display_url": "WMK.lnk.to/Shf9ON8x",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1354628752030920700,
+					"id_str": "1354628752030920705",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1354628752030920705/pu/img/5WAIeaNZf1mwKCTh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1354628752030920705/pu/img/5WAIeaNZf1mwKCTh.jpg",
+					"url": "https://t.co/RKkRLYF1BK",
+					"display_url": "pic.twitter.com/RKkRLYF1BK",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1354630005444120577/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1354628752030920700,
+					"id_str": "1354628752030920705",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1354628752030920705/pu/img/5WAIeaNZf1mwKCTh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1354628752030920705/pu/img/5WAIeaNZf1mwKCTh.jpg",
+					"url": "https://t.co/RKkRLYF1BK",
+					"display_url": "pic.twitter.com/RKkRLYF1BK",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1354630005444120577/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 29196,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1354628752030920705/pu/pl/EL8W_ABv49_ROTVX.m3u8?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1354628752030920705/pu/vid/320x320/v855M7KUs6wSWmew.mp4?tag=12"
+							},
+							{
+								"bitrate": 896000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1354628752030920705/pu/vid/540x540/HMY23oggVAY0PGF1.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1354628752030920705/pu/vid/720x720/w0525G1yw46nBAsG.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10456,
+			"friends_count": 495,
+			"listed_count": 122,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1589339161",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#켈라니 의 피처링으로 새롭게 태어난✨\n#핑크스웨츠 🌷𝑨𝒕 𝑴𝒚 𝑾𝒐𝒓𝒔𝒕 (𝒇𝒕. 𝑲𝒆𝒉𝒍𝒂𝒏𝒊)🌷\n🎧음원듣기 https://t.co/oA40Vt9AI0 https://t.co/RKkRLYF1BK"
+	},
+	{
+		"created_at": "Thu Jan 28 03:29:32 +0000 2021",
+		"id": 1354628262648041500,
+		"id_str": "1354632676637102084",
+		"full_text": "#ROGI (로기) [Carnival]\n\n✚ 앨범 자세히 보기: https://t.co/tr4YEuiKOV https://t.co/vtNCDKfY5t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ROGI",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tr4YEuiKOV",
+					"expanded_url": "https://bit.ly/3om9x3x",
+					"display_url": "bit.ly/3om9x3x",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1354240515672182800,
+					"id_str": "1354240515672182784",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/Ess6ku0VEAAp0vL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ess6ku0VEAAp0vL.jpg",
+					"url": "https://t.co/vtNCDKfY5t",
+					"display_url": "pic.twitter.com/vtNCDKfY5t",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1354628262648041473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1354240515672182800,
+					"id_str": "1354240515672182784",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/media/Ess6ku0VEAAp0vL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ess6ku0VEAAp0vL.jpg",
+					"url": "https://t.co/vtNCDKfY5t",
+					"display_url": "pic.twitter.com/vtNCDKfY5t",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1354628262648041473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9517,
+			"friends_count": 2855,
+			"listed_count": 244,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1610091287",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ROGI (로기) [Carnival]\n\n✚ 앨범 자세히 보기: https://t.co/tr4YEuiKOV https://t.co/vtNCDKfY5t"
+	},
+	{
 		"created_at": "Thu Jan 28 03:13:10 +0000 2021",
 		"id": 1354628558354862000,
 		"id_str": "1354628558354862083",
