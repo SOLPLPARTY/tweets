@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 28 07:29:33 +0000 2021",
+		"id": 1354684476027072500,
+		"id_str": "1354693077202563072",
+		"full_text": "검은잎들 비디오 놀이 중에 오늘이 젤 잼나는군요!\n자기들끼리 있을땐 저렇게 재미나요.. 저랑 있을땐.....😅😅😇\n유튜버 꿈나무들~ https://t.co/njXB4IaKZc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/njXB4IaKZc",
+					"expanded_url": "https://twitter.com/Leavesblack/status/1354680954434949122",
+					"display_url": "twitter.com/Leavesblack/st…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 719,
+			"friends_count": 324,
+			"listed_count": 12,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2882,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1611200656",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1354680954434949000,
+		"quoted_status_id_str": "1354680954434949122",
+		"quoted_status_permalink": {
+			"url": "https://t.co/njXB4IaKZc",
+			"expanded": "https://twitter.com/Leavesblack/status/1354680954434949122",
+			"display": "twitter.com/Leavesblack/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 28 06:41:22 +0000 2021",
+			"id": 1354680954434949000,
+			"id_str": "1354680954434949122",
+			"full_text": "검은잎들 비디오놀이 EP5 : 1집을 발매하다\n\nhttps://t.co/sYsQm6HBS0 https://t.co/gCEATmg6yd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				50
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/sYsQm6HBS0",
+						"expanded_url": "https://youtu.be/OxufhamrlqI",
+						"display_url": "youtu.be/OxufhamrlqI",
+						"indices": [
+							27,
+							50
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1354680938714697700,
+						"id_str": "1354680938714697730",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/EszLIugVEAIFrkI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EszLIugVEAIFrkI.jpg",
+						"url": "https://t.co/gCEATmg6yd",
+						"display_url": "pic.twitter.com/gCEATmg6yd",
+						"expanded_url": "https://twitter.com/Leavesblack/status/1354680954434949122/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1354680938714697700,
+						"id_str": "1354680938714697730",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/EszLIugVEAIFrkI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EszLIugVEAIFrkI.jpg",
+						"url": "https://t.co/gCEATmg6yd",
+						"display_url": "pic.twitter.com/gCEATmg6yd",
+						"expanded_url": "https://twitter.com/Leavesblack/status/1354680954434949122/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3432037692,
+				"id_str": "3432037692",
+				"name": "검은잎들",
+				"screen_name": "Leavesblack",
+				"location": "대한민국 부산",
+				"description": "동욱, 성민, 은하, 영웅",
+				"url": "https://t.co/5S32lPYbDw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5S32lPYbDw",
+								"expanded_url": "https://instagram.com/leavesblack_official",
+								"display_url": "instagram.com/leavesblack_of…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 143,
+				"friends_count": 102,
+				"listed_count": 4,
+				"created_at": "Thu Sep 03 02:14:53 +0000 2015",
+				"favourites_count": 144,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 214,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1335809901814116354/B0pSIwZl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1335809901814116354/B0pSIwZl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3432037692/1610766391",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "검은잎들 비디오 놀이 중에 오늘이 젤 잼나는군요!\n자기들끼리 있을땐 저렇게 재미나요.. 저랑 있을땐.....😅😅😇\n유튜버 꿈나무들~ https://t.co/njXB4IaKZc"
+	},
+	{
 		"created_at": "Thu Jan 28 06:29:43 +0000 2021",
 		"id": 1354677518045900800,
 		"id_str": "1354678021756776448",
