@@ -1,6 +1,569 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 28 12:08:48 +0000 2021",
+		"id": 1354425345147957200,
+		"id_str": "1354763354590437378",
+		"full_text": "&lt;2021 경록절을 준비하며🌹&gt;\n\n코로나 바이러스들만 파티를 열게 내버려 둘 순 없습니다\n​'음악'이 코로나 블루를 이겨낼 수 있는 '백신'이라고 믿습니다\n우울한 시대, 음악이 계속 멈추지 않고 울려퍼진다면 우리는 다시 행복과 미소를 찾을 수 있습니다\n새로운 시대에 발맞춰, 끝까지 놀아보겠습니다 https://t.co/fVDfyGFTNj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1354425326034514000,
+					"id_str": "1354425326034513923",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EsviqHEUcAM9ZXU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsviqHEUcAM9ZXU.jpg",
+					"url": "https://t.co/fVDfyGFTNj",
+					"display_url": "pic.twitter.com/fVDfyGFTNj",
+					"expanded_url": "https://twitter.com/thecaptainrock/status/1354425345147957257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1078,
+							"h": 1349,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1354425326034514000,
+					"id_str": "1354425326034513923",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EsviqHEUcAM9ZXU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsviqHEUcAM9ZXU.jpg",
+					"url": "https://t.co/fVDfyGFTNj",
+					"display_url": "pic.twitter.com/fVDfyGFTNj",
+					"expanded_url": "https://twitter.com/thecaptainrock/status/1354425345147957257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1078,
+							"h": 1349,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1354425326034579500,
+					"id_str": "1354425326034579460",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EsviqHEVcAQB1Bb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsviqHEVcAQB1Bb.jpg",
+					"url": "https://t.co/fVDfyGFTNj",
+					"display_url": "pic.twitter.com/fVDfyGFTNj",
+					"expanded_url": "https://twitter.com/thecaptainrock/status/1354425345147957257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1170,
+							"h": 2011,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 698,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 396,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1354425326042927000,
+					"id_str": "1354425326042927110",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EsviqHGU0AY6zBa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsviqHGU0AY6zBa.jpg",
+					"url": "https://t.co/fVDfyGFTNj",
+					"display_url": "pic.twitter.com/fVDfyGFTNj",
+					"expanded_url": "https://twitter.com/thecaptainrock/status/1354425345147957257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 394,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 695,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 2020,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1354425326084870100,
+					"id_str": "1354425326084870151",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EsviqHQU0AcsDA2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsviqHQU0AcsDA2.jpg",
+					"url": "https://t.co/fVDfyGFTNj",
+					"display_url": "pic.twitter.com/fVDfyGFTNj",
+					"expanded_url": "https://twitter.com/thecaptainrock/status/1354425345147957257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1170,
+							"h": 572,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 332,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 572,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 139751998,
+			"id_str": "139751998",
+			"name": "한경록",
+			"screen_name": "thecaptainrock",
+			"location": "",
+			"description": "CryingNut bass CaptainRock☠️🌹",
+			"url": "https://t.co/xL5jURrP6m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xL5jURrP6m",
+							"expanded_url": "http://blog.naver.com/captainrock1",
+							"display_url": "blog.naver.com/captainrock1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11758,
+			"friends_count": 748,
+			"listed_count": 304,
+			"created_at": "Mon May 03 15:31:23 +0000 2010",
+			"favourites_count": 1256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/467124814474256385/922UhK1y_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/467124814474256385/922UhK1y_normal.jpeg",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;2021 경록절을 준비하며🌹&gt;\n\n코로나 바이러스들만 파티를 열게 내버려 둘 순 없습니다\n​'음악'이 코로나 블루를 이겨낼 수 있는 '백신'이라고 믿습니다\n우울한 시대, 음악이 계속 멈추지 않고 울려퍼진다면 우리는 다시 행복과 미소를 찾을 수 있습니다\n새로운 시대에 발맞춰, 끝까지 놀아보겠습니다 https://t.co/fVDfyGFTNj"
+	},
+	{
+		"created_at": "Thu Jan 28 11:29:31 +0000 2021",
+		"id": 1354746073424642000,
+		"id_str": "1354753466607034369",
+		"full_text": "https://t.co/yuwRuUogE5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1354746062121037800,
+					"id_str": "1354746062121037824",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Es0GXaGVcAAdBnJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Es0GXaGVcAAdBnJ.jpg",
+					"url": "https://t.co/yuwRuUogE5",
+					"display_url": "pic.twitter.com/yuwRuUogE5",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1354746073424642055/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1354746062121037800,
+					"id_str": "1354746062121037824",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Es0GXaGVcAAdBnJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Es0GXaGVcAAdBnJ.jpg",
+					"url": "https://t.co/yuwRuUogE5",
+					"display_url": "pic.twitter.com/yuwRuUogE5",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1354746073424642055/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1354746062305513500,
+					"id_str": "1354746062305513477",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Es0GXayUUAUaJ5v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Es0GXayUUAUaJ5v.jpg",
+					"url": "https://t.co/yuwRuUogE5",
+					"display_url": "pic.twitter.com/yuwRuUogE5",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1354746073424642055/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1354746062498455600,
+					"id_str": "1354746062498455553",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Es0GXbgUYAEpH1P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Es0GXbgUYAEpH1P.jpg",
+					"url": "https://t.co/yuwRuUogE5",
+					"display_url": "pic.twitter.com/yuwRuUogE5",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1354746073424642055/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1354746062817300500,
+					"id_str": "1354746062817300483",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Es0GXcsVkAM293J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Es0GXcsVkAM293J.jpg",
+					"url": "https://t.co/yuwRuUogE5",
+					"display_url": "pic.twitter.com/yuwRuUogE5",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1354746073424642055/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1354746059101065200,
+		"in_reply_to_status_id_str": "1354746059101065218",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스, 소란, 노리플라이, 쏜애플, LambC, SURL, OurR",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13036,
+			"friends_count": 1949,
+			"listed_count": 253,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/yuwRuUogE5"
+	},
+	{
 		"created_at": "Thu Jan 28 11:11:23 +0000 2021",
 		"id": 1354748577143091200,
 		"id_str": "1354748902692552710",
