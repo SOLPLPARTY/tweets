@@ -1,6 +1,155 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 29 14:29:25 +0000 2021",
+		"id": 1355159733506723800,
+		"id_str": "1355161127773204490",
+		"full_text": "K-POP 성공 신화! 이수만 총괄 프로듀서 랜선 인터뷰|\"미래는 AI와 셀럽의 세상\"#월간커넥트 | Monthly Connect EP.2 \n\n👉https://t.co/zRHlQ4bpcq \n\n#이수만 #SOOMANLEE\n#SMEntertainment \n#월간커넥트 #MonthlyConnect",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "월간커넥트",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "이수만",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "SOOMANLEE",
+					"indices": [
+						112,
+						122
+					]
+				},
+				{
+					"text": "SMEntertainment",
+					"indices": [
+						123,
+						139
+					]
+				},
+				{
+					"text": "월간커넥트",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"text": "MonthlyConnect",
+					"indices": [
+						148,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zRHlQ4bpcq",
+					"expanded_url": "https://youtu.be/uLlbVaVMmSw",
+					"display_url": "youtu.be/uLlbVaVMmSw",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9053084,
+			"friends_count": 53,
+			"listed_count": 8903,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1921,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 491,
+		"favorite_count": 3980,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "K-POP 성공 신화! 이수만 총괄 프로듀서 랜선 인터뷰|\"미래는 AI와 셀럽의 세상\"#월간커넥트 | Monthly Connect EP.2 \n\n👉https://t.co/zRHlQ4bpcq \n\n#이수만 #SOOMANLEE\n#SMEntertainment \n#월간커넥트 #MonthlyConnect"
+	},
+	{
 		"created_at": "Fri Jan 29 12:11:39 +0000 2021",
 		"id": 1355126459652862000,
 		"id_str": "1355126459652861953",
