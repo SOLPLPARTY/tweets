@@ -1,10 +1,215 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 30 14:11:23 +0000 2021",
+		"id": 1355518589529284600,
+		"id_str": "1355518977653534727",
+		"full_text": "아름다운 굿즈로 재미공작소를 채워주신 옥토 작가님 그리고 행사 진행에 도움 주신 작가님의 지인 분들께도 다시 한번 감사의 마음 전합니다. https://t.co/YUNWyCxMHh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1355518545128374300,
+					"id_str": "1355518545128374278",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1355518545128374278/pu/img/UnPwsDoSYzhmC8fx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1355518545128374278/pu/img/UnPwsDoSYzhmC8fx.jpg",
+					"url": "https://t.co/YUNWyCxMHh",
+					"display_url": "pic.twitter.com/YUNWyCxMHh",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1355518589529284612/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1176,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1176,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 624,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1355518545128374300,
+					"id_str": "1355518545128374278",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1355518545128374278/pu/img/UnPwsDoSYzhmC8fx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1355518545128374278/pu/img/UnPwsDoSYzhmC8fx.jpg",
+					"url": "https://t.co/YUNWyCxMHh",
+					"display_url": "pic.twitter.com/YUNWyCxMHh",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1355518589529284612/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1176,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1176,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 624,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							45,
+							49
+						],
+						"duration_millis": 8033,
+						"variants": [
+							{
+								"bitrate": 1014000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1355518545128374278/pu/vid/480x522/o7TcGLZEynncVbj6.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1355518545128374278/pu/pl/pNFfScODYzM_0Kt8.m3u8?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1355518545128374278/pu/vid/320x348/WN_sM5QrXSH2IFhV.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1355518545128374278/pu/vid/720x784/CDoTVjileDSDWDb_.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1355516589739712500,
+		"in_reply_to_status_id_str": "1355516589739712519",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8198,
+			"friends_count": 576,
+			"listed_count": 81,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아름다운 굿즈로 재미공작소를 채워주신 옥토 작가님 그리고 행사 진행에 도움 주신 작가님의 지인 분들께도 다시 한번 감사의 마음 전합니다. https://t.co/YUNWyCxMHh"
+	},
+	{
 		"created_at": "Sat Jan 30 13:03:38 +0000 2021",
 		"id": 1355501929502269400,
 		"id_str": "1355501929502269447",
-		"full_text": "#온스테이지 #ONSTAGE\n온스테이지 10주년 | ​플레이리스트 : 19\nhttps://t.co/fnL12wB8Kz",
+		"full_text": "#온스테이지 #ONSTAGE\n온스테이지 10주년 | 플레이리스트 : 19\nhttps://t.co/fnL12wB8Kz",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -138,7 +343,7 @@ Grailbird.data.tweets_2021_01 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#온스테이지 #ONSTAGE\n온스테이지 10주년 | ​플레이리스트 : 19\nhttps://t.co/fnL12wB8Kz"
+		"text": "#온스테이지 #ONSTAGE\n온스테이지 10주년 | 플레이리스트 : 19\nhttps://t.co/fnL12wB8Kz"
 	},
 	{
 		"created_at": "Sat Jan 30 10:11:25 +0000 2021",
