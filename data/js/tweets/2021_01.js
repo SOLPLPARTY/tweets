@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 31 00:29:27 +0000 2021",
+		"id": 1355667984795148300,
+		"id_str": "1355674519738986502",
+		"full_text": "[𝐌𝐏𝐌𝐆 𝐖𝐄𝐄𝐊 𝟐𝟎𝟐𝟏 𝐏𝐫𝐨𝐠𝐫𝐚𝐦 - DAY 2]\n⏱ 소봇돌이가 30초 안에 전해드리는 오늘의 프로그램\nㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ시간 다 돼서 짤리는게 포인트 https://t.co/FFYRBeMgO9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1355667874874970000,
+					"id_str": "1355667874874970113",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1355667874874970113/pu/img/GzyjbucY2k4eoqqs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1355667874874970113/pu/img/GzyjbucY2k4eoqqs.jpg",
+					"url": "https://t.co/FFYRBeMgO9",
+					"display_url": "pic.twitter.com/FFYRBeMgO9",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1355667984795148290/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1355667874874970000,
+					"id_str": "1355667874874970113",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1355667874874970113/pu/img/GzyjbucY2k4eoqqs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1355667874874970113/pu/img/GzyjbucY2k4eoqqs.jpg",
+					"url": "https://t.co/FFYRBeMgO9",
+					"display_url": "pic.twitter.com/FFYRBeMgO9",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1355667984795148290/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 30063,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1355667874874970113/pu/pl/9Ltqy9zgZP0xudns.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1355667874874970113/pu/vid/320x320/bCEr8iTbwunsReKA.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1355667874874970113/pu/vid/720x720/3XWg2_lMyuBy37Xb.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1355667874874970113/pu/vid/480x480/REsYdm5gmigsd2DO.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1355667148559896600,
+		"in_reply_to_status_id_str": "1355667148559896578",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "데이브레이크, 솔루션스, 소란, 노리플라이, 쏜애플, LambC, SURL, OurR",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13046,
+			"friends_count": 1949,
+			"listed_count": 254,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13213,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[𝐌𝐏𝐌𝐆 𝐖𝐄𝐄𝐊 𝟐𝟎𝟐𝟏 𝐏𝐫𝐨𝐠𝐫𝐚𝐦 - DAY 2]\n⏱ 소봇돌이가 30초 안에 전해드리는 오늘의 프로그램\nㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ시간 다 돼서 짤리는게 포인트 https://t.co/FFYRBeMgO9"
+	},
+	{
 		"created_at": "Sat Jan 30 14:23:13 +0000 2021",
 		"id": 1355102075525369900,
 		"id_str": "1355521957102452742",
