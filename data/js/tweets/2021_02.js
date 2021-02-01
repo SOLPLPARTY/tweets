@@ -1,6 +1,531 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 01 11:11:25 +0000 2021",
+		"id": 1356187371578921000,
+		"id_str": "1356198463202091015",
+		"full_text": "발렌타인 데이를 김오키와 함께... 널리 알려주시고 즐겨주세요!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1356185192084332500,
+		"in_reply_to_status_id_str": "1356185192084332545",
+		"in_reply_to_user_id": 444545059,
+		"in_reply_to_user_id_str": "444545059",
+		"in_reply_to_screen_name": "cafe_veloso",
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8734,
+			"friends_count": 145,
+			"listed_count": 132,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "발렌타인 데이를 김오키와 함께... 널리 알려주시고 즐겨주세요!"
+	},
+	{
+		"created_at": "Mon Feb 01 11:11:17 +0000 2021",
+		"id": 1356185192084332500,
+		"id_str": "1356198429114949633",
+		"full_text": "series KIMOKI vol.2\n[Public Domain For Me] + [새턴메디테이션]\n2021.2.14(일) 5pm. 벨로주 홍대(서교동 372-6)\n\n예매 : https://t.co/M8XdSjUQZU\n\n시리즈 김오키 두번째 공연은 김오키의 음악이 가장 빛을 발하던 2018년의 두 앨범 [Public Domain For Me], [새턴메디테이션]. 놓치지마세요! https://t.co/BfbHVyhy0l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M8XdSjUQZU",
+					"expanded_url": "https://c11.kr/lyu1",
+					"display_url": "c11.kr/lyu1",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1356185121691320300,
+					"id_str": "1356185121691320322",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/EtIjLswUwAIZ4Lb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtIjLswUwAIZ4Lb.jpg",
+					"url": "https://t.co/BfbHVyhy0l",
+					"display_url": "pic.twitter.com/BfbHVyhy0l",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1356185192084332545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1476,
+							"h": 1181,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1356185121691320300,
+					"id_str": "1356185121691320322",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/EtIjLswUwAIZ4Lb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtIjLswUwAIZ4Lb.jpg",
+					"url": "https://t.co/BfbHVyhy0l",
+					"display_url": "pic.twitter.com/BfbHVyhy0l",
+					"expanded_url": "https://twitter.com/cafe_veloso/status/1356185192084332545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1476,
+							"h": 1181,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8734,
+			"friends_count": 145,
+			"listed_count": 132,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "series KIMOKI vol.2\n[Public Domain For Me] + [새턴메디테이션]\n2021.2.14(일) 5pm. 벨로주 홍대(서교동 372-6)\n\n예매 : https://t.co/M8XdSjUQZU\n\n시리즈 김오키 두번째 공연은 김오키의 음악이 가장 빛을 발하던 2018년의 두 앨범 [Public Domain For Me], [새턴메디테이션]. 놓치지마세요! https://t.co/BfbHVyhy0l"
+	},
+	{
+		"created_at": "Mon Feb 01 10:29:27 +0000 2021",
+		"id": 1356182450381045800,
+		"id_str": "1356187903295180802",
+		"full_text": "🍭#모모랜드 X #크로망스🍬\n'Wrap Me In Plastic' 뮤직비디오 티져💕\n2월 5일 18시에 전 음원 사이트와 유튜브에 공개됩니다!\n\n'#MOMOLAND &amp; #CHROMANCE - Wrap Me In Plastic' MV Teaser! Coming soon on Feb 5th 6PM KST (4AM EST) \n\n#WrapMeInPlastic #WrapMeInMomoland https://t.co/aSfnWkoWIQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "모모랜드",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "크로망스",
+					"indices": [
+						9,
+						14
+					]
+				},
+				{
+					"text": "MOMOLAND",
+					"indices": [
+						82,
+						91
+					]
+				},
+				{
+					"text": "CHROMANCE",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"text": "WrapMeInPlastic",
+					"indices": [
+						185,
+						201
+					]
+				},
+				{
+					"text": "WrapMeInMomoland",
+					"indices": [
+						202,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1356181529215418400,
+					"id_str": "1356181529215418371",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1356181529215418371/pu/img/BO7izk9hgl_vLYmC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1356181529215418371/pu/img/BO7izk9hgl_vLYmC.jpg",
+					"url": "https://t.co/aSfnWkoWIQ",
+					"display_url": "pic.twitter.com/aSfnWkoWIQ",
+					"expanded_url": "https://twitter.com/SonyMusicKr_POP/status/1356182450381045760/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1356181529215418400,
+					"id_str": "1356181529215418371",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1356181529215418371/pu/img/BO7izk9hgl_vLYmC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1356181529215418371/pu/img/BO7izk9hgl_vLYmC.jpg",
+					"url": "https://t.co/aSfnWkoWIQ",
+					"display_url": "pic.twitter.com/aSfnWkoWIQ",
+					"expanded_url": "https://twitter.com/SonyMusicKr_POP/status/1356182450381045760/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 20521,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1356181529215418371/pu/vid/480x270/y8dhPdcioxJz_SUW.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1356181529215418371/pu/pl/ojIg8eNerSM8ywoY.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1356181529215418371/pu/vid/1280x720/s8jI8qpfdCjkWqM-.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1356181529215418371/pu/vid/640x360/k1WRm_N7r7atj39z.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135092865,
+			"id_str": "135092865",
+			"name": "소니뮤직코리아",
+			"screen_name": "SonyMusicKr_POP",
+			"location": "Seoul, South Korea",
+			"description": "소니뮤직의 해외 아티스트들 소식을 전하는 소니뮤직 코리아 공식 트위터 계정입니다!",
+			"url": "https://t.co/THW5lXj534",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/THW5lXj534",
+							"expanded_url": "http://twitaddons.com/SonyMusicKr_POP",
+							"display_url": "twitaddons.com/SonyMusicKr_POP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14044,
+			"friends_count": 268,
+			"listed_count": 358,
+			"created_at": "Tue Apr 20 09:25:56 +0000 2010",
+			"favourites_count": 829,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905682101868969984/Ay26Smyy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905682101868969984/Ay26Smyy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135092865/1606978941",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "3D3D42",
+			"profile_sidebar_fill_color": "7EBDE6",
+			"profile_text_color": "0A000A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🍭#모모랜드 X #크로망스🍬\n'Wrap Me In Plastic' 뮤직비디오 티져💕\n2월 5일 18시에 전 음원 사이트와 유튜브에 공개됩니다!\n\n'#MOMOLAND &amp; #CHROMANCE - Wrap Me In Plastic' MV Teaser! Coming soon on Feb 5th 6PM KST (4AM EST) \n\n#WrapMeInPlastic #WrapMeInMomoland https://t.co/aSfnWkoWIQ"
+	},
+	{
 		"created_at": "Mon Feb 01 09:38:30 +0000 2021",
 		"id": 1356175079181152300,
 		"id_str": "1356175079181152256",
