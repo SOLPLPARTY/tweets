@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 01 13:29:33 +0000 2021",
+		"id": 1356218504219742200,
+		"id_str": "1356233226298257409",
+		"full_text": "𝗡𝗘𝗪 𝗔𝗥𝗧𝗜𝗦𝗧\n동화적이고 몽환적인 사운드를 들려주는 밴드\nLacuna (라쿠나)\n\n유튜브 : https://t.co/G3eozYhFTI\n인스타그램 : https://t.co/7zW7DEdcKx\n페이스북 : https://t.co/nuZPKpIfbu\n트위터 : https://t.co/aQK7pNMBcv\n사운드 클라우드 : https://t.co/P8JxEmeiDS https://t.co/t2AHMxpmE7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/G3eozYhFTI",
+					"expanded_url": "https://bit.ly/3pGO9HN",
+					"display_url": "bit.ly/3pGO9HN",
+					"indices": [
+						55,
+						78
+					]
+				},
+				{
+					"url": "https://t.co/7zW7DEdcKx",
+					"expanded_url": "https://www.instagram.com/band_lacuna",
+					"display_url": "instagram.com/band_lacuna",
+					"indices": [
+						87,
+						110
+					]
+				},
+				{
+					"url": "https://t.co/nuZPKpIfbu",
+					"expanded_url": "https://www.facebook.com/bandlacuna98",
+					"display_url": "facebook.com/bandlacuna98",
+					"indices": [
+						118,
+						141
+					]
+				},
+				{
+					"url": "https://t.co/aQK7pNMBcv",
+					"expanded_url": "https://twitter.com/Lacuna_Official",
+					"display_url": "twitter.com/Lacuna_Official",
+					"indices": [
+						148,
+						171
+					]
+				},
+				{
+					"url": "https://t.co/P8JxEmeiDS",
+					"expanded_url": "https://soundcloud.com/bandlacuna",
+					"display_url": "soundcloud.com/bandlacuna",
+					"indices": [
+						183,
+						206
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1356213867378950100,
+					"id_str": "1356213867378950144",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/EtI9U6yUwAAYeL4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtI9U6yUwAAYeL4.jpg",
+					"url": "https://t.co/t2AHMxpmE7",
+					"display_url": "pic.twitter.com/t2AHMxpmE7",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1356218504219742210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1367,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1356213867378950100,
+					"id_str": "1356213867378950144",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/EtI9U6yUwAAYeL4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtI9U6yUwAAYeL4.jpg",
+					"url": "https://t.co/t2AHMxpmE7",
+					"display_url": "pic.twitter.com/t2AHMxpmE7",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1356218504219742210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1367,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만, 노리플라이, 데이브레이크, Lacuna, LambC, SURL, 소란, 솔루션스, 쏜애플, OurR",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13057,
+			"friends_count": 1949,
+			"listed_count": 254,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13227,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "𝗡𝗘𝗪 𝗔𝗥𝗧𝗜𝗦𝗧\n동화적이고 몽환적인 사운드를 들려주는 밴드\nLacuna (라쿠나)\n\n유튜브 : https://t.co/G3eozYhFTI\n인스타그램 : https://t.co/7zW7DEdcKx\n페이스북 : https://t.co/nuZPKpIfbu\n트위터 : https://t.co/aQK7pNMBcv\n사운드 클라우드 : https://t.co/P8JxEmeiDS https://t.co/t2AHMxpmE7"
+	},
+	{
 		"created_at": "Mon Feb 01 12:36:11 +0000 2021",
 		"id": 1356219796719808500,
 		"id_str": "1356219796719808520",
