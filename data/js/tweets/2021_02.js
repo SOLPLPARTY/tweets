@@ -1,6 +1,1049 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 01 09:38:30 +0000 2021",
+		"id": 1356175079181152300,
+		"id_str": "1356175079181152256",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n조슈아 바셋 (Joshua Bassett) - Only a Matter of Time 가사 번역 뮤직비디오\nhttps://t.co/iUL87MoUlC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iUL87MoUlC",
+					"expanded_url": "https://youtu.be/5cBSwcdziug",
+					"display_url": "youtu.be/5cBSwcdziug",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 440,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n조슈아 바셋 (Joshua Bassett) - Only a Matter of Time 가사 번역 뮤직비디오\nhttps://t.co/iUL87MoUlC"
+	},
+	{
+		"created_at": "Mon Feb 01 09:29:45 +0000 2021",
+		"id": 1356168672063066000,
+		"id_str": "1356172880011255808",
+		"full_text": "슬릭 콘서트 &lt;SLEEQ SHOW&gt; 연기 안내\n#슬릭 #슬릭쇼 #연기 #공연 #콘서트 #구름아래소극장 https://t.co/UCfeXlptcD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬릭",
+					"indices": [
+						32,
+						35
+					]
+				},
+				{
+					"text": "슬릭쇼",
+					"indices": [
+						36,
+						40
+					]
+				},
+				{
+					"text": "연기",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "구름아래소극장",
+					"indices": [
+						54,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1356168654077870000,
+					"id_str": "1356168654077870089",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/EtIUNKHUwAkcjlG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtIUNKHUwAkcjlG.jpg",
+					"url": "https://t.co/UCfeXlptcD",
+					"display_url": "pic.twitter.com/UCfeXlptcD",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1356168672063066113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1356168654077870000,
+					"id_str": "1356168654077870089",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/EtIUNKHUwAkcjlG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtIUNKHUwAkcjlG.jpg",
+					"url": "https://t.co/UCfeXlptcD",
+					"display_url": "pic.twitter.com/UCfeXlptcD",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1356168672063066113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1356168657638891500,
+					"id_str": "1356168657638891527",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/EtIUNXYVoAcSB54.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtIUNXYVoAcSB54.jpg",
+					"url": "https://t.co/UCfeXlptcD",
+					"display_url": "pic.twitter.com/UCfeXlptcD",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1356168672063066113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1356168664580386800,
+					"id_str": "1356168664580386820",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/EtIUNxPUcAQPHL2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtIUNxPUcAQPHL2.jpg",
+					"url": "https://t.co/UCfeXlptcD",
+					"display_url": "pic.twitter.com/UCfeXlptcD",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1356168672063066113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2023,
+			"friends_count": 25,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 501,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1594485943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬릭 콘서트 &lt;SLEEQ SHOW&gt; 연기 안내\n#슬릭 #슬릭쇼 #연기 #공연 #콘서트 #구름아래소극장 https://t.co/UCfeXlptcD"
+	},
+	{
+		"created_at": "Mon Feb 01 09:29:40 +0000 2021",
+		"id": 1356167114978066400,
+		"id_str": "1356172858586755073",
+		"full_text": "Runner - Raiden, 백현 (BAEKHYUN), 창모 (CHANGMO), T1\n\n🎧Melon: https://t.co/p3CqC4tqTi\n🎧FLO: https://t.co/zTVPQuQfer\n🎧genie: https://t.co/c9tBpxUSz0\n🎧NAVER VIBE: https://t.co/mwuClrUJmO\n\n#Runner #Raiden #BAEKHYUN #CHANGMO #T1WIN\n@raidenmusic @B_hundred_Hyun @weareoneEXO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Runner",
+					"indices": [
+						182,
+						189
+					]
+				},
+				{
+					"text": "Raiden",
+					"indices": [
+						190,
+						197
+					]
+				},
+				{
+					"text": "BAEKHYUN",
+					"indices": [
+						198,
+						207
+					]
+				},
+				{
+					"text": "CHANGMO",
+					"indices": [
+						208,
+						216
+					]
+				},
+				{
+					"text": "T1WIN",
+					"indices": [
+						217,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "raidenmusic",
+					"name": "Raiden",
+					"id": 2810956860,
+					"id_str": "2810956860",
+					"indices": [
+						224,
+						236
+					]
+				},
+				{
+					"screen_name": "B_hundred_Hyun",
+					"name": "Baekhyun_EXO",
+					"id": 1000214682530074600,
+					"id_str": "1000214682530074624",
+					"indices": [
+						237,
+						252
+					]
+				},
+				{
+					"screen_name": "weareoneEXO",
+					"name": "EXO",
+					"id": 873115441303924700,
+					"id_str": "873115441303924736",
+					"indices": [
+						253,
+						265
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/p3CqC4tqTi",
+					"expanded_url": "https://www.melon.com/album/detail.htm?albumId=10556945",
+					"display_url": "melon.com/album/detail.h…",
+					"indices": [
+						58,
+						81
+					]
+				},
+				{
+					"url": "https://t.co/zTVPQuQfer",
+					"expanded_url": "http://flomuz.io/s/a.BCBpi",
+					"display_url": "flomuz.io/s/a.BCBpi",
+					"indices": [
+						88,
+						111
+					]
+				},
+				{
+					"url": "https://t.co/c9tBpxUSz0",
+					"expanded_url": "https://www.genie.co.kr/detail/albumInfo?axnm=81876218",
+					"display_url": "genie.co.kr/detail/albumIn…",
+					"indices": [
+						120,
+						143
+					]
+				},
+				{
+					"url": "https://t.co/mwuClrUJmO",
+					"expanded_url": "https://vibe.naver.com/album/5216664",
+					"display_url": "vibe.naver.com/album/5216664",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9065075,
+			"friends_count": 53,
+			"listed_count": 8939,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9501,
+		"favorite_count": 17419,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Runner - Raiden, 백현 (BAEKHYUN), 창모 (CHANGMO), T1\n\n🎧Melon: https://t.co/p3CqC4tqTi\n🎧FLO: https://t.co/zTVPQuQfer\n🎧genie: https://t.co/c9tBpxUSz0\n🎧NAVER VIBE: https://t.co/mwuClrUJmO\n\n#Runner #Raiden #BAEKHYUN #CHANGMO #T1WIN\n@raidenmusic @B_hundred_Hyun @weareoneEXO"
+	},
+	{
+		"created_at": "Mon Feb 01 09:29:37 +0000 2021",
+		"id": 1356166674454483000,
+		"id_str": "1356172845466968065",
+		"full_text": "개코, 권진아 - '마음이 그래'\n2021. 02. 04. 6PM Release!\n\n#권진아 #KwonJinAh \n#개코 #Gaeko #마음이그래\n \n#개작실 #Gaejaksil #210204_6pm https://t.co/IUWnVYDDkX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권진아",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						52,
+						62
+					]
+				},
+				{
+					"text": "개코",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "Gaeko",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "마음이그래",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "개작실",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "Gaejaksil",
+					"indices": [
+						89,
+						99
+					]
+				},
+				{
+					"text": "210204_6pm",
+					"indices": [
+						100,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1356166667231842300,
+					"id_str": "1356166667231842304",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EtISZgiUUAAZdpZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtISZgiUUAAZdpZ.jpg",
+					"url": "https://t.co/IUWnVYDDkX",
+					"display_url": "pic.twitter.com/IUWnVYDDkX",
+					"expanded_url": "https://twitter.com/antennamusic/status/1356166674454482952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1356166667231842300,
+					"id_str": "1356166667231842304",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EtISZgiUUAAZdpZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtISZgiUUAAZdpZ.jpg",
+					"url": "https://t.co/IUWnVYDDkX",
+					"display_url": "pic.twitter.com/IUWnVYDDkX",
+					"expanded_url": "https://twitter.com/antennamusic/status/1356166674454482952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official / 2020 안테나 크리스마스 캐럴 ‘겨울의 우리들’ Release!",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35422,
+			"friends_count": 10,
+			"listed_count": 360,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1608569605",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "개코, 권진아 - '마음이 그래'\n2021. 02. 04. 6PM Release!\n\n#권진아 #KwonJinAh \n#개코 #Gaeko #마음이그래\n \n#개작실 #Gaejaksil #210204_6pm https://t.co/IUWnVYDDkX"
+	},
+	{
+		"created_at": "Mon Feb 01 09:29:29 +0000 2021",
+		"id": 1356166398314070000,
+		"id_str": "1356172811111456769",
+		"full_text": "T1 X Raiden, BAEKHYUN, CHANGMO 'Runner' 러너 MV \n\n🎬 https://t.co/4U6BoSlWWn \n\n#Runner #Raiden #BAEKHYUN #CHANGMO #T1WIN\n@raidenmusic @B_hundred_Hyun @weareoneEXO @T1LoL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Runner",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"text": "Raiden",
+					"indices": [
+						84,
+						91
+					]
+				},
+				{
+					"text": "BAEKHYUN",
+					"indices": [
+						92,
+						101
+					]
+				},
+				{
+					"text": "CHANGMO",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"text": "T1WIN",
+					"indices": [
+						111,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "raidenmusic",
+					"name": "Raiden",
+					"id": 2810956860,
+					"id_str": "2810956860",
+					"indices": [
+						118,
+						130
+					]
+				},
+				{
+					"screen_name": "B_hundred_Hyun",
+					"name": "Baekhyun_EXO",
+					"id": 1000214682530074600,
+					"id_str": "1000214682530074624",
+					"indices": [
+						131,
+						146
+					]
+				},
+				{
+					"screen_name": "weareoneEXO",
+					"name": "EXO",
+					"id": 873115441303924700,
+					"id_str": "873115441303924736",
+					"indices": [
+						147,
+						159
+					]
+				},
+				{
+					"screen_name": "T1LoL",
+					"name": "T1 LoL",
+					"id": 288074896,
+					"id_str": "288074896",
+					"indices": [
+						160,
+						166
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4U6BoSlWWn",
+					"expanded_url": "https://youtu.be/KXnoYHCMjMI",
+					"display_url": "youtu.be/KXnoYHCMjMI",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9065075,
+			"friends_count": 53,
+			"listed_count": 8939,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9984,
+		"favorite_count": 17159,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "T1 X Raiden, BAEKHYUN, CHANGMO 'Runner' 러너 MV \n\n🎬 https://t.co/4U6BoSlWWn \n\n#Runner #Raiden #BAEKHYUN #CHANGMO #T1WIN\n@raidenmusic @B_hundred_Hyun @weareoneEXO @T1LoL"
+	},
+	{
 		"created_at": "Mon Feb 01 08:29:25 +0000 2021",
 		"id": 1356150587033743400,
 		"id_str": "1356157693845778433",
