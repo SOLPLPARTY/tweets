@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 02 06:29:59 +0000 2021",
+		"id": 1356482482842067000,
+		"id_str": "1356490028533362688",
+		"full_text": "[#정태우] 연극 '스페셜 라이어' 캐스팅✔ \n\n첫 거짓말의 발화점인 주인공 존 스미스 역을 맡아 유쾌한 매력을 선보일 예정👊🏻\n\n2월 26일 삼성동 백암아트홀 개막🔜\n\n#연극 #스페셜라이어 #존스미스 https://t.co/77DJLyLaeH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정태우",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "연극",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "스페셜라이어",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "존스미스",
+					"indices": [
+						107,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1356176322389704700,
+					"id_str": "1356176322389704704",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EtIbLgzVgAA_aQC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtIbLgzVgAA_aQC.jpg",
+					"url": "https://t.co/77DJLyLaeH",
+					"display_url": "pic.twitter.com/77DJLyLaeH",
+					"expanded_url": "https://twitter.com/themysticstory/status/1356482482842066944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1356176322389704700,
+					"id_str": "1356176322389704704",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EtIbLgzVgAA_aQC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtIbLgzVgAA_aQC.jpg",
+					"url": "https://t.co/77DJLyLaeH",
+					"display_url": "pic.twitter.com/77DJLyLaeH",
+					"expanded_url": "https://twitter.com/themysticstory/status/1356482482842066944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20322,
+			"friends_count": 18,
+			"listed_count": 240,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#정태우] 연극 '스페셜 라이어' 캐스팅✔ \n\n첫 거짓말의 발화점인 주인공 존 스미스 역을 맡아 유쾌한 매력을 선보일 예정👊🏻\n\n2월 26일 삼성동 백암아트홀 개막🔜\n\n#연극 #스페셜라이어 #존스미스 https://t.co/77DJLyLaeH"
+	},
+	{
+		"created_at": "Tue Feb 02 06:29:52 +0000 2021",
+		"id": 1356478308079206400,
+		"id_str": "1356489998615400449",
+		"full_text": "네가 떠난 자리를 채우는 게 힘들어😢💔\n#그리프 💫𝑩𝒍𝒂𝒄𝒌 𝑯𝒐𝒍𝒆💫 #자막뮤비\n🎬풀영상 https://t.co/qRqWvxR0y0 https://t.co/NQe1wRE0tm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "그리프",
+					"indices": [
+						22,
+						26
+					]
+				},
+				{
+					"text": "자막뮤비",
+					"indices": [
+						40,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qRqWvxR0y0",
+					"expanded_url": "https://youtu.be/ZPce6KK9SoQ",
+					"display_url": "youtu.be/ZPce6KK9SoQ",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1356478028092559400,
+					"id_str": "1356478028092559361",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1356478028092559361/pu/img/FKx_sUYpWwhmomHn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1356478028092559361/pu/img/FKx_sUYpWwhmomHn.jpg",
+					"url": "https://t.co/NQe1wRE0tm",
+					"display_url": "pic.twitter.com/NQe1wRE0tm",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1356478308079206401/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1356478028092559400,
+					"id_str": "1356478028092559361",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1356478028092559361/pu/img/FKx_sUYpWwhmomHn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1356478028092559361/pu/img/FKx_sUYpWwhmomHn.jpg",
+					"url": "https://t.co/NQe1wRE0tm",
+					"display_url": "pic.twitter.com/NQe1wRE0tm",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1356478308079206401/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 51301,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1356478028092559361/pu/pl/us0fvdo78_ogk1y9.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1356478028092559361/pu/vid/320x320/tWQbTnjSNvKt9D6l.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1356478028092559361/pu/vid/480x480/9COkw0dI3Pwa4FsJ.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1356478028092559361/pu/vid/720x720/6uTEImsclMQwrifL.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10463,
+			"friends_count": 495,
+			"listed_count": 122,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1589339161",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "네가 떠난 자리를 채우는 게 힘들어😢💔\n#그리프 💫𝑩𝒍𝒂𝒄𝒌 𝑯𝒐𝒍𝒆💫 #자막뮤비\n🎬풀영상 https://t.co/qRqWvxR0y0 https://t.co/NQe1wRE0tm"
+	},
+	{
 		"created_at": "Tue Feb 02 05:29:24 +0000 2021",
 		"id": 1356463711708344300,
 		"id_str": "1356474782942965760",
