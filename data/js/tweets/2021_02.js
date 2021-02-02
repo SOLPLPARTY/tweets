@@ -1,6 +1,522 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 02 09:29:50 +0000 2021",
+		"id": 1356530733620154400,
+		"id_str": "1356535288735145989",
+		"full_text": "🎧 데이브레이크 - 말이 안 되잖아 (feat. 헤이즈)\nmelon https://t.co/6TZKHta7cN\ngenie https://t.co/dvYc9G8Wls\nflo https://t.co/Ock0iOcKOD\nbugs https://t.co/HovufEFsWi\nvibe https://t.co/4cs0QvanHd https://t.co/38wUGLvRSN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6TZKHta7cN",
+					"expanded_url": "http://bit.ly/3oEy0Br",
+					"display_url": "bit.ly/3oEy0Br",
+					"indices": [
+						38,
+						61
+					]
+				},
+				{
+					"url": "https://t.co/dvYc9G8Wls",
+					"expanded_url": "http://bit.ly/3cKEgW7",
+					"display_url": "bit.ly/3cKEgW7",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/Ock0iOcKOD",
+					"expanded_url": "http://bit.ly/3pGzn3Q",
+					"display_url": "bit.ly/3pGzn3Q",
+					"indices": [
+						96,
+						119
+					]
+				},
+				{
+					"url": "https://t.co/HovufEFsWi",
+					"expanded_url": "http://bit.ly/3rduqzJ",
+					"display_url": "bit.ly/3rduqzJ",
+					"indices": [
+						125,
+						148
+					]
+				},
+				{
+					"url": "https://t.co/4cs0QvanHd",
+					"expanded_url": "http://bit.ly/3auiO4V",
+					"display_url": "bit.ly/3auiO4V",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1356530625096769500,
+					"id_str": "1356530625096769536",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EtNdapPU4AAyckl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtNdapPU4AAyckl.jpg",
+					"url": "https://t.co/38wUGLvRSN",
+					"display_url": "pic.twitter.com/38wUGLvRSN",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1356530733620154368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1356530625096769500,
+					"id_str": "1356530625096769536",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EtNdapPU4AAyckl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtNdapPU4AAyckl.jpg",
+					"url": "https://t.co/38wUGLvRSN",
+					"display_url": "pic.twitter.com/38wUGLvRSN",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1356530733620154368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1356529188455424000,
+		"in_reply_to_status_id_str": "1356529188455424002",
+		"in_reply_to_user_id": 63414926,
+		"in_reply_to_user_id_str": "63414926",
+		"in_reply_to_screen_name": "HappyRobotKR",
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), LambC(램씨), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13063,
+			"friends_count": 1949,
+			"listed_count": 254,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13236,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎧 데이브레이크 - 말이 안 되잖아 (feat. 헤이즈)\nmelon https://t.co/6TZKHta7cN\ngenie https://t.co/dvYc9G8Wls\nflo https://t.co/Ock0iOcKOD\nbugs https://t.co/HovufEFsWi\nvibe https://t.co/4cs0QvanHd https://t.co/38wUGLvRSN"
+	},
+	{
+		"created_at": "Tue Feb 02 09:29:42 +0000 2021",
+		"id": 1356529188455424000,
+		"id_str": "1356535254702559232",
+		"full_text": "[발매]\n데이브레이크 - 말이 안 되잖아 (feat. 헤이즈)\n지금 모든 음원사이트에서 감상하실 수 있습니다 ♪\nhttps://t.co/LfnS7zzp8t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LfnS7zzp8t",
+					"expanded_url": "https://youtu.be/9ESXudlIQD8",
+					"display_url": "youtu.be/9ESXudlIQD8",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), LambC(램씨), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13063,
+			"friends_count": 1949,
+			"listed_count": 254,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13236,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[발매]\n데이브레이크 - 말이 안 되잖아 (feat. 헤이즈)\n지금 모든 음원사이트에서 감상하실 수 있습니다 ♪\nhttps://t.co/LfnS7zzp8t"
+	},
+	{
+		"created_at": "Tue Feb 02 09:29:35 +0000 2021",
+		"id": 1356528951548514300,
+		"id_str": "1356535224834924544",
+		"full_text": "✓ 본 공연은 거리두기 좌석제가 적용된, 전석 비지정 좌석 공연입니다. 코로나19 관련 유의사항은 예매페이지를 참고해주세요.\n\n✓ 공연 당일 현장 선착순 입장하며 예매 시 선택하는 번호는 좌석과 무관합니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1356528949883326500,
+		"in_reply_to_status_id_str": "1356528949883326464",
+		"in_reply_to_user_id": 263751129,
+		"in_reply_to_user_id_str": "263751129",
+		"in_reply_to_screen_name": "msbsound",
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드🍓\nMagicstrawberry Sound. Music label based in Korea.",
+			"url": "https://t.co/hG14tT4CA9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hG14tT4CA9",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8446,
+			"friends_count": 19,
+			"listed_count": 98,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5840,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1597394894",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "✓ 본 공연은 거리두기 좌석제가 적용된, 전석 비지정 좌석 공연입니다. 코로나19 관련 유의사항은 예매페이지를 참고해주세요.\n\n✓ 공연 당일 현장 선착순 입장하며 예매 시 선택하는 번호는 좌석과 무관합니다."
+	},
+	{
+		"created_at": "Tue Feb 02 09:29:28 +0000 2021",
+		"id": 1356528949883326500,
+		"id_str": "1356535194963103745",
+		"full_text": "우리가 흘려보낸 사소한 가치, 불현듯 끼쳐오는 찰나의 순간을 하나의 장면처럼 그려놓은 요조의 노래. 이 작은 노래들을 차곡히 쌓아 만든 요조의 이야기를 들려드립니다.\n\n소규모로 진행되는 이번 공연에서는 최근 발매된 '모과나무', 그리고 또 하나의 미발표 신곡까지 만나볼 수 있을 예정입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1356528821130981400,
+		"in_reply_to_status_id_str": "1356528821130981376",
+		"in_reply_to_user_id": 263751129,
+		"in_reply_to_user_id_str": "263751129",
+		"in_reply_to_screen_name": "msbsound",
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드🍓\nMagicstrawberry Sound. Music label based in Korea.",
+			"url": "https://t.co/hG14tT4CA9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hG14tT4CA9",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8446,
+			"friends_count": 19,
+			"listed_count": 98,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5840,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1597394894",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "우리가 흘려보낸 사소한 가치, 불현듯 끼쳐오는 찰나의 순간을 하나의 장면처럼 그려놓은 요조의 노래. 이 작은 노래들을 차곡히 쌓아 만든 요조의 이야기를 들려드립니다.\n\n소규모로 진행되는 이번 공연에서는 최근 발매된 '모과나무', 그리고 또 하나의 미발표 신곡까지 만나볼 수 있을 예정입니다."
+	},
+	{
 		"created_at": "Tue Feb 02 08:29:29 +0000 2021",
 		"id": 1356512678819188700,
 		"id_str": "1356520099658752001",
