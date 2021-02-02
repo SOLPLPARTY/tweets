@@ -1,10 +1,367 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 02 03:13:54 +0000 2021",
+		"id": 1356440682496467000,
+		"id_str": "1356440682496466944",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n가호 (Gaho) - Home [Teaser]\nhttps://t.co/cbpzObExOQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cbpzObExOQ",
+					"expanded_url": "https://youtu.be/Mp07R5gyH9M",
+					"display_url": "youtu.be/Mp07R5gyH9M",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 440,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 67911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n가호 (Gaho) - Home [Teaser]\nhttps://t.co/cbpzObExOQ"
+	},
+	{
+		"created_at": "Tue Feb 02 03:11:17 +0000 2021",
+		"id": 1356437185763954700,
+		"id_str": "1356440022149455878",
+		"full_text": "&lt;롤링 26주년 기념 공연 : 웨이브투어스 단독 콘서트&gt;\n\n· 일시 : 2021년 02월 26일 (금) 오후 8시, 2021년 02월 27일 (토) 오후 5시 \n· 장소 : 롤링홀 \n· 출연 : wave to earth\n· 예매 : 멜론티켓 2021년 02월 08일 (월) 오후 8시 예매오픈\n\nDesign by @studio.himp\n\n#웨이브투어스 #롤링홀 #멜론티켓 https://t.co/vXXM019dSk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웨이브투어스",
+					"indices": [
+						195,
+						202
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						203,
+						207
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						208,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "studio",
+					"name": "STUDIO",
+					"id": 7905042,
+					"id_str": "7905042",
+					"indices": [
+						181,
+						188
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1356145370170966000,
+					"id_str": "1356145370170966019",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EtH_B2zUwAMdll_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtH_B2zUwAMdll_.jpg",
+					"url": "https://t.co/vXXM019dSk",
+					"display_url": "pic.twitter.com/vXXM019dSk",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1356437185763954690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1356145370170966000,
+					"id_str": "1356145370170966019",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EtH_B2zUwAMdll_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtH_B2zUwAMdll_.jpg",
+					"url": "https://t.co/vXXM019dSk",
+					"display_url": "pic.twitter.com/vXXM019dSk",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1356437185763954690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/TADR20wMLG",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TADR20wMLG",
+							"expanded_url": "https://bit.ly/2ManUuA",
+							"display_url": "bit.ly/2ManUuA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 123,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;롤링 26주년 기념 공연 : 웨이브투어스 단독 콘서트&gt;\n\n· 일시 : 2021년 02월 26일 (금) 오후 8시, 2021년 02월 27일 (토) 오후 5시 \n· 장소 : 롤링홀 \n· 출연 : wave to earth\n· 예매 : 멜론티켓 2021년 02월 08일 (월) 오후 8시 예매오픈\n\nDesign by @studio.himp\n\n#웨이브투어스 #롤링홀 #멜론티켓 https://t.co/vXXM019dSk"
+	},
+	{
 		"created_at": "Tue Feb 02 01:38:37 +0000 2021",
 		"id": 1356416704394494000,
 		"id_str": "1356416704394493954",
-		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n제주도 드라이브 땡기는 노래👩‍❤️‍👩 | 제레미 주커, 첼시 커틀러 - this is how you fall in love (한/영 가사)\nhttps://t.co/Vc7ULTFTb9",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n제주도 드라이브 땡기는 노래👩❤️👩 | 제레미 주커, 첼시 커틀러 - this is how you fall in love (한/영 가사)\nhttps://t.co/Vc7ULTFTb9",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -138,7 +495,7 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n제주도 드라이브 땡기는 노래👩‍❤️‍👩 | 제레미 주커, 첼시 커틀러 - this is how you fall in love (한/영 가사)\nhttps://t.co/Vc7ULTFTb9"
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n제주도 드라이브 땡기는 노래👩❤️👩 | 제레미 주커, 첼시 커틀러 - this is how you fall in love (한/영 가사)\nhttps://t.co/Vc7ULTFTb9"
 	},
 	{
 		"created_at": "Tue Feb 02 00:29:25 +0000 2021",
