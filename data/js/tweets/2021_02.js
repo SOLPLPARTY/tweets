@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 03 12:29:25 +0000 2021",
+		"id": 1356940020595085300,
+		"id_str": "1356942867705561089",
+		"full_text": "#모모랜드 X #크로망스\n'Wrap Me In Plastic' 싱글 커버💕\n2월 5일 (금) 18시 전세계 동시 공개!\n\n'Wrap Me In Plastic' Single Artwork\n'#MOMOLAND &amp; #CHROMANE - Wrap Me In Plastic' will be released at Feb 5th 6PM KST (4AM EST) with official MV!\n\n #WrapMeInPlastic #WrapMeInMomoland https://t.co/T2mOhZ56i9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "모모랜드",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "크로망스",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "MOMOLAND",
+					"indices": [
+						105,
+						114
+					]
+				},
+				{
+					"text": "CHROMANE",
+					"indices": [
+						121,
+						130
+					]
+				},
+				{
+					"text": "WrapMeInPlastic",
+					"indices": [
+						219,
+						235
+					]
+				},
+				{
+					"text": "WrapMeInMomoland",
+					"indices": [
+						236,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1356940000303014000,
+					"id_str": "1356940000303013890",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/EtTRvauUYAI9nmX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtTRvauUYAI9nmX.jpg",
+					"url": "https://t.co/T2mOhZ56i9",
+					"display_url": "pic.twitter.com/T2mOhZ56i9",
+					"expanded_url": "https://twitter.com/SonyMusicKr_POP/status/1356940020595085314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1356940000303014000,
+					"id_str": "1356940000303013890",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/EtTRvauUYAI9nmX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtTRvauUYAI9nmX.jpg",
+					"url": "https://t.co/T2mOhZ56i9",
+					"display_url": "pic.twitter.com/T2mOhZ56i9",
+					"expanded_url": "https://twitter.com/SonyMusicKr_POP/status/1356940020595085314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135092865,
+			"id_str": "135092865",
+			"name": "소니뮤직코리아",
+			"screen_name": "SonyMusicKr_POP",
+			"location": "Seoul, South Korea",
+			"description": "소니뮤직의 해외 아티스트들 소식을 전하는 소니뮤직 코리아 공식 트위터 계정입니다!",
+			"url": "https://t.co/THW5lXj534",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/THW5lXj534",
+							"expanded_url": "http://twitaddons.com/SonyMusicKr_POP",
+							"display_url": "twitaddons.com/SonyMusicKr_POP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14053,
+			"friends_count": 268,
+			"listed_count": 358,
+			"created_at": "Tue Apr 20 09:25:56 +0000 2010",
+			"favourites_count": 830,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9085,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905682101868969984/Ay26Smyy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905682101868969984/Ay26Smyy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135092865/1606978941",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "3D3D42",
+			"profile_sidebar_fill_color": "7EBDE6",
+			"profile_text_color": "0A000A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#모모랜드 X #크로망스\n'Wrap Me In Plastic' 싱글 커버💕\n2월 5일 (금) 18시 전세계 동시 공개!\n\n'Wrap Me In Plastic' Single Artwork\n'#MOMOLAND &amp; #CHROMANE - Wrap Me In Plastic' will be released at Feb 5th 6PM KST (4AM EST) with official MV!\n\n #WrapMeInPlastic #WrapMeInMomoland https://t.co/T2mOhZ56i9"
+	},
+	{
 		"created_at": "Wed Feb 03 12:15:26 +0000 2021",
 		"id": 1356939351486312400,
 		"id_str": "1356939351486312452",
@@ -144,7 +361,7 @@ Grailbird.data.tweets_2021_02 =
 		"created_at": "Wed Feb 03 11:29:30 +0000 2021",
 		"id": 1356921405942747100,
 		"id_str": "1356927789350412295",
-		"full_text": "#루비살롱 #인천여관 ☕\n\n길고 긴 코로나 휴업을 지나\n드디어 정상 영업합니다. \n마음껏 놀러 오세요 🙇🏻‍♂️ @인천여관x루비살롱 https://t.co/Jd4YN8yZZ2",
+		"full_text": "#루비살롱 #인천여관 ☕\n\n길고 긴 코로나 휴업을 지나\n드디어 정상 영업합니다. \n마음껏 놀러 오세요 🙇🏻♂️ @인천여관x루비살롱 https://t.co/Jd4YN8yZZ2",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -314,7 +531,7 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#루비살롱 #인천여관 ☕\n\n길고 긴 코로나 휴업을 지나\n드디어 정상 영업합니다. \n마음껏 놀러 오세요 🙇🏻‍♂️ @인천여관x루비살롱 https://t.co/Jd4YN8yZZ2"
+		"text": "#루비살롱 #인천여관 ☕\n\n길고 긴 코로나 휴업을 지나\n드디어 정상 영업합니다. \n마음껏 놀러 오세요 🙇🏻♂️ @인천여관x루비살롱 https://t.co/Jd4YN8yZZ2"
 	},
 	{
 		"created_at": "Wed Feb 03 11:11:40 +0000 2021",
