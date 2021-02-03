@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 03 09:29:25 +0000 2021",
+		"id": 1356893491872231400,
+		"id_str": "1356897569411112963",
+		"full_text": "[Live Clip Teaser]\n\n개코, 권진아 - '마음이 그래'\n2021. 02. 04. 6PM Release!\n\n#권진아 #KwonJinAh #개코 #Gaeko \n#마음이그래 #개작실 #Gaejaksil https://t.co/ssfu0iSr4p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권진아",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						72,
+						82
+					]
+				},
+				{
+					"text": "개코",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "Gaeko",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "마음이그래",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "개작실",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "Gaejaksil",
+					"indices": [
+						107,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1356893446536011800,
+					"id_str": "1356893446536011776",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1356893446536011776/pu/img/Ucp0IfvcOnDIbjAs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1356893446536011776/pu/img/Ucp0IfvcOnDIbjAs.jpg",
+					"url": "https://t.co/ssfu0iSr4p",
+					"display_url": "pic.twitter.com/ssfu0iSr4p",
+					"expanded_url": "https://twitter.com/antennamusic/status/1356893491872231425/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1356893446536011800,
+					"id_str": "1356893446536011776",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1356893446536011776/pu/img/Ucp0IfvcOnDIbjAs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1356893446536011776/pu/img/Ucp0IfvcOnDIbjAs.jpg",
+					"url": "https://t.co/ssfu0iSr4p",
+					"display_url": "pic.twitter.com/ssfu0iSr4p",
+					"expanded_url": "https://twitter.com/antennamusic/status/1356893491872231425/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 20600,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1356893446536011776/pu/vid/640x360/0KdLtlGK3704QaPM.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1356893446536011776/pu/vid/480x270/qkYbx3zA2IAQI4J5.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1356893446536011776/pu/vid/1280x720/1C3uR9yvE4eeAo-1.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1356893446536011776/pu/pl/Zp76cbYGZRSN6Zhk.m3u8?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official / 2020 안테나 크리스마스 캐럴 ‘겨울의 우리들’ Release!",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35420,
+			"friends_count": 10,
+			"listed_count": 359,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3422,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1608569605",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Live Clip Teaser]\n\n개코, 권진아 - '마음이 그래'\n2021. 02. 04. 6PM Release!\n\n#권진아 #KwonJinAh #개코 #Gaeko \n#마음이그래 #개작실 #Gaejaksil https://t.co/ssfu0iSr4p"
+	},
+	{
 		"created_at": "Wed Feb 03 09:09:32 +0000 2021",
 		"id": 1356892565740679200,
 		"id_str": "1356892565740679168",
