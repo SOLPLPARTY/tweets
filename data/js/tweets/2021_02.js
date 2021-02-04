@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 04 15:29:27 +0000 2021",
+		"id": 1357343394587046000,
+		"id_str": "1357350563638255617",
+		"full_text": "[#LUCY] 3rd Single 'INSIDE' TRACK LIST\n\n2021.02.16.6PM(KST) https://t.co/srVNJvBtWj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LUCY",
+					"indices": [
+						1,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/srVNJvBtWj",
+					"expanded_url": "https://twitter.com/BANDLUCY_mystic/status/1357343158464638976",
+					"display_url": "twitter.com/BANDLUCY_mysti…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20354,
+			"friends_count": 18,
+			"listed_count": 239,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1357343158464639000,
+		"quoted_status_id_str": "1357343158464638976",
+		"quoted_status_permalink": {
+			"url": "https://t.co/srVNJvBtWj",
+			"expanded": "https://twitter.com/BANDLUCY_mystic/status/1357343158464638976",
+			"display": "twitter.com/BANDLUCY_mysti…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 04 15:00:01 +0000 2021",
+			"id": 1357343158464639000,
+			"id_str": "1357343158464638976",
+			"full_text": "[#LUCY] 3rd Single 'INSIDE'\nTRACK LIST\n\n1. 히어로 (Title*)\n2. 난로\n3. OUTRO (뒤 돌아보면) \n\n2021.02.16.6PM(KST)\n\n#루시 #INSIDE #신예찬 #최상엽 #조원상 #신광일 #히어로 #난로 https://t.co/pGF3EIdIvi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				143
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LUCY",
+						"indices": [
+							1,
+							6
+						]
+					},
+					{
+						"text": "루시",
+						"indices": [
+							103,
+							106
+						]
+					},
+					{
+						"text": "INSIDE",
+						"indices": [
+							107,
+							114
+						]
+					},
+					{
+						"text": "신예찬",
+						"indices": [
+							115,
+							119
+						]
+					},
+					{
+						"text": "최상엽",
+						"indices": [
+							120,
+							124
+						]
+					},
+					{
+						"text": "조원상",
+						"indices": [
+							125,
+							129
+						]
+					},
+					{
+						"text": "신광일",
+						"indices": [
+							130,
+							134
+						]
+					},
+					{
+						"text": "히어로",
+						"indices": [
+							135,
+							139
+						]
+					},
+					{
+						"text": "난로",
+						"indices": [
+							140,
+							143
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1357206796700557300,
+						"id_str": "1357206796700557312",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/media/EtXEZAwVIAAhYly.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EtXEZAwVIAAhYly.jpg",
+						"url": "https://t.co/pGF3EIdIvi",
+						"display_url": "pic.twitter.com/pGF3EIdIvi",
+						"expanded_url": "https://twitter.com/BANDLUCY_mystic/status/1357343158464638976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1357206796700557300,
+						"id_str": "1357206796700557312",
+						"indices": [
+							144,
+							167
+						],
+						"media_url": "http://pbs.twimg.com/media/EtXEZAwVIAAhYly.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EtXEZAwVIAAhYly.jpg",
+						"url": "https://t.co/pGF3EIdIvi",
+						"display_url": "pic.twitter.com/pGF3EIdIvi",
+						"expanded_url": "https://twitter.com/BANDLUCY_mystic/status/1357343158464638976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1248459032320327700,
+				"id_str": "1248459032320327683",
+				"name": "BAND LUCY | 밴드 루시",
+				"screen_name": "BANDLUCY_mystic",
+				"location": "대한민국",
+				"description": "BAND LUCY official twitter\n🔗 https://t.co/Bl5TdRkgPc",
+				"url": "https://t.co/t8x7Xa9LIn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/t8x7Xa9LIn",
+								"expanded_url": "http://youtube.com/lucyisland",
+								"display_url": "youtube.com/lucyisland",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Bl5TdRkgPc",
+								"expanded_url": "http://cafe.daum.net/band.lucy",
+								"display_url": "cafe.daum.net/band.lucy",
+								"indices": [
+									29,
+									52
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 24107,
+				"friends_count": 3,
+				"listed_count": 314,
+				"created_at": "Fri Apr 10 03:53:29 +0000 2020",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 528,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1275466304485351424/4OFLb7ax_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275466304485351424/4OFLb7ax_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1248459032320327683/1604483546",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1044,
+			"favorite_count": 1793,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 5,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#LUCY] 3rd Single 'INSIDE' TRACK LIST\n\n2021.02.16.6PM(KST) https://t.co/srVNJvBtWj"
+	},
+	{
 		"created_at": "Thu Feb 04 14:29:25 +0000 2021",
 		"id": 1357324070694441000,
 		"id_str": "1357335455021359104",
