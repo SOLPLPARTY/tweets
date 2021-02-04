@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 04 10:29:25 +0000 2021",
+		"id": 1357267692206518300,
+		"id_str": "1357275056200638466",
+		"full_text": "[유튜브]\nMPMG에 혜성처럼 나타난 뉴 아티스트 🔥 \n구만(9.10000), Lacuna(라쿠나), 제이유나(J.UNA)!\n어떤 캐릭터인지 알아보기 위해 32문답을 던져봤다 📝\n영상으로 보기 🔗 https://t.co/OHLU0M7Qwi https://t.co/yjkUe6eFmM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OHLU0M7Qwi",
+					"expanded_url": "http://youtu.be/uVSdPqlA0t4",
+					"display_url": "youtu.be/uVSdPqlA0t4",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1357267554918559700,
+					"id_str": "1357267554918559749",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1357267554918559749/pu/img/tSY0w2LXiNYcanjd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1357267554918559749/pu/img/tSY0w2LXiNYcanjd.jpg",
+					"url": "https://t.co/yjkUe6eFmM",
+					"display_url": "pic.twitter.com/yjkUe6eFmM",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1357267692206518276/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357267554918559700,
+					"id_str": "1357267554918559749",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1357267554918559749/pu/img/tSY0w2LXiNYcanjd.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1357267554918559749/pu/img/tSY0w2LXiNYcanjd.jpg",
+					"url": "https://t.co/yjkUe6eFmM",
+					"display_url": "pic.twitter.com/yjkUe6eFmM",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1357267692206518276/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 29463,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1357267554918559749/pu/vid/720x720/ZARXG1pPSihtN7bX.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1357267554918559749/pu/pl/3k-d6ma0Qne36WUB.m3u8?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1357267554918559749/pu/vid/320x320/GDB-dGaBAswkfNm3.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1357267554918559749/pu/vid/540x540/NUl9WwiCGkgJeJQs.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), LambC(램씨), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13063,
+			"friends_count": 1948,
+			"listed_count": 0,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유튜브]\nMPMG에 혜성처럼 나타난 뉴 아티스트 🔥 \n구만(9.10000), Lacuna(라쿠나), 제이유나(J.UNA)!\n어떤 캐릭터인지 알아보기 위해 32문답을 던져봤다 📝\n영상으로 보기 🔗 https://t.co/OHLU0M7Qwi https://t.co/yjkUe6eFmM"
+	},
+	{
 		"created_at": "Thu Feb 04 09:29:25 +0000 2021",
 		"id": 1357255259479965700,
 		"id_str": "1357259957247311872",
