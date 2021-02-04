@@ -1,6 +1,162 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 04 06:29:34 +0000 2021",
+		"id": 1357207689231704000,
+		"id_str": "1357214697896951809",
+		"full_text": "[전기뱀장어] 싱글 &lt;탠저린&gt; 발매기념 지니 매거진 스페셜 👉\n\n링크 https://t.co/gdULTqaoBd\n\n#전기뱀장어 #지니뮤직 #지니매거진 #싱글 #탠저린 #발매기념 #스페셜",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전기뱀장어",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "지니뮤직",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "지니매거진",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "싱글",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "탠저린",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "발매기념",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "스페셜",
+					"indices": [
+						105,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gdULTqaoBd",
+					"expanded_url": "http://bit.ly/3avRYsZ",
+					"display_url": "bit.ly/3avRYsZ",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2024,
+			"friends_count": 25,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 503,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1594485943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[전기뱀장어] 싱글 &lt;탠저린&gt; 발매기념 지니 매거진 스페셜 👉\n\n링크 https://t.co/gdULTqaoBd\n\n#전기뱀장어 #지니뮤직 #지니매거진 #싱글 #탠저린 #발매기념 #스페셜"
+	},
+	{
 		"created_at": "Thu Feb 04 05:29:49 +0000 2021",
 		"id": 1357198048531685400,
 		"id_str": "1357199662898442243",
