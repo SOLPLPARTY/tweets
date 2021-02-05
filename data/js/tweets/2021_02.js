@@ -1,6 +1,818 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 05 03:48:37 +0000 2021",
+		"id": 1357536581230411800,
+		"id_str": "1357536581230411776",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n2월 5일 | 진저레코드, 뉴튼, 아리나, 유영재\nhttps://t.co/673sLUMMK3\n#블로그 #유통사 #인디음악 #인디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "유통사",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						93,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/673sLUMMK3",
+					"expanded_url": "https://bit.ly/39Rjsua",
+					"display_url": "bit.ly/39Rjsua",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 442,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n2월 5일 | 진저레코드, 뉴튼, 아리나, 유영재\nhttps://t.co/673sLUMMK3\n#블로그 #유통사 #인디음악 #인디"
+	},
+	{
+		"created_at": "Fri Feb 05 03:29:54 +0000 2021",
+		"id": 1357524597667635200,
+		"id_str": "1357531870125252609",
+		"full_text": "#진저레코드 [우리 . 아직 . 여기에]\n\n부산의 인디레이블 진저레코드가 소속 아티스트의 곡들을 결집한 컴필레이션 앨범 ‘우리・아직・여기에’를 발매한다. 지난 15년간 활동의 결산이자 전환점이 될 앨범으로 레이블의 색채만큼 다양한 음악과 라인업을 선보인다.\n\n✚ https://t.co/eB6YEeg9B1 https://t.co/LGvQl5322p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "진저레코드",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eB6YEeg9B1",
+					"expanded_url": "https://bit.ly/3azfa9B",
+					"display_url": "bit.ly/3azfa9B",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1357135566886690800,
+					"id_str": "1357135566886690817",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EtWDm5BUYAEG9KU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtWDm5BUYAEG9KU.jpg",
+					"url": "https://t.co/LGvQl5322p",
+					"display_url": "pic.twitter.com/LGvQl5322p",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1357524597667635204/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357135566886690800,
+					"id_str": "1357135566886690817",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EtWDm5BUYAEG9KU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtWDm5BUYAEG9KU.jpg",
+					"url": "https://t.co/LGvQl5322p",
+					"display_url": "pic.twitter.com/LGvQl5322p",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1357524597667635204/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9518,
+			"friends_count": 2855,
+			"listed_count": 244,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1612422443",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#진저레코드 [우리 . 아직 . 여기에]\n\n부산의 인디레이블 진저레코드가 소속 아티스트의 곡들을 결집한 컴필레이션 앨범 ‘우리・아직・여기에’를 발매한다. 지난 15년간 활동의 결산이자 전환점이 될 앨범으로 레이블의 색채만큼 다양한 음악과 라인업을 선보인다.\n\n✚ https://t.co/eB6YEeg9B1 https://t.co/LGvQl5322p"
+	},
+	{
+		"created_at": "Fri Feb 05 03:29:44 +0000 2021",
+		"id": 1357524241109815300,
+		"id_str": "1357531829771915267",
+		"full_text": "[🎧] Healing Soup in the Moon (Sound of Day &amp; Night)\n\n\" 상상의 세계 IMW에서 들리는 낮과 밤의 소리를 음악으로 옮겨놓았다. Aimy Moon이 메세지를 전달하기 위해 작곡, 편곡, 연주하였고 IMW 세계관에 등장하는 5萬River, ABY 등의 탄생에 대한 소리를 담았다. \" \n\n#AimyMoon #에이미문",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AimyMoon",
+					"indices": [
+						186,
+						195
+					]
+				},
+				{
+					"text": "에이미문",
+					"indices": [
+						196,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1357523977451708400,
+		"in_reply_to_status_id_str": "1357523977451708419",
+		"in_reply_to_user_id": 964372210436591600,
+		"in_reply_to_user_id_str": "964372210436591616",
+		"in_reply_to_screen_name": "aimbyenterarts",
+		"user": {
+			"id": 964372210436591600,
+			"id_str": "964372210436591616",
+			"name": "Enterarts - A.I.M",
+			"screen_name": "aimbyenterarts",
+			"location": "대한민국 서울",
+			"description": "The World's First AI Music Production Company & Record Label / Artist Agency\n세계 최초 인공지능 음반 제작 레이블",
+			"url": "https://t.co/4A9OjK1Yel",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4A9OjK1Yel",
+							"expanded_url": "http://www.enterarts.net",
+							"display_url": "enterarts.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 10,
+			"listed_count": 3,
+			"created_at": "Fri Feb 16 05:33:46 +0000 2018",
+			"favourites_count": 1206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/964372210436591616/1518759589",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[🎧] Healing Soup in the Moon (Sound of Day &amp; Night)\n\n\" 상상의 세계 IMW에서 들리는 낮과 밤의 소리를 음악으로 옮겨놓았다. Aimy Moon이 메세지를 전달하기 위해 작곡, 편곡, 연주하였고 IMW 세계관에 등장하는 5萬River, ABY 등의 탄생에 대한 소리를 담았다. \" \n\n#AimyMoon #에이미문"
+	},
+	{
+		"created_at": "Fri Feb 05 03:29:37 +0000 2021",
+		"id": 1357523977451708400,
+		"id_str": "1357531799921045504",
+		"full_text": "[🎧] 인공지능 작곡가 Aimy Moon 의 정규 연주 앨범 Healing Soup in the Moon (Sound of Day &amp; Night)이 발매되었습니다 🎉\n\n▶️Melon - https://t.co/UJH0sAdjX1\n▶️Genie - https://t.co/kjdv6jTrPR\n▶️VIBE - https://t.co/Gie4stqShe\n▶️Bugs - https://t.co/k1pu8knvWe\n\n#AimyMoon #에이미문 https://t.co/TmJP2SiVak",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AimyMoon",
+					"indices": [
+						233,
+						242
+					]
+				},
+				{
+					"text": "에이미문",
+					"indices": [
+						243,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UJH0sAdjX1",
+					"expanded_url": "http://kko.to/a1RM_VXYp",
+					"display_url": "kko.to/a1RM_VXYp",
+					"indices": [
+						108,
+						131
+					]
+				},
+				{
+					"url": "https://t.co/kjdv6jTrPR",
+					"expanded_url": "http://genie.co.kr/0N7ZG4",
+					"display_url": "genie.co.kr/0N7ZG4",
+					"indices": [
+						142,
+						165
+					]
+				},
+				{
+					"url": "https://t.co/Gie4stqShe",
+					"expanded_url": "http://naver.me/5rs6FwSE",
+					"display_url": "naver.me/5rs6FwSE",
+					"indices": [
+						175,
+						198
+					]
+				},
+				{
+					"url": "https://t.co/k1pu8knvWe",
+					"expanded_url": "https://m.bugs.co.kr/album/20375551",
+					"display_url": "m.bugs.co.kr/album/20375551",
+					"indices": [
+						208,
+						231
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1357523969360810000,
+					"id_str": "1357523969360809984",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/Etbk24_UUAAZyFj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Etbk24_UUAAZyFj.jpg",
+					"url": "https://t.co/TmJP2SiVak",
+					"display_url": "pic.twitter.com/TmJP2SiVak",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1357523977451708419/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357523969360810000,
+					"id_str": "1357523969360809984",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/Etbk24_UUAAZyFj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Etbk24_UUAAZyFj.jpg",
+					"url": "https://t.co/TmJP2SiVak",
+					"display_url": "pic.twitter.com/TmJP2SiVak",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1357523977451708419/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 964372210436591600,
+			"id_str": "964372210436591616",
+			"name": "Enterarts - A.I.M",
+			"screen_name": "aimbyenterarts",
+			"location": "대한민국 서울",
+			"description": "The World's First AI Music Production Company & Record Label / Artist Agency\n세계 최초 인공지능 음반 제작 레이블",
+			"url": "https://t.co/4A9OjK1Yel",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4A9OjK1Yel",
+							"expanded_url": "http://www.enterarts.net",
+							"display_url": "enterarts.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308,
+			"friends_count": 10,
+			"listed_count": 3,
+			"created_at": "Fri Feb 16 05:33:46 +0000 2018",
+			"favourites_count": 1206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/964372210436591616/1518759589",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎧] 인공지능 작곡가 Aimy Moon 의 정규 연주 앨범 Healing Soup in the Moon (Sound of Day &amp; Night)이 발매되었습니다 🎉\n\n▶️Melon - https://t.co/UJH0sAdjX1\n▶️Genie - https://t.co/kjdv6jTrPR\n▶️VIBE - https://t.co/Gie4stqShe\n▶️Bugs - https://t.co/k1pu8knvWe\n\n#AimyMoon #에이미문 https://t.co/TmJP2SiVak"
+	},
+	{
+		"created_at": "Fri Feb 05 03:29:28 +0000 2021",
+		"id": 1357523281578926000,
+		"id_str": "1357531761715118081",
+		"full_text": "[MPMG WEEK 2021 : 전화상담]\n정유종의 '말할 수 없는 비밀'\n정유종과 함께 떠나는 과거 여행. 잊지 못할 나의 흑역사를 소각해드립니다!\nhttps://t.co/ixNFsWihV9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ixNFsWihV9",
+					"expanded_url": "https://youtu.be/eOUMyKHKO9w",
+					"display_url": "youtu.be/eOUMyKHKO9w",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), LambC(램씨), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13061,
+			"friends_count": 1948,
+			"listed_count": 254,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MPMG WEEK 2021 : 전화상담]\n정유종의 '말할 수 없는 비밀'\n정유종과 함께 떠나는 과거 여행. 잊지 못할 나의 흑역사를 소각해드립니다!\nhttps://t.co/ixNFsWihV9"
+	},
+	{
 		"created_at": "Fri Feb 05 03:11:17 +0000 2021",
 		"id": 1357524347422969900,
 		"id_str": "1357527185553321990",
