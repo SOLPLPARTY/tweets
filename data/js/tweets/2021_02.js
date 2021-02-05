@@ -1,6 +1,394 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 05 06:29:31 +0000 2021",
+		"id": 1357575877849059300,
+		"id_str": "1357577072802209792",
+		"full_text": "- 신나라 https://t.co/yOHw1QRKKF\n- 알라딘 https://t.co/CgBvsDwrLF\n- YES24 https://t.co/6M0jclWIC4\n- 인터파크 https://t.co/zllH7J5lNk\n- 핫트랙스 https://t.co/zdLWBPm1GX\n\n#권진아 #우리의방식 #KwonJinAh\n#TheWayForUs #20210218_6PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권진아",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "우리의방식",
+					"indices": [
+						160,
+						166
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						167,
+						177
+					]
+				},
+				{
+					"text": "TheWayForUs",
+					"indices": [
+						178,
+						190
+					]
+				},
+				{
+					"text": "20210218_6PM",
+					"indices": [
+						191,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yOHw1QRKKF",
+					"expanded_url": "http://bit.ly/3ttnTD7",
+					"display_url": "bit.ly/3ttnTD7",
+					"indices": [
+						6,
+						29
+					]
+				},
+				{
+					"url": "https://t.co/CgBvsDwrLF",
+					"expanded_url": "http://bit.ly/2O9hAV6",
+					"display_url": "bit.ly/2O9hAV6",
+					"indices": [
+						36,
+						59
+					]
+				},
+				{
+					"url": "https://t.co/6M0jclWIC4",
+					"expanded_url": "http://bit.ly/2YM0zlU",
+					"display_url": "bit.ly/2YM0zlU",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/zllH7J5lNk",
+					"expanded_url": "http://bit.ly/3oNYekP",
+					"display_url": "bit.ly/3oNYekP",
+					"indices": [
+						99,
+						122
+					]
+				},
+				{
+					"url": "https://t.co/zdLWBPm1GX",
+					"expanded_url": "http://bit.ly/3oR2Wyz",
+					"display_url": "bit.ly/3oR2Wyz",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1357570240377352200,
+		"in_reply_to_status_id_str": "1357570240377352192",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official / 2020 안테나 크리스마스 캐럴 ‘겨울의 우리들’ Release!",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35447,
+			"friends_count": 10,
+			"listed_count": 360,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3430,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1608569605",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "- 신나라 https://t.co/yOHw1QRKKF\n- 알라딘 https://t.co/CgBvsDwrLF\n- YES24 https://t.co/6M0jclWIC4\n- 인터파크 https://t.co/zllH7J5lNk\n- 핫트랙스 https://t.co/zdLWBPm1GX\n\n#권진아 #우리의방식 #KwonJinAh\n#TheWayForUs #20210218_6PM"
+	},
+	{
+		"created_at": "Fri Feb 05 06:29:27 +0000 2021",
+		"id": 1357570240377352200,
+		"id_str": "1357577055555244032",
+		"full_text": "권진아 EP [우리의 방식]\nKwon Jin Ah EP [The Way For Us]\n\n2021. 02. 18. THU 6PM Release\n\n✔️온라인 예약 구매 Online Pre-Order\n- 신나라 / 알라딘 / YES24 / 인터파크 / 핫트랙스\n\n#권진아 #우리의방식\n#KwonJinAh #TheWayForUs #20210218_6PM https://t.co/lsONsnqRiI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권진아",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "우리의방식",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						156,
+						166
+					]
+				},
+				{
+					"text": "TheWayForUs",
+					"indices": [
+						167,
+						179
+					]
+				},
+				{
+					"text": "20210218_6PM",
+					"indices": [
+						180,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1357570234228502500,
+					"id_str": "1357570234228502528",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EtcO73DVcAA5NBF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtcO73DVcAA5NBF.jpg",
+					"url": "https://t.co/lsONsnqRiI",
+					"display_url": "pic.twitter.com/lsONsnqRiI",
+					"expanded_url": "https://twitter.com/antennamusic/status/1357570240377352192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 458,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 268,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 152,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357570234228502500,
+					"id_str": "1357570234228502528",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/EtcO73DVcAA5NBF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtcO73DVcAA5NBF.jpg",
+					"url": "https://t.co/lsONsnqRiI",
+					"display_url": "pic.twitter.com/lsONsnqRiI",
+					"expanded_url": "https://twitter.com/antennamusic/status/1357570240377352192/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 458,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 268,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 152,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official / 2020 안테나 크리스마스 캐럴 ‘겨울의 우리들’ Release!",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35447,
+			"friends_count": 10,
+			"listed_count": 360,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3430,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1608569605",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "권진아 EP [우리의 방식]\nKwon Jin Ah EP [The Way For Us]\n\n2021. 02. 18. THU 6PM Release\n\n✔️온라인 예약 구매 Online Pre-Order\n- 신나라 / 알라딘 / YES24 / 인터파크 / 핫트랙스\n\n#권진아 #우리의방식\n#KwonJinAh #TheWayForUs #20210218_6PM https://t.co/lsONsnqRiI"
+	},
+	{
 		"created_at": "Fri Feb 05 05:29:25 +0000 2021",
 		"id": 1357549954898755600,
 		"id_str": "1357561947156340736",
