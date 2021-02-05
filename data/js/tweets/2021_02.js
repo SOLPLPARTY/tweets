@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 05 08:11:17 +0000 2021",
+		"id": 1357597490950725600,
+		"id_str": "1357602681888641024",
+		"full_text": "[신규 입고]\n⠀\n씬디 티켓라운지 재개관 소식과 함께 돈패닉서울 2월호 Vol.42가 입고되었습니다😍\n⠀\n다양한 문화를 가득 담아 소개하는 돈패닉서울를 1인 1부로 드리고 있으니 원하시는 씬디 방문객께서는 씬디에 방문해주셔서 씬디 스탭에게 문의주세요😝 https://t.co/owQDTChLW5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1357597464392388600,
+					"id_str": "1357597464392388608",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/Etcns3UUUAAvDnT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Etcns3UUUAAvDnT.jpg",
+					"url": "https://t.co/owQDTChLW5",
+					"display_url": "pic.twitter.com/owQDTChLW5",
+					"expanded_url": "https://twitter.com/xindieticket/status/1357597490950725634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357597464392388600,
+					"id_str": "1357597464392388608",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/Etcns3UUUAAvDnT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Etcns3UUUAAvDnT.jpg",
+					"url": "https://t.co/owQDTChLW5",
+					"display_url": "pic.twitter.com/owQDTChLW5",
+					"expanded_url": "https://twitter.com/xindieticket/status/1357597490950725634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1357597464400777200,
+					"id_str": "1357597464400777216",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/Etcns3WUUAA3TOw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Etcns3WUUAA3TOw.jpg",
+					"url": "https://t.co/owQDTChLW5",
+					"display_url": "pic.twitter.com/owQDTChLW5",
+					"expanded_url": "https://twitter.com/xindieticket/status/1357597490950725634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2773,
+			"friends_count": 2666,
+			"listed_count": 20,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5405,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9600,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[신규 입고]\n⠀\n씬디 티켓라운지 재개관 소식과 함께 돈패닉서울 2월호 Vol.42가 입고되었습니다😍\n⠀\n다양한 문화를 가득 담아 소개하는 돈패닉서울를 1인 1부로 드리고 있으니 원하시는 씬디 방문객께서는 씬디에 방문해주셔서 씬디 스탭에게 문의주세요😝 https://t.co/owQDTChLW5"
+	},
+	{
 		"created_at": "Fri Feb 05 06:29:31 +0000 2021",
 		"id": 1357575877849059300,
 		"id_str": "1357577072802209792",
