@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 05 13:29:32 +0000 2021",
+		"id": 1357673962738569200,
+		"id_str": "1357682772488421379",
+		"full_text": "틱톡 #WrapMeinMomoland 챌린지에 참여하세요!💕\nJoin the #WrapMeInMomoland challenge on TIKTOK!!💕\n\n#Momoland #모모랜드 #Chromance #크로망스 #낸시 #혜빈 https://t.co/36zrrXhSFb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WrapMeinMomoland",
+					"indices": [
+						3,
+						20
+					]
+				},
+				{
+					"text": "WrapMeInMomoland",
+					"indices": [
+						43,
+						60
+					]
+				},
+				{
+					"text": "Momoland",
+					"indices": [
+						85,
+						94
+					]
+				},
+				{
+					"text": "모모랜드",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "Chromance",
+					"indices": [
+						101,
+						111
+					]
+				},
+				{
+					"text": "크로망스",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "낸시",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "혜빈",
+					"indices": [
+						122,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1357673846300545000,
+					"id_str": "1357673846300545024",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1357673846300545024/pu/img/tPwCpn0S9GPGM4pc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1357673846300545024/pu/img/tPwCpn0S9GPGM4pc.jpg",
+					"url": "https://t.co/36zrrXhSFb",
+					"display_url": "pic.twitter.com/36zrrXhSFb",
+					"expanded_url": "https://twitter.com/SonyMusicKr_POP/status/1357673962738569217/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357673846300545000,
+					"id_str": "1357673846300545024",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1357673846300545024/pu/img/tPwCpn0S9GPGM4pc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1357673846300545024/pu/img/tPwCpn0S9GPGM4pc.jpg",
+					"url": "https://t.co/36zrrXhSFb",
+					"display_url": "pic.twitter.com/36zrrXhSFb",
+					"expanded_url": "https://twitter.com/SonyMusicKr_POP/status/1357673962738569217/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 404,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							101,
+							180
+						],
+						"duration_millis": 28662,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1357673846300545024/pu/vid/320x570/Tkk_Lk31GwboL8Iq.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1357673846300545024/pu/vid/404x720/2vI3tjb6LuFuYsXv.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1357673846300545024/pu/pl/WTGm3QQEgS1rCYX6.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135092865,
+			"id_str": "135092865",
+			"name": "소니뮤직코리아",
+			"screen_name": "SonyMusicKr_POP",
+			"location": "Seoul, South Korea",
+			"description": "소니뮤직의 해외 아티스트들 소식을 전하는 소니뮤직 코리아 공식 트위터 계정입니다!",
+			"url": "https://t.co/THW5lXj534",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/THW5lXj534",
+							"expanded_url": "http://twitaddons.com/SonyMusicKr_POP",
+							"display_url": "twitaddons.com/SonyMusicKr_POP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14061,
+			"friends_count": 266,
+			"listed_count": 358,
+			"created_at": "Tue Apr 20 09:25:56 +0000 2010",
+			"favourites_count": 829,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9087,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905682101868969984/Ay26Smyy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905682101868969984/Ay26Smyy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135092865/1606978941",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "3D3D42",
+			"profile_sidebar_fill_color": "7EBDE6",
+			"profile_text_color": "0A000A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "틱톡 #WrapMeinMomoland 챌린지에 참여하세요!💕\nJoin the #WrapMeInMomoland challenge on TIKTOK!!💕\n\n#Momoland #모모랜드 #Chromance #크로망스 #낸시 #혜빈 https://t.co/36zrrXhSFb"
+	},
+	{
 		"created_at": "Fri Feb 05 13:06:21 +0000 2021",
 		"id": 1357676939515936800,
 		"id_str": "1357676939515936768",
