@@ -1,10 +1,116 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sat Feb 06 13:29:25 +0000 2021",
+		"id": 1358040626256695300,
+		"id_str": "1358045131019063299",
+		"full_text": "@steveXisXok 네 👍",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "steveXisXok",
+					"name": "Steve \"Big Chunk Chicken Noodle\" C",
+					"id": 1001382035410178000,
+					"id_str": "1001382035410178048",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1358025572308320300,
+		"in_reply_to_status_id_str": "1358025572308320256",
+		"in_reply_to_user_id": 1001382035410178000,
+		"in_reply_to_user_id_str": "1001382035410178048",
+		"in_reply_to_screen_name": "steveXisXok",
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3403,
+			"friends_count": 1302,
+			"listed_count": 105,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 5283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25096,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@steveXisXok 네 👍"
+	},
+	{
 		"created_at": "Sat Feb 06 13:12:22 +0000 2021",
 		"id": 1358040842271817700,
 		"id_str": "1358040842271817731",
-		"full_text": "#온스테이지 #ONSTAGE\n온스테이지 10주년 | ​플레이리스트 : 20\nhttps://t.co/bw3byIc2UR",
+		"full_text": "#온스테이지 #ONSTAGE\n온스테이지 10주년 | 플레이리스트 : 20\nhttps://t.co/bw3byIc2UR",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -138,7 +244,7 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#온스테이지 #ONSTAGE\n온스테이지 10주년 | ​플레이리스트 : 20\nhttps://t.co/bw3byIc2UR"
+		"text": "#온스테이지 #ONSTAGE\n온스테이지 10주년 | 플레이리스트 : 20\nhttps://t.co/bw3byIc2UR"
 	},
 	{
 		"created_at": "Sat Feb 06 11:29:24 +0000 2021",
