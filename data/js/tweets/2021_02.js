@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 07 09:29:32 +0000 2021",
+		"id": 1358343245785256000,
+		"id_str": "1358347153060618240",
+		"full_text": "[#Percent] Biffy Clyro - Black Chandelier | Cover By 96BPM 공개\n\nFull ver.🔗 https://t.co/A5B3wxBbsS\n\n#퍼센트 #96bpm #BiffyClyro #BlackChandelier https://t.co/x4ADJuB0dX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Percent",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "퍼센트",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "96bpm",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "BiffyClyro",
+					"indices": [
+						111,
+						122
+					]
+				},
+				{
+					"text": "BlackChandelier",
+					"indices": [
+						123,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A5B3wxBbsS",
+					"expanded_url": "http://youtu.be/IUx0Z7UlfO4",
+					"display_url": "youtu.be/IUx0Z7UlfO4",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1358343170409459700,
+					"id_str": "1358343170409459713",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1358343170409459713/pu/img/3FGNYVIDh_1j8fQS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1358343170409459713/pu/img/3FGNYVIDh_1j8fQS.jpg",
+					"url": "https://t.co/x4ADJuB0dX",
+					"display_url": "pic.twitter.com/x4ADJuB0dX",
+					"expanded_url": "https://twitter.com/themysticstory/status/1358343245785255937/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1358343170409459700,
+					"id_str": "1358343170409459713",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1358343170409459713/pu/img/3FGNYVIDh_1j8fQS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1358343170409459713/pu/img/3FGNYVIDh_1j8fQS.jpg",
+					"url": "https://t.co/x4ADJuB0dX",
+					"display_url": "pic.twitter.com/x4ADJuB0dX",
+					"expanded_url": "https://twitter.com/themysticstory/status/1358343245785255937/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 55625,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1358343170409459713/pu/vid/852x480/KrzpFvkF2Tb2ga6e.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1358343170409459713/pu/vid/638x360/Um7j_8j7-r2kp6g0.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1358343170409459713/pu/pl/tsppv-geAZ8m1U_l.m3u8?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1358343170409459713/pu/vid/478x270/fb0ku6a6QpGhLGVL.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20356,
+			"friends_count": 18,
+			"listed_count": 240,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Percent] Biffy Clyro - Black Chandelier | Cover By 96BPM 공개\n\nFull ver.🔗 https://t.co/A5B3wxBbsS\n\n#퍼센트 #96bpm #BiffyClyro #BlackChandelier https://t.co/x4ADJuB0dX"
+	},
+	{
 		"created_at": "Sun Feb 07 06:29:25 +0000 2021",
 		"id": 1358300722652061700,
 		"id_str": "1358301822314807297",
