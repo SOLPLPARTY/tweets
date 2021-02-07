@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 07 06:29:25 +0000 2021",
+		"id": 1358300722652061700,
+		"id_str": "1358301822314807297",
+		"full_text": "昨年9月、兵庫県で始まったTobira RecordsでHelicopter Recordsの2作品を販売しています。 機会があればテープを購入しながら、Tobira Recordsをじっくり見てください https://t.co/xmaU44GWcm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xmaU44GWcm",
+					"expanded_url": "https://twitter.com/hakobunemusic/status/1358232166010736641",
+					"display_url": "twitter.com/hakobunemusic/…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 732970717,
+			"id_str": "732970717",
+			"name": "Helicopter Records",
+			"screen_name": "Helicopterseoul",
+			"location": "Seoul",
+			"description": "음악을 소개하는 레이블 Helicopter Records입니다. 2012년 8월에 시작했습니다. 공연문의 및 각종문의 : helicopter.seoul@gmail.com",
+			"url": "http://t.co/1FN6ioFRra",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1FN6ioFRra",
+							"expanded_url": "http://helicopterseoul.tumblr.com",
+							"display_url": "helicopterseoul.tumblr.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3209,
+			"friends_count": 1596,
+			"listed_count": 39,
+			"created_at": "Thu Aug 02 14:50:07 +0000 2012",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2459893588/ryfbej290twh6kcfajr1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2459893588/ryfbej290twh6kcfajr1_normal.jpeg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1358232166010736600,
+		"quoted_status_id_str": "1358232166010736641",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xmaU44GWcm",
+			"expanded": "https://twitter.com/hakobunemusic/status/1358232166010736641",
+			"display": "twitter.com/hakobunemusic/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 07 01:52:37 +0000 2021",
+			"id": 1358232166010736600,
+			"id_str": "1358232166010736641",
+			"full_text": "Park Daham主宰レーベルより2作を本邦初入荷。韓国ディガー2名によるアングラ韓国歌謡曲ミックスと韓国人作家belaの新譜です。\n\n2 tapes by the Korean label Helicopter are available for the first\ntime in Japan at Tobira.\n\nhttps://t.co/JaB3NvEoW4\n\n#tbr_asia https://t.co/pq9oFYoZ8H",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				196
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "tbr_asia",
+						"indices": [
+							187,
+							196
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JaB3NvEoW4",
+						"expanded_url": "https://tobirarecords.com/collections/hseoul",
+						"display_url": "tobirarecords.com/collections/hs…",
+						"indices": [
+							162,
+							185
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1358232106971799600,
+						"id_str": "1358232106971799554",
+						"indices": [
+							197,
+							220
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1358232106971799554/pu/img/dh8rbO0SZR8hNrtE.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1358232106971799554/pu/img/dh8rbO0SZR8hNrtE.jpg",
+						"url": "https://t.co/pq9oFYoZ8H",
+						"display_url": "pic.twitter.com/pq9oFYoZ8H",
+						"expanded_url": "https://twitter.com/hakobunemusic/status/1358232166010736641/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1358232106971799600,
+						"id_str": "1358232106971799554",
+						"indices": [
+							197,
+							220
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1358232106971799554/pu/img/dh8rbO0SZR8hNrtE.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1358232106971799554/pu/img/dh8rbO0SZR8hNrtE.jpg",
+						"url": "https://t.co/pq9oFYoZ8H",
+						"display_url": "pic.twitter.com/pq9oFYoZ8H",
+						"expanded_url": "https://twitter.com/hakobunemusic/status/1358232166010736641/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 58432,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1358232106971799554/pu/vid/320x568/Bye4NaI-lNHIPvM9.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1358232106971799554/pu/pl/F7fWSeDEi-3BeChn.m3u8?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1358232106971799554/pu/vid/720x1280/4wacir5TyaH-mLCN.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1358232106971799554/pu/vid/360x640/SZ0gu6lkFxrdGsiM.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 321573123,
+				"id_str": "321573123",
+				"name": "tobira records / hakobune",
+				"screen_name": "hakobunemusic",
+				"location": "兵庫 加西市",
+				"description": "Tobira Records 142-9 Hojo Kasai Hyogo Japan opening hours 8:00-13:00, 13:00-18:00 Sat, closed : Wed and Thu https://t.co/xAWLBIRrlx",
+				"url": "https://t.co/y8tTkTvYOF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/y8tTkTvYOF",
+								"expanded_url": "http://hakobunemusic.jp",
+								"display_url": "hakobunemusic.jp",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/xAWLBIRrlx",
+								"expanded_url": "http://tobirarecords.com",
+								"display_url": "tobirarecords.com",
+								"indices": [
+									108,
+									131
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3643,
+				"friends_count": 1421,
+				"listed_count": 43,
+				"created_at": "Tue Jun 21 19:54:37 +0000 2011",
+				"favourites_count": 7618,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6290,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1336947296471195648/P9KPJGsv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336947296471195648/P9KPJGsv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/321573123/1606123422",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "昨年9月、兵庫県で始まったTobira RecordsでHelicopter Recordsの2作品を販売しています。 機会があればテープを購入しながら、Tobira Recordsをじっくり見てください https://t.co/xmaU44GWcm"
+	},
+	{
 		"created_at": "Sun Feb 07 03:29:26 +0000 2021",
 		"id": 1358251638042079200,
 		"id_str": "1358256527946227712",
