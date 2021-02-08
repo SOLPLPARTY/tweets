@@ -1,6 +1,660 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 08 12:03:04 +0000 2021",
+		"id": 1358747954933244000,
+		"id_str": "1358748177889853453",
+		"full_text": "Gig in the kitchen 첫번째 공연 \"안녕\" https://t.co/82ElGnka9P \n\n #온라인스트리밍 #온라인공연 #라이브스트리밍 #라이브공연",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "온라인스트리밍",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"text": "온라인공연",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "라이브스트리밍",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "라이브공연",
+					"indices": [
+						83,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/82ElGnka9P",
+					"expanded_url": "https://youtu.be/nK8gaIsCl94",
+					"display_url": "youtu.be/nK8gaIsCl94",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1351451613760655400,
+			"id_str": "1351451613760655360",
+			"name": "온라인 라이브 스트리밍",
+			"screen_name": "LIVESTREAM_KR",
+			"location": "",
+			"description": "🔴 LIVE: 온라인 라이브 스트리밍 소식을 알려드립니다.\n온라인 공연, 팬미팅, 인스타그램 라이브, 브이라이브 등.\n\n#생중계 #라이브스트리밍 #언택트공연 #비대면공연\n#온라인공연 #온라인콘서트 #OnlineConcert #OnlineStage #온라인스트리밍",
+			"url": "https://t.co/dikBU9SEZg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dikBU9SEZg",
+							"expanded_url": "https://ambler.kr/livestream",
+							"display_url": "ambler.kr/livestream",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15,
+			"friends_count": 8,
+			"listed_count": 0,
+			"created_at": "Tue Jan 19 08:49:18 +0000 2021",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 93,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1351451746845900800/cYdGCc0Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1351451746845900800/cYdGCc0Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1351451613760655360/1611049756",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Gig in the kitchen 첫번째 공연 \"안녕\" https://t.co/82ElGnka9P \n\n #온라인스트리밍 #온라인공연 #라이브스트리밍 #라이브공연"
+	},
+	{
+		"created_at": "Mon Feb 08 11:29:47 +0000 2021",
+		"id": 1358735678461251600,
+		"id_str": "1358739802795958272",
+		"full_text": "■ 티켓 예매\n-오픈 일시 : 2월 10일 (수) 오후 8시 \n-예매 가능 : ~ 2월 20일 (토) 오후 6시\n■ 티켓 가격\n- 온라인 : 10,000원\n- 오프라인 : 50,000원 (30매 한정)\n- 결제 : 신용카드 또는 페이팔(해외)\n자세한 내용은 https://t.co/e9r9PqkWR5를 참고\n#전기뱀장어 #온라인공연 #봄소풍 #현장관람",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전기뱀장어",
+					"indices": [
+						172,
+						178
+					]
+				},
+				{
+					"text": "온라인공연",
+					"indices": [
+						179,
+						185
+					]
+				},
+				{
+					"text": "봄소풍",
+					"indices": [
+						186,
+						190
+					]
+				},
+				{
+					"text": "현장관람",
+					"indices": [
+						191,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e9r9PqkWR5",
+					"expanded_url": "http://Live-AT.kr",
+					"display_url": "Live-AT.kr",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1358735528435175400,
+		"in_reply_to_status_id_str": "1358735528435175425",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2024,
+			"friends_count": 25,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 504,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1594485943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "■ 티켓 예매\n-오픈 일시 : 2월 10일 (수) 오후 8시 \n-예매 가능 : ~ 2월 20일 (토) 오후 6시\n■ 티켓 가격\n- 온라인 : 10,000원\n- 오프라인 : 50,000원 (30매 한정)\n- 결제 : 신용카드 또는 페이팔(해외)\n자세한 내용은 https://t.co/e9r9PqkWR5를 참고\n#전기뱀장어 #온라인공연 #봄소풍 #현장관람"
+	},
+	{
+		"created_at": "Mon Feb 08 11:29:39 +0000 2021",
+		"id": 1358735528435175400,
+		"id_str": "1358739768767561728",
+		"full_text": "🔹사전에 https://t.co/e9r9PqkWR5 을 방문하셔서 회원가입, 정보입력 등을 마쳐 놓으시길 권장드립니다\n■ 공연일시 : 2021년 2월 20일(토) 오후 7시 (KST)\n■ 관람\n- 온라인 : https://t.co/e9r9PqkWR5 (티켓 구매 후 입장하실 수 있습니다.)\n- 오프라인 : 카페 언플러그드 홍대점 (Cafe Unplugged",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e9r9PqkWR5",
+					"expanded_url": "http://Live-AT.kr",
+					"display_url": "Live-AT.kr",
+					"indices": [
+						5,
+						28
+					]
+				},
+				{
+					"url": "https://t.co/e9r9PqkWR5",
+					"expanded_url": "http://Live-AT.kr",
+					"display_url": "Live-AT.kr",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1358735109134766000,
+		"in_reply_to_status_id_str": "1358735109134766080",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2024,
+			"friends_count": 25,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 504,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1594485943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔹사전에 https://t.co/e9r9PqkWR5 을 방문하셔서 회원가입, 정보입력 등을 마쳐 놓으시길 권장드립니다\n■ 공연일시 : 2021년 2월 20일(토) 오후 7시 (KST)\n■ 관람\n- 온라인 : https://t.co/e9r9PqkWR5 (티켓 구매 후 입장하실 수 있습니다.)\n- 오프라인 : 카페 언플러그드 홍대점 (Cafe Unplugged"
+	},
+	{
+		"created_at": "Mon Feb 08 11:29:31 +0000 2021",
+		"id": 1358735109134766000,
+		"id_str": "1358739734391103488",
+		"full_text": "[전기뱀장어]온라인 공연 &lt;조금 이른 봄소풍&gt; 티켓 오픈 안내\n🔹현장 관람(30명 한정)이 가능한 온라인 공연입니다. \n🔹현장 관람을 원하시면 티켓 구매시 '오프라인' 티켓을 구매해 주시기 바랍니다. \n🔹'온라인' 티켓만 구매하신 경우 현장에 입장하실 수 없습니다. https://t.co/2b3LT8ujRn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1358735106769178600,
+					"id_str": "1358735106769178627",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EtsyYXbUUAMEbr4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtsyYXbUUAMEbr4.jpg",
+					"url": "https://t.co/2b3LT8ujRn",
+					"display_url": "pic.twitter.com/2b3LT8ujRn",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1358735109134766080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1358735106769178600,
+					"id_str": "1358735106769178627",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EtsyYXbUUAMEbr4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtsyYXbUUAMEbr4.jpg",
+					"url": "https://t.co/2b3LT8ujRn",
+					"display_url": "pic.twitter.com/2b3LT8ujRn",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1358735109134766080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "당신의 여름",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 가을방학, 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/O7n52oEN1K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O7n52oEN1K",
+							"expanded_url": "http://www.instagram.com/yoursummernet",
+							"display_url": "instagram.com/yoursummernet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2024,
+			"friends_count": 25,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 504,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281993078274797568/KNd5QHyY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1594485943",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[전기뱀장어]온라인 공연 &lt;조금 이른 봄소풍&gt; 티켓 오픈 안내\n🔹현장 관람(30명 한정)이 가능한 온라인 공연입니다. \n🔹현장 관람을 원하시면 티켓 구매시 '오프라인' 티켓을 구매해 주시기 바랍니다. \n🔹'온라인' 티켓만 구매하신 경우 현장에 입장하실 수 없습니다. https://t.co/2b3LT8ujRn"
+	},
+	{
+		"created_at": "Mon Feb 08 11:29:28 +0000 2021",
+		"id": 1358734456861773800,
+		"id_str": "1358739721296429059",
+		"full_text": "오늘 저녁 9시 새로운 멤버와 함께 모노트리 라이브 방송 예정입니다!\n많은 시청 부탁 드립니다 :D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/MUo7s9YgJw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MUo7s9YgJw",
+							"expanded_url": "https://www.monotreemusic.com/",
+							"display_url": "monotreemusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6969,
+			"friends_count": 0,
+			"listed_count": 49,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "오늘 저녁 9시 새로운 멤버와 함께 모노트리 라이브 방송 예정입니다!\n많은 시청 부탁 드립니다 :D"
+	},
+	{
 		"created_at": "Mon Feb 08 10:29:25 +0000 2021",
 		"id": 1358713858379030500,
 		"id_str": "1358724608501944323",
