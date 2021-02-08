@@ -1,6 +1,1126 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 08 05:11:20 +0000 2021",
+		"id": 1358630598881865700,
+		"id_str": "1358644559937495040",
+		"full_text": "다양한 정보가 가득한 씬디매거진을 구독해 보세요!\n\n[CREDIT]\n◼ 인터뷰 : 임희윤\n◼ 사진 : 김태훈, 하쿠나폴레\n◼ 디자인 : 이솔이\n◼ 기획 : 웨스트브릿지\n◼ 발행 : 씬디 티켓라운지 https://t.co/sROI022Iy4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1358630369071747000,
+					"id_str": "1358630369071747073",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EtrTH1GUUAEYqkI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtrTH1GUUAEYqkI.jpg",
+					"url": "https://t.co/sROI022Iy4",
+					"display_url": "pic.twitter.com/sROI022Iy4",
+					"expanded_url": "https://twitter.com/xindieticket/status/1358630598881865731/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1358630369071747000,
+					"id_str": "1358630369071747073",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EtrTH1GUUAEYqkI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtrTH1GUUAEYqkI.jpg",
+					"url": "https://t.co/sROI022Iy4",
+					"display_url": "pic.twitter.com/sROI022Iy4",
+					"expanded_url": "https://twitter.com/xindieticket/status/1358630598881865731/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1358630382724288500,
+					"id_str": "1358630382724288513",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EtrTIn9VkAEOERG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtrTIn9VkAEOERG.jpg",
+					"url": "https://t.co/sROI022Iy4",
+					"display_url": "pic.twitter.com/sROI022Iy4",
+					"expanded_url": "https://twitter.com/xindieticket/status/1358630598881865731/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1358630394627674000,
+					"id_str": "1358630394627674113",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EtrTJUTU0AEuxWp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtrTJUTU0AEuxWp.jpg",
+					"url": "https://t.co/sROI022Iy4",
+					"display_url": "pic.twitter.com/sROI022Iy4",
+					"expanded_url": "https://twitter.com/xindieticket/status/1358630598881865731/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1358630592967897000,
+		"in_reply_to_status_id_str": "1358630592967897088",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2773,
+			"friends_count": 2665,
+			"listed_count": 20,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5410,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다양한 정보가 가득한 씬디매거진을 구독해 보세요!\n\n[CREDIT]\n◼ 인터뷰 : 임희윤\n◼ 사진 : 김태훈, 하쿠나폴레\n◼ 디자인 : 이솔이\n◼ 기획 : 웨스트브릿지\n◼ 발행 : 씬디 티켓라운지 https://t.co/sROI022Iy4"
+	},
+	{
+		"created_at": "Mon Feb 08 05:11:17 +0000 2021",
+		"id": 1358630592967897000,
+		"id_str": "1358644546880614400",
+		"full_text": "[#씬디매거진 21년 2월호]\n\n씬디매거진은 2월호 커버아티스트, ‘윤딴딴님’의 온기로 채워 돌아왔습니다!\n\n윤딴딴님만의 깊은 이야기 등 왜 그의 작품에는 온기가 묻어있는지 알 수 있는 인터뷰가 실려있으니 윤딴딴님의 따뜻함을 나눠 보자구요!\n\n🧶원본보기 : https://t.co/dMpi6l1KgQ https://t.co/XpMogfSo2D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "씬디매거진",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dMpi6l1KgQ",
+					"expanded_url": "http://reurl.kr/6BEED9CAP",
+					"display_url": "reurl.kr/6BEED9CAP",
+					"indices": [
+						144,
+						167
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1358630185348681700,
+					"id_str": "1358630185348681728",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EtrS9IrU0AAaj5x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtrS9IrU0AAaj5x.jpg",
+					"url": "https://t.co/XpMogfSo2D",
+					"display_url": "pic.twitter.com/XpMogfSo2D",
+					"expanded_url": "https://twitter.com/xindieticket/status/1358630592967897088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1358630185348681700,
+					"id_str": "1358630185348681728",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EtrS9IrU0AAaj5x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtrS9IrU0AAaj5x.jpg",
+					"url": "https://t.co/XpMogfSo2D",
+					"display_url": "pic.twitter.com/XpMogfSo2D",
+					"expanded_url": "https://twitter.com/xindieticket/status/1358630592967897088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1358630196245500000,
+					"id_str": "1358630196245499904",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EtrS9xRVEAAU05J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtrS9xRVEAAU05J.jpg",
+					"url": "https://t.co/XpMogfSo2D",
+					"display_url": "pic.twitter.com/XpMogfSo2D",
+					"expanded_url": "https://twitter.com/xindieticket/status/1358630592967897088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1358630205712068600,
+					"id_str": "1358630205712068608",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EtrS-UiVcAAnHpo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtrS-UiVcAAnHpo.jpg",
+					"url": "https://t.co/XpMogfSo2D",
+					"display_url": "pic.twitter.com/XpMogfSo2D",
+					"expanded_url": "https://twitter.com/xindieticket/status/1358630592967897088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 월요일 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2773,
+			"friends_count": 2665,
+			"listed_count": 20,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5410,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#씬디매거진 21년 2월호]\n\n씬디매거진은 2월호 커버아티스트, ‘윤딴딴님’의 온기로 채워 돌아왔습니다!\n\n윤딴딴님만의 깊은 이야기 등 왜 그의 작품에는 온기가 묻어있는지 알 수 있는 인터뷰가 실려있으니 윤딴딴님의 따뜻함을 나눠 보자구요!\n\n🧶원본보기 : https://t.co/dMpi6l1KgQ https://t.co/XpMogfSo2D"
+	},
+	{
+		"created_at": "Mon Feb 08 04:52:05 +0000 2021",
+		"id": 1358639717651251200,
+		"id_str": "1358639717651251200",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\nCRUMP (크럼프), MAANSOO (만수) - 니네끼리 (Prod. DJ Tiz) [Music Video]\nhttps://t.co/ZNu1KGdBUo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZNu1KGdBUo",
+					"expanded_url": "https://youtu.be/8RMJmaWuEZ8",
+					"display_url": "youtu.be/8RMJmaWuEZ8",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 441,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\nCRUMP (크럼프), MAANSOO (만수) - 니네끼리 (Prod. DJ Tiz) [Music Video]\nhttps://t.co/ZNu1KGdBUo"
+	},
+	{
+		"created_at": "Mon Feb 08 04:29:38 +0000 2021",
+		"id": 1358633844111364000,
+		"id_str": "1358634067382702083",
+		"full_text": "오름도 검잎들이 모르는 비하인드가 있지만!\n[책이여, 안녕!]의 비하인드가 더 잼나네요!🤣\n\n'파도소리만 들었어'를 좋아합니다. 듣다가 울었..😳\n\"그 때의 우린 다 돌아가도 세상은 참 아름답네\"라는 가사가 심금을...울려 버렸어요. https://t.co/aAJqmRP9ag",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aAJqmRP9ag",
+					"expanded_url": "https://twitter.com/Leavesblack/status/1357199935305777152",
+					"display_url": "twitter.com/Leavesblack/st…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 722,
+			"friends_count": 324,
+			"listed_count": 12,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 716,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2887,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1611200656",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1357199935305777200,
+		"quoted_status_id_str": "1357199935305777152",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aAJqmRP9ag",
+			"expanded": "https://twitter.com/Leavesblack/status/1357199935305777152",
+			"display": "twitter.com/Leavesblack/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 04 05:30:54 +0000 2021",
+			"id": 1357199935305777200,
+			"id_str": "1357199935305777152",
+			"full_text": "안녕! 우리도 연주하고 녹음하면서 몰랐던 앨범 수록곡들의 비하인드를 저희끼리 얘기하는 자리를 마련했습니다! 이번회에는 1번 트랙부터 6번 트랙까지 얘기해보았어요🧐🧐 \n\nhttps://t.co/DbEo9ZSiVi https://t.co/hSzHKcRuLd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				117
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DbEo9ZSiVi",
+						"expanded_url": "https://youtu.be/rW4UypA4uDA",
+						"display_url": "youtu.be/rW4UypA4uDA",
+						"indices": [
+							94,
+							117
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1357199925839159300,
+						"id_str": "1357199925839159307",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/media/EtW-JEzUYAs5iVU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EtW-JEzUYAs5iVU.jpg",
+						"url": "https://t.co/hSzHKcRuLd",
+						"display_url": "pic.twitter.com/hSzHKcRuLd",
+						"expanded_url": "https://twitter.com/Leavesblack/status/1357199935305777152/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1357199925839159300,
+						"id_str": "1357199925839159307",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/media/EtW-JEzUYAs5iVU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EtW-JEzUYAs5iVU.jpg",
+						"url": "https://t.co/hSzHKcRuLd",
+						"display_url": "pic.twitter.com/hSzHKcRuLd",
+						"expanded_url": "https://twitter.com/Leavesblack/status/1357199935305777152/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3432037692,
+				"id_str": "3432037692",
+				"name": "검은잎들",
+				"screen_name": "Leavesblack",
+				"location": "대한민국 부산",
+				"description": "동욱, 성민, 은하, 영웅",
+				"url": "https://t.co/5S32lPYbDw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5S32lPYbDw",
+								"expanded_url": "https://instagram.com/leavesblack_official",
+								"display_url": "instagram.com/leavesblack_of…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 145,
+				"friends_count": 102,
+				"listed_count": 4,
+				"created_at": "Thu Sep 03 02:14:53 +0000 2015",
+				"favourites_count": 144,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 215,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1335809901814116354/B0pSIwZl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1335809901814116354/B0pSIwZl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3432037692/1610766391",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오름도 검잎들이 모르는 비하인드가 있지만!\n[책이여, 안녕!]의 비하인드가 더 잼나네요!🤣\n\n'파도소리만 들었어'를 좋아합니다. 듣다가 울었..😳\n\"그 때의 우린 다 돌아가도 세상은 참 아름답네\"라는 가사가 심금을...울려 버렸어요. https://t.co/aAJqmRP9ag"
+	},
+	{
+		"created_at": "Mon Feb 08 04:29:34 +0000 2021",
+		"id": 1358628960158982100,
+		"id_str": "1358634050089549827",
+		"full_text": "[New Single] 뷰티핸섬-그대 보고 싶어요 I want to see you - Beautyhandsome\n2021.02.08 [Released]\n밴드 뷰티핸섬의 2021 년도 첫 싱글 발매\n\"참사랑이 무엇인지에 대한 에디전의 생각에 관한 노래다.”\n특유의 솔직한 가사와 편안한 밴드 사운드 의 만남\nTrack List\n01.그대 보고 싶어요\n02.그대... https://t.co/NPnlLi321R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1358628631379996700,
+					"id_str": "1358628631379996676",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EtrRirsUcAQ6sZY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtrRirsUcAQ6sZY.jpg",
+					"url": "https://t.co/NPnlLi321R",
+					"display_url": "pic.twitter.com/NPnlLi321R",
+					"expanded_url": "https://twitter.com/sugar_records/status/1358628960158982144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1358628631379996700,
+					"id_str": "1358628631379996676",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EtrRirsUcAQ6sZY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtrRirsUcAQ6sZY.jpg",
+					"url": "https://t.co/NPnlLi321R",
+					"display_url": "pic.twitter.com/NPnlLi321R",
+					"expanded_url": "https://twitter.com/sugar_records/status/1358628960158982144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94343878,
+			"id_str": "94343878",
+			"name": "슈가레코드",
+			"screen_name": "sugar_records",
+			"location": "Seoul, KR",
+			"description": "#달에닿아 #뷰티핸섬 #리썬 #모브닝 #엔분의일 #당기시오 #우리같은사람들 슈가레코드",
+			"url": "https://t.co/MaZwhWbQNT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MaZwhWbQNT",
+							"expanded_url": "http://sugar-records.com",
+							"display_url": "sugar-records.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 554,
+			"friends_count": 36,
+			"listed_count": 9,
+			"created_at": "Thu Dec 03 14:51:49 +0000 2009",
+			"favourites_count": 389,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7435,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94343878/1548148600",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[New Single] 뷰티핸섬-그대 보고 싶어요 I want to see you - Beautyhandsome\n2021.02.08 [Released]\n밴드 뷰티핸섬의 2021 년도 첫 싱글 발매\n\"참사랑이 무엇인지에 대한 에디전의 생각에 관한 노래다.”\n특유의 솔직한 가사와 편안한 밴드 사운드 의 만남\nTrack List\n01.그대 보고 싶어요\n02.그대... https://t.co/NPnlLi321R"
+	},
+	{
 		"created_at": "Mon Feb 08 04:11:17 +0000 2021",
 		"id": 1358624853381718000,
 		"id_str": "1358629447809777665",
