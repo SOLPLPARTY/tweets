@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 08 07:11:30 +0000 2021",
+		"id": 1358664446353150000,
+		"id_str": "1358674801586556929",
+		"full_text": "#캡틴락 #한경록 #경록절 #2021경록절 #경록절inthehouse #이번엔집에서놀자 #크라잉넛 #유튜브 #youtube #kyungrockjeol #captainrock #cryingnut #곽푸른하늘 #김일두 #까르푸황 #정우 #최고은",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "캡틴락",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "한경록",
+					"indices": [
+						5,
+						9
+					]
+				},
+				{
+					"text": "경록절",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "2021경록절",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "경록절inthehouse",
+					"indices": [
+						24,
+						38
+					]
+				},
+				{
+					"text": "이번엔집에서놀자",
+					"indices": [
+						39,
+						48
+					]
+				},
+				{
+					"text": "크라잉넛",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "유튜브",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "youtube",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"text": "kyungrockjeol",
+					"indices": [
+						69,
+						83
+					]
+				},
+				{
+					"text": "captainrock",
+					"indices": [
+						84,
+						96
+					]
+				},
+				{
+					"text": "cryingnut",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"text": "곽푸른하늘",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "김일두",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "까르푸황",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "정우",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "최고은",
+					"indices": [
+						130,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1358664444390219800,
+		"in_reply_to_status_id_str": "1358664444390219776",
+		"in_reply_to_user_id": 925630800,
+		"in_reply_to_user_id_str": "925630800",
+		"in_reply_to_screen_name": "ctrsound",
+		"user": {
+			"id": 925630800,
+			"id_str": "925630800",
+			"name": "씨티알싸운드",
+			"screen_name": "ctrsound",
+			"location": "제비다방 2층",
+			"description": "원피스매거진과 제비다방, 씨티알폼(건축) 등을 운영하고 있는 ‘문화지형연구소 씨티알’ 에서 록큰롤의 부흥과 음주가무 문화의 정착을 위해 시작한 ‘씨티알싸운드'는 제비다방에서 인디 뮤지션들의 공연을 기획하고 있으며 뮤지션들과 함께 대한민국의 아름다운 음반문화 정착을 위해 노력하고 있다",
+			"url": "https://t.co/qBjJ0F3Nf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qBjJ0F3Nf5",
+							"expanded_url": "http://www.ctrplus.com",
+							"display_url": "ctrplus.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 202,
+			"listed_count": 0,
+			"created_at": "Sun Nov 04 16:14:55 +0000 2012",
+			"favourites_count": 98,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/694932642605563905/6sfNnDNC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/694932642605563905/6sfNnDNC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#캡틴락 #한경록 #경록절 #2021경록절 #경록절inthehouse #이번엔집에서놀자 #크라잉넛 #유튜브 #youtube #kyungrockjeol #captainrock #cryingnut #곽푸른하늘 #김일두 #까르푸황 #정우 #최고은"
+	},
+	{
+		"created_at": "Mon Feb 08 07:11:22 +0000 2021",
+		"id": 1358664444390219800,
+		"id_str": "1358674767574945794",
+		"full_text": "&lt; 2021 경록절 in the House 이번엔 집에서 놀자 &gt;\n➡일시 : 2021년 2월 11일(목) PM 12:00 ~ 지옥까지\n➡중계 : 유튜브 크라잉넛 오피셜 채널 https://t.co/QBPN2grIbf\n&lt; 2021 경록절 in the House 이번엔 집에서 놀자 &gt;\n➡2021 경록절 굿즈 패키지 구매  https://t.co/rltoX3lafS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QBPN2grIbf",
+					"expanded_url": "https://youtube.com/cryingnut",
+					"display_url": "youtube.com/cryingnut",
+					"indices": [
+						103,
+						126
+					]
+				},
+				{
+					"url": "https://t.co/rltoX3lafS",
+					"expanded_url": "https://captainrock.net",
+					"display_url": "captainrock.net",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1358664441936576500,
+		"in_reply_to_status_id_str": "1358664441936576514",
+		"in_reply_to_user_id": 925630800,
+		"in_reply_to_user_id_str": "925630800",
+		"in_reply_to_screen_name": "ctrsound",
+		"user": {
+			"id": 925630800,
+			"id_str": "925630800",
+			"name": "씨티알싸운드",
+			"screen_name": "ctrsound",
+			"location": "제비다방 2층",
+			"description": "원피스매거진과 제비다방, 씨티알폼(건축) 등을 운영하고 있는 ‘문화지형연구소 씨티알’ 에서 록큰롤의 부흥과 음주가무 문화의 정착을 위해 시작한 ‘씨티알싸운드'는 제비다방에서 인디 뮤지션들의 공연을 기획하고 있으며 뮤지션들과 함께 대한민국의 아름다운 음반문화 정착을 위해 노력하고 있다",
+			"url": "https://t.co/qBjJ0F3Nf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qBjJ0F3Nf5",
+							"expanded_url": "http://www.ctrplus.com",
+							"display_url": "ctrplus.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 202,
+			"listed_count": 0,
+			"created_at": "Sun Nov 04 16:14:55 +0000 2012",
+			"favourites_count": 98,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/694932642605563905/6sfNnDNC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/694932642605563905/6sfNnDNC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt; 2021 경록절 in the House 이번엔 집에서 놀자 &gt;\n➡일시 : 2021년 2월 11일(목) PM 12:00 ~ 지옥까지\n➡중계 : 유튜브 크라잉넛 오피셜 채널 https://t.co/QBPN2grIbf\n&lt; 2021 경록절 in the House 이번엔 집에서 놀자 &gt;\n➡2021 경록절 굿즈 패키지 구매  https://t.co/rltoX3lafS"
+	},
+	{
 		"created_at": "Mon Feb 08 06:01:42 +0000 2021",
 		"id": 1358657236604776400,
 		"id_str": "1358657236604776448",
