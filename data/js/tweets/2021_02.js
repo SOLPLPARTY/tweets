@@ -1,6 +1,925 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 09 10:12:14 +0000 2021",
+		"id": 1359082674145529900,
+		"id_str": "1359082674145529857",
+		"full_text": "#서울뮤직 #SEOUL_MUSIC\n[MV] hnie hnig (니닉) - NERO / Official Music Video\nhttps://t.co/TKy1Cphrvw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SEOUL_MUSIC",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TKy1Cphrvw",
+					"expanded_url": "https://youtu.be/UlX1QxFErIQ",
+					"display_url": "youtu.be/UlX1QxFErIQ",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 442,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "cs",
+		"text": "#서울뮤직 #SEOUL_MUSIC\n[MV] hnie hnig (니닉) - NERO / Official Music Video\nhttps://t.co/TKy1Cphrvw"
+	},
+	{
+		"created_at": "Tue Feb 09 10:11:17 +0000 2021",
+		"id": 1359067786924892200,
+		"id_str": "1359082432381747202",
+		"full_text": "[채널씬디 X 오추프로젝트 COMING SOON!]\n\n이번달 채널씬디의 주인공은 바로\n여러분들에게 오늘의 추천곡을 들려줄\n✨오추프로젝트✨입니다!\n\n따뜻하고 유쾌했던 인터뷰 현장을 \n공개합니다!\n\n영상은 다음주 월요일(2/15)에 공개될테니\nMany 많이 기대해 주세요❤️\n\nYoutube: https://t.co/fGkKNPSaSj https://t.co/usINFMqhMc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fGkKNPSaSj",
+					"expanded_url": "https://bit.ly/3q31yu5",
+					"display_url": "bit.ly/3q31yu5",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1359067710043263000,
+					"id_str": "1359067710043262980",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/Etxg4bLVEAQLhD2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Etxg4bLVEAQLhD2.jpg",
+					"url": "https://t.co/usINFMqhMc",
+					"display_url": "pic.twitter.com/usINFMqhMc",
+					"expanded_url": "https://twitter.com/xindieticket/status/1359067786924892163/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1072,
+							"h": 1072,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1072,
+							"h": 1072,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359067710043263000,
+					"id_str": "1359067710043262980",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/Etxg4bLVEAQLhD2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Etxg4bLVEAQLhD2.jpg",
+					"url": "https://t.co/usINFMqhMc",
+					"display_url": "pic.twitter.com/usINFMqhMc",
+					"expanded_url": "https://twitter.com/xindieticket/status/1359067786924892163/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1072,
+							"h": 1072,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1072,
+							"h": 1072,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1359067755782131700,
+					"id_str": "1359067755782131712",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/Etxg7FkU0AAzSsi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Etxg7FkU0AAzSsi.jpg",
+					"url": "https://t.co/usINFMqhMc",
+					"display_url": "pic.twitter.com/usINFMqhMc",
+					"expanded_url": "https://twitter.com/xindieticket/status/1359067786924892163/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1072,
+							"h": 1072,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1072,
+							"h": 1072,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1359067774677520400,
+					"id_str": "1359067774677520387",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/Etxg8L9VkAMihH0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Etxg8L9VkAMihH0.jpg",
+					"url": "https://t.co/usINFMqhMc",
+					"display_url": "pic.twitter.com/usINFMqhMc",
+					"expanded_url": "https://twitter.com/xindieticket/status/1359067786924892163/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1072,
+							"h": 1072,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1072,
+							"h": 1072,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2773,
+			"friends_count": 2665,
+			"listed_count": 20,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[채널씬디 X 오추프로젝트 COMING SOON!]\n\n이번달 채널씬디의 주인공은 바로\n여러분들에게 오늘의 추천곡을 들려줄\n✨오추프로젝트✨입니다!\n\n따뜻하고 유쾌했던 인터뷰 현장을 \n공개합니다!\n\n영상은 다음주 월요일(2/15)에 공개될테니\nMany 많이 기대해 주세요❤️\n\nYoutube: https://t.co/fGkKNPSaSj https://t.co/usINFMqhMc"
+	},
+	{
+		"created_at": "Tue Feb 09 09:29:45 +0000 2021",
+		"id": 1359065611381350400,
+		"id_str": "1359071981740646401",
+		"full_text": "[D-2]\n주변의 작은 사물과 자연을 관찰하고\n이를 바탕으로 내면의 심상을 펼치는 앨범 \n동찬(Dongchan) &lt;태양 같은 달&gt;\n2020.02.11 12pm\n\nTracklist\n1.태양 같은 달 (feat. 최가은)\n▶️ 2.구름 같은 달 (feat. 2muchblack) ◀️\n3.쏟아지는 달 (feat. 최가은)\n4.버려지는 달 (feat. Dubinvain, 장희정) https://t.co/eXaVzt5HPK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1359065539608338400,
+					"id_str": "1359065539608338433",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1359065539608338433/pu/img/06D6SHwLVWtbcHl2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1359065539608338433/pu/img/06D6SHwLVWtbcHl2.jpg",
+					"url": "https://t.co/eXaVzt5HPK",
+					"display_url": "pic.twitter.com/eXaVzt5HPK",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1359065611381350400/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359065539608338400,
+					"id_str": "1359065539608338433",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1359065539608338433/pu/img/06D6SHwLVWtbcHl2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1359065539608338433/pu/img/06D6SHwLVWtbcHl2.jpg",
+					"url": "https://t.co/eXaVzt5HPK",
+					"display_url": "pic.twitter.com/eXaVzt5HPK",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1359065611381350400/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 58200,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359065539608338433/pu/vid/640x360/WriUriUSKHDrfkOE.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359065539608338433/pu/vid/1280x720/l_c_Y--VnigkaGsi.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359065539608338433/pu/vid/480x270/NUtlOMNOfsdUkWvE.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1359065539608338433/pu/pl/dU0aWnkMp3kc3WL3.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3567,
+			"friends_count": 1215,
+			"listed_count": 50,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 631,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[D-2]\n주변의 작은 사물과 자연을 관찰하고\n이를 바탕으로 내면의 심상을 펼치는 앨범 \n동찬(Dongchan) &lt;태양 같은 달&gt;\n2020.02.11 12pm\n\nTracklist\n1.태양 같은 달 (feat. 최가은)\n▶️ 2.구름 같은 달 (feat. 2muchblack) ◀️\n3.쏟아지는 달 (feat. 최가은)\n4.버려지는 달 (feat. Dubinvain, 장희정) https://t.co/eXaVzt5HPK"
+	},
+	{
+		"created_at": "Tue Feb 09 09:29:36 +0000 2021",
+		"id": 1359065296158400500,
+		"id_str": "1359071943501225986",
+		"full_text": "디어클라우드 - 안녕 그대 안녕 \nhttps://t.co/Ls1ycxQyKs\n많이 들어주세요^^ https://t.co/Rge4K831TY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ls1ycxQyKs",
+					"expanded_url": "http://kko.to/A9VKI4KD0",
+					"display_url": "kko.to/A9VKI4KD0",
+					"indices": [
+						19,
+						42
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1359065295076249600,
+					"id_str": "1359065295076249600",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/Etxer2uU0AAwtV-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Etxer2uU0AAwtV-.jpg",
+					"url": "https://t.co/Rge4K831TY",
+					"display_url": "pic.twitter.com/Rge4K831TY",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1359065296158400513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359065295076249600,
+					"id_str": "1359065295076249600",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/Etxer2uU0AAwtV-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Etxer2uU0AAwtV-.jpg",
+					"url": "https://t.co/Rge4K831TY",
+					"display_url": "pic.twitter.com/Rge4K831TY",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1359065296158400513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.melon.com\" rel=\"nofollow\">MelonMusic</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2675,
+			"friends_count": 341,
+			"listed_count": 0,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 18212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "디어클라우드 - 안녕 그대 안녕 \nhttps://t.co/Ls1ycxQyKs\n많이 들어주세요^^ https://t.co/Rge4K831TY"
+	},
+	{
+		"created_at": "Tue Feb 09 09:29:29 +0000 2021",
+		"id": 1359064968876814300,
+		"id_str": "1359071915063787523",
+		"full_text": "Yerin Baek - [tellusboutyourself Remixes]\n2021.2.16 12PM KST\n\nhttps://t.co/djFU5gWTiO\n⠀\n#yerinbaek #tellusboutyourselfRemixes #백예린 #release",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "yerinbaek",
+					"indices": [
+						88,
+						98
+					]
+				},
+				{
+					"text": "tellusboutyourselfRemixes",
+					"indices": [
+						99,
+						125
+					]
+				},
+				{
+					"text": "백예린",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "release",
+					"indices": [
+						131,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/djFU5gWTiO",
+					"expanded_url": "https://www.youtube.com/watch?v=dMeokLmc5Vk",
+					"display_url": "youtube.com/watch?v=dMeokL…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl contact@bluevinyl.kr",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24194,
+			"friends_count": 0,
+			"listed_count": 154,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1336970677748842497/UmAJjdzR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336970677748842497/UmAJjdzR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1606885286",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 505,
+		"favorite_count": 638,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yerin Baek - [tellusboutyourself Remixes]\n2021.2.16 12PM KST\n\nhttps://t.co/djFU5gWTiO\n⠀\n#yerinbaek #tellusboutyourselfRemixes #백예린 #release"
+	},
+	{
 		"created_at": "Tue Feb 09 09:12:59 +0000 2021",
 		"id": 1359067762354655200,
 		"id_str": "1359067762354655239",
