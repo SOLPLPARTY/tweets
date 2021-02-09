@@ -1,6 +1,559 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 09 12:12:55 +0000 2021",
+		"id": 1358981888774316000,
+		"id_str": "1359113042156421120",
+		"full_text": "&lt;2021 경록절&gt; 진짜 최종 라인업\n\n끝판왕 등장! 난리났네 난리났어~!\n신나게 즐길 준비 하세요😍\n\n&lt; 2021 경록절 in the House 이번엔 집에서 놀자 &gt;\n➡️일시:2021.2.11(목) PM 12:00 ~ 지옥까지\n➡️중계:유튜브 크라잉넛 오피셜 https://t.co/gyv3vuslnf\n➡️2021 경록절 굿즈  https://t.co/xBGC54MHcr https://t.co/tr4mSsZvm8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gyv3vuslnf",
+					"expanded_url": "https://youtube.com/cryingnut",
+					"display_url": "youtube.com/cryingnut",
+					"indices": [
+						159,
+						182
+					]
+				},
+				{
+					"url": "https://t.co/xBGC54MHcr",
+					"expanded_url": "https://captainrock.net",
+					"display_url": "captainrock.net",
+					"indices": [
+						198,
+						221
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1358981879710421000,
+					"id_str": "1358981879710420992",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EtwS0cRVEAALE_5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtwS0cRVEAALE_5.jpg",
+					"url": "https://t.co/tr4mSsZvm8",
+					"display_url": "pic.twitter.com/tr4mSsZvm8",
+					"expanded_url": "https://twitter.com/captainrock_co/status/1358981888774316040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1358981879710421000,
+					"id_str": "1358981879710420992",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EtwS0cRVEAALE_5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtwS0cRVEAALE_5.jpg",
+					"url": "https://t.co/tr4mSsZvm8",
+					"display_url": "pic.twitter.com/tr4mSsZvm8",
+					"expanded_url": "https://twitter.com/captainrock_co/status/1358981888774316040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1358981879714652200,
+					"id_str": "1358981879714652160",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EtwS0cSVoAAmiCs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtwS0cSVoAAmiCs.jpg",
+					"url": "https://t.co/tr4mSsZvm8",
+					"display_url": "pic.twitter.com/tr4mSsZvm8",
+					"expanded_url": "https://twitter.com/captainrock_co/status/1358981888774316040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1358981879710453800,
+					"id_str": "1358981879710453761",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EtwS0cRVkAELLy3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtwS0cRVkAELLy3.jpg",
+					"url": "https://t.co/tr4mSsZvm8",
+					"display_url": "pic.twitter.com/tr4mSsZvm8",
+					"expanded_url": "https://twitter.com/captainrock_co/status/1358981888774316040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1358981879710445600,
+					"id_str": "1358981879710445571",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EtwS0cRVcAMqrwg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtwS0cRVcAMqrwg.jpg",
+					"url": "https://t.co/tr4mSsZvm8",
+					"display_url": "pic.twitter.com/tr4mSsZvm8",
+					"expanded_url": "https://twitter.com/captainrock_co/status/1358981888774316040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 908719413708308500,
+			"id_str": "908719413708308480",
+			"name": "캡틴락",
+			"screen_name": "captainrock_co",
+			"location": "",
+			"description": "CaptainRock Company 💘 / 크라잉넛 베이시스트 캡틴락 한경록 official",
+			"url": "https://t.co/ZQdkjIUjd1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZQdkjIUjd1",
+							"expanded_url": "http://www.captainrock.net",
+							"display_url": "captainrock.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 258,
+			"listed_count": 0,
+			"created_at": "Fri Sep 15 15:49:26 +0000 2017",
+			"favourites_count": 590,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189182559860609024/JviuBBhA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189182559860609024/JviuBBhA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/908719413708308480/1572358193",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;2021 경록절&gt; 진짜 최종 라인업\n\n끝판왕 등장! 난리났네 난리났어~!\n신나게 즐길 준비 하세요😍\n\n&lt; 2021 경록절 in the House 이번엔 집에서 놀자 &gt;\n➡️일시:2021.2.11(목) PM 12:00 ~ 지옥까지\n➡️중계:유튜브 크라잉넛 오피셜 https://t.co/gyv3vuslnf\n➡️2021 경록절 굿즈  https://t.co/xBGC54MHcr https://t.co/tr4mSsZvm8"
+	},
+	{
+		"created_at": "Tue Feb 09 11:29:32 +0000 2021",
+		"id": 1359095202804236300,
+		"id_str": "1359102125922525185",
+		"full_text": "권진아 EP [우리의 방식]\nKwon Jin Ah EP [The Way For Us]\n\n• Tracklist •\n\n2021. 02. 18. THU 6PM Release\n\n#권진아 #우리의방식 #잘가 #꽃말 \n#Youalreadyhave #어른처럼 #죠지 #여행가 \n\n#KwonJinAh #TheWayForUs #20210218_6PM https://t.co/ofQ7NV1d7m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권진아",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "우리의방식",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "잘가",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "꽃말",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "Youalreadyhave",
+					"indices": [
+						116,
+						131
+					]
+				},
+				{
+					"text": "어른처럼",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "죠지",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "여행가",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						149,
+						159
+					]
+				},
+				{
+					"text": "TheWayForUs",
+					"indices": [
+						160,
+						172
+					]
+				},
+				{
+					"text": "20210218_6PM",
+					"indices": [
+						173,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1359095183367839700,
+					"id_str": "1359095183367839753",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/Etx53lSVoAkgJ8a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Etx53lSVoAkgJ8a.jpg",
+					"url": "https://t.co/ofQ7NV1d7m",
+					"display_url": "pic.twitter.com/ofQ7NV1d7m",
+					"expanded_url": "https://twitter.com/antennamusic/status/1359095202804236288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359095183367839700,
+					"id_str": "1359095183367839753",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/Etx53lSVoAkgJ8a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Etx53lSVoAkgJ8a.jpg",
+					"url": "https://t.co/ofQ7NV1d7m",
+					"display_url": "pic.twitter.com/ofQ7NV1d7m",
+					"expanded_url": "https://twitter.com/antennamusic/status/1359095202804236288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official / 권진아 EP ‘우리의 방식’ 2021. 02. 18. 6PM Release!",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35490,
+			"friends_count": 10,
+			"listed_count": 360,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3435,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1608569605",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "권진아 EP [우리의 방식]\nKwon Jin Ah EP [The Way For Us]\n\n• Tracklist •\n\n2021. 02. 18. THU 6PM Release\n\n#권진아 #우리의방식 #잘가 #꽃말 \n#Youalreadyhave #어른처럼 #죠지 #여행가 \n\n#KwonJinAh #TheWayForUs #20210218_6PM https://t.co/ofQ7NV1d7m"
+	},
+	{
 		"created_at": "Tue Feb 09 11:11:17 +0000 2021",
 		"id": 1359092946793095200,
 		"id_str": "1359097532597559299",
