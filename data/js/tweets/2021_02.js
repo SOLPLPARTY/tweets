@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 09 15:29:25 +0000 2021",
+		"id": 1359155098249793500,
+		"id_str": "1359162495009759234",
+		"full_text": "[ABYSS_ㅊㅋㅊㅋ🎊]\n⠀\n선미의 데뷔 14주년을 진심으로 축하합니다! 변함없는 사랑과 응원을 보내주시는 미야네 감사합니다🤟💜\nHappy SUNMI 14th Anniversary! Thank miya-ne for sending unconditional love and support🤟💜\n⠀\n#선미 #SUNMI\n#미야네 #MIYANE https://t.co/gmkhEHd3WN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선미",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "SUNMI",
+					"indices": [
+						167,
+						173
+					]
+				},
+				{
+					"text": "미야네",
+					"indices": [
+						174,
+						178
+					]
+				},
+				{
+					"text": "MIYANE",
+					"indices": [
+						179,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1359059718057062400,
+					"id_str": "1359059718057062403",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/EtxZnOtVcAMnRbZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtxZnOtVcAMnRbZ.jpg",
+					"url": "https://t.co/gmkhEHd3WN",
+					"display_url": "pic.twitter.com/gmkhEHd3WN",
+					"expanded_url": "https://twitter.com/ABYSS_COMPANY/status/1359155098249793544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359059718057062400,
+					"id_str": "1359059718057062403",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/EtxZnOtVcAMnRbZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtxZnOtVcAMnRbZ.jpg",
+					"url": "https://t.co/gmkhEHd3WN",
+					"display_url": "pic.twitter.com/gmkhEHd3WN",
+					"expanded_url": "https://twitter.com/ABYSS_COMPANY/status/1359155098249793544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 748379922209583100,
+			"id_str": "748379922209583104",
+			"name": "ABYSS COMPANY",
+			"screen_name": "ABYSS_COMPANY",
+			"location": "",
+			"description": "ABYSS COMPANY Official Twitter",
+			"url": "https://t.co/FXx196IZXh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FXx196IZXh",
+							"expanded_url": "http://abysscompany.com/",
+							"display_url": "abysscompany.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10478,
+			"friends_count": 3,
+			"listed_count": 62,
+			"created_at": "Thu Jun 30 04:57:32 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/748379922209583104/1612752885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 469,
+		"favorite_count": 997,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ABYSS_ㅊㅋㅊㅋ🎊]\n⠀\n선미의 데뷔 14주년을 진심으로 축하합니다! 변함없는 사랑과 응원을 보내주시는 미야네 감사합니다🤟💜\nHappy SUNMI 14th Anniversary! Thank miya-ne for sending unconditional love and support🤟💜\n⠀\n#선미 #SUNMI\n#미야네 #MIYANE https://t.co/gmkhEHd3WN"
+	},
+	{
 		"created_at": "Tue Feb 09 13:03:04 +0000 2021",
 		"id": 1359125664494882800,
 		"id_str": "1359125664494882817",
