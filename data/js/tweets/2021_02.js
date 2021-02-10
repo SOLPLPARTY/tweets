@@ -1,6 +1,377 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 10 07:11:28 +0000 2021",
+		"id": 1359389237058048000,
+		"id_str": "1359399568421629952",
+		"full_text": "2/19일까지\n자신의 \"음악 입맛\"을 뽐낼 만한 #플레이리스트 를\n창의적인 제목과 함께\nDM 또는 인스타 프로필에 있는 이메일로\n보내주시면, 한 분을 선정하여\n씬디가 준비한 \n。. ☆​깜짝선물​☆.。이 제공되며\n당첨자님의 이름으로 플레이리스트가\n씬디의 유투브와 블로그에 업로드됩니다!\n많참부! ♡ https://t.co/AXwZMa1RSq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "플레이리스트",
+					"indices": [
+						27,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1359388850062123000,
+					"id_str": "1359388850062123009",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/Et2E9O-UYAEVQzr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et2E9O-UYAEVQzr.jpg",
+					"url": "https://t.co/AXwZMa1RSq",
+					"display_url": "pic.twitter.com/AXwZMa1RSq",
+					"expanded_url": "https://twitter.com/xindieticket/status/1359389237058048003/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359388850062123000,
+					"id_str": "1359388850062123009",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/Et2E9O-UYAEVQzr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et2E9O-UYAEVQzr.jpg",
+					"url": "https://t.co/AXwZMa1RSq",
+					"display_url": "pic.twitter.com/AXwZMa1RSq",
+					"expanded_url": "https://twitter.com/xindieticket/status/1359389237058048003/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1359389231584403500,
+		"in_reply_to_status_id_str": "1359389231584403463",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2777,
+			"friends_count": 2667,
+			"listed_count": 20,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9605,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2/19일까지\n자신의 \"음악 입맛\"을 뽐낼 만한 #플레이리스트 를\n창의적인 제목과 함께\nDM 또는 인스타 프로필에 있는 이메일로\n보내주시면, 한 분을 선정하여\n씬디가 준비한 \n。. ☆​깜짝선물​☆.。이 제공되며\n당첨자님의 이름으로 플레이리스트가\n씬디의 유투브와 블로그에 업로드됩니다!\n많참부! ♡ https://t.co/AXwZMa1RSq"
+	},
+	{
+		"created_at": "Wed Feb 10 07:11:20 +0000 2021",
+		"id": 1359389231584403500,
+		"id_str": "1359399534149926914",
+		"full_text": "[2월 XINDIE’S PLAYLIST “#구독자참여”이벤트]\n\n안녕하세요~ 씬디 구독자 여러분들​♥♡♥\n2월부터 #씬디플레이리스트가 조금 새로워졌어요!\n\n매달의 “첫째 주”는\n인디씬의 신보 소식들로 이뤄진 플레이리스트를 즐겨 볼 것이구,\n매달의 “둘째 &amp; 셋째 주”에는\n씬디 팬분들과 함께 만들어보려 해요! https://t.co/lyRbF96DVY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "구독자참여",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"text": "씬디플레이리스트가",
+					"indices": [
+						64,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1359388761293922300,
+					"id_str": "1359388761293922306",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/Et2E4ESVIAIZGjN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et2E4ESVIAIZGjN.jpg",
+					"url": "https://t.co/lyRbF96DVY",
+					"display_url": "pic.twitter.com/lyRbF96DVY",
+					"expanded_url": "https://twitter.com/xindieticket/status/1359389231584403463/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359388761293922300,
+					"id_str": "1359388761293922306",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/Et2E4ESVIAIZGjN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et2E4ESVIAIZGjN.jpg",
+					"url": "https://t.co/lyRbF96DVY",
+					"display_url": "pic.twitter.com/lyRbF96DVY",
+					"expanded_url": "https://twitter.com/xindieticket/status/1359389231584403463/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2777,
+			"friends_count": 2667,
+			"listed_count": 20,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9605,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2월 XINDIE’S PLAYLIST “#구독자참여”이벤트]\n\n안녕하세요~ 씬디 구독자 여러분들​♥♡♥\n2월부터 #씬디플레이리스트가 조금 새로워졌어요!\n\n매달의 “첫째 주”는\n인디씬의 신보 소식들로 이뤄진 플레이리스트를 즐겨 볼 것이구,\n매달의 “둘째 &amp; 셋째 주”에는\n씬디 팬분들과 함께 만들어보려 해요! https://t.co/lyRbF96DVY"
+	},
+	{
 		"created_at": "Wed Feb 10 06:13:56 +0000 2021",
 		"id": 1359385089893752800,
 		"id_str": "1359385089893752834",
