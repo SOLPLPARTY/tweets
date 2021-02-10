@@ -1,10 +1,210 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 10 10:29:27 +0000 2021",
+		"id": 1359447226896928800,
+		"id_str": "1359449391808057349",
+		"full_text": "[티저]\nNEW ARTIST 구만 (9.10000), Lacuna (라쿠나), 제이유나 (J.UNA)가 모여 벌이는 윷놀이판! 🔥꼬끼오(더치킨)팀 VS 오만과 경민팀🔥 중 누가 우승을 차지할까요?\n설 특집 콘텐츠, 내일 7시 해피로봇 유튜브에서 만나보세요! https://t.co/cd3EXBuvIX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1359447123196997600,
+					"id_str": "1359447123196997632",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1359447123196997632/pu/img/9qDVy5gnmkIc_JtE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1359447123196997632/pu/img/9qDVy5gnmkIc_JtE.jpg",
+					"url": "https://t.co/cd3EXBuvIX",
+					"display_url": "pic.twitter.com/cd3EXBuvIX",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1359447226896928771/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359447123196997600,
+					"id_str": "1359447123196997632",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1359447123196997632/pu/img/9qDVy5gnmkIc_JtE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1359447123196997632/pu/img/9qDVy5gnmkIc_JtE.jpg",
+					"url": "https://t.co/cd3EXBuvIX",
+					"display_url": "pic.twitter.com/cd3EXBuvIX",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1359447226896928771/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 33368,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1359447123196997632/pu/pl/n9UbcZRqAT3MocR0.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359447123196997632/pu/vid/478x270/8mHtlrmKsed9egTU.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359447123196997632/pu/vid/720x406/Qrz5Vbgk2Qjj66Nm.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), LambC(램씨), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13071,
+			"friends_count": 1951,
+			"listed_count": 255,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13256,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[티저]\nNEW ARTIST 구만 (9.10000), Lacuna (라쿠나), 제이유나 (J.UNA)가 모여 벌이는 윷놀이판! 🔥꼬끼오(더치킨)팀 VS 오만과 경민팀🔥 중 누가 우승을 차지할까요?\n설 특집 콘텐츠, 내일 7시 해피로봇 유튜브에서 만나보세요! https://t.co/cd3EXBuvIX"
+	},
+	{
 		"created_at": "Wed Feb 10 09:29:51 +0000 2021",
 		"id": 1359433992437600300,
 		"id_str": "1359434395363532801",
-		"full_text": "@mihalik_mar 🙇🏻‍♂️🙇🏻‍♂️",
+		"full_text": "@mihalik_mar 🙇🏻♂️🙇🏻♂️",
 		"truncated": false,
 		"display_text_range": [
 			13,
@@ -104,7 +304,7 @@ Grailbird.data.tweets_2021_02 =
 		"favorited": false,
 		"retweeted": true,
 		"lang": "und",
-		"text": "@mihalik_mar 🙇🏻‍♂️🙇🏻‍♂️"
+		"text": "@mihalik_mar 🙇🏻♂️🙇🏻♂️"
 	},
 	{
 		"created_at": "Wed Feb 10 09:29:45 +0000 2021",
