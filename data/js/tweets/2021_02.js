@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 10 14:34:18 +0000 2021",
+		"id": 1359472194040918000,
+		"id_str": "1359511013918339072",
+		"full_text": "[#딩고뮤직] 💡#충전포차 OPEN💡오늘 밤 우리 함께 따수운 차 한잔과 음악에 취해봐여,,,😊 드루와~ \n@sunwooJeongA @paulkim_twt @antennamusic @jium1215 @type4graphic  @AB6IX\n\n⭐️[충전포차 LIVE] 다시 보기 \nhttps://t.co/6vvsQTCgDB\n\n#유인나 #AB6IX_동현 #선우정아 #폴킴 #적재 #서지음 #하상욱 https://t.co/ybb6Gv1iDa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "충전포차",
+					"indices": [
+						9,
+						14
+					]
+				},
+				{
+					"text": "유인나",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "AB6IX_동현",
+					"indices": [
+						185,
+						194
+					]
+				},
+				{
+					"text": "선우정아",
+					"indices": [
+						195,
+						200
+					]
+				},
+				{
+					"text": "폴킴",
+					"indices": [
+						201,
+						204
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						205,
+						208
+					]
+				},
+				{
+					"text": "서지음",
+					"indices": [
+						209,
+						213
+					]
+				},
+				{
+					"text": "하상욱",
+					"indices": [
+						214,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sunwooJeongA",
+					"name": "선우정아 / sunwoojunga",
+					"id": 253607159,
+					"id_str": "253607159",
+					"indices": [
+						60,
+						73
+					]
+				},
+				{
+					"screen_name": "paulkim_twt",
+					"name": "폴킴 (Paul Kim)",
+					"id": 774874937328754700,
+					"id_str": "774874937328754688",
+					"indices": [
+						74,
+						86
+					]
+				},
+				{
+					"screen_name": "antennamusic",
+					"name": "안테나 Antenna",
+					"id": 266004552,
+					"id_str": "266004552",
+					"indices": [
+						87,
+						100
+					]
+				},
+				{
+					"screen_name": "jium1215",
+					"name": "서지음",
+					"id": 515802851,
+					"id_str": "515802851",
+					"indices": [
+						101,
+						110
+					]
+				},
+				{
+					"screen_name": "TYPE4GRAPHIC",
+					"name": "하상욱",
+					"id": 69320336,
+					"id_str": "69320336",
+					"indices": [
+						111,
+						124
+					]
+				},
+				{
+					"screen_name": "AB6IX",
+					"name": "AB6IX",
+					"id": 1096344582902575100,
+					"id_str": "1096344582902575104",
+					"indices": [
+						126,
+						132
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6vvsQTCgDB",
+					"expanded_url": "http://youtu.be/lJfQmjsG7Vw",
+					"display_url": "youtu.be/lJfQmjsG7Vw",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1359470974966501400,
+					"id_str": "1359470974966501376",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/Et3PpiFVEAAEVSv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et3PpiFVEAAEVSv.jpg",
+					"url": "https://t.co/ybb6Gv1iDa",
+					"display_url": "pic.twitter.com/ybb6Gv1iDa",
+					"expanded_url": "https://twitter.com/dingo_official/status/1359472194040918016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359470974966501400,
+					"id_str": "1359470974966501376",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/Et3PpiFVEAAEVSv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et3PpiFVEAAEVSv.jpg",
+					"url": "https://t.co/ybb6Gv1iDa",
+					"display_url": "pic.twitter.com/ybb6Gv1iDa",
+					"expanded_url": "https://twitter.com/dingo_official/status/1359472194040918016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 936446104136065000,
+			"id_str": "936446104136065024",
+			"name": "dingo(딩고)",
+			"screen_name": "dingo_official",
+			"location": "",
+			"description": "딩고봇이 운영하는 #딩고 오피셜 계정입니다. 딩고봇은 리트윗🔁이랑 마음❤️ 좋아해!",
+			"url": "https://t.co/kDZqCE1lkP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kDZqCE1lkP",
+							"expanded_url": "https://www.facebook.com/dingo.officialpage.kr/",
+							"display_url": "facebook.com/dingo.official…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128009,
+			"friends_count": 0,
+			"listed_count": 126,
+			"created_at": "Fri Dec 01 04:05:24 +0000 2017",
+			"favourites_count": 14525,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/936446429056319488/H6yq7tt1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936446429056319488/H6yq7tt1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/936446104136065024/1515406506",
+			"profile_link_color": "FF3823",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 679,
+		"favorite_count": 2136,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#딩고뮤직] 💡#충전포차 OPEN💡오늘 밤 우리 함께 따수운 차 한잔과 음악에 취해봐여,,,😊 드루와~ \n@sunwooJeongA @paulkim_twt @antennamusic @jium1215 @type4graphic  @AB6IX\n\n⭐️[충전포차 LIVE] 다시 보기 \nhttps://t.co/6vvsQTCgDB\n\n#유인나 #AB6IX_동현 #선우정아 #폴킴 #적재 #서지음 #하상욱 https://t.co/ybb6Gv1iDa"
+	},
+	{
 		"created_at": "Wed Feb 10 12:03:36 +0000 2021",
 		"id": 1359473086630797300,
 		"id_str": "1359473086630797314",
