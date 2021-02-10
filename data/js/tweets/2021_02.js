@@ -1,6 +1,931 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 10 09:29:51 +0000 2021",
+		"id": 1359433992437600300,
+		"id_str": "1359434395363532801",
+		"full_text": "@mihalik_mar 🙇🏻‍♂️🙇🏻‍♂️",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mihalik_mar",
+					"name": "Uchihata Misato",
+					"id": 463849031,
+					"id_str": "463849031",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1359420701657034800,
+		"in_reply_to_status_id_str": "1359420701657034753",
+		"in_reply_to_user_id": 463849031,
+		"in_reply_to_user_id_str": "463849031",
+		"in_reply_to_screen_name": "mihalik_mar",
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3571,
+			"friends_count": 1216,
+			"listed_count": 50,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 631,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "@mihalik_mar 🙇🏻‍♂️🙇🏻‍♂️"
+	},
+	{
+		"created_at": "Wed Feb 10 09:29:45 +0000 2021",
+		"id": 1359429856581193700,
+		"id_str": "1359434370826850305",
+		"full_text": "9와 숫자들이 2021년 신축년을 맞아 새로이 편곡한 '연날리기'의 노래방 버전의 뮤직비디오를 공개합니다!! 🪁🪁\n모두가 힘든 시기 '연날리기'를 들으면서 시름을 모두 날려 버려욧!!\n\n영상 바로가기: https://t.co/aKE5CLO5RI\n\n#9와숫자들 #연날리기 #노래방버전 #월간MV\n#에헤라디히야하 #뮤직비디오 https://t.co/9cnWMBM3Y5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "9와숫자들",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "연날리기",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "노래방버전",
+					"indices": [
+						151,
+						157
+					]
+				},
+				{
+					"text": "월간MV",
+					"indices": [
+						158,
+						163
+					]
+				},
+				{
+					"text": "에헤라디히야하",
+					"indices": [
+						164,
+						172
+					]
+				},
+				{
+					"text": "뮤직비디오",
+					"indices": [
+						173,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aKE5CLO5RI",
+					"expanded_url": "https://youtu.be/NoF-w9L9Fxw",
+					"display_url": "youtu.be/NoF-w9L9Fxw",
+					"indices": [
+						113,
+						136
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1359429523092111400,
+					"id_str": "1359429523092111365",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/Et2p8t0VgAU1Ppa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et2p8t0VgAU1Ppa.jpg",
+					"url": "https://t.co/9cnWMBM3Y5",
+					"display_url": "pic.twitter.com/9cnWMBM3Y5",
+					"expanded_url": "https://twitter.com/orm_ent/status/1359429856581193730/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 957,
+							"h": 533,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 957,
+							"h": 533,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359429523092111400,
+					"id_str": "1359429523092111365",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/Et2p8t0VgAU1Ppa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et2p8t0VgAU1Ppa.jpg",
+					"url": "https://t.co/9cnWMBM3Y5",
+					"display_url": "pic.twitter.com/9cnWMBM3Y5",
+					"expanded_url": "https://twitter.com/orm_ent/status/1359429856581193730/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 957,
+							"h": 533,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 957,
+							"h": 533,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 723,
+			"friends_count": 324,
+			"listed_count": 0,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 717,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2891,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1611200656",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "9와 숫자들이 2021년 신축년을 맞아 새로이 편곡한 '연날리기'의 노래방 버전의 뮤직비디오를 공개합니다!! 🪁🪁\n모두가 힘든 시기 '연날리기'를 들으면서 시름을 모두 날려 버려욧!!\n\n영상 바로가기: https://t.co/aKE5CLO5RI\n\n#9와숫자들 #연날리기 #노래방버전 #월간MV\n#에헤라디히야하 #뮤직비디오 https://t.co/9cnWMBM3Y5"
+	},
+	{
+		"created_at": "Wed Feb 10 09:29:38 +0000 2021",
+		"id": 1359427849359220700,
+		"id_str": "1359434341047238660",
+		"full_text": "[D-1]\n“매일 늦은 밤 홀로 산책을 하며\n봐 왔던 세계를 기록했습니다.” 🌘🌗🌖🌕\n동찬(Dongchan) &lt;태양 같은 달&gt;\n2020.02.11 12pm\n\nTracklist\n1.태양 같은 달 (feat. 최가은)\n2.구름 같은 달 (feat. 2muchblack)\n▶️ 3.쏟아지는 달 (feat. 최가은) ◀️\n4.버려지는 달 (feat. Dubinvain, 장희정) https://t.co/BNZ1s34sdn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1359427787346440200,
+					"id_str": "1359427787346440194",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1359427787346440194/pu/img/cTQSqWNlcwGZg8KM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1359427787346440194/pu/img/cTQSqWNlcwGZg8KM.jpg",
+					"url": "https://t.co/BNZ1s34sdn",
+					"display_url": "pic.twitter.com/BNZ1s34sdn",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1359427849359220738/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359427787346440200,
+					"id_str": "1359427787346440194",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1359427787346440194/pu/img/cTQSqWNlcwGZg8KM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1359427787346440194/pu/img/cTQSqWNlcwGZg8KM.jpg",
+					"url": "https://t.co/BNZ1s34sdn",
+					"display_url": "pic.twitter.com/BNZ1s34sdn",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1359427849359220738/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 53033,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1359427787346440194/pu/pl/eRxq2zeaeItk9es3.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359427787346440194/pu/vid/640x360/ExDbrEZLQ07wI5eG.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359427787346440194/pu/vid/480x270/wq0rvnhrrcZT7JwN.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359427787346440194/pu/vid/1280x720/awur2riCHdQs07h9.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3571,
+			"friends_count": 1216,
+			"listed_count": 50,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 631,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[D-1]\n“매일 늦은 밤 홀로 산책을 하며\n봐 왔던 세계를 기록했습니다.” 🌘🌗🌖🌕\n동찬(Dongchan) &lt;태양 같은 달&gt;\n2020.02.11 12pm\n\nTracklist\n1.태양 같은 달 (feat. 최가은)\n2.구름 같은 달 (feat. 2muchblack)\n▶️ 3.쏟아지는 달 (feat. 최가은) ◀️\n4.버려지는 달 (feat. Dubinvain, 장희정) https://t.co/BNZ1s34sdn"
+	},
+	{
+		"created_at": "Wed Feb 10 09:29:29 +0000 2021",
+		"id": 1359426882609897500,
+		"id_str": "1359434302640050176",
+		"full_text": "[#홍자] 트로트 차트쇼 '더 트롯쇼' 에 홍자 출연📺\n \n트롯 강자 홍자의 무대는 오늘 밤 9시🕘 SBS F!L과 SBS MTV에서✅\n\n#SBSFiL #SBSMTV #트로트차트쇼 #더트롯쇼 https://t.co/cHTu7Wqa3B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍자",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "SBSFiL",
+					"indices": [
+						77,
+						84
+					]
+				},
+				{
+					"text": "SBSMTV",
+					"indices": [
+						85,
+						92
+					]
+				},
+				{
+					"text": "트로트차트쇼",
+					"indices": [
+						93,
+						100
+					]
+				},
+				{
+					"text": "더트롯쇼",
+					"indices": [
+						101,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1359412182249656300,
+					"id_str": "1359412182249656321",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/Et2aLWJUUAEoTL0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et2aLWJUUAEoTL0.jpg",
+					"url": "https://t.co/cHTu7Wqa3B",
+					"display_url": "pic.twitter.com/cHTu7Wqa3B",
+					"expanded_url": "https://twitter.com/themysticstory/status/1359426882609897474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359412182249656300,
+					"id_str": "1359412182249656321",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/Et2aLWJUUAEoTL0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et2aLWJUUAEoTL0.jpg",
+					"url": "https://t.co/cHTu7Wqa3B",
+					"display_url": "pic.twitter.com/cHTu7Wqa3B",
+					"expanded_url": "https://twitter.com/themysticstory/status/1359426882609897474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1359412188327211000,
+					"id_str": "1359412188327211008",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/Et2aLsyUcAA0xBt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et2aLsyUcAA0xBt.jpg",
+					"url": "https://t.co/cHTu7Wqa3B",
+					"display_url": "pic.twitter.com/cHTu7Wqa3B",
+					"expanded_url": "https://twitter.com/themysticstory/status/1359426882609897474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1359412196229345300,
+					"id_str": "1359412196229345281",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/Et2aMKOVcAEhhCm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et2aMKOVcAEhhCm.jpg",
+					"url": "https://t.co/cHTu7Wqa3B",
+					"display_url": "pic.twitter.com/cHTu7Wqa3B",
+					"expanded_url": "https://twitter.com/themysticstory/status/1359426882609897474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20399,
+			"friends_count": 18,
+			"listed_count": 241,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5609,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#홍자] 트로트 차트쇼 '더 트롯쇼' 에 홍자 출연📺\n \n트롯 강자 홍자의 무대는 오늘 밤 9시🕘 SBS F!L과 SBS MTV에서✅\n\n#SBSFiL #SBSMTV #트로트차트쇼 #더트롯쇼 https://t.co/cHTu7Wqa3B"
+	},
+	{
+		"created_at": "Wed Feb 10 09:29:27 +0000 2021",
+		"id": 1359425673262035000,
+		"id_str": "1359434293789999110",
+		"full_text": "맘이 아프네요\n항상 응원하겠습니다\n\n이소정 - 안아줘(싱어게인)\nhttps://t.co/EOEJE0eOm7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EOEJE0eOm7",
+					"expanded_url": "http://naver.me/FDQBTeeH",
+					"display_url": "naver.me/FDQBTeeH",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2677,
+			"friends_count": 341,
+			"listed_count": 32,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 18262,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5614,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "맘이 아프네요\n항상 응원하겠습니다\n\n이소정 - 안아줘(싱어게인)\nhttps://t.co/EOEJE0eOm7"
+	},
+	{
 		"created_at": "Wed Feb 10 09:11:35 +0000 2021",
 		"id": 1359423138077962200,
 		"id_str": "1359429797768794117",
