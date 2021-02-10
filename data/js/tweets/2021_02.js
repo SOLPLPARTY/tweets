@@ -1,10 +1,1056 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 10 09:11:35 +0000 2021",
+		"id": 1359423138077962200,
+		"id_str": "1359429797768794117",
+		"full_text": "걸어서 대학로 속으로!! 오늘의 추천 경로!\n\n1호선 동대문역(4호선:10번출구, 1호선 1번출구) &gt;&gt; 대학로 \n⭐️동대문과 성곽공원의 아름다운 야경,\n도보 25분~30분 소요\n\n1호선 종로5가(3번출구) &gt;&gt; 대학로\n⭐️이화사거리~혜화역까지 역사와 추억의 대학로, 도보 20분~25분 소요",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1104695434893652000,
+			"id_str": "1104695434893651968",
+			"name": "YES24 STAGE_예스24 스테이지",
+			"screen_name": "yes24stage",
+			"location": "대한민국 서울 종로구 대학로12길, 21",
+			"description": "예스24(주)가 운영하는 공연장 운영법인인 예스24라이브홀(주)의 #대학로 공연장 #예스24스테이지 ( #YES24STAGE ) 의 공식 트위터입니다.",
+			"url": "https://t.co/gpVU45TxjE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gpVU45TxjE",
+							"expanded_url": "https://www.yes24stage.com/",
+							"display_url": "yes24stage.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4854,
+			"friends_count": 40,
+			"listed_count": 20,
+			"created_at": "Sun Mar 10 10:48:10 +0000 2019",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 324,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1104695434893651968/1585722791",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 254,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "걸어서 대학로 속으로!! 오늘의 추천 경로!\n\n1호선 동대문역(4호선:10번출구, 1호선 1번출구) &gt;&gt; 대학로 \n⭐️동대문과 성곽공원의 아름다운 야경,\n도보 25분~30분 소요\n\n1호선 종로5가(3번출구) &gt;&gt; 대학로\n⭐️이화사거리~혜화역까지 역사와 추억의 대학로, 도보 20분~25분 소요"
+	},
+	{
+		"created_at": "Wed Feb 10 09:11:28 +0000 2021",
+		"id": 1359417257714061300,
+		"id_str": "1359429767968227329",
+		"full_text": "설날 D-2!!\n행복한 설 명절 보내시고 건강챙기세욧👋🏻\n\n#새해복많이받으세요 https://t.co/ybdXnOUAmM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "새해복많이받으세요",
+					"indices": [
+						33,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1359417251464532000,
+					"id_str": "1359417251464531970",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/Et2eyacU0AITBrc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et2eyacU0AITBrc.jpg",
+					"url": "https://t.co/ybdXnOUAmM",
+					"display_url": "pic.twitter.com/ybdXnOUAmM",
+					"expanded_url": "https://twitter.com/SSmadang/status/1359417257714061320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1134,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1134,
+							"h": 1134,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359417251464532000,
+					"id_str": "1359417251464531970",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/Et2eyacU0AITBrc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et2eyacU0AITBrc.jpg",
+					"url": "https://t.co/ybdXnOUAmM",
+					"display_url": "pic.twitter.com/ybdXnOUAmM",
+					"expanded_url": "https://twitter.com/SSmadang/status/1359417257714061320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1134,
+							"h": 1134,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1134,
+							"h": 1134,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18223,
+			"friends_count": 1898,
+			"listed_count": 292,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 503,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "설날 D-2!!\n행복한 설 명절 보내시고 건강챙기세욧👋🏻\n\n#새해복많이받으세요 https://t.co/ybdXnOUAmM"
+	},
+	{
+		"created_at": "Wed Feb 10 09:11:22 +0000 2021",
+		"id": 1359417124859506700,
+		"id_str": "1359429742370430976",
+		"full_text": "📍설 공간 별 운영시간 안내📍\n설날 D-2!!\n설날에 쉬어가는 공간들을 체크해주세요:) https://t.co/hz71sffGkv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1359417117527797800,
+					"id_str": "1359417117527797760",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/Et2eqnfUcAAYFpO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et2eqnfUcAAYFpO.jpg",
+					"url": "https://t.co/hz71sffGkv",
+					"display_url": "pic.twitter.com/hz71sffGkv",
+					"expanded_url": "https://twitter.com/SSmadang/status/1359417124859506691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 922,
+							"h": 922,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 922,
+							"h": 922,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359417117527797800,
+					"id_str": "1359417117527797760",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/Et2eqnfUcAAYFpO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et2eqnfUcAAYFpO.jpg",
+					"url": "https://t.co/hz71sffGkv",
+					"display_url": "pic.twitter.com/hz71sffGkv",
+					"expanded_url": "https://twitter.com/SSmadang/status/1359417124859506691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 922,
+							"h": 922,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 922,
+							"h": 922,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1359417117536182300,
+					"id_str": "1359417117536182274",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/Et2eqnhUYAIHTSu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et2eqnhUYAIHTSu.jpg",
+					"url": "https://t.co/hz71sffGkv",
+					"display_url": "pic.twitter.com/hz71sffGkv",
+					"expanded_url": "https://twitter.com/SSmadang/status/1359417124859506691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 922,
+							"h": 922,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 922,
+							"h": 922,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1359417117523644400,
+					"id_str": "1359417117523644421",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/Et2eqneVEAUEPwk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et2eqneVEAUEPwk.jpg",
+					"url": "https://t.co/hz71sffGkv",
+					"display_url": "pic.twitter.com/hz71sffGkv",
+					"expanded_url": "https://twitter.com/SSmadang/status/1359417124859506691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 922,
+							"h": 922,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 922,
+							"h": 922,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1359417117531992000,
+					"id_str": "1359417117531992065",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/Et2eqngUcAETBSf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et2eqngUcAETBSf.jpg",
+					"url": "https://t.co/hz71sffGkv",
+					"display_url": "pic.twitter.com/hz71sffGkv",
+					"expanded_url": "https://twitter.com/SSmadang/status/1359417124859506691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 922,
+							"h": 922,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 922,
+							"h": 922,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18223,
+			"friends_count": 1898,
+			"listed_count": 292,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 503,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061898245721403392/H_SOoD3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📍설 공간 별 운영시간 안내📍\n설날 D-2!!\n설날에 쉬어가는 공간들을 체크해주세요:) https://t.co/hz71sffGkv"
+	},
+	{
+		"created_at": "Wed Feb 10 09:11:17 +0000 2021",
+		"id": 1359417119662694400,
+		"id_str": "1359429720811700224",
+		"full_text": "관련 여파로 혜화역을 포함한 4호선 지하철의 지연 운행이 예상되오니, 대중교통을 이용하시는 관객분들께서는 여유 있는 이동시간을 고려하여 주시기 바랍니다 https://t.co/n5qLt5g0Ql",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n5qLt5g0Ql",
+					"expanded_url": "https://twitter.com/seoul_metro/status/1359389055943802882",
+					"display_url": "twitter.com/seoul_metro/st…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1104695434893652000,
+			"id_str": "1104695434893651968",
+			"name": "YES24 STAGE_예스24 스테이지",
+			"screen_name": "yes24stage",
+			"location": "대한민국 서울 종로구 대학로12길, 21",
+			"description": "예스24(주)가 운영하는 공연장 운영법인인 예스24라이브홀(주)의 #대학로 공연장 #예스24스테이지 ( #YES24STAGE ) 의 공식 트위터입니다.",
+			"url": "https://t.co/gpVU45TxjE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gpVU45TxjE",
+							"expanded_url": "https://www.yes24stage.com/",
+							"display_url": "yes24stage.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4854,
+			"friends_count": 40,
+			"listed_count": 20,
+			"created_at": "Sun Mar 10 10:48:10 +0000 2019",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 324,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1104695434893651968/1585722791",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1359389055943803000,
+		"quoted_status_id_str": "1359389055943802882",
+		"quoted_status_permalink": {
+			"url": "https://t.co/n5qLt5g0Ql",
+			"expanded": "https://twitter.com/seoul_metro/status/1359389055943802882",
+			"display": "twitter.com/seoul_metro/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 10 06:29:41 +0000 2021",
+			"id": 1359389055943803000,
+			"id_str": "1359389055943802882",
+			"full_text": "현재 4호선에서의 서울장애인차별철폐연대의 시위로 인해 4호선 열차 운행이 지연되고 있습니다. \n\n공사는 현장에 지하철보안관 등 인력을 투입하여 최대한 지연이 발생하지 않도록 노력하고 있습니다.\n\n지하철 이용에 참고하시기 바랍니다.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				128
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 64331888,
+				"id_str": "64331888",
+				"name": "서울교통공사 SeoulMetro",
+				"screen_name": "seoul_metro",
+				"location": "서울",
+				"description": "서울 지하철 1~8호선을 운영하고 있는 서울교통공사(SeoulMetro)의 공식 트위터입니다.   ※ 민원 관련 문의는 서울교통공사 콜센터에서 24시간 접수하고 있습니다.(☏1577-1234 전화/문자/사진/동영상 가능)",
+				"url": "http://t.co/uaSEsomuiG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/uaSEsomuiG",
+								"expanded_url": "http://www.seoulmetro.co.kr",
+								"display_url": "seoulmetro.co.kr",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18525,
+				"friends_count": 100,
+				"listed_count": 350,
+				"created_at": "Mon Aug 10 04:03:39 +0000 2009",
+				"favourites_count": 335,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9152,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1154212196609429505/D8IEOFvD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154212196609429505/D8IEOFvD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/64331888/1507709405",
+				"profile_link_color": "139BF5",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F7D4F7",
+				"profile_text_color": "15066E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 158,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ko"
+		},
+		"retweet_count": 232,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "관련 여파로 혜화역을 포함한 4호선 지하철의 지연 운행이 예상되오니, 대중교통을 이용하시는 관객분들께서는 여유 있는 이동시간을 고려하여 주시기 바랍니다 https://t.co/n5qLt5g0Ql"
+	},
+	{
+		"created_at": "Wed Feb 10 09:08:36 +0000 2021",
+		"id": 1359429047059681300,
+		"id_str": "1359429047059681283",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\nDear Corin (디어코린)  - 나만 알던 버릇 [Music Video]\nhttps://t.co/iLB43NXx30",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iLB43NXx30",
+					"expanded_url": "https://youtu.be/wAY6dn0i7fo",
+					"display_url": "youtu.be/wAY6dn0i7fo",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 442,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\nDear Corin (디어코린)  - 나만 알던 버릇 [Music Video]\nhttps://t.co/iLB43NXx30"
+	},
+	{
+		"created_at": "Wed Feb 10 09:08:36 +0000 2021",
+		"id": 1359429047051255800,
+		"id_str": "1359429047051255809",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n하루 (HARU) - FANS (Feat. Kristel Fulgar &amp; KURO) [Teaser]\nhttps://t.co/fkJsZ1gTCu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fkJsZ1gTCu",
+					"expanded_url": "https://youtu.be/qala73eCCi8",
+					"display_url": "youtu.be/qala73eCCi8",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 442,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "da",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n하루 (HARU) - FANS (Feat. Kristel Fulgar &amp; KURO) [Teaser]\nhttps://t.co/fkJsZ1gTCu"
+	},
+	{
 		"created_at": "Wed Feb 10 07:11:28 +0000 2021",
 		"id": 1359389237058048000,
 		"id_str": "1359399568421629952",
-		"full_text": "2/19일까지\n자신의 \"음악 입맛\"을 뽐낼 만한 #플레이리스트 를\n창의적인 제목과 함께\nDM 또는 인스타 프로필에 있는 이메일로\n보내주시면, 한 분을 선정하여\n씬디가 준비한 \n。. ☆​깜짝선물​☆.。이 제공되며\n당첨자님의 이름으로 플레이리스트가\n씬디의 유투브와 블로그에 업로드됩니다!\n많참부! ♡ https://t.co/AXwZMa1RSq",
+		"full_text": "2/19일까지\n자신의 \"음악 입맛\"을 뽐낼 만한 #플레이리스트 를\n창의적인 제목과 함께\nDM 또는 인스타 프로필에 있는 이메일로\n보내주시면, 한 분을 선정하여\n씬디가 준비한 \n。. ☆깜짝선물☆.。이 제공되며\n당첨자님의 이름으로 플레이리스트가\n씬디의 유투브와 블로그에 업로드됩니다!\n많참부! ♡ https://t.co/AXwZMa1RSq",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -180,13 +1226,13 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "2/19일까지\n자신의 \"음악 입맛\"을 뽐낼 만한 #플레이리스트 를\n창의적인 제목과 함께\nDM 또는 인스타 프로필에 있는 이메일로\n보내주시면, 한 분을 선정하여\n씬디가 준비한 \n。. ☆​깜짝선물​☆.。이 제공되며\n당첨자님의 이름으로 플레이리스트가\n씬디의 유투브와 블로그에 업로드됩니다!\n많참부! ♡ https://t.co/AXwZMa1RSq"
+		"text": "2/19일까지\n자신의 \"음악 입맛\"을 뽐낼 만한 #플레이리스트 를\n창의적인 제목과 함께\nDM 또는 인스타 프로필에 있는 이메일로\n보내주시면, 한 분을 선정하여\n씬디가 준비한 \n。. ☆깜짝선물☆.。이 제공되며\n당첨자님의 이름으로 플레이리스트가\n씬디의 유투브와 블로그에 업로드됩니다!\n많참부! ♡ https://t.co/AXwZMa1RSq"
 	},
 	{
 		"created_at": "Wed Feb 10 07:11:20 +0000 2021",
 		"id": 1359389231584403500,
 		"id_str": "1359399534149926914",
-		"full_text": "[2월 XINDIE’S PLAYLIST “#구독자참여”이벤트]\n\n안녕하세요~ 씬디 구독자 여러분들​♥♡♥\n2월부터 #씬디플레이리스트가 조금 새로워졌어요!\n\n매달의 “첫째 주”는\n인디씬의 신보 소식들로 이뤄진 플레이리스트를 즐겨 볼 것이구,\n매달의 “둘째 &amp; 셋째 주”에는\n씬디 팬분들과 함께 만들어보려 해요! https://t.co/lyRbF96DVY",
+		"full_text": "[2월 XINDIE’S PLAYLIST “#구독자참여”이벤트]\n\n안녕하세요~ 씬디 구독자 여러분들♥♡♥\n2월부터 #씬디플레이리스트가 조금 새로워졌어요!\n\n매달의 “첫째 주”는\n인디씬의 신보 소식들로 이뤄진 플레이리스트를 즐겨 볼 것이구,\n매달의 “둘째 &amp; 셋째 주”에는\n씬디 팬분들과 함께 만들어보려 해요! https://t.co/lyRbF96DVY",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -369,7 +1415,7 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[2월 XINDIE’S PLAYLIST “#구독자참여”이벤트]\n\n안녕하세요~ 씬디 구독자 여러분들​♥♡♥\n2월부터 #씬디플레이리스트가 조금 새로워졌어요!\n\n매달의 “첫째 주”는\n인디씬의 신보 소식들로 이뤄진 플레이리스트를 즐겨 볼 것이구,\n매달의 “둘째 &amp; 셋째 주”에는\n씬디 팬분들과 함께 만들어보려 해요! https://t.co/lyRbF96DVY"
+		"text": "[2월 XINDIE’S PLAYLIST “#구독자참여”이벤트]\n\n안녕하세요~ 씬디 구독자 여러분들♥♡♥\n2월부터 #씬디플레이리스트가 조금 새로워졌어요!\n\n매달의 “첫째 주”는\n인디씬의 신보 소식들로 이뤄진 플레이리스트를 즐겨 볼 것이구,\n매달의 “둘째 &amp; 셋째 주”에는\n씬디 팬분들과 함께 만들어보려 해요! https://t.co/lyRbF96DVY"
 	},
 	{
 		"created_at": "Wed Feb 10 06:13:56 +0000 2021",
