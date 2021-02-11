@@ -1,10 +1,125 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 11 08:11:22 +0000 2021",
+		"id": 1359768177387839500,
+		"id_str": "1359777031521722368",
+		"full_text": "빠르게 품절되었다가 재입고된 이종선 작가님의 소설 &lt; 인생리셋버튼 &gt; 이 공상온도에 재입고되었어요! 공상온도 스토어에서 만나보세요!\nhttps://t.co/d7i5lMqQTc\nhttps://t.co/XipgX8L2sV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7i5lMqQTc",
+					"expanded_url": "http://www.gongsangondo.com",
+					"display_url": "gongsangondo.com",
+					"indices": [
+						80,
+						103
+					]
+				},
+				{
+					"url": "https://t.co/XipgX8L2sV",
+					"expanded_url": "http://smartstore.naver.com/gongsangondo",
+					"display_url": "smartstore.naver.com/gongsangondo",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 362,
+			"friends_count": 194,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1082,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빠르게 품절되었다가 재입고된 이종선 작가님의 소설 &lt; 인생리셋버튼 &gt; 이 공상온도에 재입고되었어요! 공상온도 스토어에서 만나보세요!\nhttps://t.co/d7i5lMqQTc\nhttps://t.co/XipgX8L2sV"
+	},
+	{
 		"created_at": "Thu Feb 11 06:29:32 +0000 2021",
 		"id": 1359744223046635500,
 		"id_str": "1359751403556716544",
-		"full_text": "[#미스틱스토리] HAPPY NEW YEAR with MYSTIC STORY🎉\n\n미스틱스토리가 전하는 첫 번째 설 인사 도착💌 새해 복 많이 받으세요🙇🏻🙇🏻‍♀️\n\n#유주혜 #퍼센트 #이유안 https://t.co/I4klZdJVuf",
+		"full_text": "[#미스틱스토리] HAPPY NEW YEAR with MYSTIC STORY🎉\n\n미스틱스토리가 전하는 첫 번째 설 인사 도착💌 새해 복 많이 받으세요🙇🏻🙇🏻♀️\n\n#유주혜 #퍼센트 #이유안 https://t.co/I4klZdJVuf",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -273,7 +388,7 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#미스틱스토리] HAPPY NEW YEAR with MYSTIC STORY🎉\n\n미스틱스토리가 전하는 첫 번째 설 인사 도착💌 새해 복 많이 받으세요🙇🏻🙇🏻‍♀️\n\n#유주혜 #퍼센트 #이유안 https://t.co/I4klZdJVuf"
+		"text": "[#미스틱스토리] HAPPY NEW YEAR with MYSTIC STORY🎉\n\n미스틱스토리가 전하는 첫 번째 설 인사 도착💌 새해 복 많이 받으세요🙇🏻🙇🏻♀️\n\n#유주혜 #퍼센트 #이유안 https://t.co/I4klZdJVuf"
 	},
 	{
 		"created_at": "Thu Feb 11 04:29:34 +0000 2021",
