@@ -1,10 +1,171 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 11 14:36:49 +0000 2021",
+		"id": 1359869714982269000,
+		"id_str": "1359874033316098052",
+		"full_text": "공간반응 링크는 아직 유효합니다. 신청 후 공연을 놓친 분들을 위해 열어두었어요. 이 사진은 관람 전 드리는 당부입니다. 명절 따뜻하게 보내시고 새해 복 많이 받으셔요. 몸도 마음도 건강하시기를 바라요. https://t.co/y2gkFAqvwS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1359869707482931200,
+					"id_str": "1359869707482931204",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/Et86S0dVoAQjeZ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et86S0dVoAQjeZ1.jpg",
+					"url": "https://t.co/y2gkFAqvwS",
+					"display_url": "pic.twitter.com/y2gkFAqvwS",
+					"expanded_url": "https://twitter.com/dawnyboom/status/1359869714982268932/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 276,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 832,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 488,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359869707482931200,
+					"id_str": "1359869707482931204",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/Et86S0dVoAQjeZ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et86S0dVoAQjeZ1.jpg",
+					"url": "https://t.co/y2gkFAqvwS",
+					"display_url": "pic.twitter.com/y2gkFAqvwS",
+					"expanded_url": "https://twitter.com/dawnyboom/status/1359869714982268932/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 276,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 832,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 488,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 115895688,
+			"id_str": "115895688",
+			"name": "한희정 Han Heejung",
+			"screen_name": "dawnyboom",
+			"location": "",
+			"description": "만들고 연주합니다",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12268,
+			"friends_count": 99,
+			"listed_count": 488,
+			"created_at": "Sat Feb 20 10:21:58 +0000 2010",
+			"favourites_count": 646,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1586,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2F2F2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048146617793036289/_EKaDQ5j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048146617793036289/_EKaDQ5j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/115895688/1570692306",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "C4C4C4",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "363636",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공간반응 링크는 아직 유효합니다. 신청 후 공연을 놓친 분들을 위해 열어두었어요. 이 사진은 관람 전 드리는 당부입니다. 명절 따뜻하게 보내시고 새해 복 많이 받으셔요. 몸도 마음도 건강하시기를 바라요. https://t.co/y2gkFAqvwS"
+	},
+	{
 		"created_at": "Thu Feb 11 14:17:52 +0000 2021",
 		"id": 1359869263889248300,
 		"id_str": "1359869263889248256",
-		"full_text": "#루비레코드 #Ruby_Records\n[ #모트​ ] 모트는 오늘 밤도 잠들지 않아 EP03\nhttps://t.co/RwzJM908fY",
+		"full_text": "#루비레코드 #Ruby_Records\n[ #모트 ] 모트는 오늘 밤도 잠들지 않아 EP03\nhttps://t.co/RwzJM908fY",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -145,7 +306,7 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#루비레코드 #Ruby_Records\n[ #모트​ ] 모트는 오늘 밤도 잠들지 않아 EP03\nhttps://t.co/RwzJM908fY"
+		"text": "#루비레코드 #Ruby_Records\n[ #모트 ] 모트는 오늘 밤도 잠들지 않아 EP03\nhttps://t.co/RwzJM908fY"
 	},
 	{
 		"created_at": "Thu Feb 11 11:11:09 +0000 2021",
