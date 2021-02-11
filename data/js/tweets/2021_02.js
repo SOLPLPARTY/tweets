@@ -1,6 +1,1405 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 11 11:11:09 +0000 2021",
+		"id": 1359784192440103000,
+		"id_str": "1359822274392592384",
+		"full_text": "오늘 경록절에 브로콜리너마저도 참여했어요\n크라잉넛 유투브채널에서 밤 10~12시에 나옵니다! 👉🏻 https://t.co/P0pxdhlS4N 🎉🎉🎉 https://t.co/8OAozvFIeR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P0pxdhlS4N",
+					"expanded_url": "https://youtube.com/cryingnut",
+					"display_url": "youtube.com/cryingnut",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1359784183652962300,
+					"id_str": "1359784183652962306",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/Et7sgrXUUAISJob.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et7sgrXUUAISJob.jpg",
+					"url": "https://t.co/8OAozvFIeR",
+					"display_url": "pic.twitter.com/8OAozvFIeR",
+					"expanded_url": "https://twitter.com/studiobroccoli/status/1359784192440102913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359784183652962300,
+					"id_str": "1359784183652962306",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/Et7sgrXUUAISJob.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et7sgrXUUAISJob.jpg",
+					"url": "https://t.co/8OAozvFIeR",
+					"display_url": "pic.twitter.com/8OAozvFIeR",
+					"expanded_url": "https://twitter.com/studiobroccoli/status/1359784192440102913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 929392287053836300,
+			"id_str": "929392287053836288",
+			"name": "브로콜리너마저",
+			"screen_name": "studiobroccoli",
+			"location": "",
+			"description": "밴드 브로콜리너마저 입니다. 070-7745-3003 / broccoliyoutoo@gmail.com",
+			"url": "https://t.co/bucCzREAqo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bucCzREAqo",
+							"expanded_url": "http://linktr.ee/broccoliyoutoo",
+							"display_url": "linktr.ee/broccoliyoutoo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 676,
+			"friends_count": 291,
+			"listed_count": 2,
+			"created_at": "Sat Nov 11 16:56:03 +0000 2017",
+			"favourites_count": 2633,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356543803281211392/wZHwh77d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356543803281211392/wZHwh77d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/929392287053836288/1607586684",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "오늘 경록절에 브로콜리너마저도 참여했어요\n크라잉넛 유투브채널에서 밤 10~12시에 나옵니다! 👉🏻 https://t.co/P0pxdhlS4N 🎉🎉🎉 https://t.co/8OAozvFIeR"
+	},
+	{
+		"created_at": "Thu Feb 11 10:55:27 +0000 2021",
+		"id": 1359804592192589800,
+		"id_str": "1359818323022647299",
+		"full_text": "#허클베리피 와 #스월비 가 참여한 ‘2021 경록절 in the House’ 온라인 비대면 공연의 중계가 ‘크라잉넛 공식 유튜브 채널’을 통해 진행됩니다.\n\n2021년 2월 12일 금요일 1:00 AM 부터 출연예정\n📡\nhttps://t.co/aAy0ee6o1r\n\n#HuckleberryP #Swervy #하이라이트레코즈 #HiLiteRecords https://t.co/nHtH3xyH9m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "허클베리피",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "스월비",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "HuckleberryP",
+					"indices": [
+						149,
+						162
+					]
+				},
+				{
+					"text": "Swervy",
+					"indices": [
+						163,
+						170
+					]
+				},
+				{
+					"text": "하이라이트레코즈",
+					"indices": [
+						171,
+						180
+					]
+				},
+				{
+					"text": "HiLiteRecords",
+					"indices": [
+						181,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aAy0ee6o1r",
+					"expanded_url": "https://youtu.be/r3Atlz0XgCQ",
+					"display_url": "youtu.be/r3Atlz0XgCQ",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1359804534361448400,
+					"id_str": "1359804534361448448",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/Et7_BPqUYAANkNF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et7_BPqUYAANkNF.jpg",
+					"url": "https://t.co/nHtH3xyH9m",
+					"display_url": "pic.twitter.com/nHtH3xyH9m",
+					"expanded_url": "https://twitter.com/hiliterecords/status/1359804592192589833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359804534361448400,
+					"id_str": "1359804534361448448",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/Et7_BPqUYAANkNF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et7_BPqUYAANkNF.jpg",
+					"url": "https://t.co/nHtH3xyH9m",
+					"display_url": "pic.twitter.com/nHtH3xyH9m",
+					"expanded_url": "https://twitter.com/hiliterecords/status/1359804592192589833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1359804534353105000,
+					"id_str": "1359804534353104898",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/Et7_BPoVEAIlC8I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et7_BPoVEAIlC8I.jpg",
+					"url": "https://t.co/nHtH3xyH9m",
+					"display_url": "pic.twitter.com/nHtH3xyH9m",
+					"expanded_url": "https://twitter.com/hiliterecords/status/1359804592192589833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1359804534353059800,
+					"id_str": "1359804534353059844",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/Et7_BPoUYAQoryO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et7_BPoUYAQoryO.jpg",
+					"url": "https://t.co/nHtH3xyH9m",
+					"display_url": "pic.twitter.com/nHtH3xyH9m",
+					"expanded_url": "https://twitter.com/hiliterecords/status/1359804592192589833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1078,
+							"h": 1349,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 136064701,
+			"id_str": "136064701",
+			"name": "Hi-Lite Records | 하이라이트레코즈",
+			"screen_name": "hiliterecords",
+			"location": "Seoul, Korea",
+			"description": "팔로알토 (Paloalto) | 허클베리피 (Huckleberry P) | 레디 (Reddy) | 스웨이디 (Sway D) | 윤비 (YunB) | 요시 (Yosi) | 조원우 | 스월비 (Swervy) | 오웰무드 (Owell Mood) | 수비 (Soovi) | 저드 (jerd)",
+			"url": "https://t.co/1ogGfq9XdB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1ogGfq9XdB",
+							"expanded_url": "http://www.hiliterecords.com",
+							"display_url": "hiliterecords.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16103,
+			"friends_count": 4,
+			"listed_count": 98,
+			"created_at": "Thu Apr 22 23:17:02 +0000 2010",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4625,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1344262825137504256/qyQnyCR6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1344262825137504256/qyQnyCR6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/136064701/1611398497",
+			"profile_link_color": "F5AB18",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "545254",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "#허클베리피 와 #스월비 가 참여한 ‘2021 경록절 in the House’ 온라인 비대면 공연의 중계가 ‘크라잉넛 공식 유튜브 채널’을 통해 진행됩니다.\n\n2021년 2월 12일 금요일 1:00 AM 부터 출연예정\n📡\nhttps://t.co/aAy0ee6o1r\n\n#HuckleberryP #Swervy #하이라이트레코즈 #HiLiteRecords https://t.co/nHtH3xyH9m"
+	},
+	{
+		"created_at": "Thu Feb 11 10:51:38 +0000 2021",
+		"id": 1359794397957607400,
+		"id_str": "1359817364112515075",
+		"full_text": "스트리밍으로 진행되는 #경록절 2021 in the house🎊 송출상황에 따라 시간변동이 조금씩 있을 수도 있다고 합니다! 저는 7~8pm 부근에 등장할 예정이라고❣️ https://t.co/svo6YbNuGt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "경록절",
+					"indices": [
+						12,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1359794389430673400,
+					"id_str": "1359794389430673409",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Et71yu2VoAExiTq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et71yu2VoAExiTq.jpg",
+					"url": "https://t.co/svo6YbNuGt",
+					"display_url": "pic.twitter.com/svo6YbNuGt",
+					"expanded_url": "https://twitter.com/sunwooJeongA/status/1359794397957607429/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1078,
+							"h": 1349,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359794389430673400,
+					"id_str": "1359794389430673409",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Et71yu2VoAExiTq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et71yu2VoAExiTq.jpg",
+					"url": "https://t.co/svo6YbNuGt",
+					"display_url": "pic.twitter.com/svo6YbNuGt",
+					"expanded_url": "https://twitter.com/sunwooJeongA/status/1359794397957607429/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1078,
+							"h": 1349,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1359794389434835000,
+					"id_str": "1359794389434834950",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Et71yu3VIAYLqKp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et71yu3VIAYLqKp.jpg",
+					"url": "https://t.co/svo6YbNuGt",
+					"display_url": "pic.twitter.com/svo6YbNuGt",
+					"expanded_url": "https://twitter.com/sunwooJeongA/status/1359794397957607429/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1359794389434785800,
+					"id_str": "1359794389434785793",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Et71yu3UYAEPzkI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et71yu3UYAEPzkI.jpg",
+					"url": "https://t.co/svo6YbNuGt",
+					"display_url": "pic.twitter.com/svo6YbNuGt",
+					"expanded_url": "https://twitter.com/sunwooJeongA/status/1359794397957607429/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1359794389434785800,
+					"id_str": "1359794389434785796",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/Et71yu3UYAQMX-Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et71yu3UYAQMX-Y.jpg",
+					"url": "https://t.co/svo6YbNuGt",
+					"display_url": "pic.twitter.com/svo6YbNuGt",
+					"expanded_url": "https://twitter.com/sunwooJeongA/status/1359794397957607429/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 253607159,
+			"id_str": "253607159",
+			"name": "선우정아 / sunwoojunga",
+			"screen_name": "sunwooJeongA",
+			"location": "",
+			"description": "YouTube▶️ https://t.co/7z1T7o8aPc instagram🖼 https://t.co/uIIyhcT5yZ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7z1T7o8aPc",
+							"expanded_url": "http://www.youtube.com/c/Sunwoojunga",
+							"display_url": "youtube.com/c/Sunwoojunga",
+							"indices": [
+								10,
+								33
+							]
+						},
+						{
+							"url": "https://t.co/uIIyhcT5yZ",
+							"expanded_url": "https://www.instagram.com/sunwoojunga_official/",
+							"display_url": "instagram.com/sunwoojunga_of…",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 14902,
+			"friends_count": 123,
+			"listed_count": 59,
+			"created_at": "Thu Feb 17 16:00:36 +0000 2011",
+			"favourites_count": 745,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/582626662967197696/zSyXdBON_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/582626662967197696/zSyXdBON_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/253607159/1591663015",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "스트리밍으로 진행되는 #경록절 2021 in the house🎊 송출상황에 따라 시간변동이 조금씩 있을 수도 있다고 합니다! 저는 7~8pm 부근에 등장할 예정이라고❣️ https://t.co/svo6YbNuGt"
+	},
+	{
+		"created_at": "Thu Feb 11 10:51:21 +0000 2021",
+		"id": 1359530004254658600,
+		"id_str": "1359817293597868034",
+		"full_text": "&lt;2021 경록절 in the House 이번엔 집에서 놀자&gt;\n\n➡️일시 : 2021년 2월 11일(목) PM 12:00 ~ 지옥까지\n➡️중계 : 유튜브 크라잉넛 오피셜 채널 https://t.co/lhNyhitUv9\n➡️2021 경록절 굿즈 패키지 구매  https://t.co/3uMe07G87w\n\n✔️송출 상황에 따라 시간에 변동이 있을 수 있습니다!! https://t.co/CXjkYEqufR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lhNyhitUv9",
+					"expanded_url": "http://youtube.com/cryingnut",
+					"display_url": "youtube.com/cryingnut",
+					"indices": [
+						104,
+						127
+					]
+				},
+				{
+					"url": "https://t.co/3uMe07G87w",
+					"expanded_url": "http://captainrock.net",
+					"display_url": "captainrock.net",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1359529994553184300,
+					"id_str": "1359529994553184258",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/Et4FU7LU0AIc8VB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et4FU7LU0AIc8VB.jpg",
+					"url": "https://t.co/CXjkYEqufR",
+					"display_url": "pic.twitter.com/CXjkYEqufR",
+					"expanded_url": "https://twitter.com/CryingNut/status/1359530004254658561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359529994553184300,
+					"id_str": "1359529994553184258",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/Et4FU7LU0AIc8VB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et4FU7LU0AIc8VB.jpg",
+					"url": "https://t.co/CXjkYEqufR",
+					"display_url": "pic.twitter.com/CXjkYEqufR",
+					"expanded_url": "https://twitter.com/CryingNut/status/1359530004254658561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1359529994574200800,
+					"id_str": "1359529994574200833",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/Et4FU7QVgAE7zWp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et4FU7QVgAE7zWp.jpg",
+					"url": "https://t.co/CXjkYEqufR",
+					"display_url": "pic.twitter.com/CXjkYEqufR",
+					"expanded_url": "https://twitter.com/CryingNut/status/1359530004254658561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1359529994578366500,
+					"id_str": "1359529994578366465",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/Et4FU7RVEAErvfF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et4FU7RVEAErvfF.jpg",
+					"url": "https://t.co/CXjkYEqufR",
+					"display_url": "pic.twitter.com/CXjkYEqufR",
+					"expanded_url": "https://twitter.com/CryingNut/status/1359530004254658561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1359529994595098600,
+					"id_str": "1359529994595098625",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/Et4FU7VUYAEPShc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et4FU7VUYAEPShc.jpg",
+					"url": "https://t.co/CXjkYEqufR",
+					"display_url": "pic.twitter.com/CXjkYEqufR",
+					"expanded_url": "https://twitter.com/CryingNut/status/1359530004254658561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1250,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 291752104,
+			"id_str": "291752104",
+			"name": "크라잉넛 / CryingNut",
+			"screen_name": "CryingNut",
+			"location": "서울 Seoul KR",
+			"description": "밴드 크라잉넛 CryingNut official",
+			"url": "https://t.co/eupq0GA4fF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eupq0GA4fF",
+							"expanded_url": "http://cryingnut.kr",
+							"display_url": "cryingnut.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 608,
+			"friends_count": 4,
+			"listed_count": 13,
+			"created_at": "Mon May 02 15:19:08 +0000 2011",
+			"favourites_count": 2973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFCC33",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1032187137146347521/Eoj19i9k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032187137146347521/Eoj19i9k_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/291752104/1546416092",
+			"profile_link_color": "FF6600",
+			"profile_sidebar_border_color": "99CC33",
+			"profile_sidebar_fill_color": "FFCC33",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;2021 경록절 in the House 이번엔 집에서 놀자&gt;\n\n➡️일시 : 2021년 2월 11일(목) PM 12:00 ~ 지옥까지\n➡️중계 : 유튜브 크라잉넛 오피셜 채널 https://t.co/lhNyhitUv9\n➡️2021 경록절 굿즈 패키지 구매  https://t.co/3uMe07G87w\n\n✔️송출 상황에 따라 시간에 변동이 있을 수 있습니다!! https://t.co/CXjkYEqufR"
+	},
+	{
+		"created_at": "Thu Feb 11 10:29:35 +0000 2021",
+		"id": 1359801181384581000,
+		"id_str": "1359811816214433792",
+		"full_text": "[유라]\n\n[Slovibe Live]\n‘분홍 (PINK!)’ from GAUSSIAN\n\n💙 https://t.co/RhIoIG6gS1\n\n#유라 #youra #슬로바이브 #musiclive https://t.co/fhTIDvNGUR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유라",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "youra",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "슬로바이브",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "musiclive",
+					"indices": [
+						94,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RhIoIG6gS1",
+					"expanded_url": "https://youtu.be/innPrGZTfDE",
+					"display_url": "youtu.be/innPrGZTfDE",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1359801175160201200,
+					"id_str": "1359801175160201217",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/Et779tqVIAEOm1E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et779tqVIAEOm1E.jpg",
+					"url": "https://t.co/fhTIDvNGUR",
+					"display_url": "pic.twitter.com/fhTIDvNGUR",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1359801181384581120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359801175160201200,
+					"id_str": "1359801175160201217",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/Et779tqVIAEOm1E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et779tqVIAEOm1E.jpg",
+					"url": "https://t.co/fhTIDvNGUR",
+					"display_url": "pic.twitter.com/fhTIDvNGUR",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1359801181384581120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 우효/윤현상/유라/크래커/로지/섞김/아일/에버루아",
+			"url": "https://t.co/SedMym1vHh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SedMym1vHh",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 722,
+			"friends_count": 6,
+			"listed_count": 16,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유라]\n\n[Slovibe Live]\n‘분홍 (PINK!)’ from GAUSSIAN\n\n💙 https://t.co/RhIoIG6gS1\n\n#유라 #youra #슬로바이브 #musiclive https://t.co/fhTIDvNGUR"
+	},
+	{
+		"created_at": "Thu Feb 11 10:29:27 +0000 2021",
+		"id": 1359798797270851600,
+		"id_str": "1359811781867241473",
+		"full_text": "[유튜브]\n「설 특집 ★ 다 함께 즐겨윷」 편\n한 달 전 촬영을 위해 미리 모인 NEW ARTIST\n구만(9.10000), Lacuna(라쿠나), 제이유나(J.UNA)!\n\n\"윷놀이가 이렇게 무서운 게임이었나??\"\n입사하자마자 퇴사 위기에 놓인 신입들의 모습을 감상해보자 🔍\nhttps://t.co/iLIF8ohQ7o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iLIF8ohQ7o",
+					"expanded_url": "https://youtu.be/-xRuqnrzTkM",
+					"display_url": "youtu.be/-xRuqnrzTkM",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), LambC(램씨), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13072,
+			"friends_count": 1951,
+			"listed_count": 255,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유튜브]\n「설 특집 ★ 다 함께 즐겨윷」 편\n한 달 전 촬영을 위해 미리 모인 NEW ARTIST\n구만(9.10000), Lacuna(라쿠나), 제이유나(J.UNA)!\n\n\"윷놀이가 이렇게 무서운 게임이었나??\"\n입사하자마자 퇴사 위기에 놓인 신입들의 모습을 감상해보자 🔍\nhttps://t.co/iLIF8ohQ7o"
+	},
+	{
 		"created_at": "Thu Feb 11 09:29:33 +0000 2021",
 		"id": 1359789245750153200,
 		"id_str": "1359796708897660928",
