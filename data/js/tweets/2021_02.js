@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 11 09:29:33 +0000 2021",
+		"id": 1359789245750153200,
+		"id_str": "1359796708897660928",
+		"full_text": "All Produce &amp; Mixed by 동찬\nAll Mastering by Kim Kate (Mad Flux Audio)\nCover Design 한재국\nProfile Photo 원진 (프롬오투유)\n\nhttps://t.co/MhXs4qTgNB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MhXs4qTgNB",
+					"expanded_url": "https://www.youtube.com/watch?v=gRAXKtaFo1g",
+					"display_url": "youtube.com/watch?v=gRAXKt…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1359789013997998000,
+		"in_reply_to_status_id_str": "1359789013997998084",
+		"in_reply_to_user_id": 602961088,
+		"in_reply_to_user_id_str": "602961088",
+		"in_reply_to_screen_name": "YOUNGGIFTEDWACK",
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3569,
+			"friends_count": 1216,
+			"listed_count": 50,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 631,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "All Produce &amp; Mixed by 동찬\nAll Mastering by Kim Kate (Mad Flux Audio)\nCover Design 한재국\nProfile Photo 원진 (프롬오투유)\n\nhttps://t.co/MhXs4qTgNB"
+	},
+	{
+		"created_at": "Thu Feb 11 09:29:31 +0000 2021",
+		"id": 1359789013997998000,
+		"id_str": "1359796700068646912",
+		"full_text": "[RELEASE]\n동찬(Dongchan) &lt;태양 같은 달&gt; 🌘🌗🌖🌕\n2020.02.11 12pm\n\n#멜론 #플로 #지니 #바이브 #애플뮤직 #스포티파이 #밴드캠프\n\nTracklist\n1.태양 같은 달 (feat. 최가은)\n2.구름 같은 달 (feat. 2muchblack)\n3.쏟아지는 달 (feat. 최가은) \n✔️4.버려지는 달 (feat. Dubinvain, 장희정) ✔️ https://t.co/QttToyAd6q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "플로",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "지니",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "바이브",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "애플뮤직",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "스포티파이",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "밴드캠프",
+					"indices": [
+						91,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1359788867444830200,
+					"id_str": "1359788867444830213",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1359788867444830213/pu/img/BfaVTyqbU81OxBv5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1359788867444830213/pu/img/BfaVTyqbU81OxBv5.jpg",
+					"url": "https://t.co/QttToyAd6q",
+					"display_url": "pic.twitter.com/QttToyAd6q",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1359789013997998084/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359788867444830200,
+					"id_str": "1359788867444830213",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1359788867444830213/pu/img/BfaVTyqbU81OxBv5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1359788867444830213/pu/img/BfaVTyqbU81OxBv5.jpg",
+					"url": "https://t.co/QttToyAd6q",
+					"display_url": "pic.twitter.com/QttToyAd6q",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1359789013997998084/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60467,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359788867444830213/pu/vid/640x360/mn1Nd5nraRcEc3Bi.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359788867444830213/pu/vid/1280x720/48zLaLEYRGjZWHG8.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359788867444830213/pu/vid/480x270/vC4y-lzw5MkVUhVI.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1359788867444830213/pu/pl/tQP3vwvNYZAn2y9w.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3569,
+			"friends_count": 1216,
+			"listed_count": 50,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 631,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[RELEASE]\n동찬(Dongchan) &lt;태양 같은 달&gt; 🌘🌗🌖🌕\n2020.02.11 12pm\n\n#멜론 #플로 #지니 #바이브 #애플뮤직 #스포티파이 #밴드캠프\n\nTracklist\n1.태양 같은 달 (feat. 최가은)\n2.구름 같은 달 (feat. 2muchblack)\n3.쏟아지는 달 (feat. 최가은) \n✔️4.버려지는 달 (feat. Dubinvain, 장희정) ✔️ https://t.co/QttToyAd6q"
+	},
+	{
 		"created_at": "Thu Feb 11 09:14:07 +0000 2021",
 		"id": 1359792821805461500,
 		"id_str": "1359792821805461506",
