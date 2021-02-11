@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 11 06:29:32 +0000 2021",
+		"id": 1359744223046635500,
+		"id_str": "1359751403556716544",
+		"full_text": "[#미스틱스토리] HAPPY NEW YEAR with MYSTIC STORY🎉\n\n미스틱스토리가 전하는 첫 번째 설 인사 도착💌 새해 복 많이 받으세요🙇🏻🙇🏻‍♀️\n\n#유주혜 #퍼센트 #이유안 https://t.co/I4klZdJVuf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미스틱스토리",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "유주혜",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "퍼센트",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "이유안",
+					"indices": [
+						102,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1359735752423219200,
+					"id_str": "1359735752423219200",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/Et7Adm-VoAAhKCm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et7Adm-VoAAhKCm.jpg",
+					"url": "https://t.co/I4klZdJVuf",
+					"display_url": "pic.twitter.com/I4klZdJVuf",
+					"expanded_url": "https://twitter.com/themysticstory/status/1359744223046635523/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359735752423219200,
+					"id_str": "1359735752423219200",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/Et7Adm-VoAAhKCm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et7Adm-VoAAhKCm.jpg",
+					"url": "https://t.co/I4klZdJVuf",
+					"display_url": "pic.twitter.com/I4klZdJVuf",
+					"expanded_url": "https://twitter.com/themysticstory/status/1359744223046635523/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1359735766369226800,
+					"id_str": "1359735766369226754",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/Et7Aea7U0AI1QmY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et7Aea7U0AI1QmY.jpg",
+					"url": "https://t.co/I4klZdJVuf",
+					"display_url": "pic.twitter.com/I4klZdJVuf",
+					"expanded_url": "https://twitter.com/themysticstory/status/1359744223046635523/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1359735784559923200,
+					"id_str": "1359735784559923203",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/Et7AfesU0AMr2hu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Et7AfesU0AMr2hu.jpg",
+					"url": "https://t.co/I4klZdJVuf",
+					"display_url": "pic.twitter.com/I4klZdJVuf",
+					"expanded_url": "https://twitter.com/themysticstory/status/1359744223046635523/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20403,
+			"friends_count": 18,
+			"listed_count": 241,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#미스틱스토리] HAPPY NEW YEAR with MYSTIC STORY🎉\n\n미스틱스토리가 전하는 첫 번째 설 인사 도착💌 새해 복 많이 받으세요🙇🏻🙇🏻‍♀️\n\n#유주혜 #퍼센트 #이유안 https://t.co/I4klZdJVuf"
+	},
+	{
 		"created_at": "Thu Feb 11 04:29:34 +0000 2021",
 		"id": 1359720783296139300,
 		"id_str": "1359721213057265665",
