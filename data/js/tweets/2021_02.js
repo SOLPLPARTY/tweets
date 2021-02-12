@@ -1,10 +1,235 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 12 07:11:17 +0000 2021",
+		"id": 1360111282993520600,
+		"id_str": "1360124298141130756",
+		"full_text": "[공연공지]\n시작(始作)\n2021.2.28.SUN 18시\n앤드오어, 서울매직클럽, 11도\n예매 : https://t.co/K0clwghpAI\n---------------------------------\n*예매오픈 : 2021년 2월 12일 금요일 오후 6시입니다.\n*예매마감 : 2021년 2월 27일 토요일 오후 6시입니다. (매진시 조기마감될 수 있습니다.)\n#prismhall https://t.co/56QDq74DgK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "prismhall",
+					"indices": [
+						203,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K0clwghpAI",
+					"expanded_url": "https://forms.gle/H1n1eyawAiqWLKfT8",
+					"display_url": "forms.gle/H1n1eyawAiqWLK…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1360111265641730000,
+					"id_str": "1360111265641730048",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EuAV_WuVEAAp9rJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuAV_WuVEAAp9rJ.jpg",
+					"url": "https://t.co/56QDq74DgK",
+					"display_url": "pic.twitter.com/56QDq74DgK",
+					"expanded_url": "https://twitter.com/prismhall/status/1360111282993520642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1580,
+							"h": 1850,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 581,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1025,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1360111265641730000,
+					"id_str": "1360111265641730048",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EuAV_WuVEAAp9rJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuAV_WuVEAAp9rJ.jpg",
+					"url": "https://t.co/56QDq74DgK",
+					"display_url": "pic.twitter.com/56QDq74DgK",
+					"expanded_url": "https://twitter.com/prismhall/status/1360111282993520642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1580,
+							"h": 1850,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 581,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1025,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 곳!  최고의 핫플레이스로 떠오르고 있는 프리즘홀입니다!",
+			"url": "https://t.co/wj8kdioGqi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wj8kdioGqi",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2083,
+			"friends_count": 1138,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공연공지]\n시작(始作)\n2021.2.28.SUN 18시\n앤드오어, 서울매직클럽, 11도\n예매 : https://t.co/K0clwghpAI\n---------------------------------\n*예매오픈 : 2021년 2월 12일 금요일 오후 6시입니다.\n*예매마감 : 2021년 2월 27일 토요일 오후 6시입니다. (매진시 조기마감될 수 있습니다.)\n#prismhall https://t.co/56QDq74DgK"
+	},
+	{
 		"created_at": "Fri Feb 12 05:29:24 +0000 2021",
 		"id": 1360091260715888600,
 		"id_str": "1360098661594767360",
-		"full_text": "[#미스틱스토리] HAPPY NEW YEAR with MYSTIC STORY🎉\n\n미스틱스토리 아티스트들의 '소복소복' 덕담 인사 도착💌 새해 복 많이 받으세요🙇🙇‍♀️\n\nFull ver. 🔗 https://t.co/GAh3pr02Ht\n\n#루시 #손태진 #오영주 #민서 #지상 #박상돈 #타케우치미유 #양재웅 #홍자 https://t.co/ANoiHmQAdF",
+		"full_text": "[#미스틱스토리] HAPPY NEW YEAR with MYSTIC STORY🎉\n\n미스틱스토리 아티스트들의 '소복소복' 덕담 인사 도착💌 새해 복 많이 받으세요🙇🙇♀️\n\nFull ver. 🔗 https://t.co/GAh3pr02Ht\n\n#루시 #손태진 #오영주 #민서 #지상 #박상돈 #타케우치미유 #양재웅 #홍자 https://t.co/ANoiHmQAdF",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -284,7 +509,7 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#미스틱스토리] HAPPY NEW YEAR with MYSTIC STORY🎉\n\n미스틱스토리 아티스트들의 '소복소복' 덕담 인사 도착💌 새해 복 많이 받으세요🙇🙇‍♀️\n\nFull ver. 🔗 https://t.co/GAh3pr02Ht\n\n#루시 #손태진 #오영주 #민서 #지상 #박상돈 #타케우치미유 #양재웅 #홍자 https://t.co/ANoiHmQAdF"
+		"text": "[#미스틱스토리] HAPPY NEW YEAR with MYSTIC STORY🎉\n\n미스틱스토리 아티스트들의 '소복소복' 덕담 인사 도착💌 새해 복 많이 받으세요🙇🙇♀️\n\nFull ver. 🔗 https://t.co/GAh3pr02Ht\n\n#루시 #손태진 #오영주 #민서 #지상 #박상돈 #타케우치미유 #양재웅 #홍자 https://t.co/ANoiHmQAdF"
 	},
 	{
 		"created_at": "Fri Feb 12 03:53:27 +0000 2021",
