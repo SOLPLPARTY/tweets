@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 12 07:29:25 +0000 2021",
+		"id": 1360121458966450200,
+		"id_str": "1360128861904785412",
+		"full_text": "[#미스틱스토리] HAPPY NEW YEAR with MYSTIC STORY🎉\n\n미스틱스토리 배우들의 덕담 인사 도착💌 새해 복 많이 받으세요🙇🏻🙇🏻‍♀️\n\nFull ver.🔗https://t.co/47KZehoXpx\n\n#김시아 #신재휘 #고민시 #이정혁 #이지원 #이찬형 #태항호 #차민지 #장원형 #이주연 #김강민 #김성은 #정태우 #황보름별 #하재숙 https://t.co/npANea9m9m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미스틱스토리",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "김시아",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "신재휘",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "고민시",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "이정혁",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "이지원",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "이찬형",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "태항호",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "차민지",
+					"indices": [
+						158,
+						162
+					]
+				},
+				{
+					"text": "장원형",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "이주연",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "김강민",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "김성은",
+					"indices": [
+						178,
+						182
+					]
+				},
+				{
+					"text": "정태우",
+					"indices": [
+						183,
+						187
+					]
+				},
+				{
+					"text": "황보름별",
+					"indices": [
+						188,
+						193
+					]
+				},
+				{
+					"text": "하재숙",
+					"indices": [
+						194,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/47KZehoXpx",
+					"expanded_url": "https://youtu.be/xSMS7CjXr-E",
+					"display_url": "youtu.be/xSMS7CjXr-E",
+					"indices": [
+						98,
+						121
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1359906333739286500,
+					"id_str": "1359906333739286529",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1359906333739286529/pu/img/zm9VkGokZRKQ5Tan.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1359906333739286529/pu/img/zm9VkGokZRKQ5Tan.jpg",
+					"url": "https://t.co/npANea9m9m",
+					"display_url": "pic.twitter.com/npANea9m9m",
+					"expanded_url": "https://twitter.com/themysticstory/status/1360121458966450176/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 980,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 980,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 617,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359906333739286500,
+					"id_str": "1359906333739286529",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1359906333739286529/pu/img/zm9VkGokZRKQ5Tan.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1359906333739286529/pu/img/zm9VkGokZRKQ5Tan.jpg",
+					"url": "https://t.co/npANea9m9m",
+					"display_url": "pic.twitter.com/npANea9m9m",
+					"expanded_url": "https://twitter.com/themysticstory/status/1360121458966450176/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 980,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 980,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 617,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							49,
+							54
+						],
+						"duration_millis": 48081,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359906333739286529/pu/vid/320x352/d0dIuKAuGk9dbYky.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359906333739286529/pu/vid/360x396/xVu12LubCZN_gk6O.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1359906333739286529/pu/pl/P40UNMES6TgHG7c6.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359906333739286529/pu/vid/720x792/Ae6z7E3Y938wH8x2.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20404,
+			"friends_count": 18,
+			"listed_count": 240,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#미스틱스토리] HAPPY NEW YEAR with MYSTIC STORY🎉\n\n미스틱스토리 배우들의 덕담 인사 도착💌 새해 복 많이 받으세요🙇🏻🙇🏻‍♀️\n\nFull ver.🔗https://t.co/47KZehoXpx\n\n#김시아 #신재휘 #고민시 #이정혁 #이지원 #이찬형 #태항호 #차민지 #장원형 #이주연 #김강민 #김성은 #정태우 #황보름별 #하재숙 https://t.co/npANea9m9m"
+	},
+	{
 		"created_at": "Fri Feb 12 07:11:17 +0000 2021",
 		"id": 1360111282993520600,
 		"id_str": "1360124298141130756",
