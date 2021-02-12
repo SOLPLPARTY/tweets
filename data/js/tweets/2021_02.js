@@ -1,10 +1,150 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 12 09:09:38 +0000 2021",
+		"id": 1360154083512840200,
+		"id_str": "1360154083512840195",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\nSHAUN (숀), Sam Feldt reacts to ‘Way Back Home’ Covers (Part. 2)\nhttps://t.co/ZfWj8Vd8Pe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZfWj8Vd8Pe",
+					"expanded_url": "https://youtu.be/uJcLetPGlr0",
+					"display_url": "youtu.be/uJcLetPGlr0",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 442,
+			"listed_count": 0,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68228,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\nSHAUN (숀), Sam Feldt reacts to ‘Way Back Home’ Covers (Part. 2)\nhttps://t.co/ZfWj8Vd8Pe"
+	},
+	{
 		"created_at": "Fri Feb 12 07:29:25 +0000 2021",
 		"id": 1360121458966450200,
 		"id_str": "1360128861904785412",
-		"full_text": "[#미스틱스토리] HAPPY NEW YEAR with MYSTIC STORY🎉\n\n미스틱스토리 배우들의 덕담 인사 도착💌 새해 복 많이 받으세요🙇🏻🙇🏻‍♀️\n\nFull ver.🔗https://t.co/47KZehoXpx\n\n#김시아 #신재휘 #고민시 #이정혁 #이지원 #이찬형 #태항호 #차민지 #장원형 #이주연 #김강민 #김성은 #정태우 #황보름별 #하재숙 https://t.co/npANea9m9m",
+		"full_text": "[#미스틱스토리] HAPPY NEW YEAR with MYSTIC STORY🎉\n\n미스틱스토리 배우들의 덕담 인사 도착💌 새해 복 많이 받으세요🙇🏻🙇🏻♀️\n\nFull ver.🔗https://t.co/47KZehoXpx\n\n#김시아 #신재휘 #고민시 #이정혁 #이지원 #이찬형 #태항호 #차민지 #장원형 #이주연 #김강민 #김성은 #정태우 #황보름별 #하재숙 https://t.co/npANea9m9m",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -326,7 +466,7 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#미스틱스토리] HAPPY NEW YEAR with MYSTIC STORY🎉\n\n미스틱스토리 배우들의 덕담 인사 도착💌 새해 복 많이 받으세요🙇🏻🙇🏻‍♀️\n\nFull ver.🔗https://t.co/47KZehoXpx\n\n#김시아 #신재휘 #고민시 #이정혁 #이지원 #이찬형 #태항호 #차민지 #장원형 #이주연 #김강민 #김성은 #정태우 #황보름별 #하재숙 https://t.co/npANea9m9m"
+		"text": "[#미스틱스토리] HAPPY NEW YEAR with MYSTIC STORY🎉\n\n미스틱스토리 배우들의 덕담 인사 도착💌 새해 복 많이 받으세요🙇🏻🙇🏻♀️\n\nFull ver.🔗https://t.co/47KZehoXpx\n\n#김시아 #신재휘 #고민시 #이정혁 #이지원 #이찬형 #태항호 #차민지 #장원형 #이주연 #김강민 #김성은 #정태우 #황보름별 #하재숙 https://t.co/npANea9m9m"
 	},
 	{
 		"created_at": "Fri Feb 12 07:11:17 +0000 2021",
