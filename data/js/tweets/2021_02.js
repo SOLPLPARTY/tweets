@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 15 11:29:27 +0000 2021",
+		"id": 1361270385140846600,
+		"id_str": "1361276431674855427",
+		"full_text": "권진아 EP [우리의 방식]\nKwon Jin Ah EP [The Way For Us]\n\n• Highlight Medley •\nhttps://t.co/UHxLt4GqX1\n\n2021. 02. 18. THU 6PM Release\n\n#권진아 #우리의방식\n#잘가 #꽃말 #Youalreadyhave \n#어른처럼 #죠지 #여행가\n#KwonJinAh #TheWayForUs https://t.co/ZqRtEu207d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권진아",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "우리의방식",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "잘가",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "꽃말",
+					"indices": [
+						142,
+						145
+					]
+				},
+				{
+					"text": "Youalreadyhave",
+					"indices": [
+						146,
+						161
+					]
+				},
+				{
+					"text": "어른처럼",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "죠지",
+					"indices": [
+						169,
+						172
+					]
+				},
+				{
+					"text": "여행가",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						178,
+						188
+					]
+				},
+				{
+					"text": "TheWayForUs",
+					"indices": [
+						189,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UHxLt4GqX1",
+					"expanded_url": "https://youtu.be/IrQ010ZKa7g",
+					"display_url": "youtu.be/IrQ010ZKa7g",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1361270152893927400,
+					"id_str": "1361270152893927434",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1361270152893927434/pu/img/zryk5rGlOiPrGWRc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1361270152893927434/pu/img/zryk5rGlOiPrGWRc.jpg",
+					"url": "https://t.co/ZqRtEu207d",
+					"display_url": "pic.twitter.com/ZqRtEu207d",
+					"expanded_url": "https://twitter.com/antennamusic/status/1361270385140846592/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1361270152893927400,
+					"id_str": "1361270152893927434",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1361270152893927434/pu/img/zryk5rGlOiPrGWRc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1361270152893927434/pu/img/zryk5rGlOiPrGWRc.jpg",
+					"url": "https://t.co/ZqRtEu207d",
+					"display_url": "pic.twitter.com/ZqRtEu207d",
+					"expanded_url": "https://twitter.com/antennamusic/status/1361270385140846592/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 105045,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1361270152893927434/pu/vid/480x270/xlQFJ_dpr97YBY13.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1361270152893927434/pu/vid/640x360/XQOepxHqGDV2dPI0.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1361270152893927434/pu/pl/DY-FBJaQO_GbXxvF.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1361270152893927434/pu/vid/1280x720/PIQZLjwu6eH2Hrl4.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official / 권진아 EP ‘우리의 방식’ 2021. 02. 18. 6PM Release!",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35566,
+			"friends_count": 10,
+			"listed_count": 362,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1612939208",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "권진아 EP [우리의 방식]\nKwon Jin Ah EP [The Way For Us]\n\n• Highlight Medley •\nhttps://t.co/UHxLt4GqX1\n\n2021. 02. 18. THU 6PM Release\n\n#권진아 #우리의방식\n#잘가 #꽃말 #Youalreadyhave \n#어른처럼 #죠지 #여행가\n#KwonJinAh #TheWayForUs https://t.co/ZqRtEu207d"
+	},
+	{
 		"created_at": "Mon Feb 15 11:15:17 +0000 2021",
 		"id": 1361272869284536300,
 		"id_str": "1361272869284536324",
