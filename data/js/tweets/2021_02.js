@@ -1,6 +1,679 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 15 10:11:17 +0000 2021",
+		"id": 1361248891086119000,
+		"id_str": "1361256760242233345",
+		"full_text": "[온라인 공연 선호도 조사]\n\n(사)한국음악레이블산업협회에서 지난 1월 '온라인 콘서트 선호도 조사'를 실시했습니다.\n\n코로나19로 인해 많은 뮤지션과 공연 관계자 분들의 고심이 깊으시다는 점을 잘 압니다. \n\n향후 온라인 공연 등을 준비하실 때 유용한 자료로 쓰이길 바랍니다.\n\n감사합니다. https://t.co/yggywsHvVd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1361248757476593700,
+					"id_str": "1361248757476593666",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EuQgiGBVkAIYTO-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuQgiGBVkAIYTO-.jpg",
+					"url": "https://t.co/yggywsHvVd",
+					"display_url": "pic.twitter.com/yggywsHvVd",
+					"expanded_url": "https://twitter.com/xindieticket/status/1361248891086118914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1361248757476593700,
+					"id_str": "1361248757476593666",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EuQgiGBVkAIYTO-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuQgiGBVkAIYTO-.jpg",
+					"url": "https://t.co/yggywsHvVd",
+					"display_url": "pic.twitter.com/yggywsHvVd",
+					"expanded_url": "https://twitter.com/xindieticket/status/1361248891086118914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1361248757476515800,
+					"id_str": "1361248757476515844",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EuQgiGBUYAQDQvl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuQgiGBUYAQDQvl.jpg",
+					"url": "https://t.co/yggywsHvVd",
+					"display_url": "pic.twitter.com/yggywsHvVd",
+					"expanded_url": "https://twitter.com/xindieticket/status/1361248891086118914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1361248757476565000,
+					"id_str": "1361248757476564994",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EuQgiGBVIAIBzEt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuQgiGBVIAIBzEt.jpg",
+					"url": "https://t.co/yggywsHvVd",
+					"display_url": "pic.twitter.com/yggywsHvVd",
+					"expanded_url": "https://twitter.com/xindieticket/status/1361248891086118914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2775,
+			"friends_count": 2664,
+			"listed_count": 21,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9607,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[온라인 공연 선호도 조사]\n\n(사)한국음악레이블산업협회에서 지난 1월 '온라인 콘서트 선호도 조사'를 실시했습니다.\n\n코로나19로 인해 많은 뮤지션과 공연 관계자 분들의 고심이 깊으시다는 점을 잘 압니다. \n\n향후 온라인 공연 등을 준비하실 때 유용한 자료로 쓰이길 바랍니다.\n\n감사합니다. https://t.co/yggywsHvVd"
+	},
+	{
+		"created_at": "Mon Feb 15 09:29:34 +0000 2021",
+		"id": 1361238821376057300,
+		"id_str": "1361246262251642881",
+		"full_text": "[#윤종신] 2020 월간 윤종신과 뜬금 LIVE 음원이 담긴 '행보 2020 윤종신' 발매✅\n\n'행보 2020 윤종신'은 지금 바로 전 음원사이트에서🎤\n\n#행보2020윤종신 #월간윤종신 #뜬금LIVE https://t.co/T6SZ51lDpD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤종신",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "행보2020윤종신",
+					"indices": [
+						87,
+						97
+					]
+				},
+				{
+					"text": "월간윤종신",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "뜬금LIVE",
+					"indices": [
+						105,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1361142388324896800,
+					"id_str": "1361142388324896768",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EuO_ymDVEAAr0xO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuO_ymDVEAAr0xO.jpg",
+					"url": "https://t.co/T6SZ51lDpD",
+					"display_url": "pic.twitter.com/T6SZ51lDpD",
+					"expanded_url": "https://twitter.com/themysticstory/status/1361238821376057345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1361142388324896800,
+					"id_str": "1361142388324896768",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EuO_ymDVEAAr0xO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuO_ymDVEAAr0xO.jpg",
+					"url": "https://t.co/T6SZ51lDpD",
+					"display_url": "pic.twitter.com/T6SZ51lDpD",
+					"expanded_url": "https://twitter.com/themysticstory/status/1361238821376057345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20449,
+			"friends_count": 18,
+			"listed_count": 239,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5620,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#윤종신] 2020 월간 윤종신과 뜬금 LIVE 음원이 담긴 '행보 2020 윤종신' 발매✅\n\n'행보 2020 윤종신'은 지금 바로 전 음원사이트에서🎤\n\n#행보2020윤종신 #월간윤종신 #뜬금LIVE https://t.co/T6SZ51lDpD"
+	},
+	{
+		"created_at": "Mon Feb 15 09:29:25 +0000 2021",
+		"id": 1361231826082128000,
+		"id_str": "1361246223982821376",
+		"full_text": "D-10\n유정목\n[ 춘분 #1 현실의 위로 ]\n2021년 2월 25일 발매!\n\n#유정목 #현실의위로 #춘분 #새프로젝트 #春分 #2월25일 #발매 https://t.co/CbAUnVDjAy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유정목",
+					"indices": [
+						44,
+						48
+					]
+				},
+				{
+					"text": "현실의위로",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "춘분",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "새프로젝트",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "春分",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "2월25일",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						78,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1361231427321303000,
+					"id_str": "1361231427321303045",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EuQQxWKVkAUofcx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuQQxWKVkAUofcx.jpg",
+					"url": "https://t.co/CbAUnVDjAy",
+					"display_url": "pic.twitter.com/CbAUnVDjAy",
+					"expanded_url": "https://twitter.com/orm_ent/status/1361231826082127873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1361231427321303000,
+					"id_str": "1361231427321303045",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EuQQxWKVkAUofcx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuQQxWKVkAUofcx.jpg",
+					"url": "https://t.co/CbAUnVDjAy",
+					"display_url": "pic.twitter.com/CbAUnVDjAy",
+					"expanded_url": "https://twitter.com/orm_ent/status/1361231826082127873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 722,
+			"friends_count": 323,
+			"listed_count": 0,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 721,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1611200656",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "D-10\n유정목\n[ 춘분 #1 현실의 위로 ]\n2021년 2월 25일 발매!\n\n#유정목 #현실의위로 #춘분 #새프로젝트 #春分 #2월25일 #발매 https://t.co/CbAUnVDjAy"
+	},
+	{
 		"created_at": "Mon Feb 15 09:10:55 +0000 2021",
 		"id": 1361241571325337600,
 		"id_str": "1361241571325337600",
