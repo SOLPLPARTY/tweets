@@ -1,6 +1,443 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 15 07:11:26 +0000 2021",
+		"id": 1361197783923875800,
+		"id_str": "1361211500313141249",
+		"full_text": "Do The Evolution @ FF \n\n2021/02/20 토  5pm - 10pm \n\n&lt;바투,ABTB,틸더,배드램,티치,묘리,뉴클리어이디엇츠&gt;\n\n마스크 필수, 발열체크, 큐알코드, 손소독후 입장\n\n#홍대공연 #인디밴드 #인디공연 #밴드공연  #클럽공연 https://t.co/QBVFZqbbN3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍대공연",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "인디밴드",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "인디공연",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "밴드공연",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "클럽공연",
+					"indices": [
+						144,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1361197774784503800,
+					"id_str": "1361197774784503809",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EuPyKgsVIAEIeY7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuPyKgsVIAEIeY7.jpg",
+					"url": "https://t.co/QBVFZqbbN3",
+					"display_url": "pic.twitter.com/QBVFZqbbN3",
+					"expanded_url": "https://twitter.com/clubFF_/status/1361197783923875843/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 1334,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1361197774784503800,
+					"id_str": "1361197774784503809",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EuPyKgsVIAEIeY7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuPyKgsVIAEIeY7.jpg",
+					"url": "https://t.co/QBVFZqbbN3",
+					"display_url": "pic.twitter.com/QBVFZqbbN3",
+					"expanded_url": "https://twitter.com/clubFF_/status/1361197783923875843/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 1334,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1361197774780260400,
+					"id_str": "1361197774780260357",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EuPyKgrUYAUJKYn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuPyKgrUYAUJKYn.jpg",
+					"url": "https://t.co/QBVFZqbbN3",
+					"display_url": "pic.twitter.com/QBVFZqbbN3",
+					"expanded_url": "https://twitter.com/clubFF_/status/1361197783923875843/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1334,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6258,
+			"friends_count": 7,
+			"listed_count": 74,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Do The Evolution @ FF \n\n2021/02/20 토  5pm - 10pm \n\n&lt;바투,ABTB,틸더,배드램,티치,묘리,뉴클리어이디엇츠&gt;\n\n마스크 필수, 발열체크, 큐알코드, 손소독후 입장\n\n#홍대공연 #인디밴드 #인디공연 #밴드공연  #클럽공연 https://t.co/QBVFZqbbN3"
+	},
+	{
+		"created_at": "Mon Feb 15 07:11:17 +0000 2021",
+		"id": 1361197482395324400,
+		"id_str": "1361211462065266691",
+		"full_text": "[#채널씬디 시즌2, “오추프로젝트(Today's Hot Song)”]\n\n봄이 깨어날 준비를 하는 달 2월,\n오늘의 추천곡은..?\n이번 채널씬디와 함께 한 아티스트는\n우리가 \"눈딱감고\" \"Many많이\" 사랑할 수 밖에 없는 \n♥오추프로젝트♥입니다!\n\n*채널씬디 YouTube 링크는 요기 : https://t.co/ADpX01cHuW https://t.co/qvzqLaDj8L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "채널씬디",
+					"indices": [
+						1,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ADpX01cHuW",
+					"expanded_url": "https://bit.ly/3qlSYXx",
+					"display_url": "bit.ly/3qlSYXx",
+					"indices": [
+						163,
+						186
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1361197109467172900,
+					"id_str": "1361197109467172866",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/EuPxjyMUUAIZNjJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuPxjyMUUAIZNjJ.jpg",
+					"url": "https://t.co/qvzqLaDj8L",
+					"display_url": "pic.twitter.com/qvzqLaDj8L",
+					"expanded_url": "https://twitter.com/xindieticket/status/1361197482395324416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1361197109467172900,
+					"id_str": "1361197109467172866",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/EuPxjyMUUAIZNjJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuPxjyMUUAIZNjJ.jpg",
+					"url": "https://t.co/qvzqLaDj8L",
+					"display_url": "pic.twitter.com/qvzqLaDj8L",
+					"expanded_url": "https://twitter.com/xindieticket/status/1361197482395324416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2774,
+			"friends_count": 2664,
+			"listed_count": 21,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9606,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#채널씬디 시즌2, “오추프로젝트(Today's Hot Song)”]\n\n봄이 깨어날 준비를 하는 달 2월,\n오늘의 추천곡은..?\n이번 채널씬디와 함께 한 아티스트는\n우리가 \"눈딱감고\" \"Many많이\" 사랑할 수 밖에 없는 \n♥오추프로젝트♥입니다!\n\n*채널씬디 YouTube 링크는 요기 : https://t.co/ADpX01cHuW https://t.co/qvzqLaDj8L"
+	},
+	{
 		"created_at": "Mon Feb 15 05:50:01 +0000 2021",
 		"id": 1361191012773728300,
 		"id_str": "1361191012773728256",
