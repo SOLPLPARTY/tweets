@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 16 22:47:32 +0000 2021",
+		"id": 1361634910679617500,
+		"id_str": "1361809465679355907",
+		"full_text": "5년 만에 처음 선보이는 미공개 데모곡이 수록된 신보, LP로 최초 공개!\n&lt;사비나앤드론즈 [The Unfinished Melody]&gt;\n📍선주문 기간 : 2021.2.17(수) 11AM ~ 3.5(금)\n📍발매 예정일 : 2021.3.25(목)\n📍사양 : 1LP 투명컬러반, 게이트폴드 커버, 라이너노트 수록\n📍LP 기획/제작 : 마장뮤직앤픽처스(주) https://t.co/RCMTV8BDGd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1361634897161412600,
+					"id_str": "1361634897161412608",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/EuV_uYcU4AAgm5z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuV_uYcU4AAgm5z.jpg",
+					"url": "https://t.co/RCMTV8BDGd",
+					"display_url": "pic.twitter.com/RCMTV8BDGd",
+					"expanded_url": "https://twitter.com/savina0128/status/1361634910679617538/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 745,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 745,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1361634897161412600,
+					"id_str": "1361634897161412608",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/EuV_uYcU4AAgm5z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuV_uYcU4AAgm5z.jpg",
+					"url": "https://t.co/RCMTV8BDGd",
+					"display_url": "pic.twitter.com/RCMTV8BDGd",
+					"expanded_url": "https://twitter.com/savina0128/status/1361634910679617538/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 750,
+							"h": 745,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 745,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153363359,
+			"id_str": "153363359",
+			"name": "사비나 SAVINA",
+			"screen_name": "savina0128",
+			"location": "",
+			"description": "사비나앤드론즈 SAVINA & DRONES Musician",
+			"url": "https://t.co/HUiR4zmWAI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HUiR4zmWAI",
+							"expanded_url": "https://youtube.com/user/SAVINANDRONES",
+							"display_url": "youtube.com/user/SAVINANDR…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1340,
+			"friends_count": 245,
+			"listed_count": 31,
+			"created_at": "Tue Jun 08 10:35:51 +0000 2010",
+			"favourites_count": 193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2049,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/721211952035266560/IVSDRzuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153363359/1501335256",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "5년 만에 처음 선보이는 미공개 데모곡이 수록된 신보, LP로 최초 공개!\n&lt;사비나앤드론즈 [The Unfinished Melody]&gt;\n📍선주문 기간 : 2021.2.17(수) 11AM ~ 3.5(금)\n📍발매 예정일 : 2021.3.25(목)\n📍사양 : 1LP 투명컬러반, 게이트폴드 커버, 라이너노트 수록\n📍LP 기획/제작 : 마장뮤직앤픽처스(주) https://t.co/RCMTV8BDGd"
+	},
+	{
 		"created_at": "Tue Feb 16 15:29:25 +0000 2021",
 		"id": 1361691806132437000,
 		"id_str": "1361699208995221505",
