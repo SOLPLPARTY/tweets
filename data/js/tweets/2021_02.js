@@ -1,6 +1,626 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 16 03:58:15 +0000 2021",
+		"id": 1361510612128305200,
+		"id_str": "1361525270705020928",
+		"full_text": "We invite you to an upgraded KCONTACT 3!\n더욱 새로워진 KCONTACT3에 여러분을 초대합니다!\nさらに新しくなったKCONTACT３へ皆さんをご招待します！\n* MARCH 20(SAT)~28(SUN), 2021\n▶ For more updates, https://t.co/aQyhRtMTxC \n#KCON #KCONTACT3 https://t.co/iczT5vMgAQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						178,
+						183
+					]
+				},
+				{
+					"text": "KCONTACT3",
+					"indices": [
+						184,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aQyhRtMTxC",
+					"expanded_url": "http://kconofficial.com",
+					"display_url": "kconofficial.com",
+					"indices": [
+						153,
+						176
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1361505310628712400,
+					"id_str": "1361505310628712449",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1361505310628712449/pu/img/sxhUaCi0iZGDDrah.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1361505310628712449/pu/img/sxhUaCi0iZGDDrah.jpg",
+					"url": "https://t.co/iczT5vMgAQ",
+					"display_url": "pic.twitter.com/iczT5vMgAQ",
+					"expanded_url": "https://twitter.com/KCON_official/status/1361510612128305152/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1361505310628712400,
+					"id_str": "1361505310628712449",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1361505310628712449/pu/img/sxhUaCi0iZGDDrah.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1361505310628712449/pu/img/sxhUaCi0iZGDDrah.jpg",
+					"url": "https://t.co/iczT5vMgAQ",
+					"display_url": "pic.twitter.com/iczT5vMgAQ",
+					"expanded_url": "https://twitter.com/KCON_official/status/1361510612128305152/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 47233,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1361505310628712449/pu/pl/pCApIXppaL9sbOBR.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1361505310628712449/pu/vid/640x360/ZrRGu-_4RV_5R8ok.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1361505310628712449/pu/vid/480x270/FSwsH21hUhlMtsS3.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1361505310628712449/pu/vid/1280x720/dfyHGorvoQggwGqV.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter\nKCON:TACT 3 - 21. 3. 20 ~ 3. 28",
+			"url": "https://t.co/csCKGKlzlp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/csCKGKlzlp",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297848,
+			"friends_count": 67,
+			"listed_count": 909,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1361480707642564611/eYJqm2l__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1361480707642564611/eYJqm2l__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1613433652",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 259,
+		"favorite_count": 583,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "We invite you to an upgraded KCONTACT 3!\n더욱 새로워진 KCONTACT3에 여러분을 초대합니다!\nさらに新しくなったKCONTACT３へ皆さんをご招待します！\n* MARCH 20(SAT)~28(SUN), 2021\n▶ For more updates, https://t.co/aQyhRtMTxC \n#KCON #KCONTACT3 https://t.co/iczT5vMgAQ"
+	},
+	{
+		"created_at": "Tue Feb 16 03:29:29 +0000 2021",
+		"id": 1361517432939053000,
+		"id_str": "1361518032196091905",
+		"full_text": "[Release]\n\n백예린 [tellusboutyourself Remixes]\n\"HOMESWEETHOME\" (윤석철 Remix)\n\nLyrics by 백예린 (Yerin Baek)\nComposed by 백예린 (Yerin Baek)\nArranged by 윤석철\n\n@SCJAZZY #윤석철 #백예린 #tellusboutyourselfRemixes #HOMESWEETHOME #Remix https://t.co/e1AVhquzRE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤석철",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "백예린",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "tellusboutyourselfRemixes",
+					"indices": [
+						165,
+						191
+					]
+				},
+				{
+					"text": "HOMESWEETHOME",
+					"indices": [
+						192,
+						206
+					]
+				},
+				{
+					"text": "Remix",
+					"indices": [
+						207,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SCJAZZY",
+					"name": "윤석철",
+					"id": 129854311,
+					"id_str": "129854311",
+					"indices": [
+						146,
+						154
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1361517418267349000,
+					"id_str": "1361517418267349000",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EuUU4NdVEAgqGX5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuUU4NdVEAgqGX5.jpg",
+					"url": "https://t.co/e1AVhquzRE",
+					"display_url": "pic.twitter.com/e1AVhquzRE",
+					"expanded_url": "https://twitter.com/antennamusic/status/1361517432939053058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1361517418267349000,
+					"id_str": "1361517418267349000",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EuUU4NdVEAgqGX5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuUU4NdVEAgqGX5.jpg",
+					"url": "https://t.co/e1AVhquzRE",
+					"display_url": "pic.twitter.com/e1AVhquzRE",
+					"expanded_url": "https://twitter.com/antennamusic/status/1361517432939053058/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official / 권진아 EP ‘우리의 방식’ 2021. 02. 18. 6PM Release!",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35568,
+			"friends_count": 10,
+			"listed_count": 362,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3442,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1612939208",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release]\n\n백예린 [tellusboutyourself Remixes]\n\"HOMESWEETHOME\" (윤석철 Remix)\n\nLyrics by 백예린 (Yerin Baek)\nComposed by 백예린 (Yerin Baek)\nArranged by 윤석철\n\n@SCJAZZY #윤석철 #백예린 #tellusboutyourselfRemixes #HOMESWEETHOME #Remix https://t.co/e1AVhquzRE"
+	},
+	{
+		"created_at": "Tue Feb 16 03:29:27 +0000 2021",
+		"id": 1361515684472131600,
+		"id_str": "1361518023274815488",
+		"full_text": "Melon ▶ https://t.co/KLevvesbR6\nGenie ▶ https://t.co/PT3ZL73anN\nBugs ▶ https://t.co/AmhJdp2A8d\nVIBE ▶ https://t.co/PZKSUfJiV2\nFLO ▶ https://t.co/VyElmjPk0P\nSpotify ▶ https://t.co/J0a5CewR9g\nApple Music ▶ https://t.co/wUH0PR3wYR\nYouTube ▶ https://t.co/EQEfdBablw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KLevvesbR6",
+					"expanded_url": "https://bit.ly/37ibWqd",
+					"display_url": "bit.ly/37ibWqd",
+					"indices": [
+						8,
+						31
+					]
+				},
+				{
+					"url": "https://t.co/PT3ZL73anN",
+					"expanded_url": "https://bit.ly/2ZjPeK3",
+					"display_url": "bit.ly/2ZjPeK3",
+					"indices": [
+						40,
+						63
+					]
+				},
+				{
+					"url": "https://t.co/AmhJdp2A8d",
+					"expanded_url": "https://bit.ly/2NvEcPm",
+					"display_url": "bit.ly/2NvEcPm",
+					"indices": [
+						71,
+						94
+					]
+				},
+				{
+					"url": "https://t.co/PZKSUfJiV2",
+					"expanded_url": "https://bit.ly/2ZjZMZB",
+					"display_url": "bit.ly/2ZjZMZB",
+					"indices": [
+						102,
+						125
+					]
+				},
+				{
+					"url": "https://t.co/VyElmjPk0P",
+					"expanded_url": "https://bit.ly/2Zmw5r4",
+					"display_url": "bit.ly/2Zmw5r4",
+					"indices": [
+						132,
+						155
+					]
+				},
+				{
+					"url": "https://t.co/J0a5CewR9g",
+					"expanded_url": "https://spoti.fi/3rYhFtu",
+					"display_url": "spoti.fi/3rYhFtu",
+					"indices": [
+						166,
+						189
+					]
+				},
+				{
+					"url": "https://t.co/wUH0PR3wYR",
+					"expanded_url": "https://apple.co/3b9PMaX",
+					"display_url": "apple.co/3b9PMaX",
+					"indices": [
+						204,
+						227
+					]
+				},
+				{
+					"url": "https://t.co/EQEfdBablw",
+					"expanded_url": "https://bit.ly/3u0O4RV",
+					"display_url": "bit.ly/3u0O4RV",
+					"indices": [
+						238,
+						261
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1361510885538230300,
+		"in_reply_to_status_id_str": "1361510885538230277",
+		"in_reply_to_user_id": 1185935579168424000,
+		"in_reply_to_user_id_str": "1185935579168423936",
+		"in_reply_to_screen_name": "yerinbaek",
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl contact@bluevinyl.kr",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24561,
+			"friends_count": 0,
+			"listed_count": 158,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1336970677748842497/UmAJjdzR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336970677748842497/UmAJjdzR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1606885286",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 91,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Melon ▶ https://t.co/KLevvesbR6\nGenie ▶ https://t.co/PT3ZL73anN\nBugs ▶ https://t.co/AmhJdp2A8d\nVIBE ▶ https://t.co/PZKSUfJiV2\nFLO ▶ https://t.co/VyElmjPk0P\nSpotify ▶ https://t.co/J0a5CewR9g\nApple Music ▶ https://t.co/wUH0PR3wYR\nYouTube ▶ https://t.co/EQEfdBablw"
+	},
+	{
 		"created_at": "Tue Feb 16 03:11:23 +0000 2021",
 		"id": 1361510616473759700,
 		"id_str": "1361513477349793793",
