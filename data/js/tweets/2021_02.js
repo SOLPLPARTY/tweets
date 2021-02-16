@@ -1,6 +1,1052 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 16 03:11:23 +0000 2021",
+		"id": 1361510616473759700,
+		"id_str": "1361513477349793793",
+		"full_text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁\n\n&lt;롤링 26주년 기념 공연 : 잠비나이&gt;\n· 일시 : 2021년 03월 01일 (월) 오후 5시 \n· 장소 : 롤링홀 \n· 출연 : 잠비나이\n· 예매 :🍈멜론티켓 https://t.co/5Gr7QIpw3u\n\n#잠비나이 #Jambinai #단독콘서트\n#롤링홀 #롤링26주년 #멜론티켓 https://t.co/cYT7O0cviV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "잠비나이",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "Jambinai",
+					"indices": [
+						163,
+						172
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						173,
+						179
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "롤링26주년",
+					"indices": [
+						185,
+						192
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						193,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5Gr7QIpw3u",
+					"expanded_url": "https://bit.ly/2YZa2Xi",
+					"display_url": "bit.ly/2YZa2Xi",
+					"indices": [
+						132,
+						155
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1359030446567264300,
+					"id_str": "1359030446567264256",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1359030446567264256/pu/img/KVNwesAjkezRW9x-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1359030446567264256/pu/img/KVNwesAjkezRW9x-.jpg",
+					"url": "https://t.co/cYT7O0cviV",
+					"display_url": "pic.twitter.com/cYT7O0cviV",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1361510616473759753/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1359030446567264300,
+					"id_str": "1359030446567264256",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1359030446567264256/pu/img/KVNwesAjkezRW9x-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1359030446567264256/pu/img/KVNwesAjkezRW9x-.jpg",
+					"url": "https://t.co/cYT7O0cviV",
+					"display_url": "pic.twitter.com/cYT7O0cviV",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1361510616473759753/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3010,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359030446567264256/pu/vid/480x480/mVf00A6xwGyeZAGY.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359030446567264256/pu/vid/720x720/rwzeKuq0i95V5izj.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1359030446567264256/pu/pl/flLTT2cW1A3-PcUj.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1359030446567264256/pu/vid/320x320/K55a_4iV3HstihrK.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/TADR20wMLG",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TADR20wMLG",
+							"expanded_url": "https://bit.ly/2ManUuA",
+							"display_url": "bit.ly/2ManUuA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 129,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 94,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁\n\n&lt;롤링 26주년 기념 공연 : 잠비나이&gt;\n· 일시 : 2021년 03월 01일 (월) 오후 5시 \n· 장소 : 롤링홀 \n· 출연 : 잠비나이\n· 예매 :🍈멜론티켓 https://t.co/5Gr7QIpw3u\n\n#잠비나이 #Jambinai #단독콘서트\n#롤링홀 #롤링26주년 #멜론티켓 https://t.co/cYT7O0cviV"
+	},
+	{
+		"created_at": "Tue Feb 16 03:11:17 +0000 2021",
+		"id": 1361510614816882700,
+		"id_str": "1361513451739348992",
+		"full_text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁 \n\n&lt;롤링 26주년 기념 공연 : 웨이브투어스 단독 콘서트&gt;\n· 일시 : 2021년 2월 26일 (금) 오후 8시, 2월 27일 (토) 오후 5시, 2월 28일 (일) 오후 7시\n· 장소 : 롤링홀\n· 출연 : Wave To Earth\n· 예매 :🍈멜론티켓 https://t.co/YTAH0MbnjO https://t.co/d8w8Sg3Ibe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YTAH0MbnjO",
+					"expanded_url": "https://bit.ly/2Yx48wb",
+					"display_url": "bit.ly/2Yx48wb",
+					"indices": [
+						184,
+						207
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1361296965854589000,
+					"id_str": "1361296965854588932",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1361296965854588932/pu/img/KxFgVGdT45tJHi_q.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1361296965854588932/pu/img/KxFgVGdT45tJHi_q.jpg",
+					"url": "https://t.co/d8w8Sg3Ibe",
+					"display_url": "pic.twitter.com/d8w8Sg3Ibe",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1361510614816882688/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1361296965854589000,
+					"id_str": "1361296965854588932",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1361296965854588932/pu/img/KxFgVGdT45tJHi_q.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1361296965854588932/pu/img/KxFgVGdT45tJHi_q.jpg",
+					"url": "https://t.co/d8w8Sg3Ibe",
+					"display_url": "pic.twitter.com/d8w8Sg3Ibe",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1361510614816882688/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3010,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1361296965854588932/pu/vid/720x720/fOMsLyeEIR8HolEx.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1361296965854588932/pu/vid/480x480/g7PYPXz_F6uRzqIr.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1361296965854588932/pu/vid/320x320/ji9f-pnkaMFFlpYK.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1361296965854588932/pu/pl/M9RJjY9xn8Pvz_xf.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/TADR20wMLG",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TADR20wMLG",
+							"expanded_url": "https://bit.ly/2ManUuA",
+							"display_url": "bit.ly/2ManUuA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 129,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 94,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁 \n\n&lt;롤링 26주년 기념 공연 : 웨이브투어스 단독 콘서트&gt;\n· 일시 : 2021년 2월 26일 (금) 오후 8시, 2월 27일 (토) 오후 5시, 2월 28일 (일) 오후 7시\n· 장소 : 롤링홀\n· 출연 : Wave To Earth\n· 예매 :🍈멜론티켓 https://t.co/YTAH0MbnjO https://t.co/d8w8Sg3Ibe"
+	},
+	{
+		"created_at": "Tue Feb 16 03:10:31 +0000 2021",
+		"id": 1361513261351530500,
+		"id_str": "1361513261351530498",
+		"full_text": "#서울뮤직 #SEOUL_MUSIC\n[MV] 임다이 (Im DAI) - 지워줘 (Feat. 태리 (Terry)) / Official Music Video\nhttps://t.co/0fo0PJmBOP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SEOUL_MUSIC",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0fo0PJmBOP",
+					"expanded_url": "https://youtu.be/DriYvQGozFQ",
+					"display_url": "youtu.be/DriYvQGozFQ",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 443,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#서울뮤직 #SEOUL_MUSIC\n[MV] 임다이 (Im DAI) - 지워줘 (Feat. 태리 (Terry)) / Official Music Video\nhttps://t.co/0fo0PJmBOP"
+	},
+	{
+		"created_at": "Tue Feb 16 03:05:59 +0000 2021",
+		"id": 1361512118256685000,
+		"id_str": "1361512118256685056",
+		"full_text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n[Full Audio] 요조 - '작은 사람' (1hr)\nhttps://t.co/ndsz3yQPcR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MAGIC_STRAWBERRY_SOUND",
+					"indices": [
+						12,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ndsz3yQPcR",
+					"expanded_url": "https://youtu.be/rhyToaM1I8w",
+					"display_url": "youtu.be/rhyToaM1I8w",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 443,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n[Full Audio] 요조 - '작은 사람' (1hr)\nhttps://t.co/ndsz3yQPcR"
+	},
+	{
+		"created_at": "Tue Feb 16 03:01:31 +0000 2021",
+		"id": 1361510994732855300,
+		"id_str": "1361510994732855296",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n쿤타 (KOONTA) - 느리게 빨리 (FEAT. ZENE THE ZILLA) [Music Video]\nhttps://t.co/K0DUonBAQo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K0DUonBAQo",
+					"expanded_url": "https://youtu.be/D2UI3di_6wE",
+					"display_url": "youtu.be/D2UI3di_6wE",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 443,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n쿤타 (KOONTA) - 느리게 빨리 (FEAT. ZENE THE ZILLA) [Music Video]\nhttps://t.co/K0DUonBAQo"
+	},
+	{
+		"created_at": "Tue Feb 16 03:00:59 +0000 2021",
+		"id": 1361510862218010600,
+		"id_str": "1361510862218010624",
+		"full_text": "#솔플파티 트위터 뉴스레터 (Feb 16) https://t.co/2tDQR6ClJg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "솔플파티",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2tDQR6ClJg",
+					"expanded_url": "https://nzzl.us/MilFbx7",
+					"display_url": "nzzl.us/MilFbx7",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://nuzzel.com/\" rel=\"nofollow\">Nuzzel</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 443,
+			"listed_count": 2,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#솔플파티 트위터 뉴스레터 (Feb 16) https://t.co/2tDQR6ClJg"
+	},
+	{
 		"created_at": "Tue Feb 16 01:58:15 +0000 2021",
 		"id": 1361483592988196900,
 		"id_str": "1361495071791738880",
