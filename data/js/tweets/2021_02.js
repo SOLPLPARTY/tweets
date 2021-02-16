@@ -1,6 +1,398 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 16 11:01:38 +0000 2021",
+		"id": 1361631821490917400,
+		"id_str": "1361631821490917382",
+		"full_text": "#CASPER_RADIO #캐스퍼라디오\n[Silent Room] Vol.1 전진희\nhttps://t.co/cwIDSpibEP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CASPER_RADIO",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "캐스퍼라디오",
+					"indices": [
+						14,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cwIDSpibEP",
+					"expanded_url": "https://youtu.be/4aEcmhIkbnk",
+					"display_url": "youtu.be/4aEcmhIkbnk",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 443,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#CASPER_RADIO #캐스퍼라디오\n[Silent Room] Vol.1 전진희\nhttps://t.co/cwIDSpibEP"
+	},
+	{
+		"created_at": "Tue Feb 16 10:58:22 +0000 2021",
+		"id": 1361620818417967000,
+		"id_str": "1361630997687721985",
+		"full_text": "[FAN:DRIVE] We Must Love HYOJIN 🦌💞 \n이 영상 보면 당신은 효진이를... 사랑하게 될 거~야 🦌💞\nこの映像であなたはヒョジンに惚れてしまうぞ～🦌💞\n▶ more on tiktok @ kcon.official\n#ONF #HYOJIN #효진 #KCON #KCONTACT3 \n@wm_on7off https://t.co/799JW38tbm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ONF",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "HYOJIN",
+					"indices": [
+						133,
+						140
+					]
+				},
+				{
+					"text": "효진",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "KCONTACT3",
+					"indices": [
+						151,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wm_on7off",
+					"name": "온앤오프 (ONF) Official",
+					"id": 893085958119211000,
+					"id_str": "893085958119211011",
+					"indices": [
+						163,
+						173
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1361619899081089000,
+					"id_str": "1361619899081089025",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1361619899081089025/pu/img/_DaG1-QUWdp2oAVf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1361619899081089025/pu/img/_DaG1-QUWdp2oAVf.jpg",
+					"url": "https://t.co/799JW38tbm",
+					"display_url": "pic.twitter.com/799JW38tbm",
+					"expanded_url": "https://twitter.com/KCON_official/status/1361620818417967106/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1361619899081089000,
+					"id_str": "1361619899081089025",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1361619899081089025/pu/img/_DaG1-QUWdp2oAVf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1361619899081089025/pu/img/_DaG1-QUWdp2oAVf.jpg",
+					"url": "https://t.co/799JW38tbm",
+					"display_url": "pic.twitter.com/799JW38tbm",
+					"expanded_url": "https://twitter.com/KCON_official/status/1361620818417967106/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 63630,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1361619899081089025/pu/vid/720x1280/qBflLtKfF9_RpXfX.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1361619899081089025/pu/vid/360x640/10pENs7GshUz03wP.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1361619899081089025/pu/pl/2j2cZ1ZziKjuxVrS.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1361619899081089025/pu/vid/320x568/XDBNz_PNiHmyyx-V.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter\nKCON:TACT 3 - 21. 3. 20 ~ 3. 28",
+			"url": "https://t.co/csCKGKlzlp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/csCKGKlzlp",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 297951,
+			"friends_count": 67,
+			"listed_count": 900,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1361480707642564611/eYJqm2l__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1361480707642564611/eYJqm2l__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1613433652",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 230,
+		"favorite_count": 272,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[FAN:DRIVE] We Must Love HYOJIN 🦌💞 \n이 영상 보면 당신은 효진이를... 사랑하게 될 거~야 🦌💞\nこの映像であなたはヒョジンに惚れてしまうぞ～🦌💞\n▶ more on tiktok @ kcon.official\n#ONF #HYOJIN #효진 #KCON #KCONTACT3 \n@wm_on7off https://t.co/799JW38tbm"
+	},
+	{
 		"created_at": "Tue Feb 16 10:11:17 +0000 2021",
 		"id": 1361618506123419600,
 		"id_str": "1361619148086861825",
