@@ -1,6 +1,654 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 17 06:29:37 +0000 2021",
+		"id": 1361917048209645600,
+		"id_str": "1361925753433169921",
+		"full_text": "● &lt;부재&gt; CD 주요 판매처\n- 예스 24 : https://t.co/fKdHoMuHUH\n- 알라딘 : https://t.co/u6YnsZhIws\n- 인터파크 : https://t.co/rLUROzlVPx\n- 핫트랙스 : https://t.co/nCl34s77UQ\n- 교보문고 : https://t.co/BARq1OPdGo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fKdHoMuHUH",
+					"expanded_url": "https://bit.ly/3qDTWxN",
+					"display_url": "bit.ly/3qDTWxN",
+					"indices": [
+						33,
+						56
+					]
+				},
+				{
+					"url": "https://t.co/u6YnsZhIws",
+					"expanded_url": "https://bit.ly/3c5XSmS",
+					"display_url": "bit.ly/3c5XSmS",
+					"indices": [
+						65,
+						88
+					]
+				},
+				{
+					"url": "https://t.co/rLUROzlVPx",
+					"expanded_url": "https://bit.ly/2MaxEVH",
+					"display_url": "bit.ly/2MaxEVH",
+					"indices": [
+						98,
+						121
+					]
+				},
+				{
+					"url": "https://t.co/nCl34s77UQ",
+					"expanded_url": "https://bit.ly/3938Qrr",
+					"display_url": "bit.ly/3938Qrr",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"url": "https://t.co/BARq1OPdGo",
+					"expanded_url": "https://bit.ly/39PI3xZ",
+					"display_url": "bit.ly/39PI3xZ",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1361916952671780900,
+		"in_reply_to_status_id_str": "1361916952671780873",
+		"in_reply_to_user_id": 240145508,
+		"in_reply_to_user_id_str": "240145508",
+		"in_reply_to_screen_name": "DRDRacompany",
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3772,
+			"friends_count": 6,
+			"listed_count": 84,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 81,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "● &lt;부재&gt; CD 주요 판매처\n- 예스 24 : https://t.co/fKdHoMuHUH\n- 알라딘 : https://t.co/u6YnsZhIws\n- 인터파크 : https://t.co/rLUROzlVPx\n- 핫트랙스 : https://t.co/nCl34s77UQ\n- 교보문고 : https://t.co/BARq1OPdGo"
+	},
+	{
+		"created_at": "Wed Feb 17 06:29:34 +0000 2021",
+		"id": 1361916952671780900,
+		"id_str": "1361925740342689797",
+		"full_text": "카더가든 EP &lt;부재&gt; CD가 온오프라인으로 발매되었습니다. \n초도 한정 수량에 코드 악보집이 랜덤 수록되어 있는 &lt;부재&gt;는 전국의 온/오프라인 판매처에서 구입하실 수 있습니다.\n\n1집 &lt;APARTMENT&gt; CD도 많은 관심 부탁드립니다. https://t.co/WqFblMujbs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1361916943620444200,
+					"id_str": "1361916943620444161",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EuaAPpYVEAEQQgc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuaAPpYVEAEQQgc.jpg",
+					"url": "https://t.co/WqFblMujbs",
+					"display_url": "pic.twitter.com/WqFblMujbs",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1361916952671780873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1361916943620444200,
+					"id_str": "1361916943620444161",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EuaAPpYVEAEQQgc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuaAPpYVEAEQQgc.jpg",
+					"url": "https://t.co/WqFblMujbs",
+					"display_url": "pic.twitter.com/WqFblMujbs",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1361916952671780873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1361916943654031400,
+					"id_str": "1361916943654031363",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/EuaAPpgVkAMhCeX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuaAPpgVkAMhCeX.jpg",
+					"url": "https://t.co/WqFblMujbs",
+					"display_url": "pic.twitter.com/WqFblMujbs",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1361916952671780873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3772,
+			"friends_count": 6,
+			"listed_count": 84,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 81,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "카더가든 EP &lt;부재&gt; CD가 온오프라인으로 발매되었습니다. \n초도 한정 수량에 코드 악보집이 랜덤 수록되어 있는 &lt;부재&gt;는 전국의 온/오프라인 판매처에서 구입하실 수 있습니다.\n\n1집 &lt;APARTMENT&gt; CD도 많은 관심 부탁드립니다. https://t.co/WqFblMujbs"
+	},
+	{
+		"created_at": "Wed Feb 17 06:29:31 +0000 2021",
+		"id": 1361914603802820600,
+		"id_str": "1361925727176769544",
+		"full_text": "세계 여성의 날인 3월 8일!\n자라 라슨 X 이케아 라이브 스트리밍 콘서트 개최🎉 https://t.co/aH37ol5LSt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aH37ol5LSt",
+					"expanded_url": "https://twitter.com/zaralarsson/status/1361709250658017281",
+					"display_url": "twitter.com/zaralarsson/st…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135092865,
+			"id_str": "135092865",
+			"name": "소니뮤직코리아",
+			"screen_name": "SonyMusicKr_POP",
+			"location": "Seoul, South Korea",
+			"description": "소니뮤직의 해외 아티스트들 소식을 전하는 소니뮤직 코리아 공식 트위터 계정입니다!",
+			"url": "https://t.co/THW5lXj534",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/THW5lXj534",
+							"expanded_url": "http://twitaddons.com/SonyMusicKr_POP",
+							"display_url": "twitaddons.com/SonyMusicKr_POP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14089,
+			"friends_count": 267,
+			"listed_count": 358,
+			"created_at": "Tue Apr 20 09:25:56 +0000 2010",
+			"favourites_count": 833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905682101868969984/Ay26Smyy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905682101868969984/Ay26Smyy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135092865/1606978941",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "3D3D42",
+			"profile_sidebar_fill_color": "7EBDE6",
+			"profile_text_color": "0A000A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1361709250658017300,
+		"quoted_status_id_str": "1361709250658017281",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aH37ol5LSt",
+			"expanded": "https://twitter.com/zaralarsson/status/1361709250658017281",
+			"display": "twitter.com/zaralarsson/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 16 16:09:19 +0000 2021",
+			"id": 1361709250658017300,
+			"id_str": "1361709250658017281",
+			"full_text": "Name one thing more Swedish?! What happens on the live stream hopefully doesn’t stay on the live stream https://t.co/e7FdNUig3C",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				103
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1361709245192827000,
+						"id_str": "1361709245192826882",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/EuXDWAcVcAIFU-A.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EuXDWAcVcAIFU-A.jpg",
+						"url": "https://t.co/e7FdNUig3C",
+						"display_url": "pic.twitter.com/e7FdNUig3C",
+						"expanded_url": "https://twitter.com/zaralarsson/status/1361709250658017281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 959,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1351,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1361709245192827000,
+						"id_str": "1361709245192826882",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/EuXDWAcVcAIFU-A.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EuXDWAcVcAIFU-A.jpg",
+						"url": "https://t.co/e7FdNUig3C",
+						"display_url": "pic.twitter.com/e7FdNUig3C",
+						"expanded_url": "https://twitter.com/zaralarsson/status/1361709250658017281/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 959,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1351,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 966204836,
+				"id_str": "966204836",
+				"name": "Zara Larsson",
+				"screen_name": "zaralarsson",
+				"location": "Stockholm",
+				"description": "there will be typos https://t.co/xwyCQxsDIT",
+				"url": "https://t.co/bfxk3z2Jdv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bfxk3z2Jdv",
+								"expanded_url": "http://www.zaralarssonofficial.com/",
+								"display_url": "zaralarssonofficial.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/xwyCQxsDIT",
+								"expanded_url": "https://zaralarsson.lnk.to/PosterGirl",
+								"display_url": "zaralarsson.lnk.to/PosterGirl",
+								"indices": [
+									20,
+									43
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1487022,
+				"friends_count": 3061,
+				"listed_count": 1514,
+				"created_at": "Fri Nov 23 14:19:11 +0000 2012",
+				"favourites_count": 7105,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2968,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1347290483869958146/lGiRMjy-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1347290483869958146/lGiRMjy-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/966204836/1610130744",
+				"profile_link_color": "333333",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E8DDF6",
+				"profile_text_color": "AA00B4",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 174,
+			"favorite_count": 1590,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세계 여성의 날인 3월 8일!\n자라 라슨 X 이케아 라이브 스트리밍 콘서트 개최🎉 https://t.co/aH37ol5LSt"
+	},
+	{
 		"created_at": "Wed Feb 17 05:42:28 +0000 2021",
 		"id": 1361873461379928000,
 		"id_str": "1361913888921378816",
