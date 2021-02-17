@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 17 19:29:25 +0000 2021",
+		"id": 1362117540516745200,
+		"id_str": "1362121994486038534",
+		"full_text": "[#Wilcox]\n\n≠\n\n𝑾𝒊𝒍𝒄𝒐𝒙 \"𝑹𝑼𝑫𝑬 (𝑭𝒆𝒂𝒕. 𝑴𝒐𝒕𝒕𝒆)\" \n2021.02.23. 6𝑷𝑴(𝑲𝑺𝑻)\n\n#윌콕스 #모트 #RUDE https://t.co/grNG2X5MFw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Wilcox",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "윌콕스",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "모트",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "RUDE",
+					"indices": [
+						74,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1362117531897532400,
+					"id_str": "1362117531897532417",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Euc2ra8VkAEfkuS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Euc2ra8VkAEfkuS.jpg",
+					"url": "https://t.co/grNG2X5MFw",
+					"display_url": "pic.twitter.com/grNG2X5MFw",
+					"expanded_url": "https://twitter.com/inplanet/status/1362117540516745216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1362117531897532400,
+					"id_str": "1362117531897532417",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/Euc2ra8VkAEfkuS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Euc2ra8VkAEfkuS.jpg",
+					"url": "https://t.co/grNG2X5MFw",
+					"display_url": "pic.twitter.com/grNG2X5MFw",
+					"expanded_url": "https://twitter.com/inplanet/status/1362117540516745216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Promoting Hip Hop, R&B, soul music in Korea. Music Label & Distributor /\nBoni, Hwaji, The Suite, Wilcox, OuiOui, DAMYE / 유통 문의: 02-3472-6680 or DM or Mention",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1469,
+			"friends_count": 786,
+			"listed_count": 63,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 97,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5294,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/450885515772825600/JMia4PNt_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/450885515772825600/JMia4PNt_normal.jpeg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Wilcox]\n\n≠\n\n𝑾𝒊𝒍𝒄𝒐𝒙 \"𝑹𝑼𝑫𝑬 (𝑭𝒆𝒂𝒕. 𝑴𝒐𝒕𝒕𝒆)\" \n2021.02.23. 6𝑷𝑴(𝑲𝑺𝑻)\n\n#윌콕스 #모트 #RUDE https://t.co/grNG2X5MFw"
+	},
+	{
 		"created_at": "Wed Feb 17 15:11:17 +0000 2021",
 		"id": 1362056043694411800,
 		"id_str": "1362057032929599488",
