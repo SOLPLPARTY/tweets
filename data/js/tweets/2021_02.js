@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 18 14:29:54 +0000 2021",
+		"id": 1362402408286941200,
+		"id_str": "1362409007802175499",
+		"full_text": "@antennamusic Q: #Ask_KwonJinAh 요즘 즐겨먹는 음식?\n- @dangtae_who\n\nA: #TwitterBlueroom LIVE with #권진아 https://t.co/evG72YZnC2",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Ask_KwonJinAh",
+					"indices": [
+						17,
+						31
+					]
+				},
+				{
+					"text": "TwitterBlueroom",
+					"indices": [
+						63,
+						79
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						90,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "antennamusic",
+					"name": "안테나 Antenna",
+					"id": 266004552,
+					"id_str": "266004552",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "dangtae_who",
+					"name": "당태",
+					"id": 1189771837770625000,
+					"id_str": "1189771837770625024",
+					"indices": [
+						46,
+						58
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1362402384413028400,
+					"id_str": "1362402384413028352",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1362402384413028352/img/sUjE4XTiLFCN14a9.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1362402384413028352/img/sUjE4XTiLFCN14a9.jpg",
+					"url": "https://t.co/evG72YZnC2",
+					"display_url": "pic.twitter.com/evG72YZnC2",
+					"expanded_url": "https://twitter.com/antennamusic/status/1362402408286941194/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1362402384413028400,
+					"id_str": "1362402384413028352",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1362402384413028352/img/sUjE4XTiLFCN14a9.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1362402384413028352/img/sUjE4XTiLFCN14a9.jpg",
+					"url": "https://t.co/evG72YZnC2",
+					"display_url": "pic.twitter.com/evG72YZnC2",
+					"expanded_url": "https://twitter.com/antennamusic/status/1362402408286941194/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3067,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1362402384413028352/vid/320x320/YebGmAs-Ef9cb-5l.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1362402384413028352/pl/tGf29zLSApaDpa1F.m3u8?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1362402384413028352/vid/720x720/SQr5qCQIvF9za-G-.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1362402384413028352/vid/480x480/tgYiH4-H-Yd9vyql.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://media.twitter.com\" rel=\"nofollow\">Twitter VIT App for iOS</a>",
+		"in_reply_to_status_id": 1362401567299625000,
+		"in_reply_to_status_id_str": "1362401567299624961",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official / 권진아 EP ‘우리의 방식’ 2021. 02. 18. 6PM Release!",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35638,
+			"friends_count": 10,
+			"listed_count": 362,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3456,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1612939208",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@antennamusic Q: #Ask_KwonJinAh 요즘 즐겨먹는 음식?\n- @dangtae_who\n\nA: #TwitterBlueroom LIVE with #권진아 https://t.co/evG72YZnC2"
+	},
+	{
 		"created_at": "Thu Feb 18 14:11:43 +0000 2021",
 		"id": 1362401385975718000,
 		"id_str": "1362404433624195076",
