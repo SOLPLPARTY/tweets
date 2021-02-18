@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 18 06:29:47 +0000 2021",
+		"id": 1362274496825073700,
+		"id_str": "1362288183409532929",
+		"full_text": "[이자람] 대전예술의전당애서 펼쳐질 판소리 &lt;노인과 바다&gt;의 티켓예매가 시작되었습니다. 아래의 공연정보를 확인해 주세요!\n\n- 일시: 3/18(목) ~ 19(금) 7:30pm \n- 장소: 대전예술의전당 앙상블홀\n- 예매: https://t.co/nsUyDhuMnF\n\n@jjjjjam \n#이자람 #노인과바다 #대전예술의전당 https://t.co/iBL4LMIZxQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이자람",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "노인과바다",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "대전예술의전당",
+					"indices": [
+						177,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jjjjjam",
+					"name": "LeeJaram",
+					"id": 110053057,
+					"id_str": "110053057",
+					"indices": [
+						155,
+						163
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nsUyDhuMnF",
+					"expanded_url": "https://tickets.interpark.com/goods/21000413",
+					"display_url": "tickets.interpark.com/goods/21000413",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1362274491133436000,
+					"id_str": "1362274491133435904",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EufFbpqVoAANa_6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EufFbpqVoAANa_6.jpg",
+					"url": "https://t.co/iBL4LMIZxQ",
+					"display_url": "pic.twitter.com/iBL4LMIZxQ",
+					"expanded_url": "https://twitter.com/blueboy_kr/status/1362274496825073667/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 851,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1452,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1362274491133436000,
+					"id_str": "1362274491133435904",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EufFbpqVoAANa_6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EufFbpqVoAANa_6.jpg",
+					"url": "https://t.co/iBL4LMIZxQ",
+					"display_url": "pic.twitter.com/iBL4LMIZxQ",
+					"expanded_url": "https://twitter.com/blueboy_kr/status/1362274496825073667/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 851,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1452,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 613235782,
+			"id_str": "613235782",
+			"name": "BLUE BOY",
+			"screen_name": "blueboy_kr",
+			"location": "",
+			"description": "언니네 이발관 / Wouter Hamel / 이자람 판소리 / 한승석&정재일 / [info.blueboy@gmail.com]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1299,
+			"friends_count": 188,
+			"listed_count": 14,
+			"created_at": "Wed Jun 20 07:48:47 +0000 2012",
+			"favourites_count": 102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이자람] 대전예술의전당애서 펼쳐질 판소리 &lt;노인과 바다&gt;의 티켓예매가 시작되었습니다. 아래의 공연정보를 확인해 주세요!\n\n- 일시: 3/18(목) ~ 19(금) 7:30pm \n- 장소: 대전예술의전당 앙상블홀\n- 예매: https://t.co/nsUyDhuMnF\n\n@jjjjjam \n#이자람 #노인과바다 #대전예술의전당 https://t.co/iBL4LMIZxQ"
+	},
+	{
 		"created_at": "Thu Feb 18 05:29:29 +0000 2021",
 		"id": 1362265589008371700,
 		"id_str": "1362273007041978368",
