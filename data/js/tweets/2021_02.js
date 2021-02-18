@@ -1,6 +1,1076 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 18 14:11:43 +0000 2021",
+		"id": 1362401385975718000,
+		"id_str": "1362404433624195076",
+		"full_text": "1. 티켓 수령\n2. 마스크 착용, 손 소독제 사용\n3. QR코드 등록 (네이버, 카카오톡, PASS)\n4. 발열 체크 (37.5도 이상 입장 제한)\n5. 공연장 입장",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1362401312214720500,
+		"in_reply_to_status_id_str": "1362401312214720514",
+		"in_reply_to_user_id": 1291327050578456600,
+		"in_reply_to_user_id_str": "1291327050578456578",
+		"in_reply_to_screen_name": "rollinghall1995",
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/TADR20wMLG",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TADR20wMLG",
+							"expanded_url": "https://bit.ly/2ManUuA",
+							"display_url": "bit.ly/2ManUuA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 142,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "1. 티켓 수령\n2. 마스크 착용, 손 소독제 사용\n3. QR코드 등록 (네이버, 카카오톡, PASS)\n4. 발열 체크 (37.5도 이상 입장 제한)\n5. 공연장 입장"
+	},
+	{
+		"created_at": "Thu Feb 18 14:11:34 +0000 2021",
+		"id": 1362401312214720500,
+		"id_str": "1362404394491387911",
+		"full_text": "안전과 예방에 협조 부탁드립니다.\n(*입장 전 마스크 착용 및 손소독제 사용은 필수이며, 사전 검사 진행 시 유증상자 분들은 입장이 제한될 수 있는 점 양해 부탁드립니다. 이 경우 당일 현장에서 전액 환불 예정입니다.)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1362401214046957600,
+		"in_reply_to_status_id_str": "1362401214046957571",
+		"in_reply_to_user_id": 1291327050578456600,
+		"in_reply_to_user_id_str": "1291327050578456578",
+		"in_reply_to_screen_name": "rollinghall1995",
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/TADR20wMLG",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TADR20wMLG",
+							"expanded_url": "https://bit.ly/2ManUuA",
+							"display_url": "bit.ly/2ManUuA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 142,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "안전과 예방에 협조 부탁드립니다.\n(*입장 전 마스크 착용 및 손소독제 사용은 필수이며, 사전 검사 진행 시 유증상자 분들은 입장이 제한될 수 있는 점 양해 부탁드립니다. 이 경우 당일 현장에서 전액 환불 예정입니다.)"
+	},
+	{
+		"created_at": "Thu Feb 18 14:11:27 +0000 2021",
+		"id": 1362401214046957600,
+		"id_str": "1362404364657307651",
+		"full_text": "※ 롤링홀은 코로나19에 대한 정부의 방역지침을 준수하고 협조 하에 운영 중에 있습니다. 관객분들의 안전을 위해, 공연 전 아래와 같은 절차가 진행될 예정입니다. 이에 따라 시간을 갖고 여유있게 방문해 주시길 부탁드리며, 절차를 거부하거나 따르지 않는 관객분들은 입장이 제한될 수 있습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1362401017116065800,
+		"in_reply_to_status_id_str": "1362401017116065801",
+		"in_reply_to_user_id": 1291327050578456600,
+		"in_reply_to_user_id_str": "1291327050578456578",
+		"in_reply_to_screen_name": "rollinghall1995",
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/TADR20wMLG",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TADR20wMLG",
+							"expanded_url": "https://bit.ly/2ManUuA",
+							"display_url": "bit.ly/2ManUuA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 142,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "※ 롤링홀은 코로나19에 대한 정부의 방역지침을 준수하고 협조 하에 운영 중에 있습니다. 관객분들의 안전을 위해, 공연 전 아래와 같은 절차가 진행될 예정입니다. 이에 따라 시간을 갖고 여유있게 방문해 주시길 부탁드리며, 절차를 거부하거나 따르지 않는 관객분들은 입장이 제한될 수 있습니다."
+	},
+	{
+		"created_at": "Thu Feb 18 14:11:25 +0000 2021",
+		"id": 1362401017116065800,
+		"id_str": "1362404355664719874",
+		"full_text": "📢 2/19 공연 현장 안내\n\n&lt;롤링 26주년 기념 공연 : 기프트 단독 콘서트&gt;\n· 티켓수령 : 7시 (현장구매 소량 가능)\n· 입장 : 7시 30분\n· 공연시작 : 8시\n· 출연 : 기프트\n\n#기프트 #Gift #단독콘서트\n#롤링홀 #ROLLINGHALL\n#롤링26주년 #롤링26주년기념공연\n#홍대 #공연 #인디 #멜론티켓 https://t.co/IcPpVSb3ge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "기프트",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "Gift",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						138,
+						150
+					]
+				},
+				{
+					"text": "롤링26주년",
+					"indices": [
+						151,
+						158
+					]
+				},
+				{
+					"text": "롤링26주년기념공연",
+					"indices": [
+						159,
+						170
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						175,
+						178
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						179,
+						182
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						183,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1362401009536962600,
+					"id_str": "1362401009536962560",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/Eug4f_cVkAARSig.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eug4f_cVkAARSig.jpg",
+					"url": "https://t.co/IcPpVSb3ge",
+					"display_url": "pic.twitter.com/IcPpVSb3ge",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1362401017116065801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1362401009536962600,
+					"id_str": "1362401009536962560",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/Eug4f_cVkAARSig.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eug4f_cVkAARSig.jpg",
+					"url": "https://t.co/IcPpVSb3ge",
+					"display_url": "pic.twitter.com/IcPpVSb3ge",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1362401017116065801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1362401009541161000,
+					"id_str": "1362401009541160962",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/Eug4f_dVoAIxKQW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eug4f_dVoAIxKQW.jpg",
+					"url": "https://t.co/IcPpVSb3ge",
+					"display_url": "pic.twitter.com/IcPpVSb3ge",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1362401017116065801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1362401009536929800,
+					"id_str": "1362401009536929792",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/Eug4f_cVEAA0aa2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eug4f_cVEAA0aa2.jpg",
+					"url": "https://t.co/IcPpVSb3ge",
+					"display_url": "pic.twitter.com/IcPpVSb3ge",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1362401017116065801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/TADR20wMLG",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TADR20wMLG",
+							"expanded_url": "https://bit.ly/2ManUuA",
+							"display_url": "bit.ly/2ManUuA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 142,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 2/19 공연 현장 안내\n\n&lt;롤링 26주년 기념 공연 : 기프트 단독 콘서트&gt;\n· 티켓수령 : 7시 (현장구매 소량 가능)\n· 입장 : 7시 30분\n· 공연시작 : 8시\n· 출연 : 기프트\n\n#기프트 #Gift #단독콘서트\n#롤링홀 #ROLLINGHALL\n#롤링26주년 #롤링26주년기념공연\n#홍대 #공연 #인디 #멜론티켓 https://t.co/IcPpVSb3ge"
+	},
+	{
+		"created_at": "Thu Feb 18 14:11:22 +0000 2021",
+		"id": 1362391600094081000,
+		"id_str": "1362404342536544259",
+		"full_text": "Our lights are on this weekend✨ As usual, will be streaming via @mixcloud for our friends at home and abroad 📡17:00KST",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mixcloud",
+					"name": "Mixcloud",
+					"id": 16081046,
+					"id_str": "16081046",
+					"indices": [
+						64,
+						73
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 776033448,
+			"id_str": "776033448",
+			"name": "Cakeshop Seoul",
+			"screen_name": "CakeshopSeoul",
+			"location": "이태원동 34-16 용산구 서울",
+			"description": "",
+			"url": "https://t.co/Y6fLNJs2vN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y6fLNJs2vN",
+							"expanded_url": "http://www.cakeshopseoul.com",
+							"display_url": "cakeshopseoul.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2547,
+			"friends_count": 556,
+			"listed_count": 20,
+			"created_at": "Thu Aug 23 14:06:21 +0000 2012",
+			"favourites_count": 882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838798045638635522/svqBMkbH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838798045638635522/svqBMkbH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/776033448/1465407468",
+			"profile_link_color": "ED3D26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Our lights are on this weekend✨ As usual, will be streaming via @mixcloud for our friends at home and abroad 📡17:00KST"
+	},
+	{
+		"created_at": "Thu Feb 18 14:11:17 +0000 2021",
+		"id": 1362390970784829400,
+		"id_str": "1362404320965181446",
+		"full_text": "🎠 https://t.co/nWFo0ngWVf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nWFo0ngWVf",
+					"expanded_url": "https://twitter.com/blockfmjp/status/1362282952416141313",
+					"display_url": "twitter.com/blockfmjp/stat…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 776033448,
+			"id_str": "776033448",
+			"name": "Cakeshop Seoul",
+			"screen_name": "CakeshopSeoul",
+			"location": "이태원동 34-16 용산구 서울",
+			"description": "",
+			"url": "https://t.co/Y6fLNJs2vN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y6fLNJs2vN",
+							"expanded_url": "http://www.cakeshopseoul.com",
+							"display_url": "cakeshopseoul.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2547,
+			"friends_count": 556,
+			"listed_count": 20,
+			"created_at": "Thu Aug 23 14:06:21 +0000 2012",
+			"favourites_count": 882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838798045638635522/svqBMkbH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838798045638635522/svqBMkbH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/776033448/1465407468",
+			"profile_link_color": "ED3D26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1362282952416141300,
+		"quoted_status_id_str": "1362282952416141313",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nWFo0ngWVf",
+			"expanded": "https://twitter.com/blockfmjp/status/1362282952416141313",
+			"display": "twitter.com/blockfmjp/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 18 06:09:00 +0000 2021",
+			"id": 1362282952416141300,
+			"id_str": "1362282952416141313",
+			"full_text": "ニュース｜韓国のクラブ「Cakeshop」が「Carousel Records」設立! Gqomの人気プロデューサーDJ Lagら参加\n\n多様性や流動性のある文化を表現するレーベルの第一弾リリースには日本からWRACK、UKからScratchclartも参加する。\n\nhttps://t.co/e9tBXXBggk https://t.co/GqUBL7zvsW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				157
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/e9tBXXBggk",
+						"expanded_url": "https://block.fm/news/carouselrecords",
+						"display_url": "block.fm/news/carouselr…",
+						"indices": [
+							134,
+							157
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1362282947735298000,
+						"id_str": "1362282947735298050",
+						"indices": [
+							158,
+							181
+						],
+						"media_url": "http://pbs.twimg.com/media/EufNH49VoAIOJHO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EufNH49VoAIOJHO.jpg",
+						"url": "https://t.co/GqUBL7zvsW",
+						"display_url": "pic.twitter.com/GqUBL7zvsW",
+						"expanded_url": "https://twitter.com/blockfmjp/status/1362282952416141313/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1362282947735298000,
+						"id_str": "1362282947735298050",
+						"indices": [
+							158,
+							181
+						],
+						"media_url": "http://pbs.twimg.com/media/EufNH49VoAIOJHO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EufNH49VoAIOJHO.jpg",
+						"url": "https://t.co/GqUBL7zvsW",
+						"display_url": "pic.twitter.com/GqUBL7zvsW",
+						"expanded_url": "https://twitter.com/blockfmjp/status/1362282952416141313/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 380778898,
+				"id_str": "380778898",
+				"name": "block.fm",
+				"screen_name": "blockfmjp",
+				"location": "東京",
+				"description": "ワールドワイドな音楽✖️ポップカルチャーを体験できるメディア。 アプリ⇒iOS https://t.co/nuzLDxdoqy Android https://t.co/c9lskpY651 リリース情報/製品情報/お問い合わせ⇒ news@block.fm またはDMで\n\nブロックフェス @blockfes もチェック❤️",
+				"url": "https://t.co/WT9tfHT8Iw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WT9tfHT8Iw",
+								"expanded_url": "http://block.fm",
+								"display_url": "block.fm",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/nuzLDxdoqy",
+								"expanded_url": "http://goo.gl/oB6dvQ",
+								"display_url": "goo.gl/oB6dvQ",
+								"indices": [
+									40,
+									63
+								]
+							},
+							{
+								"url": "https://t.co/c9lskpY651",
+								"expanded_url": "http://goo.gl/N9cdD2",
+								"display_url": "goo.gl/N9cdD2",
+								"indices": [
+									72,
+									95
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 38281,
+				"friends_count": 839,
+				"listed_count": 760,
+				"created_at": "Tue Sep 27 06:41:27 +0000 2011",
+				"favourites_count": 26748,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 154902,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1322559243338145792/I6FdiN7b_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322559243338145792/I6FdiN7b_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/380778898/1604157676",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "555555",
+				"profile_sidebar_fill_color": "333333",
+				"profile_text_color": "FFFFFF",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🎠 https://t.co/nWFo0ngWVf"
+	},
+	{
 		"created_at": "Thu Feb 18 13:13:09 +0000 2021",
 		"id": 1362386552291168300,
 		"id_str": "1362389693845762052",
