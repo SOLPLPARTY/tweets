@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 18 15:29:25 +0000 2021",
+		"id": 1362422718277120000,
+		"id_str": "1362423984013385731",
+		"full_text": "권진아의 트위터 블루룸 라이브에\n함께해주셔서 감사합니다.\n\n권진아의 색채가 가득 담긴 앨범,\nEP [우리의 방식]과 타이틀곡 ‘잘 가’에\n많은 사랑과 응원 부탁드립니다 💙\n\n* 트위터 블루룸 라이브 다시보기는 안테나 공식 트위터 계정 또는 추후 안테나 공식 유튜브 채널에서 만나보실 수 있습니다. https://t.co/KnCV8GxkMz https://t.co/OW6sEGGXB0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KnCV8GxkMz",
+					"expanded_url": "https://twitter.com/antennamusic/status/1362386552291168260",
+					"display_url": "twitter.com/antennamusic/s…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1362422713743147000,
+					"id_str": "1362422713743147016",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EuhMPV6VgAgJFMk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuhMPV6VgAgJFMk.jpg",
+					"url": "https://t.co/OW6sEGGXB0",
+					"display_url": "pic.twitter.com/OW6sEGGXB0",
+					"expanded_url": "https://twitter.com/antennamusic/status/1362422718277120000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1362422713743147000,
+					"id_str": "1362422713743147016",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EuhMPV6VgAgJFMk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuhMPV6VgAgJFMk.jpg",
+					"url": "https://t.co/OW6sEGGXB0",
+					"display_url": "pic.twitter.com/OW6sEGGXB0",
+					"expanded_url": "https://twitter.com/antennamusic/status/1362422718277120000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official / 권진아 EP ‘우리의 방식’ 2021. 02. 18. 6PM Release!",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35639,
+			"friends_count": 10,
+			"listed_count": 363,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1612939208",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1362386552291168300,
+		"quoted_status_id_str": "1362386552291168260",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KnCV8GxkMz",
+			"expanded": "https://twitter.com/antennamusic/status/1362386552291168260",
+			"display": "twitter.com/antennamusic/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 18 13:00:40 +0000 2021",
+			"id": 1362386552291168300,
+			"id_str": "1362386552291168260",
+			"full_text": "트위터 블루룸 라이브 with 권진아\n\n#TwitterBlueroom LIVE\nwith Kwon Jin Ah\n\n#권진아 #KwonJinAh\n#우리의방식 #TheWayForUs https://t.co/nVkkogTVGd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				121
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TwitterBlueroom",
+						"indices": [
+							22,
+							38
+						]
+					},
+					{
+						"text": "권진아",
+						"indices": [
+							62,
+							66
+						]
+					},
+					{
+						"text": "KwonJinAh",
+						"indices": [
+							67,
+							77
+						]
+					},
+					{
+						"text": "우리의방식",
+						"indices": [
+							78,
+							84
+						]
+					},
+					{
+						"text": "TheWayForUs",
+						"indices": [
+							85,
+							97
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nVkkogTVGd",
+						"expanded_url": "https://twitter.com/i/broadcasts/1nAJELVjWweGL",
+						"display_url": "twitter.com/i/broadcasts/1…",
+						"indices": [
+							98,
+							121
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 266004552,
+				"id_str": "266004552",
+				"name": "안테나 Antenna",
+				"screen_name": "antennamusic",
+				"location": "대한민국 서울",
+				"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official / 권진아 EP ‘우리의 방식’ 2021. 02. 18. 6PM Release!",
+				"url": "https://t.co/CqfXN7It7U",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CqfXN7It7U",
+								"expanded_url": "http://www.antenna.co.kr",
+								"display_url": "antenna.co.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 35639,
+				"friends_count": 10,
+				"listed_count": 363,
+				"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+				"favourites_count": 13,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3457,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1612939208",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 68,
+			"favorite_count": 127,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 28,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "권진아의 트위터 블루룸 라이브에\n함께해주셔서 감사합니다.\n\n권진아의 색채가 가득 담긴 앨범,\nEP [우리의 방식]과 타이틀곡 ‘잘 가’에\n많은 사랑과 응원 부탁드립니다 💙\n\n* 트위터 블루룸 라이브 다시보기는 안테나 공식 트위터 계정 또는 추후 안테나 공식 유튜브 채널에서 만나보실 수 있습니다. https://t.co/KnCV8GxkMz https://t.co/OW6sEGGXB0"
+	},
+	{
 		"created_at": "Thu Feb 18 14:29:54 +0000 2021",
 		"id": 1362402408286941200,
 		"id_str": "1362409007802175499",
