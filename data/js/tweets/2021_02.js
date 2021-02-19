@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 19 04:29:25 +0000 2021",
+		"id": 1362606583918727200,
+		"id_str": "1362620278279389190",
+		"full_text": "신곡이 추가된 ✨#두아리파 2집 #디럭스에디션✨\n\n🌕𝑭𝒖𝒕𝒖𝒓𝒆 𝑵𝒐𝒔𝒕𝒂𝒍𝒈𝒊𝒂 (𝑻𝒉𝒆 𝑴𝒐𝒐𝒏𝒍𝒊𝒈𝒉𝒕 𝑬𝒅𝒕𝒊𝒐𝒏)🌕\n\n🎧음원듣기 https://t.co/XUsB7c06yM https://t.co/vm19aFD0ds",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "두아리파",
+					"indices": [
+						9,
+						14
+					]
+				},
+				{
+					"text": "디럭스에디션",
+					"indices": [
+						18,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XUsB7c06yM",
+					"expanded_url": "https://WMK.lnk.to/MQ5hPAvX",
+					"display_url": "WMK.lnk.to/MQ5hPAvX",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1362324725079314400,
+					"id_str": "1362324725079314433",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1362324725079314433/pu/img/HgyXKFRPyWeR9qFK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1362324725079314433/pu/img/HgyXKFRPyWeR9qFK.jpg",
+					"url": "https://t.co/vm19aFD0ds",
+					"display_url": "pic.twitter.com/vm19aFD0ds",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1362606583918727169/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1362324725079314400,
+					"id_str": "1362324725079314433",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1362324725079314433/pu/img/HgyXKFRPyWeR9qFK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1362324725079314433/pu/img/HgyXKFRPyWeR9qFK.jpg",
+					"url": "https://t.co/vm19aFD0ds",
+					"display_url": "pic.twitter.com/vm19aFD0ds",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1362606583918727169/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 30000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1362324725079314433/pu/vid/720x900/jNmOGhmqtYxy4BJX.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1362324725079314433/pu/vid/320x400/026cIHu81v_Fca1z.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1362324725079314433/pu/vid/360x450/176W3-x_t0xU2Xye.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1362324725079314433/pu/pl/LoiLm0cv15CuONVg.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10492,
+			"friends_count": 494,
+			"listed_count": 122,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1589339161",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "신곡이 추가된 ✨#두아리파 2집 #디럭스에디션✨\n\n🌕𝑭𝒖𝒕𝒖𝒓𝒆 𝑵𝒐𝒔𝒕𝒂𝒍𝒈𝒊𝒂 (𝑻𝒉𝒆 𝑴𝒐𝒐𝒏𝒍𝒊𝒈𝒉𝒕 𝑬𝒅𝒕𝒊𝒐𝒏)🌕\n\n🎧음원듣기 https://t.co/XUsB7c06yM https://t.co/vm19aFD0ds"
+	},
+	{
 		"created_at": "Fri Feb 19 03:58:41 +0000 2021",
 		"id": 1362599537387462700,
 		"id_str": "1362612545568309262",
