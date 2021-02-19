@@ -1,6 +1,320 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 19 06:29:37 +0000 2021",
+		"id": 1362644793730367500,
+		"id_str": "1362650530246443011",
+		"full_text": "[음악권리단체모임, OTT사업자에 대한 호소문 발표]\n\n추가로 호소문 전문을 함께 게재합니다.\n\n감사합니다. https://t.co/GJPI5CU77i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1362644540021043200,
+					"id_str": "1362644540021043200",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/EukV_VMUcAAgWca.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EukV_VMUcAAgWca.jpg",
+					"url": "https://t.co/GJPI5CU77i",
+					"display_url": "pic.twitter.com/GJPI5CU77i",
+					"expanded_url": "https://twitter.com/record_liak/status/1362644793730367489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1449,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1362644540021043200,
+					"id_str": "1362644540021043200",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/EukV_VMUcAAgWca.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EukV_VMUcAAgWca.jpg",
+					"url": "https://t.co/GJPI5CU77i",
+					"display_url": "pic.twitter.com/GJPI5CU77i",
+					"expanded_url": "https://twitter.com/record_liak/status/1362644793730367489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1449,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1362644540012728300,
+					"id_str": "1362644540012728321",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/EukV_VKVkAELiSu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EukV_VKVkAELiSu.jpg",
+					"url": "https://t.co/GJPI5CU77i",
+					"display_url": "pic.twitter.com/GJPI5CU77i",
+					"expanded_url": "https://twitter.com/record_liak/status/1362644793730367489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1449,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1362644788944666600,
+		"in_reply_to_status_id_str": "1362644788944666632",
+		"in_reply_to_user_id": 579588650,
+		"in_reply_to_user_id_str": "579588650",
+		"in_reply_to_screen_name": "record_liak",
+		"user": {
+			"id": 579588650,
+			"id_str": "579588650",
+			"name": "L.I.A.K",
+			"screen_name": "record_liak",
+			"location": "Seoul, Korea",
+			"description": "- 서울음악창작지원센터, 씬디 티켓라운지\n- 플럭서스/루비레코드/엠와이뮤직/주식회사엠피엠지/모던보이ENT/붕가붕가레코드/안테나/JNH뮤직/매직스트로베리/쇼파르/슈가레코드/쿨스뮤직/스티즈/인넥스트트렌드/DHPE/웨스트브릿지/그랜드라인/닥터심슨컴퍼니/미러볼뮤직/누플레이/빌리빈 등",
+			"url": "https://t.co/zKpQqBs24l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zKpQqBs24l",
+							"expanded_url": "http://liak.or.kr/",
+							"display_url": "liak.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2045,
+			"friends_count": 2010,
+			"listed_count": 0,
+			"created_at": "Mon May 14 05:51:50 +0000 2012",
+			"favourites_count": 281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2817,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[음악권리단체모임, OTT사업자에 대한 호소문 발표]\n\n추가로 호소문 전문을 함께 게재합니다.\n\n감사합니다. https://t.co/GJPI5CU77i"
+	},
+	{
+		"created_at": "Fri Feb 19 06:29:28 +0000 2021",
+		"id": 1362644788944666600,
+		"id_str": "1362650489993777155",
+		"full_text": "[음악권리단체모임, OTT사업자에 대한 호소문 발표]\n\n최근 국내 OTT업체들의 음악저작권 징수 규정 개정안에 대한 반발에 대해 음악권리자단체 8개사로 구성된 '음악권리자단체모임' 은 상생과 합리적 논의를 촉구하는 호소문을 발표하였습니다.\n\n◆ 호소문 언론 보도 링크 : https://t.co/OF3WmhMZxX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OF3WmhMZxX",
+					"expanded_url": "https://c11.kr/mk2n",
+					"display_url": "c11.kr/mk2n",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 579588650,
+			"id_str": "579588650",
+			"name": "L.I.A.K",
+			"screen_name": "record_liak",
+			"location": "Seoul, Korea",
+			"description": "- 서울음악창작지원센터, 씬디 티켓라운지\n- 플럭서스/루비레코드/엠와이뮤직/주식회사엠피엠지/모던보이ENT/붕가붕가레코드/안테나/JNH뮤직/매직스트로베리/쇼파르/슈가레코드/쿨스뮤직/스티즈/인넥스트트렌드/DHPE/웨스트브릿지/그랜드라인/닥터심슨컴퍼니/미러볼뮤직/누플레이/빌리빈 등",
+			"url": "https://t.co/zKpQqBs24l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zKpQqBs24l",
+							"expanded_url": "http://liak.or.kr/",
+							"display_url": "liak.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2045,
+			"friends_count": 2010,
+			"listed_count": 0,
+			"created_at": "Mon May 14 05:51:50 +0000 2012",
+			"favourites_count": 281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2817,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[음악권리단체모임, OTT사업자에 대한 호소문 발표]\n\n최근 국내 OTT업체들의 음악저작권 징수 규정 개정안에 대한 반발에 대해 음악권리자단체 8개사로 구성된 '음악권리자단체모임' 은 상생과 합리적 논의를 촉구하는 호소문을 발표하였습니다.\n\n◆ 호소문 언론 보도 링크 : https://t.co/OF3WmhMZxX"
+	},
+	{
 		"created_at": "Fri Feb 19 05:42:37 +0000 2021",
 		"id": 1362638698685239300,
 		"id_str": "1362638698685239297",
