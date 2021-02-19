@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 19 00:58:15 +0000 2021",
+		"id": 1362560028507472000,
+		"id_str": "1362567136707813377",
+		"full_text": "KCON:TACT 3’s 1st line-up! \nPlease look forward to the 2nd and 3rd line-up announcements!\n\n#ENHYPEN \n#iKON\n#THEBOYZ\n#ITZY\n#WOODZ\n#HASUNGWOON\n#OHMYGIRL\n#EVERGLOW https://t.co/J9xR0FElI2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ENHYPEN",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "iKON",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "THEBOYZ",
+					"indices": [
+						107,
+						115
+					]
+				},
+				{
+					"text": "ITZY",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "WOODZ",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "HASUNGWOON",
+					"indices": [
+						129,
+						140
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						141,
+						150
+					]
+				},
+				{
+					"text": "EVERGLOW",
+					"indices": [
+						151,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1362402210429112300,
+					"id_str": "1362402210429112320",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1362402210429112320/pu/img/yFS0aqnZe2p1eQss.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1362402210429112320/pu/img/yFS0aqnZe2p1eQss.jpg",
+					"url": "https://t.co/J9xR0FElI2",
+					"display_url": "pic.twitter.com/J9xR0FElI2",
+					"expanded_url": "https://twitter.com/KCON_official/status/1362560028507471875/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1362402210429112300,
+					"id_str": "1362402210429112320",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1362402210429112320/pu/img/yFS0aqnZe2p1eQss.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1362402210429112320/pu/img/yFS0aqnZe2p1eQss.jpg",
+					"url": "https://t.co/J9xR0FElI2",
+					"display_url": "pic.twitter.com/J9xR0FElI2",
+					"expanded_url": "https://twitter.com/KCON_official/status/1362560028507471875/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 49049,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1362402210429112320/pu/vid/640x360/Ax3MUIMqANFDTqUr.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1362402210429112320/pu/vid/480x270/hJmTQ9XjDD6gaRKh.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1362402210429112320/pu/pl/Yte6uJY6khdChWb6.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1362402210429112320/pu/vid/1280x720/M4EW6ri85JRPMSAz.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter\nKCON:TACT 3 - 21. 3. 20 ~ 3. 28",
+			"url": "https://t.co/csCKGKlzlp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/csCKGKlzlp",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299031,
+			"friends_count": 67,
+			"listed_count": 910,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1361480707642564611/eYJqm2l__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1361480707642564611/eYJqm2l__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1613433652",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3823,
+		"favorite_count": 5948,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KCON:TACT 3’s 1st line-up! \nPlease look forward to the 2nd and 3rd line-up announcements!\n\n#ENHYPEN \n#iKON\n#THEBOYZ\n#ITZY\n#WOODZ\n#HASUNGWOON\n#OHMYGIRL\n#EVERGLOW https://t.co/J9xR0FElI2"
+	},
+	{
 		"created_at": "Thu Feb 18 21:15:42 +0000 2021",
 		"id": 1362304834611777500,
 		"id_str": "1362511132179668994",
