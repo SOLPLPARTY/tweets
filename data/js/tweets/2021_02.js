@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 19 10:29:33 +0000 2021",
+		"id": 1362705885340962800,
+		"id_str": "1362710909983031304",
+		"full_text": "논란의 주제 '민트초코' 부터 라이브까지\n디어클라우드 to 디어클라우드\nhttps://t.co/QG7z1XJ7WK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QG7z1XJ7WK",
+					"expanded_url": "https://youtu.be/_19R9_dd3fU",
+					"display_url": "youtu.be/_19R9_dd3fU",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2673,
+			"friends_count": 341,
+			"listed_count": 32,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 18343,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "논란의 주제 '민트초코' 부터 라이브까지\n디어클라우드 to 디어클라우드\nhttps://t.co/QG7z1XJ7WK"
+	},
+	{
 		"created_at": "Fri Feb 19 10:11:17 +0000 2021",
 		"id": 1362698339322638300,
 		"id_str": "1362706312493232131",
@@ -666,7 +771,7 @@ Grailbird.data.tweets_2021_02 =
 		"created_at": "Fri Feb 19 09:58:15 +0000 2021",
 		"id": 1362688376122474500,
 		"id_str": "1362703032757219330",
-		"full_text": "[FAN:DRIVE_KCON:TACT 3 1st LINEUP HIGHLIGHT] Unbothered queens 💁‍♀️\n ┏━━━-━━━━━━━━━━━┓\n♡ 에글 보느라 잠 한숨 못 잤다고 ♡\n ┗━━━━━━━━━━━━━-━┛\n今EVERGLOWと目合ったの私だよね？そうだよね？🤩\n#EVERGLOW #에버글로우 #kcon #kcontact3 #kpop @EVERGLOW_STAFF https://t.co/Mr0kEesri5",
+		"full_text": "[FAN:DRIVE_KCON:TACT 3 1st LINEUP HIGHLIGHT] Unbothered queens 💁♀️\n ┏━━━-━━━━━━━━━━━┓\n♡ 에글 보느라 잠 한숨 못 잤다고 ♡\n ┗━━━━━━━━━━━━━-━┛\n今EVERGLOWと目合ったの私だよね？そうだよね？🤩\n#EVERGLOW #에버글로우 #kcon #kcontact3 #kpop @EVERGLOW_STAFF https://t.co/Mr0kEesri5",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -912,7 +1017,7 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ja",
-		"text": "[FAN:DRIVE_KCON:TACT 3 1st LINEUP HIGHLIGHT] Unbothered queens 💁‍♀️\n ┏━━━-━━━━━━━━━━━┓\n♡ 에글 보느라 잠 한숨 못 잤다고 ♡\n ┗━━━━━━━━━━━━━-━┛\n今EVERGLOWと目合ったの私だよね？そうだよね？🤩\n#EVERGLOW #에버글로우 #kcon #kcontact3 #kpop @EVERGLOW_STAFF https://t.co/Mr0kEesri5"
+		"text": "[FAN:DRIVE_KCON:TACT 3 1st LINEUP HIGHLIGHT] Unbothered queens 💁♀️\n ┏━━━-━━━━━━━━━━━┓\n♡ 에글 보느라 잠 한숨 못 잤다고 ♡\n ┗━━━━━━━━━━━━━-━┛\n今EVERGLOWと目合ったの私だよね？そうだよね？🤩\n#EVERGLOW #에버글로우 #kcon #kcontact3 #kpop @EVERGLOW_STAFF https://t.co/Mr0kEesri5"
 	},
 	{
 		"created_at": "Fri Feb 19 09:37:03 +0000 2021",
