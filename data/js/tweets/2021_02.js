@@ -1,6 +1,1754 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 19 03:58:41 +0000 2021",
+		"id": 1362599537387462700,
+		"id_str": "1362612545568309262",
+		"full_text": "The one and only 👉 @c_woodzofficial \nPresenting the star of KCON:TACT 3's 1st line-up!\nKCON:TACT 3 첫번째 라인업의 주인공 공개!\nKCON:TACT 3 1stラインナップの主人公たちをご紹介！\n\n#WOODZ #조승연 #CHOSEUNGYOUN #KCON #KCONTACT3 https://t.co/gKofrAJFxg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WOODZ",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "조승연",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "CHOSEUNGYOUN",
+					"indices": [
+						162,
+						175
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "KCONTACT3",
+					"indices": [
+						182,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "c_woodzofficial",
+					"name": "WOODZ(조승연)",
+					"id": 1219213114895302700,
+					"id_str": "1219213114895302656",
+					"indices": [
+						19,
+						35
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1362593051412099000,
+					"id_str": "1362593051412099073",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/EujnKTLVcAEeO3f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EujnKTLVcAEeO3f.jpg",
+					"url": "https://t.co/gKofrAJFxg",
+					"display_url": "pic.twitter.com/gKofrAJFxg",
+					"expanded_url": "https://twitter.com/KCON_official/status/1362599537387462657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1362593051412099000,
+					"id_str": "1362593051412099073",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/EujnKTLVcAEeO3f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EujnKTLVcAEeO3f.jpg",
+					"url": "https://t.co/gKofrAJFxg",
+					"display_url": "pic.twitter.com/gKofrAJFxg",
+					"expanded_url": "https://twitter.com/KCON_official/status/1362599537387462657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter\nKCON:TACT 3 - 21. 3. 20 ~ 3. 28",
+			"url": "https://t.co/csCKGKlzlp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/csCKGKlzlp",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299992,
+			"friends_count": 68,
+			"listed_count": 912,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1361480707642564611/eYJqm2l__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1361480707642564611/eYJqm2l__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1613433652",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1942,
+		"favorite_count": 3156,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "The one and only 👉 @c_woodzofficial \nPresenting the star of KCON:TACT 3's 1st line-up!\nKCON:TACT 3 첫번째 라인업의 주인공 공개!\nKCON:TACT 3 1stラインナップの主人公たちをご紹介！\n\n#WOODZ #조승연 #CHOSEUNGYOUN #KCON #KCONTACT3 https://t.co/gKofrAJFxg"
+	},
+	{
+		"created_at": "Fri Feb 19 03:58:39 +0000 2021",
+		"id": 1362599285838151700,
+		"id_str": "1362612536563142656",
+		"full_text": "The one and only 👉 @WE_THE_BOYZ \nPresenting the stars of KCON:TACT 3's 1st line-up!\nKCON:TACT 3 첫번째 라인업의 주인공 공개!\nKCON:TACT 3 1stラインナップの主人公たちをご紹介！\n\n#THEBOYZ #더보이즈 #KCON #KCONTACT3 https://t.co/k3KfOzOdv9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THEBOYZ",
+					"indices": [
+						147,
+						155
+					]
+				},
+				{
+					"text": "더보이즈",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "KCONTACT3",
+					"indices": [
+						168,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WE_THE_BOYZ",
+					"name": "THE BOYZ (더보이즈)",
+					"id": 946322930031403000,
+					"id_str": "946322930031403008",
+					"indices": [
+						19,
+						31
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1362593016251261000,
+					"id_str": "1362593016251260928",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EujnIQMVoAAg5T8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EujnIQMVoAAg5T8.jpg",
+					"url": "https://t.co/k3KfOzOdv9",
+					"display_url": "pic.twitter.com/k3KfOzOdv9",
+					"expanded_url": "https://twitter.com/KCON_official/status/1362599285838151680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1362593016251261000,
+					"id_str": "1362593016251260928",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EujnIQMVoAAg5T8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EujnIQMVoAAg5T8.jpg",
+					"url": "https://t.co/k3KfOzOdv9",
+					"display_url": "pic.twitter.com/k3KfOzOdv9",
+					"expanded_url": "https://twitter.com/KCON_official/status/1362599285838151680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter\nKCON:TACT 3 - 21. 3. 20 ~ 3. 28",
+			"url": "https://t.co/csCKGKlzlp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/csCKGKlzlp",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299992,
+			"friends_count": 68,
+			"listed_count": 912,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1361480707642564611/eYJqm2l__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1361480707642564611/eYJqm2l__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1613433652",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2020,
+		"favorite_count": 5725,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "The one and only 👉 @WE_THE_BOYZ \nPresenting the stars of KCON:TACT 3's 1st line-up!\nKCON:TACT 3 첫번째 라인업의 주인공 공개!\nKCON:TACT 3 1stラインナップの主人公たちをご紹介！\n\n#THEBOYZ #더보이즈 #KCON #KCONTACT3 https://t.co/k3KfOzOdv9"
+	},
+	{
+		"created_at": "Fri Feb 19 03:58:32 +0000 2021",
+		"id": 1362599034725130200,
+		"id_str": "1362612506695507968",
+		"full_text": "The one and only 👉 @8_OHMYGIRL\nPresenting the stars of KCON:TACT 3's 1st line-up!\nKCON:TACT 3 첫번째 라인업의 주인공 공개!\nKCON:TACT 3 1stラインナップの主人公たちをご紹介！\n\n#OHMYGIRL #오마이걸 #KCON #KCONTACT3 https://t.co/qweI09vvT2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						145,
+						154
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "KCONTACT3",
+					"indices": [
+						167,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "8_OHMYGIRL",
+					"name": "OHMYGIRL_official",
+					"id": 3737955853,
+					"id_str": "3737955853",
+					"indices": [
+						19,
+						30
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1362592290372395000,
+					"id_str": "1362592290372395016",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EujmeAFVIAgzOO2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EujmeAFVIAgzOO2.jpg",
+					"url": "https://t.co/qweI09vvT2",
+					"display_url": "pic.twitter.com/qweI09vvT2",
+					"expanded_url": "https://twitter.com/KCON_official/status/1362599034725130241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1362592290372395000,
+					"id_str": "1362592290372395016",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/EujmeAFVIAgzOO2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EujmeAFVIAgzOO2.jpg",
+					"url": "https://t.co/qweI09vvT2",
+					"display_url": "pic.twitter.com/qweI09vvT2",
+					"expanded_url": "https://twitter.com/KCON_official/status/1362599034725130241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter\nKCON:TACT 3 - 21. 3. 20 ~ 3. 28",
+			"url": "https://t.co/csCKGKlzlp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/csCKGKlzlp",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299992,
+			"friends_count": 68,
+			"listed_count": 912,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1361480707642564611/eYJqm2l__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1361480707642564611/eYJqm2l__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1613433652",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 239,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "The one and only 👉 @8_OHMYGIRL\nPresenting the stars of KCON:TACT 3's 1st line-up!\nKCON:TACT 3 첫번째 라인업의 주인공 공개!\nKCON:TACT 3 1stラインナップの主人公たちをご紹介！\n\n#OHMYGIRL #오마이걸 #KCON #KCONTACT3 https://t.co/qweI09vvT2"
+	},
+	{
+		"created_at": "Fri Feb 19 03:58:24 +0000 2021",
+		"id": 1362598782878285800,
+		"id_str": "1362612472142852098",
+		"full_text": "The one and only 👉 @ITZYofficial \nPresenting the stars of KCON:TACT 3's 1st line-up!\nKCON:TACT 3 첫번째 라인업의 주인공 공개!\nKCON:TACT 3 1stラインナップの主人公たちをご紹介！\n\n#ITZY #있지 #KCON #KCONTACT3 https://t.co/l6EIxsfodz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ITZY",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "있지",
+					"indices": [
+						154,
+						157
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						158,
+						163
+					]
+				},
+				{
+					"text": "KCONTACT3",
+					"indices": [
+						164,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ITZYofficial",
+					"name": "ITZY",
+					"id": 1062578718214770700,
+					"id_str": "1062578718214770688",
+					"indices": [
+						19,
+						32
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1362592201717387300,
+					"id_str": "1362592201717387268",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EujmY10VEAQOGAc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EujmY10VEAQOGAc.jpg",
+					"url": "https://t.co/l6EIxsfodz",
+					"display_url": "pic.twitter.com/l6EIxsfodz",
+					"expanded_url": "https://twitter.com/KCON_official/status/1362598782878285828/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1362592201717387300,
+					"id_str": "1362592201717387268",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EujmY10VEAQOGAc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EujmY10VEAQOGAc.jpg",
+					"url": "https://t.co/l6EIxsfodz",
+					"display_url": "pic.twitter.com/l6EIxsfodz",
+					"expanded_url": "https://twitter.com/KCON_official/status/1362598782878285828/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter\nKCON:TACT 3 - 21. 3. 20 ~ 3. 28",
+			"url": "https://t.co/csCKGKlzlp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/csCKGKlzlp",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299992,
+			"friends_count": 68,
+			"listed_count": 912,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1361480707642564611/eYJqm2l__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1361480707642564611/eYJqm2l__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1613433652",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 201,
+		"favorite_count": 521,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "The one and only 👉 @ITZYofficial \nPresenting the stars of KCON:TACT 3's 1st line-up!\nKCON:TACT 3 첫번째 라인업의 주인공 공개!\nKCON:TACT 3 1stラインナップの主人公たちをご紹介！\n\n#ITZY #있지 #KCON #KCONTACT3 https://t.co/l6EIxsfodz"
+	},
+	{
+		"created_at": "Fri Feb 19 03:58:17 +0000 2021",
+		"id": 1362598531140231200,
+		"id_str": "1362612443080499205",
+		"full_text": "The one and only 👉 @YG_iKONIC\nPresenting the stars of KCON:TACT 3's 1st line-up!\nKCON:TACT 3 첫번째 라인업의 주인공 공개!\nKCON:TACT 3 1stラインナップの主人公たちをご紹介！\n\n#iKON #아이콘 #KCON #KCONTACT3 https://t.co/tDjaqKJ80U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "iKON",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "아이콘",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "KCONTACT3",
+					"indices": [
+						161,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YG_iKONIC",
+					"name": "iKON GLOBAL iKONIC",
+					"id": 3504585734,
+					"id_str": "3504585734",
+					"indices": [
+						19,
+						29
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1362594235677991000,
+					"id_str": "1362594235677990915",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EujoPO6U4AMgTUF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EujoPO6U4AMgTUF.jpg",
+					"url": "https://t.co/tDjaqKJ80U",
+					"display_url": "pic.twitter.com/tDjaqKJ80U",
+					"expanded_url": "https://twitter.com/KCON_official/status/1362598531140231171/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1362594235677991000,
+					"id_str": "1362594235677990915",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EujoPO6U4AMgTUF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EujoPO6U4AMgTUF.jpg",
+					"url": "https://t.co/tDjaqKJ80U",
+					"display_url": "pic.twitter.com/tDjaqKJ80U",
+					"expanded_url": "https://twitter.com/KCON_official/status/1362598531140231171/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter\nKCON:TACT 3 - 21. 3. 20 ~ 3. 28",
+			"url": "https://t.co/csCKGKlzlp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/csCKGKlzlp",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299992,
+			"friends_count": 68,
+			"listed_count": 912,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1361480707642564611/eYJqm2l__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1361480707642564611/eYJqm2l__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1613433652",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 836,
+		"favorite_count": 1105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "The one and only 👉 @YG_iKONIC\nPresenting the stars of KCON:TACT 3's 1st line-up!\nKCON:TACT 3 첫번째 라인업의 주인공 공개!\nKCON:TACT 3 1stラインナップの主人公たちをご紹介！\n\n#iKON #아이콘 #KCON #KCONTACT3 https://t.co/tDjaqKJ80U"
+	},
+	{
+		"created_at": "Fri Feb 19 03:58:15 +0000 2021",
+		"id": 1362598279272276000,
+		"id_str": "1362612434234671105",
+		"full_text": "The one and only 👉 @HSW_officialtwt \nPresenting the star of KCON:TACT 3's 1st line-up!\nKCON:TACT 3 첫번째 라인업의 주인공 공개!\nKCON:TACT 3 1stラインナップの主人公たちをご紹介！\n\n#HASUNGWOON #하성운 #KCON #KCONTACT3 https://t.co/aWj9aeztts",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HASUNGWOON",
+					"indices": [
+						150,
+						161
+					]
+				},
+				{
+					"text": "하성운",
+					"indices": [
+						162,
+						166
+					]
+				},
+				{
+					"text": "KCON",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "KCONTACT3",
+					"indices": [
+						173,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HSW_officialtwt",
+					"name": "하성운 (HASUNGWOON) OFFICIAL",
+					"id": 1079552945157398500,
+					"id_str": "1079552945157398529",
+					"indices": [
+						19,
+						35
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1362591500584984600,
+					"id_str": "1362591500584984577",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EujlwB5VoAEEn3u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EujlwB5VoAEEn3u.jpg",
+					"url": "https://t.co/aWj9aeztts",
+					"display_url": "pic.twitter.com/aWj9aeztts",
+					"expanded_url": "https://twitter.com/KCON_official/status/1362598279272275972/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1362591500584984600,
+					"id_str": "1362591500584984577",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EujlwB5VoAEEn3u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EujlwB5VoAEEn3u.jpg",
+					"url": "https://t.co/aWj9aeztts",
+					"display_url": "pic.twitter.com/aWj9aeztts",
+					"expanded_url": "https://twitter.com/KCON_official/status/1362598279272275972/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter\nKCON:TACT 3 - 21. 3. 20 ~ 3. 28",
+			"url": "https://t.co/csCKGKlzlp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/csCKGKlzlp",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 299992,
+			"friends_count": 68,
+			"listed_count": 912,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1361480707642564611/eYJqm2l__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1361480707642564611/eYJqm2l__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1613433652",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1348,
+		"favorite_count": 2212,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "The one and only 👉 @HSW_officialtwt \nPresenting the star of KCON:TACT 3's 1st line-up!\nKCON:TACT 3 첫번째 라인업의 주인공 공개!\nKCON:TACT 3 1stラインナップの主人公たちをご紹介！\n\n#HASUNGWOON #하성운 #KCON #KCONTACT3 https://t.co/aWj9aeztts"
+	},
+	{
+		"created_at": "Fri Feb 19 03:29:43 +0000 2021",
+		"id": 1362598897227497500,
+		"id_str": "1362605255943454722",
+		"full_text": "[발매]\nLambC (램씨) - PART 2 : WHEN MY HEART BREAKS &lt;I'LL SEE YOU WHEN I SEE YOU&gt;\n지금 모든 음원사이트에서 감상하실 수 있습니다 ♪\nhttps://t.co/MFtH2WPf1W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MFtH2WPf1W",
+					"expanded_url": "https://youtu.be/3EYvkllRMG4",
+					"display_url": "youtu.be/3EYvkllRMG4",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), LambC(램씨), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13076,
+			"friends_count": 1951,
+			"listed_count": 254,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[발매]\nLambC (램씨) - PART 2 : WHEN MY HEART BREAKS &lt;I'LL SEE YOU WHEN I SEE YOU&gt;\n지금 모든 음원사이트에서 감상하실 수 있습니다 ♪\nhttps://t.co/MFtH2WPf1W"
+	},
+	{
+		"created_at": "Fri Feb 19 03:29:34 +0000 2021",
+		"id": 1362598509875093500,
+		"id_str": "1362605217733349382",
+		"full_text": "권진아 EP [우리의 방식] : Behind\nKwon Jin Ah EP [The Way For Us] \nhttps://t.co/8DAIynGKRW \n\n#권진아 #우리의방식 #잘가\n#KwonJinAh #TheWayForUs #GoodBye",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권진아",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "우리의방식",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "잘가",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						100,
+						110
+					]
+				},
+				{
+					"text": "TheWayForUs",
+					"indices": [
+						111,
+						123
+					]
+				},
+				{
+					"text": "GoodBye",
+					"indices": [
+						124,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8DAIynGKRW",
+					"expanded_url": "https://youtu.be/G_UIRGyhDMU",
+					"display_url": "youtu.be/G_UIRGyhDMU",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official / 권진아 EP ‘우리의 방식’ 2021. 02. 18. 6PM Release!",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35642,
+			"friends_count": 10,
+			"listed_count": 362,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3458,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1612939208",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "권진아 EP [우리의 방식] : Behind\nKwon Jin Ah EP [The Way For Us] \nhttps://t.co/8DAIynGKRW \n\n#권진아 #우리의방식 #잘가\n#KwonJinAh #TheWayForUs #GoodBye"
+	},
+	{
+		"created_at": "Fri Feb 19 03:29:25 +0000 2021",
+		"id": 1362598027676983300,
+		"id_str": "1362605179498029065",
+		"full_text": "#뒤공 [보내온 모든 달들 : 2월]\n\n이건\n긴 글이고,\n긴 시이며,\n보내온 모든 달들이다.\n\n보내온 모든 달들 : 2월\n\n✚ 앨범 자세히 보기: https://t.co/qyVE2waRCF https://t.co/ai0marMpvL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뒤공",
+					"indices": [
+						0,
+						3
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qyVE2waRCF",
+					"expanded_url": "https://bit.ly/3jYD3f4",
+					"display_url": "bit.ly/3jYD3f4",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1362208669916536800,
+					"id_str": "1362208669916536833",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EueJkWhVIAESVKs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EueJkWhVIAESVKs.jpg",
+					"url": "https://t.co/ai0marMpvL",
+					"display_url": "pic.twitter.com/ai0marMpvL",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1362598027676983304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1362208669916536800,
+					"id_str": "1362208669916536833",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EueJkWhVIAESVKs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EueJkWhVIAESVKs.jpg",
+					"url": "https://t.co/ai0marMpvL",
+					"display_url": "pic.twitter.com/ai0marMpvL",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1362598027676983304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9538,
+			"friends_count": 2854,
+			"listed_count": 245,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 950,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1613553522",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#뒤공 [보내온 모든 달들 : 2월]\n\n이건\n긴 글이고,\n긴 시이며,\n보내온 모든 달들이다.\n\n보내온 모든 달들 : 2월\n\n✚ 앨범 자세히 보기: https://t.co/qyVE2waRCF https://t.co/ai0marMpvL"
+	},
+	{
 		"created_at": "Fri Feb 19 03:00:33 +0000 2021",
 		"id": 1362597914112118800,
 		"id_str": "1362597914112118785",
