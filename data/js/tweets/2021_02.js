@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 19 14:11:17 +0000 2021",
+		"id": 1362765747324260400,
+		"id_str": "1362766709799665678",
+		"full_text": "🎠 https://t.co/VpL0s7kxdK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VpL0s7kxdK",
+					"expanded_url": "https://twitter.com/mixmagasia/status/1362697443003953155",
+					"display_url": "twitter.com/mixmagasia/sta…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 776033448,
+			"id_str": "776033448",
+			"name": "Cakeshop Seoul",
+			"screen_name": "CakeshopSeoul",
+			"location": "이태원동 34-16 용산구 서울",
+			"description": "",
+			"url": "https://t.co/Y6fLNJs2vN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y6fLNJs2vN",
+							"expanded_url": "http://www.cakeshopseoul.com",
+							"display_url": "cakeshopseoul.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2549,
+			"friends_count": 556,
+			"listed_count": 20,
+			"created_at": "Thu Aug 23 14:06:21 +0000 2012",
+			"favourites_count": 882,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838798045638635522/svqBMkbH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838798045638635522/svqBMkbH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/776033448/1465407468",
+			"profile_link_color": "ED3D26",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1362697443003953200,
+		"quoted_status_id_str": "1362697443003953155",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VpL0s7kxdK",
+			"expanded": "https://twitter.com/mixmagasia/status/1362697443003953155",
+			"display": "twitter.com/mixmagasia/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 19 09:36:02 +0000 2021",
+			"id": 1362697443003953200,
+			"id_str": "1362697443003953155",
+			"full_text": ". @CakeshopSeoul is minting a new label, Carousel Records 🤍\n\nhttps://t.co/s4zwwRbDNm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				84
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CakeshopSeoul",
+						"name": "Cakeshop Seoul",
+						"id": 776033448,
+						"id_str": "776033448",
+						"indices": [
+							2,
+							16
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/s4zwwRbDNm",
+						"expanded_url": "https://mixmag.asia/read/cakeshop-seoul-label-carousel-records-local",
+						"display_url": "mixmag.asia/read/cakeshop-…",
+						"indices": [
+							61,
+							84
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2493363253,
+				"id_str": "2493363253",
+				"name": "Mixmag Asia",
+				"screen_name": "MixmagAsia",
+				"location": "Asia",
+				"description": "The world's biggest dance music and clubbing destination, now in Asia.",
+				"url": "https://t.co/H7wLTA7q5s",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H7wLTA7q5s",
+								"expanded_url": "http://mixmag.asia",
+								"display_url": "mixmag.asia",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 896,
+				"friends_count": 606,
+				"listed_count": 18,
+				"created_at": "Tue May 13 18:18:13 +0000 2014",
+				"favourites_count": 159,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1749,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1253137926575153152/GyC-wSDt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253137926575153152/GyC-wSDt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2493363253/1595230117",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🎠 https://t.co/VpL0s7kxdK"
+	},
+	{
 		"created_at": "Fri Feb 19 11:29:29 +0000 2021",
 		"id": 1362719294581137400,
 		"id_str": "1362725991605493768",
