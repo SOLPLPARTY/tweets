@@ -1,6 +1,135 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sat Feb 20 06:29:27 +0000 2021",
+		"id": 1363006016200188000,
+		"id_str": "1363012873581166592",
+		"full_text": "GOT7 \"ENCORE\"\n\nhttps://t.co/SMhytglghD\n\n2021.02.20 18:00 KST\n\n#GOT7 #갓세븐 #ENCORE #IGOT7 #아가새",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GOT7",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "갓세븐",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "ENCORE",
+					"indices": [
+						73,
+						80
+					]
+				},
+				{
+					"text": "IGOT7",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "아가새",
+					"indices": [
+						88,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SMhytglghD",
+					"expanded_url": "https://www.youtube.com/watch?v=tAe0yUEzAaI",
+					"display_url": "youtube.com/watch?v=tAe0yU…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35149,
+			"friends_count": 494,
+			"listed_count": 155,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1589339161",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19973,
+		"favorite_count": 25131,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "GOT7 \"ENCORE\"\n\nhttps://t.co/SMhytglghD\n\n2021.02.20 18:00 KST\n\n#GOT7 #갓세븐 #ENCORE #IGOT7 #아가새"
+	},
+	{
 		"created_at": "Sat Feb 20 04:29:25 +0000 2021",
 		"id": 1362981940031152000,
 		"id_str": "1362982665838866432",
