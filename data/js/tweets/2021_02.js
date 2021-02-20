@@ -1,6 +1,406 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sat Feb 20 09:15:40 +0000 2021",
+		"id": 1363054705023180800,
+		"id_str": "1363054705023180800",
+		"full_text": "#SMTOWN\nSHINee 샤이니 'Don't Call Me' MV Teaser\nhttps://t.co/vSBO6tAAxc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vSBO6tAAxc",
+					"expanded_url": "https://youtu.be/GDi0uadjPCk",
+					"display_url": "youtu.be/GDi0uadjPCk",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 445,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN\nSHINee 샤이니 'Don't Call Me' MV Teaser\nhttps://t.co/vSBO6tAAxc"
+	},
+	{
+		"created_at": "Sat Feb 20 09:11:17 +0000 2021",
+		"id": 1363048878321242000,
+		"id_str": "1363053600306520066",
+		"full_text": "#우리의무대를지켜주세요 4차 라인업 \n(4th lineup for #SAVEOURSTAGES festival) \nDJ DOC\n레이지본 Lazybone\n406호 프로젝트 406 Project\n57 Oh Chill\n웨이스티드 쟈니스 Wasted Johnnys\n이정선 Lee Jung-Sun\n#DJDOC #레이지본 #406호프로젝트 #오칠 #웨이스티드쟈니스 #이정선 https://t.co/apNhzcGAYa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우리의무대를지켜주세요",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "SAVEOURSTAGES",
+					"indices": [
+						37,
+						51
+					]
+				},
+				{
+					"text": "DJDOC",
+					"indices": [
+						160,
+						166
+					]
+				},
+				{
+					"text": "레이지본",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "406호프로젝트",
+					"indices": [
+						173,
+						182
+					]
+				},
+				{
+					"text": "오칠",
+					"indices": [
+						183,
+						186
+					]
+				},
+				{
+					"text": "웨이스티드쟈니스",
+					"indices": [
+						187,
+						196
+					]
+				},
+				{
+					"text": "이정선",
+					"indices": [
+						197,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1363048829826728000,
+					"id_str": "1363048829826727936",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/EuqFsGFVgAAInv5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuqFsGFVgAAInv5.jpg",
+					"url": "https://t.co/apNhzcGAYa",
+					"display_url": "pic.twitter.com/apNhzcGAYa",
+					"expanded_url": "https://twitter.com/saveourstagesk1/status/1363048878321242113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1363048829826728000,
+					"id_str": "1363048829826727936",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/EuqFsGFVgAAInv5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuqFsGFVgAAInv5.jpg",
+					"url": "https://t.co/apNhzcGAYa",
+					"display_url": "pic.twitter.com/apNhzcGAYa",
+					"expanded_url": "https://twitter.com/saveourstagesk1/status/1363048878321242113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1363048829830848500,
+					"id_str": "1363048829830848513",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/EuqFsGGUYAEeUFA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuqFsGGUYAEeUFA.jpg",
+					"url": "https://t.co/apNhzcGAYa",
+					"display_url": "pic.twitter.com/apNhzcGAYa",
+					"expanded_url": "https://twitter.com/saveourstagesk1/status/1363048878321242113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1357882514904256500,
+			"id_str": "1357882514904256512",
+			"name": "#우리의무대를지켜주세요",
+			"screen_name": "saveourstagesk1",
+			"location": "Korea",
+			"description": "코로나 사태로 인해 사라져가는 소중한 라이브 무대를 지키기 위한 실시간 온라인 콘서트 캠페인\n#우리의무대를지켜주세요 #saveourstages\n2021.03.08 - 2021.03.14",
+			"url": "https://t.co/YGbv8rWGCc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YGbv8rWGCc",
+							"expanded_url": "http://saveourstages.cc",
+							"display_url": "saveourstages.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4,
+			"friends_count": 0,
+			"listed_count": 1,
+			"created_at": "Sat Feb 06 02:43:25 +0000 2021",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1362291493583523843/miYyK8i8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1362291493583523843/miYyK8i8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1357882514904256512/1613630578",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#우리의무대를지켜주세요 4차 라인업 \n(4th lineup for #SAVEOURSTAGES festival) \nDJ DOC\n레이지본 Lazybone\n406호 프로젝트 406 Project\n57 Oh Chill\n웨이스티드 쟈니스 Wasted Johnnys\n이정선 Lee Jung-Sun\n#DJDOC #레이지본 #406호프로젝트 #오칠 #웨이스티드쟈니스 #이정선 https://t.co/apNhzcGAYa"
+	},
+	{
 		"created_at": "Sat Feb 20 08:11:26 +0000 2021",
 		"id": 1363031890387607600,
 		"id_str": "1363038538330222593",
