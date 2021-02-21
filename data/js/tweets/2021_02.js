@@ -1,6 +1,514 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 21 09:29:37 +0000 2021",
+		"id": 1363416576301494300,
+		"id_str": "1363420603018080256",
+		"full_text": "가장 현실적인 위로가 되지 않을까요?\n\n사랑하는 사람이 지치고 힘들어 할 때는 이해가 조금 부족하더라고 이따금 그 사람의 말과 행동을 그냥 막연히 지지해주고 이해해주세요. 잠들기 전 사랑한다는 한마디가 가장 큰 힘이 될 수도 있습니다\"\n\n#유정목 #현실의위로 #춘분 #새앨범 #春分 #2월25일",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유정목",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "현실의위로",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "춘분",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "새앨범",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "春分",
+					"indices": [
+						154,
+						157
+					]
+				},
+				{
+					"text": "2월25일",
+					"indices": [
+						158,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1363416573218726000,
+		"in_reply_to_status_id_str": "1363416573218725889",
+		"in_reply_to_user_id": 52109991,
+		"in_reply_to_user_id_str": "52109991",
+		"in_reply_to_screen_name": "orm_ent",
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 721,
+			"friends_count": 323,
+			"listed_count": 1,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 721,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2896,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1611200656",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "가장 현실적인 위로가 되지 않을까요?\n\n사랑하는 사람이 지치고 힘들어 할 때는 이해가 조금 부족하더라고 이따금 그 사람의 말과 행동을 그냥 막연히 지지해주고 이해해주세요. 잠들기 전 사랑한다는 한마디가 가장 큰 힘이 될 수도 있습니다\"\n\n#유정목 #현실의위로 #춘분 #새앨범 #春分 #2월25일"
+	},
+	{
+		"created_at": "Sun Feb 21 09:29:30 +0000 2021",
+		"id": 1363416573218726000,
+		"id_str": "1363420573137854465",
+		"full_text": "D-4\n유정목\n[춘분 #1 현실의 위로]\n2021년 2월 25일 발매!\n싱글 커버를 공개합니다\n-\n\"우리는 이미 답을 알고 또는 정한 상태로 내가 받을 위로를 찾고 있는 것 아닐까하는 마음에서 시작된 곡입니다. 정말 지치고 힘든 순간에는 주위의 그 어떤 말보다 어쩌면 자기 자신에게 하는 말과 행동이 https://t.co/wjCOkwj8QU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1363416562183540700,
+					"id_str": "1363416562183540736",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EuvUI73VkAAHyBm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuvUI73VkAAHyBm.jpg",
+					"url": "https://t.co/wjCOkwj8QU",
+					"display_url": "pic.twitter.com/wjCOkwj8QU",
+					"expanded_url": "https://twitter.com/orm_ent/status/1363416573218725889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1363416562183540700,
+					"id_str": "1363416562183540736",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EuvUI73VkAAHyBm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuvUI73VkAAHyBm.jpg",
+					"url": "https://t.co/wjCOkwj8QU",
+					"display_url": "pic.twitter.com/wjCOkwj8QU",
+					"expanded_url": "https://twitter.com/orm_ent/status/1363416573218725889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 721,
+			"friends_count": 323,
+			"listed_count": 1,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 721,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2896,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1611200656",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "D-4\n유정목\n[춘분 #1 현실의 위로]\n2021년 2월 25일 발매!\n싱글 커버를 공개합니다\n-\n\"우리는 이미 답을 알고 또는 정한 상태로 내가 받을 위로를 찾고 있는 것 아닐까하는 마음에서 시작된 곡입니다. 정말 지치고 힘든 순간에는 주위의 그 어떤 말보다 어쩌면 자기 자신에게 하는 말과 행동이 https://t.co/wjCOkwj8QU"
+	},
+	{
+		"created_at": "Sun Feb 21 09:29:28 +0000 2021",
+		"id": 1363415424675713000,
+		"id_str": "1363420564287799299",
+		"full_text": "[#헤르쯔아날로그] 신곡 발매 예고💙\n\nHerz Catalog - 서로의 이유\n2021.02.25. 정오 발매🪞\n\n#헤르쯔카탈로그 #서로의이유 https://t.co/KSycdB4Aw5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "헤르쯔아날로그",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "헤르쯔카탈로그",
+					"indices": [
+						64,
+						72
+					]
+				},
+				{
+					"text": "서로의이유",
+					"indices": [
+						73,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1363415418417729500,
+					"id_str": "1363415418417729541",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EuvTGXAUUAUP5YN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuvTGXAUUAUP5YN.jpg",
+					"url": "https://t.co/KSycdB4Aw5",
+					"display_url": "pic.twitter.com/KSycdB4Aw5",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1363415424675713028/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1363415418417729500,
+					"id_str": "1363415418417729541",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EuvTGXAUUAUP5YN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuvTGXAUUAUP5YN.jpg",
+					"url": "https://t.co/KSycdB4Aw5",
+					"display_url": "pic.twitter.com/KSycdB4Aw5",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1363415424675713028/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 924920565906915300,
+			"id_str": "924920565906915328",
+			"name": "인터파크 엔터테인먼트",
+			"screen_name": "interpark_enter",
+			"location": "대한민국 서울",
+			"description": "인터파크 엔터테인먼트 공식 트위터입니다. 자우림 / 국카스텐 / 김윤아 / 에피톤 프로젝트 / 안녕하신가영 / O.O.O / 헤르쯔 아날로그/ 조민규 / 별은  일반 문의: e-info@interparkenter.com 섭외 및 프로모션: e-mgmt@interparkenter.com",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1739,
+			"friends_count": 12,
+			"listed_count": 6,
+			"created_at": "Mon Oct 30 08:47:01 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924920565906915328/1509583868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#헤르쯔아날로그] 신곡 발매 예고💙\n\nHerz Catalog - 서로의 이유\n2021.02.25. 정오 발매🪞\n\n#헤르쯔카탈로그 #서로의이유 https://t.co/KSycdB4Aw5"
+	},
+	{
 		"created_at": "Sun Feb 21 09:14:15 +0000 2021",
 		"id": 1363416735911710700,
 		"id_str": "1363416735911710721",
