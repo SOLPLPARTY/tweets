@@ -1,6 +1,937 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 22 10:29:57 +0000 2021",
+		"id": 1363796913825280000,
+		"id_str": "1363798172879962116",
+		"full_text": "마몽드 계정에서 콜라보 제품을 확인하세요! https://t.co/8AEEYHLpxy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8AEEYHLpxy",
+					"expanded_url": "https://twitter.com/mamondeofficial/status/1363787719231479808",
+					"display_url": "twitter.com/mamondeofficia…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter run by Blue Vinyl contact@bluevinyl.kr",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24730,
+			"friends_count": 0,
+			"listed_count": 157,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1336970677748842497/UmAJjdzR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336970677748842497/UmAJjdzR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1606885286",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1363787719231479800,
+		"quoted_status_id_str": "1363787719231479808",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8AEEYHLpxy",
+			"expanded": "https://twitter.com/mamondeofficial/status/1363787719231479808",
+			"display": "twitter.com/mamondeofficia…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 22 09:48:24 +0000 2021",
+			"id": 1363787719231479800,
+			"id_str": "1363787719231479808",
+			"full_text": "이왜진...? \n마몽드 공식 계정 등장! \n\n앞으로 예린님 콜라보 소식과 사진이 \n마구 올라갈 예정이니 많은 관심 부탁드립니다♡ \n\n마몽드는 RT를 많이 탈 수록\n더 많은 고화질을 뱉을 거라구요 ͡° ͜ʖ ͡° \n&gt;&gt;\n마몽드 x 백예린 콜라보 첫 제품 공개 \nhttps://t.co/oPLYToE1QC\n\n#마몽드 #백예린 #yerinbaek https://t.co/ijm0PsUTSG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				196
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "마몽드",
+						"indices": [
+							176,
+							180
+						]
+					},
+					{
+						"text": "백예린",
+						"indices": [
+							181,
+							185
+						]
+					},
+					{
+						"text": "yerinbaek",
+						"indices": [
+							186,
+							196
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/oPLYToE1QC",
+						"expanded_url": "https://bit.ly/3aERm5y",
+						"display_url": "bit.ly/3aERm5y",
+						"indices": [
+							151,
+							174
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1363786900415242200,
+						"id_str": "1363786900415242242",
+						"indices": [
+							197,
+							220
+						],
+						"media_url": "http://pbs.twimg.com/media/Eu0k9dSU4AIkJTL.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eu0k9dSU4AIkJTL.png",
+						"url": "https://t.co/ijm0PsUTSG",
+						"display_url": "pic.twitter.com/ijm0PsUTSG",
+						"expanded_url": "https://twitter.com/mamondeofficial/status/1363787719231479808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 593,
+								"h": 891,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 593,
+								"h": 891,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1363786900415242200,
+						"id_str": "1363786900415242242",
+						"indices": [
+							197,
+							220
+						],
+						"media_url": "http://pbs.twimg.com/media/Eu0k9dSU4AIkJTL.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eu0k9dSU4AIkJTL.png",
+						"url": "https://t.co/ijm0PsUTSG",
+						"display_url": "pic.twitter.com/ijm0PsUTSG",
+						"expanded_url": "https://twitter.com/mamondeofficial/status/1363787719231479808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 593,
+								"h": 891,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 593,
+								"h": 891,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1363786900427837400,
+						"id_str": "1363786900427837442",
+						"indices": [
+							197,
+							220
+						],
+						"media_url": "http://pbs.twimg.com/media/Eu0k9dVVEAILgT7.png",
+						"media_url_https": "https://pbs.twimg.com/media/Eu0k9dVVEAILgT7.png",
+						"url": "https://t.co/ijm0PsUTSG",
+						"display_url": "pic.twitter.com/ijm0PsUTSG",
+						"expanded_url": "https://twitter.com/mamondeofficial/status/1363787719231479808/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 590,
+								"h": 893,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 449,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 590,
+								"h": 893,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1361917264409202700,
+				"id_str": "1361917264409202688",
+				"name": "마몽드",
+				"screen_name": "mamondeofficial",
+				"location": "",
+				"description": "Blossoming Beauty from Flowers\n꽃의 눈부신 생명력으로 피부에 행복을 전해요🌷✨\n.\n마몽드x백예린 콜라보 https://t.co/GnpfEA8ink",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/GnpfEA8ink",
+								"expanded_url": "https://bit.ly/3aERm5y",
+								"display_url": "bit.ly/3aERm5y",
+								"indices": [
+									72,
+									95
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 62,
+				"friends_count": 0,
+				"listed_count": 0,
+				"created_at": "Wed Feb 17 05:56:39 +0000 2021",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1361917567426699267/3oPMBWQw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1361917567426699267/3oPMBWQw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1361917264409202688/1613972534",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 521,
+			"favorite_count": 506,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 309,
+		"favorite_count": 618,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마몽드 계정에서 콜라보 제품을 확인하세요! https://t.co/8AEEYHLpxy"
+	},
+	{
+		"created_at": "Mon Feb 22 10:29:53 +0000 2021",
+		"id": 1363793409895358500,
+		"id_str": "1363798155628838912",
+		"full_text": "D-3\n유정목\n[춘분 #1 현실의 위로]\n2021년 2월 25일 발매!\n올 한해 함께 할 앨범 &lt;춘분&gt;의 로고와 이미지를 공개 합니다\n-\n\"힘들었던 과거를 위로함과 동시에 같이 아파하며 기다렸고, 함께 해주실 주위의 인연들에 대한 사랑과 감사의 메시지를 담고 있습니다\"\n\n#유정목 #현실의위로 #춘분 #새앨범 https://t.co/Ur7Kipp6Ge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유정목",
+					"indices": [
+						158,
+						162
+					]
+				},
+				{
+					"text": "현실의위로",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "춘분",
+					"indices": [
+						170,
+						173
+					]
+				},
+				{
+					"text": "새앨범",
+					"indices": [
+						174,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1363793394808418300,
+					"id_str": "1363793394808418305",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu0q3eyUcAEPqBU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu0q3eyUcAEPqBU.jpg",
+					"url": "https://t.co/Ur7Kipp6Ge",
+					"display_url": "pic.twitter.com/Ur7Kipp6Ge",
+					"expanded_url": "https://twitter.com/orm_ent/status/1363793409895358465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1363793394808418300,
+					"id_str": "1363793394808418305",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu0q3eyUcAEPqBU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu0q3eyUcAEPqBU.jpg",
+					"url": "https://t.co/Ur7Kipp6Ge",
+					"display_url": "pic.twitter.com/Ur7Kipp6Ge",
+					"expanded_url": "https://twitter.com/orm_ent/status/1363793409895358465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1363793394800095200,
+					"id_str": "1363793394800095232",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu0q3ewVcAAvODI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu0q3ewVcAAvODI.jpg",
+					"url": "https://t.co/Ur7Kipp6Ge",
+					"display_url": "pic.twitter.com/Ur7Kipp6Ge",
+					"expanded_url": "https://twitter.com/orm_ent/status/1363793409895358465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1363793398067466200,
+					"id_str": "1363793398067466242",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu0q3q7VkAIL_EP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu0q3q7VkAIL_EP.jpg",
+					"url": "https://t.co/Ur7Kipp6Ge",
+					"display_url": "pic.twitter.com/Ur7Kipp6Ge",
+					"expanded_url": "https://twitter.com/orm_ent/status/1363793409895358465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1363793399246069800,
+					"id_str": "1363793399246069762",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu0q3vUVoAIuHN6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu0q3vUVoAIuHN6.jpg",
+					"url": "https://t.co/Ur7Kipp6Ge",
+					"display_url": "pic.twitter.com/Ur7Kipp6Ge",
+					"expanded_url": "https://twitter.com/orm_ent/status/1363793409895358465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 721,
+			"friends_count": 323,
+			"listed_count": 12,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 721,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1611200656",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "D-3\n유정목\n[춘분 #1 현실의 위로]\n2021년 2월 25일 발매!\n올 한해 함께 할 앨범 &lt;춘분&gt;의 로고와 이미지를 공개 합니다\n-\n\"힘들었던 과거를 위로함과 동시에 같이 아파하며 기다렸고, 함께 해주실 주위의 인연들에 대한 사랑과 감사의 메시지를 담고 있습니다\"\n\n#유정목 #현실의위로 #춘분 #새앨범 https://t.co/Ur7Kipp6Ge"
+	},
+	{
+		"created_at": "Mon Feb 22 10:29:49 +0000 2021",
+		"id": 1363792906138493000,
+		"id_str": "1363798142475513863",
+		"full_text": "[D-1] Danggisio New Single\n'Up To The Light'\nComing Soon!\n\n2021.02.23 pm12:00(KST)\n\nRe-Upload\n\n#danggisio​ #krock​ #kindie​ #kpop​ #당기시오​ #heavymetal​ #헤비메탈​ #포스트그런지​ #postgrunge https://t.co/4rwnSRVaoN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "danggisio",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"text": "krock",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "kindie",
+					"indices": [
+						115,
+						122
+					]
+				},
+				{
+					"text": "kpop",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "당기시오",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "heavymetal",
+					"indices": [
+						138,
+						149
+					]
+				},
+				{
+					"text": "헤비메탈",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "포스트그런지",
+					"indices": [
+						158,
+						165
+					]
+				},
+				{
+					"text": "postgrunge",
+					"indices": [
+						167,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1363792698101035000,
+					"id_str": "1363792698101035012",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1363792698101035012/pu/img/_CjdjcFdqXlrWtC9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1363792698101035012/pu/img/_CjdjcFdqXlrWtC9.jpg",
+					"url": "https://t.co/4rwnSRVaoN",
+					"display_url": "pic.twitter.com/4rwnSRVaoN",
+					"expanded_url": "https://twitter.com/sugar_records/status/1363792906138492928/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1363792698101035000,
+					"id_str": "1363792698101035012",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1363792698101035012/pu/img/_CjdjcFdqXlrWtC9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1363792698101035012/pu/img/_CjdjcFdqXlrWtC9.jpg",
+					"url": "https://t.co/4rwnSRVaoN",
+					"display_url": "pic.twitter.com/4rwnSRVaoN",
+					"expanded_url": "https://twitter.com/sugar_records/status/1363792906138492928/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 32167,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1363792698101035012/pu/vid/480x270/z8Djf3F81Q47aZ3-.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1363792698101035012/pu/vid/1280x720/KEflpXdSTRNEkruZ.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1363792698101035012/pu/vid/640x360/zEUdNLkZSQ-_iuEf.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1363792698101035012/pu/pl/E71xjTAUnPOnR-qd.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94343878,
+			"id_str": "94343878",
+			"name": "슈가레코드",
+			"screen_name": "sugar_records",
+			"location": "Seoul, KR",
+			"description": "#달에닿아 #뷰티핸섬 #리썬 #모브닝 #엔분의일 #당기시오 #우리같은사람들 슈가레코드",
+			"url": "https://t.co/MaZwhWbQNT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MaZwhWbQNT",
+							"expanded_url": "http://sugar-records.com",
+							"display_url": "sugar-records.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 553,
+			"friends_count": 37,
+			"listed_count": 9,
+			"created_at": "Thu Dec 03 14:51:49 +0000 2009",
+			"favourites_count": 398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94343878/1548148600",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[D-1] Danggisio New Single\n'Up To The Light'\nComing Soon!\n\n2021.02.23 pm12:00(KST)\n\nRe-Upload\n\n#danggisio​ #krock​ #kindie​ #kpop​ #당기시오​ #heavymetal​ #헤비메탈​ #포스트그런지​ #postgrunge https://t.co/4rwnSRVaoN"
+	},
+	{
 		"created_at": "Mon Feb 22 10:04:43 +0000 2021",
 		"id": 1363791825983529000,
 		"id_str": "1363791825983528963",
@@ -413,7 +1344,7 @@ Grailbird.data.tweets_2021_02 =
 		"created_at": "Mon Feb 22 09:58:19 +0000 2021",
 		"id": 1363775538410623000,
 		"id_str": "1363790211998744578",
-		"full_text": "[FAN:DRIVE_KCON:TACT 3 1st LINEUP HIGHLIGHT] No thoughts, head empty, just nonstop dadada🐬 \n제목 수정해야 되는 거 아닌가요? '많이 설렜어'랑 'Doll-phin'으로🤦‍♀️💞\nOHMYGIRL！キュンときた、大好き❤️\n▶ more on tiktok https://t.co/RvoRLRoPXe\n#OHMYGIRL #오마이걸 #kcon #kcontact3 #kpop https://t.co/c7YvvOcQS1",
+		"full_text": "[FAN:DRIVE_KCON:TACT 3 1st LINEUP HIGHLIGHT] No thoughts, head empty, just nonstop dadada🐬 \n제목 수정해야 되는 거 아닌가요? '많이 설렜어'랑 'Doll-phin'으로🤦♀️💞\nOHMYGIRL！キュンときた、大好き❤️\n▶ more on tiktok https://t.co/RvoRLRoPXe\n#OHMYGIRL #오마이걸 #kcon #kcontact3 #kpop https://t.co/c7YvvOcQS1",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -658,7 +1589,7 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ja",
-		"text": "[FAN:DRIVE_KCON:TACT 3 1st LINEUP HIGHLIGHT] No thoughts, head empty, just nonstop dadada🐬 \n제목 수정해야 되는 거 아닌가요? '많이 설렜어'랑 'Doll-phin'으로🤦‍♀️💞\nOHMYGIRL！キュンときた、大好き❤️\n▶ more on tiktok https://t.co/RvoRLRoPXe\n#OHMYGIRL #오마이걸 #kcon #kcontact3 #kpop https://t.co/c7YvvOcQS1"
+		"text": "[FAN:DRIVE_KCON:TACT 3 1st LINEUP HIGHLIGHT] No thoughts, head empty, just nonstop dadada🐬 \n제목 수정해야 되는 거 아닌가요? '많이 설렜어'랑 'Doll-phin'으로🤦♀️💞\nOHMYGIRL！キュンときた、大好き❤️\n▶ more on tiktok https://t.co/RvoRLRoPXe\n#OHMYGIRL #오마이걸 #kcon #kcontact3 #kpop https://t.co/c7YvvOcQS1"
 	},
 	{
 		"created_at": "Mon Feb 22 09:58:15 +0000 2021",
