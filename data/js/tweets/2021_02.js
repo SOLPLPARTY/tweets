@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 22 13:29:25 +0000 2021",
+		"id": 1363836042592153600,
+		"id_str": "1363843336906436610",
+		"full_text": "📸 #SHINee The 7th Album [Don’t Call Me]\nPress Conference with MC #U_KNOW🎤\n\n'Don’t Call Me' ☎️❌ OUT NOW\n🎬https://t.co/FHirRzVsXU\n🎧https://t.co/rNPgV7r02h\n\n#샤이니 @SHINee\n#Dont_Call_Me\n#유노윤호\n#동방신기 #TVXQ ! #東方神起 @TVXQ https://t.co/QlmRmWxq9W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SHINee",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "U_KNOW",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						154,
+						158
+					]
+				},
+				{
+					"text": "Dont_Call_Me",
+					"indices": [
+						167,
+						180
+					]
+				},
+				{
+					"text": "유노윤호",
+					"indices": [
+						181,
+						186
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						187,
+						192
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						193,
+						198
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						201,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SHINee",
+					"name": "SHINee",
+					"id": 887973863824306200,
+					"id_str": "887973863824306176",
+					"indices": [
+						159,
+						166
+					]
+				},
+				{
+					"screen_name": "TVXQ",
+					"name": "TVXQ!",
+					"id": 893325893988302800,
+					"id_str": "893325893988302849",
+					"indices": [
+						207,
+						212
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FHirRzVsXU",
+					"expanded_url": "https://youtu.be/p6OoY6xneI0",
+					"display_url": "youtu.be/p6OoY6xneI0",
+					"indices": [
+						104,
+						127
+					]
+				},
+				{
+					"url": "https://t.co/rNPgV7r02h",
+					"expanded_url": "http://smarturl.it/DontCallMe_SHINee",
+					"display_url": "smarturl.it/DontCallMe_SHI…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1363813237800669200,
+					"id_str": "1363813237800669186",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu086fsVkAIq28b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu086fsVkAIq28b.jpg",
+					"url": "https://t.co/QlmRmWxq9W",
+					"display_url": "pic.twitter.com/QlmRmWxq9W",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1363836042592153605/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1363813237800669200,
+					"id_str": "1363813237800669186",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu086fsVkAIq28b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu086fsVkAIq28b.jpg",
+					"url": "https://t.co/QlmRmWxq9W",
+					"display_url": "pic.twitter.com/QlmRmWxq9W",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1363836042592153605/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1363813237800665000,
+					"id_str": "1363813237800665095",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu086fsVgAcB0Ur.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu086fsVgAcB0Ur.jpg",
+					"url": "https://t.co/QlmRmWxq9W",
+					"display_url": "pic.twitter.com/QlmRmWxq9W",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1363836042592153605/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1363813237800665000,
+					"id_str": "1363813237800665088",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu086fsVgAAJhrp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu086fsVgAAJhrp.jpg",
+					"url": "https://t.co/QlmRmWxq9W",
+					"display_url": "pic.twitter.com/QlmRmWxq9W",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1363836042592153605/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9155021,
+			"friends_count": 55,
+			"listed_count": 9081,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2004,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7858,
+		"favorite_count": 19583,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📸 #SHINee The 7th Album [Don’t Call Me]\nPress Conference with MC #U_KNOW🎤\n\n'Don’t Call Me' ☎️❌ OUT NOW\n🎬https://t.co/FHirRzVsXU\n🎧https://t.co/rNPgV7r02h\n\n#샤이니 @SHINee\n#Dont_Call_Me\n#유노윤호\n#동방신기 #TVXQ ! #東方神起 @TVXQ https://t.co/QlmRmWxq9W"
+	},
+	{
 		"created_at": "Mon Feb 22 10:29:57 +0000 2021",
 		"id": 1363796913825280000,
 		"id_str": "1363798172879962116",
@@ -666,7 +1009,7 @@ Grailbird.data.tweets_2021_02 =
 		"created_at": "Mon Feb 22 10:29:49 +0000 2021",
 		"id": 1363792906138493000,
 		"id_str": "1363798142475513863",
-		"full_text": "[D-1] Danggisio New Single\n'Up To The Light'\nComing Soon!\n\n2021.02.23 pm12:00(KST)\n\nRe-Upload\n\n#danggisio​ #krock​ #kindie​ #kpop​ #당기시오​ #heavymetal​ #헤비메탈​ #포스트그런지​ #postgrunge https://t.co/4rwnSRVaoN",
+		"full_text": "[D-1] Danggisio New Single\n'Up To The Light'\nComing Soon!\n\n2021.02.23 pm12:00(KST)\n\nRe-Upload\n\n#danggisio #krock #kindie #kpop #당기시오 #heavymetal #헤비메탈 #포스트그런지 #postgrunge https://t.co/4rwnSRVaoN",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -929,7 +1272,7 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "[D-1] Danggisio New Single\n'Up To The Light'\nComing Soon!\n\n2021.02.23 pm12:00(KST)\n\nRe-Upload\n\n#danggisio​ #krock​ #kindie​ #kpop​ #당기시오​ #heavymetal​ #헤비메탈​ #포스트그런지​ #postgrunge https://t.co/4rwnSRVaoN"
+		"text": "[D-1] Danggisio New Single\n'Up To The Light'\nComing Soon!\n\n2021.02.23 pm12:00(KST)\n\nRe-Upload\n\n#danggisio #krock #kindie #kpop #당기시오 #heavymetal #헤비메탈 #포스트그런지 #postgrunge https://t.co/4rwnSRVaoN"
 	},
 	{
 		"created_at": "Mon Feb 22 10:04:43 +0000 2021",
