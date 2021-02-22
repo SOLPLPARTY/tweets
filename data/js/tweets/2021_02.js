@@ -1,6 +1,1144 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 22 10:04:43 +0000 2021",
+		"id": 1363791825983529000,
+		"id_str": "1363791825983528963",
+		"full_text": "#딩고뮤직 #dingo_music\n[딩고 하드털이] 알고보니 사랑과 전쟁?! 여주 빼고 해피엔딩 각 보고 있는 남주들?!ㅋㅋㅋㅣ[썸타는 편의점] 촬영 비하인드ㅣDingo Music\nhttps://t.co/E67vg7bbSy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E67vg7bbSy",
+					"expanded_url": "https://youtu.be/GYWMK_PYlbA",
+					"display_url": "youtu.be/GYWMK_PYlbA",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 446,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n[딩고 하드털이] 알고보니 사랑과 전쟁?! 여주 빼고 해피엔딩 각 보고 있는 남주들?!ㅋㅋㅋㅣ[썸타는 편의점] 촬영 비하인드ㅣDingo Music\nhttps://t.co/E67vg7bbSy"
+	},
+	{
+		"created_at": "Mon Feb 22 09:58:25 +0000 2021",
+		"id": 1363775542504419300,
+		"id_str": "1363790237617565696",
+		"full_text": "[FAN:DRIVE] THAT BALL SPORT YOU INSIST YOU'RE GOOD AT! 🤪🏀 \n똑똑똑 누구니? 보민이에요! \n너구나. 뽀맹이는 두드릴 필요 없단다 .. 💕\nボミンくん見れたから今日の一日も頑張れる！😻\n▶ more on tiktok https://t.co/RvoRLR7f5G\n#GOLDENCHILD #보민 #BOMIN #kcon #kcontact3 #kpop\n@GoldenChild https://t.co/UjbhUVBdXx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GOLDENCHILD",
+					"indices": [
+						166,
+						178
+					]
+				},
+				{
+					"text": "보민",
+					"indices": [
+						179,
+						182
+					]
+				},
+				{
+					"text": "BOMIN",
+					"indices": [
+						183,
+						189
+					]
+				},
+				{
+					"text": "kcon",
+					"indices": [
+						190,
+						195
+					]
+				},
+				{
+					"text": "kcontact3",
+					"indices": [
+						196,
+						206
+					]
+				},
+				{
+					"text": "kpop",
+					"indices": [
+						207,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoldenChild",
+					"name": "GoldenChild (골든차일드)",
+					"id": 845170774939906000,
+					"id_str": "845170774939906049",
+					"indices": [
+						213,
+						225
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RvoRLR7f5G",
+					"expanded_url": "https://tiktok.com/@kcon.official",
+					"display_url": "tiktok.com/@kcon.official",
+					"indices": [
+						142,
+						165
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1363768344151683000,
+					"id_str": "1363768344151683075",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1363768344151683075/pu/img/32TGRQN09tYy9mRn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1363768344151683075/pu/img/32TGRQN09tYy9mRn.jpg",
+					"url": "https://t.co/UjbhUVBdXx",
+					"display_url": "pic.twitter.com/UjbhUVBdXx",
+					"expanded_url": "https://twitter.com/KCON_official/status/1363775542504419328/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1363768344151683000,
+					"id_str": "1363768344151683075",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1363768344151683075/pu/img/32TGRQN09tYy9mRn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1363768344151683075/pu/img/32TGRQN09tYy9mRn.jpg",
+					"url": "https://t.co/UjbhUVBdXx",
+					"display_url": "pic.twitter.com/UjbhUVBdXx",
+					"expanded_url": "https://twitter.com/KCON_official/status/1363775542504419328/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 40140,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1363768344151683075/pu/vid/720x1280/TUyOe_USXiPtSQtQ.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1363768344151683075/pu/pl/Rah0YrQy44e3j9Ps.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1363768344151683075/pu/vid/360x640/oYFv-cm_ScOMipXO.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1363768344151683075/pu/vid/320x568/mxLmed7oKtA3ZvNI.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter\nKCON:TACT 3 - 21. 3. 20 ~ 3. 28",
+			"url": "https://t.co/csCKGKlzlp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/csCKGKlzlp",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301118,
+			"friends_count": 68,
+			"listed_count": 907,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1361480707642564611/eYJqm2l__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1361480707642564611/eYJqm2l__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1613433652",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 232,
+		"favorite_count": 433,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[FAN:DRIVE] THAT BALL SPORT YOU INSIST YOU'RE GOOD AT! 🤪🏀 \n똑똑똑 누구니? 보민이에요! \n너구나. 뽀맹이는 두드릴 필요 없단다 .. 💕\nボミンくん見れたから今日の一日も頑張れる！😻\n▶ more on tiktok https://t.co/RvoRLR7f5G\n#GOLDENCHILD #보민 #BOMIN #kcon #kcontact3 #kpop\n@GoldenChild https://t.co/UjbhUVBdXx"
+	},
+	{
+		"created_at": "Mon Feb 22 09:58:19 +0000 2021",
+		"id": 1363775538410623000,
+		"id_str": "1363790211998744578",
+		"full_text": "[FAN:DRIVE_KCON:TACT 3 1st LINEUP HIGHLIGHT] No thoughts, head empty, just nonstop dadada🐬 \n제목 수정해야 되는 거 아닌가요? '많이 설렜어'랑 'Doll-phin'으로🤦‍♀️💞\nOHMYGIRL！キュンときた、大好き❤️\n▶ more on tiktok https://t.co/RvoRLRoPXe\n#OHMYGIRL #오마이걸 #kcon #kcontact3 #kpop https://t.co/c7YvvOcQS1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						203,
+						212
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						213,
+						218
+					]
+				},
+				{
+					"text": "kcon",
+					"indices": [
+						219,
+						224
+					]
+				},
+				{
+					"text": "kcontact3",
+					"indices": [
+						225,
+						235
+					]
+				},
+				{
+					"text": "kpop",
+					"indices": [
+						236,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RvoRLRoPXe",
+					"expanded_url": "https://tiktok.com/@kcon.official",
+					"display_url": "tiktok.com/@kcon.official",
+					"indices": [
+						179,
+						202
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1363770389533393000,
+					"id_str": "1363770389533392898",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1363770389533392898/pu/img/OAe9z_KTDhbd0kzx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1363770389533392898/pu/img/OAe9z_KTDhbd0kzx.jpg",
+					"url": "https://t.co/c7YvvOcQS1",
+					"display_url": "pic.twitter.com/c7YvvOcQS1",
+					"expanded_url": "https://twitter.com/KCON_official/status/1363775538410622979/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1363770389533393000,
+					"id_str": "1363770389533392898",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1363770389533392898/pu/img/OAe9z_KTDhbd0kzx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1363770389533392898/pu/img/OAe9z_KTDhbd0kzx.jpg",
+					"url": "https://t.co/c7YvvOcQS1",
+					"display_url": "pic.twitter.com/c7YvvOcQS1",
+					"expanded_url": "https://twitter.com/KCON_official/status/1363775538410622979/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 50784,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1363770389533392898/pu/vid/360x640/VdAVEZsXIafQh-rD.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1363770389533392898/pu/vid/320x568/YNOwUmjCj2d8xT1I.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1363770389533392898/pu/pl/k5QYsNXBO8ypGSxZ.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1363770389533392898/pu/vid/720x1280/pKe8ffc4wt6YgM_8.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter\nKCON:TACT 3 - 21. 3. 20 ~ 3. 28",
+			"url": "https://t.co/csCKGKlzlp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/csCKGKlzlp",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301118,
+			"friends_count": 68,
+			"listed_count": 907,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1361480707642564611/eYJqm2l__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1361480707642564611/eYJqm2l__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1613433652",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[FAN:DRIVE_KCON:TACT 3 1st LINEUP HIGHLIGHT] No thoughts, head empty, just nonstop dadada🐬 \n제목 수정해야 되는 거 아닌가요? '많이 설렜어'랑 'Doll-phin'으로🤦‍♀️💞\nOHMYGIRL！キュンときた、大好き❤️\n▶ more on tiktok https://t.co/RvoRLRoPXe\n#OHMYGIRL #오마이걸 #kcon #kcontact3 #kpop https://t.co/c7YvvOcQS1"
+	},
+	{
+		"created_at": "Mon Feb 22 09:58:15 +0000 2021",
+		"id": 1363775537747927000,
+		"id_str": "1363790194646933504",
+		"full_text": "[FAN:DRIVE_KCON:TACT 3 1st LINEUP HIGHLIGHT] His orange hair and his RANGE 🧡 \n구름님 종교 있어요? 뭐 믿고 그렇게 잘생겼어요? 🤔☁💕\n🔥舞台職人と呼ばれる男🔥\n▶ more on tiktok https://t.co/RvoRLRoPXe\n#HASUNGWOON #하성운 #kcon #kcontact3 #kpop\n@HSW_officialtwt https://t.co/tLXp7jC4LL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HASUNGWOON",
+					"indices": [
+						164,
+						175
+					]
+				},
+				{
+					"text": "하성운",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "kcon",
+					"indices": [
+						181,
+						186
+					]
+				},
+				{
+					"text": "kcontact3",
+					"indices": [
+						187,
+						197
+					]
+				},
+				{
+					"text": "kpop",
+					"indices": [
+						198,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HSW_officialtwt",
+					"name": "하성운 (HASUNGWOON) OFFICIAL",
+					"id": 1079552945157398500,
+					"id_str": "1079552945157398529",
+					"indices": [
+						204,
+						220
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RvoRLRoPXe",
+					"expanded_url": "https://tiktok.com/@kcon.official",
+					"display_url": "tiktok.com/@kcon.official",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1363769353724780500,
+					"id_str": "1363769353724780545",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1363769353724780545/pu/img/sXYBgJDWDl5frv-x.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1363769353724780545/pu/img/sXYBgJDWDl5frv-x.jpg",
+					"url": "https://t.co/tLXp7jC4LL",
+					"display_url": "pic.twitter.com/tLXp7jC4LL",
+					"expanded_url": "https://twitter.com/KCON_official/status/1363775537747927041/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1363769353724780500,
+					"id_str": "1363769353724780545",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1363769353724780545/pu/img/sXYBgJDWDl5frv-x.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1363769353724780545/pu/img/sXYBgJDWDl5frv-x.jpg",
+					"url": "https://t.co/tLXp7jC4LL",
+					"display_url": "pic.twitter.com/tLXp7jC4LL",
+					"expanded_url": "https://twitter.com/KCON_official/status/1363775537747927041/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 42609,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1363769353724780545/pu/pl/oKW_9IBV0GY2ZhZJ.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1363769353724780545/pu/vid/360x640/wkThUTp2T3360LWU.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1363769353724780545/pu/vid/320x568/F_xr3tLuL7drbYzC.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1363769353724780545/pu/vid/720x1280/cvx2ZhaHVt8dhrkx.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter\nKCON:TACT 3 - 21. 3. 20 ~ 3. 28",
+			"url": "https://t.co/csCKGKlzlp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/csCKGKlzlp",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 301118,
+			"friends_count": 68,
+			"listed_count": 907,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1361480707642564611/eYJqm2l__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1361480707642564611/eYJqm2l__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1613433652",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1155,
+		"favorite_count": 1845,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[FAN:DRIVE_KCON:TACT 3 1st LINEUP HIGHLIGHT] His orange hair and his RANGE 🧡 \n구름님 종교 있어요? 뭐 믿고 그렇게 잘생겼어요? 🤔☁💕\n🔥舞台職人と呼ばれる男🔥\n▶ more on tiktok https://t.co/RvoRLRoPXe\n#HASUNGWOON #하성운 #kcon #kcontact3 #kpop\n@HSW_officialtwt https://t.co/tLXp7jC4LL"
+	},
+	{
+		"created_at": "Mon Feb 22 09:29:32 +0000 2021",
+		"id": 1363777619892707300,
+		"id_str": "1363782969090007040",
+		"full_text": "뮤직팜의 새로운 아티스트,\n이른(E:Rn)을 공개합니다!\n\n이른(E:Rn) Debut Single Release\n𝟮𝟬𝟮𝟭. 𝟬𝟮. 𝟮𝟴. 𝗦𝗨𝗡. 𝟲𝗣𝗠 (𝗞𝗦𝗧)\n\nhttps://t.co/iWEVr1GFfO\n\n#이른 #ERN #20210228_6PM https://t.co/SelkpSwlrf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이른",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "ERN",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "20210228_6PM",
+					"indices": [
+						127,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iWEVr1GFfO",
+					"expanded_url": "https://instagram.com/earlyern__/",
+					"display_url": "instagram.com/earlyern__/",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1363777609683804200,
+					"id_str": "1363777609683804161",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu0cgqnVoAEc1RT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu0cgqnVoAEc1RT.jpg",
+					"url": "https://t.co/SelkpSwlrf",
+					"display_url": "pic.twitter.com/SelkpSwlrf",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1363777619892707334/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1363777609683804200,
+					"id_str": "1363777609683804161",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu0cgqnVoAEc1RT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu0cgqnVoAEc1RT.jpg",
+					"url": "https://t.co/SelkpSwlrf",
+					"display_url": "pic.twitter.com/SelkpSwlrf",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1363777619892707334/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언 / Official YouTube Channel https://t.co/gTSbPm12G9",
+			"url": "https://t.co/eSVSBHrncV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSVSBHrncV",
+							"expanded_url": "http://www.instagram.com/musicfarmkorea",
+							"display_url": "instagram.com/musicfarmkorea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gTSbPm12G9",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								44,
+								67
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9203,
+			"friends_count": 4,
+			"listed_count": 0,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 785,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1613984865",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뮤직팜의 새로운 아티스트,\n이른(E:Rn)을 공개합니다!\n\n이른(E:Rn) Debut Single Release\n𝟮𝟬𝟮𝟭. 𝟬𝟮. 𝟮𝟴. 𝗦𝗨𝗡. 𝟲𝗣𝗠 (𝗞𝗦𝗧)\n\nhttps://t.co/iWEVr1GFfO\n\n#이른 #ERN #20210228_6PM https://t.co/SelkpSwlrf"
+	},
+	{
 		"created_at": "Mon Feb 22 09:06:53 +0000 2021",
 		"id": 1363777270729633800,
 		"id_str": "1363777270729633795",
