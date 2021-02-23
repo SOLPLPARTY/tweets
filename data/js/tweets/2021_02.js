@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 23 13:11:17 +0000 2021",
+		"id": 1364194005685264400,
+		"id_str": "1364201160912080899",
+		"full_text": "이 라인업과 함께라면 오늘 밤 감미로운 밤이 될 것 같네요 🤭\n이따 11시 정각에 클럽하우스에서 만나요! :) 🙌🏼\nㅡ\n#375라이브 #375도라이브 #클럽하우스 #오픈마이크 #온라인오프마이크 #클럽하우스오픈마이크 #공상온도 #문웅주 #양창근 #도시고독 #로큐 https://t.co/rgXWS7yaQf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "375라이브",
+					"indices": [
+						67,
+						74
+					]
+				},
+				{
+					"text": "375도라이브",
+					"indices": [
+						75,
+						83
+					]
+				},
+				{
+					"text": "클럽하우스",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "오픈마이크",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "온라인오프마이크",
+					"indices": [
+						98,
+						107
+					]
+				},
+				{
+					"text": "클럽하우스오픈마이크",
+					"indices": [
+						108,
+						119
+					]
+				},
+				{
+					"text": "공상온도",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "문웅주",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "양창근",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "도시고독",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "로큐",
+					"indices": [
+						142,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rgXWS7yaQf",
+					"expanded_url": "https://www.instagram.com/p/CLopeAZJKb6/?igshid=g8au7ko52u67",
+					"display_url": "instagram.com/p/CLopeAZJKb6/…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 363,
+			"friends_count": 194,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1086,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2768,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 라인업과 함께라면 오늘 밤 감미로운 밤이 될 것 같네요 🤭\n이따 11시 정각에 클럽하우스에서 만나요! :) 🙌🏼\nㅡ\n#375라이브 #375도라이브 #클럽하우스 #오픈마이크 #온라인오프마이크 #클럽하우스오픈마이크 #공상온도 #문웅주 #양창근 #도시고독 #로큐 https://t.co/rgXWS7yaQf"
+	},
+	{
 		"created_at": "Tue Feb 23 11:29:27 +0000 2021",
 		"id": 1364169043297505300,
 		"id_str": "1364175534587052035",
