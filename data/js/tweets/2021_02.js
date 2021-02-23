@@ -1,6 +1,354 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 23 01:42:39 +0000 2021",
+		"id": 1363861462696001500,
+		"id_str": "1364027863939178499",
+		"full_text": "Daft Punk are no more https://t.co/YssC6oXEOo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YssC6oXEOo",
+					"expanded_url": "http://p4k.in/Qfnc2Tr",
+					"display_url": "p4k.in/Qfnc2Tr",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14089195,
+			"id_str": "14089195",
+			"name": "Pitchfork",
+			"screen_name": "pitchfork",
+			"location": "Chicago/NYC",
+			"description": "The most trusted voice in music.",
+			"url": "https://t.co/vn4d8VhqAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vn4d8VhqAu",
+							"expanded_url": "http://pitchfork.com",
+							"display_url": "pitchfork.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3311823,
+			"friends_count": 3778,
+			"listed_count": 31425,
+			"created_at": "Thu Mar 06 15:34:41 +0000 2008",
+			"favourites_count": 162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 123999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "1F1F1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1137326502624841729/YX-bRuJZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137326502624841729/YX-bRuJZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14089195/1583523433",
+			"profile_link_color": "EF4035",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "171717",
+			"profile_text_color": "456E87",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18474,
+		"favorite_count": 55105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Daft Punk are no more https://t.co/YssC6oXEOo"
+	},
+	{
+		"created_at": "Tue Feb 23 01:42:34 +0000 2021",
+		"id": 1364026459145212000,
+		"id_str": "1364027840702816257",
+		"full_text": "Daft Punk - Epilogue \nhttps://t.co/S7BXnVOx9A \n\n1993-2021 \n\n#DaftPunk #다프트펑크",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DaftPunk",
+					"indices": [
+						60,
+						69
+					]
+				},
+				{
+					"text": "다프트펑크",
+					"indices": [
+						70,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S7BXnVOx9A",
+					"expanded_url": "https://youtu.be/DuDX6wNfjqc",
+					"display_url": "youtu.be/DuDX6wNfjqc",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1364026340291145700,
+		"in_reply_to_status_id_str": "1364026340291145739",
+		"in_reply_to_user_id": 778313051929911300,
+		"in_reply_to_user_id_str": "778313051929911296",
+		"in_reply_to_screen_name": "ArtManagementKR",
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "문화예술과 관련된 정보를 제공해드립니다.\n\n#예술경영 #뮤직비즈니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업",
+			"url": "https://t.co/hGE8N4Kde4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hGE8N4Kde4",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 473,
+			"friends_count": 56,
+			"listed_count": 4,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1586084627",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Daft Punk - Epilogue \nhttps://t.co/S7BXnVOx9A \n\n1993-2021 \n\n#DaftPunk #다프트펑크"
+	},
+	{
+		"created_at": "Tue Feb 23 01:42:31 +0000 2021",
+		"id": 1364026340291145700,
+		"id_str": "1364027827582955529",
+		"full_text": "일렉트로닉 듀오 '다프트 펑크', 28년 만에 전격 해체 발표 \nhttps://t.co/QZ1U7drD6U \n\n다프트펑크가 유튜브에 에필로그 영상을 올리며 해체를 발표 \n\n#DaftPunk #다프트펑크",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DaftPunk",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"text": "다프트펑크",
+					"indices": [
+						106,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QZ1U7drD6U",
+					"expanded_url": "https://www.hankookilbo.com/News/Read/A2021022309190004023",
+					"display_url": "hankookilbo.com/News/Read/A202…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "문화예술과 관련된 정보를 제공해드립니다.\n\n#예술경영 #뮤직비즈니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업",
+			"url": "https://t.co/hGE8N4Kde4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hGE8N4Kde4",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 473,
+			"friends_count": 56,
+			"listed_count": 4,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1586084627",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "일렉트로닉 듀오 '다프트 펑크', 28년 만에 전격 해체 발표 \nhttps://t.co/QZ1U7drD6U \n\n다프트펑크가 유튜브에 에필로그 영상을 올리며 해체를 발표 \n\n#DaftPunk #다프트펑크"
+	},
+	{
 		"created_at": "Tue Feb 23 01:11:17 +0000 2021",
 		"id": 1364008034976944000,
 		"id_str": "1364019967348400128",
