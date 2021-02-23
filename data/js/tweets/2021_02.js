@@ -1,6 +1,472 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 23 09:11:17 +0000 2021",
+		"id": 1364134106011897900,
+		"id_str": "1364140764998041603",
+		"full_text": "YES24 STAGE 2관 수시 대관 안내\n\n대학로 중심의 대표 공연장 예스24스테이지에서 수시 대관을 모집합니다\n\n뛰어난 역량을 가진 공연기획사의 많은 관심 부탁드립니다!\n\nhttps://t.co/TrylQ6rZHs https://t.co/1kPpNfOmRt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TrylQ6rZHs",
+					"expanded_url": "http://yes24stage.com",
+					"display_url": "yes24stage.com",
+					"indices": [
+						98,
+						121
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1364133906048450600,
+					"id_str": "1364133906048450568",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu5gj2AVgAg5T3F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu5gj2AVgAg5T3F.jpg",
+					"url": "https://t.co/1kPpNfOmRt",
+					"display_url": "pic.twitter.com/1kPpNfOmRt",
+					"expanded_url": "https://twitter.com/yes24stage/status/1364134106011897858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 794,
+							"h": 1123,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 794,
+							"h": 1123,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1364133906048450600,
+					"id_str": "1364133906048450568",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu5gj2AVgAg5T3F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu5gj2AVgAg5T3F.jpg",
+					"url": "https://t.co/1kPpNfOmRt",
+					"display_url": "pic.twitter.com/1kPpNfOmRt",
+					"expanded_url": "https://twitter.com/yes24stage/status/1364134106011897858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 794,
+							"h": 1123,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 794,
+							"h": 1123,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1104695434893652000,
+			"id_str": "1104695434893651968",
+			"name": "YES24 STAGE_예스24 스테이지",
+			"screen_name": "yes24stage",
+			"location": "대한민국 서울 종로구 대학로12길, 21",
+			"description": "예스24(주)가 운영하는 공연장 운영법인인 예스24라이브홀(주)의 #대학로 공연장 #예스24스테이지 ( #YES24STAGE ) 의 공식 트위터입니다.",
+			"url": "https://t.co/gpVU45TxjE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gpVU45TxjE",
+							"expanded_url": "https://www.yes24stage.com/",
+							"display_url": "yes24stage.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4894,
+			"friends_count": 40,
+			"listed_count": 20,
+			"created_at": "Sun Mar 10 10:48:10 +0000 2019",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 325,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245237541067878400/qWu2acqJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1104695434893651968/1585722791",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 107,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "YES24 STAGE 2관 수시 대관 안내\n\n대학로 중심의 대표 공연장 예스24스테이지에서 수시 대관을 모집합니다\n\n뛰어난 역량을 가진 공연기획사의 많은 관심 부탁드립니다!\n\nhttps://t.co/TrylQ6rZHs https://t.co/1kPpNfOmRt"
+	},
+	{
+		"created_at": "Tue Feb 23 08:29:29 +0000 2021",
+		"id": 1364120243056963600,
+		"id_str": "1364130244781744128",
+		"full_text": "홍크님이 직접 디자인한 스티커, 머그컵, 티셔츠, 앨범의 트랙리스트를 구현한 아트 포스터 입니다. 🐊🐊🐊 https://t.co/yJpwt3MwTN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1364119519568961500,
+					"id_str": "1364119519568961539",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu5TecMVoAMRAjH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu5TecMVoAMRAjH.jpg",
+					"url": "https://t.co/yJpwt3MwTN",
+					"display_url": "pic.twitter.com/yJpwt3MwTN",
+					"expanded_url": "https://twitter.com/orm_ent/status/1364120243056963584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1240,
+							"h": 876,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1364119519568961500,
+					"id_str": "1364119519568961539",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu5TecMVoAMRAjH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu5TecMVoAMRAjH.jpg",
+					"url": "https://t.co/yJpwt3MwTN",
+					"display_url": "pic.twitter.com/yJpwt3MwTN",
+					"expanded_url": "https://twitter.com/orm_ent/status/1364120243056963584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1240,
+							"h": 876,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1364119520068046800,
+					"id_str": "1364119520068046848",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu5TeeDVEAAbADH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu5TeeDVEAAbADH.jpg",
+					"url": "https://t.co/yJpwt3MwTN",
+					"display_url": "pic.twitter.com/yJpwt3MwTN",
+					"expanded_url": "https://twitter.com/orm_ent/status/1364120243056963584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1198,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1364119520453955600,
+					"id_str": "1364119520453955585",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu5TeffVkAE7wca.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu5TeffVkAE7wca.jpg",
+					"url": "https://t.co/yJpwt3MwTN",
+					"display_url": "pic.twitter.com/yJpwt3MwTN",
+					"expanded_url": "https://twitter.com/orm_ent/status/1364120243056963584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1015,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 595,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 337,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1364119520697151500,
+					"id_str": "1364119520697151488",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu5TegZUcAAZr9L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu5TegZUcAAZr9L.jpg",
+					"url": "https://t.co/yJpwt3MwTN",
+					"display_url": "pic.twitter.com/yJpwt3MwTN",
+					"expanded_url": "https://twitter.com/orm_ent/status/1364120243056963584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 476,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 840,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1240,
+							"h": 868,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1364120238061625300,
+		"in_reply_to_status_id_str": "1364120238061625344",
+		"in_reply_to_user_id": 52109991,
+		"in_reply_to_user_id_str": "52109991",
+		"in_reply_to_screen_name": "orm_ent",
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 722,
+			"friends_count": 324,
+			"listed_count": 12,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1611200656",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "홍크님이 직접 디자인한 스티커, 머그컵, 티셔츠, 앨범의 트랙리스트를 구현한 아트 포스터 입니다. 🐊🐊🐊 https://t.co/yJpwt3MwTN"
+	},
+	{
 		"created_at": "Tue Feb 23 08:11:17 +0000 2021",
 		"id": 1364113241836724200,
 		"id_str": "1364125663633039361",
