@@ -1,6 +1,121 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 23 11:11:17 +0000 2021",
+		"id": 1364167400803901400,
+		"id_str": "1364170962900574209",
+		"full_text": "필름사진 덕후는 무조건 봐야 하는 영상!\n\n💙작품 메이킹 필름 영상\nhttps://t.co/C1sKmMoi31\n\n&lt;Shape of Blue&gt;사진전은 온라인에서도 만나 볼 수 있어요.\n\n💙온라인 갤러리 링크 \nhttps://t.co/JNOhrO76ny",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C1sKmMoi31",
+					"expanded_url": "https://bit.ly/2NWyhmI",
+					"display_url": "bit.ly/2NWyhmI",
+					"indices": [
+						38,
+						61
+					]
+				},
+				{
+					"url": "https://t.co/JNOhrO76ny",
+					"expanded_url": "http://bit.ly/2OLyaL3",
+					"display_url": "bit.ly/2OLyaL3",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18208,
+			"friends_count": 1898,
+			"listed_count": 291,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 508,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1421402986",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "필름사진 덕후는 무조건 봐야 하는 영상!\n\n💙작품 메이킹 필름 영상\nhttps://t.co/C1sKmMoi31\n\n&lt;Shape of Blue&gt;사진전은 온라인에서도 만나 볼 수 있어요.\n\n💙온라인 갤러리 링크 \nhttps://t.co/JNOhrO76ny"
+	},
+	{
 		"created_at": "Tue Feb 23 10:11:24 +0000 2021",
 		"id": 1364155027166650400,
 		"id_str": "1364155893345042433",
@@ -911,7 +1026,7 @@ Grailbird.data.tweets_2021_02 =
 		"created_at": "Tue Feb 23 09:58:15 +0000 2021",
 		"id": 1364137925340852200,
 		"id_str": "1364152582525095937",
-		"full_text": "[FAN:DRIVE_KCON:TACT 3 1st LINEUP HIGHLIGHT] Her dance moves are always on point 👌 \n어떻게 솜털이 살아 움직이지? 말도 안돼 🤦‍♀️💞\n優しさいっぱい！チェリョンちゃんに癒される～😇\n▶ more on tiktok https://t.co/qtkhteMIgW\n#ITZY #채령 #CHAERYEONG #kcon #kcontact3 #kpop @ITZYofficial https://t.co/Px0G2E5BEn",
+		"full_text": "[FAN:DRIVE_KCON:TACT 3 1st LINEUP HIGHLIGHT] Her dance moves are always on point 👌 \n어떻게 솜털이 살아 움직이지? 말도 안돼 🤦♀️💞\n優しさいっぱい！チェリョンちゃんに癒される～😇\n▶ more on tiktok https://t.co/qtkhteMIgW\n#ITZY #채령 #CHAERYEONG #kcon #kcontact3 #kpop @ITZYofficial https://t.co/Px0G2E5BEn",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1174,7 +1289,7 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ja",
-		"text": "[FAN:DRIVE_KCON:TACT 3 1st LINEUP HIGHLIGHT] Her dance moves are always on point 👌 \n어떻게 솜털이 살아 움직이지? 말도 안돼 🤦‍♀️💞\n優しさいっぱい！チェリョンちゃんに癒される～😇\n▶ more on tiktok https://t.co/qtkhteMIgW\n#ITZY #채령 #CHAERYEONG #kcon #kcontact3 #kpop @ITZYofficial https://t.co/Px0G2E5BEn"
+		"text": "[FAN:DRIVE_KCON:TACT 3 1st LINEUP HIGHLIGHT] Her dance moves are always on point 👌 \n어떻게 솜털이 살아 움직이지? 말도 안돼 🤦♀️💞\n優しさいっぱい！チェリョンちゃんに癒される～😇\n▶ more on tiktok https://t.co/qtkhteMIgW\n#ITZY #채령 #CHAERYEONG #kcon #kcontact3 #kpop @ITZYofficial https://t.co/Px0G2E5BEn"
 	},
 	{
 		"created_at": "Tue Feb 23 09:29:52 +0000 2021",
