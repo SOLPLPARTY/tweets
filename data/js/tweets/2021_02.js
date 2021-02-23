@@ -1,6 +1,415 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 23 05:29:31 +0000 2021",
+		"id": 1364081221907619800,
+		"id_str": "1364084956469755906",
+		"full_text": "[#NEWS] '아직 낫서른' 정인선X안희연X차민지, 광란의 '아모르파티' 현장 포착\n\n▶️ https://t.co/g91lehx3hr \n\n#차민지 #카카오TV #웹드라마 #아직낫서른 #홍아영",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "차민지",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "카카오TV",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "웹드라마",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "아직낫서른",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "홍아영",
+					"indices": [
+						103,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g91lehx3hr",
+					"expanded_url": "http://bit.ly/2ZMTYId",
+					"display_url": "bit.ly/2ZMTYId",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20564,
+			"friends_count": 18,
+			"listed_count": 236,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] '아직 낫서른' 정인선X안희연X차민지, 광란의 '아모르파티' 현장 포착\n\n▶️ https://t.co/g91lehx3hr \n\n#차민지 #카카오TV #웹드라마 #아직낫서른 #홍아영"
+	},
+	{
+		"created_at": "Tue Feb 23 05:29:28 +0000 2021",
+		"id": 1364077527652724700,
+		"id_str": "1364084943316377601",
+		"full_text": "[#타케우치미유] 월간 윤종신 Repair 2월호 '왠지 그럼 안될 것 같아' D-1💚\n\n2월호 가창자로 참여한 미유 사진📸 선공개\n\n#월간윤종신 #윤종신 #왠지그럼안될것같아 #미유 #takeuchimiyu #たけうちみゆ https://t.co/FUJAH7RBbi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "타케우치미유",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "월간윤종신",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "윤종신",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "왠지그럼안될것같아",
+					"indices": [
+						87,
+						97
+					]
+				},
+				{
+					"text": "미유",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "takeuchimiyu",
+					"indices": [
+						102,
+						115
+					]
+				},
+				{
+					"text": "たけうちみゆ",
+					"indices": [
+						116,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1364031608223797200,
+					"id_str": "1364031608223797248",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu4DhU6VkAAbAMp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu4DhU6VkAAbAMp.jpg",
+					"url": "https://t.co/FUJAH7RBbi",
+					"display_url": "pic.twitter.com/FUJAH7RBbi",
+					"expanded_url": "https://twitter.com/themysticstory/status/1364077527652724737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 495,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 873,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1490,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1364031608223797200,
+					"id_str": "1364031608223797248",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu4DhU6VkAAbAMp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu4DhU6VkAAbAMp.jpg",
+					"url": "https://t.co/FUJAH7RBbi",
+					"display_url": "pic.twitter.com/FUJAH7RBbi",
+					"expanded_url": "https://twitter.com/themysticstory/status/1364077527652724737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 495,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 873,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1490,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1364031616033509400,
+					"id_str": "1364031616033509377",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu4DhyAUUAEqPaL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu4DhyAUUAEqPaL.jpg",
+					"url": "https://t.co/FUJAH7RBbi",
+					"display_url": "pic.twitter.com/FUJAH7RBbi",
+					"expanded_url": "https://twitter.com/themysticstory/status/1364077527652724737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 805,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1375,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20564,
+			"friends_count": 18,
+			"listed_count": 236,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 72,
+		"favorite_count": 143,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#타케우치미유] 월간 윤종신 Repair 2월호 '왠지 그럼 안될 것 같아' D-1💚\n\n2월호 가창자로 참여한 미유 사진📸 선공개\n\n#월간윤종신 #윤종신 #왠지그럼안될것같아 #미유 #takeuchimiyu #たけうちみゆ https://t.co/FUJAH7RBbi"
+	},
+	{
 		"created_at": "Tue Feb 23 05:11:17 +0000 2021",
 		"id": 1364065972550705200,
 		"id_str": "1364080365137240064",
