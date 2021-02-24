@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 24 10:29:34 +0000 2021",
+		"id": 1364517880683917300,
+		"id_str": "1364522852729425920",
+		"full_text": "D-1\n유정목 \n[춘분 #1 현실의 위로]\n2021년 2월 25일 정오 발매\n-\n\"고단했던 하루의 작은 틈 사이로\n슬며시 흘러나오던 빛의 소리\"\n-\n#유정목 #현실의위로 #춘분 #새앨범 #春分 #2월25일 #정오 #발매 #9와숫자들 #전자양 https://t.co/eCSwfDE0vL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유정목",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "현실의위로",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "춘분",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "새앨범",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "春分",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "2월25일",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "정오",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "9와숫자들",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "전자양",
+					"indices": [
+						130,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1364517713540915200,
+					"id_str": "1364517713540915201",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu-9oYVVoAE9A_a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu-9oYVVoAE9A_a.jpg",
+					"url": "https://t.co/eCSwfDE0vL",
+					"display_url": "pic.twitter.com/eCSwfDE0vL",
+					"expanded_url": "https://twitter.com/orm_ent/status/1364517880683917314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1364517713540915200,
+					"id_str": "1364517713540915201",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/Eu-9oYVVoAE9A_a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eu-9oYVVoAE9A_a.jpg",
+					"url": "https://t.co/eCSwfDE0vL",
+					"display_url": "pic.twitter.com/eCSwfDE0vL",
+					"expanded_url": "https://twitter.com/orm_ent/status/1364517880683917314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 723,
+			"friends_count": 325,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2901,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1611200656",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "D-1\n유정목 \n[춘분 #1 현실의 위로]\n2021년 2월 25일 정오 발매\n-\n\"고단했던 하루의 작은 틈 사이로\n슬며시 흘러나오던 빛의 소리\"\n-\n#유정목 #현실의위로 #춘분 #새앨범 #春分 #2월25일 #정오 #발매 #9와숫자들 #전자양 https://t.co/eCSwfDE0vL"
+	},
+	{
 		"created_at": "Wed Feb 24 10:11:25 +0000 2021",
 		"id": 1364511162251890700,
 		"id_str": "1364518285409198083",
@@ -588,7 +833,7 @@ Grailbird.data.tweets_2021_02 =
 		"created_at": "Wed Feb 24 09:58:15 +0000 2021",
 		"id": 1364500312359194600,
 		"id_str": "1364514970931769344",
-		"full_text": "[FAN:DRIVE_KCON:TACT 3 2nd LINEUP HIGHLIGHT] TXT isn't just a boy group, it's a cultural reset... 💞 \n이야!! 수빈이 미모에 이과도 시집낸다!! 😮💖\nSOOBINのビジュアルは世界を救える！🦸‍♂️\n#TXT #수빈 #SOOBIN #kcon #kcontact3 #kpop @TXT_members https://t.co/EYDLwsEBPZ",
+		"full_text": "[FAN:DRIVE_KCON:TACT 3 2nd LINEUP HIGHLIGHT] TXT isn't just a boy group, it's a cultural reset... 💞 \n이야!! 수빈이 미모에 이과도 시집낸다!! 😮💖\nSOOBINのビジュアルは世界を救える！🦸♂️\n#TXT #수빈 #SOOBIN #kcon #kcontact3 #kpop @TXT_members https://t.co/EYDLwsEBPZ",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -841,7 +1086,7 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ja",
-		"text": "[FAN:DRIVE_KCON:TACT 3 2nd LINEUP HIGHLIGHT] TXT isn't just a boy group, it's a cultural reset... 💞 \n이야!! 수빈이 미모에 이과도 시집낸다!! 😮💖\nSOOBINのビジュアルは世界を救える！🦸‍♂️\n#TXT #수빈 #SOOBIN #kcon #kcontact3 #kpop @TXT_members https://t.co/EYDLwsEBPZ"
+		"text": "[FAN:DRIVE_KCON:TACT 3 2nd LINEUP HIGHLIGHT] TXT isn't just a boy group, it's a cultural reset... 💞 \n이야!! 수빈이 미모에 이과도 시집낸다!! 😮💖\nSOOBINのビジュアルは世界を救える！🦸♂️\n#TXT #수빈 #SOOBIN #kcon #kcontact3 #kpop @TXT_members https://t.co/EYDLwsEBPZ"
 	},
 	{
 		"created_at": "Wed Feb 24 09:29:55 +0000 2021",
