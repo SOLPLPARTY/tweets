@@ -1,6 +1,802 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 25 10:11:18 +0000 2021",
+		"id": 1364880642853531600,
+		"id_str": "1364880642853531648",
+		"full_text": "#딩고뮤직 #dingo_music\n[MV] 썸탈래 나랑 (SOME) - 김동현 (AB6IX) | [썸타는 편의점 OST]ㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/NwI5ChqhMD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NwI5ChqhMD",
+					"expanded_url": "https://youtu.be/eBLt8wtTPt4",
+					"display_url": "youtu.be/eBLt8wtTPt4",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 448,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n[MV] 썸탈래 나랑 (SOME) - 김동현 (AB6IX) | [썸타는 편의점 OST]ㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/NwI5ChqhMD"
+	},
+	{
+		"created_at": "Thu Feb 25 09:58:15 +0000 2021",
+		"id": 1364862707317506000,
+		"id_str": "1364877358264692736",
+		"full_text": "[FAN:DRIVE_KCON:TACT 3 2nd LINEUP HIGHLIGHT]\nTo INFINITY and beyond! ⭐\n네 거기 우주죠? 📞 잃어버리신 별 11개 여기 지구에 있어요 ~~ 🌟\nJO1に送るJAMの愛こそが∞無限大∞！！✨\n #JO1 #제이오원 #kcon #kcontact3 #kpop https://t.co/hz0SmD05RS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JO1",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "제이오원",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "kcon",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "kcontact3",
+					"indices": [
+						152,
+						162
+					]
+				},
+				{
+					"text": "kpop",
+					"indices": [
+						163,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1364845052036456400,
+					"id_str": "1364845052036456450",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1364845052036456450/pu/img/lLCzuEvIKFvEE0IU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1364845052036456450/pu/img/lLCzuEvIKFvEE0IU.jpg",
+					"url": "https://t.co/hz0SmD05RS",
+					"display_url": "pic.twitter.com/hz0SmD05RS",
+					"expanded_url": "https://twitter.com/KCON_official/status/1364862707317506054/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1364845052036456400,
+					"id_str": "1364845052036456450",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1364845052036456450/pu/img/lLCzuEvIKFvEE0IU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1364845052036456450/pu/img/lLCzuEvIKFvEE0IU.jpg",
+					"url": "https://t.co/hz0SmD05RS",
+					"display_url": "pic.twitter.com/hz0SmD05RS",
+					"expanded_url": "https://twitter.com/KCON_official/status/1364862707317506054/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 67701,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1364845052036456450/pu/vid/720x1280/e68i_GjV_gTYlXuL.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1364845052036456450/pu/vid/320x568/p9k-aACYqTFCT3Zl.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1364845052036456450/pu/vid/360x640/pvAcTUzqinY9JtUR.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1364845052036456450/pu/pl/-yvpfbz1ZOW-uN85.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter\nKCON:TACT 3 - 21. 3. 20 ~ 3. 28",
+			"url": "https://t.co/csCKGKlzlp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/csCKGKlzlp",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 304140,
+			"friends_count": 68,
+			"listed_count": 915,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1361480707642564611/eYJqm2l__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1361480707642564611/eYJqm2l__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1613433652",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 658,
+		"favorite_count": 2124,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[FAN:DRIVE_KCON:TACT 3 2nd LINEUP HIGHLIGHT]\nTo INFINITY and beyond! ⭐\n네 거기 우주죠? 📞 잃어버리신 별 11개 여기 지구에 있어요 ~~ 🌟\nJO1に送るJAMの愛こそが∞無限大∞！！✨\n #JO1 #제이오원 #kcon #kcontact3 #kpop https://t.co/hz0SmD05RS"
+	},
+	{
+		"created_at": "Thu Feb 25 09:45:36 +0000 2021",
+		"id": 1364874176276873200,
+		"id_str": "1364874176276873217",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n착한 음색에 그렇지 못한 가사 😈 (feat. 도발..유혹 그리고 사랑..🎯)   | Ariana Grande (아리아나 그란데) - test drive (한/영 가사)\nhttps://t.co/yGBWLwcx85",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yGBWLwcx85",
+					"expanded_url": "https://youtu.be/EWvd_sOoJjc",
+					"display_url": "youtu.be/EWvd_sOoJjc",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 448,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n착한 음색에 그렇지 못한 가사 😈 (feat. 도발..유혹 그리고 사랑..🎯)   | Ariana Grande (아리아나 그란데) - test drive (한/영 가사)\nhttps://t.co/yGBWLwcx85"
+	},
+	{
+		"created_at": "Thu Feb 25 09:29:31 +0000 2021",
+		"id": 1364864168105451500,
+		"id_str": "1364870129490747393",
+		"full_text": "이른(E:Rn) - ‘아는 척’\n𝟮𝟬𝟮𝟭. 𝟬𝟮. 𝟮𝟴. 𝗦𝗨𝗡. 𝟲𝗣𝗠 (𝗞𝗦𝗧)\n\nArtist 이른 E:Rn\nStarring 김아현 Kim Ahyun\nM/V Production nvrmnd\n\n‘아는 척’ 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗠/𝗩 𝗧𝗲𝗮𝘀𝗲𝗿\n🔗 https://t.co/BkmAcL6Q3q\n\n#이른 #ERn #아는척 #PretendToKnow\n#김아현 #MV_Teaser #20210228_6PM https://t.co/748uFjiodK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이른",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "ERn",
+					"indices": [
+						167,
+						171
+					]
+				},
+				{
+					"text": "아는척",
+					"indices": [
+						172,
+						176
+					]
+				},
+				{
+					"text": "PretendToKnow",
+					"indices": [
+						177,
+						191
+					]
+				},
+				{
+					"text": "김아현",
+					"indices": [
+						192,
+						196
+					]
+				},
+				{
+					"text": "MV_Teaser",
+					"indices": [
+						197,
+						207
+					]
+				},
+				{
+					"text": "20210228_6PM",
+					"indices": [
+						208,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BkmAcL6Q3q",
+					"expanded_url": "https://youtu.be/vSLt5ulk-qU",
+					"display_url": "youtu.be/vSLt5ulk-qU",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1364864130482495500,
+					"id_str": "1364864130482495488",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1364864130482495488/pu/img/GppaPPL8so_3nECK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1364864130482495488/pu/img/GppaPPL8so_3nECK.jpg",
+					"url": "https://t.co/748uFjiodK",
+					"display_url": "pic.twitter.com/748uFjiodK",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1364864168105451526/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1364864130482495500,
+					"id_str": "1364864130482495488",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1364864130482495488/pu/img/GppaPPL8so_3nECK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1364864130482495488/pu/img/GppaPPL8so_3nECK.jpg",
+					"url": "https://t.co/748uFjiodK",
+					"display_url": "pic.twitter.com/748uFjiodK",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1364864168105451526/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 25067,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1364864130482495488/pu/vid/640x360/gjtb-M-_5f87piv2.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1364864130482495488/pu/pl/SaNk5jffemnzEtGa.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1364864130482495488/pu/vid/480x270/2x5vmOM9521vlfK0.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1364864130482495488/pu/vid/1280x720/dCsOS_jRGV61RHOF.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/gTSbPm12G9",
+			"url": "https://t.co/eSVSBHrncV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eSVSBHrncV",
+							"expanded_url": "http://www.instagram.com/musicfarmkorea",
+							"display_url": "instagram.com/musicfarmkorea",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gTSbPm12G9",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9206,
+			"friends_count": 4,
+			"listed_count": 107,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 791,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/638935602973413376/yD9y0kPx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1614218352",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이른(E:Rn) - ‘아는 척’\n𝟮𝟬𝟮𝟭. 𝟬𝟮. 𝟮𝟴. 𝗦𝗨𝗡. 𝟲𝗣𝗠 (𝗞𝗦𝗧)\n\nArtist 이른 E:Rn\nStarring 김아현 Kim Ahyun\nM/V Production nvrmnd\n\n‘아는 척’ 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗠/𝗩 𝗧𝗲𝗮𝘀𝗲𝗿\n🔗 https://t.co/BkmAcL6Q3q\n\n#이른 #ERn #아는척 #PretendToKnow\n#김아현 #MV_Teaser #20210228_6PM https://t.co/748uFjiodK"
+	},
+	{
 		"created_at": "Thu Feb 25 09:11:38 +0000 2021",
 		"id": 1364865626976698400,
 		"id_str": "1364865626976698370",
@@ -144,7 +940,7 @@ Grailbird.data.tweets_2021_02 =
 		"created_at": "Thu Feb 25 09:11:31 +0000 2021",
 		"id": 1364852539011686400,
 		"id_str": "1364865598660968450",
-		"full_text": "다양한 분위기의 '걷는 것'과 관련된, \n들으며 걷기 좋은 곡들로만 구성 되었으니\n모두모두 들으며 \n행복해지셨으면 좋겠어요! (╭☞•́⍛•̀)╭☞♡\n\n플레이리스트 바로듣기 링크🔗: https://t.co/WwLQhLU1VS\n-\n🚶‍♂️조형우 &lt;안녕 노란 벽돌의 길&gt;\n🚶‍♀️프롬 &lt;봄맞이 가출&gt;\n🚶이루리 &lt;노을 속에서&gt; https://t.co/jyTQ9a0nrW",
+		"full_text": "다양한 분위기의 '걷는 것'과 관련된, \n들으며 걷기 좋은 곡들로만 구성 되었으니\n모두모두 들으며 \n행복해지셨으면 좋겠어요! (╭☞•́⍛•̀)╭☞♡\n\n플레이리스트 바로듣기 링크🔗: https://t.co/WwLQhLU1VS\n-\n🚶♂️조형우 &lt;안녕 노란 벽돌의 길&gt;\n🚶♀️프롬 &lt;봄맞이 가출&gt;\n🚶이루리 &lt;노을 속에서&gt; https://t.co/jyTQ9a0nrW",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -394,13 +1190,13 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "다양한 분위기의 '걷는 것'과 관련된, \n들으며 걷기 좋은 곡들로만 구성 되었으니\n모두모두 들으며 \n행복해지셨으면 좋겠어요! (╭☞•́⍛•̀)╭☞♡\n\n플레이리스트 바로듣기 링크🔗: https://t.co/WwLQhLU1VS\n-\n🚶‍♂️조형우 &lt;안녕 노란 벽돌의 길&gt;\n🚶‍♀️프롬 &lt;봄맞이 가출&gt;\n🚶이루리 &lt;노을 속에서&gt; https://t.co/jyTQ9a0nrW"
+		"text": "다양한 분위기의 '걷는 것'과 관련된, \n들으며 걷기 좋은 곡들로만 구성 되었으니\n모두모두 들으며 \n행복해지셨으면 좋겠어요! (╭☞•́⍛•̀)╭☞♡\n\n플레이리스트 바로듣기 링크🔗: https://t.co/WwLQhLU1VS\n-\n🚶♂️조형우 &lt;안녕 노란 벽돌의 길&gt;\n🚶♀️프롬 &lt;봄맞이 가출&gt;\n🚶이루리 &lt;노을 속에서&gt; https://t.co/jyTQ9a0nrW"
 	},
 	{
 		"created_at": "Thu Feb 25 09:11:24 +0000 2021",
 		"id": 1364852533789790200,
 		"id_str": "1364865568575283202",
-		"full_text": "저희의 첫 구독자 플레이리스트는 바로!!\n\"ㄱ대건\"님 (Instagram: @kdg023 )의\n&lt;걷는게 좋아지는 음악들&gt;\n입니다 '◡'✿\n감사하게도 ‘ㄱ대건’님의 작은 소감과 좋아하시는 가사 한소절까지 보내주셨어요~\n-\n🚶‍♂️은종 &lt;까만 밤&gt;\n🚶‍♀️최유리 &lt;동네&gt;\n🚶윤지영 &lt;Blue Bird&gt; https://t.co/qivWxmBa2N",
+		"full_text": "저희의 첫 구독자 플레이리스트는 바로!!\n\"ㄱ대건\"님 (Instagram: @kdg023 )의\n&lt;걷는게 좋아지는 음악들&gt;\n입니다 '◡'✿\n감사하게도 ‘ㄱ대건’님의 작은 소감과 좋아하시는 가사 한소절까지 보내주셨어요~\n-\n🚶♂️은종 &lt;까만 밤&gt;\n🚶♀️최유리 &lt;동네&gt;\n🚶윤지영 &lt;Blue Bird&gt; https://t.co/qivWxmBa2N",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -651,13 +1447,13 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "저희의 첫 구독자 플레이리스트는 바로!!\n\"ㄱ대건\"님 (Instagram: @kdg023 )의\n&lt;걷는게 좋아지는 음악들&gt;\n입니다 '◡'✿\n감사하게도 ‘ㄱ대건’님의 작은 소감과 좋아하시는 가사 한소절까지 보내주셨어요~\n-\n🚶‍♂️은종 &lt;까만 밤&gt;\n🚶‍♀️최유리 &lt;동네&gt;\n🚶윤지영 &lt;Blue Bird&gt; https://t.co/qivWxmBa2N"
+		"text": "저희의 첫 구독자 플레이리스트는 바로!!\n\"ㄱ대건\"님 (Instagram: @kdg023 )의\n&lt;걷는게 좋아지는 음악들&gt;\n입니다 '◡'✿\n감사하게도 ‘ㄱ대건’님의 작은 소감과 좋아하시는 가사 한소절까지 보내주셨어요~\n-\n🚶♂️은종 &lt;까만 밤&gt;\n🚶♀️최유리 &lt;동네&gt;\n🚶윤지영 &lt;Blue Bird&gt; https://t.co/qivWxmBa2N"
 	},
 	{
 		"created_at": "Thu Feb 25 09:11:17 +0000 2021",
 		"id": 1364852528983154700,
 		"id_str": "1364865538724347907",
-		"full_text": "[2021년 2월 구독자’s PLAYLIST by ‘ㄱ대건’]\n씬디티켓라운지 페이지 구독자 여러분~ \n2월 한달이 가고 \n따뜻한 날씨와 함께 3월이 다가오네요! \n그동안 씬디는 \n첫❤︎구독자's 플레이리스트 이벤트❤︎ 를 \n성공적으로 마쳤습니다! \n-\n🚶‍♂️이서 &lt;Start!&gt;\n🚶‍♀️임예송 &lt;핸드폰&gt;\n🚶페퍼톤스 &lt;행운을 빌어요&gt; https://t.co/ZWKEJHClLs",
+		"full_text": "[2021년 2월 구독자’s PLAYLIST by ‘ㄱ대건’]\n씬디티켓라운지 페이지 구독자 여러분~ \n2월 한달이 가고 \n따뜻한 날씨와 함께 3월이 다가오네요! \n그동안 씬디는 \n첫❤︎구독자's 플레이리스트 이벤트❤︎ 를 \n성공적으로 마쳤습니다! \n-\n🚶♂️이서 &lt;Start!&gt;\n🚶♀️임예송 &lt;핸드폰&gt;\n🚶페퍼톤스 &lt;행운을 빌어요&gt; https://t.co/ZWKEJHClLs",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -933,7 +1729,7 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[2021년 2월 구독자’s PLAYLIST by ‘ㄱ대건’]\n씬디티켓라운지 페이지 구독자 여러분~ \n2월 한달이 가고 \n따뜻한 날씨와 함께 3월이 다가오네요! \n그동안 씬디는 \n첫❤︎구독자's 플레이리스트 이벤트❤︎ 를 \n성공적으로 마쳤습니다! \n-\n🚶‍♂️이서 &lt;Start!&gt;\n🚶‍♀️임예송 &lt;핸드폰&gt;\n🚶페퍼톤스 &lt;행운을 빌어요&gt; https://t.co/ZWKEJHClLs"
+		"text": "[2021년 2월 구독자’s PLAYLIST by ‘ㄱ대건’]\n씬디티켓라운지 페이지 구독자 여러분~ \n2월 한달이 가고 \n따뜻한 날씨와 함께 3월이 다가오네요! \n그동안 씬디는 \n첫❤︎구독자's 플레이리스트 이벤트❤︎ 를 \n성공적으로 마쳤습니다! \n-\n🚶♂️이서 &lt;Start!&gt;\n🚶♀️임예송 &lt;핸드폰&gt;\n🚶페퍼톤스 &lt;행운을 빌어요&gt; https://t.co/ZWKEJHClLs"
 	},
 	{
 		"created_at": "Thu Feb 25 09:10:44 +0000 2021",
