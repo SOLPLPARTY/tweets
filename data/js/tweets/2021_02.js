@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 25 13:29:40 +0000 2021",
+		"id": 1364922794761355300,
+		"id_str": "1364930564386660355",
+		"full_text": "뉴욕 지하철에는 특별한 게 있다. \nfeat. 쉑쉑버거/비둘기/랩퍼\n정준일 JungJoonil  DOOM2 #11\nhttps://t.co/DWYx5wNRwI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DWYx5wNRwI",
+					"expanded_url": "https://youtu.be/JjZMUtbBf58",
+					"display_url": "youtu.be/JjZMUtbBf58",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2673,
+			"friends_count": 341,
+			"listed_count": 32,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 18411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뉴욕 지하철에는 특별한 게 있다. \nfeat. 쉑쉑버거/비둘기/랩퍼\n정준일 JungJoonil  DOOM2 #11\nhttps://t.co/DWYx5wNRwI"
+	},
+	{
+		"created_at": "Thu Feb 25 13:29:34 +0000 2021",
+		"id": 1364915548971290600,
+		"id_str": "1364930538751090688",
+		"full_text": "[#타케우치미유] '왠지 그럼 안될 것 같아' 뮤직비디오 촬영 비하인드 OPEN 🔔\n\n▶️ https://t.co/42oOwPqy6u\n\n#미유 #takeuchimiyu #たけうちみゆ #월간윤종신 #2021월간윤종신 #월간윤종신Repair #왠지그럼안될것같아 #뮤직비디오 #비하인드 https://t.co/t1VznsBcXC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "타케우치미유",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "미유",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "takeuchimiyu",
+					"indices": [
+						80,
+						93
+					]
+				},
+				{
+					"text": "たけうちみゆ",
+					"indices": [
+						94,
+						101
+					]
+				},
+				{
+					"text": "월간윤종신",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "2021월간윤종신",
+					"indices": [
+						109,
+						119
+					]
+				},
+				{
+					"text": "월간윤종신Repair",
+					"indices": [
+						120,
+						132
+					]
+				},
+				{
+					"text": "왠지그럼안될것같아",
+					"indices": [
+						133,
+						143
+					]
+				},
+				{
+					"text": "뮤직비디오",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						151,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/42oOwPqy6u",
+					"expanded_url": "http://naver.me/501tqHAz",
+					"display_url": "naver.me/501tqHAz",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1364888210845749200,
+					"id_str": "1364888210845749255",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EvEOmKWUUAcI--N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvEOmKWUUAcI--N.jpg",
+					"url": "https://t.co/t1VznsBcXC",
+					"display_url": "pic.twitter.com/t1VznsBcXC",
+					"expanded_url": "https://twitter.com/themysticstory/status/1364915548971290628/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1364888210845749200,
+					"id_str": "1364888210845749255",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EvEOmKWUUAcI--N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvEOmKWUUAcI--N.jpg",
+					"url": "https://t.co/t1VznsBcXC",
+					"display_url": "pic.twitter.com/t1VznsBcXC",
+					"expanded_url": "https://twitter.com/themysticstory/status/1364915548971290628/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1364888219939008500,
+					"id_str": "1364888219939008513",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/EvEOmsOUcAEZtkh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvEOmsOUcAEZtkh.jpg",
+					"url": "https://t.co/t1VznsBcXC",
+					"display_url": "pic.twitter.com/t1VznsBcXC",
+					"expanded_url": "https://twitter.com/themysticstory/status/1364915548971290628/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20614,
+			"friends_count": 18,
+			"listed_count": 237,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 156,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#타케우치미유] '왠지 그럼 안될 것 같아' 뮤직비디오 촬영 비하인드 OPEN 🔔\n\n▶️ https://t.co/42oOwPqy6u\n\n#미유 #takeuchimiyu #たけうちみゆ #월간윤종신 #2021월간윤종신 #월간윤종신Repair #왠지그럼안될것같아 #뮤직비디오 #비하인드 https://t.co/t1VznsBcXC"
+	},
+	{
 		"created_at": "Thu Feb 25 13:11:17 +0000 2021",
 		"id": 1364915659759526000,
 		"id_str": "1364925937100333060",
