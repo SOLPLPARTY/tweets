@@ -1,6 +1,547 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 25 04:29:41 +0000 2021",
+		"id": 1364793899286368300,
+		"id_str": "1364794673689157632",
+		"full_text": "[#지구망] 미스틱스토리 New 제작 시트콤 coming soon🔜 https://t.co/TMBA7vkxe8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지구망",
+					"indices": [
+						1,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TMBA7vkxe8",
+					"expanded_url": "https://twitter.com/NetflixKR/status/1364780443153825792",
+					"display_url": "twitter.com/NetflixKR/stat…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20604,
+			"friends_count": 18,
+			"listed_count": 239,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5656,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1364780443153825800,
+		"quoted_status_id_str": "1364780443153825792",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TMBA7vkxe8",
+			"expanded": "https://twitter.com/NetflixKR/status/1364780443153825792",
+			"display": "twitter.com/NetflixKR/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 25 03:33:08 +0000 2021",
+			"id": 1364780443153825800,
+			"id_str": "1364780443153825792",
+			"full_text": "&lt;내일 지구가 망해버렸으면 좋겠어&gt;\n넷플릭스가 '논스톱' 감독과 시트콤을 만들면? 사랑과 우정이 넘치는 국제 기숙사로 오세요!\n\n#내일지구가망해버렸으면좋겠어 #박세완 #신현승 #최영재 #민니 #한현민 #SeeWhatsNext2021 #Netflix #넷플릭스 https://t.co/ZgR74FFnVy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				150
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "내일지구가망해버렸으면좋겠어",
+						"indices": [
+							78,
+							93
+						]
+					},
+					{
+						"text": "박세완",
+						"indices": [
+							94,
+							98
+						]
+					},
+					{
+						"text": "신현승",
+						"indices": [
+							99,
+							103
+						]
+					},
+					{
+						"text": "최영재",
+						"indices": [
+							104,
+							108
+						]
+					},
+					{
+						"text": "민니",
+						"indices": [
+							109,
+							112
+						]
+					},
+					{
+						"text": "한현민",
+						"indices": [
+							113,
+							117
+						]
+					},
+					{
+						"text": "SeeWhatsNext2021",
+						"indices": [
+							118,
+							135
+						]
+					},
+					{
+						"text": "Netflix",
+						"indices": [
+							136,
+							144
+						]
+					},
+					{
+						"text": "넷플릭스",
+						"indices": [
+							145,
+							150
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1364780306599796700,
+						"id_str": "1364780306599796738",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/media/EvCsdTtUYAIfixz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EvCsdTtUYAIfixz.jpg",
+						"url": "https://t.co/ZgR74FFnVy",
+						"display_url": "pic.twitter.com/ZgR74FFnVy",
+						"expanded_url": "https://twitter.com/NetflixKR/status/1364780443153825792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 1333,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1364780306599796700,
+						"id_str": "1364780306599796738",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/media/EvCsdTtUYAIfixz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EvCsdTtUYAIfixz.jpg",
+						"url": "https://t.co/ZgR74FFnVy",
+						"display_url": "pic.twitter.com/ZgR74FFnVy",
+						"expanded_url": "https://twitter.com/NetflixKR/status/1364780443153825792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 1333,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1364780316582289400,
+						"id_str": "1364780316582289418",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/media/EvCsd45VIAoUSLL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EvCsd45VIAoUSLL.jpg",
+						"url": "https://t.co/ZgR74FFnVy",
+						"display_url": "pic.twitter.com/ZgR74FFnVy",
+						"expanded_url": "https://twitter.com/NetflixKR/status/1364780443153825792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2000,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3026881800,
+				"id_str": "3026881800",
+				"name": "@NetflixKR",
+				"screen_name": "NetflixKR",
+				"location": "대한민국 서울",
+				"description": "세계 최대 온라인 스트리밍 서비스 넷플릭스의 한국 공식 페이지입니다! 넷플릭스의 최신 소식을 발 빠르게 전해드립니다.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 143439,
+				"friends_count": 235,
+				"listed_count": 314,
+				"created_at": "Wed Feb 18 18:46:33 +0000 2015",
+				"favourites_count": 350,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3774,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/744938017106714624/agbT591Z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/744938017106714624/agbT591Z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3026881800/1611047031",
+				"profile_link_color": "E50913",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8248,
+			"favorite_count": 9664,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 3,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#지구망] 미스틱스토리 New 제작 시트콤 coming soon🔜 https://t.co/TMBA7vkxe8"
+	},
+	{
+		"created_at": "Thu Feb 25 04:29:33 +0000 2021",
+		"id": 1364783285046415400,
+		"id_str": "1364794639606288384",
+		"full_text": "빙벽 콘서트 Cover by 샘김 Sam Kim\n\n송창식 - ‘밤눈’ (무사트 익스트림) \nhttps://t.co/pjAsZDLgys\n\n@LeegitItsSam #샘김 #SamKim\n#무사트 #빙벽콘서트 #송창식 #밤눈",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "샘김",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "SamKim",
+					"indices": [
+						94,
+						101
+					]
+				},
+				{
+					"text": "무사트",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "빙벽콘서트",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "송창식",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "밤눈",
+					"indices": [
+						119,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeegitItsSam",
+					"name": "Sam Kim 샘김",
+					"id": 1202716135,
+					"id_str": "1202716135",
+					"indices": [
+						76,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pjAsZDLgys",
+					"expanded_url": "https://youtu.be/oD7oSDKCQNE",
+					"display_url": "youtu.be/oD7oSDKCQNE",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, CHAI, 윤석철, 적재, 서동환 Official / 권진아 EP ‘우리의 방식’ 2021. 02. 18. 6PM Release!",
+			"url": "https://t.co/CqfXN7It7U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CqfXN7It7U",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35667,
+			"friends_count": 10,
+			"listed_count": 362,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1612939208",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빙벽 콘서트 Cover by 샘김 Sam Kim\n\n송창식 - ‘밤눈’ (무사트 익스트림) \nhttps://t.co/pjAsZDLgys\n\n@LeegitItsSam #샘김 #SamKim\n#무사트 #빙벽콘서트 #송창식 #밤눈"
+	},
+	{
 		"created_at": "Thu Feb 25 04:11:17 +0000 2021",
 		"id": 1364784138943824000,
 		"id_str": "1364790041042640897",
@@ -243,7 +784,7 @@ Grailbird.data.tweets_2021_02 =
 		"created_at": "Thu Feb 25 03:58:15 +0000 2021",
 		"id": 1364772104596377600,
 		"id_str": "1364786761713520642",
-		"full_text": "Commemorative photos! 📸\nWhose photos are these?! Please find their respective owners!🙋‍♀️\n기념 사진까지 찰칵!📸\n근데 이게 누구 사진이지..?! 주인을 찾아주세요!🙋‍♀️\n記念写真までパシャ！📸\nでもこれ誰の写真なんだろう..?! 持ち主を探してください！🙋‍♀️\n\n#KCON #KCONTACT3 https://t.co/rogNcvCGOd",
+		"full_text": "Commemorative photos! 📸\nWhose photos are these?! Please find their respective owners!🙋♀️\n기념 사진까지 찰칵!📸\n근데 이게 누구 사진이지..?! 주인을 찾아주세요!🙋♀️\n記念写真までパシャ！📸\nでもこれ誰の写真なんだろう..?! 持ち主を探してください！🙋♀️\n\n#KCON #KCONTACT3 https://t.co/rogNcvCGOd",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -457,7 +998,7 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ja",
-		"text": "Commemorative photos! 📸\nWhose photos are these?! Please find their respective owners!🙋‍♀️\n기념 사진까지 찰칵!📸\n근데 이게 누구 사진이지..?! 주인을 찾아주세요!🙋‍♀️\n記念写真までパシャ！📸\nでもこれ誰の写真なんだろう..?! 持ち主を探してください！🙋‍♀️\n\n#KCON #KCONTACT3 https://t.co/rogNcvCGOd"
+		"text": "Commemorative photos! 📸\nWhose photos are these?! Please find their respective owners!🙋♀️\n기념 사진까지 찰칵!📸\n근데 이게 누구 사진이지..?! 주인을 찾아주세요!🙋♀️\n記念写真までパシャ！📸\nでもこれ誰の写真なんだろう..?! 持ち主を探してください！🙋♀️\n\n#KCON #KCONTACT3 https://t.co/rogNcvCGOd"
 	},
 	{
 		"created_at": "Thu Feb 25 03:32:37 +0000 2021",
