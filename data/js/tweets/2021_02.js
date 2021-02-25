@@ -1,6 +1,412 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 25 12:11:30 +0000 2021",
+		"id": 1364902544414175200,
+		"id_str": "1364910894355009542",
+		"full_text": "한국문화예술 위원회의 청년예술가 해외진출지원\n사업에 선정된 신도시의 2020-2021프로젝트\nTW-KOR OUTERNATIONAL 2020 의 스트리밍 공연 시리즈 입니다. 각일 공지된 시간에 신도시(seendosi)\n유튜브 채널에서 공개 됩니다.\n⠀\ninstagram @tw.kor.outernational2020\n⠀\n후원:한국문화예술위원회",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tw",
+					"name": "Tom Wuttke 🍇",
+					"id": 46338147,
+					"id_str": "46338147",
+					"indices": [
+						151,
+						154
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1364902542006657000,
+		"in_reply_to_status_id_str": "1364902542006657024",
+		"in_reply_to_user_id": 3225907891,
+		"in_reply_to_user_id_str": "3225907891",
+		"in_reply_to_screen_name": "seendosi",
+		"user": {
+			"id": 3225907891,
+			"id_str": "3225907891",
+			"name": "신도시",
+			"screen_name": "seendosi",
+			"location": "서울시 중구 수표동 11-2, 5층",
+			"description": "맥주.양주.커피.식사 /송년회•신년회•돌잔치•회갑연•상견례•생일연•피로연회석완비 /서울시 중구 수표동 11-2 5층 /평일 6PM-2AM /금 6PM-3AM /토 3PM-3AM /일 휴무 /070-8631-4557",
+			"url": "https://t.co/o9mzPvptV6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o9mzPvptV6",
+							"expanded_url": "http://seendosi.com",
+							"display_url": "seendosi.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3920,
+			"friends_count": 688,
+			"listed_count": 28,
+			"created_at": "Mon May 25 05:15:01 +0000 2015",
+			"favourites_count": 2918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7882,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3225907891/1442843307",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "한국문화예술 위원회의 청년예술가 해외진출지원\n사업에 선정된 신도시의 2020-2021프로젝트\nTW-KOR OUTERNATIONAL 2020 의 스트리밍 공연 시리즈 입니다. 각일 공지된 시간에 신도시(seendosi)\n유튜브 채널에서 공개 됩니다.\n⠀\ninstagram @tw.kor.outernational2020\n⠀\n후원:한국문화예술위원회"
+	},
+	{
+		"created_at": "Thu Feb 25 12:11:21 +0000 2021",
+		"id": 1364902542006657000,
+		"id_str": "1364910856170053634",
+		"full_text": "2월 28일 일요일 오후 4시\n4PM, Sunday, 28, February, 2021\n⠀\n한국 - 식칼, 댄스랙스(by seendosi x PDH)  \n⠀\n대만-Dino, Jyun-Ao Caesar, Gam Zuei,\nBei San Q Nan (by Chiachun Xu)\n⠀\n⠀",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1364902538915369000,
+		"in_reply_to_status_id_str": "1364902538915368962",
+		"in_reply_to_user_id": 3225907891,
+		"in_reply_to_user_id_str": "3225907891",
+		"in_reply_to_screen_name": "seendosi",
+		"user": {
+			"id": 3225907891,
+			"id_str": "3225907891",
+			"name": "신도시",
+			"screen_name": "seendosi",
+			"location": "서울시 중구 수표동 11-2, 5층",
+			"description": "맥주.양주.커피.식사 /송년회•신년회•돌잔치•회갑연•상견례•생일연•피로연회석완비 /서울시 중구 수표동 11-2 5층 /평일 6PM-2AM /금 6PM-3AM /토 3PM-3AM /일 휴무 /070-8631-4557",
+			"url": "https://t.co/o9mzPvptV6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o9mzPvptV6",
+							"expanded_url": "http://seendosi.com",
+							"display_url": "seendosi.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3920,
+			"friends_count": 688,
+			"listed_count": 28,
+			"created_at": "Mon May 25 05:15:01 +0000 2015",
+			"favourites_count": 2918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7882,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3225907891/1442843307",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "2월 28일 일요일 오후 4시\n4PM, Sunday, 28, February, 2021\n⠀\n한국 - 식칼, 댄스랙스(by seendosi x PDH)  \n⠀\n대만-Dino, Jyun-Ao Caesar, Gam Zuei,\nBei San Q Nan (by Chiachun Xu)\n⠀\n⠀"
+	},
+	{
+		"created_at": "Thu Feb 25 12:11:17 +0000 2021",
+		"id": 1364902538915369000,
+		"id_str": "1364910838910443522",
+		"full_text": "TW-KR OUTER-NATIONAL 2020\n스트리밍 시리즈\n@ seendosi 유튜브 채널\n\n2월 27일 토요일 오후 7시\n7PM, Saturday, 27, February, 2021\n⠀\n한국 - THSS, 유기농맥주 (by seendosi x PDH) \n⠀\n대만 - Mong Tong, Dope Purple(by Wang Chikuang, Senko Issha) https://t.co/33g1gerRHJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1364902514307391500,
+					"id_str": "1364902514307391488",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1364902514307391488/pu/img/Rl4yTkz-V39qsTss.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1364902514307391488/pu/img/Rl4yTkz-V39qsTss.jpg",
+					"url": "https://t.co/33g1gerRHJ",
+					"display_url": "pic.twitter.com/33g1gerRHJ",
+					"expanded_url": "https://twitter.com/seendosi/status/1364902538915368962/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1364902514307391500,
+					"id_str": "1364902514307391488",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1364902514307391488/pu/img/Rl4yTkz-V39qsTss.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1364902514307391488/pu/img/Rl4yTkz-V39qsTss.jpg",
+					"url": "https://t.co/33g1gerRHJ",
+					"display_url": "pic.twitter.com/33g1gerRHJ",
+					"expanded_url": "https://twitter.com/seendosi/status/1364902538915368962/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 5500,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1364902514307391488/pu/vid/480x480/94C1vgw-hfF3zwFQ.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1364902514307391488/pu/vid/720x720/TsCBf7SEWBrw0WZZ.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1364902514307391488/pu/vid/320x320/Vkv35bGjZvIMy2pC.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1364902514307391488/pu/pl/tyY2nOO4FZ-gCWV_.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3225907891,
+			"id_str": "3225907891",
+			"name": "신도시",
+			"screen_name": "seendosi",
+			"location": "서울시 중구 수표동 11-2, 5층",
+			"description": "맥주.양주.커피.식사 /송년회•신년회•돌잔치•회갑연•상견례•생일연•피로연회석완비 /서울시 중구 수표동 11-2 5층 /평일 6PM-2AM /금 6PM-3AM /토 3PM-3AM /일 휴무 /070-8631-4557",
+			"url": "https://t.co/o9mzPvptV6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o9mzPvptV6",
+							"expanded_url": "http://seendosi.com",
+							"display_url": "seendosi.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3920,
+			"friends_count": 688,
+			"listed_count": 28,
+			"created_at": "Mon May 25 05:15:01 +0000 2015",
+			"favourites_count": 2918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7882,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3225907891/1442843307",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TW-KR OUTER-NATIONAL 2020\n스트리밍 시리즈\n@ seendosi 유튜브 채널\n\n2월 27일 토요일 오후 7시\n7PM, Saturday, 27, February, 2021\n⠀\n한국 - THSS, 유기농맥주 (by seendosi x PDH) \n⠀\n대만 - Mong Tong, Dope Purple(by Wang Chikuang, Senko Issha) https://t.co/33g1gerRHJ"
+	},
+	{
 		"created_at": "Thu Feb 25 11:11:17 +0000 2021",
 		"id": 1364889386215559200,
 		"id_str": "1364895738283651073",
