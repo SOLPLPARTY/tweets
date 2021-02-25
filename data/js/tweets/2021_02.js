@@ -1,6 +1,146 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 25 02:19:58 +0000 2021",
+		"id": 1364762031111475200,
+		"id_str": "1364762031111475200",
+		"full_text": "#씬디티켓라운지 #xindieticket\n[씬디's 플레이리스트] 2월 \"걷는게 좋아지는 음악들\" by 'ㄱ대건'\nhttps://t.co/h0poxp171p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "씬디티켓라운지",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "xindieticket",
+					"indices": [
+						9,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h0poxp171p",
+					"expanded_url": "https://bit.ly/3aR7K31",
+					"display_url": "bit.ly/3aR7K31",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 448,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#씬디티켓라운지 #xindieticket\n[씬디's 플레이리스트] 2월 \"걷는게 좋아지는 음악들\" by 'ㄱ대건'\nhttps://t.co/h0poxp171p"
+	},
+	{
 		"created_at": "Thu Feb 25 02:02:59 +0000 2021",
 		"id": 1364757755752566800,
 		"id_str": "1364757755752566786",
@@ -284,7 +424,7 @@ Grailbird.data.tweets_2021_02 =
 		"created_at": "Thu Feb 25 01:57:58 +0000 2021",
 		"id": 1364756493808066600,
 		"id_str": "1364756493808066562",
-		"full_text": "#온스테이지 #ONSTAGE\n[온스테이지2.0] DeVita - Let u in(DeVita solo)​\nhttps://t.co/LiIv5Wsb48",
+		"full_text": "#온스테이지 #ONSTAGE\n[온스테이지2.0] DeVita - Let u in(DeVita solo)\nhttps://t.co/LiIv5Wsb48",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -418,7 +558,7 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#온스테이지 #ONSTAGE\n[온스테이지2.0] DeVita - Let u in(DeVita solo)​\nhttps://t.co/LiIv5Wsb48"
+		"text": "#온스테이지 #ONSTAGE\n[온스테이지2.0] DeVita - Let u in(DeVita solo)\nhttps://t.co/LiIv5Wsb48"
 	},
 	{
 		"created_at": "Thu Feb 25 01:32:33 +0000 2021",
@@ -599,7 +739,7 @@ Grailbird.data.tweets_2021_02 =
 		"created_at": "Thu Feb 25 01:29:29 +0000 2021",
 		"id": 1364749144091357200,
 		"id_str": "1364749324794609665",
-		"full_text": "[#HBD] Happy Birth Day🤎\n\n자우림의 베이시스트 김진만님의 생일입니다!\n생일을 진심으로 축하드립니다🧚‍♂️🧚‍♂️🧚‍♂️\n\n#자우림 #김진만 https://t.co/7KjnPKX7VL",
+		"full_text": "[#HBD] Happy Birth Day🤎\n\n자우림의 베이시스트 김진만님의 생일입니다!\n생일을 진심으로 축하드립니다🧚♂️🧚♂️🧚♂️\n\n#자우림 #김진만 https://t.co/7KjnPKX7VL",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -789,7 +929,7 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#HBD] Happy Birth Day🤎\n\n자우림의 베이시스트 김진만님의 생일입니다!\n생일을 진심으로 축하드립니다🧚‍♂️🧚‍♂️🧚‍♂️\n\n#자우림 #김진만 https://t.co/7KjnPKX7VL"
+		"text": "[#HBD] Happy Birth Day🤎\n\n자우림의 베이시스트 김진만님의 생일입니다!\n생일을 진심으로 축하드립니다🧚♂️🧚♂️🧚♂️\n\n#자우림 #김진만 https://t.co/7KjnPKX7VL"
 	},
 	{
 		"created_at": "Thu Feb 25 01:11:17 +0000 2021",
