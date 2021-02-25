@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 25 07:29:25 +0000 2021",
+		"id": 1364839402724204500,
+		"id_str": "1364839903511592960",
+		"full_text": "오늘 저녁9시 빌리카터 유튜브채널에서 만나요👋👋👋\n\nhttps://t.co/LhowUPMzeS https://t.co/uuHokKqV32",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LhowUPMzeS",
+					"expanded_url": "https://youtube.com/c/BLYCTR",
+					"display_url": "youtube.com/c/BLYCTR",
+					"indices": [
+						29,
+						52
+					]
+				},
+				{
+					"url": "https://t.co/uuHokKqV32",
+					"expanded_url": "https://twitter.com/billy_carter_/status/1364467542245343232",
+					"display_url": "twitter.com/billy_carter_/…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3399,
+			"friends_count": 1304,
+			"listed_count": 104,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 5320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1364467542245343200,
+		"quoted_status_id_str": "1364467542245343232",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uuHokKqV32",
+			"expanded": "https://twitter.com/billy_carter_/status/1364467542245343232",
+			"display": "twitter.com/billy_carter_/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 24 06:49:47 +0000 2021",
+			"id": 1364467542245343200,
+			"id_str": "1364467542245343232",
+			"full_text": "빌리카터 온라인 미니콘서트\n⭐️Dark Side of the 합주실⭐️\n내일 2월 25일 오후 9시\n빌리카터의 유튜브채널 \nhttps://t.co/IrYhgIG7AF\n스트리밍 방송 후 폭파💥\n멤버들도 채팅 참여합니다💜\n\n #빌리카터 #비대면공연 #온라인콘서트 https://t.co/fSzxR1UIBi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				144
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "빌리카터",
+						"indices": [
+							124,
+							129
+						]
+					},
+					{
+						"text": "비대면공연",
+						"indices": [
+							130,
+							136
+						]
+					},
+					{
+						"text": "온라인콘서트",
+						"indices": [
+							137,
+							144
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IrYhgIG7AF",
+						"expanded_url": "http://youtube.com/blyctr",
+						"display_url": "youtube.com/blyctr",
+						"indices": [
+							69,
+							92
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1364467473697792000,
+						"id_str": "1364467473697792002",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1364467473697792002/pu/img/1VS992iolUxM4-6T.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1364467473697792002/pu/img/1VS992iolUxM4-6T.jpg",
+						"url": "https://t.co/fSzxR1UIBi",
+						"display_url": "pic.twitter.com/fSzxR1UIBi",
+						"expanded_url": "https://twitter.com/billy_carter_/status/1364467542245343232/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 852,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 852,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1364467473697792000,
+						"id_str": "1364467473697792002",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1364467473697792002/pu/img/1VS992iolUxM4-6T.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1364467473697792002/pu/img/1VS992iolUxM4-6T.jpg",
+						"url": "https://t.co/fSzxR1UIBi",
+						"display_url": "pic.twitter.com/fSzxR1UIBi",
+						"expanded_url": "https://twitter.com/billy_carter_/status/1364467542245343232/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 852,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 852,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								71,
+								40
+							],
+							"duration_millis": 19000,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1364467473697792002/pu/pl/YVGbD88My8z5ZgTG.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1364467473697792002/pu/vid/638x360/FnYEuIyrlLuVI2BA.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1364467473697792002/pu/vid/478x270/PL_da188sgtZdUsa.mp4?tag=10"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1364467473697792002/pu/vid/852x480/wq7BdS9sVTGQ62_w.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 372242250,
+				"id_str": "372242250",
+				"name": "Billy Carter 빌리카터",
+				"screen_name": "billy_carter_",
+				"location": "",
+				"description": "Two singing guitaring dancing and jumping girls from Seoul - We're gonna fuck you with our music and you'll get pregnant!",
+				"url": "https://t.co/pY6LGLq0eW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pY6LGLq0eW",
+								"expanded_url": "http://www.facebook.com/blyctr",
+								"display_url": "facebook.com/blyctr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1064,
+				"friends_count": 722,
+				"listed_count": 18,
+				"created_at": "Mon Sep 12 12:15:38 +0000 2011",
+				"favourites_count": 2573,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2998,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1307702922398949384/uv4ZKIFQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1307702922398949384/uv4ZKIFQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/372242250/1597920828",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 저녁9시 빌리카터 유튜브채널에서 만나요👋👋👋\n\nhttps://t.co/LhowUPMzeS https://t.co/uuHokKqV32"
+	},
+	{
 		"created_at": "Thu Feb 25 07:11:30 +0000 2021",
 		"id": 1364831521622818800,
 		"id_str": "1364835395314278408",
