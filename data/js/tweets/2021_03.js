@@ -1,6 +1,359 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Thu Mar 04 12:24:13 +0000 2021",
+		"id": 1367448151884361700,
+		"id_str": "1367450808065789954",
+		"full_text": "❝ 그 외 공연장은 음료나 주류 등 판매가 가능하려면 공연 목적의 공간이라도 '일반음식점'으로 등록해야 하는 제도에 따라 일반음식점으로 등록된다. 특히, 홍대 일대 '라이브 클럽'으로 불리는 공연장은 음료, 주류 판매를 함께 하는 만큼, 대부분 일반음식점으로 등록돼 있다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1367448149694967800,
+		"in_reply_to_status_id_str": "1367448149694967808",
+		"in_reply_to_user_id": 778313051929911300,
+		"in_reply_to_user_id_str": "778313051929911296",
+		"in_reply_to_screen_name": "ArtManagementKR",
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "문화예술과 관련된 정보를 제공해드립니다.\n\n#예술경영 #뮤직비즈니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업",
+			"url": "https://t.co/hGE8N4Kde4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hGE8N4Kde4",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 476,
+			"friends_count": 57,
+			"listed_count": 4,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1586084627",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "❝ 그 외 공연장은 음료나 주류 등 판매가 가능하려면 공연 목적의 공간이라도 '일반음식점'으로 등록해야 하는 제도에 따라 일반음식점으로 등록된다. 특히, 홍대 일대 '라이브 클럽'으로 불리는 공연장은 음료, 주류 판매를 함께 하는 만큼, 대부분 일반음식점으로 등록돼 있다."
+	},
+	{
+		"created_at": "Thu Mar 04 12:24:10 +0000 2021",
+		"id": 1367448149694967800,
+		"id_str": "1367450794266480645",
+		"full_text": "❝ 3일 마포구청 관계자는 일반음식점으로 등록된 마포구내 공연장 두 곳에 27일 강제한 행정조처와 관련한 질문에 \"세종문화회관 같은 곳이 공연장\"이라며 \"일반음식점에서 하는 칠순잔치 같은 건 코로나19 전에야 그냥 넘어갔던 거지, 코로나19 이후에는 당연히 안 되는 것 아니겠냐\"고 답변했다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1367442557601415200,
+		"in_reply_to_status_id_str": "1367442557601415173",
+		"in_reply_to_user_id": 778313051929911300,
+		"in_reply_to_user_id_str": "778313051929911296",
+		"in_reply_to_screen_name": "ArtManagementKR",
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "문화예술과 관련된 정보를 제공해드립니다.\n\n#예술경영 #뮤직비즈니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업",
+			"url": "https://t.co/hGE8N4Kde4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hGE8N4Kde4",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 476,
+			"friends_count": 57,
+			"listed_count": 4,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1586084627",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "❝ 3일 마포구청 관계자는 일반음식점으로 등록된 마포구내 공연장 두 곳에 27일 강제한 행정조처와 관련한 질문에 \"세종문화회관 같은 곳이 공연장\"이라며 \"일반음식점에서 하는 칠순잔치 같은 건 코로나19 전에야 그냥 넘어갔던 거지, 코로나19 이후에는 당연히 안 되는 것 아니겠냐\"고 답변했다."
+	},
+	{
+		"created_at": "Thu Mar 04 12:23:42 +0000 2021",
+		"id": 1367442825256738800,
+		"id_str": "1367450679090941953",
+		"full_text": "[두 번 우는 라이브클럽②] 현실 따로, 규제 따로...˝어느 장단에 춤추나' \nhttps://t.co/amZgXaCZDV \n\n#라이브클럽 #공연장 #공연 #홍대문화 \n#문화체육관광부 #문체부 #방역대책 #뮤직비즈니스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라이브클럽",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "공연장",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "홍대문화",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "문화체육관광부",
+					"indices": [
+						94,
+						102
+					]
+				},
+				{
+					"text": "문체부",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "방역대책",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "뮤직비즈니스",
+					"indices": [
+						114,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/amZgXaCZDV",
+					"expanded_url": "http://www.popcornnews.net/sub_read.html?uid=28123",
+					"display_url": "popcornnews.net/sub_read.html?…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1367442557601415200,
+		"in_reply_to_status_id_str": "1367442557601415173",
+		"in_reply_to_user_id": 778313051929911300,
+		"in_reply_to_user_id_str": "778313051929911296",
+		"in_reply_to_screen_name": "ArtManagementKR",
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "문화예술과 관련된 정보를 제공해드립니다.\n\n#예술경영 #뮤직비즈니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업",
+			"url": "https://t.co/hGE8N4Kde4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hGE8N4Kde4",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 476,
+			"friends_count": 57,
+			"listed_count": 4,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1586084627",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[두 번 우는 라이브클럽②] 현실 따로, 규제 따로...˝어느 장단에 춤추나' \nhttps://t.co/amZgXaCZDV \n\n#라이브클럽 #공연장 #공연 #홍대문화 \n#문화체육관광부 #문체부 #방역대책 #뮤직비즈니스"
+	},
+	{
 		"created_at": "Thu Mar 04 11:11:26 +0000 2021",
 		"id": 1367432491439636500,
 		"id_str": "1367432491439636480",
