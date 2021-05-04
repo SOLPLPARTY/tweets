@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 04 17:29:44 +0000 2021",
+		"id": 1389573550307152000,
+		"id_str": "1389633356220964868",
+		"full_text": "New York City's Music Festival is back.\n@Citibank presale for all tickets available now. General onsale starts Thursday, 5/6 at 12pm ET. #govballnyc https://t.co/QyutdUm7Fw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "govballnyc",
+					"indices": [
+						137,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Citibank",
+					"name": "Citibank",
+					"id": 80374332,
+					"id_str": "80374332",
+					"indices": [
+						40,
+						49
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1389563324946391000,
+					"id_str": "1389563324946391044",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/E0i4e1hXIAQNPGS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0i4e1hXIAQNPGS.jpg",
+					"url": "https://t.co/QyutdUm7Fw",
+					"display_url": "pic.twitter.com/QyutdUm7Fw",
+					"expanded_url": "https://twitter.com/GovBallNYC/status/1389573550307151880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 563,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 993,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1305,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1389563324946391000,
+					"id_str": "1389563324946391044",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/E0i4e1hXIAQNPGS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0i4e1hXIAQNPGS.jpg",
+					"url": "https://t.co/QyutdUm7Fw",
+					"display_url": "pic.twitter.com/QyutdUm7Fw",
+					"expanded_url": "https://twitter.com/GovBallNYC/status/1389573550307151880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 563,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 993,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1305,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 241426680,
+			"id_str": "241426680",
+			"name": "The Governors Ball",
+			"screen_name": "GovBallNYC",
+			"location": "New York, NY",
+			"description": "September 24-26, 2021\n#govballnyc",
+			"url": "https://t.co/eJaF9nOLqs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eJaF9nOLqs",
+							"expanded_url": "http://govball.com",
+							"display_url": "govball.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56297,
+			"friends_count": 2,
+			"listed_count": 585,
+			"created_at": "Sat Jan 22 06:38:37 +0000 2011",
+			"favourites_count": 10744,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 22954,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349381003207462913/8V7NZ4yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349381003207462913/8V7NZ4yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/241426680/1610552477",
+			"profile_link_color": "EC781F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F8F8F8",
+			"profile_text_color": "232323",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 803,
+		"favorite_count": 8872,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New York City's Music Festival is back.\n@Citibank presale for all tickets available now. General onsale starts Thursday, 5/6 at 12pm ET. #govballnyc https://t.co/QyutdUm7Fw"
+	},
+	{
 		"created_at": "Tue May 04 17:16:23 +0000 2021",
 		"id": 1389555481325097000,
 		"id_str": "1389629996864471040",
