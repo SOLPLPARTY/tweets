@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 08 11:55:25 +0000 2021",
+		"id": 1389630919657545700,
+		"id_str": "1390998770519740419",
+		"full_text": "The @flippedcoinm Showcase from #SXSW Online is now available to watch on YouTube! Catch performances by some groundbreaking Korean artists @tenggerland, @arlynmon, @haepaary, and @threedsex ▶️ https://t.co/FdOeYSfCiO https://t.co/vkNotkJymA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SXSW",
+					"indices": [
+						32,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "flippedcoinm",
+					"name": "flippedcoinmusic",
+					"id": 1354376069487333400,
+					"id_str": "1354376069487333378",
+					"indices": [
+						4,
+						17
+					]
+				},
+				{
+					"screen_name": "tenggerland",
+					"name": "TENGGER",
+					"id": 3038297282,
+					"id_str": "3038297282",
+					"indices": [
+						140,
+						152
+					]
+				},
+				{
+					"screen_name": "arlynmon",
+					"name": "애리 (AIRY)",
+					"id": 153865745,
+					"id_str": "153865745",
+					"indices": [
+						154,
+						163
+					]
+				},
+				{
+					"screen_name": "haepaary",
+					"name": "HAEPAARY",
+					"id": 1237531471998374000,
+					"id_str": "1237531471998373888",
+					"indices": [
+						165,
+						174
+					]
+				},
+				{
+					"screen_name": "threedsex",
+					"name": "Y2K92",
+					"id": 28753598,
+					"id_str": "28753598",
+					"indices": [
+						180,
+						190
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FdOeYSfCiO",
+					"expanded_url": "http://ow.ly/mQh650EEwat",
+					"display_url": "ow.ly/mQh650EEwat",
+					"indices": [
+						194,
+						217
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1389629694094581800,
+					"id_str": "1389629694094581764",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1389629694094581764/pu/img/I8QezJz3jYJksnw3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1389629694094581764/pu/img/I8QezJz3jYJksnw3.jpg",
+					"url": "https://t.co/vkNotkJymA",
+					"display_url": "pic.twitter.com/vkNotkJymA",
+					"expanded_url": "https://twitter.com/sxsw/status/1389630919657545728/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1389629694094581800,
+					"id_str": "1389629694094581764",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1389629694094581764/pu/img/I8QezJz3jYJksnw3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1389629694094581764/pu/img/I8QezJz3jYJksnw3.jpg",
+					"url": "https://t.co/vkNotkJymA",
+					"display_url": "pic.twitter.com/vkNotkJymA",
+					"expanded_url": "https://twitter.com/sxsw/status/1389630919657545728/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15015,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1389629694094581764/pu/vid/480x270/aliPtIRe9ghmFlO3.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1389629694094581764/pu/vid/1280x720/riOEG2Lo_4ueJ2pk.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1389629694094581764/pu/vid/640x360/aFb8cwlpGaJuqdpM.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1389629694094581764/pu/pl/Ym7KC9p3WGLJHKRi.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 784304,
+			"id_str": "784304",
+			"name": "SXSW",
+			"screen_name": "sxsw",
+			"location": "Austin, TX",
+			"description": "SXSW Conference & Festivals | SXSW Online March 16-20, 2021",
+			"url": "http://t.co/WkBxRez7pi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/WkBxRez7pi",
+							"expanded_url": "http://sxsw.com",
+							"display_url": "sxsw.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 649581,
+			"friends_count": 11374,
+			"listed_count": 14310,
+			"created_at": "Tue Feb 20 20:39:13 +0000 2007",
+			"favourites_count": 5726,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 36090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1308439562876792833/hTeb9hU__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1308439562876792833/hTeb9hU__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/784304/1600791277",
+			"profile_link_color": "FCC42D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "343434",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The @flippedcoinm Showcase from #SXSW Online is now available to watch on YouTube! Catch performances by some groundbreaking Korean artists @tenggerland, @arlynmon, @haepaary, and @threedsex ▶️ https://t.co/FdOeYSfCiO https://t.co/vkNotkJymA"
+	},
+	{
 		"created_at": "Sat May 08 09:42:02 +0000 2021",
 		"id": 1390965203878039600,
 		"id_str": "1390965203878039552",
