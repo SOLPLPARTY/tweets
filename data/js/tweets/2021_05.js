@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Wed May 12 12:12:01 +0000 2021",
+		"id": 1392452500712788000,
+		"id_str": "1392452500712787971",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n두아 리파 (Dua Lipa) - Future Nostalgia Medley 가사 번역 라이브\nhttps://t.co/xnL71zbfTO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xnL71zbfTO",
+					"expanded_url": "https://youtu.be/RNi13-M3t0s",
+					"display_url": "youtu.be/RNi13-M3t0s",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 260,
+			"friends_count": 456,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69445,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n두아 리파 (Dua Lipa) - Future Nostalgia Medley 가사 번역 라이브\nhttps://t.co/xnL71zbfTO"
+	},
+	{
+		"created_at": "Wed May 12 11:54:34 +0000 2021",
+		"id": 1390229989274968000,
+		"id_str": "1392448108454313990",
+		"full_text": "[AZIT LIVE PREMIUM ON-AIR]\n극장에서 상영되었던 새소년의 AZIT LIVE PREMIUM이 ‘AZIT LIVE’ YouTube에서 5월 12일 9PM 단 한 번, ON-AIR 됩니다.\n#새소년 #SESONEON #AZITLIVE #아지트라이브프리미엄 https://t.co/LqzdA6trKo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "새소년",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "SESONEON",
+					"indices": [
+						119,
+						128
+					]
+				},
+				{
+					"text": "AZITLIVE",
+					"indices": [
+						129,
+						138
+					]
+				},
+				{
+					"text": "아지트라이브프리미엄",
+					"indices": [
+						139,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1390226112177868800,
+					"id_str": "1390226112177868801",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1390226112177868801/pu/img/qGPWRxf1Z7rHFRlO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1390226112177868801/pu/img/qGPWRxf1Z7rHFRlO.jpg",
+					"url": "https://t.co/LqzdA6trKo",
+					"display_url": "pic.twitter.com/LqzdA6trKo",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1390229989274968075/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 611,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 652,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 346,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1390226112177868800,
+					"id_str": "1390226112177868801",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1390226112177868801/pu/img/qGPWRxf1Z7rHFRlO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1390226112177868801/pu/img/qGPWRxf1Z7rHFRlO.jpg",
+					"url": "https://t.co/LqzdA6trKo",
+					"display_url": "pic.twitter.com/LqzdA6trKo",
+					"expanded_url": "https://twitter.com/se_so_neon/status/1390229989274968075/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 611,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 652,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 346,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							163,
+							320
+						],
+						"duration_millis": 15140,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1390226112177868801/pu/pl/XMFACCwduKz29yd0.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1390226112177868801/pu/vid/480x942/5dDC1yvKhMExpLX3.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1390226112177868801/pu/vid/320x628/FhyGsTYjVp_b-wk3.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1390226112177868801/pu/vid/652x1280/0vZ5P-M3oCkOwzSu.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 718392164741472300,
+			"id_str": "718392164741472256",
+			"name": "새소년 SE SO NEON",
+			"screen_name": "se_so_neon",
+			"location": "대한민국 서울",
+			"description": "세계적인 밴드 새소년 🐤 Band SE SO NEON = Soyoon (v/g) / Usu (dr) / Park Hyunjin (b) new Single “자유(Jayu)\" released on 21.2.5. 6PM KST",
+			"url": "https://t.co/SaQppDidSE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SaQppDidSE",
+							"expanded_url": "http://www.instagram.com/se_so_neon",
+							"display_url": "instagram.com/se_so_neon",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11225,
+			"friends_count": 19,
+			"listed_count": 78,
+			"created_at": "Fri Apr 08 10:56:53 +0000 2016",
+			"favourites_count": 147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230785072812314625/frCUDIe2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230785072812314625/frCUDIe2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718392164741472256/1611921259",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 190,
+		"favorite_count": 271,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[AZIT LIVE PREMIUM ON-AIR]\n극장에서 상영되었던 새소년의 AZIT LIVE PREMIUM이 ‘AZIT LIVE’ YouTube에서 5월 12일 9PM 단 한 번, ON-AIR 됩니다.\n#새소년 #SESONEON #AZITLIVE #아지트라이브프리미엄 https://t.co/LqzdA6trKo"
+	},
+	{
 		"created_at": "Wed May 12 10:14:53 +0000 2021",
 		"id": 1392423024624906200,
 		"id_str": "1392423024624906241",
