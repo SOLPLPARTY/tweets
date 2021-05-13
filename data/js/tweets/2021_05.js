@@ -1,6 +1,473 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 13 06:16:47 +0000 2021",
+		"id": 1392723891387134000,
+		"id_str": "1392725491644174338",
+		"full_text": "제도권금융회사라고 하더라도 안전성을 보장하지 않으며 위험이 있고 악질회사일 수 있으므로 반드시 사전에 꼼꼼히 조사하십시오. 투자의 책임은 본인에게 있습니다. 쉽게 돈을 버는 방법은 존재하지 않습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1392723889692676000,
+		"in_reply_to_status_id_str": "1392723889692676100",
+		"in_reply_to_user_id": 1252910486435164200,
+		"in_reply_to_user_id_str": "1252910486435164161",
+		"in_reply_to_screen_name": "AmblerKR",
+		"user": {
+			"id": 1252910486435164200,
+			"id_str": "1252910486435164161",
+			"name": "Ambler",
+			"screen_name": "AmblerKR",
+			"location": "ambler@ambler.kr",
+			"description": "Product Manager & Marketer\n​\n🤘 Music and Performance Lover. \n⚡ Automation, No-Code, Data Archiving. \n🚀 I support Artists growth. ",
+			"url": "https://t.co/Ewhnensvic",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ewhnensvic",
+							"expanded_url": "http://ambler.kr",
+							"display_url": "ambler.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37,
+			"friends_count": 30,
+			"listed_count": 2,
+			"created_at": "Wed Apr 22 10:42:04 +0000 2020",
+			"favourites_count": 770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269999552225873920/4SpDKr1y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269999552225873920/4SpDKr1y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1252910486435164161/1614407560",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "제도권금융회사라고 하더라도 안전성을 보장하지 않으며 위험이 있고 악질회사일 수 있으므로 반드시 사전에 꼼꼼히 조사하십시오. 투자의 책임은 본인에게 있습니다. 쉽게 돈을 버는 방법은 존재하지 않습니다."
+	},
+	{
+		"created_at": "Thu May 13 06:16:43 +0000 2021",
+		"id": 1392723889692676000,
+		"id_str": "1392725474946609152",
+		"full_text": "금융감독원 소비자정보포탈(https://t.co/vhh8KM5yJV)의 '제도권금융회사' 조회를 통해 합법적인 인허가를 받은 금융회사인지 확인이 가능하오니 향후 금융상품 거래시 유의하십시오. \nhttps://t.co/dm6mqDsyPS \n\n#금융감독원 @fsckorea",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "금융감독원",
+					"indices": [
+						134,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fsckorea",
+					"name": "금융위원회",
+					"id": 112578971,
+					"id_str": "112578971",
+					"indices": [
+						141,
+						150
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vhh8KM5yJV",
+					"expanded_url": "http://fine.fss.or.kr",
+					"display_url": "fine.fss.or.kr",
+					"indices": [
+						14,
+						37
+					]
+				},
+				{
+					"url": "https://t.co/dm6mqDsyPS",
+					"expanded_url": "http://fine.fss.or.kr/main/fin_comp/fincomp_inqui/comsearch01list.jsp",
+					"display_url": "fine.fss.or.kr/main/fin_comp/…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1392723888153317400,
+		"in_reply_to_status_id_str": "1392723888153317386",
+		"in_reply_to_user_id": 1252910486435164200,
+		"in_reply_to_user_id_str": "1252910486435164161",
+		"in_reply_to_screen_name": "AmblerKR",
+		"user": {
+			"id": 1252910486435164200,
+			"id_str": "1252910486435164161",
+			"name": "Ambler",
+			"screen_name": "AmblerKR",
+			"location": "ambler@ambler.kr",
+			"description": "Product Manager & Marketer\n​\n🤘 Music and Performance Lover. \n⚡ Automation, No-Code, Data Archiving. \n🚀 I support Artists growth. ",
+			"url": "https://t.co/Ewhnensvic",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ewhnensvic",
+							"expanded_url": "http://ambler.kr",
+							"display_url": "ambler.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37,
+			"friends_count": 30,
+			"listed_count": 2,
+			"created_at": "Wed Apr 22 10:42:04 +0000 2020",
+			"favourites_count": 770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269999552225873920/4SpDKr1y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269999552225873920/4SpDKr1y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1252910486435164161/1614407560",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "금융감독원 소비자정보포탈(https://t.co/vhh8KM5yJV)의 '제도권금융회사' 조회를 통해 합법적인 인허가를 받은 금융회사인지 확인이 가능하오니 향후 금융상품 거래시 유의하십시오. \nhttps://t.co/dm6mqDsyPS \n\n#금융감독원 @fsckorea"
+	},
+	{
+		"created_at": "Thu May 13 06:16:40 +0000 2021",
+		"id": 1392723888153317400,
+		"id_str": "1392725463475183616",
+		"full_text": "돈 벌게 해준다는 이들의 정체는? 사기 전문 변호사가 조목조목 짚어드림🧐 \nhttps://t.co/Cu4MLpUWDt \n\n폰지사기, 유사수신, 다단계 행위로 피해를 보는 이들이 늘어나고 있습니다. 절대 속지마시고 부모님께 해당 영상을 공유하십시오.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Cu4MLpUWDt",
+					"expanded_url": "https://youtu.be/nDkGsuWingQ",
+					"display_url": "youtu.be/nDkGsuWingQ",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1252910486435164200,
+			"id_str": "1252910486435164161",
+			"name": "Ambler",
+			"screen_name": "AmblerKR",
+			"location": "ambler@ambler.kr",
+			"description": "Product Manager & Marketer\n​\n🤘 Music and Performance Lover. \n⚡ Automation, No-Code, Data Archiving. \n🚀 I support Artists growth. ",
+			"url": "https://t.co/Ewhnensvic",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ewhnensvic",
+							"expanded_url": "http://ambler.kr",
+							"display_url": "ambler.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37,
+			"friends_count": 30,
+			"listed_count": 2,
+			"created_at": "Wed Apr 22 10:42:04 +0000 2020",
+			"favourites_count": 770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269999552225873920/4SpDKr1y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269999552225873920/4SpDKr1y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1252910486435164161/1614407560",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "돈 벌게 해준다는 이들의 정체는? 사기 전문 변호사가 조목조목 짚어드림🧐 \nhttps://t.co/Cu4MLpUWDt \n\n폰지사기, 유사수신, 다단계 행위로 피해를 보는 이들이 늘어나고 있습니다. 절대 속지마시고 부모님께 해당 영상을 공유하십시오."
+	},
+	{
+		"created_at": "Thu May 13 06:16:32 +0000 2021",
+		"id": 1392725369061404700,
+		"id_str": "1392725427492245510",
+		"full_text": "\"트로트 가수 영상 보기만 하면 하루 4만원씩 드립니다\" \nhttps://t.co/PBSvNcZsq3 \n\n#폰지사기 #유사수신 #공연기획사",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "폰지사기",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "유사수신",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "공연기획사",
+					"indices": [
+						71,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PBSvNcZsq3",
+					"expanded_url": "https://n.news.naver.com/article/015/0004545586",
+					"display_url": "n.news.naver.com/article/015/00…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "문화예술과 관련된 정보를 제공해드립니다.\n\n#예술경영 #뮤직비즈니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업",
+			"url": "https://t.co/hGE8N4Kde4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hGE8N4Kde4",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 566,
+			"friends_count": 59,
+			"listed_count": 4,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1586084627",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"트로트 가수 영상 보기만 하면 하루 4만원씩 드립니다\" \nhttps://t.co/PBSvNcZsq3 \n\n#폰지사기 #유사수신 #공연기획사"
+	},
+	{
 		"created_at": "Thu May 13 03:37:33 +0000 2021",
 		"id": 1392685421340020700,
 		"id_str": "1392685421340020736",
