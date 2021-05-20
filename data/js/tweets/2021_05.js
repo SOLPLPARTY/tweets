@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 20 06:24:18 +0000 2021",
+		"id": 1395264099445997600,
+		"id_str": "1395264099445997574",
+		"full_text": "솔플파티는 문제 있는 공연기획사 혹은 레이블 혹은 아티스트에 대한 제보를 받고 있습니다. https://t.co/6PeCI1MfZT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6PeCI1MfZT",
+					"expanded_url": "https://twitter.com/ArtManagementKR/status/1394097073801162755",
+					"display_url": "twitter.com/ArtManagementK…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 456,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1394097073801162800,
+		"quoted_status_id_str": "1394097073801162755",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6PeCI1MfZT",
+			"expanded": "https://twitter.com/ArtManagementKR/status/1394097073801162755",
+			"display": "twitter.com/ArtManagementK…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 17 01:06:58 +0000 2021",
+			"id": 1394097073801162800,
+			"id_str": "1394097073801162755",
+			"full_text": "경찰, '14억 투자금 먹튀' 김승한 그린플러그드 대표 수사 돌입 \nhttps://t.co/heDnn3Gi17 \n\n#그린플러그드 #그플 #페스티벌 #공연기획사 #콘텐츠아이디",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				96
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "그린플러그드",
+						"indices": [
+							64,
+							71
+						]
+					},
+					{
+						"text": "그플",
+						"indices": [
+							72,
+							75
+						]
+					},
+					{
+						"text": "페스티벌",
+						"indices": [
+							76,
+							81
+						]
+					},
+					{
+						"text": "공연기획사",
+						"indices": [
+							82,
+							88
+						]
+					},
+					{
+						"text": "콘텐츠아이디",
+						"indices": [
+							89,
+							96
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/heDnn3Gi17",
+						"expanded_url": "http://www.wolyo.co.kr/news/articleView.html?idxno=118345",
+						"display_url": "wolyo.co.kr/news/articleVi…",
+						"indices": [
+							38,
+							61
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 778313051929911300,
+				"id_str": "778313051929911296",
+				"name": "문화공연예술 정보",
+				"screen_name": "ArtManagementKR",
+				"location": "문의: contact@solplparty.com",
+				"description": "문화예술과 관련된 정보를 제공해드립니다.\n\n#예술경영 #뮤직비즈니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업",
+				"url": "https://t.co/hGE8N4Kde4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hGE8N4Kde4",
+								"expanded_url": "https://culture.solpl.party",
+								"display_url": "culture.solpl.party",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 577,
+				"friends_count": 59,
+				"listed_count": 4,
+				"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+				"favourites_count": 6,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20311,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1586084627",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 104,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "솔플파티는 문제 있는 공연기획사 혹은 레이블 혹은 아티스트에 대한 제보를 받고 있습니다. https://t.co/6PeCI1MfZT"
+	},
+	{
 		"created_at": "Thu May 20 06:01:26 +0000 2021",
 		"id": 1394916249209954300,
 		"id_str": "1395258344164585474",
