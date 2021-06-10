@@ -1,6 +1,4048 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 10 08:02:41 +0000 2021",
+		"id": 1402899003986124800,
+		"id_str": "1402899003986124801",
+		"full_text": "#블루바이닐 #네이버포스트 #Concert_Special \n블루바이닐을 틀어줘요, 백예린 단독공연의 순간들 \n▶️ https://t.co/GfwAXy0Aqn https://t.co/HHHjgx4cId",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블루바이닐",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "Concert_Special",
+					"indices": [
+						15,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GfwAXy0Aqn",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=27523693&memberNo=47866274&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402899002694189000,
+					"id_str": "1402899002694189057",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gZNcdWQAE1QlM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gZNcdWQAE1QlM.jpg",
+					"url": "https://t.co/HHHjgx4cId",
+					"display_url": "pic.twitter.com/HHHjgx4cId",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402899003986124801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402899002694189000,
+					"id_str": "1402899002694189057",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gZNcdWQAE1QlM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gZNcdWQAE1QlM.jpg",
+					"url": "https://t.co/HHHjgx4cId",
+					"display_url": "pic.twitter.com/HHHjgx4cId",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402899003986124801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 462,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#블루바이닐 #네이버포스트 #Concert_Special \n블루바이닐을 틀어줘요, 백예린 단독공연의 순간들 \n▶️ https://t.co/GfwAXy0Aqn https://t.co/HHHjgx4cId"
+	},
+	{
+		"created_at": "Thu Jun 10 07:45:12 +0000 2021",
+		"id": 1402894600776392700,
+		"id_str": "1402894600776392704",
+		"full_text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n[INTERVIEW]박문치 x Young K– What a Wonderful Word\nhttps://t.co/PYyxLGAlDh\n#Behind_Story #매스사 https://t.co/SW1iObAYb1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MagicStrawberrySound",
+					"indices": [
+						12,
+						33
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"text": "Behind_Story",
+					"indices": [
+						114,
+						127
+					]
+				},
+				{
+					"text": "매스사",
+					"indices": [
+						128,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PYyxLGAlDh",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=30851586&memberNo=838758&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402894598809194500,
+					"id_str": "1402894598809194496",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gVNGtWEAAZRHF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gVNGtWEAAZRHF.jpg",
+					"url": "https://t.co/SW1iObAYb1",
+					"display_url": "pic.twitter.com/SW1iObAYb1",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402894600776392704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 691,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 691,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402894598809194500,
+					"id_str": "1402894598809194496",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gVNGtWEAAZRHF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gVNGtWEAAZRHF.jpg",
+					"url": "https://t.co/SW1iObAYb1",
+					"display_url": "pic.twitter.com/SW1iObAYb1",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402894600776392704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 691,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 691,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 462,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n[INTERVIEW]박문치 x Young K– What a Wonderful Word\nhttps://t.co/PYyxLGAlDh\n#Behind_Story #매스사 https://t.co/SW1iObAYb1"
+	},
+	{
+		"created_at": "Thu Jun 10 07:44:57 +0000 2021",
+		"id": 1402894540172898300,
+		"id_str": "1402894540172898306",
+		"full_text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n음악 회사도 겨울철 대비는 김장으로? &lt;�매스사 김장데이&gt;\nhttps://t.co/3hQBkjcG7S\n#Behind_Story #매스사 https://t.co/1uYGkuaBe9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MagicStrawberrySound",
+					"indices": [
+						12,
+						33
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"text": "Behind_Story",
+					"indices": [
+						105,
+						118
+					]
+				},
+				{
+					"text": "매스사",
+					"indices": [
+						119,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3hQBkjcG7S",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=30091663&memberNo=838758&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402894538943996000,
+					"id_str": "1402894538943995904",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gVJnsXoAAeQ1n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gVJnsXoAAeQ1n.jpg",
+					"url": "https://t.co/1uYGkuaBe9",
+					"display_url": "pic.twitter.com/1uYGkuaBe9",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402894540172898306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402894538943996000,
+					"id_str": "1402894538943995904",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gVJnsXoAAeQ1n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gVJnsXoAAeQ1n.jpg",
+					"url": "https://t.co/1uYGkuaBe9",
+					"display_url": "pic.twitter.com/1uYGkuaBe9",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402894540172898306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 462,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n음악 회사도 겨울철 대비는 김장으로? &lt;�매스사 김장데이&gt;\nhttps://t.co/3hQBkjcG7S\n#Behind_Story #매스사 https://t.co/1uYGkuaBe9"
+	},
+	{
+		"created_at": "Thu Jun 10 07:44:48 +0000 2021",
+		"id": 1402894500834513000,
+		"id_str": "1402894500834512896",
+		"full_text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n온라인 콘서트의 새로운 방향! 10CM https://t.co/6vFdJiVnE9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MagicStrawberrySound",
+					"indices": [
+						12,
+						33
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						34,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1402894499618164700,
+					"id_str": "1402894499618164738",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gVHVMXEAIV92o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gVHVMXEAIV92o.jpg",
+					"url": "https://t.co/6vFdJiVnE9",
+					"display_url": "pic.twitter.com/6vFdJiVnE9",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402894500834512896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 675,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 448,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402894499618164700,
+					"id_str": "1402894499618164738",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gVHVMXEAIV92o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gVHVMXEAIV92o.jpg",
+					"url": "https://t.co/6vFdJiVnE9",
+					"display_url": "pic.twitter.com/6vFdJiVnE9",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402894500834512896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 675,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 448,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 462,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n온라인 콘서트의 새로운 방향! 10CM https://t.co/6vFdJiVnE9"
+	},
+	{
+		"created_at": "Thu Jun 10 07:44:35 +0000 2021",
+		"id": 1402894449252913200,
+		"id_str": "1402894449252913154",
+		"full_text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n단발요정 최정윤의 스타일리시한 일상 사진 엿보기!\nhttps://t.co/cCgFyuVqrY\n#Behind_Story #매스사 https://t.co/7nHBIpFrWg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MagicStrawberrySound",
+					"indices": [
+						12,
+						33
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"text": "Behind_Story",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"text": "매스사",
+					"indices": [
+						108,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cCgFyuVqrY",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=29132485&memberNo=838758&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402894446522417200,
+					"id_str": "1402894446522417152",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gVEPZWQAAwAd6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gVEPZWQAAwAd6.jpg",
+					"url": "https://t.co/7nHBIpFrWg",
+					"display_url": "pic.twitter.com/7nHBIpFrWg",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402894449252913154/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402894446522417200,
+					"id_str": "1402894446522417152",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gVEPZWQAAwAd6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gVEPZWQAAwAd6.jpg",
+					"url": "https://t.co/7nHBIpFrWg",
+					"display_url": "pic.twitter.com/7nHBIpFrWg",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402894449252913154/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 462,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n단발요정 최정윤의 스타일리시한 일상 사진 엿보기!\nhttps://t.co/cCgFyuVqrY\n#Behind_Story #매스사 https://t.co/7nHBIpFrWg"
+	},
+	{
+		"created_at": "Thu Jun 10 07:44:23 +0000 2021",
+		"id": 1402894396757057500,
+		"id_str": "1402894396757057536",
+		"full_text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n[2020 ½] #2 오핑(Offing) \"메일이 도착했습니다.\"\nhttps://t.co/E1bGp4K8kv\n#Behind_Story #매스사 https://t.co/N584h2Q2Ri",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MagicStrawberrySound",
+					"indices": [
+						12,
+						33
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"text": "Behind_Story",
+					"indices": [
+						103,
+						116
+					]
+				},
+				{
+					"text": "매스사",
+					"indices": [
+						117,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E1bGp4K8kv",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=28941763&memberNo=838758&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402894395683246000,
+					"id_str": "1402894395683246081",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gVBSAWEAETpFz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gVBSAWEAETpFz.jpg",
+					"url": "https://t.co/N584h2Q2Ri",
+					"display_url": "pic.twitter.com/N584h2Q2Ri",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402894396757057536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 420,
+							"h": 592,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 592,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 592,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402894395683246000,
+					"id_str": "1402894395683246081",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gVBSAWEAETpFz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gVBSAWEAETpFz.jpg",
+					"url": "https://t.co/N584h2Q2Ri",
+					"display_url": "pic.twitter.com/N584h2Q2Ri",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402894396757057536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 420,
+							"h": 592,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 592,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 592,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 462,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n[2020 ½] #2 오핑(Offing) \"메일이 도착했습니다.\"\nhttps://t.co/E1bGp4K8kv\n#Behind_Story #매스사 https://t.co/N584h2Q2Ri"
+	},
+	{
+		"created_at": "Thu Jun 10 07:44:15 +0000 2021",
+		"id": 1402894365408780300,
+		"id_str": "1402894365408780291",
+		"full_text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n[2020 ½] #2 윤지영 \"메일이 도착했습니다.\"\nhttps://t.co/1xDqRE4HC8\n#Behind_Story #매스사 https://t.co/g9c7Espod1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MagicStrawberrySound",
+					"indices": [
+						12,
+						33
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"text": "Behind_Story",
+					"indices": [
+						96,
+						109
+					]
+				},
+				{
+					"text": "매스사",
+					"indices": [
+						110,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1xDqRE4HC8",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=28941740&memberNo=838758&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402894364213403600,
+					"id_str": "1402894364213403648",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gU_cxWYAAibpF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gU_cxWYAAibpF.jpg",
+					"url": "https://t.co/g9c7Espod1",
+					"display_url": "pic.twitter.com/g9c7Espod1",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402894365408780291/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 420,
+							"h": 592,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 592,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 592,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402894364213403600,
+					"id_str": "1402894364213403648",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gU_cxWYAAibpF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gU_cxWYAAibpF.jpg",
+					"url": "https://t.co/g9c7Espod1",
+					"display_url": "pic.twitter.com/g9c7Espod1",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402894365408780291/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 420,
+							"h": 592,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 592,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 592,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 462,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n[2020 ½] #2 윤지영 \"메일이 도착했습니다.\"\nhttps://t.co/1xDqRE4HC8\n#Behind_Story #매스사 https://t.co/g9c7Espod1"
+	},
+	{
+		"created_at": "Thu Jun 10 07:44:07 +0000 2021",
+		"id": 1402894331300696000,
+		"id_str": "1402894331300696064",
+		"full_text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n[2020 ½] #1 김수영 \"두번째 메일이 도착했습니다.\"\nhttps://t.co/NFM1jFKmX7\n#Behind_Story #매스사 https://t.co/URvx2qbOZt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MagicStrawberrySound",
+					"indices": [
+						12,
+						33
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"text": "Behind_Story",
+					"indices": [
+						100,
+						113
+					]
+				},
+				{
+					"text": "매스사",
+					"indices": [
+						114,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NFM1jFKmX7",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=28954628&memberNo=838758&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402894330059182000,
+					"id_str": "1402894330059182080",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gU9diWUAAWyzU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gU9diWUAAWyzU.jpg",
+					"url": "https://t.co/URvx2qbOZt",
+					"display_url": "pic.twitter.com/URvx2qbOZt",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402894331300696064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402894330059182000,
+					"id_str": "1402894330059182080",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gU9diWUAAWyzU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gU9diWUAAWyzU.jpg",
+					"url": "https://t.co/URvx2qbOZt",
+					"display_url": "pic.twitter.com/URvx2qbOZt",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402894331300696064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 462,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n[2020 ½] #1 김수영 \"두번째 메일이 도착했습니다.\"\nhttps://t.co/NFM1jFKmX7\n#Behind_Story #매스사 https://t.co/URvx2qbOZt"
+	},
+	{
+		"created_at": "Thu Jun 10 07:44:00 +0000 2021",
+		"id": 1402894300103520300,
+		"id_str": "1402894300103520257",
+		"full_text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n[2020 ½］#1 김수영 \"메일이 도착했습니다.\"\nhttps://t.co/HtgIuWgC0A\n#Behind_Story #매스사 https://t.co/cy2Plj1IZM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MagicStrawberrySound",
+					"indices": [
+						12,
+						33
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"text": "Behind_Story",
+					"indices": [
+						95,
+						108
+					]
+				},
+				{
+					"text": "매스사",
+					"indices": [
+						109,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HtgIuWgC0A",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=28877757&memberNo=838758&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402894298824249300,
+					"id_str": "1402894298824249344",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gU7pLXEAAp20g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gU7pLXEAAp20g.jpg",
+					"url": "https://t.co/cy2Plj1IZM",
+					"display_url": "pic.twitter.com/cy2Plj1IZM",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402894300103520257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402894298824249300,
+					"id_str": "1402894298824249344",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gU7pLXEAAp20g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gU7pLXEAAp20g.jpg",
+					"url": "https://t.co/cy2Plj1IZM",
+					"display_url": "pic.twitter.com/cy2Plj1IZM",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402894300103520257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 462,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n[2020 ½］#1 김수영 \"메일이 도착했습니다.\"\nhttps://t.co/HtgIuWgC0A\n#Behind_Story #매스사 https://t.co/cy2Plj1IZM"
+	},
+	{
+		"created_at": "Thu Jun 10 07:43:52 +0000 2021",
+		"id": 1402894268683927600,
+		"id_str": "1402894268683927555",
+		"full_text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n선우정아는 가발매니아? 각양각색 독특한 헤어스타일 변천사!\nhttps://t.co/K1l97bNxUT\n#Behind_Story #매스사 https://t.co/p87A3C1nyW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MagicStrawberrySound",
+					"indices": [
+						12,
+						33
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"text": "Behind_Story",
+					"indices": [
+						99,
+						112
+					]
+				},
+				{
+					"text": "매스사",
+					"indices": [
+						113,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K1l97bNxUT",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=28510690&memberNo=838758&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402894267853508600,
+					"id_str": "1402894267853508609",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gU51zXEAEaufG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gU51zXEAEaufG.jpg",
+					"url": "https://t.co/p87A3C1nyW",
+					"display_url": "pic.twitter.com/p87A3C1nyW",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402894268683927555/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402894267853508600,
+					"id_str": "1402894267853508609",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gU51zXEAEaufG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gU51zXEAEaufG.jpg",
+					"url": "https://t.co/p87A3C1nyW",
+					"display_url": "pic.twitter.com/p87A3C1nyW",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402894268683927555/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 462,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n선우정아는 가발매니아? 각양각색 독특한 헤어스타일 변천사!\nhttps://t.co/K1l97bNxUT\n#Behind_Story #매스사 https://t.co/p87A3C1nyW"
+	},
+	{
+		"created_at": "Thu Jun 10 07:43:50 +0000 2021",
+		"id": 1402894258366042000,
+		"id_str": "1402894258366042113",
+		"full_text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n온라인으로 즐기는 콘서트, 라인업은 비밀? [Secret Festa] Vol.1\nhttps://t.co/JcNsTCWtR3\n#Behind_Story #매스사 https://t.co/QiVwq2AJL8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MagicStrawberrySound",
+					"indices": [
+						12,
+						33
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"text": "Behind_Story",
+					"indices": [
+						111,
+						124
+					]
+				},
+				{
+					"text": "매스사",
+					"indices": [
+						125,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JcNsTCWtR3",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=27932583&memberNo=838758&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402894257090924500,
+					"id_str": "1402894257090924546",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gU5NtXEAIjK-M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gU5NtXEAIjK-M.jpg",
+					"url": "https://t.co/QiVwq2AJL8",
+					"display_url": "pic.twitter.com/QiVwq2AJL8",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402894258366042113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402894257090924500,
+					"id_str": "1402894257090924546",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gU5NtXEAIjK-M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gU5NtXEAIjK-M.jpg",
+					"url": "https://t.co/QiVwq2AJL8",
+					"display_url": "pic.twitter.com/QiVwq2AJL8",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402894258366042113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 462,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n온라인으로 즐기는 콘서트, 라인업은 비밀? [Secret Festa] Vol.1\nhttps://t.co/JcNsTCWtR3\n#Behind_Story #매스사 https://t.co/QiVwq2AJL8"
+	},
+	{
+		"created_at": "Thu Jun 10 07:43:19 +0000 2021",
+		"id": 1402894128975913000,
+		"id_str": "1402894128975912963",
+		"full_text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n진짜 이래도 되나? 싶은 현실 민수 공개!\nhttps://t.co/lRG0T5Achb\n#Behind_Story #매스사 https://t.co/VxIWlUqB2J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MagicStrawberrySound",
+					"indices": [
+						12,
+						33
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"text": "Behind_Story",
+					"indices": [
+						90,
+						103
+					]
+				},
+				{
+					"text": "매스사",
+					"indices": [
+						104,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lRG0T5Achb",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=27804794&memberNo=838758&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402894128023752700,
+					"id_str": "1402894128023752704",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gUxs5WUAACsrR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gUxs5WUAACsrR.jpg",
+					"url": "https://t.co/VxIWlUqB2J",
+					"display_url": "pic.twitter.com/VxIWlUqB2J",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402894128975912963/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402894128023752700,
+					"id_str": "1402894128023752704",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gUxs5WUAACsrR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gUxs5WUAACsrR.jpg",
+					"url": "https://t.co/VxIWlUqB2J",
+					"display_url": "pic.twitter.com/VxIWlUqB2J",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402894128975912963/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 462,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n진짜 이래도 되나? 싶은 현실 민수 공개!\nhttps://t.co/lRG0T5Achb\n#Behind_Story #매스사 https://t.co/VxIWlUqB2J"
+	},
+	{
+		"created_at": "Thu Jun 10 07:43:15 +0000 2021",
+		"id": 1402894112119005200,
+		"id_str": "1402894112119005184",
+		"full_text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n&lt;�사랑의 불시착&gt; 속 달콤한 목소리, 소수빈 OST 모음!\nhttps://t.co/AHJAJMUITE\n#Behind_Story #매스사 https://t.co/X3mHEsZBm2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MagicStrawberrySound",
+					"indices": [
+						12,
+						33
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"text": "Behind_Story",
+					"indices": [
+						106,
+						119
+					]
+				},
+				{
+					"text": "매스사",
+					"indices": [
+						120,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AHJAJMUITE",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=27416921&memberNo=838758&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402894109979861000,
+					"id_str": "1402894109979860993",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gUwprWYAEppfO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gUwprWYAEppfO.jpg",
+					"url": "https://t.co/X3mHEsZBm2",
+					"display_url": "pic.twitter.com/X3mHEsZBm2",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402894112119005184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402894109979861000,
+					"id_str": "1402894109979860993",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gUwprWYAEppfO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gUwprWYAEppfO.jpg",
+					"url": "https://t.co/X3mHEsZBm2",
+					"display_url": "pic.twitter.com/X3mHEsZBm2",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402894112119005184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 462,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n&lt;�사랑의 불시착&gt; 속 달콤한 목소리, 소수빈 OST 모음!\nhttps://t.co/AHJAJMUITE\n#Behind_Story #매스사 https://t.co/X3mHEsZBm2"
+	},
+	{
+		"created_at": "Thu Jun 10 07:42:39 +0000 2021",
+		"id": 1402893960276758500,
+		"id_str": "1402893960276758529",
+		"full_text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n연말 공연은 역시, 옥상달빛 &lt;�수고했어 올해도&gt;\nhttps://t.co/q6LMm9Y0xc\n#Behind_Story #매스사 https://t.co/0HawHKnpPZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MagicStrawberrySound",
+					"indices": [
+						12,
+						33
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"text": "Behind_Story",
+					"indices": [
+						100,
+						113
+					]
+				},
+				{
+					"text": "매스사",
+					"indices": [
+						114,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q6LMm9Y0xc",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=27384793&memberNo=838758&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402893958951456800,
+					"id_str": "1402893958951456771",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gUn3DX0AMee3u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gUn3DX0AMee3u.jpg",
+					"url": "https://t.co/0HawHKnpPZ",
+					"display_url": "pic.twitter.com/0HawHKnpPZ",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402893960276758529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402893958951456800,
+					"id_str": "1402893958951456771",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gUn3DX0AMee3u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gUn3DX0AMee3u.jpg",
+					"url": "https://t.co/0HawHKnpPZ",
+					"display_url": "pic.twitter.com/0HawHKnpPZ",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402893960276758529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 462,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n연말 공연은 역시, 옥상달빛 &lt;�수고했어 올해도&gt;\nhttps://t.co/q6LMm9Y0xc\n#Behind_Story #매스사 https://t.co/0HawHKnpPZ"
+	},
+	{
+		"created_at": "Thu Jun 10 07:42:23 +0000 2021",
+		"id": 1402893893822201900,
+		"id_str": "1402893893822201856",
+		"full_text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\nTen(10)sion 가득했던 10cm 2019 겨울콘서트 비하인드 인터뷰\nhttps://t.co/sQZ0KwWiJk\n#Behind_Story #매스사 https://t.co/lfeWq3f3LC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MagicStrawberrySound",
+					"indices": [
+						12,
+						33
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"text": "Behind_Story",
+					"indices": [
+						108,
+						121
+					]
+				},
+				{
+					"text": "매스사",
+					"indices": [
+						122,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sQZ0KwWiJk",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=27083233&memberNo=838758&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402893892379463700,
+					"id_str": "1402893892379463686",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gUj_DX0AYF8Wd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gUj_DX0AYF8Wd.jpg",
+					"url": "https://t.co/lfeWq3f3LC",
+					"display_url": "pic.twitter.com/lfeWq3f3LC",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402893893822201856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402893892379463700,
+					"id_str": "1402893892379463686",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gUj_DX0AYF8Wd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gUj_DX0AYF8Wd.jpg",
+					"url": "https://t.co/lfeWq3f3LC",
+					"display_url": "pic.twitter.com/lfeWq3f3LC",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402893893822201856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 683,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 462,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\nTen(10)sion 가득했던 10cm 2019 겨울콘서트 비하인드 인터뷰\nhttps://t.co/sQZ0KwWiJk\n#Behind_Story #매스사 https://t.co/lfeWq3f3LC"
+	},
+	{
+		"created_at": "Thu Jun 10 07:42:06 +0000 2021",
+		"id": 1402893822519091200,
+		"id_str": "1402893822519091201",
+		"full_text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n잔잔한 감동, 긴 여운! 김수영 단독 콘서트 &lt;�좋아하고 있나요&gt;\nhttps://t.co/yPL5CBX6xE\n#Behind_Story #매스사 https://t.co/yhVaL1poIh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MagicStrawberrySound",
+					"indices": [
+						12,
+						33
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"text": "Behind_Story",
+					"indices": [
+						109,
+						122
+					]
+				},
+				{
+					"text": "매스사",
+					"indices": [
+						123,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yPL5CBX6xE",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=27048864&memberNo=838758&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402893820312830000,
+					"id_str": "1402893820312829953",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gUfylWQAE_dVo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gUfylWQAE_dVo.jpg",
+					"url": "https://t.co/yhVaL1poIh",
+					"display_url": "pic.twitter.com/yhVaL1poIh",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402893822519091201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402893820312830000,
+					"id_str": "1402893820312829953",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gUfylWQAE_dVo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gUfylWQAE_dVo.jpg",
+					"url": "https://t.co/yhVaL1poIh",
+					"display_url": "pic.twitter.com/yhVaL1poIh",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402893822519091201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 724,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 462,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n잔잔한 감동, 긴 여운! 김수영 단독 콘서트 &lt;�좋아하고 있나요&gt;\nhttps://t.co/yPL5CBX6xE\n#Behind_Story #매스사 https://t.co/yhVaL1poIh"
+	},
+	{
+		"created_at": "Thu Jun 10 07:41:52 +0000 2021",
+		"id": 1402893761911439400,
+		"id_str": "1402893761911439363",
+		"full_text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n민수는 사랑스럽다! 첫 번째 단독공연 'XXLove' 비하인드\nhttps://t.co/JH3Dgegsah\n#Behind_Story #매스사 https://t.co/Wx4EmINOwb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MagicStrawberrySound",
+					"indices": [
+						12,
+						33
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"text": "Behind_Story",
+					"indices": [
+						101,
+						114
+					]
+				},
+				{
+					"text": "매스사",
+					"indices": [
+						115,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JH3Dgegsah",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=27017932&memberNo=838758&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1402893760384602000,
+					"id_str": "1402893760384602114",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gUcTVWEAIZNPG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gUcTVWEAIZNPG.jpg",
+					"url": "https://t.co/Wx4EmINOwb",
+					"display_url": "pic.twitter.com/Wx4EmINOwb",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402893761911439363/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402893760384602000,
+					"id_str": "1402893760384602114",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/E3gUcTVWEAIZNPG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3gUcTVWEAIZNPG.jpg",
+					"url": "https://t.co/Wx4EmINOwb",
+					"display_url": "pic.twitter.com/Wx4EmINOwb",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1402893761911439363/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 462,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n민수는 사랑스럽다! 첫 번째 단독공연 'XXLove' 비하인드\nhttps://t.co/JH3Dgegsah\n#Behind_Story #매스사 https://t.co/Wx4EmINOwb"
+	},
+	{
 		"created_at": "Thu Jun 10 03:53:52 +0000 2021",
 		"id": 1402836384361107500,
 		"id_str": "1402836384361107460",
