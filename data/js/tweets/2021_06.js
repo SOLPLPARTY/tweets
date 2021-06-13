@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 13 12:14:30 +0000 2021",
+		"id": 1403911984953774000,
+		"id_str": "1404049539992932357",
+		"full_text": "모든 게 서울에만 집중되는 상황에서 이런 행사들과 움직임, 반갑고 소중하게 느껴집니다. 부근에 계신 분들의 많은 응원 부탁드려요! \n\n기간 : 2021년 6월 18일 (금) ~ 20일 (일) 3일간\n장소 : 충남 공주시 고상아리1길 13, 구 직조공장",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1403911979245310000,
+		"in_reply_to_status_id_str": "1403911979245309953",
+		"in_reply_to_user_id": 176585662,
+		"in_reply_to_user_id_str": "176585662",
+		"in_reply_to_screen_name": "BigBabyDriver",
+		"user": {
+			"id": 176585662,
+			"id_str": "176585662",
+			"name": "Big Baby Driver",
+			"screen_name": "BigBabyDriver",
+			"location": "",
+			"description": "full-time-music-hobbyist | play-guitar-do-voice @bigbet_music | 의뢰, 제안, 레슨 문의 및 무엇이든 bigbabydriver@gmail.com",
+			"url": "https://t.co/eBa5EZgj2Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eBa5EZgj2Q",
+							"expanded_url": "https://linktr.ee/Bigbet_kr",
+							"display_url": "linktr.ee/Bigbet_kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2244,
+			"friends_count": 902,
+			"listed_count": 39,
+			"created_at": "Mon Aug 09 22:54:21 +0000 2010",
+			"favourites_count": 26288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264960188802449408/Pr4n3aNN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264960188802449408/Pr4n3aNN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/176585662/1618061120",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "모든 게 서울에만 집중되는 상황에서 이런 행사들과 움직임, 반갑고 소중하게 느껴집니다. 부근에 계신 분들의 많은 응원 부탁드려요! \n\n기간 : 2021년 6월 18일 (금) ~ 20일 (일) 3일간\n장소 : 충남 공주시 고상아리1길 13, 구 직조공장"
+	},
+	{
 		"created_at": "Sun Jun 13 09:11:52 +0000 2021",
 		"id": 1404003576851087400,
 		"id_str": "1404003576851087360",
