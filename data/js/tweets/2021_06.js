@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 16 23:37:45 +0000 2021",
+		"id": 1404983802628247600,
+		"id_str": "1405308647484264451",
+		"full_text": "ıllıllı BUROCK RETURNS ıllıllı\n\n[2021 부산국제록페스티벌 행사 일정 안내]⠀⠀\n⠀⠀ \n일시 : 10.02.(토)~10.03.(일)⠀⠀\n장소 : 삼락생태공원⠀\n-⠀\nDate : 10.02.(Sat)~10.03.(Sun)⠀⠀\nVenue : Samnak Ecological Park⠀⠀\n⠀⠀\n-\n#TWO_YEARS_LATER\n#BUROCK_IS_BACK⠀ https://t.co/E9eiDo36uY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TWO_YEARS_LATER",
+					"indices": [
+						178,
+						194
+					]
+				},
+				{
+					"text": "BUROCK_IS_BACK",
+					"indices": [
+						195,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1404983783388958700,
+					"id_str": "1404983783388958723",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/E3-BTpwVUAM8Xdz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3-BTpwVUAM8Xdz.jpg",
+					"url": "https://t.co/E9eiDo36uY",
+					"display_url": "pic.twitter.com/E9eiDo36uY",
+					"expanded_url": "https://twitter.com/busan_rock/status/1404983802628247555/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1404983783388958700,
+					"id_str": "1404983783388958723",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/E3-BTpwVUAM8Xdz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3-BTpwVUAM8Xdz.jpg",
+					"url": "https://t.co/E9eiDo36uY",
+					"display_url": "pic.twitter.com/E9eiDo36uY",
+					"expanded_url": "https://twitter.com/busan_rock/status/1404983802628247555/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/eAlfyJep2j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eAlfyJep2j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 929,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1581470045",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 170,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ıllıllı BUROCK RETURNS ıllıllı\n\n[2021 부산국제록페스티벌 행사 일정 안내]⠀⠀\n⠀⠀ \n일시 : 10.02.(토)~10.03.(일)⠀⠀\n장소 : 삼락생태공원⠀\n-⠀\nDate : 10.02.(Sat)~10.03.(Sun)⠀⠀\nVenue : Samnak Ecological Park⠀⠀\n⠀⠀\n-\n#TWO_YEARS_LATER\n#BUROCK_IS_BACK⠀ https://t.co/E9eiDo36uY"
+	},
+	{
 		"created_at": "Wed Jun 16 09:20:27 +0000 2021",
 		"id": 1405092901571416000,
 		"id_str": "1405092901571416065",
