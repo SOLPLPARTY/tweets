@@ -1,6 +1,784 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 21 15:05:30 +0000 2021",
+		"id": 1406991673909973000,
+		"id_str": "1406991673909972993",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n[SPECIAL CLIP] 오반 (OVAN) - 허리춤 (I Am Yours)\nhttps://t.co/rSdDY958eG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rSdDY958eG",
+					"expanded_url": "https://youtu.be/mKwtgJcfE0o",
+					"display_url": "youtu.be/mKwtgJcfE0o",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 261,
+			"friends_count": 463,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69517,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n[SPECIAL CLIP] 오반 (OVAN) - 허리춤 (I Am Yours)\nhttps://t.co/rSdDY958eG"
+	},
+	{
+		"created_at": "Mon Jun 21 14:39:34 +0000 2021",
+		"id": 1406983213168291800,
+		"id_str": "1406985148910903299",
+		"full_text": "네온밀크 X 티파니 영 [다시 만난 세계] 2021 프라이드 🏳️‍🌈🏳️‍⚧️ \nhttps://t.co/6m1FhvbqR1 \n\nLGBTQ+ 유튜브 채널인 네온밀크에 소녀시대 티파니가 다만세를 뽑아줘 고맙다고 코멘트를 남겼다. \n\n#LGBTQ #네온밀크 \n#소녀시대 #GirlsGeneration \n#티파니 #Tiffany #TiffanyYoung",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LGBTQ",
+					"indices": [
+						128,
+						134
+					]
+				},
+				{
+					"text": "네온밀크",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						148,
+						164
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "Tiffany",
+					"indices": [
+						171,
+						179
+					]
+				},
+				{
+					"text": "TiffanyYoung",
+					"indices": [
+						180,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6m1FhvbqR1",
+					"expanded_url": "https://youtu.be/AZDopi_RXkM",
+					"display_url": "youtu.be/AZDopi_RXkM",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1252910486435164200,
+			"id_str": "1252910486435164161",
+			"name": "Ambler",
+			"screen_name": "AmblerKR",
+			"location": "ambler@ambler.kr",
+			"description": "Product Manager & Marketer\n​\n🤘 Music and Performance Lover. \n⚡ Automation, No-Code, Data Archiving. \n🚀 I support artists growth. ",
+			"url": "https://t.co/Ewhnensvic",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ewhnensvic",
+							"expanded_url": "http://ambler.kr",
+							"display_url": "ambler.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46,
+			"friends_count": 31,
+			"listed_count": 2,
+			"created_at": "Wed Apr 22 10:42:04 +0000 2020",
+			"favourites_count": 1237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1906,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269999552225873920/4SpDKr1y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269999552225873920/4SpDKr1y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1252910486435164161/1614407560",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "네온밀크 X 티파니 영 [다시 만난 세계] 2021 프라이드 🏳️‍🌈🏳️‍⚧️ \nhttps://t.co/6m1FhvbqR1 \n\nLGBTQ+ 유튜브 채널인 네온밀크에 소녀시대 티파니가 다만세를 뽑아줘 고맙다고 코멘트를 남겼다. \n\n#LGBTQ #네온밀크 \n#소녀시대 #GirlsGeneration \n#티파니 #Tiffany #TiffanyYoung"
+	},
+	{
+		"created_at": "Mon Jun 21 14:39:28 +0000 2021",
+		"id": 1406787230702588000,
+		"id_str": "1406985122373509126",
+		"full_text": "#오프닝챌린지 참여방법\nstep 2.\n#오프닝챌린지 #차별금지법바로지금 해시태그를 달고 인스타그램, 틱톡, 트위터, 페이스북, 유튜브 등 SNS에 공유해주세요! 🤩\n\n#오프닝챌린지 공식사이트 \n📌 https://t.co/kwsdwhrr47 https://t.co/bcbT0w8yGo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오프닝챌린지",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "오프닝챌린지",
+					"indices": [
+						21,
+						28
+					]
+				},
+				{
+					"text": "차별금지법바로지금",
+					"indices": [
+						29,
+						39
+					]
+				},
+				{
+					"text": "오프닝챌린지",
+					"indices": [
+						93,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kwsdwhrr47",
+					"expanded_url": "https://bit.ly/openingchallenge",
+					"display_url": "bit.ly/openingchallen…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1406787177132880000,
+					"id_str": "1406787177132879873",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/E4Xpe--UcAEXcgl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4Xpe--UcAEXcgl.jpg",
+					"url": "https://t.co/bcbT0w8yGo",
+					"display_url": "pic.twitter.com/bcbT0w8yGo",
+					"expanded_url": "https://twitter.com/equalact/status/1406787230702587905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1406787177132880000,
+					"id_str": "1406787177132879873",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/E4Xpe--UcAEXcgl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4Xpe--UcAEXcgl.jpg",
+					"url": "https://t.co/bcbT0w8yGo",
+					"display_url": "pic.twitter.com/bcbT0w8yGo",
+					"expanded_url": "https://twitter.com/equalact/status/1406787230702587905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1406787177447522300,
+					"id_str": "1406787177447522308",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/E4XpfAJVgAQGUdM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4XpfAJVgAQGUdM.jpg",
+					"url": "https://t.co/bcbT0w8yGo",
+					"display_url": "pic.twitter.com/bcbT0w8yGo",
+					"expanded_url": "https://twitter.com/equalact/status/1406787230702587905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1406787034132279300,
+		"in_reply_to_status_id_str": "1406787034132279299",
+		"in_reply_to_user_id": 852056025578561500,
+		"in_reply_to_user_id_str": "852056025578561536",
+		"in_reply_to_screen_name": "equalact",
+		"user": {
+			"id": 852056025578561500,
+			"id_str": "852056025578561536",
+			"name": "차별금지법제정연대",
+			"screen_name": "equalact",
+			"location": "",
+			"description": "차별금지법제정연대는 헌법의 평등이념을 실현하는 인권기본법이자 포괄적인 차별금지를 실현하는 실체법인 차별금지법을 제정하고자 노력하는 연대체입니다. \n\n'차별금지법 제정하자! 10만행동' 10만 청원 달성! 😍\n나를 열어도 다치지 않는 세상, 우리 앞에 닫힌 세상의 문을 열 #오프닝챌린지",
+			"url": "https://t.co/EcqjICVQXa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EcqjICVQXa",
+							"expanded_url": "https://equalityact.kr",
+							"display_url": "equalityact.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2980,
+			"friends_count": 421,
+			"listed_count": 10,
+			"created_at": "Wed Apr 12 07:09:21 +0000 2017",
+			"favourites_count": 145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1405396880259837956/pU1xTrod_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1405396880259837956/pU1xTrod_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/852056025578561536/1623896656",
+			"profile_link_color": "D753A5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#오프닝챌린지 참여방법\nstep 2.\n#오프닝챌린지 #차별금지법바로지금 해시태그를 달고 인스타그램, 틱톡, 트위터, 페이스북, 유튜브 등 SNS에 공유해주세요! 🤩\n\n#오프닝챌린지 공식사이트 \n📌 https://t.co/kwsdwhrr47 https://t.co/bcbT0w8yGo"
+	},
+	{
+		"created_at": "Mon Jun 21 14:39:25 +0000 2021",
+		"id": 1406787034132279300,
+		"id_str": "1406985112231628801",
+		"full_text": "#오프닝챌린지 참여방법\nstep 1.\n9와숫자들이 차별금지법 제정 지지의 마음을 담아 발표한 곡 “Opening” \n'Open your mind Open the door' 가사에 맞춰서 무엇이든 여는 모습을 영상으로 찍어주세요.\n\n💚 9(송재경)의 오프닝챌린지 소개 영상\nhttps://t.co/l3rwrflJ5T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오프닝챌린지",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l3rwrflJ5T",
+					"expanded_url": "https://youtu.be/AYiE_eCLTNU",
+					"display_url": "youtu.be/AYiE_eCLTNU",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1406786831400595500,
+		"in_reply_to_status_id_str": "1406786831400595456",
+		"in_reply_to_user_id": 852056025578561500,
+		"in_reply_to_user_id_str": "852056025578561536",
+		"in_reply_to_screen_name": "equalact",
+		"user": {
+			"id": 852056025578561500,
+			"id_str": "852056025578561536",
+			"name": "차별금지법제정연대",
+			"screen_name": "equalact",
+			"location": "",
+			"description": "차별금지법제정연대는 헌법의 평등이념을 실현하는 인권기본법이자 포괄적인 차별금지를 실현하는 실체법인 차별금지법을 제정하고자 노력하는 연대체입니다. \n\n'차별금지법 제정하자! 10만행동' 10만 청원 달성! 😍\n나를 열어도 다치지 않는 세상, 우리 앞에 닫힌 세상의 문을 열 #오프닝챌린지",
+			"url": "https://t.co/EcqjICVQXa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EcqjICVQXa",
+							"expanded_url": "https://equalityact.kr",
+							"display_url": "equalityact.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2980,
+			"friends_count": 421,
+			"listed_count": 10,
+			"created_at": "Wed Apr 12 07:09:21 +0000 2017",
+			"favourites_count": 145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1405396880259837956/pU1xTrod_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1405396880259837956/pU1xTrod_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/852056025578561536/1623896656",
+			"profile_link_color": "D753A5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#오프닝챌린지 참여방법\nstep 1.\n9와숫자들이 차별금지법 제정 지지의 마음을 담아 발표한 곡 “Opening” \n'Open your mind Open the door' 가사에 맞춰서 무엇이든 여는 모습을 영상으로 찍어주세요.\n\n💚 9(송재경)의 오프닝챌린지 소개 영상\nhttps://t.co/l3rwrflJ5T"
+	},
+	{
+		"created_at": "Mon Jun 21 14:39:23 +0000 2021",
+		"id": 1406786831400595500,
+		"id_str": "1406985101188026379",
+		"full_text": "#오프닝챌린지 참여방법\nstep 1.\n9와숫자들이 차별금지법 제정 지지의 마음을 담아 발표한 곡 “Opening” \n'Open your mind Open the door' 가사에 맞춰서 무엇이든 여는 모습을 영상으로 찍어주세요.\n\n💚 프로젝트퀘스천 시푸 상무가 알려주는 오프닝챌린지 참여 예시\nhttps://t.co/QTDIWOZB2B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오프닝챌린지",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QTDIWOZB2B",
+					"expanded_url": "https://youtu.be/0QhIJLcEYdQ",
+					"display_url": "youtu.be/0QhIJLcEYdQ",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1406786698709651500,
+		"in_reply_to_status_id_str": "1406786698709651457",
+		"in_reply_to_user_id": 852056025578561500,
+		"in_reply_to_user_id_str": "852056025578561536",
+		"in_reply_to_screen_name": "equalact",
+		"user": {
+			"id": 852056025578561500,
+			"id_str": "852056025578561536",
+			"name": "차별금지법제정연대",
+			"screen_name": "equalact",
+			"location": "",
+			"description": "차별금지법제정연대는 헌법의 평등이념을 실현하는 인권기본법이자 포괄적인 차별금지를 실현하는 실체법인 차별금지법을 제정하고자 노력하는 연대체입니다. \n\n'차별금지법 제정하자! 10만행동' 10만 청원 달성! 😍\n나를 열어도 다치지 않는 세상, 우리 앞에 닫힌 세상의 문을 열 #오프닝챌린지",
+			"url": "https://t.co/EcqjICVQXa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EcqjICVQXa",
+							"expanded_url": "https://equalityact.kr",
+							"display_url": "equalityact.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2980,
+			"friends_count": 421,
+			"listed_count": 10,
+			"created_at": "Wed Apr 12 07:09:21 +0000 2017",
+			"favourites_count": 145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1405396880259837956/pU1xTrod_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1405396880259837956/pU1xTrod_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/852056025578561536/1623896656",
+			"profile_link_color": "D753A5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#오프닝챌린지 참여방법\nstep 1.\n9와숫자들이 차별금지법 제정 지지의 마음을 담아 발표한 곡 “Opening” \n'Open your mind Open the door' 가사에 맞춰서 무엇이든 여는 모습을 영상으로 찍어주세요.\n\n💚 프로젝트퀘스천 시푸 상무가 알려주는 오프닝챌린지 참여 예시\nhttps://t.co/QTDIWOZB2B"
+	},
+	{
 		"created_at": "Mon Jun 21 09:45:24 +0000 2021",
 		"id": 1406911117390237700,
 		"id_str": "1406911117390237706",
