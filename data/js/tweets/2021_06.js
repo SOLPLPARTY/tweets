@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 23 00:27:28 +0000 2021",
+		"id": 1407322484735496200,
+		"id_str": "1407495486471213057",
+		"full_text": "On September 10th, celebrate “The Black Album” your way with “Metallica” (Remastered) and \"The Metallica Blacklist\". https://t.co/3bMYsWZALZ\n\n#BlackAlbum2021 #TheMetallicaBlacklist https://t.co/662mUBwVc2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BlackAlbum2021",
+					"indices": [
+						142,
+						157
+					]
+				},
+				{
+					"text": "TheMetallicaBlacklist",
+					"indices": [
+						158,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3bMYsWZALZ",
+					"expanded_url": "http://metallica.com/the-black-album",
+					"display_url": "metallica.com/the-black-album",
+					"indices": [
+						117,
+						140
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1407221506095009800,
+					"id_str": "1407221506095009794",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/E4d0gQcVUAIAAth.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4d0gQcVUAIAAth.jpg",
+					"url": "https://t.co/662mUBwVc2",
+					"display_url": "pic.twitter.com/662mUBwVc2",
+					"expanded_url": "https://twitter.com/Metallica/status/1407322484735496199/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407221506095009800,
+					"id_str": "1407221506095009794",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/E4d0gQcVUAIAAth.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4d0gQcVUAIAAth.jpg",
+					"url": "https://t.co/662mUBwVc2",
+					"display_url": "pic.twitter.com/662mUBwVc2",
+					"expanded_url": "https://twitter.com/Metallica/status/1407322484735496199/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 238475531,
+			"id_str": "238475531",
+			"name": "Metallica",
+			"screen_name": "Metallica",
+			"location": "San Francisco, CA",
+			"description": "http://t.co/EAkqroM0OA | http://t.co/BEu6OVRhKG",
+			"url": "http://t.co/kVxaQpmqSI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/kVxaQpmqSI",
+							"expanded_url": "http://www.metallica.com",
+							"display_url": "metallica.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/EAkqroM0OA",
+							"expanded_url": "http://metallica.com",
+							"display_url": "metallica.com",
+							"indices": [
+								0,
+								22
+							]
+						},
+						{
+							"url": "http://t.co/BEu6OVRhKG",
+							"expanded_url": "http://livemetallica.com",
+							"display_url": "livemetallica.com",
+							"indices": [
+								25,
+								47
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5946499,
+			"friends_count": 30,
+			"listed_count": 11521,
+			"created_at": "Sat Jan 15 07:34:59 +0000 2011",
+			"favourites_count": 534,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4424,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407334956716769288/HFgpsbmW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407334956716769288/HFgpsbmW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/238475531/1624369776",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1204,
+		"favorite_count": 4763,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On September 10th, celebrate “The Black Album” your way with “Metallica” (Remastered) and \"The Metallica Blacklist\". https://t.co/3bMYsWZALZ\n\n#BlackAlbum2021 #TheMetallicaBlacklist https://t.co/662mUBwVc2"
+	},
+	{
 		"created_at": "Tue Jun 22 20:11:48 +0000 2021",
 		"id": 1407348179079663600,
 		"id_str": "1407431146263171074",
