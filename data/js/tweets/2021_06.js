@@ -1,6 +1,1147 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 23 04:01:22 +0000 2021",
+		"id": 1407549315053203500,
+		"id_str": "1407549315053203459",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n6월 23일 | 리썬, Brinicle Rain, Holocity\nhttps://t.co/thDaFxGySL\n#블로그 #유통사 #인디음악 #인디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "유통사",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						102,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/thDaFxGySL",
+					"expanded_url": "https://bit.ly/2Ujpa2n",
+					"display_url": "bit.ly/2Ujpa2n",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 463,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n6월 23일 | 리썬, Brinicle Rain, Holocity\nhttps://t.co/thDaFxGySL\n#블로그 #유통사 #인디음악 #인디"
+	},
+	{
+		"created_at": "Wed Jun 23 03:29:48 +0000 2021",
+		"id": 1407539300456009700,
+		"id_str": "1407541372371013635",
+		"full_text": "#bobae #mv \n\n𝘣𝘰𝘣𝘢𝘦 '𝘣𝘢𝘣𝘺 𝘪 𝘮𝘪𝘴𝘴' \n📹 https://t.co/73e7i13vB7\n\n#babyimiss https://t.co/t7WNnnQpdg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bobae",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "mv",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "babyimiss",
+					"indices": [
+						61,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/73e7i13vB7",
+					"expanded_url": "https://youtu.be/jVIlVQEa2mk",
+					"display_url": "youtu.be/jVIlVQEa2mk",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1407539199054549000,
+					"id_str": "1407539199054549004",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1407539199054549004/pu/img/4g3Rjld1ttlLxJa6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1407539199054549004/pu/img/4g3Rjld1ttlLxJa6.jpg",
+					"url": "https://t.co/t7WNnnQpdg",
+					"display_url": "pic.twitter.com/t7WNnnQpdg",
+					"expanded_url": "https://twitter.com/inplanet/status/1407539300456009732/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407539199054549000,
+					"id_str": "1407539199054549004",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1407539199054549004/pu/img/4g3Rjld1ttlLxJa6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1407539199054549004/pu/img/4g3Rjld1ttlLxJa6.jpg",
+					"url": "https://t.co/t7WNnnQpdg",
+					"display_url": "pic.twitter.com/t7WNnnQpdg",
+					"expanded_url": "https://twitter.com/inplanet/status/1407539300456009732/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 129045,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1407539199054549004/pu/vid/1280x720/vsQhuavrWzqp_dnS.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1407539199054549004/pu/pl/_iYmqH4ExArKIB1o.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1407539199054549004/pu/vid/640x360/S6zE7cKcoaveLvIy.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1407539199054549004/pu/vid/480x270/Hb2u3l6Pu-w8zkX5.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1440,
+			"friends_count": 776,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5363,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#bobae #mv \n\n𝘣𝘰𝘣𝘢𝘦 '𝘣𝘢𝘣𝘺 𝘪 𝘮𝘪𝘴𝘴' \n📹 https://t.co/73e7i13vB7\n\n#babyimiss https://t.co/t7WNnnQpdg"
+	},
+	{
+		"created_at": "Wed Jun 23 03:29:40 +0000 2021",
+		"id": 1407539025523527700,
+		"id_str": "1407541338267164672",
+		"full_text": "💕[Out Now] New Single🎤\n[LEES2UN] TOY🧸🎀 \n\n우리가 돌아가야 할 낙원 같은 세계의 \n‘키덜트’ 로  우리들의 모든 사랑하는 것들을 이야기한다. \n‘ 뭐 어때, \n마음대로 좋아하는 것들을 표현해봐. ‘\n\n#리썬 #kpop #kindie #LeeS2un #toy #singersongwriter https://t.co/L0lABYT3nU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "리썬",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "kpop",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "kindie",
+					"indices": [
+						139,
+						146
+					]
+				},
+				{
+					"text": "LeeS2un",
+					"indices": [
+						147,
+						155
+					]
+				},
+				{
+					"text": "toy",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "singersongwriter",
+					"indices": [
+						161,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1407538933978656800,
+					"id_str": "1407538933978656771",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E4iVM_dUcAMcuLx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4iVM_dUcAMcuLx.jpg",
+					"url": "https://t.co/L0lABYT3nU",
+					"display_url": "pic.twitter.com/L0lABYT3nU",
+					"expanded_url": "https://twitter.com/sugar_records/status/1407539025523527689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407538933978656800,
+					"id_str": "1407538933978656771",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E4iVM_dUcAMcuLx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4iVM_dUcAMcuLx.jpg",
+					"url": "https://t.co/L0lABYT3nU",
+					"display_url": "pic.twitter.com/L0lABYT3nU",
+					"expanded_url": "https://twitter.com/sugar_records/status/1407539025523527689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94343878,
+			"id_str": "94343878",
+			"name": "슈가레코드",
+			"screen_name": "sugar_records",
+			"location": "Seoul, KR",
+			"description": "#달에닿아 #뷰티핸섬 #리썬 #모브닝 #엔분의일 #당기시오 #우리같은사람들 슈가레코드",
+			"url": "https://t.co/MaZwhWbQNT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MaZwhWbQNT",
+							"expanded_url": "http://sugar-records.com",
+							"display_url": "sugar-records.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 551,
+			"friends_count": 37,
+			"listed_count": 9,
+			"created_at": "Thu Dec 03 14:51:49 +0000 2009",
+			"favourites_count": 436,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7498,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94343878/1548148600",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💕[Out Now] New Single🎤\n[LEES2UN] TOY🧸🎀 \n\n우리가 돌아가야 할 낙원 같은 세계의 \n‘키덜트’ 로  우리들의 모든 사랑하는 것들을 이야기한다. \n‘ 뭐 어때, \n마음대로 좋아하는 것들을 표현해봐. ‘\n\n#리썬 #kpop #kindie #LeeS2un #toy #singersongwriter https://t.co/L0lABYT3nU"
+	},
+	{
+		"created_at": "Wed Jun 23 03:29:37 +0000 2021",
+		"id": 1407537688887005200,
+		"id_str": "1407541324945842182",
+		"full_text": "9와 숫자들 새 싱글 [Opening] 모든 음원 사이트에서 발매 되었습니다!!\nOpen your mind! Open the door!!\n새로운 시작을 함께 해요!!\n\n멜론: https://t.co/jQubFYkIQA\n벅스: https://t.co/Zkjocwxq2Z\n지니: https://t.co/yVX2lW2E1u\n바이브: https://t.co/fNArvc41Zz\n플로: https://t.co/Ta7ZPjoIpt https://t.co/WtPpRzvjPR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jQubFYkIQA",
+					"expanded_url": "https://www.melon.com/album/detail.htm?albumId=10634275",
+					"display_url": "melon.com/album/detail.h…",
+					"indices": [
+						98,
+						121
+					]
+				},
+				{
+					"url": "https://t.co/Zkjocwxq2Z",
+					"expanded_url": "https://music.bugs.co.kr/album/15777657?wl_ref=M_contents_01_04",
+					"display_url": "music.bugs.co.kr/album/15777657…",
+					"indices": [
+						126,
+						149
+					]
+				},
+				{
+					"url": "https://t.co/yVX2lW2E1u",
+					"expanded_url": "https://www.genie.co.kr/detail/albumInfo?axnm=82102733",
+					"display_url": "genie.co.kr/detail/albumIn…",
+					"indices": [
+						154,
+						177
+					]
+				},
+				{
+					"url": "https://t.co/fNArvc41Zz",
+					"expanded_url": "https://vibe.naver.com/track/49231868",
+					"display_url": "vibe.naver.com/track/49231868",
+					"indices": [
+						183,
+						206
+					]
+				},
+				{
+					"url": "https://t.co/Ta7ZPjoIpt",
+					"expanded_url": "https://www.music-flo.com/detail/album/edziaoozn/albumtrack",
+					"display_url": "music-flo.com/detail/album/e…",
+					"indices": [
+						211,
+						234
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1407536697689084000,
+					"id_str": "1407536697689083904",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/E4iTK0oVkAATVIB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4iTK0oVkAATVIB.jpg",
+					"url": "https://t.co/WtPpRzvjPR",
+					"display_url": "pic.twitter.com/WtPpRzvjPR",
+					"expanded_url": "https://twitter.com/orm_ent/status/1407537688887005186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407536697689084000,
+					"id_str": "1407536697689083904",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/E4iTK0oVkAATVIB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4iTK0oVkAATVIB.jpg",
+					"url": "https://t.co/WtPpRzvjPR",
+					"display_url": "pic.twitter.com/WtPpRzvjPR",
+					"expanded_url": "https://twitter.com/orm_ent/status/1407537688887005186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 721,
+			"friends_count": 324,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1624418145",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "9와 숫자들 새 싱글 [Opening] 모든 음원 사이트에서 발매 되었습니다!!\nOpen your mind! Open the door!!\n새로운 시작을 함께 해요!!\n\n멜론: https://t.co/jQubFYkIQA\n벅스: https://t.co/Zkjocwxq2Z\n지니: https://t.co/yVX2lW2E1u\n바이브: https://t.co/fNArvc41Zz\n플로: https://t.co/Ta7ZPjoIpt https://t.co/WtPpRzvjPR"
+	},
+	{
+		"created_at": "Wed Jun 23 03:29:35 +0000 2021",
+		"id": 1407537014287655000,
+		"id_str": "1407541315957628929",
+		"full_text": "Spotify : https://t.co/hlJfFPlCvW\nApple Music : https://t.co/DWNMUrpiWB\n멜론 : https://t.co/suay7YrT5E\n지니 : https://t.co/rk6hfwhHXb\n벅스 : https://t.co/5AOHPwSCHB\nFLO : https://t.co/GTwqdX5lDU\nVIBE : https://t.co/RnF7UFx1Or",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hlJfFPlCvW",
+					"expanded_url": "https://open.spotify.com/album/42KAt3hrVYMRNKoL6cRXuZ",
+					"display_url": "open.spotify.com/album/42KAt3hr…",
+					"indices": [
+						10,
+						33
+					]
+				},
+				{
+					"url": "https://t.co/DWNMUrpiWB",
+					"expanded_url": "https://music.apple.com/kr/album/baby-i-miss-single/1573331653",
+					"display_url": "music.apple.com/kr/album/baby-…",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/suay7YrT5E",
+					"expanded_url": "http://kko.to/8AnZ4yo4p",
+					"display_url": "kko.to/8AnZ4yo4p",
+					"indices": [
+						77,
+						100
+					]
+				},
+				{
+					"url": "https://t.co/rk6hfwhHXb",
+					"expanded_url": "http://www.genie.co.kr/5WF4U7",
+					"display_url": "genie.co.kr/5WF4U7",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/5AOHPwSCHB",
+					"expanded_url": "https://music.bugs.co.kr/album/20404260",
+					"display_url": "music.bugs.co.kr/album/20404260",
+					"indices": [
+						135,
+						158
+					]
+				},
+				{
+					"url": "https://t.co/GTwqdX5lDU",
+					"expanded_url": "https://www.music-flo.com/detail/album/edziayhoa/albumtrack",
+					"display_url": "music-flo.com/detail/album/e…",
+					"indices": [
+						165,
+						188
+					]
+				},
+				{
+					"url": "https://t.co/RnF7UFx1Or",
+					"expanded_url": "https://vibe.naver.com/album/6053856",
+					"display_url": "vibe.naver.com/album/6053856",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1407533936331219000,
+		"in_reply_to_status_id_str": "1407533936331218945",
+		"in_reply_to_user_id": 76964739,
+		"in_reply_to_user_id_str": "76964739",
+		"in_reply_to_screen_name": "inplanet",
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1440,
+			"friends_count": 776,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5363,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Spotify : https://t.co/hlJfFPlCvW\nApple Music : https://t.co/DWNMUrpiWB\n멜론 : https://t.co/suay7YrT5E\n지니 : https://t.co/rk6hfwhHXb\n벅스 : https://t.co/5AOHPwSCHB\nFLO : https://t.co/GTwqdX5lDU\nVIBE : https://t.co/RnF7UFx1Or"
+	},
+	{
+		"created_at": "Wed Jun 23 03:29:29 +0000 2021",
+		"id": 1407536750738559000,
+		"id_str": "1407541290305265670",
+		"full_text": "[기사] 샘김, 오늘(23일) 새 싱글 'The Juice' 전격 발매…첫 댄스 퍼포먼스 도전\n\n(출처: 엑스포츠뉴스 | 네이버 TV연예)\n\nhttps://t.co/JA4zOODvuw\n\n#SamKim #샘김 #The_Juice\n#20210623_6PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SamKim",
+					"indices": [
+						104,
+						111
+					]
+				},
+				{
+					"text": "샘김",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "The_Juice",
+					"indices": [
+						116,
+						126
+					]
+				},
+				{
+					"text": "20210623_6PM",
+					"indices": [
+						127,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JA4zOODvuw",
+					"expanded_url": "http://naver.me/5fnuCieg",
+					"display_url": "naver.me/5fnuCieg",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / Sam Kim (샘김) Single ‘The Juice’ 2021. 06. 23. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36193,
+			"friends_count": 14,
+			"listed_count": 372,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1623754978",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[기사] 샘김, 오늘(23일) 새 싱글 'The Juice' 전격 발매…첫 댄스 퍼포먼스 도전\n\n(출처: 엑스포츠뉴스 | 네이버 TV연예)\n\nhttps://t.co/JA4zOODvuw\n\n#SamKim #샘김 #The_Juice\n#20210623_6PM"
+	},
+	{
 		"created_at": "Wed Jun 23 03:11:23 +0000 2021",
 		"id": 1407535504577360000,
 		"id_str": "1407536738747232261",
