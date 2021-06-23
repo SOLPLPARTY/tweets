@@ -1,6 +1,567 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 23 06:58:15 +0000 2021",
+		"id": 1407579171010715600,
+		"id_str": "1407593828211638274",
+		"full_text": "Shopee Malaysia https://t.co/i3KHtVmjn1\nShopee Singapore https://t.co/izbw7S7Xqj\nShopee Philippines https://t.co/u3kC4PbkHX\nShopee Vietnam https://t.co/0yEvQPyJWR\n\nStarring BTOB\nLive Commerce❤ - June 23 (Wed) 6 PM KST\n\nKCON Official Youtube /Mnet Kpop Youtube /Shopee MY&amp;SG&amp;PH&amp;VT https://t.co/KAtUgVNCon",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			291
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i3KHtVmjn1",
+					"expanded_url": "https://shopee.com.my/kcontact_shop.my",
+					"display_url": "shopee.com.my/kcontact_shop.…",
+					"indices": [
+						16,
+						39
+					]
+				},
+				{
+					"url": "https://t.co/izbw7S7Xqj",
+					"expanded_url": "https://shopee.sg/kcontact_shop.sg",
+					"display_url": "shopee.sg/kcontact_shop.…",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/u3kC4PbkHX",
+					"expanded_url": "https://shopee.ph/kcontact_shop.ph",
+					"display_url": "shopee.ph/kcontact_shop.…",
+					"indices": [
+						100,
+						123
+					]
+				},
+				{
+					"url": "https://t.co/0yEvQPyJWR",
+					"expanded_url": "https://shopee.vn/kcontact_shop.vn",
+					"display_url": "shopee.vn/kcontact_shop.…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1407271380228272000,
+					"id_str": "1407271380228272137",
+					"indices": [
+						292,
+						315
+					],
+					"media_url": "http://pbs.twimg.com/media/E4eh3UEUcAk-ww6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4eh3UEUcAk-ww6.jpg",
+					"url": "https://t.co/KAtUgVNCon",
+					"display_url": "pic.twitter.com/KAtUgVNCon",
+					"expanded_url": "https://twitter.com/KCON_official/status/1407579171010715655/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407271380228272000,
+					"id_str": "1407271380228272137",
+					"indices": [
+						292,
+						315
+					],
+					"media_url": "http://pbs.twimg.com/media/E4eh3UEUcAk-ww6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4eh3UEUcAk-ww6.jpg",
+					"url": "https://t.co/KAtUgVNCon",
+					"display_url": "pic.twitter.com/KAtUgVNCon",
+					"expanded_url": "https://twitter.com/KCON_official/status/1407579171010715655/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1407271630271762400,
+					"id_str": "1407271630271762433",
+					"indices": [
+						292,
+						315
+					],
+					"media_url": "http://pbs.twimg.com/media/E4eiF3jVUAEn_N1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4eiF3jVUAEn_N1.jpg",
+					"url": "https://t.co/KAtUgVNCon",
+					"display_url": "pic.twitter.com/KAtUgVNCon",
+					"expanded_url": "https://twitter.com/KCON_official/status/1407579171010715655/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 364980,
+			"friends_count": 75,
+			"listed_count": 978,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 485,
+		"favorite_count": 1299,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Shopee Malaysia https://t.co/i3KHtVmjn1\nShopee Singapore https://t.co/izbw7S7Xqj\nShopee Philippines https://t.co/u3kC4PbkHX\nShopee Vietnam https://t.co/0yEvQPyJWR\n\nStarring BTOB\nLive Commerce❤ - June 23 (Wed) 6 PM KST\n\nKCON Official Youtube /Mnet Kpop Youtube /Shopee MY&amp;SG&amp;PH&amp;VT https://t.co/KAtUgVNCon"
+	},
+	{
+		"created_at": "Wed Jun 23 06:29:34 +0000 2021",
+		"id": 1407584042971586600,
+		"id_str": "1407586610082951169",
+		"full_text": "[Notice]\n⠀\nWH3N(웬)의 틱톡 계정에서는 WH3N이 직접 업로드하는 노래 커버 영상을 만나보실 수 있는데요! 앞으로도 더욱 재밌고 다양한 방법으로 소통할 WH3N의 모습을 기대해주세요😎\n⠀\nWH3N 틱톡 바로가기\n▷https://t.co/qKdhqne0bo\n\n#WH3N #웬 #TikTok",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WH3N",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "웬",
+					"indices": [
+						157,
+						159
+					]
+				},
+				{
+					"text": "TikTok",
+					"indices": [
+						160,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qKdhqne0bo",
+					"expanded_url": "https://www.tiktok.com/@whatever0723",
+					"display_url": "tiktok.com/@whatever0723",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/VtrzF3mRza",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VtrzF3mRza",
+							"expanded_url": "http://shofar-ent.com",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7808,
+			"friends_count": 4,
+			"listed_count": 65,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4406,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1624253290",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Notice]\n⠀\nWH3N(웬)의 틱톡 계정에서는 WH3N이 직접 업로드하는 노래 커버 영상을 만나보실 수 있는데요! 앞으로도 더욱 재밌고 다양한 방법으로 소통할 WH3N의 모습을 기대해주세요😎\n⠀\nWH3N 틱톡 바로가기\n▷https://t.co/qKdhqne0bo\n\n#WH3N #웬 #TikTok"
+	},
+	{
+		"created_at": "Wed Jun 23 06:29:27 +0000 2021",
+		"id": 1407579743315128300,
+		"id_str": "1407586580227887105",
+		"full_text": "[의견조사]\n⠀\n✨설문링크: https://t.co/v57ohjkyFQ\n\n한국콘텐츠진흥원이 주관하고 (주)케이디앤리서치가 조사하는 「음악산업 통계 인식 및 개선에 대한 의견조사」가 진행되고 있습니다.\n⠀\n본 조사는 음악산업 통계 이용 현황 파악을 위해 실시되는 조사입니다.\n\n많은 참여 바랍니다. https://t.co/zx46jkhLEq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v57ohjkyFQ",
+					"expanded_url": "https://c11.kr/q0p9",
+					"display_url": "c11.kr/q0p9",
+					"indices": [
+						16,
+						39
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1407579691981045800,
+					"id_str": "1407579691981045760",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E4i6Ra2VgAAyanB.png",
+					"media_url_https": "https://pbs.twimg.com/media/E4i6Ra2VgAAyanB.png",
+					"url": "https://t.co/zx46jkhLEq",
+					"display_url": "pic.twitter.com/zx46jkhLEq",
+					"expanded_url": "https://twitter.com/record_liak/status/1407579743315128320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 637,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 854,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407579691981045800,
+					"id_str": "1407579691981045760",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E4i6Ra2VgAAyanB.png",
+					"media_url_https": "https://pbs.twimg.com/media/E4i6Ra2VgAAyanB.png",
+					"url": "https://t.co/zx46jkhLEq",
+					"display_url": "pic.twitter.com/zx46jkhLEq",
+					"expanded_url": "https://twitter.com/record_liak/status/1407579743315128320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 637,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 854,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 579588650,
+			"id_str": "579588650",
+			"name": "L.I.A.K",
+			"screen_name": "record_liak",
+			"location": "Seoul, Korea",
+			"description": "- 서울음악창작지원센터, 씬디 티켓라운지\n- 플럭서스/루비레코드/엠와이뮤직/주식회사엠피엠지/모던보이ENT/붕가붕가레코드/안테나/JNH뮤직/매직스트로베리/쇼파르/슈가레코드/쿨스뮤직/스티즈/인넥스트트렌드/DHPE/웨스트브릿지/그랜드라인/닥터심슨컴퍼니/미러볼뮤직/누플레이/빌리빈 등",
+			"url": "https://t.co/zKpQqBs24l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zKpQqBs24l",
+							"expanded_url": "http://liak.or.kr/",
+							"display_url": "liak.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2033,
+			"friends_count": 1997,
+			"listed_count": 36,
+			"created_at": "Mon May 14 05:51:50 +0000 2012",
+			"favourites_count": 288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2828,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[의견조사]\n⠀\n✨설문링크: https://t.co/v57ohjkyFQ\n\n한국콘텐츠진흥원이 주관하고 (주)케이디앤리서치가 조사하는 「음악산업 통계 인식 및 개선에 대한 의견조사」가 진행되고 있습니다.\n⠀\n본 조사는 음악산업 통계 이용 현황 파악을 위해 실시되는 조사입니다.\n\n많은 참여 바랍니다. https://t.co/zx46jkhLEq"
+	},
+	{
 		"created_at": "Wed Jun 23 06:11:27 +0000 2021",
 		"id": 1407576912831025200,
 		"id_str": "1407582050442530817",
