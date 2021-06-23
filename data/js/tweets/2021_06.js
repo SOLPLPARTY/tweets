@@ -1,6 +1,630 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 23 01:58:32 +0000 2021",
+		"id": 1407503860281659400,
+		"id_str": "1407518402223218696",
+		"full_text": "*Residents of Korea and the Philippines,\nplease check the streaming platforms available in your countries of residence.\n\n *한국 및 필리핀 거주자는 해당 국가 플랫폼을 확인해주세요.\n\n*韓国とフィリピンの居住者は\n該当国家プラットフォームをご確認ください。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407503858910208000,
+		"in_reply_to_status_id_str": "1407503858910208003",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 364844,
+			"friends_count": 75,
+			"listed_count": 977,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "*Residents of Korea and the Philippines,\nplease check the streaming platforms available in your countries of residence.\n\n *한국 및 필리핀 거주자는 해당 국가 플랫폼을 확인해주세요.\n\n*韓国とフィリピンの居住者は\n該当国家プラットフォームをご確認ください。"
+	},
+	{
+		"created_at": "Wed Jun 23 01:58:24 +0000 2021",
+		"id": 1407503858910208000,
+		"id_str": "1407518368060645380",
+		"full_text": "KCON official👉🏻 https://t.co/mvSaIRQ5RO\nMnet K-POP👉🏻 https://t.co/NqNJL51ICc\n\n💎Join the Membership\nhttps://t.co/3htPBHA6xK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mvSaIRQ5RO",
+					"expanded_url": "http://bit.ly/0623KCON",
+					"display_url": "bit.ly/0623KCON",
+					"indices": [
+						16,
+						39
+					]
+				},
+				{
+					"url": "https://t.co/NqNJL51ICc",
+					"expanded_url": "http://bit.ly/0623Mnet",
+					"display_url": "bit.ly/0623Mnet",
+					"indices": [
+						53,
+						76
+					]
+				},
+				{
+					"url": "https://t.co/3htPBHA6xK",
+					"expanded_url": "http://youtube.com/KCON/join",
+					"display_url": "youtube.com/KCON/join",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1407503676160331800,
+		"in_reply_to_status_id_str": "1407503676160331782",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 364844,
+			"friends_count": 75,
+			"listed_count": 977,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KCON official👉🏻 https://t.co/mvSaIRQ5RO\nMnet K-POP👉🏻 https://t.co/NqNJL51ICc\n\n💎Join the Membership\nhttps://t.co/3htPBHA6xK"
+	},
+	{
+		"created_at": "Wed Jun 23 01:58:14 +0000 2021",
+		"id": 1407503676160331800,
+		"id_str": "1407518329733062663",
+		"full_text": "KCON:TACT 4 U SHOW DAY 5! \nHere's the LINEUP for TODAY:\n오늘의 라인업을 공개합니다.\n今日のラインナップを公開します！\n\n#JO1\n\n#KCONTACT #KCONTACT4U https://t.co/OIiJSfvePN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JO1",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						106,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1407253904300019700,
+					"id_str": "1407253904300019716",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E4eR-FKVkAQIsrN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4eR-FKVkAQIsrN.jpg",
+					"url": "https://t.co/OIiJSfvePN",
+					"display_url": "pic.twitter.com/OIiJSfvePN",
+					"expanded_url": "https://twitter.com/KCON_official/status/1407503676160331782/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407253904300019700,
+					"id_str": "1407253904300019716",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E4eR-FKVkAQIsrN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4eR-FKVkAQIsrN.jpg",
+					"url": "https://t.co/OIiJSfvePN",
+					"display_url": "pic.twitter.com/OIiJSfvePN",
+					"expanded_url": "https://twitter.com/KCON_official/status/1407503676160331782/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 364844,
+			"friends_count": 75,
+			"listed_count": 977,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 219,
+		"favorite_count": 487,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "KCON:TACT 4 U SHOW DAY 5! \nHere's the LINEUP for TODAY:\n오늘의 라인업을 공개합니다.\n今日のラインナップを公開します！\n\n#JO1\n\n#KCONTACT #KCONTACT4U https://t.co/OIiJSfvePN"
+	},
+	{
+		"created_at": "Wed Jun 23 01:29:30 +0000 2021",
+		"id": 1407509411531088000,
+		"id_str": "1407511095267545088",
+		"full_text": "['인디' 음악에 대한 여러분의 의견을 묻습니다!]\n⠀\n✨설문링크: https://t.co/ErNmeiHPsn\n⠀\n안녕하세요. 사단법인 한국음악레이블산업협회입니다.\n⠀\n'인디' 음악의 규정을 공식화하고 정책에 반영될 수 있도록 많은 참여 바랍니다.\n⠀\n#한국음악레이블산업협회 #인디 #인디음악 https://t.co/h2GMzEl1fl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "한국음악레이블산업협회",
+					"indices": [
+						141,
+						153
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						154,
+						157
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						158,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ErNmeiHPsn",
+					"expanded_url": "https://c11.kr/ptc8",
+					"display_url": "c11.kr/ptc8",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1407509380140978200,
+					"id_str": "1407509380140978176",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/E4h6Uu1VUAAx89S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4h6Uu1VUAAx89S.jpg",
+					"url": "https://t.co/h2GMzEl1fl",
+					"display_url": "pic.twitter.com/h2GMzEl1fl",
+					"expanded_url": "https://twitter.com/record_liak/status/1407509411531087875/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407509380140978200,
+					"id_str": "1407509380140978176",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/E4h6Uu1VUAAx89S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4h6Uu1VUAAx89S.jpg",
+					"url": "https://t.co/h2GMzEl1fl",
+					"display_url": "pic.twitter.com/h2GMzEl1fl",
+					"expanded_url": "https://twitter.com/record_liak/status/1407509411531087875/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 579588650,
+			"id_str": "579588650",
+			"name": "L.I.A.K",
+			"screen_name": "record_liak",
+			"location": "Seoul, Korea",
+			"description": "- 서울음악창작지원센터, 씬디 티켓라운지\n- 플럭서스/루비레코드/엠와이뮤직/주식회사엠피엠지/모던보이ENT/붕가붕가레코드/안테나/JNH뮤직/매직스트로베리/쇼파르/슈가레코드/쿨스뮤직/스티즈/인넥스트트렌드/DHPE/웨스트브릿지/그랜드라인/닥터심슨컴퍼니/미러볼뮤직/누플레이/빌리빈 등",
+			"url": "https://t.co/zKpQqBs24l",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zKpQqBs24l",
+							"expanded_url": "http://liak.or.kr/",
+							"display_url": "liak.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2033,
+			"friends_count": 1997,
+			"listed_count": 36,
+			"created_at": "Mon May 14 05:51:50 +0000 2012",
+			"favourites_count": 287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/548356374137020416/Bvr-wnEw_normal.jpeg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "['인디' 음악에 대한 여러분의 의견을 묻습니다!]\n⠀\n✨설문링크: https://t.co/ErNmeiHPsn\n⠀\n안녕하세요. 사단법인 한국음악레이블산업협회입니다.\n⠀\n'인디' 음악의 규정을 공식화하고 정책에 반영될 수 있도록 많은 참여 바랍니다.\n⠀\n#한국음악레이블산업협회 #인디 #인디음악 https://t.co/h2GMzEl1fl"
+	},
+	{
 		"created_at": "Wed Jun 23 00:27:28 +0000 2021",
 		"id": 1407322484735496200,
 		"id_str": "1407495486471213057",
