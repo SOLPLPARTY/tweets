@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 24 05:58:15 +0000 2021",
+		"id": 1407936635484872700,
+		"id_str": "1407941116318650370",
+		"full_text": "#VERIVERY'S BREAKING LIVE STARTS SOON! \n#베리베리 의 BREAKING LIVE가 곧 시작됩니다! \n#VERIVERY のBREAKING LIVEがまもなく始まります! \n\n▶ KCON official: https://t.co/N6Y8gXSSXg \n▶ Mnet K-POP: https://t.co/psCjUsrDLK \n▶ TVING: https://t.co/iXdQexqSdU\n\n#KCONTACT #KCONTACT4U https://t.co/AyOA9c5S8P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VERIVERY",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "베리베리",
+					"indices": [
+						40,
+						45
+					]
+				},
+				{
+					"text": "VERIVERY",
+					"indices": [
+						73,
+						82
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						226,
+						235
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						236,
+						247
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N6Y8gXSSXg",
+					"expanded_url": "https://youtu.be/DpelH72Rqxo",
+					"display_url": "youtu.be/DpelH72Rqxo",
+					"indices": [
+						128,
+						151
+					]
+				},
+				{
+					"url": "https://t.co/psCjUsrDLK",
+					"expanded_url": "https://youtu.be/8BtQbKxMy9A",
+					"display_url": "youtu.be/8BtQbKxMy9A",
+					"indices": [
+						167,
+						190
+					]
+				},
+				{
+					"url": "https://t.co/iXdQexqSdU",
+					"expanded_url": "https://www.tving.com/live/player/C51248",
+					"display_url": "tving.com/live/player/C5…",
+					"indices": [
+						201,
+						224
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1407936627796701200,
+					"id_str": "1407936627796701184",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/E4n-50YVcAAfEQb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4n-50YVcAAfEQb.jpg",
+					"url": "https://t.co/AyOA9c5S8P",
+					"display_url": "pic.twitter.com/AyOA9c5S8P",
+					"expanded_url": "https://twitter.com/KCON_official/status/1407936635484872704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407936627796701200,
+					"id_str": "1407936627796701184",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/E4n-50YVcAAfEQb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4n-50YVcAAfEQb.jpg",
+					"url": "https://t.co/AyOA9c5S8P",
+					"display_url": "pic.twitter.com/AyOA9c5S8P",
+					"expanded_url": "https://twitter.com/KCON_official/status/1407936635484872704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 365708,
+			"friends_count": 75,
+			"listed_count": 982,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 118,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 174,
+		"favorite_count": 471,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#VERIVERY'S BREAKING LIVE STARTS SOON! \n#베리베리 의 BREAKING LIVE가 곧 시작됩니다! \n#VERIVERY のBREAKING LIVEがまもなく始まります! \n\n▶ KCON official: https://t.co/N6Y8gXSSXg \n▶ Mnet K-POP: https://t.co/psCjUsrDLK \n▶ TVING: https://t.co/iXdQexqSdU\n\n#KCONTACT #KCONTACT4U https://t.co/AyOA9c5S8P"
+	},
+	{
 		"created_at": "Thu Jun 24 05:01:12 +0000 2021",
 		"id": 1407926762508632000,
 		"id_str": "1407926762508632065",
