@@ -1,6 +1,386 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 24 08:05:43 +0000 2021",
+		"id": 1407973195173531600,
+		"id_str": "1407973195173531648",
+		"full_text": "#문화가있는날 #블로그\n✨1인당 최대 500만원 영상 제작비 지원✨ 2021 문화가 있는 날 1인 크리에이터 '문화보러 2기'를 모집합니다!\nhttps://t.co/PWe8DDpQTR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문화가있는날",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						8,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PWe8DDpQTR",
+					"expanded_url": "https://bit.ly/3h4GSi5",
+					"display_url": "bit.ly/3h4GSi5",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 463,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#문화가있는날 #블로그\n✨1인당 최대 500만원 영상 제작비 지원✨ 2021 문화가 있는 날 1인 크리에이터 '문화보러 2기'를 모집합니다!\nhttps://t.co/PWe8DDpQTR"
+	},
+	{
+		"created_at": "Thu Jun 24 07:58:14 +0000 2021",
+		"id": 1407962992445034500,
+		"id_str": "1407971314728640514",
+		"full_text": "#PENTAGON'S BREAKING LIVE STARTS SOON! \n#펜타곤 의 BREAKING LIVE가 곧 시작됩니다! \n#PENTAGON のBREAKING LIVEがまもなく始まります! \n\n▶ KCON official: https://t.co/cuWldAse8G  \n▶ Mnet K-POP: https://t.co/JFQTUZDW0Y  \n▶ TVING: https://t.co/iXdQexqSdU  \n\n#KCONTACT #KCONTACT4U https://t.co/V4jFsbk3y6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PENTAGON",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "펜타곤",
+					"indices": [
+						40,
+						44
+					]
+				},
+				{
+					"text": "PENTAGON",
+					"indices": [
+						72,
+						81
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						229,
+						238
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						239,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cuWldAse8G",
+					"expanded_url": "https://youtu.be/5BDhqAxE6UQ",
+					"display_url": "youtu.be/5BDhqAxE6UQ",
+					"indices": [
+						127,
+						150
+					]
+				},
+				{
+					"url": "https://t.co/JFQTUZDW0Y",
+					"expanded_url": "https://youtu.be/qCAkQ6yVjds",
+					"display_url": "youtu.be/qCAkQ6yVjds",
+					"indices": [
+						167,
+						190
+					]
+				},
+				{
+					"url": "https://t.co/iXdQexqSdU",
+					"expanded_url": "https://www.tving.com/live/player/C51248",
+					"display_url": "tving.com/live/player/C5…",
+					"indices": [
+						202,
+						225
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1407962984387805200,
+					"id_str": "1407962984387805185",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/E4oW3-VVgAEUVMA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4oW3-VVgAEUVMA.jpg",
+					"url": "https://t.co/V4jFsbk3y6",
+					"display_url": "pic.twitter.com/V4jFsbk3y6",
+					"expanded_url": "https://twitter.com/KCON_official/status/1407962992445034501/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407962984387805200,
+					"id_str": "1407962984387805185",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/E4oW3-VVgAEUVMA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4oW3-VVgAEUVMA.jpg",
+					"url": "https://t.co/V4jFsbk3y6",
+					"display_url": "pic.twitter.com/V4jFsbk3y6",
+					"expanded_url": "https://twitter.com/KCON_official/status/1407962992445034501/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 365822,
+			"friends_count": 75,
+			"listed_count": 982,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 118,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10020,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 598,
+		"favorite_count": 2055,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#PENTAGON'S BREAKING LIVE STARTS SOON! \n#펜타곤 의 BREAKING LIVE가 곧 시작됩니다! \n#PENTAGON のBREAKING LIVEがまもなく始まります! \n\n▶ KCON official: https://t.co/cuWldAse8G  \n▶ Mnet K-POP: https://t.co/JFQTUZDW0Y  \n▶ TVING: https://t.co/iXdQexqSdU  \n\n#KCONTACT #KCONTACT4U https://t.co/V4jFsbk3y6"
+	},
+	{
 		"created_at": "Thu Jun 24 07:11:16 +0000 2021",
 		"id": 1407945240950964200,
 		"id_str": "1407959494928261128",
