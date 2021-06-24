@@ -1,6 +1,1285 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 24 04:01:57 +0000 2021",
+		"id": 1407911848687571000,
+		"id_str": "1407911848687570945",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n6월 24일 | Omak, Wally, 홍하\nhttps://t.co/ISmOXmfas0\n#블로그 #유통사 #인디음악 #인디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "유통사",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						90,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ISmOXmfas0",
+					"expanded_url": "https://bit.ly/3gR0abw",
+					"display_url": "bit.ly/3gR0abw",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 463,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n6월 24일 | Omak, Wally, 홍하\nhttps://t.co/ISmOXmfas0\n#블로그 #유통사 #인디음악 #인디"
+	},
+	{
+		"created_at": "Thu Jun 24 03:38:03 +0000 2021",
+		"id": 1407905834152206300,
+		"id_str": "1407905834152206344",
+		"full_text": "#ONSTAGE #온스테이지\n느닷없이 뜨거운 여행, 모스크바서핑클럽\nhttps://t.co/9KT1KdjUsL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ONSTAGE",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "온스테이지",
+					"indices": [
+						9,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9KT1KdjUsL",
+					"expanded_url": "https://bit.ly/3qnjyQT",
+					"display_url": "bit.ly/3qnjyQT",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 463,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ONSTAGE #온스테이지\n느닷없이 뜨거운 여행, 모스크바서핑클럽\nhttps://t.co/9KT1KdjUsL"
+	},
+	{
+		"created_at": "Thu Jun 24 03:29:46 +0000 2021",
+		"id": 1407900260219773000,
+		"id_str": "1407903751483035649",
+		"full_text": "Melon - https://t.co/vUjlaB06yE\nGenie - https://t.co/0yHLbKXveZ\nFLO - https://t.co/nf2kkGdaC7\nBugs - https://t.co/rfmTxeXpud\nVIBE - https://t.co/fsO4PcSQ1P\n\n#하연 #Hayeon #idkwtd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하연",
+					"indices": [
+						157,
+						160
+					]
+				},
+				{
+					"text": "Hayeon",
+					"indices": [
+						161,
+						168
+					]
+				},
+				{
+					"text": "idkwtd",
+					"indices": [
+						169,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vUjlaB06yE",
+					"expanded_url": "http://kko.to/RHlHIBpfM",
+					"display_url": "kko.to/RHlHIBpfM",
+					"indices": [
+						8,
+						31
+					]
+				},
+				{
+					"url": "https://t.co/0yHLbKXveZ",
+					"expanded_url": "http://genie.co.kr/V7PSN3",
+					"display_url": "genie.co.kr/V7PSN3",
+					"indices": [
+						40,
+						63
+					]
+				},
+				{
+					"url": "https://t.co/nf2kkGdaC7",
+					"expanded_url": "http://flomuz.io/s/a.BE4sw",
+					"display_url": "flomuz.io/s/a.BE4sw",
+					"indices": [
+						70,
+						93
+					]
+				},
+				{
+					"url": "https://t.co/rfmTxeXpud",
+					"expanded_url": "https://m.bugs.co.kr/album/4051141",
+					"display_url": "m.bugs.co.kr/album/4051141",
+					"indices": [
+						101,
+						124
+					]
+				},
+				{
+					"url": "https://t.co/fsO4PcSQ1P",
+					"expanded_url": "http://naver.me/xYQoo5mU",
+					"display_url": "naver.me/xYQoo5mU",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1407896261227958300,
+		"in_reply_to_status_id_str": "1407896261227958274",
+		"in_reply_to_user_id": 964372210436591600,
+		"in_reply_to_user_id_str": "964372210436591616",
+		"in_reply_to_screen_name": "aimbyenterarts",
+		"user": {
+			"id": 964372210436591600,
+			"id_str": "964372210436591616",
+			"name": "Enterarts - A.I.M",
+			"screen_name": "aimbyenterarts",
+			"location": "",
+			"description": "The World's First AI Music Production Company & Record Label / Artist Agency 세계 최초 인공지능 음반 제작 레이블",
+			"url": "https://t.co/j360f0m0bn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j360f0m0bn",
+							"expanded_url": "http://www.enterarts.net",
+							"display_url": "enterarts.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 346,
+			"friends_count": 4,
+			"listed_count": 5,
+			"created_at": "Fri Feb 16 05:33:46 +0000 2018",
+			"favourites_count": 1200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/964372210436591616/1518759589",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Melon - https://t.co/vUjlaB06yE\nGenie - https://t.co/0yHLbKXveZ\nFLO - https://t.co/nf2kkGdaC7\nBugs - https://t.co/rfmTxeXpud\nVIBE - https://t.co/fsO4PcSQ1P\n\n#하연 #Hayeon #idkwtd"
+	},
+	{
+		"created_at": "Thu Jun 24 03:29:42 +0000 2021",
+		"id": 1407896698886578200,
+		"id_str": "1407903734223540229",
+		"full_text": "[레인보우 노트(Rainbow note)] 수면(水面) Live\n\n2021.06.24 12pm \n레인보우 노트의 첫번째 미니앨범 [Animation]이 발매되었습니다🌈\n타이틀 곡 '수면(水面)' 의 Live를 공개합니다💜\nㅡ\n음원듣기 : https://t.co/Ia79dwOdks\nㅡ\n\n▶https://t.co/d8LW0w9tcG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ia79dwOdks",
+					"expanded_url": "http://kko.to/q3lqeoM4M",
+					"display_url": "kko.to/q3lqeoM4M",
+					"indices": [
+						133,
+						156
+					]
+				},
+				{
+					"url": "https://t.co/d8LW0w9tcG",
+					"expanded_url": "https://youtu.be/RWfok9-wcxY",
+					"display_url": "youtu.be/RWfok9-wcxY",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7712,
+			"friends_count": 8343,
+			"listed_count": 199,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 874,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[레인보우 노트(Rainbow note)] 수면(水面) Live\n\n2021.06.24 12pm \n레인보우 노트의 첫번째 미니앨범 [Animation]이 발매되었습니다🌈\n타이틀 곡 '수면(水面)' 의 Live를 공개합니다💜\nㅡ\n음원듣기 : https://t.co/Ia79dwOdks\nㅡ\n\n▶https://t.co/d8LW0w9tcG"
+	},
+	{
+		"created_at": "Thu Jun 24 03:29:34 +0000 2021",
+		"id": 1407896261227958300,
+		"id_str": "1407903700157358080",
+		"full_text": "[🎧] 하연 - idkwtd 발매되었습니다 🎵 2021.06.24\n\nOriginal ver. 🎬 https://t.co/M7D9MoG2yN\nAmbient ver. 🎬 https://t.co/ETAxPhWce6\n\n#Hayeon #하연 #idkwtd #AIM https://t.co/F8fbwrEoZl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Hayeon",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "하연",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "idkwtd",
+					"indices": [
+						130,
+						137
+					]
+				},
+				{
+					"text": "AIM",
+					"indices": [
+						138,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M7D9MoG2yN",
+					"expanded_url": "https://youtu.be/JIyIbjNMWiY",
+					"display_url": "youtu.be/JIyIbjNMWiY",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/ETAxPhWce6",
+					"expanded_url": "https://youtu.be/B3BBRGJrqsk",
+					"display_url": "youtu.be/B3BBRGJrqsk",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1407868871449608200,
+					"id_str": "1407868871449608193",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/E4nBR4UVgAEtkiB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4nBR4UVgAEtkiB.jpg",
+					"url": "https://t.co/F8fbwrEoZl",
+					"display_url": "pic.twitter.com/F8fbwrEoZl",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1407896261227958274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407868871449608200,
+					"id_str": "1407868871449608193",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/E4nBR4UVgAEtkiB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4nBR4UVgAEtkiB.jpg",
+					"url": "https://t.co/F8fbwrEoZl",
+					"display_url": "pic.twitter.com/F8fbwrEoZl",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1407896261227958274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 964372210436591600,
+			"id_str": "964372210436591616",
+			"name": "Enterarts - A.I.M",
+			"screen_name": "aimbyenterarts",
+			"location": "",
+			"description": "The World's First AI Music Production Company & Record Label / Artist Agency 세계 최초 인공지능 음반 제작 레이블",
+			"url": "https://t.co/j360f0m0bn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j360f0m0bn",
+							"expanded_url": "http://www.enterarts.net",
+							"display_url": "enterarts.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 346,
+			"friends_count": 4,
+			"listed_count": 5,
+			"created_at": "Fri Feb 16 05:33:46 +0000 2018",
+			"favourites_count": 1200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/964372210436591616/1518759589",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎧] 하연 - idkwtd 발매되었습니다 🎵 2021.06.24\n\nOriginal ver. 🎬 https://t.co/M7D9MoG2yN\nAmbient ver. 🎬 https://t.co/ETAxPhWce6\n\n#Hayeon #하연 #idkwtd #AIM https://t.co/F8fbwrEoZl"
+	},
+	{
+		"created_at": "Thu Jun 24 03:29:25 +0000 2021",
+		"id": 1407889042469912600,
+		"id_str": "1407903661930471426",
+		"full_text": "[ 안테나 X 삼성 라이프스타일 TV ]\n\n샘으로부터 시작된 삼성 라이프스타일 TV Song 프로젝트\n자본주의 힐링 예능 샘Song🎵✨\n\n✔️ EP.1\nhttps://t.co/1bySLcrsyb\n\n✔️ EP.2\nhttps://t.co/AUj5S0ym7G\n\n#안테나 #삼성 #라이프스타일TV\n#유희열 #정재형 #페퍼톤스 #권진아 #샘김",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안테나",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "삼성",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "라이프스타일TV",
+					"indices": [
+						152,
+						161
+					]
+				},
+				{
+					"text": "유희열",
+					"indices": [
+						162,
+						166
+					]
+				},
+				{
+					"text": "정재형",
+					"indices": [
+						167,
+						171
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						172,
+						177
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						178,
+						182
+					]
+				},
+				{
+					"text": "샘김",
+					"indices": [
+						183,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1bySLcrsyb",
+					"expanded_url": "https://youtu.be/zrWRS0oQywo",
+					"display_url": "youtu.be/zrWRS0oQywo",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/AUj5S0ym7G",
+					"expanded_url": "https://youtu.be/SpUelNR8ckI",
+					"display_url": "youtu.be/SpUelNR8ckI",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / Sam Kim (샘김) Single ‘The Juice’ 2021. 06. 23. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36254,
+			"friends_count": 14,
+			"listed_count": 371,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1623754978",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ 안테나 X 삼성 라이프스타일 TV ]\n\n샘으로부터 시작된 삼성 라이프스타일 TV Song 프로젝트\n자본주의 힐링 예능 샘Song🎵✨\n\n✔️ EP.1\nhttps://t.co/1bySLcrsyb\n\n✔️ EP.2\nhttps://t.co/AUj5S0ym7G\n\n#안테나 #삼성 #라이프스타일TV\n#유희열 #정재형 #페퍼톤스 #권진아 #샘김"
+	},
+	{
+		"created_at": "Thu Jun 24 03:26:10 +0000 2021",
+		"id": 1407902846633320400,
+		"id_str": "1407902846633320450",
+		"full_text": "#서울뮤직 #SEOUL_MUSIC\n[Teaser] TXT (투모로우바이투게더) - 0X1=LOVESONG (I Know I Love You) feat. pH-1, Woodie Gochild, Seori\nhttps://t.co/1Pvxk2Jdta",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SEOUL_MUSIC",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1Pvxk2Jdta",
+					"expanded_url": "https://youtu.be/wYE20zuwDIY",
+					"display_url": "youtu.be/wYE20zuwDIY",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 463,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#서울뮤직 #SEOUL_MUSIC\n[Teaser] TXT (투모로우바이투게더) - 0X1=LOVESONG (I Know I Love You) feat. pH-1, Woodie Gochild, Seori\nhttps://t.co/1Pvxk2Jdta"
+	},
+	{
+		"created_at": "Thu Jun 24 03:24:36 +0000 2021",
+		"id": 1407902451152347100,
+		"id_str": "1407902451152347137",
+		"full_text": "#온스테이지 #ONSTAGE\n[온스테이지2.0] 모스크바서핑클럽 - Through Her\nhttps://t.co/k9zmYbQTIa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "온스테이지",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "ONSTAGE",
+					"indices": [
+						7,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k9zmYbQTIa",
+					"expanded_url": "https://youtu.be/5TuVghULNGU",
+					"display_url": "youtu.be/5TuVghULNGU",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 262,
+			"friends_count": 463,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#온스테이지 #ONSTAGE\n[온스테이지2.0] 모스크바서핑클럽 - Through Her\nhttps://t.co/k9zmYbQTIa"
+	},
+	{
 		"created_at": "Thu Jun 24 03:09:04 +0000 2021",
 		"id": 1407898541037600800,
 		"id_str": "1407898541037600768",
