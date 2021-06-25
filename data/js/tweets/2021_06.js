@@ -1,6 +1,555 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 25 07:58:14 +0000 2021",
+		"id": 1408319574739603500,
+		"id_str": "1408333702447443974",
+		"full_text": "#KCONTACT4U SHOW DAY 3 was packed with impressive performances! \nCheck out the highlight video!\n\n화려한 무대들로 꽉 채워졌던 \nKCON:TACT 4 U SHOW DAY 3!\n하이라이트 영상을 확인하세요!\n\n華やかなステージで箱詰めした\nKCON:TACT 4 U SHOW DAY 3!\nハイライト映像をご確認ください!\n\n#KCONTACT https://t.co/E5jXCJ5JwW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						217,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1408318995590115300,
+					"id_str": "1408318995590115334",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1408318995590115334/pu/img/cgeA0Q-jh21nbbYX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1408318995590115334/pu/img/cgeA0Q-jh21nbbYX.jpg",
+					"url": "https://t.co/E5jXCJ5JwW",
+					"display_url": "pic.twitter.com/E5jXCJ5JwW",
+					"expanded_url": "https://twitter.com/KCON_official/status/1408319574739603459/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408318995590115300,
+					"id_str": "1408318995590115334",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1408318995590115334/pu/img/cgeA0Q-jh21nbbYX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1408318995590115334/pu/img/cgeA0Q-jh21nbbYX.jpg",
+					"url": "https://t.co/E5jXCJ5JwW",
+					"display_url": "pic.twitter.com/E5jXCJ5JwW",
+					"expanded_url": "https://twitter.com/KCON_official/status/1408319574739603459/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 100667,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1408318995590115334/pu/vid/480x270/2vcURROJD86l5xlu.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1408318995590115334/pu/vid/1280x720/T3lM7eTblYVciTRp.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1408318995590115334/pu/vid/640x360/ubTc1t8vhb6FHegG.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1408318995590115334/pu/pl/mTv-whYzQgLBNKNA.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 366730,
+			"friends_count": 75,
+			"listed_count": 979,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 273,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#KCONTACT4U SHOW DAY 3 was packed with impressive performances! \nCheck out the highlight video!\n\n화려한 무대들로 꽉 채워졌던 \nKCON:TACT 4 U SHOW DAY 3!\n하이라이트 영상을 확인하세요!\n\n華やかなステージで箱詰めした\nKCON:TACT 4 U SHOW DAY 3!\nハイライト映像をご確認ください!\n\n#KCONTACT https://t.co/E5jXCJ5JwW"
+	},
+	{
+		"created_at": "Fri Jun 25 07:29:38 +0000 2021",
+		"id": 1408324330279170000,
+		"id_str": "1408326502266114051",
+		"full_text": "[#박소은] \n🎶썸라이브 ‘박소은 - 우리는 같은 음악을 듣고’  @번영로474 Live Clip🎶\n\nhttps://t.co/RLd0atQy7v\n\n#썸라이브 #박소은 #제주도 #라이브 #세탁소 #제주담은세탁소 #번영로474 #공간 #플레이스 #음악 #공연 #유튜브",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박소은",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "썸라이브",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "박소은",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "제주도",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "라이브",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "세탁소",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "제주담은세탁소",
+					"indices": [
+						108,
+						116
+					]
+				},
+				{
+					"text": "번영로474",
+					"indices": [
+						117,
+						124
+					]
+				},
+				{
+					"text": "공간",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "플레이스",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "음악",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						139,
+						142
+					]
+				},
+				{
+					"text": "유튜브",
+					"indices": [
+						143,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RLd0atQy7v",
+					"expanded_url": "https://youtu.be/G9ZQ5-WrOTo",
+					"display_url": "youtu.be/G9ZQ5-WrOTo",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 (당신의여름)",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 계피, 김사월, 김사월X김해원, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타, 홍이삭과 함께합니다.",
+			"url": "https://t.co/oHXBW5kYJK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oHXBW5kYJK",
+							"expanded_url": "http://www.instagram.com/yoursummerkr",
+							"display_url": "instagram.com/yoursummerkr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2087,
+			"friends_count": 23,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5264,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#박소은] \n🎶썸라이브 ‘박소은 - 우리는 같은 음악을 듣고’  @번영로474 Live Clip🎶\n\nhttps://t.co/RLd0atQy7v\n\n#썸라이브 #박소은 #제주도 #라이브 #세탁소 #제주담은세탁소 #번영로474 #공간 #플레이스 #음악 #공연 #유튜브"
+	},
+	{
+		"created_at": "Fri Jun 25 07:29:32 +0000 2021",
+		"id": 1408319296879480800,
+		"id_str": "1408326476555038721",
+		"full_text": "Spotify - https://t.co/xbnJGyz5Ab\n\n#하연 #Hayeon #idkwtd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하연",
+					"indices": [
+						35,
+						38
+					]
+				},
+				{
+					"text": "Hayeon",
+					"indices": [
+						39,
+						46
+					]
+				},
+				{
+					"text": "idkwtd",
+					"indices": [
+						47,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xbnJGyz5Ab",
+					"expanded_url": "https://open.spotify.com/album/6cX6RlyiYvpEKeOgIW15dh?si=xo0TVwA1SnejDZ7npPu2hw&dl_branch=1",
+					"display_url": "open.spotify.com/album/6cX6Rlyi…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1407900260219773000,
+		"in_reply_to_status_id_str": "1407900260219772933",
+		"in_reply_to_user_id": 964372210436591600,
+		"in_reply_to_user_id_str": "964372210436591616",
+		"in_reply_to_screen_name": "aimbyenterarts",
+		"user": {
+			"id": 964372210436591600,
+			"id_str": "964372210436591616",
+			"name": "Enterarts - A.I.M",
+			"screen_name": "aimbyenterarts",
+			"location": "",
+			"description": "The World's First AI Music Production Company & Record Label / Artist Agency 세계 최초 인공지능 음반 제작 레이블",
+			"url": "https://t.co/j360f0m0bn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j360f0m0bn",
+							"expanded_url": "http://www.enterarts.net",
+							"display_url": "enterarts.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 346,
+			"friends_count": 4,
+			"listed_count": 0,
+			"created_at": "Fri Feb 16 05:33:46 +0000 2018",
+			"favourites_count": 1200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 241,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/964372210436591616/1518759589",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Spotify - https://t.co/xbnJGyz5Ab\n\n#하연 #Hayeon #idkwtd"
+	},
+	{
 		"created_at": "Fri Jun 25 07:11:26 +0000 2021",
 		"id": 1408315763081941000,
 		"id_str": "1408321922790739970",
