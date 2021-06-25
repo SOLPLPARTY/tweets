@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 25 00:58:15 +0000 2021",
+		"id": 1408213353902661600,
+		"id_str": "1408228007710531584",
+		"full_text": "Check out Mafia Chef on June 25 at 6pm (KST)\nPlease visit 2021 K-FOOD Finder too! \n▶ https://t.co/oCXK8ouKdJ \n\n#kfood #KCONTACT #THEBOYZ https://t.co/99A3xwb3mQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "kfood",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						118,
+						127
+					]
+				},
+				{
+					"text": "THEBOYZ",
+					"indices": [
+						128,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oCXK8ouKdJ",
+					"expanded_url": "http://www.2021kfoodfinder.com",
+					"display_url": "2021kfoodfinder.com",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1407999212080357400,
+					"id_str": "1407999212080357379",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/E4o30tAUYAMsbIX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4o30tAUYAMsbIX.jpg",
+					"url": "https://t.co/99A3xwb3mQ",
+					"display_url": "pic.twitter.com/99A3xwb3mQ",
+					"expanded_url": "https://twitter.com/KCON_official/status/1408213353902661635/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407999212080357400,
+					"id_str": "1407999212080357379",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/E4o30tAUYAMsbIX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4o30tAUYAMsbIX.jpg",
+					"url": "https://t.co/99A3xwb3mQ",
+					"display_url": "pic.twitter.com/99A3xwb3mQ",
+					"expanded_url": "https://twitter.com/KCON_official/status/1408213353902661635/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 366273,
+			"friends_count": 75,
+			"listed_count": 984,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10043,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 227,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out Mafia Chef on June 25 at 6pm (KST)\nPlease visit 2021 K-FOOD Finder too! \n▶ https://t.co/oCXK8ouKdJ \n\n#kfood #KCONTACT #THEBOYZ https://t.co/99A3xwb3mQ"
+	},
+	{
 		"created_at": "Thu Jun 24 15:58:15 +0000 2021",
 		"id": 1408086261215150000,
 		"id_str": "1408092111145259009",
