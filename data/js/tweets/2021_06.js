@@ -1,6 +1,452 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 25 04:29:41 +0000 2021",
+		"id": 1408281085281144800,
+		"id_str": "1408281216370057222",
+		"full_text": "🥳#에드시런 #신곡발매🥳\n🩸𝑩𝒂𝒅 𝑯𝒂𝒃𝒊𝒕𝒔🩸 드디어 공개❗\n🎧https://t.co/GofWqH0Qfs https://t.co/twjolVxdP1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에드시런",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "신곡발매",
+					"indices": [
+						7,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GofWqH0Qfs",
+					"expanded_url": "https://WMK.lnk.to/dS4jWoyuTA",
+					"display_url": "WMK.lnk.to/dS4jWoyuTA",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1408280721823715300,
+					"id_str": "1408280721823715330",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1408280721823715330/pu/img/YMaj2dXApvRyFEfW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1408280721823715330/pu/img/YMaj2dXApvRyFEfW.jpg",
+					"url": "https://t.co/twjolVxdP1",
+					"display_url": "pic.twitter.com/twjolVxdP1",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1408281085281144840/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408280721823715300,
+					"id_str": "1408280721823715330",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1408280721823715330/pu/img/YMaj2dXApvRyFEfW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1408280721823715330/pu/img/YMaj2dXApvRyFEfW.jpg",
+					"url": "https://t.co/twjolVxdP1",
+					"display_url": "pic.twitter.com/twjolVxdP1",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1408281085281144840/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 20000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1408280721823715330/pu/pl/Ip3D9keVsNzvzwro.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1408280721823715330/pu/vid/320x320/ihKQR70e1vJQ28aT.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1408280721823715330/pu/vid/540x540/gw5qZ-JHEwID3PgT.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1408280721823715330/pu/vid/720x720/l0clfnqKnxtBQbhH.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51715,
+			"friends_count": 497,
+			"listed_count": 189,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11184,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🥳#에드시런 #신곡발매🥳\n🩸𝑩𝒂𝒅 𝑯𝒂𝒃𝒊𝒕𝒔🩸 드디어 공개❗\n🎧https://t.co/GofWqH0Qfs https://t.co/twjolVxdP1"
+	},
+	{
+		"created_at": "Fri Jun 25 04:29:33 +0000 2021",
+		"id": 1408280961024815000,
+		"id_str": "1408281182329085956",
+		"full_text": "지니뮤직 매거진에서 오프닝 이벤트를 진행합니다! \n[Opening]에 관한 모든것! 지금 확인하세요!☀️☀️\n\n지니뮤직매거진 바로가기=&gt;https://t.co/U6Xqhkf4Xw\n\n#9와숫자들 #오프닝 #지니뮤직매거진 #스페셜이벤트 #차별금지법 #opening https://t.co/t0O90F3i0E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "9와숫자들",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "오프닝",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "지니뮤직매거진",
+					"indices": [
+						116,
+						124
+					]
+				},
+				{
+					"text": "스페셜이벤트",
+					"indices": [
+						125,
+						132
+					]
+				},
+				{
+					"text": "차별금지법",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "opening",
+					"indices": [
+						140,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U6Xqhkf4Xw",
+					"expanded_url": "https://www.genie.co.kr/magazine/subMain?ctid=1&mgz_seq=10394",
+					"display_url": "genie.co.kr/magazine/subMa…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1408280417023660000,
+					"id_str": "1408280417023660037",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/E4s3k_DVkAUqxGM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4s3k_DVkAUqxGM.jpg",
+					"url": "https://t.co/t0O90F3i0E",
+					"display_url": "pic.twitter.com/t0O90F3i0E",
+					"expanded_url": "https://twitter.com/orm_ent/status/1408280961024815106/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 816,
+							"h": 862,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 816,
+							"h": 862,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 644,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408280417023660000,
+					"id_str": "1408280417023660037",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/E4s3k_DVkAUqxGM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4s3k_DVkAUqxGM.jpg",
+					"url": "https://t.co/t0O90F3i0E",
+					"display_url": "pic.twitter.com/t0O90F3i0E",
+					"expanded_url": "https://twitter.com/orm_ent/status/1408280961024815106/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 816,
+							"h": 862,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 816,
+							"h": 862,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 644,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 721,
+			"friends_count": 324,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1624418145",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지니뮤직 매거진에서 오프닝 이벤트를 진행합니다! \n[Opening]에 관한 모든것! 지금 확인하세요!☀️☀️\n\n지니뮤직매거진 바로가기=&gt;https://t.co/U6Xqhkf4Xw\n\n#9와숫자들 #오프닝 #지니뮤직매거진 #스페셜이벤트 #차별금지법 #opening https://t.co/t0O90F3i0E"
+	},
+	{
 		"created_at": "Fri Jun 25 04:11:55 +0000 2021",
 		"id": 1408276746701619200,
 		"id_str": "1408276746701619200",
