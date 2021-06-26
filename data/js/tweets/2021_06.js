@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 26 00:58:20 +0000 2021",
+		"id": 1408576031242350600,
+		"id_str": "1408590416660811778",
+		"full_text": "[KCON:TACT 3 MD REVIEW]\nKCON:TACT 4 UのMDは今予約販売中！\n今回のシーズンMDもどうぞお楽しみください♥\n\n▶EVERLINE (KOR/Global) : https://t.co/AAApsDfTau\n▶TVINGMALL (KOR) : https://t.co/csp3o4iTYB\n▶Mwave(KOR/WORLDWIDE) : https://t.co/ebiW3W2Uu0\n\n#KCONTACT #KCONTACT4U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						214,
+						223
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						224,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AAApsDfTau",
+					"expanded_url": "http://www.elinepark.com",
+					"display_url": "elinepark.com",
+					"indices": [
+						98,
+						121
+					]
+				},
+				{
+					"url": "https://t.co/csp3o4iTYB",
+					"expanded_url": "http://mall.tving.com",
+					"display_url": "mall.tving.com",
+					"indices": [
+						141,
+						164
+					]
+				},
+				{
+					"url": "https://t.co/ebiW3W2Uu0",
+					"expanded_url": "http://www.mwave.me",
+					"display_url": "mwave.me",
+					"indices": [
+						189,
+						212
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1408576029908603000,
+		"in_reply_to_status_id_str": "1408576029908602881",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 367547,
+			"friends_count": 75,
+			"listed_count": 981,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[KCON:TACT 3 MD REVIEW]\nKCON:TACT 4 UのMDは今予約販売中！\n今回のシーズンMDもどうぞお楽しみください♥\n\n▶EVERLINE (KOR/Global) : https://t.co/AAApsDfTau\n▶TVINGMALL (KOR) : https://t.co/csp3o4iTYB\n▶Mwave(KOR/WORLDWIDE) : https://t.co/ebiW3W2Uu0\n\n#KCONTACT #KCONTACT4U"
+	},
+	{
+		"created_at": "Sat Jun 26 00:58:18 +0000 2021",
+		"id": 1408576029908603000,
+		"id_str": "1408590407785717760",
+		"full_text": "[KCON:TACT 3 MD REVIEW]\nKCON:TACT 4 U의 MD는 지금 예약판매 중!\n이번 시즌 MD도 많이 기대해주세요♥\n\n▶EVERLINE (KOR/Global) : https://t.co/AAApsDfTau\n▶TVINGMALL (KOR) : https://t.co/csp3o4iTYB\n▶Mwave(KOR/WORLDWIDE) : https://t.co/ebiW3W2Uu0\n\n#KCONTACT #KCONTACT4U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						217,
+						226
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						227,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AAApsDfTau",
+					"expanded_url": "http://www.elinepark.com",
+					"display_url": "elinepark.com",
+					"indices": [
+						101,
+						124
+					]
+				},
+				{
+					"url": "https://t.co/csp3o4iTYB",
+					"expanded_url": "http://mall.tving.com",
+					"display_url": "mall.tving.com",
+					"indices": [
+						144,
+						167
+					]
+				},
+				{
+					"url": "https://t.co/ebiW3W2Uu0",
+					"expanded_url": "http://www.mwave.me",
+					"display_url": "mwave.me",
+					"indices": [
+						192,
+						215
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1408575739973169200,
+		"in_reply_to_status_id_str": "1408575739973169154",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 367547,
+			"friends_count": 75,
+			"listed_count": 981,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[KCON:TACT 3 MD REVIEW]\nKCON:TACT 4 U의 MD는 지금 예약판매 중!\n이번 시즌 MD도 많이 기대해주세요♥\n\n▶EVERLINE (KOR/Global) : https://t.co/AAApsDfTau\n▶TVINGMALL (KOR) : https://t.co/csp3o4iTYB\n▶Mwave(KOR/WORLDWIDE) : https://t.co/ebiW3W2Uu0\n\n#KCONTACT #KCONTACT4U"
+	},
+	{
 		"created_at": "Fri Jun 25 17:29:34 +0000 2021",
 		"id": 1408476408444121000,
 		"id_str": "1408477482706259978",
