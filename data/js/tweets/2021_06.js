@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 26 08:11:17 +0000 2021",
+		"id": 1408690910439915500,
+		"id_str": "1408699371470966788",
+		"full_text": "#paradisecity\n#patientspunk #steelface @Paradise City Korea https://t.co/VFYpBsEiEh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "paradisecity",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "patientspunk",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"text": "steelface",
+					"indices": [
+						28,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "paradise",
+					"name": "paradise",
+					"id": 729738839875412000,
+					"id_str": "729738839875411968",
+					"indices": [
+						39,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VFYpBsEiEh",
+					"expanded_url": "https://www.instagram.com/p/CQk0UUkFaQn/?utm_medium=twitter",
+					"display_url": "instagram.com/p/CQk0UUkFaQn/…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144667354,
+			"id_str": "4144667354",
+			"name": "CLUB STEEL FACE",
+			"screen_name": "clubsteelface",
+			"location": "10, Jandari-ro, Mapo-gu, Seoul",
+			"description": "Since 2015, Live Music Venue & Bar in Seoul, Korea(south)",
+			"url": "https://t.co/qNZdtjMBbN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qNZdtjMBbN",
+							"expanded_url": "http://steelface.com",
+							"display_url": "steelface.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 224,
+			"friends_count": 1,
+			"listed_count": 7,
+			"created_at": "Fri Nov 06 09:37:46 +0000 2015",
+			"favourites_count": 483,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144667354/1453393563",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.43712603,
+				126.45648098
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				126.45648098,
+				37.43712603
+			]
+		},
+		"place": {
+			"id": "005529605775d4e2",
+			"url": "https://api.twitter.com/1.1/geo/id/005529605775d4e2.json",
+			"place_type": "city",
+			"name": "옹진군",
+			"full_name": "대한민국 옹진군",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							124.609017344135,
+							37.0170489603828
+						],
+						[
+							126.591695803916,
+							37.0170489603828
+						],
+						[
+							126.591695803916,
+							37.9851440511976
+						],
+						[
+							124.609017344135,
+							37.9851440511976
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "#paradisecity\n#patientspunk #steelface @Paradise City Korea https://t.co/VFYpBsEiEh"
+	},
+	{
 		"created_at": "Sat Jun 26 06:58:32 +0000 2021",
 		"id": 1408678354102853600,
 		"id_str": "1408681064789426178",
