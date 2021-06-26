@@ -1,6 +1,1122 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 26 11:59:09 +0000 2021",
+		"id": 1408754845251608600,
+		"id_str": "1408756719178719234",
+		"full_text": "잠시후 저녁 9시 슬픔의케이팝파티 여섯번째 에피소드 &lt;Midsummer&gt;가 시작됩니다!🌞 https://t.co/MUZrYD52GF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1408754830412107800,
+					"id_str": "1408754830412107782",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/E4znDepUUAYiMY_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4znDepUUAYiMY_.jpg",
+					"url": "https://t.co/MUZrYD52GF",
+					"display_url": "pic.twitter.com/MUZrYD52GF",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1408754845251608577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408754830412107800,
+					"id_str": "1408754830412107782",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/E4znDepUUAYiMY_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4znDepUUAYiMY_.jpg",
+					"url": "https://t.co/MUZrYD52GF",
+					"display_url": "pic.twitter.com/MUZrYD52GF",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1408754845251608577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1408754830412189700,
+					"id_str": "1408754830412189700",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/E4znDepVkAQuspA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4znDepVkAQuspA.jpg",
+					"url": "https://t.co/MUZrYD52GF",
+					"display_url": "pic.twitter.com/MUZrYD52GF",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1408754845251608577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1408754831276220400,
+					"id_str": "1408754831276220416",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/E4znDh3VoAA6E69.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4znDh3VoAA6E69.jpg",
+					"url": "https://t.co/MUZrYD52GF",
+					"display_url": "pic.twitter.com/MUZrYD52GF",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1408754845251608577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1408754830412181500,
+					"id_str": "1408754830412181504",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/E4znDepVcAAyIWE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4znDepVcAAyIWE.jpg",
+					"url": "https://t.co/MUZrYD52GF",
+					"display_url": "pic.twitter.com/MUZrYD52GF",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1408754845251608577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1020,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1740,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 578,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬픔의케이팝파티",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW",
+			"url": "https://t.co/J4jpDKDhWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J4jpDKDhWh",
+							"expanded_url": "https://now.naver.com/player/10256",
+							"display_url": "now.naver.com/player/10256",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7628,
+			"friends_count": 30,
+			"listed_count": 19,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 691,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시후 저녁 9시 슬픔의케이팝파티 여섯번째 에피소드 &lt;Midsummer&gt;가 시작됩니다!🌞 https://t.co/MUZrYD52GF"
+	},
+	{
+		"created_at": "Sat Jun 26 11:59:04 +0000 2021",
+		"id": 1408753647891013600,
+		"id_str": "1408756698211291137",
+		"full_text": "잠시후 저녁 9시 슬픔의케이팝파티 여섯번째 에피소드 &lt;Midsummer&gt;가 시작됩니다!🌞\n\n슬케파는 아래의 링크로 입장하실수 있습니다!\n\nlisten only on\n\nhttps://t.co/34S2C5onzC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/34S2C5onzC",
+					"expanded_url": "http://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬픔의케이팝파티",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW",
+			"url": "https://t.co/J4jpDKDhWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J4jpDKDhWh",
+							"expanded_url": "https://now.naver.com/player/10256",
+							"display_url": "now.naver.com/player/10256",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7628,
+			"friends_count": 30,
+			"listed_count": 19,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 691,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시후 저녁 9시 슬픔의케이팝파티 여섯번째 에피소드 &lt;Midsummer&gt;가 시작됩니다!🌞\n\n슬케파는 아래의 링크로 입장하실수 있습니다!\n\nlisten only on\n\nhttps://t.co/34S2C5onzC"
+	},
+	{
+		"created_at": "Sat Jun 26 11:58:55 +0000 2021",
+		"id": 1408750387197214700,
+		"id_str": "1408756657090449416",
+		"full_text": "Spoiler Alert! SHOW DAY 5 #THEBOYZ Rehearsal!\nSee you on KCON:TACT 4 U at 9 PM KST!\nSHOW DAY 5 #THEBOYZ 리허설 스포일러!\n오늘 밤 9시 KCON:TACT 4 U에서 만나요!\nSHOW DAY 5 #THEBOYZ リハーサルネタバレ！\n今夜9時 KCON:TACT 4 Uで会いましょう！\n\n#KCONTACT #KCONTACT4U https://t.co/K88v4UEINM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THEBOYZ",
+					"indices": [
+						26,
+						34
+					]
+				},
+				{
+					"text": "THEBOYZ",
+					"indices": [
+						95,
+						103
+					]
+				},
+				{
+					"text": "THEBOYZ",
+					"indices": [
+						154,
+						162
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						202,
+						211
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						212,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1408748215826980900,
+					"id_str": "1408748215826980873",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1408748215826980873/pu/img/y6PHobo8TvVXOo-O.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1408748215826980873/pu/img/y6PHobo8TvVXOo-O.jpg",
+					"url": "https://t.co/K88v4UEINM",
+					"display_url": "pic.twitter.com/K88v4UEINM",
+					"expanded_url": "https://twitter.com/KCON_official/status/1408750387197214725/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408748215826980900,
+					"id_str": "1408748215826980873",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1408748215826980873/pu/img/y6PHobo8TvVXOo-O.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1408748215826980873/pu/img/y6PHobo8TvVXOo-O.jpg",
+					"url": "https://t.co/K88v4UEINM",
+					"display_url": "pic.twitter.com/K88v4UEINM",
+					"expanded_url": "https://twitter.com/KCON_official/status/1408750387197214725/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 13146,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1408748215826980873/pu/vid/1280x720/wM5tdSE_aW2Re3Zb.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1408748215826980873/pu/pl/DbarUyI2LpSjUNey.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1408748215826980873/pu/vid/480x270/QEcRKDqY8FLT1gOr.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1408748215826980873/pu/vid/640x360/gpQckkrJmw8taDuE.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369140,
+			"friends_count": 75,
+			"listed_count": 987,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2331,
+		"favorite_count": 3893,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "Spoiler Alert! SHOW DAY 5 #THEBOYZ Rehearsal!\nSee you on KCON:TACT 4 U at 9 PM KST!\nSHOW DAY 5 #THEBOYZ 리허설 스포일러!\n오늘 밤 9시 KCON:TACT 4 U에서 만나요!\nSHOW DAY 5 #THEBOYZ リハーサルネタバレ！\n今夜9時 KCON:TACT 4 Uで会いましょう！\n\n#KCONTACT #KCONTACT4U https://t.co/K88v4UEINM"
+	},
+	{
+		"created_at": "Sat Jun 26 11:58:44 +0000 2021",
+		"id": 1408749883863961600,
+		"id_str": "1408756610508509187",
+		"full_text": "Spoiler Alert! SHOW DAY 5 #SF9 Rehearsal!\nSee you on KCON:TACT 4 U at 9 PM KST!\nSHOW DAY 5 #SF9 리허설 스포일러!\n오늘 밤 9시 KCON:TACT 4 U에서 만나요!\nSHOW DAY 5 #SF9 リハーサルネタバレ！\n今夜9時 KCON:TACT 4 Uで会いましょう！\n\n#KCONTACT #KCONTACT4U https://t.co/MiV7KfCJ6W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SF9",
+					"indices": [
+						26,
+						30
+					]
+				},
+				{
+					"text": "SF9",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "SF9",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						190,
+						199
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						200,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1408747993780478000,
+					"id_str": "1408747993780477955",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1408747993780477955/pu/img/S9SNx2Fz7AVsd_F9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1408747993780477955/pu/img/S9SNx2Fz7AVsd_F9.jpg",
+					"url": "https://t.co/MiV7KfCJ6W",
+					"display_url": "pic.twitter.com/MiV7KfCJ6W",
+					"expanded_url": "https://twitter.com/KCON_official/status/1408749883863961600/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408747993780478000,
+					"id_str": "1408747993780477955",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1408747993780477955/pu/img/S9SNx2Fz7AVsd_F9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1408747993780477955/pu/img/S9SNx2Fz7AVsd_F9.jpg",
+					"url": "https://t.co/MiV7KfCJ6W",
+					"display_url": "pic.twitter.com/MiV7KfCJ6W",
+					"expanded_url": "https://twitter.com/KCON_official/status/1408749883863961600/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 13580,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1408747993780477955/pu/vid/480x270/xQQCRtyv1vuqq5TZ.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1408747993780477955/pu/vid/1280x720/-_4V6X642B4tRwvr.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1408747993780477955/pu/pl/0yPzsGaJA4Y4khSh.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1408747993780477955/pu/vid/640x360/A99yrKZtPzVdHqZk.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369140,
+			"friends_count": 75,
+			"listed_count": 987,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1989,
+		"favorite_count": 3471,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "Spoiler Alert! SHOW DAY 5 #SF9 Rehearsal!\nSee you on KCON:TACT 4 U at 9 PM KST!\nSHOW DAY 5 #SF9 리허설 스포일러!\n오늘 밤 9시 KCON:TACT 4 U에서 만나요!\nSHOW DAY 5 #SF9 リハーサルネタバレ！\n今夜9時 KCON:TACT 4 Uで会いましょう！\n\n#KCONTACT #KCONTACT4U https://t.co/MiV7KfCJ6W"
+	},
+	{
+		"created_at": "Sat Jun 26 11:58:35 +0000 2021",
+		"id": 1408749381298409500,
+		"id_str": "1408756574877884416",
+		"full_text": "Spoiler Alert! SHOW DAY 5 #iKON Rehearsal!\nSee you on KCON:TACT 4 U at 9 PM KST!\nSHOW DAY 5 #iKON 리허설 스포일러!\n오늘 밤 9시 KCON:TACT 4 U에서 만나요!\nSHOW DAY 5 #iKON リハーサルネタバレ！\n今夜9時 KCON:TACT 4 Uで会いましょう！\n\n#KCONTACT #KCONTACT4U https://t.co/qkACpKTQMj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "iKON",
+					"indices": [
+						26,
+						31
+					]
+				},
+				{
+					"text": "iKON",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "iKON",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						193,
+						202
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						203,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1408747687256551400,
+					"id_str": "1408747687256551424",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1408747687256551424/pu/img/lIo6Vi1Zk-VTOcgU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1408747687256551424/pu/img/lIo6Vi1Zk-VTOcgU.jpg",
+					"url": "https://t.co/qkACpKTQMj",
+					"display_url": "pic.twitter.com/qkACpKTQMj",
+					"expanded_url": "https://twitter.com/KCON_official/status/1408749381298409472/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408747687256551400,
+					"id_str": "1408747687256551424",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1408747687256551424/pu/img/lIo6Vi1Zk-VTOcgU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1408747687256551424/pu/img/lIo6Vi1Zk-VTOcgU.jpg",
+					"url": "https://t.co/qkACpKTQMj",
+					"display_url": "pic.twitter.com/qkACpKTQMj",
+					"expanded_url": "https://twitter.com/KCON_official/status/1408749381298409472/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 16083,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1408747687256551424/pu/vid/480x270/DSGTeIF80_UkKF3T.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1408747687256551424/pu/vid/1280x720/Vh8aPdb8XIRHz6MO.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1408747687256551424/pu/pl/60Wx8gTJnJmLEA85.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1408747687256551424/pu/vid/640x360/HL57IPrYYyTo2gtD.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369140,
+			"friends_count": 75,
+			"listed_count": 987,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 122,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3866,
+		"favorite_count": 7499,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "Spoiler Alert! SHOW DAY 5 #iKON Rehearsal!\nSee you on KCON:TACT 4 U at 9 PM KST!\nSHOW DAY 5 #iKON 리허설 스포일러!\n오늘 밤 9시 KCON:TACT 4 U에서 만나요!\nSHOW DAY 5 #iKON リハーサルネタバレ！\n今夜9時 KCON:TACT 4 Uで会いましょう！\n\n#KCONTACT #KCONTACT4U https://t.co/qkACpKTQMj"
+	},
+	{
 		"created_at": "Sat Jun 26 10:58:26 +0000 2021",
 		"id": 1408735287681880000,
 		"id_str": "1408741436607041537",
