@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 27 04:58:15 +0000 2021",
+		"id": 1409007630308180000,
+		"id_str": "1409013180723085321",
+		"full_text": "MELODY~❤\nDon’t forget that #BTOB’s limited edition signed MD packages are available from 6 PM!😉\n6시! 비투비 한정판 사인 엠디 세트 판매 잊지 않았죠?😉\n6時！BTOBの限定サインMDセット販売、忘れてないよね?😉\n\n▶ Mwave(KOR/WORLDWIDE) : https://t.co/I7ZENFdrO7 https://t.co/BPpsazcKUN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BTOB",
+					"indices": [
+						27,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I7ZENFdrO7",
+					"expanded_url": "https://bit.ly/3qdPuH3",
+					"display_url": "bit.ly/3qdPuH3",
+					"indices": [
+						186,
+						209
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1409007618438271000,
+					"id_str": "1409007618438270977",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/E43M9rbVEAEQp3J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E43M9rbVEAEQp3J.jpg",
+					"url": "https://t.co/BPpsazcKUN",
+					"display_url": "pic.twitter.com/BPpsazcKUN",
+					"expanded_url": "https://twitter.com/KCON_official/status/1409007630308179969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409007618438271000,
+					"id_str": "1409007618438270977",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/E43M9rbVEAEQp3J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E43M9rbVEAEQp3J.jpg",
+					"url": "https://t.co/BPpsazcKUN",
+					"display_url": "pic.twitter.com/BPpsazcKUN",
+					"expanded_url": "https://twitter.com/KCON_official/status/1409007630308179969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 371018,
+			"friends_count": 75,
+			"listed_count": 988,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 392,
+		"favorite_count": 1038,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "MELODY~❤\nDon’t forget that #BTOB’s limited edition signed MD packages are available from 6 PM!😉\n6시! 비투비 한정판 사인 엠디 세트 판매 잊지 않았죠?😉\n6時！BTOBの限定サインMDセット販売、忘れてないよね?😉\n\n▶ Mwave(KOR/WORLDWIDE) : https://t.co/I7ZENFdrO7 https://t.co/BPpsazcKUN"
+	},
+	{
 		"created_at": "Sun Jun 27 03:58:22 +0000 2021",
 		"id": 1408996094130806800,
 		"id_str": "1408998110559412226",
