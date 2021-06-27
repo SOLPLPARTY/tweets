@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 27 07:58:19 +0000 2021",
+		"id": 1409049428321652700,
+		"id_str": "1409058495652106242",
+		"full_text": "The start time stated on YouTube/TVING and the actual start time may differ.\n유튜브/티빙에 기재된 시간과 실제 라이브 시작 시간이 다를 수 있습니다.\nYouTubeに表記された時間と実際のライブスタート時間が異なる可能性がございます。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1409049382318612500,
+		"in_reply_to_status_id_str": "1409049382318612483",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 371936,
+			"friends_count": 75,
+			"listed_count": 988,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "The start time stated on YouTube/TVING and the actual start time may differ.\n유튜브/티빙에 기재된 시간과 실제 라이브 시작 시간이 다를 수 있습니다.\nYouTubeに表記された時間と実際のライブスタート時間が異なる可能性がございます。"
+	},
+	{
+		"created_at": "Sun Jun 27 07:58:16 +0000 2021",
+		"id": 1409049382318612500,
+		"id_str": "1409058486810562561",
+		"full_text": "#OHMYGIRL's BREAKING LIVE STARTS SOON! \n#오마이걸 의 BREAKING LIVE가 곧 시작됩니다! \n#OHMYGIRL のBREAKING LIVEがまもなく始まります! \n\n▶ KCON official: https://t.co/ODHrkenbYG \n▶ Mnet K-POP: https://t.co/PmRjVK3Wsl \n▶ TVING: https://t.co/iXdQexqSdU https://t.co/0VPMfMpy1M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						40,
+						45
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						73,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ODHrkenbYG",
+					"expanded_url": "https://youtu.be/Rlfe7cEptTk",
+					"display_url": "youtu.be/Rlfe7cEptTk",
+					"indices": [
+						128,
+						151
+					]
+				},
+				{
+					"url": "https://t.co/PmRjVK3Wsl",
+					"expanded_url": "https://youtu.be/pz_ayTz2kPM",
+					"display_url": "youtu.be/pz_ayTz2kPM",
+					"indices": [
+						167,
+						190
+					]
+				},
+				{
+					"url": "https://t.co/iXdQexqSdU",
+					"expanded_url": "https://www.tving.com/live/player/C51248",
+					"display_url": "tving.com/live/player/C5…",
+					"indices": [
+						201,
+						224
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1409048664123723800,
+					"id_str": "1409048664123723782",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/E43yS2hVUAYxRuG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E43yS2hVUAYxRuG.jpg",
+					"url": "https://t.co/0VPMfMpy1M",
+					"display_url": "pic.twitter.com/0VPMfMpy1M",
+					"expanded_url": "https://twitter.com/KCON_official/status/1409049382318612483/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409048664123723800,
+					"id_str": "1409048664123723782",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/E43yS2hVUAYxRuG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E43yS2hVUAYxRuG.jpg",
+					"url": "https://t.co/0VPMfMpy1M",
+					"display_url": "pic.twitter.com/0VPMfMpy1M",
+					"expanded_url": "https://twitter.com/KCON_official/status/1409049382318612483/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 371936,
+			"friends_count": 75,
+			"listed_count": 988,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 251,
+		"favorite_count": 773,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#OHMYGIRL's BREAKING LIVE STARTS SOON! \n#오마이걸 의 BREAKING LIVE가 곧 시작됩니다! \n#OHMYGIRL のBREAKING LIVEがまもなく始まります! \n\n▶ KCON official: https://t.co/ODHrkenbYG \n▶ Mnet K-POP: https://t.co/PmRjVK3Wsl \n▶ TVING: https://t.co/iXdQexqSdU https://t.co/0VPMfMpy1M"
+	},
+	{
 		"created_at": "Sun Jun 27 04:58:15 +0000 2021",
 		"id": 1409007630308180000,
 		"id_str": "1409013180723085321",
