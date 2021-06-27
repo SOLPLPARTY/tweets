@@ -1,6 +1,619 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 27 03:58:22 +0000 2021",
+		"id": 1408996094130806800,
+		"id_str": "1408998110559412226",
+		"full_text": "The start time stated on YouTube/TVING and the actual start time may differ.\n유튜브/티빙에 기재된 시간과 실제 라이브 시작 시간이 다를 수 있습니다.\nYouTubeに表記された時間と実際のライブスタート時間が異なる可能性がございます。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1408996005278670800,
+		"in_reply_to_status_id_str": "1408996005278670855",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 370659,
+			"friends_count": 75,
+			"listed_count": 987,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "The start time stated on YouTube/TVING and the actual start time may differ.\n유튜브/티빙에 기재된 시간과 실제 라이브 시작 시간이 다를 수 있습니다.\nYouTubeに表記された時間と実際のライブスタート時間が異なる可能性がございます。"
+	},
+	{
+		"created_at": "Sun Jun 27 03:58:15 +0000 2021",
+		"id": 1408996005278670800,
+		"id_str": "1408998080763027456",
+		"full_text": "#BTOB's BREAKING LIVE STARTS SOON! \n#비투비 의 BREAKING LIVE가 곧 시작됩니다! \n#BTOB のBREAKING LIVEがまもなく始まります! \n\n▶ KCON official: https://t.co/gdy0t22QAv \n▶ Mnet K-POP: https://t.co/uv3r2kF17q \n▶ TVING: https://t.co/iXdQexqSdU https://t.co/4VQVvnzk1P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BTOB",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "비투비",
+					"indices": [
+						36,
+						40
+					]
+				},
+				{
+					"text": "BTOB",
+					"indices": [
+						68,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gdy0t22QAv",
+					"expanded_url": "https://youtu.be/QmFdLnIgRNU",
+					"display_url": "youtu.be/QmFdLnIgRNU",
+					"indices": [
+						119,
+						142
+					]
+				},
+				{
+					"url": "https://t.co/uv3r2kF17q",
+					"expanded_url": "https://youtu.be/gZVzReEA0yo",
+					"display_url": "youtu.be/gZVzReEA0yo",
+					"indices": [
+						158,
+						181
+					]
+				},
+				{
+					"url": "https://t.co/iXdQexqSdU",
+					"expanded_url": "https://www.tving.com/live/player/C51248",
+					"display_url": "tving.com/live/player/C5…",
+					"indices": [
+						192,
+						215
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1408989180386893800,
+					"id_str": "1408989180386893837",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/E428McVUYA0Fuwm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E428McVUYA0Fuwm.jpg",
+					"url": "https://t.co/4VQVvnzk1P",
+					"display_url": "pic.twitter.com/4VQVvnzk1P",
+					"expanded_url": "https://twitter.com/KCON_official/status/1408996005278670855/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408989180386893800,
+					"id_str": "1408989180386893837",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/E428McVUYA0Fuwm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E428McVUYA0Fuwm.jpg",
+					"url": "https://t.co/4VQVvnzk1P",
+					"display_url": "pic.twitter.com/4VQVvnzk1P",
+					"expanded_url": "https://twitter.com/KCON_official/status/1408996005278670855/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 370659,
+			"friends_count": 75,
+			"listed_count": 987,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 554,
+		"favorite_count": 1256,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#BTOB's BREAKING LIVE STARTS SOON! \n#비투비 의 BREAKING LIVE가 곧 시작됩니다! \n#BTOB のBREAKING LIVEがまもなく始まります! \n\n▶ KCON official: https://t.co/gdy0t22QAv \n▶ Mnet K-POP: https://t.co/uv3r2kF17q \n▶ TVING: https://t.co/iXdQexqSdU https://t.co/4VQVvnzk1P"
+	},
+	{
+		"created_at": "Sun Jun 27 03:29:31 +0000 2021",
+		"id": 1408984248040652800,
+		"id_str": "1408990850554773507",
+		"full_text": "💿NEW MUSIC TODAY💿\nJTBC드라마&lt;알고있지만,&gt;OST Part.2\n\"나이트 오프 (Night Off) (@nightoffmusic) - 알고있지만\" 을 지금 바로 음원 사이트에서 만나보세요!\n⠀\n🦋https://t.co/Eq6DU0DuJ4\n⠀\n#warnermusic #release #OST #JTBC #알고있지만 #송강 #한소희 #나이트오프 #NightOff #이능룡 #이이언 https://t.co/7UKTIOeBU7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnermusic",
+					"indices": [
+						149,
+						161
+					]
+				},
+				{
+					"text": "release",
+					"indices": [
+						162,
+						170
+					]
+				},
+				{
+					"text": "OST",
+					"indices": [
+						171,
+						175
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "알고있지만",
+					"indices": [
+						182,
+						188
+					]
+				},
+				{
+					"text": "송강",
+					"indices": [
+						189,
+						192
+					]
+				},
+				{
+					"text": "한소희",
+					"indices": [
+						193,
+						197
+					]
+				},
+				{
+					"text": "나이트오프",
+					"indices": [
+						198,
+						204
+					]
+				},
+				{
+					"text": "NightOff",
+					"indices": [
+						205,
+						214
+					]
+				},
+				{
+					"text": "이능룡",
+					"indices": [
+						215,
+						219
+					]
+				},
+				{
+					"text": "이이언",
+					"indices": [
+						220,
+						224
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nightoffmusic",
+					"name": "𝗡𝗶𝗴𝗵𝘁 𝗢𝗳𝗳 | 나이트오프",
+					"id": 976271758712950800,
+					"id_str": "976271758712950784",
+					"indices": [
+						71,
+						85
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Eq6DU0DuJ4",
+					"expanded_url": "https://wmk.lnk.to/NeverthelessPart2",
+					"display_url": "wmk.lnk.to/NeverthelessPa…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1408979606795800600,
+					"id_str": "1408979606795800583",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1408979606795800583/pu/img/aJhr8wo2dh_CE-eL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1408979606795800583/pu/img/aJhr8wo2dh_CE-eL.jpg",
+					"url": "https://t.co/7UKTIOeBU7",
+					"display_url": "pic.twitter.com/7UKTIOeBU7",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1408984248040652801/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408979606795800600,
+					"id_str": "1408979606795800583",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1408979606795800583/pu/img/aJhr8wo2dh_CE-eL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1408979606795800583/pu/img/aJhr8wo2dh_CE-eL.jpg",
+					"url": "https://t.co/7UKTIOeBU7",
+					"display_url": "pic.twitter.com/7UKTIOeBU7",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1408984248040652801/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 26627,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1408979606795800583/pu/pl/3vaJU5RN7L_yGuSw.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1408979606795800583/pu/vid/320x320/_CUObtukpegMByIj.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1408979606795800583/pu/vid/720x720/IOVsjfFXOLk3y_S7.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1408979606795800583/pu/vid/540x540/xk7OPOWetplyU7f3.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51698,
+			"friends_count": 497,
+			"listed_count": 190,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11189,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 178,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\nJTBC드라마&lt;알고있지만,&gt;OST Part.2\n\"나이트 오프 (Night Off) (@nightoffmusic) - 알고있지만\" 을 지금 바로 음원 사이트에서 만나보세요!\n⠀\n🦋https://t.co/Eq6DU0DuJ4\n⠀\n#warnermusic #release #OST #JTBC #알고있지만 #송강 #한소희 #나이트오프 #NightOff #이능룡 #이이언 https://t.co/7UKTIOeBU7"
+	},
+	{
 		"created_at": "Sun Jun 27 03:03:32 +0000 2021",
 		"id": 1408984313870360600,
 		"id_str": "1408984313870360577",
