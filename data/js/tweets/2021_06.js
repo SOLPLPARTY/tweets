@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 27 01:58:29 +0000 2021",
+		"id": 1408953358140907500,
+		"id_str": "1408967941035528193",
+		"full_text": "*Residents of Korea and the Philippines,\nplease check the streaming platforms available in your countries of residence.\n\n*한국 및 필리핀 거주자는 해당 국가 플랫폼을 확인해주세요.\n\n*韓国とフィリピンの居住者は\n該当国家プラットフォームをご確認ください。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1408953356186308600,
+		"in_reply_to_status_id_str": "1408953356186308610",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 370152,
+			"friends_count": 75,
+			"listed_count": 987,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 86,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "*Residents of Korea and the Philippines,\nplease check the streaming platforms available in your countries of residence.\n\n*한국 및 필리핀 거주자는 해당 국가 플랫폼을 확인해주세요.\n\n*韓国とフィリピンの居住者は\n該当国家プラットフォームをご確認ください。"
+	},
+	{
+		"created_at": "Sun Jun 27 01:58:23 +0000 2021",
+		"id": 1408953356186308600,
+		"id_str": "1408967915274113027",
+		"full_text": "KCON official👉🏻 https://t.co/alq5wErzZS \nMnet K-POP👉🏻 https://t.co/Nvq5OJw0mD \n\n💎Join the Membership\nhttps://t.co/3htPBHA6xK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/alq5wErzZS",
+					"expanded_url": "https://bit.ly/0627KCON",
+					"display_url": "bit.ly/0627KCON",
+					"indices": [
+						16,
+						39
+					]
+				},
+				{
+					"url": "https://t.co/Nvq5OJw0mD",
+					"expanded_url": "https://bit.ly/0627Mnet",
+					"display_url": "bit.ly/0627Mnet",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/3htPBHA6xK",
+					"expanded_url": "http://youtube.com/KCON/join",
+					"display_url": "youtube.com/KCON/join",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1408953225877860400,
+		"in_reply_to_status_id_str": "1408953225877860357",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 370152,
+			"friends_count": 75,
+			"listed_count": 987,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 127,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10129,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 119,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KCON official👉🏻 https://t.co/alq5wErzZS \nMnet K-POP👉🏻 https://t.co/Nvq5OJw0mD \n\n💎Join the Membership\nhttps://t.co/3htPBHA6xK"
+	},
+	{
 		"created_at": "Sat Jun 26 16:58:18 +0000 2021",
 		"id": 1408822361437225000,
 		"id_str": "1408831999108866048",
