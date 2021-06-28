@@ -1,6 +1,861 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 28 00:58:25 +0000 2021",
+		"id": 1409302021904031700,
+		"id_str": "1409315212986138628",
+		"full_text": "KCON:TACT 4 U #LEEGIKWANG's PHOTOMATIC, taken during standby!💥📷\nKCON:TACT 4 U 대기시간! #이기광 의 포토매틱을 공개합니다 💥📷\nKCON:TACT 4 U 待ち時間! #LEEGIKWANG のPHOTOMATICを公開します💥📷\n\n#KCONTACT #KCONTACT4U #포토매틱 #포토매틱포토부스 https://t.co/r6oWoK7vJA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LEEGIKWANG",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"text": "이기광",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "LEEGIKWANG",
+					"indices": [
+						126,
+						137
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						159,
+						168
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						169,
+						180
+					]
+				},
+				{
+					"text": "포토매틱",
+					"indices": [
+						181,
+						186
+					]
+				},
+				{
+					"text": "포토매틱포토부스",
+					"indices": [
+						187,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1409161343068819500,
+					"id_str": "1409161343068819458",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/E45YxoTUUAIsuW6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E45YxoTUUAIsuW6.jpg",
+					"url": "https://t.co/r6oWoK7vJA",
+					"display_url": "pic.twitter.com/r6oWoK7vJA",
+					"expanded_url": "https://twitter.com/KCON_official/status/1409302021904031749/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409161343068819500,
+					"id_str": "1409161343068819458",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/E45YxoTUUAIsuW6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E45YxoTUUAIsuW6.jpg",
+					"url": "https://t.co/r6oWoK7vJA",
+					"display_url": "pic.twitter.com/r6oWoK7vJA",
+					"expanded_url": "https://twitter.com/KCON_official/status/1409302021904031749/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 373877,
+			"friends_count": 75,
+			"listed_count": 989,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10165,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 255,
+		"favorite_count": 578,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "KCON:TACT 4 U #LEEGIKWANG's PHOTOMATIC, taken during standby!💥📷\nKCON:TACT 4 U 대기시간! #이기광 의 포토매틱을 공개합니다 💥📷\nKCON:TACT 4 U 待ち時間! #LEEGIKWANG のPHOTOMATICを公開します💥📷\n\n#KCONTACT #KCONTACT4U #포토매틱 #포토매틱포토부스 https://t.co/r6oWoK7vJA"
+	},
+	{
+		"created_at": "Mon Jun 28 00:58:23 +0000 2021",
+		"id": 1409301518713565200,
+		"id_str": "1409315204123537408",
+		"full_text": "KCON:TACT 4 U #THEBOYZ's PHOTOMATIC, taken during standby!💥📷\nKCON:TACT 4 U 대기시간! #더보이즈 의 포토매틱을 공개합니다 💥📷\nKCON:TACT 4 U 待ち時間! #THEBOYZ のPHOTOMATICを公開します💥📷\n\n#KCONTACT #KCONTACT4U #포토매틱 #포토매틱포토부스 https://t.co/UDmBos5Lv7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THEBOYZ",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"text": "더보이즈",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "THEBOYZ",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						154,
+						163
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						164,
+						175
+					]
+				},
+				{
+					"text": "포토매틱",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "포토매틱포토부스",
+					"indices": [
+						182,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1409132794094047200,
+					"id_str": "1409132794094047234",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/E44-z3FUUAI1D-8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E44-z3FUUAI1D-8.jpg",
+					"url": "https://t.co/UDmBos5Lv7",
+					"display_url": "pic.twitter.com/UDmBos5Lv7",
+					"expanded_url": "https://twitter.com/KCON_official/status/1409301518713565188/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1844,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409132794094047200,
+					"id_str": "1409132794094047234",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/E44-z3FUUAI1D-8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E44-z3FUUAI1D-8.jpg",
+					"url": "https://t.co/UDmBos5Lv7",
+					"display_url": "pic.twitter.com/UDmBos5Lv7",
+					"expanded_url": "https://twitter.com/KCON_official/status/1409301518713565188/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1844,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1409132799391518700,
+					"id_str": "1409132799391518730",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/E44-0K0VUAoyA2m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E44-0K0VUAoyA2m.jpg",
+					"url": "https://t.co/UDmBos5Lv7",
+					"display_url": "pic.twitter.com/UDmBos5Lv7",
+					"expanded_url": "https://twitter.com/KCON_official/status/1409301518713565188/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1844,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1409132804982460400,
+					"id_str": "1409132804982460421",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/E44-0fpUUAUfjp8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E44-0fpUUAUfjp8.jpg",
+					"url": "https://t.co/UDmBos5Lv7",
+					"display_url": "pic.twitter.com/UDmBos5Lv7",
+					"expanded_url": "https://twitter.com/KCON_official/status/1409301518713565188/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1844,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 373877,
+			"friends_count": 75,
+			"listed_count": 989,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10165,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3297,
+		"favorite_count": 4889,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "KCON:TACT 4 U #THEBOYZ's PHOTOMATIC, taken during standby!💥📷\nKCON:TACT 4 U 대기시간! #더보이즈 의 포토매틱을 공개합니다 💥📷\nKCON:TACT 4 U 待ち時間! #THEBOYZ のPHOTOMATICを公開します💥📷\n\n#KCONTACT #KCONTACT4U #포토매틱 #포토매틱포토부스 https://t.co/UDmBos5Lv7"
+	},
+	{
+		"created_at": "Mon Jun 28 00:58:19 +0000 2021",
+		"id": 1409301015371739100,
+		"id_str": "1409315186809487361",
+		"full_text": "KCON:TACT 4 U #SF9's PHOTOMATIC, taken during standby!💥📷\nKCON:TACT 4 U 대기시간! #에스에프나인 의 포토매틱을 공개합니다 💥📷\nKCON:TACT 4 U 待ち時間! #SF9 のPHOTOMATICを公開します💥📷\n\n#KCONTACT #KCONTACT4U #포토매틱 #포토매틱포토부스 https://t.co/oxrcIgcwNo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SF9",
+					"indices": [
+						14,
+						18
+					]
+				},
+				{
+					"text": "에스에프나인",
+					"indices": [
+						77,
+						84
+					]
+				},
+				{
+					"text": "SF9",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						148,
+						157
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						158,
+						169
+					]
+				},
+				{
+					"text": "포토매틱",
+					"indices": [
+						170,
+						175
+					]
+				},
+				{
+					"text": "포토매틱포토부스",
+					"indices": [
+						176,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1409132672090132500,
+					"id_str": "1409132672090132483",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/E44-swlUUAMoouO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E44-swlUUAMoouO.jpg",
+					"url": "https://t.co/oxrcIgcwNo",
+					"display_url": "pic.twitter.com/oxrcIgcwNo",
+					"expanded_url": "https://twitter.com/KCON_official/status/1409301015371739137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1844,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409132672090132500,
+					"id_str": "1409132672090132483",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/E44-swlUUAMoouO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E44-swlUUAMoouO.jpg",
+					"url": "https://t.co/oxrcIgcwNo",
+					"display_url": "pic.twitter.com/oxrcIgcwNo",
+					"expanded_url": "https://twitter.com/KCON_official/status/1409301015371739137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1844,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1409132678822072300,
+					"id_str": "1409132678822072320",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/E44-tJqVkAACHov.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E44-tJqVkAACHov.jpg",
+					"url": "https://t.co/oxrcIgcwNo",
+					"display_url": "pic.twitter.com/oxrcIgcwNo",
+					"expanded_url": "https://twitter.com/KCON_official/status/1409301015371739137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1844,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1409132685319041000,
+					"id_str": "1409132685319041029",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/E44-th3VcAU1U2G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E44-th3VcAU1U2G.jpg",
+					"url": "https://t.co/oxrcIgcwNo",
+					"display_url": "pic.twitter.com/oxrcIgcwNo",
+					"expanded_url": "https://twitter.com/KCON_official/status/1409301015371739137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1844,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1409132692575191000,
+					"id_str": "1409132692575191041",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/E44-t85VgAEpnDw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E44-t85VgAEpnDw.jpg",
+					"url": "https://t.co/oxrcIgcwNo",
+					"display_url": "pic.twitter.com/oxrcIgcwNo",
+					"expanded_url": "https://twitter.com/KCON_official/status/1409301015371739137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 457,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 807,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1844,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 373877,
+			"friends_count": 75,
+			"listed_count": 989,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10165,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1871,
+		"favorite_count": 3156,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "KCON:TACT 4 U #SF9's PHOTOMATIC, taken during standby!💥📷\nKCON:TACT 4 U 대기시간! #에스에프나인 의 포토매틱을 공개합니다 💥📷\nKCON:TACT 4 U 待ち時間! #SF9 のPHOTOMATICを公開します💥📷\n\n#KCONTACT #KCONTACT4U #포토매틱 #포토매틱포토부스 https://t.co/oxrcIgcwNo"
+	},
+	{
 		"created_at": "Sun Jun 27 17:58:44 +0000 2021",
 		"id": 1409197599547035600,
 		"id_str": "1409209595554377731",
