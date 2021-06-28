@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 28 15:29:28 +0000 2021",
+		"id": 1409527008812470300,
+		"id_str": "1409534419824693258",
+		"full_text": "[Congrats]\n⠀\nHappy 9th Debut Anniversary\n⠀\n스웨덴세탁소의 데뷔 9주년을 축하합니다🎉\n항상 응원해주신 손님 여러분께 감사드리며\n앞으로도 스세와 함께해요❤🥰\n⠀\n#Happy_Sweden_Laundry_Day\n#스웨덴세탁소_데뷔9주년_축하해요 https://t.co/YYt38R2kHU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Happy_Sweden_Laundry_Day",
+					"indices": [
+						107,
+						132
+					]
+				},
+				{
+					"text": "스웨덴세탁소_데뷔9주년_축하해요",
+					"indices": [
+						133,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1409510607565463600,
+					"id_str": "1409510607565463552",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/E4-Wbf8VoAAVLF7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4-Wbf8VoAAVLF7.jpg",
+					"url": "https://t.co/YYt38R2kHU",
+					"display_url": "pic.twitter.com/YYt38R2kHU",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1409527008812470276/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409510607565463600,
+					"id_str": "1409510607565463552",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/E4-Wbf8VoAAVLF7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4-Wbf8VoAAVLF7.jpg",
+					"url": "https://t.co/YYt38R2kHU",
+					"display_url": "pic.twitter.com/YYt38R2kHU",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1409527008812470276/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/VtrzF3mRza",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VtrzF3mRza",
+							"expanded_url": "http://shofar-ent.com",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7814,
+			"friends_count": 4,
+			"listed_count": 65,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1624253290",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Congrats]\n⠀\nHappy 9th Debut Anniversary\n⠀\n스웨덴세탁소의 데뷔 9주년을 축하합니다🎉\n항상 응원해주신 손님 여러분께 감사드리며\n앞으로도 스세와 함께해요❤🥰\n⠀\n#Happy_Sweden_Laundry_Day\n#스웨덴세탁소_데뷔9주년_축하해요 https://t.co/YYt38R2kHU"
+	},
+	{
 		"created_at": "Mon Jun 28 14:29:24 +0000 2021",
 		"id": 1409515406792953900,
 		"id_str": "1409519306665234441",
