@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 28 10:29:27 +0000 2021",
+		"id": 1409447150770024400,
+		"id_str": "1409458918351376387",
+		"full_text": "[OV]\n\nOV의 더블 싱글 앨범 ‘I JUST WANTED LOVE’가 6월 30일 오후 12시에 발매됩니다. \n\nOV’s double single album ‘I JUST WANTED LOVE’ will be released on June 30th, 12PM (KST)\n\n#OV #오븨\n#I_JUST_WANTED_LOVE\n#PAKTORYCOMPANY #팩토리컴퍼니 https://t.co/J6wquC0vXz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OV",
+					"indices": [
+						154,
+						157
+					]
+				},
+				{
+					"text": "오븨",
+					"indices": [
+						158,
+						161
+					]
+				},
+				{
+					"text": "I_JUST_WANTED_LOVE",
+					"indices": [
+						162,
+						181
+					]
+				},
+				{
+					"text": "PAKTORYCOMPANY",
+					"indices": [
+						182,
+						197
+					]
+				},
+				{
+					"text": "팩토리컴퍼니",
+					"indices": [
+						198,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1409447142779875300,
+					"id_str": "1409447142779875328",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/E49ctXMVcAAKOsv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E49ctXMVcAAKOsv.jpg",
+					"url": "https://t.co/J6wquC0vXz",
+					"display_url": "pic.twitter.com/J6wquC0vXz",
+					"expanded_url": "https://twitter.com/paktoryofficial/status/1409447150770024449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409447142779875300,
+					"id_str": "1409447142779875328",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/E49ctXMVcAAKOsv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E49ctXMVcAAKOsv.jpg",
+					"url": "https://t.co/J6wquC0vXz",
+					"display_url": "pic.twitter.com/J6wquC0vXz",
+					"expanded_url": "https://twitter.com/paktoryofficial/status/1409447150770024449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189041084971634700,
+			"id_str": "1189041084971634688",
+			"name": "PAKTORY COMPANY",
+			"screen_name": "paktoryofficial",
+			"location": "seoul",
+			"description": "contact@paktory.net",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Tue Oct 29 04:47:52 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[OV]\n\nOV의 더블 싱글 앨범 ‘I JUST WANTED LOVE’가 6월 30일 오후 12시에 발매됩니다. \n\nOV’s double single album ‘I JUST WANTED LOVE’ will be released on June 30th, 12PM (KST)\n\n#OV #오븨\n#I_JUST_WANTED_LOVE\n#PAKTORYCOMPANY #팩토리컴퍼니 https://t.co/J6wquC0vXz"
+	},
+	{
 		"created_at": "Mon Jun 28 09:58:44 +0000 2021",
 		"id": 1409438558696267800,
 		"id_str": "1409451189855469568",
