@@ -1,6 +1,430 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 28 03:13:04 +0000 2021",
+		"id": 1409349101418946600,
+		"id_str": "1409349101418946562",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n이신성 - 이보다 더 좋을 순 없어 (그래서 나는 안티팬과 결혼했다 OST) [Music Video]\nhttps://t.co/vFrMS0CJ2d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vFrMS0CJ2d",
+					"expanded_url": "https://youtu.be/ZutiUrts7pE",
+					"display_url": "youtu.be/ZutiUrts7pE",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 463,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n이신성 - 이보다 더 좋을 순 없어 (그래서 나는 안티팬과 결혼했다 OST) [Music Video]\nhttps://t.co/vFrMS0CJ2d"
+	},
+	{
+		"created_at": "Mon Jun 28 03:11:16 +0000 2021",
+		"id": 1409342111506342000,
+		"id_str": "1409348648387948546",
+		"full_text": "북극곰이 전달하는 환경 메시지를 기억하며\n환경을 지키기 위한 작은 실천을 함께 해주세요🙌🏼\n\nwith 글라스락과 함께합니다.\n‘NO 플라스틱, YES 글라스 캠페인 참여하고 선물로 받아가세요 🌱\n\n• KT&amp;G 대치 갤러리\n• 환경의 달 기획전 &lt;북극곰의 눈물&gt;\n• 6.21(월)-7.16(금) 평일 9시~18시 https://t.co/TonNgAUpKl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1409342105781096400,
+					"id_str": "1409342105781096453",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E479LZ4VUAULwjG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E479LZ4VUAULwjG.jpg",
+					"url": "https://t.co/TonNgAUpKl",
+					"display_url": "pic.twitter.com/TonNgAUpKl",
+					"expanded_url": "https://twitter.com/SSmadang/status/1409342111506341889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1115,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 674,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1115,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409342105781096400,
+					"id_str": "1409342105781096453",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E479LZ4VUAULwjG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E479LZ4VUAULwjG.jpg",
+					"url": "https://t.co/TonNgAUpKl",
+					"display_url": "pic.twitter.com/TonNgAUpKl",
+					"expanded_url": "https://twitter.com/SSmadang/status/1409342111506341889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1115,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 674,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1115,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1409342105785278500,
+					"id_str": "1409342105785278467",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E479LZ5VIAMjqiW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E479LZ5VIAMjqiW.jpg",
+					"url": "https://t.co/TonNgAUpKl",
+					"display_url": "pic.twitter.com/TonNgAUpKl",
+					"expanded_url": "https://twitter.com/SSmadang/status/1409342111506341889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1125,
+							"h": 1118,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1118,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1409342105789427700,
+					"id_str": "1409342105789427717",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E479LZ6UcAUJvsV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E479LZ6UcAUJvsV.jpg",
+					"url": "https://t.co/TonNgAUpKl",
+					"display_url": "pic.twitter.com/TonNgAUpKl",
+					"expanded_url": "https://twitter.com/SSmadang/status/1409342111506341889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1125,
+							"h": 1116,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1116,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1409342105810464800,
+					"id_str": "1409342105810464774",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E479LZ_VcAYV4N6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E479LZ_VcAYV4N6.jpg",
+					"url": "https://t.co/TonNgAUpKl",
+					"display_url": "pic.twitter.com/TonNgAUpKl",
+					"expanded_url": "https://twitter.com/SSmadang/status/1409342111506341889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 667,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1104,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1104,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17856,
+			"friends_count": 1885,
+			"listed_count": 289,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "북극곰이 전달하는 환경 메시지를 기억하며\n환경을 지키기 위한 작은 실천을 함께 해주세요🙌🏼\n\nwith 글라스락과 함께합니다.\n‘NO 플라스틱, YES 글라스 캠페인 참여하고 선물로 받아가세요 🌱\n\n• KT&amp;G 대치 갤러리\n• 환경의 달 기획전 &lt;북극곰의 눈물&gt;\n• 6.21(월)-7.16(금) 평일 9시~18시 https://t.co/TonNgAUpKl"
+	},
+	{
 		"created_at": "Mon Jun 28 01:54:23 +0000 2021",
 		"id": 1409329298708779000,
 		"id_str": "1409329298708779009",
