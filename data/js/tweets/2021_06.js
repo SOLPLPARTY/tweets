@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 29 10:29:25 +0000 2021",
+		"id": 1409814286990405600,
+		"id_str": "1409821297274589189",
+		"full_text": "[#권혁수] [#셀럽싱어]\n\n마스께라 제대로 울리면서 부르는\n#서지니 의 노래방 애창곡 메들리🎵\n\n서지니의 완벽한 피치의 하이 F가 궁금하신 분은\n#권혁수감성 에서 단독 무대 보고 가세요👀\n\n👉 https://t.co/ObAzIBlNwm\n\n#KwunHyukSoo #셀럽로그 #노래방 #애창곡 https://t.co/e7kycOMMCT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "셀럽싱어",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "서지니",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"text": "권혁수감성",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						134,
+						146
+					]
+				},
+				{
+					"text": "셀럽로그",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "노래방",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "애창곡",
+					"indices": [
+						158,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ObAzIBlNwm",
+					"expanded_url": "https://www.youtube.com/watch?v=z3Kk4L5iedk",
+					"display_url": "youtube.com/watch?v=z3Kk4L…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1409814281621700600,
+					"id_str": "1409814281621700608",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/E5Cqnp9VgAAF_rM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5Cqnp9VgAAF_rM.jpg",
+					"url": "https://t.co/e7kycOMMCT",
+					"display_url": "pic.twitter.com/e7kycOMMCT",
+					"expanded_url": "https://twitter.com/humap_official/status/1409814286990405637/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409814281621700600,
+					"id_str": "1409814281621700608",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/E5Cqnp9VgAAF_rM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5Cqnp9VgAAF_rM.jpg",
+					"url": "https://t.co/e7kycOMMCT",
+					"display_url": "pic.twitter.com/e7kycOMMCT",
+					"expanded_url": "https://twitter.com/humap_official/status/1409814286990405637/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 325,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 361,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#권혁수] [#셀럽싱어]\n\n마스께라 제대로 울리면서 부르는\n#서지니 의 노래방 애창곡 메들리🎵\n\n서지니의 완벽한 피치의 하이 F가 궁금하신 분은\n#권혁수감성 에서 단독 무대 보고 가세요👀\n\n👉 https://t.co/ObAzIBlNwm\n\n#KwunHyukSoo #셀럽로그 #노래방 #애창곡 https://t.co/e7kycOMMCT"
+	},
+	{
 		"created_at": "Tue Jun 29 10:04:44 +0000 2021",
 		"id": 1409815085846089700,
 		"id_str": "1409815085846089728",
