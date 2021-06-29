@@ -1,6 +1,738 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 29 03:34:37 +0000 2021",
+		"id": 1409716911315816400,
+		"id_str": "1409716911315816448",
+		"full_text": "#미러볼뮤직 #Mirrorball_Music\n6월 29일 | Bas Bao, 11도, ASUM, VVOOK\nhttps://t.co/9crKRtUU3M\n#블로그 #유통사 #인디음악 #인디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Mirrorball_Music",
+					"indices": [
+						7,
+						24
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "유통사",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						100,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9crKRtUU3M",
+					"expanded_url": "https://bit.ly/3w4f42w",
+					"display_url": "bit.ly/3w4f42w",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 464,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미러볼뮤직 #Mirrorball_Music\n6월 29일 | Bas Bao, 11도, ASUM, VVOOK\nhttps://t.co/9crKRtUU3M\n#블로그 #유통사 #인디음악 #인디"
+	},
+	{
+		"created_at": "Tue Jun 29 03:29:46 +0000 2021",
+		"id": 1409710126441717800,
+		"id_str": "1409715690899087375",
+		"full_text": "권진아 X ‘The Serif’ 'I'\n\nMelon https://t.co/cryEMlaEfI\nGenie https://t.co/iKzS0BiiWz\nBugs https://t.co/h7Gsm1W2Pi\nFLO https://t.co/CYYFYxch8N\n\n#권진아 #I #삼성 #라이프스타일TV #TheSerif",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권진아",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "I",
+					"indices": [
+						146,
+						148
+					]
+				},
+				{
+					"text": "삼성",
+					"indices": [
+						149,
+						152
+					]
+				},
+				{
+					"text": "라이프스타일TV",
+					"indices": [
+						153,
+						162
+					]
+				},
+				{
+					"text": "TheSerif",
+					"indices": [
+						163,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cryEMlaEfI",
+					"expanded_url": "http://bit.ly/3qyMYeJ",
+					"display_url": "bit.ly/3qyMYeJ",
+					"indices": [
+						29,
+						52
+					]
+				},
+				{
+					"url": "https://t.co/iKzS0BiiWz",
+					"expanded_url": "http://bit.ly/3A74jzV",
+					"display_url": "bit.ly/3A74jzV",
+					"indices": [
+						59,
+						82
+					]
+				},
+				{
+					"url": "https://t.co/h7Gsm1W2Pi",
+					"expanded_url": "http://bit.ly/3jkx1Y5",
+					"display_url": "bit.ly/3jkx1Y5",
+					"indices": [
+						88,
+						111
+					]
+				},
+				{
+					"url": "https://t.co/CYYFYxch8N",
+					"expanded_url": "http://bit.ly/35WCywb",
+					"display_url": "bit.ly/35WCywb",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1409710120532025300,
+		"in_reply_to_status_id_str": "1409710120532025352",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / Sam Kim (샘김) Single ‘The Juice’ 2021. 06. 23. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36338,
+			"friends_count": 14,
+			"listed_count": 373,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1623754978",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "권진아 X ‘The Serif’ 'I'\n\nMelon https://t.co/cryEMlaEfI\nGenie https://t.co/iKzS0BiiWz\nBugs https://t.co/h7Gsm1W2Pi\nFLO https://t.co/CYYFYxch8N\n\n#권진아 #I #삼성 #라이프스타일TV #TheSerif"
+	},
+	{
+		"created_at": "Tue Jun 29 03:29:37 +0000 2021",
+		"id": 1409710120532025300,
+		"id_str": "1409715652445630468",
+		"full_text": "[Release] #권진아\n⠀\n권진아 X ‘The Serif’ 'I'\n⠀\nLyrics by 권진아\nComposed by 권진아\nArranged by 홍소진\n⠀\n권진아가 작사, 작곡한 삼성 라이프스타일 TV Song 프로젝트 음원 'I'는 지금 모든 음원사이트에서 만나보실 수 있습니다💙\n⠀\n#권진아 #I #삼성 #라이프스타일TV #TheSerif https://t.co/amPGWZCOaY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권진아",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						162,
+						166
+					]
+				},
+				{
+					"text": "I",
+					"indices": [
+						167,
+						169
+					]
+				},
+				{
+					"text": "삼성",
+					"indices": [
+						170,
+						173
+					]
+				},
+				{
+					"text": "라이프스타일TV",
+					"indices": [
+						174,
+						183
+					]
+				},
+				{
+					"text": "TheSerif",
+					"indices": [
+						184,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1409709186590535700,
+					"id_str": "1409709186590535680",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/E5BLCUdVcAATagL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5BLCUdVcAATagL.jpg",
+					"url": "https://t.co/amPGWZCOaY",
+					"display_url": "pic.twitter.com/amPGWZCOaY",
+					"expanded_url": "https://twitter.com/antennamusic/status/1409710120532025352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409709186590535700,
+					"id_str": "1409709186590535680",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/E5BLCUdVcAATagL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5BLCUdVcAATagL.jpg",
+					"url": "https://t.co/amPGWZCOaY",
+					"display_url": "pic.twitter.com/amPGWZCOaY",
+					"expanded_url": "https://twitter.com/antennamusic/status/1409710120532025352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / Sam Kim (샘김) Single ‘The Juice’ 2021. 06. 23. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36338,
+			"friends_count": 14,
+			"listed_count": 373,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1623754978",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release] #권진아\n⠀\n권진아 X ‘The Serif’ 'I'\n⠀\nLyrics by 권진아\nComposed by 권진아\nArranged by 홍소진\n⠀\n권진아가 작사, 작곡한 삼성 라이프스타일 TV Song 프로젝트 음원 'I'는 지금 모든 음원사이트에서 만나보실 수 있습니다💙\n⠀\n#권진아 #I #삼성 #라이프스타일TV #TheSerif https://t.co/amPGWZCOaY"
+	},
+	{
+		"created_at": "Tue Jun 29 03:29:29 +0000 2021",
+		"id": 1409709040377098200,
+		"id_str": "1409715618178240515",
+		"full_text": "[유라]\n21.07.12 [Pacemaker]\n1. 유라(youra) - 놀이공원 (Roller Coaster)\n2. 유라(youra) - 서울 사이보그 (Seoul Cyborg) https://t.co/jEaWnDUFQz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1409709032881877000,
+					"id_str": "1409709032881876998",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/E5BK5X2VcAYrKWE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5BK5X2VcAYrKWE.jpg",
+					"url": "https://t.co/jEaWnDUFQz",
+					"display_url": "pic.twitter.com/jEaWnDUFQz",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1409709040377098247/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1234,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 656,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1157,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409709032881877000,
+					"id_str": "1409709032881876998",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/E5BK5X2VcAYrKWE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5BK5X2VcAYrKWE.jpg",
+					"url": "https://t.co/jEaWnDUFQz",
+					"display_url": "pic.twitter.com/jEaWnDUFQz",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1409709040377098247/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1234,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 656,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1157,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/에버루아/아일",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 772,
+			"friends_count": 8,
+			"listed_count": 16,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 913,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유라]\n21.07.12 [Pacemaker]\n1. 유라(youra) - 놀이공원 (Roller Coaster)\n2. 유라(youra) - 서울 사이보그 (Seoul Cyborg) https://t.co/jEaWnDUFQz"
+	},
+	{
 		"created_at": "Tue Jun 29 02:29:25 +0000 2021",
 		"id": 1409695579937017900,
 		"id_str": "1409700501130645505",
