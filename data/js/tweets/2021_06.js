@@ -1,6 +1,405 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 29 07:58:14 +0000 2021",
+		"id": 1409768596364947500,
+		"id_str": "1409783253838532612",
+		"full_text": "#KCONTACT4U SHOW DAY 6 was packed \nwith impressive performances!\nCheck out the highlight video!\n\n화려한 무대들로 꽉 채워졌던\nKCON:TACT 4 U SHOW DAY 6!\n하이라이트 영상을 확인하세요!\n\n華やかなステージで箱詰めした\nKCON:TACT 4 U SHOW DAY 6!\nハイライト映像をご確認ください! https://t.co/05N5V21xl4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1409732696448790500,
+					"id_str": "1409732696448790528",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1409732696448790528/pu/img/0YHBGzNQ_BTON7p0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1409732696448790528/pu/img/0YHBGzNQ_BTON7p0.jpg",
+					"url": "https://t.co/05N5V21xl4",
+					"display_url": "pic.twitter.com/05N5V21xl4",
+					"expanded_url": "https://twitter.com/KCON_official/status/1409768596364947459/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409732696448790500,
+					"id_str": "1409732696448790528",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1409732696448790528/pu/img/0YHBGzNQ_BTON7p0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1409732696448790528/pu/img/0YHBGzNQ_BTON7p0.jpg",
+					"url": "https://t.co/05N5V21xl4",
+					"display_url": "pic.twitter.com/05N5V21xl4",
+					"expanded_url": "https://twitter.com/KCON_official/status/1409768596364947459/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 135102,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1409732696448790528/pu/vid/640x360/NPVt_rmRB6tXYoMt.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1409732696448790528/pu/vid/1280x720/BQ-rnyjVefgNXCYu.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1409732696448790528/pu/vid/480x270/EUD-AB3bzXqFl8F_.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1409732696448790528/pu/pl/cBoCT4HmHOnkwEPb.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 374409,
+			"friends_count": 75,
+			"listed_count": 984,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 142,
+		"favorite_count": 440,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#KCONTACT4U SHOW DAY 6 was packed \nwith impressive performances!\nCheck out the highlight video!\n\n화려한 무대들로 꽉 채워졌던\nKCON:TACT 4 U SHOW DAY 6!\n하이라이트 영상을 확인하세요!\n\n華やかなステージで箱詰めした\nKCON:TACT 4 U SHOW DAY 6!\nハイライト映像をご確認ください! https://t.co/05N5V21xl4"
+	},
+	{
+		"created_at": "Tue Jun 29 07:29:27 +0000 2021",
+		"id": 1409769603685707800,
+		"id_str": "1409776006748114946",
+		"full_text": "잠시 후 6시부터 \"줄리아드림  &amp;  9와 숫자들 &lt;꿈의 숫자&gt;\" 공연 예매가 시작됩니다.\n예매 바로가기=&gt; https://t.co/RtXOXYuXBT\n\n- 티켓오픈일시. 6. 29(화) 6pm\n- 공연일시. 2021. 7. 10(토) 7pm\n- 장소. 상상마당 홍대\n- 좌석. 전석 55,000원 (지정좌석제)\n- 티켓. 1인 4매 구매 가능 /티켓 현장수령 https://t.co/djBNN49mID",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RtXOXYuXBT",
+					"expanded_url": "http://ticket.yes24.com/Perf/39525",
+					"display_url": "ticket.yes24.com/Perf/39525",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1409769006333010000,
+					"id_str": "1409769006333009921",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/E5CBcSXVoAExZZ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5CBcSXVoAExZZ_.jpg",
+					"url": "https://t.co/djBNN49mID",
+					"display_url": "pic.twitter.com/djBNN49mID",
+					"expanded_url": "https://twitter.com/orm_ent/status/1409769603685707778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409769006333010000,
+					"id_str": "1409769006333009921",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/E5CBcSXVoAExZZ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5CBcSXVoAExZZ_.jpg",
+					"url": "https://t.co/djBNN49mID",
+					"display_url": "pic.twitter.com/djBNN49mID",
+					"expanded_url": "https://twitter.com/orm_ent/status/1409769603685707778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 602,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 722,
+			"friends_count": 325,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3044,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1624418145",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시 후 6시부터 \"줄리아드림  &amp;  9와 숫자들 &lt;꿈의 숫자&gt;\" 공연 예매가 시작됩니다.\n예매 바로가기=&gt; https://t.co/RtXOXYuXBT\n\n- 티켓오픈일시. 6. 29(화) 6pm\n- 공연일시. 2021. 7. 10(토) 7pm\n- 장소. 상상마당 홍대\n- 좌석. 전석 55,000원 (지정좌석제)\n- 티켓. 1인 4매 구매 가능 /티켓 현장수령 https://t.co/djBNN49mID"
+	},
+	{
 		"created_at": "Tue Jun 29 06:58:25 +0000 2021",
 		"id": 1409753617578397700,
 		"id_str": "1409768197516038144",
