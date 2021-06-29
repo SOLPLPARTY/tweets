@@ -1,6 +1,595 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 29 06:58:25 +0000 2021",
+		"id": 1409753617578397700,
+		"id_str": "1409768197516038144",
+		"full_text": "V DIUM X KCON:TACT 4 U HIGHLIGHT映像を公開！\nREACTION FULL VODは(TVING/YouTube)で確認ください\n\n想像のステージが現実になる“V DIUM, THE STADIUM EXPERIENCE!”\n\nFULL VOD🎁💚\nKCON official - https://t.co/eqSHHWS2lU \nMnet official - https://t.co/AvKDfQdOp8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eqSHHWS2lU",
+					"expanded_url": "https://youtu.be/aiERE71Kjew",
+					"display_url": "youtu.be/aiERE71Kjew",
+					"indices": [
+						156,
+						179
+					]
+				},
+				{
+					"url": "https://t.co/AvKDfQdOp8",
+					"expanded_url": "https://youtu.be/RgraXQNUNjo",
+					"display_url": "youtu.be/RgraXQNUNjo",
+					"indices": [
+						197,
+						220
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1409753615804240000,
+		"in_reply_to_status_id_str": "1409753615804239887",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 374416,
+			"friends_count": 75,
+			"listed_count": 984,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "V DIUM X KCON:TACT 4 U HIGHLIGHT映像を公開！\nREACTION FULL VODは(TVING/YouTube)で確認ください\n\n想像のステージが現実になる“V DIUM, THE STADIUM EXPERIENCE!”\n\nFULL VOD🎁💚\nKCON official - https://t.co/eqSHHWS2lU \nMnet official - https://t.co/AvKDfQdOp8"
+	},
+	{
+		"created_at": "Tue Jun 29 06:58:19 +0000 2021",
+		"id": 1409753615804240000,
+		"id_str": "1409768171859582978",
+		"full_text": "V DIUM X KCON:TACT 4 U HIGHLIGHT 영상을 공개합니다!\nREACTION FULL VOD는 (티빙/유튜브) 에서 확인 하세요!\n\n 상상 속의 무대가 현실이 되다, “V DIUM, THE STADIUM EXPERIENCE!”\n\nFULL VOD🎁💚\nKCON official - https://t.co/eqSHHWS2lU\nMnet official - https://t.co/AvKDfQdOp8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eqSHHWS2lU",
+					"expanded_url": "https://youtu.be/aiERE71Kjew",
+					"display_url": "youtu.be/aiERE71Kjew",
+					"indices": [
+						165,
+						188
+					]
+				},
+				{
+					"url": "https://t.co/AvKDfQdOp8",
+					"expanded_url": "https://youtu.be/RgraXQNUNjo",
+					"display_url": "youtu.be/RgraXQNUNjo",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1409753501031338000,
+		"in_reply_to_status_id_str": "1409753501031337986",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 374416,
+			"friends_count": 75,
+			"listed_count": 984,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "V DIUM X KCON:TACT 4 U HIGHLIGHT 영상을 공개합니다!\nREACTION FULL VOD는 (티빙/유튜브) 에서 확인 하세요!\n\n 상상 속의 무대가 현실이 되다, “V DIUM, THE STADIUM EXPERIENCE!”\n\nFULL VOD🎁💚\nKCON official - https://t.co/eqSHHWS2lU\nMnet official - https://t.co/AvKDfQdOp8"
+	},
+	{
+		"created_at": "Tue Jun 29 06:58:14 +0000 2021",
+		"id": 1409753501031338000,
+		"id_str": "1409768154516033545",
+		"full_text": "#VDIUM X #KCONTACT4U HIGHLIGHT VIDEO!\nCheck out the FULL VOD on TVING / YouTube!\n\nThe stage of our dreams becomes a reality,\n“V DIUM, THE STADIUM EXPERIENCE!”\n\nFULL VOD🎁💚\nKCON official - https://t.co/eqSHHWArum\nMnet official - https://t.co/AvKDfQvpNI \n\n#LOONA \n#ONF \n#VERIVERY https://t.co/LaTZIdUeO2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VDIUM",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						253,
+						259
+					]
+				},
+				{
+					"text": "ONF",
+					"indices": [
+						261,
+						265
+					]
+				},
+				{
+					"text": "VERIVERY",
+					"indices": [
+						267,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eqSHHWArum",
+					"expanded_url": "https://youtu.be/aiERE71Kjew",
+					"display_url": "youtu.be/aiERE71Kjew",
+					"indices": [
+						187,
+						210
+					]
+				},
+				{
+					"url": "https://t.co/AvKDfQvpNI",
+					"expanded_url": "https://youtu.be/RgraXQNUNjo",
+					"display_url": "youtu.be/RgraXQNUNjo",
+					"indices": [
+						227,
+						250
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1409746524884455400,
+					"id_str": "1409746524884455426",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1409746524884455426/pu/img/_fA7I_mQskbAiFz-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1409746524884455426/pu/img/_fA7I_mQskbAiFz-.jpg",
+					"url": "https://t.co/LaTZIdUeO2",
+					"display_url": "pic.twitter.com/LaTZIdUeO2",
+					"expanded_url": "https://twitter.com/KCON_official/status/1409753501031337986/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409746524884455400,
+					"id_str": "1409746524884455426",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1409746524884455426/pu/img/_fA7I_mQskbAiFz-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1409746524884455426/pu/img/_fA7I_mQskbAiFz-.jpg",
+					"url": "https://t.co/LaTZIdUeO2",
+					"display_url": "pic.twitter.com/LaTZIdUeO2",
+					"expanded_url": "https://twitter.com/KCON_official/status/1409753501031337986/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 40741,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1409746524884455426/pu/vid/480x270/YpgQT_jFQ9-r4_n1.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1409746524884455426/pu/vid/640x360/VV3hvk42AHQg8-YZ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1409746524884455426/pu/pl/2nn8O4Ni4ONw9nqD.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1409746524884455426/pu/vid/1280x720/i_NJK4G2L5uKXsHK.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 374416,
+			"friends_count": 75,
+			"listed_count": 984,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 325,
+		"favorite_count": 966,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#VDIUM X #KCONTACT4U HIGHLIGHT VIDEO!\nCheck out the FULL VOD on TVING / YouTube!\n\nThe stage of our dreams becomes a reality,\n“V DIUM, THE STADIUM EXPERIENCE!”\n\nFULL VOD🎁💚\nKCON official - https://t.co/eqSHHWArum\nMnet official - https://t.co/AvKDfQvpNI \n\n#LOONA \n#ONF \n#VERIVERY https://t.co/LaTZIdUeO2"
+	},
+	{
+		"created_at": "Tue Jun 29 06:29:33 +0000 2021",
+		"id": 1409748771521532000,
+		"id_str": "1409760932952219648",
+		"full_text": "\"2집 [Marriage License]는 여전히 짧고 빠르고 강력하다. [Marriage License]는 30대 직장인이자 펑크록커인 여성의 이야기를 담았다. 그들은 쉽사리 변하지 않는 세상에 대해 화를 내고, 불안하지만 분명 우리가 원하는 좋은 세상이 될 것이라고 믿고 다같이 희망을 가지고 잘 살아보자고 노래한다.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1409748768224727000,
+		"in_reply_to_status_id_str": "1409748768224727047",
+		"in_reply_to_user_id": 49219598,
+		"in_reply_to_user_id_str": "49219598",
+		"in_reply_to_screen_name": "electric_muse",
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3340,
+			"friends_count": 1297,
+			"listed_count": 106,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 5761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"2집 [Marriage License]는 여전히 짧고 빠르고 강력하다. [Marriage License]는 30대 직장인이자 펑크록커인 여성의 이야기를 담았다. 그들은 쉽사리 변하지 않는 세상에 대해 화를 내고, 불안하지만 분명 우리가 원하는 좋은 세상이 될 것이라고 믿고 다같이 희망을 가지고 잘 살아보자고 노래한다.\""
+	},
+	{
 		"created_at": "Tue Jun 29 06:11:16 +0000 2021",
 		"id": 1409742798073610200,
 		"id_str": "1409756335152021504",
