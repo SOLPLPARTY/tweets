@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 30 17:29:25 +0000 2021",
+		"id": 1410275684585377800,
+		"id_str": "1410289381169061888",
+		"full_text": "이번주 일요일\n_\n덥소스 Dub Sauce @Modeci_seoul\nDub Sauce (live)\nDJ Soulscape \nQuandol \nSmiley Song \n_\n레게밴드 소울소스의 덥 유닛\"덥소스 Dub Sauce\"\n동양표준음향사의 덥크루 디제이 소울스케이프와 꽌돌이 함께하는 여름맞이 Heavy Weight  DUB session\n_\nopen : 6PM\nentrance fee: 2만원 https://t.co/sJO9ezoql3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1410275597377413000,
+					"id_str": "1410275597377413123",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1410275597377413123/pu/img/ty-xSuM2MXG-98Si.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1410275597377413123/pu/img/ty-xSuM2MXG-98Si.jpg",
+					"url": "https://t.co/sJO9ezoql3",
+					"display_url": "pic.twitter.com/sJO9ezoql3",
+					"expanded_url": "https://twitter.com/E_S_Sounds/status/1410275684585377801/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410275597377413000,
+					"id_str": "1410275597377413123",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1410275597377413123/pu/img/ty-xSuM2MXG-98Si.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1410275597377413123/pu/img/ty-xSuM2MXG-98Si.jpg",
+					"url": "https://t.co/sJO9ezoql3",
+					"display_url": "pic.twitter.com/sJO9ezoql3",
+					"expanded_url": "https://twitter.com/E_S_Sounds/status/1410275684585377801/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29633,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410275597377413123/pu/vid/640x360/0R9Xp2hJOOwU20Fx.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410275597377413123/pu/vid/480x270/EWz7IEOsjK6L_3NA.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410275597377413123/pu/vid/1280x720/jMHGbaiCwI3FRX_N.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1410275597377413123/pu/pl/_dlIKrBOVyzHJ06T.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2855837208,
+			"id_str": "2855837208",
+			"name": "동양 표준 음향사/ Eastern Standard Sounds",
+			"screen_name": "E_S_Sounds",
+			"location": "Seoul, Korea",
+			"description": "All Roots and Culture/ Label/ Agency/ Distribute/ Produce/",
+			"url": "https://t.co/4se6MgTecT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4se6MgTecT",
+							"expanded_url": "http://www.easternstandardsounds.com",
+							"display_url": "easternstandardsounds.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 615,
+			"friends_count": 1767,
+			"listed_count": 10,
+			"created_at": "Tue Oct 14 19:11:59 +0000 2014",
+			"favourites_count": 240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2855837208/1622040772",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번주 일요일\n_\n덥소스 Dub Sauce @Modeci_seoul\nDub Sauce (live)\nDJ Soulscape \nQuandol \nSmiley Song \n_\n레게밴드 소울소스의 덥 유닛\"덥소스 Dub Sauce\"\n동양표준음향사의 덥크루 디제이 소울스케이프와 꽌돌이 함께하는 여름맞이 Heavy Weight  DUB session\n_\nopen : 6PM\nentrance fee: 2만원 https://t.co/sJO9ezoql3"
+	},
+	{
 		"created_at": "Wed Jun 30 14:29:25 +0000 2021",
 		"id": 1410237003401072600,
 		"id_str": "1410244082765533195",
