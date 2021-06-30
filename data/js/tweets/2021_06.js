@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 30 14:29:25 +0000 2021",
+		"id": 1410237003401072600,
+		"id_str": "1410244082765533195",
+		"full_text": "[Live Clip] #정승환\n\n정승환(Jung Seung Hwan) \n'어른 (Grown Ups)' COVER\n(원곡 : Sondia)\n\n✔️https://t.co/txW0GHY36D\n\n* 본 커버 영상 이벤트는 정승환 공식 인스타그램(meet_the_seung) 계정을 통해 진행되었습니다. 참여해주신 분들 모두 감사드립니다.\n\n#정승환 #JungSeungHwan\n#어른 #GrownUps",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정승환",
+					"indices": [
+						12,
+						16
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						186,
+						190
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						191,
+						205
+					]
+				},
+				{
+					"text": "어른",
+					"indices": [
+						206,
+						209
+					]
+				},
+				{
+					"text": "GrownUps",
+					"indices": [
+						210,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/txW0GHY36D",
+					"expanded_url": "https://youtu.be/67GsBOfl2Mo",
+					"display_url": "youtu.be/67GsBOfl2Mo",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / Sam Kim (샘김) Single ‘The Juice’ 2021. 06. 23. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36327,
+			"friends_count": 14,
+			"listed_count": 372,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3677,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1623754978",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 87,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Live Clip] #정승환\n\n정승환(Jung Seung Hwan) \n'어른 (Grown Ups)' COVER\n(원곡 : Sondia)\n\n✔️https://t.co/txW0GHY36D\n\n* 본 커버 영상 이벤트는 정승환 공식 인스타그램(meet_the_seung) 계정을 통해 진행되었습니다. 참여해주신 분들 모두 감사드립니다.\n\n#정승환 #JungSeungHwan\n#어른 #GrownUps"
+	},
+	{
 		"created_at": "Wed Jun 30 13:29:35 +0000 2021",
 		"id": 1410224494833135600,
 		"id_str": "1410229026103377924",
