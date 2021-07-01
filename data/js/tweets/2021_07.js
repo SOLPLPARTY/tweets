@@ -1,6 +1,1086 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 01 10:12:20 +0000 2021",
+		"id": 1410541775723413500,
+		"id_str": "1410541775723413507",
+		"full_text": "#ONSTAGE #온스테이지\n'후원 라이브' 일정 연기 안내 드립니다.\nhttps://t.co/Dac6oWuefm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ONSTAGE",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "온스테이지",
+					"indices": [
+						9,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Dac6oWuefm",
+					"expanded_url": "https://bit.ly/3hmETpf",
+					"display_url": "bit.ly/3hmETpf",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 464,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 70152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ONSTAGE #온스테이지\n'후원 라이브' 일정 연기 안내 드립니다.\nhttps://t.co/Dac6oWuefm"
+	},
+	{
+		"created_at": "Thu Jul 01 09:29:59 +0000 2021",
+		"id": 1410526643337109500,
+		"id_str": "1410531119129321473",
+		"full_text": "9와 숫자들의  톤스튜디오 공연은 정말 귀한 공연이니 많은 관심 부탁 드립니다. 🙏🙏\n\n예매 바로가기=&gt;https://t.co/5d4IHSzt6y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5d4IHSzt6y",
+					"expanded_url": "http://www.soundfriends.com/detail.php?number=464",
+					"display_url": "soundfriends.com/detail.php?num…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1410526641655218200,
+		"in_reply_to_status_id_str": "1410526641655218180",
+		"in_reply_to_user_id": 52109991,
+		"in_reply_to_user_id_str": "52109991",
+		"in_reply_to_screen_name": "orm_ent",
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 723,
+			"friends_count": 325,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1624418145",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "9와 숫자들의  톤스튜디오 공연은 정말 귀한 공연이니 많은 관심 부탁 드립니다. 🙏🙏\n\n예매 바로가기=&gt;https://t.co/5d4IHSzt6y"
+	},
+	{
+		"created_at": "Thu Jul 01 09:29:53 +0000 2021",
+		"id": 1410526641655218200,
+		"id_str": "1410531093091164165",
+		"full_text": "&lt;9와숫자들과 함께 하는 울산음악창작소 온라인콘서트 예매 공지&gt;\n\nSOUND FRIENDS 사이트의 동시접속자 수가 많아 서버가 감당을 못하는 상황이되어 이용이 어려웠다고 합니다. 지금은 서버 복구되어 정상적으로 참여 가능하다고 합니다. 🥲 https://t.co/v4MGqOWWz4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1410526543093256200,
+					"id_str": "1410526543093256196",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/E5MyautVUAQ4ALY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5MyautVUAQ4ALY.jpg",
+					"url": "https://t.co/v4MGqOWWz4",
+					"display_url": "pic.twitter.com/v4MGqOWWz4",
+					"expanded_url": "https://twitter.com/orm_ent/status/1410526641655218180/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 704,
+							"h": 516,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 704,
+							"h": 516,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 498,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410526543093256200,
+					"id_str": "1410526543093256196",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/E5MyautVUAQ4ALY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5MyautVUAQ4ALY.jpg",
+					"url": "https://t.co/v4MGqOWWz4",
+					"display_url": "pic.twitter.com/v4MGqOWWz4",
+					"expanded_url": "https://twitter.com/orm_ent/status/1410526641655218180/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 704,
+							"h": 516,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 704,
+							"h": 516,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 498,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 723,
+			"friends_count": 325,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1624418145",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;9와숫자들과 함께 하는 울산음악창작소 온라인콘서트 예매 공지&gt;\n\nSOUND FRIENDS 사이트의 동시접속자 수가 많아 서버가 감당을 못하는 상황이되어 이용이 어려웠다고 합니다. 지금은 서버 복구되어 정상적으로 참여 가능하다고 합니다. 🥲 https://t.co/v4MGqOWWz4"
+	},
+	{
+		"created_at": "Thu Jul 01 09:29:45 +0000 2021",
+		"id": 1410526020260700200,
+		"id_str": "1410531059041775617",
+		"full_text": "💿NEW MUSIC TODAY💿\nKINGDOM(킹덤) (@KINGDOM_GFent)의 \"KARMA\"를 지금 바로 음원 사이트에서 만나보세요! \n\nCheck out KINGDOM's 'KARMA' on all platforms Right now!\n⠀\n🎶https://t.co/sfRw5Stfsl\n⠀\n#warnerkpop #warnermusic #release #KINGDOM #Chiwoo #KARMA https://t.co/gr04RZffZD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						166,
+						177
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						178,
+						190
+					]
+				},
+				{
+					"text": "release",
+					"indices": [
+						191,
+						199
+					]
+				},
+				{
+					"text": "KINGDOM",
+					"indices": [
+						200,
+						208
+					]
+				},
+				{
+					"text": "Chiwoo",
+					"indices": [
+						209,
+						216
+					]
+				},
+				{
+					"text": "KARMA",
+					"indices": [
+						217,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KINGDOM_GFent",
+					"name": "KINGDOM",
+					"id": 1211487174190755800,
+					"id_str": "1211487174190755840",
+					"indices": [
+						31,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sfRw5Stfsl",
+					"expanded_url": "http://WMK.lnk.to/Chiwoo",
+					"display_url": "WMK.lnk.to/Chiwoo",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1410525380117553200,
+					"id_str": "1410525380117553153",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1410525380117553153/pu/img/X90B86-2_FAt5xmr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1410525380117553153/pu/img/X90B86-2_FAt5xmr.jpg",
+					"url": "https://t.co/gr04RZffZD",
+					"display_url": "pic.twitter.com/gr04RZffZD",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1410526020260700165/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410525380117553200,
+					"id_str": "1410525380117553153",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1410525380117553153/pu/img/X90B86-2_FAt5xmr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1410525380117553153/pu/img/X90B86-2_FAt5xmr.jpg",
+					"url": "https://t.co/gr04RZffZD",
+					"display_url": "pic.twitter.com/gr04RZffZD",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1410526020260700165/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 34368,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410525380117553153/pu/vid/320x320/9MHMch6kyy3d08IA.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1410525380117553153/pu/pl/Dw7kjEWqxmQBIRXf.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410525380117553153/pu/vid/540x540/QIZpBvrmWFg4CjRK.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410525380117553153/pu/vid/720x720/rMK6kGRIJn8bVSS_.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51685,
+			"friends_count": 497,
+			"listed_count": 192,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 225,
+		"favorite_count": 603,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\nKINGDOM(킹덤) (@KINGDOM_GFent)의 \"KARMA\"를 지금 바로 음원 사이트에서 만나보세요! \n\nCheck out KINGDOM's 'KARMA' on all platforms Right now!\n⠀\n🎶https://t.co/sfRw5Stfsl\n⠀\n#warnerkpop #warnermusic #release #KINGDOM #Chiwoo #KARMA https://t.co/gr04RZffZD"
+	},
+	{
+		"created_at": "Thu Jul 01 09:29:39 +0000 2021",
+		"id": 1410525253403496400,
+		"id_str": "1410531033322344450",
+		"full_text": "[Ayul]\n\nPAKTORY COMPANY ARTIST\nAyul (이아율) \n⠀\n#Ayul #이아율\n#PAKTORYCOMPANY\n#팩토리컴퍼니 https://t.co/XFdDJs1drF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Ayul",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "이아율",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "PAKTORYCOMPANY",
+					"indices": [
+						56,
+						71
+					]
+				},
+				{
+					"text": "팩토리컴퍼니",
+					"indices": [
+						72,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1410525199213088800,
+					"id_str": "1410525199213088768",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/E5MxMgXVUAAEViC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5MxMgXVUAAEViC.jpg",
+					"url": "https://t.co/XFdDJs1drF",
+					"display_url": "pic.twitter.com/XFdDJs1drF",
+					"expanded_url": "https://twitter.com/paktoryofficial/status/1410525253403496448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410525199213088800,
+					"id_str": "1410525199213088768",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/E5MxMgXVUAAEViC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5MxMgXVUAAEViC.jpg",
+					"url": "https://t.co/XFdDJs1drF",
+					"display_url": "pic.twitter.com/XFdDJs1drF",
+					"expanded_url": "https://twitter.com/paktoryofficial/status/1410525253403496448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189041084971634700,
+			"id_str": "1189041084971634688",
+			"name": "PAKTORY COMPANY",
+			"screen_name": "paktoryofficial",
+			"location": "seoul",
+			"description": "contact@paktory.net",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 290,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Tue Oct 29 04:47:52 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 115,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "[Ayul]\n\nPAKTORY COMPANY ARTIST\nAyul (이아율) \n⠀\n#Ayul #이아율\n#PAKTORYCOMPANY\n#팩토리컴퍼니 https://t.co/XFdDJs1drF"
+	},
+	{
+		"created_at": "Thu Jul 01 09:29:31 +0000 2021",
+		"id": 1410523165990654000,
+		"id_str": "1410530999285452802",
+		"full_text": "신좌(XINZWA)🗯\n\n2021. 07. 07 WED 12PM\n인플래닛의 새로운 아티스트, 신좌(XINZWA)\n그의 첫번째 정규앨범 [WORKHOME]\n\n#신좌 #XINZWA #WORKHOME #정규앨범 #데뷔 https://t.co/nJO4ENlfpV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신좌",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "XINZWA",
+					"indices": [
+						90,
+						97
+					]
+				},
+				{
+					"text": "WORKHOME",
+					"indices": [
+						98,
+						107
+					]
+				},
+				{
+					"text": "정규앨범",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "데뷔",
+					"indices": [
+						114,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1410518945040257000,
+					"id_str": "1410518945040257024",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E5MrgdwVUAAL9wU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5MrgdwVUAAL9wU.jpg",
+					"url": "https://t.co/nJO4ENlfpV",
+					"display_url": "pic.twitter.com/nJO4ENlfpV",
+					"expanded_url": "https://twitter.com/inplanet/status/1410523165990653957/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410518945040257000,
+					"id_str": "1410518945040257024",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E5MrgdwVUAAL9wU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5MrgdwVUAAL9wU.jpg",
+					"url": "https://t.co/nJO4ENlfpV",
+					"display_url": "pic.twitter.com/nJO4ENlfpV",
+					"expanded_url": "https://twitter.com/inplanet/status/1410523165990653957/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1446,
+			"friends_count": 775,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "신좌(XINZWA)🗯\n\n2021. 07. 07 WED 12PM\n인플래닛의 새로운 아티스트, 신좌(XINZWA)\n그의 첫번째 정규앨범 [WORKHOME]\n\n#신좌 #XINZWA #WORKHOME #정규앨범 #데뷔 https://t.co/nJO4ENlfpV"
+	},
+	{
 		"created_at": "Thu Jul 01 09:14:00 +0000 2021",
 		"id": 1410527096275878000,
 		"id_str": "1410527096275877888",
