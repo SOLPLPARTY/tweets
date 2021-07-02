@@ -1,6 +1,698 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 02 13:11:16 +0000 2021",
+		"id": 1410946362359812000,
+		"id_str": "1410949195218010116",
+		"full_text": "📢 7/3 공연 현장 안내\n\n&lt;Synopsis ~prologue~&gt;\n· 티켓수령 : 4시 (현장구매 가능)\n· 입장 : 4시 30분\n· 공연시작 : 5시\n· 출연 : 9001\n\n#9001 #NINETYOONE #단독콘서트\n#롤링홀 #ROLLINGHALL\n#홍대 #공연 #인디 #멜론티켓 https://t.co/ZS3kU9pltP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NINETYOONE",
+					"indices": [
+						111,
+						122
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						135,
+						147
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						156,
+						159
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						160,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1410477721528930300,
+					"id_str": "1410477721528930306",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E5MGA8NVkAIy0lW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5MGA8NVkAIy0lW.jpg",
+					"url": "https://t.co/ZS3kU9pltP",
+					"display_url": "pic.twitter.com/ZS3kU9pltP",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1410946362359812101/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410477721528930300,
+					"id_str": "1410477721528930306",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E5MGA8NVkAIy0lW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5MGA8NVkAIy0lW.jpg",
+					"url": "https://t.co/ZS3kU9pltP",
+					"display_url": "pic.twitter.com/ZS3kU9pltP",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1410946362359812101/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1410477761962020900,
+					"id_str": "1410477761962020870",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E5MGDS1VkAYKwbp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5MGDS1VkAYKwbp.jpg",
+					"url": "https://t.co/ZS3kU9pltP",
+					"display_url": "pic.twitter.com/ZS3kU9pltP",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1410946362359812101/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1410477804848705500,
+					"id_str": "1410477804848705541",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E5MGFymUcAUXRtt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5MGFymUcAUXRtt.jpg",
+					"url": "https://t.co/ZS3kU9pltP",
+					"display_url": "pic.twitter.com/ZS3kU9pltP",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1410946362359812101/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1410477858955227100,
+					"id_str": "1410477858955227142",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E5MGI8KUcAYsX-I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5MGI8KUcAYsX-I.jpg",
+					"url": "https://t.co/ZS3kU9pltP",
+					"display_url": "pic.twitter.com/ZS3kU9pltP",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1410946362359812101/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/TADR20wMLG",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TADR20wMLG",
+							"expanded_url": "https://bit.ly/2ManUuA",
+							"display_url": "bit.ly/2ManUuA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 181,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 7/3 공연 현장 안내\n\n&lt;Synopsis ~prologue~&gt;\n· 티켓수령 : 4시 (현장구매 가능)\n· 입장 : 4시 30분\n· 공연시작 : 5시\n· 출연 : 9001\n\n#9001 #NINETYOONE #단독콘서트\n#롤링홀 #ROLLINGHALL\n#홍대 #공연 #인디 #멜론티켓 https://t.co/ZS3kU9pltP"
+	},
+	{
+		"created_at": "Fri Jul 02 12:41:20 +0000 2021",
+		"id": 1410941307472670700,
+		"id_str": "1410941659479560204",
+		"full_text": "DESIRE FT. ETHER \"HAENIM\" (Official Video) \nhttps://t.co/TsP6U027LA \n\n모델 수주의 뮤지션 활동명은 에테르(Ether). \n김정미의 '햇님'을 리메이크'.  \n\n#모델 #수주 #에테르 #Ether  \n#김정미 #햇님 #리메이크",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "모델",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "수주",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "에테르",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "Ether",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "김정미",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "햇님",
+					"indices": [
+						147,
+						150
+					]
+				},
+				{
+					"text": "리메이크",
+					"indices": [
+						151,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TsP6U027LA",
+					"expanded_url": "https://youtu.be/_yV7ssLMpec",
+					"display_url": "youtu.be/_yV7ssLMpec",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1252910486435164200,
+			"id_str": "1252910486435164161",
+			"name": "Ambler",
+			"screen_name": "AmblerKR",
+			"location": "ambler@ambler.kr",
+			"description": "Marketer & Creator \nFounder of @SOLPLPARTY \n​\n🤘 Music and Performance Lover. \n🚀 I support artists growth. \n⚡ Automation, No-Code, Data Archiving. ",
+			"url": "https://t.co/Ewhnensvic",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ewhnensvic",
+							"expanded_url": "http://ambler.kr",
+							"display_url": "ambler.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 30,
+			"listed_count": 2,
+			"created_at": "Wed Apr 22 10:42:04 +0000 2020",
+			"favourites_count": 1400,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269999552225873920/4SpDKr1y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269999552225873920/4SpDKr1y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1252910486435164161/1614407560",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "DESIRE FT. ETHER \"HAENIM\" (Official Video) \nhttps://t.co/TsP6U027LA \n\n모델 수주의 뮤지션 활동명은 에테르(Ether). \n김정미의 '햇님'을 리메이크'.  \n\n#모델 #수주 #에테르 #Ether  \n#김정미 #햇님 #리메이크"
+	},
+	{
+		"created_at": "Fri Jul 02 12:29:34 +0000 2021",
+		"id": 1410931735622078500,
+		"id_str": "1410938697218940930",
+		"full_text": "WOODZ (조승연) ‘해가 될까’ Released!!\n❤️ https://t.co/L3MA8ROWSB https://t.co/wLyD2vwVxj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/L3MA8ROWSB",
+					"expanded_url": "https://www.instagram.com/p/CQ0vNxeHPts/?utm_medium=copy_link",
+					"display_url": "instagram.com/p/CQ0vNxeHPts/…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1410931729502654500,
+					"id_str": "1410931729502654464",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/E5Si7rtVUAAdc69.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5Si7rtVUAAdc69.jpg",
+					"url": "https://t.co/wLyD2vwVxj",
+					"display_url": "pic.twitter.com/wLyD2vwVxj",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1410931735622078470/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 811,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 811,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410931729502654500,
+					"id_str": "1410931729502654464",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/E5Si7rtVUAAdc69.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5Si7rtVUAAdc69.jpg",
+					"url": "https://t.co/wLyD2vwVxj",
+					"display_url": "pic.twitter.com/wLyD2vwVxj",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1410931735622078470/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 811,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 811,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/75NNtZGos2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/75NNtZGos2",
+							"expanded_url": "https://www.monotree.shop",
+							"display_url": "monotree.shop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7114,
+			"friends_count": 0,
+			"listed_count": 53,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "WOODZ (조승연) ‘해가 될까’ Released!!\n❤️ https://t.co/L3MA8ROWSB https://t.co/wLyD2vwVxj"
+	},
+	{
 		"created_at": "Fri Jul 02 11:58:41 +0000 2021",
 		"id": 1410917919484268500,
 		"id_str": "1410930928784916481",
