@@ -1,6 +1,636 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 02 09:29:49 +0000 2021",
+		"id": 1410891266280202200,
+		"id_str": "1410893463864938502",
+		"full_text": "[Ayul]\n\n‘Primary present PAKTORY MIXTAPE Vol.7’\nAyul (이아율) - 그대의 휴일이 되고파 (A Day)\n\n2021. 7. 3. 6PM (KST)\n\n#Ayul #이아율\n#그대의휴일이되고파 #ADay\n#PAKTORYMIXTAPEVOL7\n#팩토리컴퍼니\n\nhttps://t.co/qtGqQfZVt5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Ayul",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "이아율",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "그대의휴일이되고파",
+					"indices": [
+						116,
+						126
+					]
+				},
+				{
+					"text": "ADay",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "PAKTORYMIXTAPEVOL7",
+					"indices": [
+						133,
+						152
+					]
+				},
+				{
+					"text": "팩토리컴퍼니",
+					"indices": [
+						153,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qtGqQfZVt5",
+					"expanded_url": "https://youtu.be/gFKhfMyvK-s",
+					"display_url": "youtu.be/gFKhfMyvK-s",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189041084971634700,
+			"id_str": "1189041084971634688",
+			"name": "PAKTORY COMPANY",
+			"screen_name": "paktoryofficial",
+			"location": "seoul",
+			"description": "contact@paktory.net",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 291,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Tue Oct 29 04:47:52 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Ayul]\n\n‘Primary present PAKTORY MIXTAPE Vol.7’\nAyul (이아율) - 그대의 휴일이 되고파 (A Day)\n\n2021. 7. 3. 6PM (KST)\n\n#Ayul #이아율\n#그대의휴일이되고파 #ADay\n#PAKTORYMIXTAPEVOL7\n#팩토리컴퍼니\n\nhttps://t.co/qtGqQfZVt5"
+	},
+	{
+		"created_at": "Fri Jul 02 09:29:46 +0000 2021",
+		"id": 1410887850015420400,
+		"id_str": "1410893450732617730",
+		"full_text": "[#레인보우노트)] 수면(水面) 작업실 라이브\n\n🎙레인보우 노트 슬희의 작업실 라이브 영상 입니다🎙\n레인보우 노트 팬 여러분들께 보내는 슬희의 선물🎁\n\n무더운 여름... 레인보우 노트의 시원하고 청량한 노래 들으면서 더위를 견뎌봐요!💜\n\n▶https://t.co/3LRE8CATNm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레인보우노트",
+					"indices": [
+						1,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3LRE8CATNm",
+					"expanded_url": "https://youtu.be/c1t6p_1UJk4",
+					"display_url": "youtu.be/c1t6p_1UJk4",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7713,
+			"friends_count": 8383,
+			"listed_count": 199,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#레인보우노트)] 수면(水面) 작업실 라이브\n\n🎙레인보우 노트 슬희의 작업실 라이브 영상 입니다🎙\n레인보우 노트 팬 여러분들께 보내는 슬희의 선물🎁\n\n무더운 여름... 레인보우 노트의 시원하고 청량한 노래 들으면서 더위를 견뎌봐요!💜\n\n▶https://t.co/3LRE8CATNm"
+	},
+	{
+		"created_at": "Fri Jul 02 09:29:41 +0000 2021",
+		"id": 1410887629894086700,
+		"id_str": "1410893429261877251",
+		"full_text": "[#레인보우노트] Rule 작업실 라이브(Feat. 야옹이🐈)\n\n슬희의 반려묘 나루, 하루와 함께 하는 Rule 작업실 라이브 ! 🐈\n\n무더운 여름... 레인보우 노트의 시원하고 청량한 노래 들으면서 더위를 견뎌봐요!💜\n\n▶https://t.co/k4sMBaBmyX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레인보우노트",
+					"indices": [
+						1,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k4sMBaBmyX",
+					"expanded_url": "https://youtu.be/5ZuhBHTaOy4",
+					"display_url": "youtu.be/5ZuhBHTaOy4",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7713,
+			"friends_count": 8383,
+			"listed_count": 199,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#레인보우노트] Rule 작업실 라이브(Feat. 야옹이🐈)\n\n슬희의 반려묘 나루, 하루와 함께 하는 Rule 작업실 라이브 ! 🐈\n\n무더운 여름... 레인보우 노트의 시원하고 청량한 노래 들으면서 더위를 견뎌봐요!💜\n\n▶https://t.co/k4sMBaBmyX"
+	},
+	{
+		"created_at": "Fri Jul 02 09:29:32 +0000 2021",
+		"id": 1410886982381670400,
+		"id_str": "1410893390795788298",
+		"full_text": "[#Hayeon]\n\nHayeon (하연) - ‘Eyes on you’ Live Clip ( 세로 Ver. )\n🔗 https://t.co/dvQrc9whjT\n\nHayeon (하연) - ‘Eyes on you’ Live Clip ( 가로 Ver. )\n🔗 https://t.co/OwdMft1hDe\n\n#하연 #Hayeon #EyesOnYou #AIM #LiveClip #라이브클립 https://t.co/BAPdZz1yhK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Hayeon",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "하연",
+					"indices": [
+						165,
+						168
+					]
+				},
+				{
+					"text": "Hayeon",
+					"indices": [
+						169,
+						176
+					]
+				},
+				{
+					"text": "EyesOnYou",
+					"indices": [
+						177,
+						187
+					]
+				},
+				{
+					"text": "AIM",
+					"indices": [
+						188,
+						192
+					]
+				},
+				{
+					"text": "LiveClip",
+					"indices": [
+						193,
+						202
+					]
+				},
+				{
+					"text": "라이브클립",
+					"indices": [
+						203,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dvQrc9whjT",
+					"expanded_url": "https://youtu.be/1w63F74IJ38",
+					"display_url": "youtu.be/1w63F74IJ38",
+					"indices": [
+						63,
+						86
+					]
+				},
+				{
+					"url": "https://t.co/OwdMft1hDe",
+					"expanded_url": "https://youtu.be/06u4ey3k6qE",
+					"display_url": "youtu.be/06u4ey3k6qE",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1410886975918207000,
+					"id_str": "1410886975918206976",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/E5R6OrnUcAAksSH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5R6OrnUcAAksSH.jpg",
+					"url": "https://t.co/BAPdZz1yhK",
+					"display_url": "pic.twitter.com/BAPdZz1yhK",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1410886982381670402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410886975918207000,
+					"id_str": "1410886975918206976",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/E5R6OrnUcAAksSH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5R6OrnUcAAksSH.jpg",
+					"url": "https://t.co/BAPdZz1yhK",
+					"display_url": "pic.twitter.com/BAPdZz1yhK",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1410886982381670402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 964372210436591600,
+			"id_str": "964372210436591616",
+			"name": "Enterarts - A.I.M",
+			"screen_name": "aimbyenterarts",
+			"location": "",
+			"description": "The World's First AI Music Production Company & Record Label / Artist Agency 세계 최초 인공지능 음반 제작 레이블",
+			"url": "https://t.co/j360f0m0bn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j360f0m0bn",
+							"expanded_url": "http://www.enterarts.net",
+							"display_url": "enterarts.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 349,
+			"friends_count": 4,
+			"listed_count": 5,
+			"created_at": "Fri Feb 16 05:33:46 +0000 2018",
+			"favourites_count": 1199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/964372210436591616/1518759589",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Hayeon]\n\nHayeon (하연) - ‘Eyes on you’ Live Clip ( 세로 Ver. )\n🔗 https://t.co/dvQrc9whjT\n\nHayeon (하연) - ‘Eyes on you’ Live Clip ( 가로 Ver. )\n🔗 https://t.co/OwdMft1hDe\n\n#하연 #Hayeon #EyesOnYou #AIM #LiveClip #라이브클립 https://t.co/BAPdZz1yhK"
+	},
+	{
 		"created_at": "Fri Jul 02 09:14:59 +0000 2021",
 		"id": 1410889731328598000,
 		"id_str": "1410889731328598016",
