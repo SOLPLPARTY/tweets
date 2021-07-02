@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 02 05:58:15 +0000 2021",
+		"id": 1410825564085055500,
+		"id_str": "1410840219373510656",
+		"full_text": "#ONEUS's Breaking Live REPLAY OPEN 💝\nFULL Ver. ▶ https://t.co/hZeOpGKHr0\n\n#KCONTACT #KCONTACT4U https://t.co/TTazJV9Bns",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ONEUS",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						74,
+						83
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						84,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hZeOpGKHr0",
+					"expanded_url": "https://youtu.be/s6n_TJr_Cf4",
+					"display_url": "youtu.be/s6n_TJr_Cf4",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1410195992230523000,
+					"id_str": "1410195992230522887",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1410195992230522887/pu/img/Kb8KTL-RhKRYCodw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1410195992230522887/pu/img/Kb8KTL-RhKRYCodw.jpg",
+					"url": "https://t.co/TTazJV9Bns",
+					"display_url": "pic.twitter.com/TTazJV9Bns",
+					"expanded_url": "https://twitter.com/KCON_official/status/1410825564085055489/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410195992230523000,
+					"id_str": "1410195992230522887",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1410195992230522887/pu/img/Kb8KTL-RhKRYCodw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1410195992230522887/pu/img/Kb8KTL-RhKRYCodw.jpg",
+					"url": "https://t.co/TTazJV9Bns",
+					"display_url": "pic.twitter.com/TTazJV9Bns",
+					"expanded_url": "https://twitter.com/KCON_official/status/1410825564085055489/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410195992230522887/pu/vid/480x270/hqpxONVJtOunZQi9.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1410195992230522887/pu/pl/ml5AIcghT7d23KWA.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410195992230522887/pu/vid/1280x720/mVW1yQCJnHOSlC1D.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410195992230522887/pu/vid/640x360/THIvGcQS5oPs2MsE.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 375865,
+			"friends_count": 75,
+			"listed_count": 990,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 117,
+		"favorite_count": 345,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#ONEUS's Breaking Live REPLAY OPEN 💝\nFULL Ver. ▶ https://t.co/hZeOpGKHr0\n\n#KCONTACT #KCONTACT4U https://t.co/TTazJV9Bns"
+	},
+	{
 		"created_at": "Fri Jul 02 04:58:14 +0000 2021",
 		"id": 1410810463714123800,
 		"id_str": "1410825118805340160",
