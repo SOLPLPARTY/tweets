@@ -1,6 +1,869 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 02 03:58:18 +0000 2021",
+		"id": 1410796620556517400,
+		"id_str": "1410810036704718848",
+		"full_text": "#LOONA's Breaking Live REPLAY OPEN 💝\nFULL Ver. ▶ https://t.co/rRNkQKmhUb\n\n#KCONTACT #KCONTACT4U https://t.co/GD2JY8yqWU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LOONA",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						74,
+						83
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						84,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rRNkQKmhUb",
+					"expanded_url": "https://youtu.be/2nHHGuiIzNU",
+					"display_url": "youtu.be/2nHHGuiIzNU",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1410198425686057000,
+					"id_str": "1410198425686056960",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1410198425686056960/pu/img/w8Ng5dIns6alnol9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1410198425686056960/pu/img/w8Ng5dIns6alnol9.jpg",
+					"url": "https://t.co/GD2JY8yqWU",
+					"display_url": "pic.twitter.com/GD2JY8yqWU",
+					"expanded_url": "https://twitter.com/KCON_official/status/1410796620556517381/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410198425686057000,
+					"id_str": "1410198425686056960",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1410198425686056960/pu/img/w8Ng5dIns6alnol9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1410198425686056960/pu/img/w8Ng5dIns6alnol9.jpg",
+					"url": "https://t.co/GD2JY8yqWU",
+					"display_url": "pic.twitter.com/GD2JY8yqWU",
+					"expanded_url": "https://twitter.com/KCON_official/status/1410796620556517381/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26627,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1410198425686056960/pu/pl/KFEE5TaArEODsXH9.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410198425686056960/pu/vid/640x360/vi6QYzIVSRx61v2H.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410198425686056960/pu/vid/1280x720/JJet-TpDFjQd6rUS.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410198425686056960/pu/vid/480x270/8hu6k-6ovKbMRRAb.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 375825,
+			"friends_count": 75,
+			"listed_count": 991,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 232,
+		"favorite_count": 906,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LOONA's Breaking Live REPLAY OPEN 💝\nFULL Ver. ▶ https://t.co/rRNkQKmhUb\n\n#KCONTACT #KCONTACT4U https://t.co/GD2JY8yqWU"
+	},
+	{
+		"created_at": "Fri Jul 02 03:58:14 +0000 2021",
+		"id": 1410795365608005600,
+		"id_str": "1410810019453472770",
+		"full_text": "FanPick Cam is a multi-angle service handpicked by KCON-ers!\nPlease pick a song in the link below for each artist for 'ALL CAM' performance reveal !\n\n케이코너들이 직접 뽑는 멀티 앵글 서비스 팬픽캠!\n아래의 링크에서 각 아티스트별로 노래를 선택해주세요!\n\n📝https://t.co/EoebHsuOR5 https://t.co/8t7zhmlPZ7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EoebHsuOR5",
+					"expanded_url": "https://bit.ly/FanPickCam_Vote",
+					"display_url": "bit.ly/FanPickCam_Vote",
+					"indices": [
+						210,
+						233
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1410150688567423000,
+					"id_str": "1410150688567422978",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1410150688567422978/pu/img/yDcUyO2gZ8xT3BQ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1410150688567422978/pu/img/yDcUyO2gZ8xT3BQ_.jpg",
+					"url": "https://t.co/8t7zhmlPZ7",
+					"display_url": "pic.twitter.com/8t7zhmlPZ7",
+					"expanded_url": "https://twitter.com/KCON_official/status/1410795365608005634/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410150688567423000,
+					"id_str": "1410150688567422978",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1410150688567422978/pu/img/yDcUyO2gZ8xT3BQ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1410150688567422978/pu/img/yDcUyO2gZ8xT3BQ_.jpg",
+					"url": "https://t.co/8t7zhmlPZ7",
+					"display_url": "pic.twitter.com/8t7zhmlPZ7",
+					"expanded_url": "https://twitter.com/KCON_official/status/1410795365608005634/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 41508,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1410150688567422978/pu/pl/TPIipmjEIE3onukS.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410150688567422978/pu/vid/640x360/m2cOmGgZxzPlfO_-.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410150688567422978/pu/vid/480x270/c-JfxmdS3i7ZPYfx.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410150688567422978/pu/vid/1280x720/_MaVCfkLgzSnrrrH.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 375825,
+			"friends_count": 75,
+			"listed_count": 991,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 508,
+		"favorite_count": 740,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "FanPick Cam is a multi-angle service handpicked by KCON-ers!\nPlease pick a song in the link below for each artist for 'ALL CAM' performance reveal !\n\n케이코너들이 직접 뽑는 멀티 앵글 서비스 팬픽캠!\n아래의 링크에서 각 아티스트별로 노래를 선택해주세요!\n\n📝https://t.co/EoebHsuOR5 https://t.co/8t7zhmlPZ7"
+	},
+	{
+		"created_at": "Fri Jul 02 03:29:36 +0000 2021",
+		"id": 1410800117427277800,
+		"id_str": "1410802811307233281",
+		"full_text": "Melon ▶ https://t.co/4eWmjISTez\nGenie ▶ https://t.co/ny06xTCsoi\nBugs ▶ https://t.co/IT7zrjP9gd\nFLO ▶ https://t.co/II1fT5MvS6\nVIBE ▶ https://t.co/mJfdzLwvGp\nApple Music ▶ https://t.co/wAQdP8tKle\n\n#cott #콧 #싱글 #SCENE #발매 #신곡",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cott",
+					"indices": [
+						195,
+						200
+					]
+				},
+				{
+					"text": "콧",
+					"indices": [
+						201,
+						203
+					]
+				},
+				{
+					"text": "싱글",
+					"indices": [
+						204,
+						207
+					]
+				},
+				{
+					"text": "SCENE",
+					"indices": [
+						208,
+						214
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						215,
+						218
+					]
+				},
+				{
+					"text": "신곡",
+					"indices": [
+						219,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4eWmjISTez",
+					"expanded_url": "https://bit.ly/3jBVAjk",
+					"display_url": "bit.ly/3jBVAjk",
+					"indices": [
+						8,
+						31
+					]
+				},
+				{
+					"url": "https://t.co/ny06xTCsoi",
+					"expanded_url": "https://bit.ly/2UQtWEO",
+					"display_url": "bit.ly/2UQtWEO",
+					"indices": [
+						40,
+						63
+					]
+				},
+				{
+					"url": "https://t.co/IT7zrjP9gd",
+					"expanded_url": "https://bit.ly/2SHfzC5",
+					"display_url": "bit.ly/2SHfzC5",
+					"indices": [
+						71,
+						94
+					]
+				},
+				{
+					"url": "https://t.co/II1fT5MvS6",
+					"expanded_url": "https://bit.ly/3dxJMLi",
+					"display_url": "bit.ly/3dxJMLi",
+					"indices": [
+						101,
+						124
+					]
+				},
+				{
+					"url": "https://t.co/mJfdzLwvGp",
+					"expanded_url": "https://bit.ly/3hvYSSJ",
+					"display_url": "bit.ly/3hvYSSJ",
+					"indices": [
+						132,
+						155
+					]
+				},
+				{
+					"url": "https://t.co/wAQdP8tKle",
+					"expanded_url": "https://apple.co/3dyqmFU",
+					"display_url": "apple.co/3dyqmFU",
+					"indices": [
+						170,
+						193
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1410800097093378000,
+		"in_reply_to_status_id_str": "1410800097093378050",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 (당신의여름)",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타와 함께합니다.",
+			"url": "https://t.co/oHXBW5kYJK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oHXBW5kYJK",
+							"expanded_url": "http://www.instagram.com/yoursummerkr",
+							"display_url": "instagram.com/yoursummerkr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2092,
+			"friends_count": 23,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Melon ▶ https://t.co/4eWmjISTez\nGenie ▶ https://t.co/ny06xTCsoi\nBugs ▶ https://t.co/IT7zrjP9gd\nFLO ▶ https://t.co/II1fT5MvS6\nVIBE ▶ https://t.co/mJfdzLwvGp\nApple Music ▶ https://t.co/wAQdP8tKle\n\n#cott #콧 #싱글 #SCENE #발매 #신곡"
+	},
+	{
+		"created_at": "Fri Jul 02 03:29:34 +0000 2021",
+		"id": 1410800097093378000,
+		"id_str": "1410802802272649218",
+		"full_text": "[#cott] \ncott - SCENE • OUT NOW ‼️\n\n내가 바라보는 우리의 순간들,\ncott의 새로운 싱글 &lt;SCENE&gt; 이 발매되었습니다. \n\n각종 음원 스트리밍 사이트에서 감상하실 수 있습니다.🎶 https://t.co/GVRcjmweW2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cott",
+					"indices": [
+						1,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1410800017963581400,
+					"id_str": "1410800017963581441",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1410800017963581441/pu/img/7Hez9j2hsebT4TjR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1410800017963581441/pu/img/7Hez9j2hsebT4TjR.jpg",
+					"url": "https://t.co/GVRcjmweW2",
+					"display_url": "pic.twitter.com/GVRcjmweW2",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1410800097093378050/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410800017963581400,
+					"id_str": "1410800017963581441",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1410800017963581441/pu/img/7Hez9j2hsebT4TjR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1410800017963581441/pu/img/7Hez9j2hsebT4TjR.jpg",
+					"url": "https://t.co/GVRcjmweW2",
+					"display_url": "pic.twitter.com/GVRcjmweW2",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1410800097093378050/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59933,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410800017963581441/pu/vid/320x320/myDH5gji6_hFtu-z.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410800017963581441/pu/vid/540x540/lEBv-Kx7vuDuW7ye.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1410800017963581441/pu/pl/whcq0P0eworpiaYN.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410800017963581441/pu/vid/720x720/putD8a4hKZvNnFhm.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 (당신의여름)",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타와 함께합니다.",
+			"url": "https://t.co/oHXBW5kYJK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oHXBW5kYJK",
+							"expanded_url": "http://www.instagram.com/yoursummerkr",
+							"display_url": "instagram.com/yoursummerkr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2092,
+			"friends_count": 23,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#cott] \ncott - SCENE • OUT NOW ‼️\n\n내가 바라보는 우리의 순간들,\ncott의 새로운 싱글 &lt;SCENE&gt; 이 발매되었습니다. \n\n각종 음원 스트리밍 사이트에서 감상하실 수 있습니다.🎶 https://t.co/GVRcjmweW2"
+	},
+	{
 		"created_at": "Fri Jul 02 03:09:53 +0000 2021",
 		"id": 1410797848917053400,
 		"id_str": "1410797848917053447",
