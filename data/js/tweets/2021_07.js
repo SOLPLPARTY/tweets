@@ -1,6 +1,771 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 02 03:09:53 +0000 2021",
+		"id": 1410797848917053400,
+		"id_str": "1410797848917053447",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n태비 (Taeb2) - 파란색 Remix (Feat. Lokid, Tamiz, 새벽, https://t.co/ztSjYBMc1k) [Lyric Video]\nhttps://t.co/vqGlOKdJGg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ztSjYBMc1k",
+					"expanded_url": "http://V.et",
+					"display_url": "V.et",
+					"indices": [
+						77,
+						100
+					]
+				},
+				{
+					"url": "https://t.co/vqGlOKdJGg",
+					"expanded_url": "https://youtu.be/V6PJL76T7mU",
+					"display_url": "youtu.be/V6PJL76T7mU",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 464,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 70176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n태비 (Taeb2) - 파란색 Remix (Feat. Lokid, Tamiz, 새벽, https://t.co/ztSjYBMc1k) [Lyric Video]\nhttps://t.co/vqGlOKdJGg"
+	},
+	{
+		"created_at": "Fri Jul 02 02:58:27 +0000 2021",
+		"id": 1410783427893338000,
+		"id_str": "1410794972899692544",
+		"full_text": "#2021부산국제록페스티벌  #부산국제록페스티벌 #부산록페스티벌 #록페스티벌 #락페 #부산록페 #부산락페 #부산축제 #부산 #부산문화관광축제조직위원회 #2021BusanRockFestival #BusanRockFestival #BuRock #Festival #Busan",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2021부산국제록페스티벌",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "부산국제록페스티벌",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"text": "부산록페스티벌",
+					"indices": [
+						27,
+						35
+					]
+				},
+				{
+					"text": "록페스티벌",
+					"indices": [
+						36,
+						42
+					]
+				},
+				{
+					"text": "락페",
+					"indices": [
+						43,
+						46
+					]
+				},
+				{
+					"text": "부산록페",
+					"indices": [
+						47,
+						52
+					]
+				},
+				{
+					"text": "부산락페",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "부산축제",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "부산",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "부산문화관광축제조직위원회",
+					"indices": [
+						69,
+						83
+					]
+				},
+				{
+					"text": "2021BusanRockFestival",
+					"indices": [
+						84,
+						106
+					]
+				},
+				{
+					"text": "BusanRockFestival",
+					"indices": [
+						107,
+						125
+					]
+				},
+				{
+					"text": "BuRock",
+					"indices": [
+						126,
+						133
+					]
+				},
+				{
+					"text": "Festival",
+					"indices": [
+						134,
+						143
+					]
+				},
+				{
+					"text": "Busan",
+					"indices": [
+						144,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1410782187574681600,
+		"in_reply_to_status_id_str": "1410782187574681600",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/eAlfyJep2j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eAlfyJep2j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 944,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1624518084",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#2021부산국제록페스티벌  #부산국제록페스티벌 #부산록페스티벌 #록페스티벌 #락페 #부산록페 #부산락페 #부산축제 #부산 #부산문화관광축제조직위원회 #2021BusanRockFestival #BusanRockFestival #BuRock #Festival #Busan"
+	},
+	{
+		"created_at": "Fri Jul 02 02:58:22 +0000 2021",
+		"id": 1410782187574681600,
+		"id_str": "1410794951475175428",
+		"full_text": "안녕하세요,\n2021 부산국제록페스티벌의 공식 포스터를 공개합니다.\n\n추후, 구체적인 행사 계획으로 찾아뵙겠습니다. \n감사합니다. \n\nGreetings,\n2021 Busan International Rock Festival\nofficial poster is released.\n\nWe will be back soon\nwith detailed event information.\nThank you. https://t.co/ZdduczkRLR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1410782162987589600,
+					"id_str": "1410782162987589634",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/E5Qa5xBVIAImx-T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5Qa5xBVIAImx-T.jpg",
+					"url": "https://t.co/ZdduczkRLR",
+					"display_url": "pic.twitter.com/ZdduczkRLR",
+					"expanded_url": "https://twitter.com/busan_rock/status/1410782187574681600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1452,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 851,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410782162987589600,
+					"id_str": "1410782162987589634",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/E5Qa5xBVIAImx-T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5Qa5xBVIAImx-T.jpg",
+					"url": "https://t.co/ZdduczkRLR",
+					"display_url": "pic.twitter.com/ZdduczkRLR",
+					"expanded_url": "https://twitter.com/busan_rock/status/1410782187574681600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1452,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 851,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/eAlfyJep2j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eAlfyJep2j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 944,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1624518084",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요,\n2021 부산국제록페스티벌의 공식 포스터를 공개합니다.\n\n추후, 구체적인 행사 계획으로 찾아뵙겠습니다. \n감사합니다. \n\nGreetings,\n2021 Busan International Rock Festival\nofficial poster is released.\n\nWe will be back soon\nwith detailed event information.\nThank you. https://t.co/ZdduczkRLR"
+	},
+	{
+		"created_at": "Fri Jul 02 02:58:15 +0000 2021",
+		"id": 1410780263731241000,
+		"id_str": "1410794921536245760",
+		"full_text": "#GoldenChild's Breaking Live REPLAY OPEN 💝\nFULL Ver. ▶ https://t.co/2xhWwIEZX9\n\n#KCONTACT #KCONTACT4U https://t.co/IJ2CUSQwUR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoldenChild",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						80,
+						89
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						90,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2xhWwIEZX9",
+					"expanded_url": "https://youtu.be/kmtHk3mC4ss",
+					"display_url": "youtu.be/kmtHk3mC4ss",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1410195438288789500,
+					"id_str": "1410195438288789507",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1410195438288789507/pu/img/Y0mA2KY5IsNK8iGi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1410195438288789507/pu/img/Y0mA2KY5IsNK8iGi.jpg",
+					"url": "https://t.co/IJ2CUSQwUR",
+					"display_url": "pic.twitter.com/IJ2CUSQwUR",
+					"expanded_url": "https://twitter.com/KCON_official/status/1410780263731240964/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410195438288789500,
+					"id_str": "1410195438288789507",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1410195438288789507/pu/img/Y0mA2KY5IsNK8iGi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1410195438288789507/pu/img/Y0mA2KY5IsNK8iGi.jpg",
+					"url": "https://t.co/IJ2CUSQwUR",
+					"display_url": "pic.twitter.com/IJ2CUSQwUR",
+					"expanded_url": "https://twitter.com/KCON_official/status/1410780263731240964/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 14381,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410195438288789507/pu/vid/640x360/_tsfvfShDE3_qGR_.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410195438288789507/pu/vid/1280x720/ZVv9ZyxNJxZUZrOn.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410195438288789507/pu/vid/480x270/AZvmJrRARSaW87c-.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1410195438288789507/pu/pl/TSvajZbeNdGjPhxJ.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 375828,
+			"friends_count": 75,
+			"listed_count": 992,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 543,
+		"favorite_count": 1324,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#GoldenChild's Breaking Live REPLAY OPEN 💝\nFULL Ver. ▶ https://t.co/2xhWwIEZX9\n\n#KCONTACT #KCONTACT4U https://t.co/IJ2CUSQwUR"
+	},
+	{
 		"created_at": "Thu Jul 01 14:11:17 +0000 2021",
 		"id": 1410594689657548800,
 		"id_str": "1410601907131883521",
