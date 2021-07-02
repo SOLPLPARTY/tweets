@@ -1,6 +1,789 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 02 04:58:14 +0000 2021",
+		"id": 1410810463714123800,
+		"id_str": "1410825118805340160",
+		"full_text": "#OHMYGIRL's Breaking Live REPLAY OPEN 💝\nFULL Ver. ▶ https://t.co/vPML5wkx1h\n\n#KCONTACT #KCONTACT4U https://t.co/ZyegKlapLB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						77,
+						86
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						87,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vPML5wkx1h",
+					"expanded_url": "https://youtu.be/Pox7tYKkMPw",
+					"display_url": "youtu.be/Pox7tYKkMPw",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1410195730224935000,
+					"id_str": "1410195730224934914",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1410195730224934914/pu/img/hiYMnN-aHF7pDjFg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1410195730224934914/pu/img/hiYMnN-aHF7pDjFg.jpg",
+					"url": "https://t.co/ZyegKlapLB",
+					"display_url": "pic.twitter.com/ZyegKlapLB",
+					"expanded_url": "https://twitter.com/KCON_official/status/1410810463714123794/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410195730224935000,
+					"id_str": "1410195730224934914",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1410195730224934914/pu/img/hiYMnN-aHF7pDjFg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1410195730224934914/pu/img/hiYMnN-aHF7pDjFg.jpg",
+					"url": "https://t.co/ZyegKlapLB",
+					"display_url": "pic.twitter.com/ZyegKlapLB",
+					"expanded_url": "https://twitter.com/KCON_official/status/1410810463714123794/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29596,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1410195730224934914/pu/pl/LyF4NbMBFtBxLOb0.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410195730224934914/pu/vid/480x270/j4efUwjrRGeRORdB.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410195730224934914/pu/vid/1280x720/LqD8-zK-YN_7L76R.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410195730224934914/pu/vid/640x360/Nyu_HPn4AdzbRg0m.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / JUNE 19(SAT)~27(SUN), 2021",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 375843,
+			"friends_count": 75,
+			"listed_count": 991,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 231,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#OHMYGIRL's Breaking Live REPLAY OPEN 💝\nFULL Ver. ▶ https://t.co/vPML5wkx1h\n\n#KCONTACT #KCONTACT4U https://t.co/ZyegKlapLB"
+	},
+	{
+		"created_at": "Fri Jul 02 04:29:52 +0000 2021",
+		"id": 1410815945438687200,
+		"id_str": "1410817978422239234",
+		"full_text": "#cott #SCENE #영화 #메이드인루프탑\n#유어썸머 #yoursummer #당신의여름",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cott",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SCENE",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "영화",
+					"indices": [
+						13,
+						16
+					]
+				},
+				{
+					"text": "메이드인루프탑",
+					"indices": [
+						17,
+						25
+					]
+				},
+				{
+					"text": "유어썸머",
+					"indices": [
+						26,
+						31
+					]
+				},
+				{
+					"text": "yoursummer",
+					"indices": [
+						32,
+						43
+					]
+				},
+				{
+					"text": "당신의여름",
+					"indices": [
+						44,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1410815909728424000,
+		"in_reply_to_status_id_str": "1410815909728423938",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 (당신의여름)",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타와 함께합니다.",
+			"url": "https://t.co/oHXBW5kYJK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oHXBW5kYJK",
+							"expanded_url": "http://www.instagram.com/yoursummerkr",
+							"display_url": "instagram.com/yoursummerkr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2093,
+			"friends_count": 23,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#cott #SCENE #영화 #메이드인루프탑\n#유어썸머 #yoursummer #당신의여름"
+	},
+	{
+		"created_at": "Fri Jul 02 04:29:43 +0000 2021",
+		"id": 1410815909728424000,
+		"id_str": "1410817940178489345",
+		"full_text": "[콜라보 MV] cott 'SCENE' X 영화 '메이드 인 루프탑'\n\n우리가 있는 여기야 paradise🏖\n\n몽환적인 보이스가 매력적인 cott의 오늘 7월 2일(금) 발매된 신곡 ‘SCENE’과 쿨하고 힙한 청춘 연애담 '메이드 인 루프탑'의 콜라보 뮤직비디오가 공개되었습니다🎈\n\nhttps://t.co/K3ZXCqM5RP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K3ZXCqM5RP",
+					"expanded_url": "https://youtu.be/y6hY2bS0Cus",
+					"display_url": "youtu.be/y6hY2bS0Cus",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 (당신의여름)",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타와 함께합니다.",
+			"url": "https://t.co/oHXBW5kYJK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oHXBW5kYJK",
+							"expanded_url": "http://www.instagram.com/yoursummerkr",
+							"display_url": "instagram.com/yoursummerkr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2093,
+			"friends_count": 23,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[콜라보 MV] cott 'SCENE' X 영화 '메이드 인 루프탑'\n\n우리가 있는 여기야 paradise🏖\n\n몽환적인 보이스가 매력적인 cott의 오늘 7월 2일(금) 발매된 신곡 ‘SCENE’과 쿨하고 힙한 청춘 연애담 '메이드 인 루프탑'의 콜라보 뮤직비디오가 공개되었습니다🎈\n\nhttps://t.co/K3ZXCqM5RP"
+	},
+	{
+		"created_at": "Fri Jul 02 04:29:39 +0000 2021",
+		"id": 1410813716715565000,
+		"id_str": "1410817922931568641",
+		"full_text": "대구의 자랑, 드링킹소년소녀합창단의 정규 2집 [Marriage License] 발매 콘서트 티켓 오픈🍻🍻🍻\n\n2021년 7월24일 토요일 오후 7시\n프리즘홀\n게스트 : 빌리카터\n예매처 : 멜론티켓\nhttps://t.co/JIY3yfLQ6g\n\n*대구 발매콘서트도 곧 예매 오픈합니다✊✊✊",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JIY3yfLQ6g",
+					"expanded_url": "https://ticket.melon.com/performance/index.htm?prodId=206037",
+					"display_url": "ticket.melon.com/performance/in…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3341,
+			"friends_count": 1297,
+			"listed_count": 106,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 5770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대구의 자랑, 드링킹소년소녀합창단의 정규 2집 [Marriage License] 발매 콘서트 티켓 오픈🍻🍻🍻\n\n2021년 7월24일 토요일 오후 7시\n프리즘홀\n게스트 : 빌리카터\n예매처 : 멜론티켓\nhttps://t.co/JIY3yfLQ6g\n\n*대구 발매콘서트도 곧 예매 오픈합니다✊✊✊"
+	},
+	{
+		"created_at": "Fri Jul 02 04:29:34 +0000 2021",
+		"id": 1410810067465638000,
+		"id_str": "1410817901423120388",
+		"full_text": "The Best K-Pop Songs of 2021 So Far\n2021년 현재 최고의 K-Pop 곡들\n\nhttps://t.co/bWzjKrR8JT\n\n#백현 #BAEKHYUN \n#엑소 #EXO\n#밤비 #Bambi\n#aespa #æspa #에스파\n#NextLevel\n#TIME",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백현",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "BAEKHYUN",
+					"indices": [
+						88,
+						97
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "밤비",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "Bambi",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "æspa",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "NextLevel",
+					"indices": [
+						137,
+						147
+					]
+				},
+				{
+					"text": "TIME",
+					"indices": [
+						148,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bWzjKrR8JT",
+					"expanded_url": "https://time.com/6077450/best-kpop-songs-2021/",
+					"display_url": "time.com/6077450/best-k…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9618775,
+			"friends_count": 55,
+			"listed_count": 10191,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1490,
+		"favorite_count": 5451,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "The Best K-Pop Songs of 2021 So Far\n2021년 현재 최고의 K-Pop 곡들\n\nhttps://t.co/bWzjKrR8JT\n\n#백현 #BAEKHYUN \n#엑소 #EXO\n#밤비 #Bambi\n#aespa #æspa #에스파\n#NextLevel\n#TIME"
+	},
+	{
 		"created_at": "Fri Jul 02 03:58:18 +0000 2021",
 		"id": 1410796620556517400,
 		"id_str": "1410810036704718848",
