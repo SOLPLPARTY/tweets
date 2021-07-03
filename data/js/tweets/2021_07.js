@@ -1,6 +1,677 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 03 13:11:16 +0000 2021",
+		"id": 1411308748220469200,
+		"id_str": "1411311582718705664",
+		"full_text": "📢 7/4 공연 현장 안내\n\n&lt;Synopsis ~prologue~&gt;\n· 티켓수령 : 4시 (현장구매 가능)\n· 입장 : 4시 30분\n· 공연시작 : 5시\n· 출연 : 9001\n\n#9001 #NINETYOONE #단독콘서트\n#롤링홀 #ROLLINGHALL\n#홍대 #공연 #인디 #멜론티켓 https://t.co/CJOVvzmSWA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NINETYOONE",
+					"indices": [
+						111,
+						122
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						135,
+						147
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						156,
+						159
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						160,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1410478036705681400,
+					"id_str": "1410478036705681413",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E5MGTSVVIAUNPQW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5MGTSVVIAUNPQW.jpg",
+					"url": "https://t.co/CJOVvzmSWA",
+					"display_url": "pic.twitter.com/CJOVvzmSWA",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1411308748220469248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410478036705681400,
+					"id_str": "1410478036705681413",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E5MGTSVVIAUNPQW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5MGTSVVIAUNPQW.jpg",
+					"url": "https://t.co/CJOVvzmSWA",
+					"display_url": "pic.twitter.com/CJOVvzmSWA",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1411308748220469248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1410478069622608000,
+					"id_str": "1410478069622607877",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E5MGVM9VkAUFcfA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5MGVM9VkAUFcfA.jpg",
+					"url": "https://t.co/CJOVvzmSWA",
+					"display_url": "pic.twitter.com/CJOVvzmSWA",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1411308748220469248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1410478113897599000,
+					"id_str": "1410478113897598977",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E5MGXx5UUAESUch.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5MGXx5UUAESUch.jpg",
+					"url": "https://t.co/CJOVvzmSWA",
+					"display_url": "pic.twitter.com/CJOVvzmSWA",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1411308748220469248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1410478114040209400,
+					"id_str": "1410478114040209409",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E5MGXybUYAEoIst.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5MGXybUYAEoIst.jpg",
+					"url": "https://t.co/CJOVvzmSWA",
+					"display_url": "pic.twitter.com/CJOVvzmSWA",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1411308748220469248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/TADR20wMLG",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TADR20wMLG",
+							"expanded_url": "https://bit.ly/2ManUuA",
+							"display_url": "bit.ly/2ManUuA",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 181,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 7/4 공연 현장 안내\n\n&lt;Synopsis ~prologue~&gt;\n· 티켓수령 : 4시 (현장구매 가능)\n· 입장 : 4시 30분\n· 공연시작 : 5시\n· 출연 : 9001\n\n#9001 #NINETYOONE #단독콘서트\n#롤링홀 #ROLLINGHALL\n#홍대 #공연 #인디 #멜론티켓 https://t.co/CJOVvzmSWA"
+	},
+	{
+		"created_at": "Sat Jul 03 12:58:27 +0000 2021",
+		"id": 1411307081852874800,
+		"id_str": "1411308355499462660",
+		"full_text": "퇴마의 바톤을 이어받은 DJ SUBUN는 또 어떤 방법으로 케이팝을 구할 수 있을까요?\n\n트와이스 SUNSET\n유니티 넘어(No More)\nLABOUM 불을 켜(Turn It On)\n이달의 소녀 Eclipse\n\nlisten only on\n\nhttps://t.co/T43gV7xOm1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T43gV7xOm1",
+					"expanded_url": "https://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 수요일~토요일 NAVER NOW / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/J4jpDKDhWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J4jpDKDhWh",
+							"expanded_url": "https://now.naver.com/player/10256",
+							"display_url": "now.naver.com/player/10256",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7640,
+			"friends_count": 30,
+			"listed_count": 19,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 691,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 997,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "퇴마의 바톤을 이어받은 DJ SUBUN는 또 어떤 방법으로 케이팝을 구할 수 있을까요?\n\n트와이스 SUNSET\n유니티 넘어(No More)\nLABOUM 불을 켜(Turn It On)\n이달의 소녀 Eclipse\n\nlisten only on\n\nhttps://t.co/T43gV7xOm1"
+	},
+	{
+		"created_at": "Sat Jul 03 12:58:25 +0000 2021",
+		"id": 1411302101775372300,
+		"id_str": "1411308346699886599",
+		"full_text": "위기에 빠진 케이팝을 위해서라면 국악까지 믹스해버리는 DJ QUIBBIE는 과연 구마에 성공할까요?\n\n선미 날라리🧚‍♂️\n이선희 아름다운 강산⛰\n소녀시대 I Got A Boy✨\nPsy KOREA\n\nlisten only on\n\nhttps://t.co/T43gV7xOm1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T43gV7xOm1",
+					"expanded_url": "https://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 수요일~토요일 NAVER NOW / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/J4jpDKDhWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J4jpDKDhWh",
+							"expanded_url": "https://now.naver.com/player/10256",
+							"display_url": "now.naver.com/player/10256",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7640,
+			"friends_count": 30,
+			"listed_count": 19,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 691,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 997,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "위기에 빠진 케이팝을 위해서라면 국악까지 믹스해버리는 DJ QUIBBIE는 과연 구마에 성공할까요?\n\n선미 날라리🧚‍♂️\n이선희 아름다운 강산⛰\n소녀시대 I Got A Boy✨\nPsy KOREA\n\nlisten only on\n\nhttps://t.co/T43gV7xOm1"
+	},
+	{
+		"created_at": "Sat Jul 03 12:58:22 +0000 2021",
+		"id": 1411295897330143200,
+		"id_str": "1411308333588484099",
+		"full_text": "슬픔의케이팝파티 Episode.07\n&lt;케이팝 구마사&gt;\n\n구마의 시작을 알리는 DJ QUIBBIE의 국악믹스가 시작됩니다.\n\nIU 아라로 ✨💖\nNCT127 영웅🤼\nSuperM 호랑이🐯\n\nlisten only on\n\nhttps://t.co/T43gV7xOm1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T43gV7xOm1",
+					"expanded_url": "https://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 수요일~토요일 NAVER NOW / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/J4jpDKDhWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J4jpDKDhWh",
+							"expanded_url": "https://now.naver.com/player/10256",
+							"display_url": "now.naver.com/player/10256",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7640,
+			"friends_count": 30,
+			"listed_count": 19,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 691,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 997,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬픔의케이팝파티 Episode.07\n&lt;케이팝 구마사&gt;\n\n구마의 시작을 알리는 DJ QUIBBIE의 국악믹스가 시작됩니다.\n\nIU 아라로 ✨💖\nNCT127 영웅🤼\nSuperM 호랑이🐯\n\nlisten only on\n\nhttps://t.co/T43gV7xOm1"
+	},
+	{
 		"created_at": "Sat Jul 03 11:58:34 +0000 2021",
 		"id": 1411293125864161300,
 		"id_str": "1411293285864325122",
