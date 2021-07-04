@@ -1,6 +1,460 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 04 03:58:15 +0000 2021",
+		"id": 1411520141611999200,
+		"id_str": "1411534795767681033",
+		"full_text": "#THEBOYZ's Breaking Live REPLAY OPEN 💝\nFULL Ver. ▶ https://t.co/7nWRcvQsWs\n\n#KCONTACT #KCONTACT4U https://t.co/ApW7UYGG1O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THEBOYZ",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						76,
+						85
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						86,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7nWRcvQsWs",
+					"expanded_url": "https://youtu.be/qZQrMB2ubwY",
+					"display_url": "youtu.be/qZQrMB2ubwY",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1410197676256231400,
+					"id_str": "1410197676256231426",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1410197676256231426/pu/img/4fiZgARkljQHERyY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1410197676256231426/pu/img/4fiZgARkljQHERyY.jpg",
+					"url": "https://t.co/ApW7UYGG1O",
+					"display_url": "pic.twitter.com/ApW7UYGG1O",
+					"expanded_url": "https://twitter.com/KCON_official/status/1411520141611999234/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410197676256231400,
+					"id_str": "1410197676256231426",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1410197676256231426/pu/img/4fiZgARkljQHERyY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1410197676256231426/pu/img/4fiZgARkljQHERyY.jpg",
+					"url": "https://t.co/ApW7UYGG1O",
+					"display_url": "pic.twitter.com/ApW7UYGG1O",
+					"expanded_url": "https://twitter.com/KCON_official/status/1411520141611999234/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 23924,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410197676256231426/pu/vid/640x360/2Mt8vwO3v0ZjJ0Jt.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410197676256231426/pu/vid/1280x720/2U58uf0l3xMo5BfS.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1410197676256231426/pu/pl/98BcG6E2-uYWzc8h.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410197676256231426/pu/vid/480x270/wx-Mbvp4FlDa1g_o.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 376532,
+			"friends_count": 75,
+			"listed_count": 994,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 343,
+		"favorite_count": 894,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#THEBOYZ's Breaking Live REPLAY OPEN 💝\nFULL Ver. ▶ https://t.co/7nWRcvQsWs\n\n#KCONTACT #KCONTACT4U https://t.co/ApW7UYGG1O"
+	},
+	{
+		"created_at": "Sun Jul 04 03:29:33 +0000 2021",
+		"id": 1411521396413550600,
+		"id_str": "1411527574463954946",
+		"full_text": "DAILY MIRRORBALL MUSIC | 210704 SUN\n⠀\n🔸 연지예 (흐림) [여름 (Following the Sun)] https://t.co/q5Bq1KyzWq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1410761331582529500,
+					"id_str": "1410761331582529547",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1410761331582529547/pu/img/nz6hkG1_L73ujjdE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1410761331582529547/pu/img/nz6hkG1_L73ujjdE.jpg",
+					"url": "https://t.co/q5Bq1KyzWq",
+					"display_url": "pic.twitter.com/q5Bq1KyzWq",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1411521396413550593/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410761331582529500,
+					"id_str": "1410761331582529547",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1410761331582529547/pu/img/nz6hkG1_L73ujjdE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1410761331582529547/pu/img/nz6hkG1_L73ujjdE.jpg",
+					"url": "https://t.co/q5Bq1KyzWq",
+					"display_url": "pic.twitter.com/q5Bq1KyzWq",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1411521396413550593/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 58058,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1410761331582529547/pu/pl/b9MRYztpDAlcsDlv.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410761331582529547/pu/vid/540x540/E6xVGWqC37NHMFTt.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410761331582529547/pu/vid/720x720/KF50ukKmXwVEAQCR.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1410761331582529547/pu/vid/320x320/6gQ8Jb_LT9R6VYfY.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9474,
+			"friends_count": 2677,
+			"listed_count": 250,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1613553522",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "DAILY MIRRORBALL MUSIC | 210704 SUN\n⠀\n🔸 연지예 (흐림) [여름 (Following the Sun)] https://t.co/q5Bq1KyzWq"
+	},
+	{
 		"created_at": "Sun Jul 04 03:10:42 +0000 2021",
 		"id": 1411522833080017000,
 		"id_str": "1411522833080016901",
