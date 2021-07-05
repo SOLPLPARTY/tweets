@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 05 07:29:42 +0000 2021",
+		"id": 1411942968731177000,
+		"id_str": "1411950397577646082",
+		"full_text": "Welcome to EDAM🎉\n\n오늘부터\nEDAM엔터테인먼트의 새 식구가 된\n배우 신세경 님을 환영합니다💜\n앞으로 EDAM과 함께 만들어 나갈\n꽃길 가득한 나날들을\n많이 기대해주세요🌸🌸🌸 https://t.co/AdF0lQ5Avk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1411940743137042400,
+					"id_str": "1411940743137042432",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/E5g4oAaVoAAZjwB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5g4oAaVoAAZjwB.jpg",
+					"url": "https://t.co/AdF0lQ5Avk",
+					"display_url": "pic.twitter.com/AdF0lQ5Avk",
+					"expanded_url": "https://twitter.com/edam_ent/status/1411942968731176964/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411940743137042400,
+					"id_str": "1411940743137042432",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/E5g4oAaVoAAZjwB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5g4oAaVoAAZjwB.jpg",
+					"url": "https://t.co/AdF0lQ5Avk",
+					"display_url": "pic.twitter.com/AdF0lQ5Avk",
+					"expanded_url": "https://twitter.com/edam_ent/status/1411942968731176964/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49106,
+			"friends_count": 1,
+			"listed_count": 181,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2064,
+		"favorite_count": 4708,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Welcome to EDAM🎉\n\n오늘부터\nEDAM엔터테인먼트의 새 식구가 된\n배우 신세경 님을 환영합니다💜\n앞으로 EDAM과 함께 만들어 나갈\n꽃길 가득한 나날들을\n많이 기대해주세요🌸🌸🌸 https://t.co/AdF0lQ5Avk"
+	},
+	{
+		"created_at": "Mon Jul 05 07:29:33 +0000 2021",
+		"id": 1411942455306457000,
+		"id_str": "1411950359342370818",
+		"full_text": "[#NEWS] 정인, '비긴어게인 오픈마이크' 출연…'말하는대로' 재해석\n\n🔗https://t.co/3DYda8ecRi\n\n#정인 #JTBC #비긴어게인 #오픈마이크 #말하는대로",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "정인",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "비긴어게인",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "오픈마이크",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "말하는대로",
+					"indices": [
+						92,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3DYda8ecRi",
+					"expanded_url": "http://bit.ly/3xotrAw",
+					"display_url": "bit.ly/3xotrAw",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21223,
+			"friends_count": 17,
+			"listed_count": 237,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6069,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 정인, '비긴어게인 오픈마이크' 출연…'말하는대로' 재해석\n\n🔗https://t.co/3DYda8ecRi\n\n#정인 #JTBC #비긴어게인 #오픈마이크 #말하는대로"
+	},
+	{
 		"created_at": "Mon Jul 05 06:58:15 +0000 2021",
 		"id": 1411927825100202000,
 		"id_str": "1411942483194531841",
