@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 05 16:11:17 +0000 2021",
+		"id": 1412059272611983400,
+		"id_str": "1412081657675460620",
+		"full_text": "✔️상상마당 홍대 전시\n제12회 KT&amp;G 올해의 최종작가\n김효연 개인전 &lt;감각이상&gt;이\n이번달 18일까지 진행 됩니다.\n\n놓치지말고 꼭 감상해 보세요😉\n\n📷 감각이상\n📷 ~ 7/18(금) 까지\n📷 상상마당 홍대 갤러리 4-5층\n📷 12:00-19:00 (월요일 휴관)\n📷 도슨트예약: https://t.co/n9GuZxGzMm https://t.co/FFO6prwx7P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n9GuZxGzMm",
+					"expanded_url": "http://naver.me/5IFhDI50",
+					"display_url": "naver.me/5IFhDI50",
+					"indices": [
+						168,
+						191
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1412059260024881200,
+					"id_str": "1412059260024881157",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/E5ikamOVgAU457b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5ikamOVgAU457b.jpg",
+					"url": "https://t.co/FFO6prwx7P",
+					"display_url": "pic.twitter.com/FFO6prwx7P",
+					"expanded_url": "https://twitter.com/SSmadang/status/1412059272611983360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412059260024881200,
+					"id_str": "1412059260024881157",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/E5ikamOVgAU457b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5ikamOVgAU457b.jpg",
+					"url": "https://t.co/FFO6prwx7P",
+					"display_url": "pic.twitter.com/FFO6prwx7P",
+					"expanded_url": "https://twitter.com/SSmadang/status/1412059272611983360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412059259982909400,
+					"id_str": "1412059259982909443",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/E5ikamEVEAM06fE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5ikamEVEAM06fE.jpg",
+					"url": "https://t.co/FFO6prwx7P",
+					"display_url": "pic.twitter.com/FFO6prwx7P",
+					"expanded_url": "https://twitter.com/SSmadang/status/1412059272611983360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412059260024856600,
+					"id_str": "1412059260024856576",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/E5ikamOVIAAYGSE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5ikamOVIAAYGSE.jpg",
+					"url": "https://t.co/FFO6prwx7P",
+					"display_url": "pic.twitter.com/FFO6prwx7P",
+					"expanded_url": "https://twitter.com/SSmadang/status/1412059272611983360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412059260561752000,
+					"id_str": "1412059260561752069",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/E5ikaoOVgAUm0qx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5ikaoOVgAUm0qx.jpg",
+					"url": "https://t.co/FFO6prwx7P",
+					"display_url": "pic.twitter.com/FFO6prwx7P",
+					"expanded_url": "https://twitter.com/SSmadang/status/1412059272611983360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17860,
+			"friends_count": 1885,
+			"listed_count": 289,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✔️상상마당 홍대 전시\n제12회 KT&amp;G 올해의 최종작가\n김효연 개인전 &lt;감각이상&gt;이\n이번달 18일까지 진행 됩니다.\n\n놓치지말고 꼭 감상해 보세요😉\n\n📷 감각이상\n📷 ~ 7/18(금) 까지\n📷 상상마당 홍대 갤러리 4-5층\n📷 12:00-19:00 (월요일 휴관)\n📷 도슨트예약: https://t.co/n9GuZxGzMm https://t.co/FFO6prwx7P"
+	},
+	{
 		"created_at": "Mon Jul 05 12:12:59 +0000 2021",
 		"id": 1412021687315538000,
 		"id_str": "1412021687315537921",
