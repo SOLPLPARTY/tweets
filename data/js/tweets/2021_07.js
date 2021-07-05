@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 05 06:11:16 +0000 2021",
+		"id": 1411925797489700900,
+		"id_str": "1411930661825486849",
+		"full_text": "#클럽빵 #영 #박찬용 #김민섭 #유애포 #피라 #로진 #유랑 #덕스 #놈보이 #시나쓰는앨리스 #조슈아 #이디어츠 #이지구밴드 #스웨터스 #시골 #미루 #송인효 #셀린셀리셀리느 https://t.co/d1QVSbrhnh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "클럽빵",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "영",
+					"indices": [
+						5,
+						7
+					]
+				},
+				{
+					"text": "박찬용",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "김민섭",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "유애포",
+					"indices": [
+						18,
+						22
+					]
+				},
+				{
+					"text": "피라",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "로진",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "유랑",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "덕스",
+					"indices": [
+						35,
+						38
+					]
+				},
+				{
+					"text": "놈보이",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "시나쓰는앨리스",
+					"indices": [
+						44,
+						52
+					]
+				},
+				{
+					"text": "조슈아",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "이디어츠",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "이지구밴드",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "스웨터스",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "시골",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "미루",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "송인효",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "셀린셀리셀리느",
+					"indices": [
+						90,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1411925786458681300,
+					"id_str": "1411925786458681346",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/E5grBacVcAINCOL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5grBacVcAINCOL.jpg",
+					"url": "https://t.co/d1QVSbrhnh",
+					"display_url": "pic.twitter.com/d1QVSbrhnh",
+					"expanded_url": "https://twitter.com/club_bbang/status/1411925797489700864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411925786458681300,
+					"id_str": "1411925786458681346",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/E5grBacVcAINCOL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5grBacVcAINCOL.jpg",
+					"url": "https://t.co/d1QVSbrhnh",
+					"display_url": "pic.twitter.com/d1QVSbrhnh",
+					"expanded_url": "https://twitter.com/club_bbang/status/1411925797489700864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2503,
+			"friends_count": 885,
+			"listed_count": 37,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#클럽빵 #영 #박찬용 #김민섭 #유애포 #피라 #로진 #유랑 #덕스 #놈보이 #시나쓰는앨리스 #조슈아 #이디어츠 #이지구밴드 #스웨터스 #시골 #미루 #송인효 #셀린셀리셀리느 https://t.co/d1QVSbrhnh"
+	},
+	{
 		"created_at": "Mon Jul 05 04:11:17 +0000 2021",
 		"id": 1411891444550230000,
 		"id_str": "1411900463952404482",
