@@ -1,6 +1,688 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 05 04:11:17 +0000 2021",
+		"id": 1411891444550230000,
+		"id_str": "1411900463952404482",
+		"full_text": "[코멘터리 룸 : 천용성 &lt;수몰&gt; 편] 2021.07.24(토) PM 7:00 https://t.co/EuGef3MxVE https://t.co/JaGu5VmTgj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EuGef3MxVE",
+					"expanded_url": "https://m.blog.naver.com/studiozemi/222420751202",
+					"display_url": "m.blog.naver.com/studiozemi/222…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1411891438330081300,
+					"id_str": "1411891438330081290",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/E5gLyFsUcAoM4b9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5gLyFsUcAoM4b9.jpg",
+					"url": "https://t.co/JaGu5VmTgj",
+					"display_url": "pic.twitter.com/JaGu5VmTgj",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1411891444550230017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411891438330081300,
+					"id_str": "1411891438330081290",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/E5gLyFsUcAoM4b9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5gLyFsUcAoM4b9.jpg",
+					"url": "https://t.co/JaGu5VmTgj",
+					"display_url": "pic.twitter.com/JaGu5VmTgj",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1411891444550230017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8434,
+			"friends_count": 571,
+			"listed_count": 82,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[코멘터리 룸 : 천용성 &lt;수몰&gt; 편] 2021.07.24(토) PM 7:00 https://t.co/EuGef3MxVE https://t.co/JaGu5VmTgj"
+	},
+	{
+		"created_at": "Mon Jul 05 03:29:35 +0000 2021",
+		"id": 1411888105963987000,
+		"id_str": "1411889970806153223",
+		"full_text": "#KWONYURI wraps up #보쌈_운명을훔치다, leading the new history of MBN dramas with her perfect visual, acting &amp; viewer ratings!\nKWON YURI’s sincere challenge regardless of genres gathers anticipation for her next step as an actress!\n\n#YURI \n#권유리 #유리\n#소녀시대 #GirlsGeneration https://t.co/IQKM0o49TZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KWONYURI",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "보쌈_운명을훔치다",
+					"indices": [
+						19,
+						29
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						229,
+						234
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						236,
+						240
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						241,
+						244
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						245,
+						250
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						251,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1411886348231864300,
+					"id_str": "1411886348231864320",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E5gHJzmVcAApxsV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5gHJzmVcAApxsV.jpg",
+					"url": "https://t.co/IQKM0o49TZ",
+					"display_url": "pic.twitter.com/IQKM0o49TZ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1411888105963986947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1217,
+							"h": 1826,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411886348231864300,
+					"id_str": "1411886348231864320",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E5gHJzmVcAApxsV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5gHJzmVcAApxsV.jpg",
+					"url": "https://t.co/IQKM0o49TZ",
+					"display_url": "pic.twitter.com/IQKM0o49TZ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1411888105963986947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1217,
+							"h": 1826,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1411886348227604500,
+					"id_str": "1411886348227604483",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E5gHJzlUcAMTJFR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5gHJzlUcAMTJFR.jpg",
+					"url": "https://t.co/IQKM0o49TZ",
+					"display_url": "pic.twitter.com/IQKM0o49TZ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1411888105963986947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1801,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1411886348236050400,
+					"id_str": "1411886348236050438",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E5gHJznVUAYBPbc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5gHJznVUAYBPbc.jpg",
+					"url": "https://t.co/IQKM0o49TZ",
+					"display_url": "pic.twitter.com/IQKM0o49TZ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1411888105963986947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1950,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1411886348240228400,
+					"id_str": "1411886348240228353",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E5gHJzoVEAEEpeP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5gHJzoVEAEEpeP.jpg",
+					"url": "https://t.co/IQKM0o49TZ",
+					"display_url": "pic.twitter.com/IQKM0o49TZ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1411888105963986947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9629735,
+			"friends_count": 55,
+			"listed_count": 10202,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 888,
+		"favorite_count": 4011,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#KWONYURI wraps up #보쌈_운명을훔치다, leading the new history of MBN dramas with her perfect visual, acting &amp; viewer ratings!\nKWON YURI’s sincere challenge regardless of genres gathers anticipation for her next step as an actress!\n\n#YURI \n#권유리 #유리\n#소녀시대 #GirlsGeneration https://t.co/IQKM0o49TZ"
+	},
+	{
+		"created_at": "Mon Jul 05 03:29:29 +0000 2021",
+		"id": 1411883902541582300,
+		"id_str": "1411889945132908550",
+		"full_text": "[#MTS] 이 주의 미스틱스토리 Monday To Sunday 🔔\n\n🔗 https://t.co/SXg9p9wQhQ\n\n#LUCY #오영주 #정인 #김시아 #고민시 #윤종신 #민서",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MTS",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "LUCY",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "오영주",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "정인",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "김시아",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "고민시",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "윤종신",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "민서",
+					"indices": [
+						96,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SXg9p9wQhQ",
+					"expanded_url": "http://bit.ly/3jJXlLd",
+					"display_url": "bit.ly/3jJXlLd",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21225,
+			"friends_count": 17,
+			"listed_count": 236,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#MTS] 이 주의 미스틱스토리 Monday To Sunday 🔔\n\n🔗 https://t.co/SXg9p9wQhQ\n\n#LUCY #오영주 #정인 #김시아 #고민시 #윤종신 #민서"
+	},
+	{
 		"created_at": "Mon Jul 05 03:06:05 +0000 2021",
 		"id": 1411884059085750300,
 		"id_str": "1411884059085750274",
