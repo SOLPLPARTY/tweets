@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 05 06:58:15 +0000 2021",
+		"id": 1411927825100202000,
+		"id_str": "1411942483194531841",
+		"full_text": "📸AR Photo Card SPOILER\n\nMeet KCON:TACT 4 U AR Photo Card at EVERLINE and TVINGMALL right now!\n\n🎁NOW ON SALE\n▶EVERLINE (KOR/WORLDWIDE) \n: https://t.co/AAApsDxuz4\n▶TVINGMALL (KOR)\n: https://t.co/csp3o41j73\n\n#KCONTACT #KCONTACT4U https://t.co/Em1DSAsZ9c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						205,
+						214
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						215,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AAApsDxuz4",
+					"expanded_url": "http://www.elinepark.com",
+					"display_url": "elinepark.com",
+					"indices": [
+						137,
+						160
+					]
+				},
+				{
+					"url": "https://t.co/csp3o41j73",
+					"expanded_url": "http://mall.tving.com",
+					"display_url": "mall.tving.com",
+					"indices": [
+						180,
+						203
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1411911405205291000,
+					"id_str": "1411911405205291008",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1411911405205291008/pu/img/q542zNUumQ1BPRjf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1411911405205291008/pu/img/q542zNUumQ1BPRjf.jpg",
+					"url": "https://t.co/Em1DSAsZ9c",
+					"display_url": "pic.twitter.com/Em1DSAsZ9c",
+					"expanded_url": "https://twitter.com/KCON_official/status/1411927825100201986/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411911405205291000,
+					"id_str": "1411911405205291008",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1411911405205291008/pu/img/q542zNUumQ1BPRjf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1411911405205291008/pu/img/q542zNUumQ1BPRjf.jpg",
+					"url": "https://t.co/Em1DSAsZ9c",
+					"display_url": "pic.twitter.com/Em1DSAsZ9c",
+					"expanded_url": "https://twitter.com/KCON_official/status/1411927825100201986/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 40340,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1411911405205291008/pu/vid/1280x720/J4_1Z7f7bYrrQhZV.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1411911405205291008/pu/pl/AHkNRHWJTbpHpZ77.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1411911405205291008/pu/vid/640x360/1COcp38wNZMZ0V4K.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1411911405205291008/pu/vid/480x270/nJL_DKpjVHu4eQx4.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 377045,
+			"friends_count": 75,
+			"listed_count": 992,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 138,
+		"favorite_count": 539,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📸AR Photo Card SPOILER\n\nMeet KCON:TACT 4 U AR Photo Card at EVERLINE and TVINGMALL right now!\n\n🎁NOW ON SALE\n▶EVERLINE (KOR/WORLDWIDE) \n: https://t.co/AAApsDxuz4\n▶TVINGMALL (KOR)\n: https://t.co/csp3o41j73\n\n#KCONTACT #KCONTACT4U https://t.co/Em1DSAsZ9c"
+	},
+	{
 		"created_at": "Mon Jul 05 06:11:16 +0000 2021",
 		"id": 1411925797489700900,
 		"id_str": "1411930661825486849",
