@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 06 14:58:14 +0000 2021",
+		"id": 1412417259914551300,
+		"id_str": "1412425665534640135",
+		"full_text": "이번주 슬픔의케이팝파티는 금-토 양일간 함께합니다!\n\n슬픔의케이팝파티 episode.8 &lt;Amadeus&gt;\n케이팝 작곡가 특집! 특별히 좋아하는 케이팝 작곡가가 있나요? 슬케파 여덟번째 에피소드는 케이팝의 수많은 어머니 아버지를 떠올리며 준비한 믹스입니다! 7월 10일 토요일 밤 9시 입장해주세요! https://t.co/Xm5i2BUQtT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1412417251542700000,
+					"id_str": "1412417251542700041",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/E5nqAcjWEAkXEb_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5nqAcjWEAkXEb_.jpg",
+					"url": "https://t.co/Xm5i2BUQtT",
+					"display_url": "pic.twitter.com/Xm5i2BUQtT",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1412417259914551299/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412417251542700000,
+					"id_str": "1412417251542700041",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/E5nqAcjWEAkXEb_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5nqAcjWEAkXEb_.jpg",
+					"url": "https://t.co/Xm5i2BUQtT",
+					"display_url": "pic.twitter.com/Xm5i2BUQtT",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1412417259914551299/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 수요일~토요일 NAVER NOW / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/J4jpDKDhWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J4jpDKDhWh",
+							"expanded_url": "https://now.naver.com/player/10256",
+							"display_url": "now.naver.com/player/10256",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7658,
+			"friends_count": 30,
+			"listed_count": 19,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 692,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번주 슬픔의케이팝파티는 금-토 양일간 함께합니다!\n\n슬픔의케이팝파티 episode.8 &lt;Amadeus&gt;\n케이팝 작곡가 특집! 특별히 좋아하는 케이팝 작곡가가 있나요? 슬케파 여덟번째 에피소드는 케이팝의 수많은 어머니 아버지를 떠올리며 준비한 믹스입니다! 7월 10일 토요일 밤 9시 입장해주세요! https://t.co/Xm5i2BUQtT"
+	},
+	{
 		"created_at": "Tue Jul 06 13:58:22 +0000 2021",
 		"id": 1412405155547472000,
 		"id_str": "1412410598403493888",
