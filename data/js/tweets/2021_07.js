@@ -1,6 +1,440 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 06 12:29:38 +0000 2021",
+		"id": 1412383884549886000,
+		"id_str": "1412388266310053891",
+		"full_text": "[#너드커넥션] KT&amp;G 상상마당 부산 &lt;Rising Night Festival&gt; 거리두기 단계별 운영 방안 안내🎈\n\n자세한 사항은 상상마당 부산 홈페이지와 인스타그램에서 확인해주세요🌿\n\n#너드커넥션 #너컨 #상상마당부산 #라이징나이트페스티벌 #라라페 https://t.co/KI0wv6UM87",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "너드커넥션",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "너컨",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "상상마당부산",
+					"indices": [
+						126,
+						133
+					]
+				},
+				{
+					"text": "라이징나이트페스티벌",
+					"indices": [
+						134,
+						145
+					]
+				},
+				{
+					"text": "라라페",
+					"indices": [
+						146,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1412383877373448200,
+					"id_str": "1412383877373448194",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/E5nLp0FVUAIxPUc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5nLp0FVUAIxPUc.jpg",
+					"url": "https://t.co/KI0wv6UM87",
+					"display_url": "pic.twitter.com/KI0wv6UM87",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1412383884549885953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 417,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 236,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412383877373448200,
+					"id_str": "1412383877373448194",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/E5nLp0FVUAIxPUc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5nLp0FVUAIxPUc.jpg",
+					"url": "https://t.co/KI0wv6UM87",
+					"display_url": "pic.twitter.com/KI0wv6UM87",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1412383884549885953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 417,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 236,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 (당신의여름)",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타와 함께합니다.",
+			"url": "https://t.co/oHXBW5kYJK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oHXBW5kYJK",
+							"expanded_url": "http://www.instagram.com/yoursummerkr",
+							"display_url": "instagram.com/yoursummerkr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2097,
+			"friends_count": 23,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#너드커넥션] KT&amp;G 상상마당 부산 &lt;Rising Night Festival&gt; 거리두기 단계별 운영 방안 안내🎈\n\n자세한 사항은 상상마당 부산 홈페이지와 인스타그램에서 확인해주세요🌿\n\n#너드커넥션 #너컨 #상상마당부산 #라이징나이트페스티벌 #라라페 https://t.co/KI0wv6UM87"
+	},
+	{
+		"created_at": "Tue Jul 06 12:29:31 +0000 2021",
+		"id": 1412376105441390600,
+		"id_str": "1412388236358471682",
+		"full_text": "술과 안주도 추천 받읍니다. 여름과 장마에 어울리는 조합으로요❤\n\n▶️유튜브 ‘유어썸머’ 채널에서 생방송됩니다‼️\n\n#손님포차 #박소은 #박손님 #서온 #손원들모여라 #주인장박소은 #게스트서온 #안주추천 #술도추천받아요 #유튜브라이브 #참이슬 #진로 #좋은데이 #제주맥주 #하이트 #하이트진로 #카스",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손님포차",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "박소은",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "박손님",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "서온",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "손원들모여라",
+					"indices": [
+						85,
+						92
+					]
+				},
+				{
+					"text": "주인장박소은",
+					"indices": [
+						93,
+						100
+					]
+				},
+				{
+					"text": "게스트서온",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "안주추천",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "술도추천받아요",
+					"indices": [
+						114,
+						122
+					]
+				},
+				{
+					"text": "유튜브라이브",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"text": "참이슬",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "진로",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "좋은데이",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "제주맥주",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "하이트",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "하이트진로",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "카스",
+					"indices": [
+						164,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1412375975044653000,
+		"in_reply_to_status_id_str": "1412375975044653058",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 (당신의여름)",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타와 함께합니다.",
+			"url": "https://t.co/oHXBW5kYJK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oHXBW5kYJK",
+							"expanded_url": "http://www.instagram.com/yoursummerkr",
+							"display_url": "instagram.com/yoursummerkr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2097,
+			"friends_count": 23,
+			"listed_count": 12,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "술과 안주도 추천 받읍니다. 여름과 장마에 어울리는 조합으로요❤\n\n▶️유튜브 ‘유어썸머’ 채널에서 생방송됩니다‼️\n\n#손님포차 #박소은 #박손님 #서온 #손원들모여라 #주인장박소은 #게스트서온 #안주추천 #술도추천받아요 #유튜브라이브 #참이슬 #진로 #좋은데이 #제주맥주 #하이트 #하이트진로 #카스"
+	},
+	{
 		"created_at": "Tue Jul 06 10:29:39 +0000 2021",
 		"id": 1412357465849561000,
 		"id_str": "1412358071536476163",
