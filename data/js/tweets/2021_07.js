@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 07 02:29:31 +0000 2021",
+		"id": 1412592202820116500,
+		"id_str": "1412599630056022021",
+		"full_text": "2021 SMile Music Festival 모집 안내 음악 꿈나무들 모여라!\n온라인으로 진행되는 전문 트레이닝을 통해 실력을 쌓고, 팀별 영상도 간직할 수 있는 2021 #SMileMusicFestival.\n\n관심있는 청소년 여러분! 지금 바로 신청하세요.\n👉🏻 https://t.co/wr3XADHpXz\n\n#SMile #SMF #유스보이스 #YouthVoice https://t.co/H6h42P90et",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMileMusicFestival",
+					"indices": [
+						97,
+						116
+					]
+				},
+				{
+					"text": "SMile",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "SMF",
+					"indices": [
+						181,
+						185
+					]
+				},
+				{
+					"text": "유스보이스",
+					"indices": [
+						186,
+						192
+					]
+				},
+				{
+					"text": "YouthVoice",
+					"indices": [
+						193,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wr3XADHpXz",
+					"expanded_url": "https://bit.ly/3w0H9bf",
+					"display_url": "bit.ly/3w0H9bf",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1412260324602900500,
+					"id_str": "1412260324602900514",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/E5lbnwDVcB0dkS-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5lbnwDVcB0dkS-.jpg",
+					"url": "https://t.co/H6h42P90et",
+					"display_url": "pic.twitter.com/H6h42P90et",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1412592202820116484/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412260324602900500,
+					"id_str": "1412260324602900514",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/E5lbnwDVcB0dkS-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5lbnwDVcB0dkS-.jpg",
+					"url": "https://t.co/H6h42P90et",
+					"display_url": "pic.twitter.com/H6h42P90et",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1412592202820116484/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 23924,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1412260324602900514/pl/-xZEjQsivdXvYO-8.m3u8?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1412260324602900514/vid/640x360/zPvUG8lxwIRuHTX5.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1412260324602900514/vid/480x270/cStRJyR4XtS9wnM2.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1412260324602900514/vid/1280x720/Aut94TnEB4GPccC9.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9640073,
+			"friends_count": 55,
+			"listed_count": 10214,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10458,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 335,
+		"favorite_count": 2870,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2021 SMile Music Festival 모집 안내 음악 꿈나무들 모여라!\n온라인으로 진행되는 전문 트레이닝을 통해 실력을 쌓고, 팀별 영상도 간직할 수 있는 2021 #SMileMusicFestival.\n\n관심있는 청소년 여러분! 지금 바로 신청하세요.\n👉🏻 https://t.co/wr3XADHpXz\n\n#SMile #SMF #유스보이스 #YouthVoice https://t.co/H6h42P90et"
+	},
+	{
 		"created_at": "Tue Jul 06 14:58:14 +0000 2021",
 		"id": 1412417259914551300,
 		"id_str": "1412425665534640135",
