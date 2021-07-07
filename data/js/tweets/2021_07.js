@@ -1,6 +1,482 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 07 06:29:36 +0000 2021",
+		"id": 1412654075666043000,
+		"id_str": "1412660049881833478",
+		"full_text": "[VIDEO] [#인순이] #한스타연예인컬링대회\n\n'동계 올림픽인 줄...' 연예인 컬링에서 이런 샷이? (인순이, 달샤벳 수빈 출전) [제 2회 의정부 한스타 연예인 #컬링대회]\n\n👉 https://t.co/s8XKFxD5aF\n\n#휴맵컨텐츠 #HUMAPCONTENTS #INSOONI #한스타 #연예인컬링대회 #우승하고가수 #MBCsportsplus",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "한스타연예인컬링대회",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"text": "컬링대회",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						136,
+						150
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"text": "한스타",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "연예인컬링대회",
+					"indices": [
+						165,
+						173
+					]
+				},
+				{
+					"text": "우승하고가수",
+					"indices": [
+						174,
+						181
+					]
+				},
+				{
+					"text": "MBCsportsplus",
+					"indices": [
+						182,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s8XKFxD5aF",
+					"expanded_url": "https://youtu.be/KTd1ByYqzig",
+					"display_url": "youtu.be/KTd1ByYqzig",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 322,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#인순이] #한스타연예인컬링대회\n\n'동계 올림픽인 줄...' 연예인 컬링에서 이런 샷이? (인순이, 달샤벳 수빈 출전) [제 2회 의정부 한스타 연예인 #컬링대회]\n\n👉 https://t.co/s8XKFxD5aF\n\n#휴맵컨텐츠 #HUMAPCONTENTS #INSOONI #한스타 #연예인컬링대회 #우승하고가수 #MBCsportsplus"
+	},
+	{
+		"created_at": "Wed Jul 07 06:29:34 +0000 2021",
+		"id": 1412652605600190500,
+		"id_str": "1412660040989822979",
+		"full_text": "Welcome to MYSTIC STORY🎉\n\n미스틱스토리 식구가 된 배우 정유미를 환영합니다✨\n\n미스틱스토리와 함께 다양한 작품으로 활약할 정유미에게 많은 기대 부탁드립니다👏\n\n#배우 #정유미 https://t.co/j8M8OAn5Lr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "배우",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "정유미",
+					"indices": [
+						104,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1412647415488737300,
+					"id_str": "1412647415488737282",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/E5q7VwEUcAIbvcn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5q7VwEUcAIbvcn.jpg",
+					"url": "https://t.co/j8M8OAn5Lr",
+					"display_url": "pic.twitter.com/j8M8OAn5Lr",
+					"expanded_url": "https://twitter.com/themysticstory/status/1412652605600190464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412647415488737300,
+					"id_str": "1412647415488737282",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/E5q7VwEUcAIbvcn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5q7VwEUcAIbvcn.jpg",
+					"url": "https://t.co/j8M8OAn5Lr",
+					"display_url": "pic.twitter.com/j8M8OAn5Lr",
+					"expanded_url": "https://twitter.com/themysticstory/status/1412652605600190464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412647415492972500,
+					"id_str": "1412647415492972544",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/E5q7VwFVEAAtN_x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5q7VwFVEAAtN_x.jpg",
+					"url": "https://t.co/j8M8OAn5Lr",
+					"display_url": "pic.twitter.com/j8M8OAn5Lr",
+					"expanded_url": "https://twitter.com/themysticstory/status/1412652605600190464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412647415488733200,
+					"id_str": "1412647415488733189",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/E5q7VwEUYAUQ0XL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5q7VwEUYAUQ0XL.jpg",
+					"url": "https://t.co/j8M8OAn5Lr",
+					"display_url": "pic.twitter.com/j8M8OAn5Lr",
+					"expanded_url": "https://twitter.com/themysticstory/status/1412652605600190464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1412647415492923400,
+					"id_str": "1412647415492923393",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/E5q7VwFUUAEI7Lv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5q7VwFUUAEI7Lv.jpg",
+					"url": "https://t.co/j8M8OAn5Lr",
+					"display_url": "pic.twitter.com/j8M8OAn5Lr",
+					"expanded_url": "https://twitter.com/themysticstory/status/1412652605600190464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21235,
+			"friends_count": 17,
+			"listed_count": 237,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Welcome to MYSTIC STORY🎉\n\n미스틱스토리 식구가 된 배우 정유미를 환영합니다✨\n\n미스틱스토리와 함께 다양한 작품으로 활약할 정유미에게 많은 기대 부탁드립니다👏\n\n#배우 #정유미 https://t.co/j8M8OAn5Lr"
+	},
+	{
 		"created_at": "Wed Jul 07 05:29:24 +0000 2021",
 		"id": 1412641966152556500,
 		"id_str": "1412644901951619077",
