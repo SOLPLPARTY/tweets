@@ -1,6 +1,693 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 08 03:29:50 +0000 2021",
+		"id": 1412975738911748000,
+		"id_str": "1412977197929877505",
+		"full_text": "공연 및 예매문의: 채널톡 https://t.co/MUWYQL78vR\n\n🚩본 공연은 사회적 거리두기 지침과 정부의 긴급 대책을 준수합니다.\n\n뮤직피플을 위한 가장 트렌디한 공연,\n먼데이프로젝트는 평일 공연 활성화를 지향합니다.\n\"Music Everyday\"\n\n#먼데이프로젝트 #홍크 #도시야경 #구름아래소극장",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "먼데이프로젝트",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"text": "홍크",
+					"indices": [
+						154,
+						157
+					]
+				},
+				{
+					"text": "도시야경",
+					"indices": [
+						158,
+						163
+					]
+				},
+				{
+					"text": "구름아래소극장",
+					"indices": [
+						164,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MUWYQL78vR",
+					"expanded_url": "https://i-get.channel.io",
+					"display_url": "i-get.channel.io",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1412975736424571000,
+		"in_reply_to_status_id_str": "1412975736424570882",
+		"in_reply_to_user_id": 52109991,
+		"in_reply_to_user_id_str": "52109991",
+		"in_reply_to_screen_name": "orm_ent",
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 723,
+			"friends_count": 324,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1624418145",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공연 및 예매문의: 채널톡 https://t.co/MUWYQL78vR\n\n🚩본 공연은 사회적 거리두기 지침과 정부의 긴급 대책을 준수합니다.\n\n뮤직피플을 위한 가장 트렌디한 공연,\n먼데이프로젝트는 평일 공연 활성화를 지향합니다.\n\"Music Everyday\"\n\n#먼데이프로젝트 #홍크 #도시야경 #구름아래소극장"
+	},
+	{
+		"created_at": "Thu Jul 08 03:29:48 +0000 2021",
+		"id": 1412975707832033300,
+		"id_str": "1412977188991901697",
+		"full_text": "[홍크 단독 콘서트]\n\n먼데이 프로젝트 &lt;음악여행, 쉼&gt;\n7월의 여름, 홍크와 함께 도시 속 야경의 기억을 공유해봐요.\n\n📢예매 안내📢\n• 티켓오픈: 2021.7.8(목) 8:00 PM\n• 장소: 홍대 구름아래소극장\n• 예매처: 멜론티켓 https://t.co/MmRORFcC8s\n• 티켓: 44,000원 (할인:먼프재관람)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MmRORFcC8s",
+					"expanded_url": "http://kko.to/96YCtXM4B",
+					"display_url": "kko.to/96YCtXM4B",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 723,
+			"friends_count": 324,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1624418145",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[홍크 단독 콘서트]\n\n먼데이 프로젝트 &lt;음악여행, 쉼&gt;\n7월의 여름, 홍크와 함께 도시 속 야경의 기억을 공유해봐요.\n\n📢예매 안내📢\n• 티켓오픈: 2021.7.8(목) 8:00 PM\n• 장소: 홍대 구름아래소극장\n• 예매처: 멜론티켓 https://t.co/MmRORFcC8s\n• 티켓: 44,000원 (할인:먼프재관람)"
+	},
+	{
+		"created_at": "Thu Jul 08 03:29:39 +0000 2021",
+		"id": 1412970808293527600,
+		"id_str": "1412977150664269826",
+		"full_text": "페퍼톤스 X ‘The Premiere’\n'FILM LOVE (Feat. 스텔라장)'\n\nMelon https://t.co/ev3PfCCnhe\nGenie https://t.co/V9lYRSiy2h\nBugs https://t.co/udY6WOA1An\nFLO https://t.co/DR8FvJFa5I\n\n#페퍼톤스 #Peppertones #신재평 #이장원\n#FILMLOVE #스텔라장\n#삼성 #라이프스타일TV #ThePremiere",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						166,
+						171
+					]
+				},
+				{
+					"text": "Peppertones",
+					"indices": [
+						172,
+						184
+					]
+				},
+				{
+					"text": "신재평",
+					"indices": [
+						185,
+						189
+					]
+				},
+				{
+					"text": "이장원",
+					"indices": [
+						190,
+						194
+					]
+				},
+				{
+					"text": "FILMLOVE",
+					"indices": [
+						195,
+						204
+					]
+				},
+				{
+					"text": "스텔라장",
+					"indices": [
+						205,
+						210
+					]
+				},
+				{
+					"text": "삼성",
+					"indices": [
+						211,
+						214
+					]
+				},
+				{
+					"text": "라이프스타일TV",
+					"indices": [
+						215,
+						224
+					]
+				},
+				{
+					"text": "ThePremiere",
+					"indices": [
+						225,
+						237
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ev3PfCCnhe",
+					"expanded_url": "http://bit.ly/2UyVVbV",
+					"display_url": "bit.ly/2UyVVbV",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/V9lYRSiy2h",
+					"expanded_url": "http://bit.ly/3ywBefA",
+					"display_url": "bit.ly/3ywBefA",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/udY6WOA1An",
+					"expanded_url": "http://bit.ly/36mG3fA",
+					"display_url": "bit.ly/36mG3fA",
+					"indices": [
+						113,
+						136
+					]
+				},
+				{
+					"url": "https://t.co/DR8FvJFa5I",
+					"expanded_url": "http://bit.ly/3hlWgI8",
+					"display_url": "bit.ly/3hlWgI8",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1412970801914028000,
+		"in_reply_to_status_id_str": "1412970801914028034",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / Sam Kim (샘김) Single ‘The Juice’ 2021. 06. 23. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36392,
+			"friends_count": 10,
+			"listed_count": 373,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1623754978",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "페퍼톤스 X ‘The Premiere’\n'FILM LOVE (Feat. 스텔라장)'\n\nMelon https://t.co/ev3PfCCnhe\nGenie https://t.co/V9lYRSiy2h\nBugs https://t.co/udY6WOA1An\nFLO https://t.co/DR8FvJFa5I\n\n#페퍼톤스 #Peppertones #신재평 #이장원\n#FILMLOVE #스텔라장\n#삼성 #라이프스타일TV #ThePremiere"
+	},
+	{
+		"created_at": "Thu Jul 08 03:29:33 +0000 2021",
+		"id": 1412970801914028000,
+		"id_str": "1412977124898742274",
+		"full_text": "[Release] #페퍼톤스\n⠀\n페퍼톤스 X 'The Premiere'\n'FILM LOVE (Feat. 스텔라장)'\n⠀\nLyrics by 페퍼톤스 (Peppertones)\nComposed by 페퍼톤스 (Peppertones)\nArranged by 페퍼톤스 (Peppertones)\n\n#페퍼톤스 #Peppertones #신재평 #이장원\n#FILMLOVE #스텔라장\n#삼성 #라이프스타일TV #ThePremiere https://t.co/UtL7oSvTS9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						159,
+						164
+					]
+				},
+				{
+					"text": "Peppertones",
+					"indices": [
+						165,
+						177
+					]
+				},
+				{
+					"text": "신재평",
+					"indices": [
+						178,
+						182
+					]
+				},
+				{
+					"text": "이장원",
+					"indices": [
+						183,
+						187
+					]
+				},
+				{
+					"text": "FILMLOVE",
+					"indices": [
+						188,
+						197
+					]
+				},
+				{
+					"text": "스텔라장",
+					"indices": [
+						198,
+						203
+					]
+				},
+				{
+					"text": "삼성",
+					"indices": [
+						204,
+						207
+					]
+				},
+				{
+					"text": "라이프스타일TV",
+					"indices": [
+						208,
+						217
+					]
+				},
+				{
+					"text": "ThePremiere",
+					"indices": [
+						218,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1412964266072690700,
+					"id_str": "1412964266072690694",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/E5vbg4eVUAYc209.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5vbg4eVUAYc209.jpg",
+					"url": "https://t.co/UtL7oSvTS9",
+					"display_url": "pic.twitter.com/UtL7oSvTS9",
+					"expanded_url": "https://twitter.com/antennamusic/status/1412970801914028034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412964266072690700,
+					"id_str": "1412964266072690694",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/E5vbg4eVUAYc209.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5vbg4eVUAYc209.jpg",
+					"url": "https://t.co/UtL7oSvTS9",
+					"display_url": "pic.twitter.com/UtL7oSvTS9",
+					"expanded_url": "https://twitter.com/antennamusic/status/1412970801914028034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / Sam Kim (샘김) Single ‘The Juice’ 2021. 06. 23. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36392,
+			"friends_count": 10,
+			"listed_count": 373,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1623754978",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 91,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release] #페퍼톤스\n⠀\n페퍼톤스 X 'The Premiere'\n'FILM LOVE (Feat. 스텔라장)'\n⠀\nLyrics by 페퍼톤스 (Peppertones)\nComposed by 페퍼톤스 (Peppertones)\nArranged by 페퍼톤스 (Peppertones)\n\n#페퍼톤스 #Peppertones #신재평 #이장원\n#FILMLOVE #스텔라장\n#삼성 #라이프스타일TV #ThePremiere https://t.co/UtL7oSvTS9"
+	},
+	{
 		"created_at": "Thu Jul 08 03:12:29 +0000 2021",
 		"id": 1412972829893611500,
 		"id_str": "1412972829893611525",
