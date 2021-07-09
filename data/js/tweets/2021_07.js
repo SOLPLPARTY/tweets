@@ -1,6 +1,885 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 09 10:43:20 +0000 2021",
+		"id": 1413448677893443600,
+		"id_str": "1413448677893443584",
+		"full_text": "이랑 3집 다음달 8월 중 발매 예정 https://t.co/vF6ZlUyIRv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vF6ZlUyIRv",
+					"expanded_url": "https://twitter.com/LIVESTREAM_KR/status/1413432548332503040",
+					"display_url": "twitter.com/LIVESTREAM_KR/…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 70457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1413432548332503000,
+		"quoted_status_id_str": "1413432548332503040",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vF6ZlUyIRv",
+			"expanded": "https://twitter.com/LIVESTREAM_KR/status/1413432548332503040",
+			"display": "twitter.com/LIVESTREAM_KR/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 09 09:39:14 +0000 2021",
+			"id": 1413432548332503000,
+			"id_str": "1413432548332503040",
+			"full_text": "김사월X김해원, 이랑 공연 | 이벤트 프로그램 | BIFAN 2021 \nhttps://t.co/sb63mYzO1F \n\n#부천국제판타스틱영화제 #BIFAN @BiFanOfficial \n#김사월 #김해원 #이랑 \n#온라인공연 #라이브스트리밍",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				132
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "부천국제판타스틱영화제",
+						"indices": [
+							66,
+							78
+						]
+					},
+					{
+						"text": "BIFAN",
+						"indices": [
+							79,
+							85
+						]
+					},
+					{
+						"text": "김사월",
+						"indices": [
+							102,
+							106
+						]
+					},
+					{
+						"text": "김해원",
+						"indices": [
+							107,
+							111
+						]
+					},
+					{
+						"text": "이랑",
+						"indices": [
+							112,
+							115
+						]
+					},
+					{
+						"text": "온라인공연",
+						"indices": [
+							117,
+							123
+						]
+					},
+					{
+						"text": "라이브스트리밍",
+						"indices": [
+							124,
+							132
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BiFanOfficial",
+						"name": "부천국제판타스틱영화제(BIFAN)",
+						"id": 130091560,
+						"id_str": "130091560",
+						"indices": [
+							86,
+							100
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/sb63mYzO1F",
+						"expanded_url": "https://youtu.be/8aloKtegMMI",
+						"display_url": "youtu.be/8aloKtegMMI",
+						"indices": [
+							40,
+							63
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1351451613760655400,
+				"id_str": "1351451613760655360",
+				"name": "온라인 라이브 스트리밍",
+				"screen_name": "LIVESTREAM_KR",
+				"location": "",
+				"description": "🔴 LIVE: 온라인 라이브 스트리밍 소식을 알려드립니다.\n온라인 공연, 팬미팅, 인스타그램 라이브, 브이라이브 등.\n\n#생중계 #라이브스트리밍 #언택트공연 #비대면공연\n#온라인공연 #온라인콘서트 #OnlineConcert #OnlineStage #온라인스트리밍",
+				"url": "https://t.co/dikBU9SEZg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dikBU9SEZg",
+								"expanded_url": "https://ambler.kr/livestream",
+								"display_url": "ambler.kr/livestream",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 234,
+				"friends_count": 23,
+				"listed_count": 3,
+				"created_at": "Tue Jan 19 08:49:18 +0000 2021",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 463,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1351451746845900800/cYdGCc0Y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1351451746845900800/cYdGCc0Y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1351451613760655360/1611049756",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이랑 3집 다음달 8월 중 발매 예정 https://t.co/vF6ZlUyIRv"
+	},
+	{
+		"created_at": "Fri Jul 09 10:42:15 +0000 2021",
+		"id": 1413447841138151400,
+		"id_str": "1413448407138455563",
+		"full_text": "JAMBINAI: Tiny Desk (Home) Concert  \nhttps://t.co/uXWEt3tQdj \n\n잠비나이가 NPR 타이니 데스크 콘서트 출연. 씽씽이 최초 출연 후 고래야, 방탄소년단이 다녀간 무대. \n\n#잠비나이 #JAMBINAI \n#온라인공연 #라이브스트리밍",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "잠비나이",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "JAMBINAI",
+					"indices": [
+						129,
+						138
+					]
+				},
+				{
+					"text": "온라인공연",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "라이브스트리밍",
+					"indices": [
+						147,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uXWEt3tQdj",
+					"expanded_url": "https://youtu.be/wEk0YlYEJAE",
+					"display_url": "youtu.be/wEk0YlYEJAE",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "문화예술과 관련된 정보를 제공해드립니다.\n\n#예술경영 #뮤직비즈니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업",
+			"url": "https://t.co/hGE8N4Kde4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hGE8N4Kde4",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 624,
+			"friends_count": 60,
+			"listed_count": 6,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21586,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1625201124",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "JAMBINAI: Tiny Desk (Home) Concert  \nhttps://t.co/uXWEt3tQdj \n\n잠비나이가 NPR 타이니 데스크 콘서트 출연. 씽씽이 최초 출연 후 고래야, 방탄소년단이 다녀간 무대. \n\n#잠비나이 #JAMBINAI \n#온라인공연 #라이브스트리밍"
+	},
+	{
+		"created_at": "Fri Jul 09 10:42:09 +0000 2021",
+		"id": 1413435767259472000,
+		"id_str": "1413448383302291466",
+		"full_text": "NPR 타이니데스크에 잠비나이 풀영상이 공개되었습니다.🎉\n멋진 영상 작품으로 함께 해주신 미디어아트 그룹 d'strict와 장시간 촬영에 고생해주신 촬영 스텝 여러분들, 녹음에 민재씨, 믹싱에 조상현 감독님, 김형군 대표님, 멤버들 모두 감사합니다. \n\nhttps://t.co/2I8GLeovSy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2I8GLeovSy",
+					"expanded_url": "https://youtu.be/wEk0YlYEJAE",
+					"display_url": "youtu.be/wEk0YlYEJAE",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206975662,
+			"id_str": "206975662",
+			"name": "김보미 Bomi Kim",
+			"screen_name": "Haegeum_BomiKim",
+			"location": "",
+			"description": "해금연주가/ 잠비나이Jambinai/ 샤이니월드SHINee World💎",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 615,
+			"friends_count": 109,
+			"listed_count": 21,
+			"created_at": "Sun Oct 24 06:03:07 +0000 2010",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5258,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410248614723522564/m5d5e2LV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410248614723522564/m5d5e2LV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206975662/1548215772",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "NPR 타이니데스크에 잠비나이 풀영상이 공개되었습니다.🎉\n멋진 영상 작품으로 함께 해주신 미디어아트 그룹 d'strict와 장시간 촬영에 고생해주신 촬영 스텝 여러분들, 녹음에 민재씨, 믹싱에 조상현 감독님, 김형군 대표님, 멤버들 모두 감사합니다. \n\nhttps://t.co/2I8GLeovSy"
+	},
+	{
+		"created_at": "Fri Jul 09 10:29:39 +0000 2021",
+		"id": 1413441031291375600,
+		"id_str": "1413445235615535107",
+		"full_text": "[#홍자] 박군과 함께한 핑크퐁 ㅇㅅ송 공개🎉\n\n홍자의 목소리로 더 흥겨워진 '핑크퐁 ㅇㅅ송'이 공개되었습니다!\n아래 링크를 통해 직접 감상하세요💜\n\n🔗https://t.co/E5X1f3Ois6\n\n#HONGJA #핑크퐁 #ㅇㅅ송 #트로트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍자",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "HONGJA",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "핑크퐁",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "ㅇㅅ송",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "트로트",
+					"indices": [
+						128,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E5X1f3Ois6",
+					"expanded_url": "https://youtu.be/kCcJ6O-3c1Y",
+					"display_url": "youtu.be/kCcJ6O-3c1Y",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21246,
+			"friends_count": 17,
+			"listed_count": 236,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6084,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#홍자] 박군과 함께한 핑크퐁 ㅇㅅ송 공개🎉\n\n홍자의 목소리로 더 흥겨워진 '핑크퐁 ㅇㅅ송'이 공개되었습니다!\n아래 링크를 통해 직접 감상하세요💜\n\n🔗https://t.co/E5X1f3Ois6\n\n#HONGJA #핑크퐁 #ㅇㅅ송 #트로트"
+	},
+	{
+		"created_at": "Fri Jul 09 10:29:31 +0000 2021",
+		"id": 1413430574430130200,
+		"id_str": "1413445201260027909",
+		"full_text": "오존의 꿈 🛌💤 라이브 풀버전은 &lt;아지트라이브&gt; 유튜브 채널에서 확인하실 수 있습니다. https://t.co/Nd1ytFXhg9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1413425999589503000,
+					"id_str": "1413425999589502977",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1413425999589502977/pu/img/4xoISP8YZG6QVnyI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1413425999589502977/pu/img/4xoISP8YZG6QVnyI.jpg",
+					"url": "https://t.co/Nd1ytFXhg9",
+					"display_url": "pic.twitter.com/Nd1ytFXhg9",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1413430574430130178/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413425999589503000,
+					"id_str": "1413425999589502977",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1413425999589502977/pu/img/4xoISP8YZG6QVnyI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1413425999589502977/pu/img/4xoISP8YZG6QVnyI.jpg",
+					"url": "https://t.co/Nd1ytFXhg9",
+					"display_url": "pic.twitter.com/Nd1ytFXhg9",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1413430574430130178/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28295,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1413425999589502977/pu/vid/640x360/qeyEKTuTMF4AJz4r.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1413425999589502977/pu/vid/480x270/a0p4zDafUiiwPMd8.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1413425999589502977/pu/pl/-65QswONbrONeS25.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1413425999589502977/pu/vid/1280x720/DJmmC36GmltvwDZU.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3917,
+			"friends_count": 8,
+			"listed_count": 85,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2745,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오존의 꿈 🛌💤 라이브 풀버전은 &lt;아지트라이브&gt; 유튜브 채널에서 확인하실 수 있습니다. https://t.co/Nd1ytFXhg9"
+	},
+	{
 		"created_at": "Fri Jul 09 09:56:47 +0000 2021",
 		"id": 1413436966612332500,
 		"id_str": "1413436966612332551",
