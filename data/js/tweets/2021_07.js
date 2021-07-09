@@ -1,6 +1,1873 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 09 06:11:32 +0000 2021",
+		"id": 1413371213028675600,
+		"id_str": "1413380277683032067",
+		"full_text": "#신해남과환자들\nHEYNAM SiN X PATiENTS\n\nRehearsal for Live Recording at Club Steel Face\n\nPhotos by @oda_sojusawa \n2021.7.6.\n\n#clubsteelface #steelface #heynamsinxpatients #livemusic #seoul https://t.co/3oplPcfbHt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신해남과환자들",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "clubsteelface",
+					"indices": [
+						117,
+						131
+					]
+				},
+				{
+					"text": "steelface",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"text": "heynamsinxpatients",
+					"indices": [
+						143,
+						162
+					]
+				},
+				{
+					"text": "livemusic",
+					"indices": [
+						163,
+						173
+					]
+				},
+				{
+					"text": "seoul",
+					"indices": [
+						174,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3oplPcfbHt",
+					"expanded_url": "https://www.instagram.com/p/CRGErLnllvi/?utm_medium=twitter",
+					"display_url": "instagram.com/p/CRGErLnllvi/…",
+					"indices": [
+						181,
+						204
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144667354,
+			"id_str": "4144667354",
+			"name": "CLUB STEEL FACE",
+			"screen_name": "clubsteelface",
+			"location": "10, Jandari-ro, Mapo-gu, Seoul",
+			"description": "Since 2015, Live Music Venue & Bar in Seoul, Korea(south)",
+			"url": "https://t.co/qNZdtjMBbN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qNZdtjMBbN",
+							"expanded_url": "http://steelface.com",
+							"display_url": "steelface.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 223,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Nov 06 09:37:46 +0000 2015",
+			"favourites_count": 483,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144667354/1453393563",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#신해남과환자들\nHEYNAM SiN X PATiENTS\n\nRehearsal for Live Recording at Club Steel Face\n\nPhotos by @oda_sojusawa \n2021.7.6.\n\n#clubsteelface #steelface #heynamsinxpatients #livemusic #seoul https://t.co/3oplPcfbHt"
+	},
+	{
+		"created_at": "Fri Jul 09 06:11:25 +0000 2021",
+		"id": 1413366923614580700,
+		"id_str": "1413380247878316034",
+		"full_text": "🔗Blog에서 설명과 함께 듣기: https://t.co/xU7bc3KtFX\n🔗Youtube에서 바로듣기: https://t.co/1WSzVVlByX\n\n-\n\n✿ 재주소년소녀, EP 앨범 &lt;포트4남매&gt;\n✿ 노디시카 X PL, 싱글 &lt;여름 밤&gt;\n✿ 장주훈, 싱글 &lt;못잊어&gt;\n\n- 곧 공지될 이벤트 플레이리스트 참여도\n모두 준비해두시라요 ( •͈ᴗ-)ᓂ- - -ෆ https://t.co/rXg15C74rx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xU7bc3KtFX",
+					"expanded_url": "https://url.kr/gsjqpy",
+					"display_url": "url.kr/gsjqpy",
+					"indices": [
+						19,
+						42
+					]
+				},
+				{
+					"url": "https://t.co/1WSzVVlByX",
+					"expanded_url": "https://youtube.com/playlist?list=PLYAswCaenHgUOvcZUyoc0S-wfoVWLmWPg",
+					"display_url": "youtube.com/playlist?list=…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1413366734174638000,
+					"id_str": "1413366734174638081",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E51Jjm_VUAEUO7a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E51Jjm_VUAEUO7a.jpg",
+					"url": "https://t.co/rXg15C74rx",
+					"display_url": "pic.twitter.com/rXg15C74rx",
+					"expanded_url": "https://twitter.com/xindieticket/status/1413366923614580736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413366734174638000,
+					"id_str": "1413366734174638081",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E51Jjm_VUAEUO7a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E51Jjm_VUAEUO7a.jpg",
+					"url": "https://t.co/rXg15C74rx",
+					"display_url": "pic.twitter.com/rXg15C74rx",
+					"expanded_url": "https://twitter.com/xindieticket/status/1413366923614580736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1413366734304678000,
+					"id_str": "1413366734304677891",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E51JjneVkAMIP5b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E51JjneVkAMIP5b.jpg",
+					"url": "https://t.co/rXg15C74rx",
+					"display_url": "pic.twitter.com/rXg15C74rx",
+					"expanded_url": "https://twitter.com/xindieticket/status/1413366923614580736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1413366734426239000,
+					"id_str": "1413366734426238981",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E51Jjn7UcAUDr7J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E51Jjn7UcAUDr7J.jpg",
+					"url": "https://t.co/rXg15C74rx",
+					"display_url": "pic.twitter.com/rXg15C74rx",
+					"expanded_url": "https://twitter.com/xindieticket/status/1413366923614580736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1413366919789301800,
+		"in_reply_to_status_id_str": "1413366919789301763",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2767,
+			"friends_count": 2613,
+			"listed_count": 21,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔗Blog에서 설명과 함께 듣기: https://t.co/xU7bc3KtFX\n🔗Youtube에서 바로듣기: https://t.co/1WSzVVlByX\n\n-\n\n✿ 재주소년소녀, EP 앨범 &lt;포트4남매&gt;\n✿ 노디시카 X PL, 싱글 &lt;여름 밤&gt;\n✿ 장주훈, 싱글 &lt;못잊어&gt;\n\n- 곧 공지될 이벤트 플레이리스트 참여도\n모두 준비해두시라요 ( •͈ᴗ-)ᓂ- - -ෆ https://t.co/rXg15C74rx"
+	},
+	{
+		"created_at": "Fri Jul 09 06:11:21 +0000 2021",
+		"id": 1413366919789301800,
+		"id_str": "1413380234787831811",
+		"full_text": "이번달도 다양한 장르의 고품격 곡들이 가득하니\n이 플레이리스트와 함께 다가오는 더위를 준비해 보아요 (•ө•)♡\n\n-\n\n✿ PQTIME, EP 앨범 &lt;긴밤을 지나&gt;\n✿ PARA9ON, EP 앨범 &lt;생각보다&gt;\n✿ 윤종률, 정규앨범 &lt;Simple Life&gt; https://t.co/aoonc0D4kJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1413366580868649000,
+					"id_str": "1413366580868648960",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/E51Jar4VkAANUE-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E51Jar4VkAANUE-.jpg",
+					"url": "https://t.co/aoonc0D4kJ",
+					"display_url": "pic.twitter.com/aoonc0D4kJ",
+					"expanded_url": "https://twitter.com/xindieticket/status/1413366919789301763/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413366580868649000,
+					"id_str": "1413366580868648960",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/E51Jar4VkAANUE-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E51Jar4VkAANUE-.jpg",
+					"url": "https://t.co/aoonc0D4kJ",
+					"display_url": "pic.twitter.com/aoonc0D4kJ",
+					"expanded_url": "https://twitter.com/xindieticket/status/1413366919789301763/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1413366581015433200,
+					"id_str": "1413366581015433216",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/E51JasbVUAAc_za.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E51JasbVUAAc_za.jpg",
+					"url": "https://t.co/aoonc0D4kJ",
+					"display_url": "pic.twitter.com/aoonc0D4kJ",
+					"expanded_url": "https://twitter.com/xindieticket/status/1413366919789301763/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1413366581174800400,
+					"id_str": "1413366581174800390",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/E51JatBVEAYLfoL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E51JatBVEAYLfoL.jpg",
+					"url": "https://t.co/aoonc0D4kJ",
+					"display_url": "pic.twitter.com/aoonc0D4kJ",
+					"expanded_url": "https://twitter.com/xindieticket/status/1413366919789301763/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1413366915683086300,
+		"in_reply_to_status_id_str": "1413366915683086337",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2767,
+			"friends_count": 2613,
+			"listed_count": 21,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번달도 다양한 장르의 고품격 곡들이 가득하니\n이 플레이리스트와 함께 다가오는 더위를 준비해 보아요 (•ө•)♡\n\n-\n\n✿ PQTIME, EP 앨범 &lt;긴밤을 지나&gt;\n✿ PARA9ON, EP 앨범 &lt;생각보다&gt;\n✿ 윤종률, 정규앨범 &lt;Simple Life&gt; https://t.co/aoonc0D4kJ"
+	},
+	{
+		"created_at": "Fri Jul 09 06:11:16 +0000 2021",
+		"id": 1413366915683086300,
+		"id_str": "1413380213292023809",
+		"full_text": "[2021년 7월 XINDIE'S 인디 신보 PLAYLIST]\n\n이번주에도 6&amp;7월 신보소식들을 포함한\n인디씬의 신보소식들을 들고\n゜❤︎씬디 플레이리스트❤︎ ゜가\n&lt;7월 인디 신보소식&gt;으로 돌아왔습니다!\n\n-\n\n✿ 이츠허밍, 정규앨범 [마음사전]\n✿ 서울다반사, 싱글 [Orange Drive]\n✿ 오소영, 싱글 &lt;아른아른&gt; https://t.co/hEEFRlPsfG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1413366261984088000,
+					"id_str": "1413366261984088067",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/E51JIH8VUAMyBKi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E51JIH8VUAMyBKi.jpg",
+					"url": "https://t.co/hEEFRlPsfG",
+					"display_url": "pic.twitter.com/hEEFRlPsfG",
+					"expanded_url": "https://twitter.com/xindieticket/status/1413366915683086337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413366261984088000,
+					"id_str": "1413366261984088067",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/E51JIH8VUAMyBKi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E51JIH8VUAMyBKi.jpg",
+					"url": "https://t.co/hEEFRlPsfG",
+					"display_url": "pic.twitter.com/hEEFRlPsfG",
+					"expanded_url": "https://twitter.com/xindieticket/status/1413366915683086337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1413366261988298800,
+					"id_str": "1413366261988298755",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/E51JIH9VkAMyDdK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E51JIH9VkAMyDdK.jpg",
+					"url": "https://t.co/hEEFRlPsfG",
+					"display_url": "pic.twitter.com/hEEFRlPsfG",
+					"expanded_url": "https://twitter.com/xindieticket/status/1413366915683086337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1413366261984108500,
+					"id_str": "1413366261984108547",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/E51JIH8VoAMU2TH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E51JIH8VoAMU2TH.jpg",
+					"url": "https://t.co/hEEFRlPsfG",
+					"display_url": "pic.twitter.com/hEEFRlPsfG",
+					"expanded_url": "https://twitter.com/xindieticket/status/1413366915683086337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1413366261988225000,
+					"id_str": "1413366261988225026",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/E51JIH9UcAIXcRT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E51JIH9UcAIXcRT.jpg",
+					"url": "https://t.co/hEEFRlPsfG",
+					"display_url": "pic.twitter.com/hEEFRlPsfG",
+					"expanded_url": "https://twitter.com/xindieticket/status/1413366915683086337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2767,
+			"friends_count": 2613,
+			"listed_count": 21,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5415,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2021년 7월 XINDIE'S 인디 신보 PLAYLIST]\n\n이번주에도 6&amp;7월 신보소식들을 포함한\n인디씬의 신보소식들을 들고\n゜❤︎씬디 플레이리스트❤︎ ゜가\n&lt;7월 인디 신보소식&gt;으로 돌아왔습니다!\n\n-\n\n✿ 이츠허밍, 정규앨범 [마음사전]\n✿ 서울다반사, 싱글 [Orange Drive]\n✿ 오소영, 싱글 &lt;아른아른&gt; https://t.co/hEEFRlPsfG"
+	},
+	{
+		"created_at": "Fri Jul 09 05:58:15 +0000 2021",
+		"id": 1413362276518727700,
+		"id_str": "1413376934701117444",
+		"full_text": "📸AR Photo Card SPOILER\n\nMeet KCON:TACT 4 U AR Photo Card at EVERLINE and TVINGMALL right now!\n\n🎁NOW ON SALE\n▶EVERLINE (KOR/WORLDWIDE) \n: https://t.co/AAApsDxuz4\n▶TVINGMALL (KOR)\n: https://t.co/csp3o41j73\n\n#KCONTACT #KCONTACT4U https://t.co/loSf06L1Ut",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						205,
+						214
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						215,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AAApsDxuz4",
+					"expanded_url": "http://www.elinepark.com",
+					"display_url": "elinepark.com",
+					"indices": [
+						137,
+						160
+					]
+				},
+				{
+					"url": "https://t.co/csp3o41j73",
+					"expanded_url": "http://mall.tving.com",
+					"display_url": "mall.tving.com",
+					"indices": [
+						180,
+						203
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1413312535172845600,
+					"id_str": "1413312535172845571",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1413312535172845571/pu/img/h_znmR_wF21_9yRj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1413312535172845571/pu/img/h_znmR_wF21_9yRj.jpg",
+					"url": "https://t.co/loSf06L1Ut",
+					"display_url": "pic.twitter.com/loSf06L1Ut",
+					"expanded_url": "https://twitter.com/KCON_official/status/1413362276518727682/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413312535172845600,
+					"id_str": "1413312535172845571",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1413312535172845571/pu/img/h_znmR_wF21_9yRj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1413312535172845571/pu/img/h_znmR_wF21_9yRj.jpg",
+					"url": "https://t.co/loSf06L1Ut",
+					"display_url": "pic.twitter.com/loSf06L1Ut",
+					"expanded_url": "https://twitter.com/KCON_official/status/1413362276518727682/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 40340,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1413312535172845571/pu/vid/480x270/V4FfjJ06pezR3RyB.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1413312535172845571/pu/vid/640x360/8baFQk2XU9vR-lQs.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1413312535172845571/pu/vid/1280x720/nho_j3zUl7zioJVW.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1413312535172845571/pu/pl/JY-7cwKrnfFS8_pP.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 378717,
+			"friends_count": 75,
+			"listed_count": 991,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 158,
+		"favorite_count": 340,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📸AR Photo Card SPOILER\n\nMeet KCON:TACT 4 U AR Photo Card at EVERLINE and TVINGMALL right now!\n\n🎁NOW ON SALE\n▶EVERLINE (KOR/WORLDWIDE) \n: https://t.co/AAApsDxuz4\n▶TVINGMALL (KOR)\n: https://t.co/csp3o41j73\n\n#KCONTACT #KCONTACT4U https://t.co/loSf06L1Ut"
+	},
+	{
+		"created_at": "Fri Jul 09 05:29:41 +0000 2021",
+		"id": 1413362768216920000,
+		"id_str": "1413369748486860800",
+		"full_text": "[#NEWS] 이지원, '우수무당 가두심' 출연 확정…김새론X남다름과 호흡 [공식입장]\n\n▶ https://t.co/o3tmrstV5L\n\n#이지원 #우수무당가두심 #카카오TV #수정",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "이지원",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "우수무당가두심",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"text": "카카오TV",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "수정",
+					"indices": [
+						98,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o3tmrstV5L",
+					"expanded_url": "https://bit.ly/3yJOopP",
+					"display_url": "bit.ly/3yJOopP",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21252,
+			"friends_count": 17,
+			"listed_count": 237,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6080,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 이지원, '우수무당 가두심' 출연 확정…김새론X남다름과 호흡 [공식입장]\n\n▶ https://t.co/o3tmrstV5L\n\n#이지원 #우수무당가두심 #카카오TV #수정"
+	},
+	{
+		"created_at": "Fri Jul 09 05:29:34 +0000 2021",
+		"id": 1413362669986336800,
+		"id_str": "1413369717176344576",
+		"full_text": "[Notice] #권진아 #정승환\n\n7/11(일) 권진아, 정승환이 출연 예정이었던 2021 SOMEDAY THEATRE CANTABILE가 코로나 19의 확산으로 연기되었습니다. 자세한 사항은 아래 링크에서 확인하실 수 있습니다.\n\n✔️ https://t.co/YoeIvcIKAM\n\n#SOMEDAYTHEATRECANTABILE\n#썸데이시어터칸타빌레 https://t.co/WGtJBx6EMa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권진아",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						14,
+						18
+					]
+				},
+				{
+					"text": "SOMEDAYTHEATRECANTABILE",
+					"indices": [
+						159,
+						183
+					]
+				},
+				{
+					"text": "썸데이시어터칸타빌레",
+					"indices": [
+						184,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YoeIvcIKAM",
+					"expanded_url": "https://bit.ly/2Ux4ZhB",
+					"display_url": "bit.ly/2Ux4ZhB",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1413362663032197000,
+					"id_str": "1413362663032197120",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/E51F2ozVkAAgLp-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E51F2ozVkAAgLp-.jpg",
+					"url": "https://t.co/WGtJBx6EMa",
+					"display_url": "pic.twitter.com/WGtJBx6EMa",
+					"expanded_url": "https://twitter.com/antennamusic/status/1413362669986336770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413362663032197000,
+					"id_str": "1413362663032197120",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/E51F2ozVkAAgLp-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E51F2ozVkAAgLp-.jpg",
+					"url": "https://t.co/WGtJBx6EMa",
+					"display_url": "pic.twitter.com/WGtJBx6EMa",
+					"expanded_url": "https://twitter.com/antennamusic/status/1413362669986336770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1413362663040557000,
+					"id_str": "1413362663040557058",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/E51F2o1VIAI-iJl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E51F2o1VIAI-iJl.jpg",
+					"url": "https://t.co/WGtJBx6EMa",
+					"display_url": "pic.twitter.com/WGtJBx6EMa",
+					"expanded_url": "https://twitter.com/antennamusic/status/1413362669986336770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1413362663036309500,
+					"id_str": "1413362663036309508",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/E51F2o0UUAQdbvQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E51F2o0UUAQdbvQ.jpg",
+					"url": "https://t.co/WGtJBx6EMa",
+					"display_url": "pic.twitter.com/WGtJBx6EMa",
+					"expanded_url": "https://twitter.com/antennamusic/status/1413362669986336770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / Sam Kim (샘김) Single ‘The Juice’ 2021. 06. 23. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36409,
+			"friends_count": 10,
+			"listed_count": 373,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3691,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1623754978",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Notice] #권진아 #정승환\n\n7/11(일) 권진아, 정승환이 출연 예정이었던 2021 SOMEDAY THEATRE CANTABILE가 코로나 19의 확산으로 연기되었습니다. 자세한 사항은 아래 링크에서 확인하실 수 있습니다.\n\n✔️ https://t.co/YoeIvcIKAM\n\n#SOMEDAYTHEATRECANTABILE\n#썸데이시어터칸타빌레 https://t.co/WGtJBx6EMa"
+	},
+	{
+		"created_at": "Fri Jul 09 05:29:27 +0000 2021",
+		"id": 1413362111162376200,
+		"id_str": "1413369687384145922",
+		"full_text": "⠀\nDAILY MIRRORBALL MUSIC | 210709 FRI\n⠀\n🔸 융단 [두근대지 마]\n🔸 장혁수 (janghyeoksoo) [Daisy]\n\n#융단 #장혁수 #미러볼뮤직 #인디음악 #음스타그램\n⠀ https://t.co/cftikukani",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "융단",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "장혁수",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "음스타그램",
+					"indices": [
+						106,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1413361664066429000,
+					"id_str": "1413361664066428929",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1413361664066428929/pu/img/BC_q_vtwc_qW2SeR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1413361664066428929/pu/img/BC_q_vtwc_qW2SeR.jpg",
+					"url": "https://t.co/cftikukani",
+					"display_url": "pic.twitter.com/cftikukani",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1413362111162376195/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413361664066429000,
+					"id_str": "1413361664066428929",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1413361664066428929/pu/img/BC_q_vtwc_qW2SeR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1413361664066428929/pu/img/BC_q_vtwc_qW2SeR.jpg",
+					"url": "https://t.co/cftikukani",
+					"display_url": "pic.twitter.com/cftikukani",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1413362111162376195/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 58058,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1413361664066428929/pu/vid/540x540/j4Xh0gSEDnQUzCgF.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1413361664066428929/pu/vid/720x720/mef79JaeA3W_V2KE.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1413361664066428929/pu/pl/UO_Yi7TzEEfM05eW.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1413361664066428929/pu/vid/320x320/kSS1GsHuWKqFQGI2.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9473,
+			"friends_count": 2677,
+			"listed_count": 250,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1613553522",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⠀\nDAILY MIRRORBALL MUSIC | 210709 FRI\n⠀\n🔸 융단 [두근대지 마]\n🔸 장혁수 (janghyeoksoo) [Daisy]\n\n#융단 #장혁수 #미러볼뮤직 #인디음악 #음스타그램\n⠀ https://t.co/cftikukani"
+	},
+	{
 		"created_at": "Fri Jul 09 04:29:24 +0000 2021",
 		"id": 1413340852127076400,
 		"id_str": "1413354578012254208",
