@@ -1,6 +1,1036 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 09 09:56:47 +0000 2021",
+		"id": 1413436966612332500,
+		"id_str": "1413436966612332551",
+		"full_text": "#루비레코드 #Ruby_Records\n[펀시티(The FunCity)] 7월 13일 펀시티 싱글 '분노의 축제' 발매 전 인사영상🔥\nhttps://t.co/YUke0o0yr6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "루비레코드",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Ruby_Records",
+					"indices": [
+						7,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YUke0o0yr6",
+					"expanded_url": "https://youtu.be/NGorAYk_GWs",
+					"display_url": "youtu.be/NGorAYk_GWs",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 70451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#루비레코드 #Ruby_Records\n[펀시티(The FunCity)] 7월 13일 펀시티 싱글 '분노의 축제' 발매 전 인사영상🔥\nhttps://t.co/YUke0o0yr6"
+	},
+	{
+		"created_at": "Fri Jul 09 09:40:01 +0000 2021",
+		"id": 1413432548332503000,
+		"id_str": "1413432743652847616",
+		"full_text": "김사월X김해원, 이랑 공연 | 이벤트 프로그램 | BIFAN 2021 \nhttps://t.co/sb63mYzO1F \n\n#부천국제판타스틱영화제 #BIFAN @BiFanOfficial \n#김사월 #김해원 #이랑 \n#온라인공연 #라이브스트리밍",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "부천국제판타스틱영화제",
+					"indices": [
+						66,
+						78
+					]
+				},
+				{
+					"text": "BIFAN",
+					"indices": [
+						79,
+						85
+					]
+				},
+				{
+					"text": "김사월",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "김해원",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "이랑",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "온라인공연",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "라이브스트리밍",
+					"indices": [
+						124,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BiFanOfficial",
+					"name": "부천국제판타스틱영화제(BIFAN)",
+					"id": 130091560,
+					"id_str": "130091560",
+					"indices": [
+						86,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sb63mYzO1F",
+					"expanded_url": "https://youtu.be/8aloKtegMMI",
+					"display_url": "youtu.be/8aloKtegMMI",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1351451613760655400,
+			"id_str": "1351451613760655360",
+			"name": "온라인 라이브 스트리밍",
+			"screen_name": "LIVESTREAM_KR",
+			"location": "",
+			"description": "🔴 LIVE: 온라인 라이브 스트리밍 소식을 알려드립니다.\n온라인 공연, 팬미팅, 인스타그램 라이브, 브이라이브 등.\n\n#생중계 #라이브스트리밍 #언택트공연 #비대면공연\n#온라인공연 #온라인콘서트 #OnlineConcert #OnlineStage #온라인스트리밍",
+			"url": "https://t.co/dikBU9SEZg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dikBU9SEZg",
+							"expanded_url": "https://ambler.kr/livestream",
+							"display_url": "ambler.kr/livestream",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 234,
+			"friends_count": 23,
+			"listed_count": 3,
+			"created_at": "Tue Jan 19 08:49:18 +0000 2021",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1351451746845900800/cYdGCc0Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1351451746845900800/cYdGCc0Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1351451613760655360/1611049756",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김사월X김해원, 이랑 공연 | 이벤트 프로그램 | BIFAN 2021 \nhttps://t.co/sb63mYzO1F \n\n#부천국제판타스틱영화제 #BIFAN @BiFanOfficial \n#김사월 #김해원 #이랑 \n#온라인공연 #라이브스트리밍"
+	},
+	{
+		"created_at": "Fri Jul 09 09:29:46 +0000 2021",
+		"id": 1413426448728313900,
+		"id_str": "1413430167209316354",
+		"full_text": "[SEOY]\nSEOY New Single 사랑으로 (♥x4)\n2021.07.11 12PM KST\n\n#음악 #인디음악 #노래 #music https://t.co/ug5QVT66lF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "음악",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "노래",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "music",
+					"indices": [
+						69,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1413377316428779500,
+					"id_str": "1413377316428779530",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1413377316428779530/pu/img/x3k1BdaLAR9Bnhap.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1413377316428779530/pu/img/x3k1BdaLAR9Bnhap.jpg",
+					"url": "https://t.co/ug5QVT66lF",
+					"display_url": "pic.twitter.com/ug5QVT66lF",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1413426448728313857/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413377316428779500,
+					"id_str": "1413377316428779530",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1413377316428779530/pu/img/x3k1BdaLAR9Bnhap.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1413377316428779530/pu/img/x3k1BdaLAR9Bnhap.jpg",
+					"url": "https://t.co/ug5QVT66lF",
+					"display_url": "pic.twitter.com/ug5QVT66lF",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1413426448728313857/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 27750,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1413377316428779530/pu/vid/540x540/APbwVFS0XpO6VZJE.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1413377316428779530/pu/vid/320x320/Lgcl31aY27vW5Fb_.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1413377316428779530/pu/pl/VF11s1-xPuz79EYg.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1413377316428779530/pu/vid/720x720/oF2rnkpXgW63Yslp.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/에버루아/아일",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 789,
+			"friends_count": 8,
+			"listed_count": 17,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 922,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[SEOY]\nSEOY New Single 사랑으로 (♥x4)\n2021.07.11 12PM KST\n\n#음악 #인디음악 #노래 #music https://t.co/ug5QVT66lF"
+	},
+	{
+		"created_at": "Fri Jul 09 09:29:40 +0000 2021",
+		"id": 1413426369027985400,
+		"id_str": "1413430141351510020",
+		"full_text": "최유리 '잘 지내자, 우리' 미리듣기 #Shorts\n(갑자기 불러도 완벽✨)\n▷ https://t.co/KvVUmjtRrP\n⠀\n최유리 - '잘 지내자, 우리'\n2021.07.14. 6PM Release\n⠀\n#최유리 #잘지내자우리",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Shorts",
+					"indices": [
+						21,
+						28
+					]
+				},
+				{
+					"text": "최유리",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "잘지내자우리",
+					"indices": [
+						120,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KvVUmjtRrP",
+					"expanded_url": "https://youtu.be/L31-3w5fUzo",
+					"display_url": "youtu.be/L31-3w5fUzo",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/VtrzF3mRza",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VtrzF3mRza",
+							"expanded_url": "http://shofar-ent.com",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7801,
+			"friends_count": 4,
+			"listed_count": 65,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1624253290",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "최유리 '잘 지내자, 우리' 미리듣기 #Shorts\n(갑자기 불러도 완벽✨)\n▷ https://t.co/KvVUmjtRrP\n⠀\n최유리 - '잘 지내자, 우리'\n2021.07.14. 6PM Release\n⠀\n#최유리 #잘지내자우리"
+	},
+	{
+		"created_at": "Fri Jul 09 09:29:38 +0000 2021",
+		"id": 1413423509921931300,
+		"id_str": "1413430132375638027",
+		"full_text": "[GENESIO]\n\nGENESIO(제네시오)의 데뷔 싱글 ‘I Know (Feat. 장한나, iHwak)’가 7월 10일 오후 12시에 발매됩니다. \n\nGENESIO’s debut single ‘I Know (Feat. Hannah, iHwak) will be released on July 10th, 12PM (KST)\n\n#GENESIO #I_KNOW\n#장한나 #iHwak\n#PAKTORYCOMPANY\n\nhttps://t.co/9ZqJhLWLv0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GENESIO",
+					"indices": [
+						181,
+						189
+					]
+				},
+				{
+					"text": "I_KNOW",
+					"indices": [
+						190,
+						197
+					]
+				},
+				{
+					"text": "장한나",
+					"indices": [
+						198,
+						202
+					]
+				},
+				{
+					"text": "iHwak",
+					"indices": [
+						203,
+						209
+					]
+				},
+				{
+					"text": "PAKTORYCOMPANY",
+					"indices": [
+						210,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9ZqJhLWLv0",
+					"expanded_url": "https://youtu.be/tQkUkn4P0uo",
+					"display_url": "youtu.be/tQkUkn4P0uo",
+					"indices": [
+						227,
+						250
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189041084971634700,
+			"id_str": "1189041084971634688",
+			"name": "PAKTORY COMPANY",
+			"screen_name": "paktoryofficial",
+			"location": "seoul",
+			"description": "contact@paktory.net",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Tue Oct 29 04:47:52 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[GENESIO]\n\nGENESIO(제네시오)의 데뷔 싱글 ‘I Know (Feat. 장한나, iHwak)’가 7월 10일 오후 12시에 발매됩니다. \n\nGENESIO’s debut single ‘I Know (Feat. Hannah, iHwak) will be released on July 10th, 12PM (KST)\n\n#GENESIO #I_KNOW\n#장한나 #iHwak\n#PAKTORYCOMPANY\n\nhttps://t.co/9ZqJhLWLv0"
+	},
+	{
+		"created_at": "Fri Jul 09 09:29:32 +0000 2021",
+		"id": 1413422683467903000,
+		"id_str": "1413430106375159816",
+		"full_text": "존박 (John Park)\nThe 2nd Mini Album 【𝗼𝘂𝘁𝗯𝗼𝘅】\n📦 2021.07.12 6PM (KST) Release\n\n#존박 #JohnPark #미니앨범\n#outbox #아웃박스 #20210712_6PM https://t.co/oSC5bfs009",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "존박",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "JohnPark",
+					"indices": [
+						79,
+						88
+					]
+				},
+				{
+					"text": "미니앨범",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "outbox",
+					"indices": [
+						95,
+						102
+					]
+				},
+				{
+					"text": "아웃박스",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "20210712_6PM",
+					"indices": [
+						109,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1413403711196385300,
+					"id_str": "1413403711196385282",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/E51rL9IUUAIwSr5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E51rL9IUUAIwSr5.jpg",
+					"url": "https://t.co/oSC5bfs009",
+					"display_url": "pic.twitter.com/oSC5bfs009",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1413422683467902979/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413403711196385300,
+					"id_str": "1413403711196385282",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/E51rL9IUUAIwSr5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E51rL9IUUAIwSr5.jpg",
+					"url": "https://t.co/oSC5bfs009",
+					"display_url": "pic.twitter.com/oSC5bfs009",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1413422683467902979/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/eGHxiArKQw",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eGHxiArKQw",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9046,
+			"friends_count": 5,
+			"listed_count": 108,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 858,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1625475697",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "존박 (John Park)\nThe 2nd Mini Album 【𝗼𝘂𝘁𝗯𝗼𝘅】\n📦 2021.07.12 6PM (KST) Release\n\n#존박 #JohnPark #미니앨범\n#outbox #아웃박스 #20210712_6PM https://t.co/oSC5bfs009"
+	},
+	{
 		"created_at": "Fri Jul 09 09:16:01 +0000 2021",
 		"id": 1413426704694001700,
 		"id_str": "1413426704694001664",
