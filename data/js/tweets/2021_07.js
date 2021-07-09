@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 09 06:29:25 +0000 2021",
+		"id": 1413377376235495400,
+		"id_str": "1413384777391091716",
+		"full_text": "[#이지원] 카카오TV 오리지널 '우수무당 가두심' 캐스팅✔\n\n나우수를 짝사랑하며 그와 가까워지는 전학생 가두심에게는 묘한 질투를 느끼는 ‘수정’ 역으로 극의 색다른 재미와 활력을 불어넣을 예정❤‍🔥\n\n#우수무당가두심 #카카오TV #수정 https://t.co/8auuVKdjqf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이지원",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "우수무당가두심",
+					"indices": [
+						113,
+						121
+					]
+				},
+				{
+					"text": "카카오TV",
+					"indices": [
+						122,
+						128
+					]
+				},
+				{
+					"text": "수정",
+					"indices": [
+						129,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1413372839420301300,
+					"id_str": "1413372839420301314",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/E51PG-zVEAI-pct.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E51PG-zVEAI-pct.jpg",
+					"url": "https://t.co/8auuVKdjqf",
+					"display_url": "pic.twitter.com/8auuVKdjqf",
+					"expanded_url": "https://twitter.com/themysticstory/status/1413377376235495428/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413372839420301300,
+					"id_str": "1413372839420301314",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/E51PG-zVEAI-pct.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E51PG-zVEAI-pct.jpg",
+					"url": "https://t.co/8auuVKdjqf",
+					"display_url": "pic.twitter.com/8auuVKdjqf",
+					"expanded_url": "https://twitter.com/themysticstory/status/1413377376235495428/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21253,
+			"friends_count": 17,
+			"listed_count": 237,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6080,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#이지원] 카카오TV 오리지널 '우수무당 가두심' 캐스팅✔\n\n나우수를 짝사랑하며 그와 가까워지는 전학생 가두심에게는 묘한 질투를 느끼는 ‘수정’ 역으로 극의 색다른 재미와 활력을 불어넣을 예정❤‍🔥\n\n#우수무당가두심 #카카오TV #수정 https://t.co/8auuVKdjqf"
+	},
+	{
 		"created_at": "Fri Jul 09 06:11:32 +0000 2021",
 		"id": 1413371213028675600,
 		"id_str": "1413380277683032067",
