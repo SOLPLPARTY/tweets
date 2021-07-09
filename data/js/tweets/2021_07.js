@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 09 11:29:28 +0000 2021",
+		"id": 1413450325403463700,
+		"id_str": "1413460288729452549",
+		"full_text": "제25회 부천국제판타스틱영화제\n\n쓰레기 소각장을 복합문화공간으로 탈바꿈한 멋진 공간, 부천아트벙커B39에서 열린 한 여름 치정 포크 콘서트. 모두 재밌게 즐기셨나요? 모두 건강하게 다음에 또 만나요👋 \n\n#부천국제판타스틱영화제 #BIFAN #포크 #여름 #김사월x김해원 #김사월 #김해원 #이랑 https://t.co/fVtL2cdoeV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "부천국제판타스틱영화제",
+					"indices": [
+						114,
+						126
+					]
+				},
+				{
+					"text": "BIFAN",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "포크",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "여름",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "김사월x김해원",
+					"indices": [
+						142,
+						150
+					]
+				},
+				{
+					"text": "김사월",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "김해원",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "이랑",
+					"indices": [
+						161,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1413450301068124200,
+					"id_str": "1413450301068124165",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/E52Vj17VoAUiuRV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E52Vj17VoAUiuRV.jpg",
+					"url": "https://t.co/fVtL2cdoeV",
+					"display_url": "pic.twitter.com/fVtL2cdoeV",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1413450325403463681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1616,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413450301068124200,
+					"id_str": "1413450301068124165",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/E52Vj17VoAUiuRV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E52Vj17VoAUiuRV.jpg",
+					"url": "https://t.co/fVtL2cdoeV",
+					"display_url": "pic.twitter.com/fVtL2cdoeV",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1413450325403463681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1616,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1413450309741936600,
+					"id_str": "1413450309741936643",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/E52VkWPVgAMLyij.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E52VkWPVgAMLyij.jpg",
+					"url": "https://t.co/fVtL2cdoeV",
+					"display_url": "pic.twitter.com/fVtL2cdoeV",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1413450325403463681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1616,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1413450317086171100,
+					"id_str": "1413450317086171141",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/E52VkxmVoAUUuIW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E52VkxmVoAUUuIW.jpg",
+					"url": "https://t.co/fVtL2cdoeV",
+					"display_url": "pic.twitter.com/fVtL2cdoeV",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1413450325403463681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 802,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1616,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 (당신의여름)",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타와 함께합니다.",
+			"url": "https://t.co/oHXBW5kYJK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oHXBW5kYJK",
+							"expanded_url": "http://www.instagram.com/yoursummerkr",
+							"display_url": "instagram.com/yoursummerkr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2093,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제25회 부천국제판타스틱영화제\n\n쓰레기 소각장을 복합문화공간으로 탈바꿈한 멋진 공간, 부천아트벙커B39에서 열린 한 여름 치정 포크 콘서트. 모두 재밌게 즐기셨나요? 모두 건강하게 다음에 또 만나요👋 \n\n#부천국제판타스틱영화제 #BIFAN #포크 #여름 #김사월x김해원 #김사월 #김해원 #이랑 https://t.co/fVtL2cdoeV"
+	},
+	{
 		"created_at": "Fri Jul 09 10:43:20 +0000 2021",
 		"id": 1413448677893443600,
 		"id_str": "1413448677893443584",
