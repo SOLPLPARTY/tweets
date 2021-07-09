@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 09 03:29:40 +0000 2021",
+		"id": 1413335302723096600,
+		"id_str": "1413339544573857797",
+		"full_text": "권진아 '집에 같이 갈래 (Acoustic Ver.)'\n\nMelon https://t.co/maTfphYdgd\nGenie https://t.co/Dh8IIzWh48\nBugs https://t.co/cPRkcKIyKl\nFLO https://t.co/jXGSuCD1ML\n\n#권진아 #집에같이갈래 #덴티스테",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권진아",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "집에같이갈래",
+					"indices": [
+						155,
+						162
+					]
+				},
+				{
+					"text": "덴티스테",
+					"indices": [
+						163,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/maTfphYdgd",
+					"expanded_url": "http://bit.ly/3r1HbhZ",
+					"display_url": "bit.ly/3r1HbhZ",
+					"indices": [
+						38,
+						61
+					]
+				},
+				{
+					"url": "https://t.co/Dh8IIzWh48",
+					"expanded_url": "http://bit.ly/3AGJQ5b",
+					"display_url": "bit.ly/3AGJQ5b",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/cPRkcKIyKl",
+					"expanded_url": "http://bit.ly/3hU5CK4",
+					"display_url": "bit.ly/3hU5CK4",
+					"indices": [
+						97,
+						120
+					]
+				},
+				{
+					"url": "https://t.co/jXGSuCD1ML",
+					"expanded_url": "http://bit.ly/3xv4L9d",
+					"display_url": "bit.ly/3xv4L9d",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1413335300076576800,
+		"in_reply_to_status_id_str": "1413335300076576771",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / Sam Kim (샘김) Single ‘The Juice’ 2021. 06. 23. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36409,
+			"friends_count": 10,
+			"listed_count": 373,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3690,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1623754978",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "권진아 '집에 같이 갈래 (Acoustic Ver.)'\n\nMelon https://t.co/maTfphYdgd\nGenie https://t.co/Dh8IIzWh48\nBugs https://t.co/cPRkcKIyKl\nFLO https://t.co/jXGSuCD1ML\n\n#권진아 #집에같이갈래 #덴티스테"
+	},
+	{
+		"created_at": "Fri Jul 09 03:29:34 +0000 2021",
+		"id": 1413335300076576800,
+		"id_str": "1413339517289893888",
+		"full_text": "[Release] #권진아\n⠀\n권진아 X 덴티스테 [집에 같이 갈래 Part.1]\n\nLyrics by 이진아, 권진아\nComposed by 이진아\nArranged by 이진아 \n⠀\n덴티스테와 함께한 권진아 '집에 같이 갈래 (Acoustic Ver.)'는 지금 모든 음원사이트에서 만나보실 수 있습니다💚\n\n#권진아 #집에같이갈래 #덴티스테 https://t.co/ouprWq5jGB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권진아",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						171,
+						175
+					]
+				},
+				{
+					"text": "집에같이갈래",
+					"indices": [
+						176,
+						183
+					]
+				},
+				{
+					"text": "덴티스테",
+					"indices": [
+						184,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1413335288647061500,
+					"id_str": "1413335288647061517",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/E50s9PRVEA0WC3r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E50s9PRVEA0WC3r.jpg",
+					"url": "https://t.co/ouprWq5jGB",
+					"display_url": "pic.twitter.com/ouprWq5jGB",
+					"expanded_url": "https://twitter.com/antennamusic/status/1413335300076576771/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413335288647061500,
+					"id_str": "1413335288647061517",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/E50s9PRVEA0WC3r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E50s9PRVEA0WC3r.jpg",
+					"url": "https://t.co/ouprWq5jGB",
+					"display_url": "pic.twitter.com/ouprWq5jGB",
+					"expanded_url": "https://twitter.com/antennamusic/status/1413335300076576771/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / Sam Kim (샘김) Single ‘The Juice’ 2021. 06. 23. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36409,
+			"friends_count": 10,
+			"listed_count": 373,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3690,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1623754978",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release] #권진아\n⠀\n권진아 X 덴티스테 [집에 같이 갈래 Part.1]\n\nLyrics by 이진아, 권진아\nComposed by 이진아\nArranged by 이진아 \n⠀\n덴티스테와 함께한 권진아 '집에 같이 갈래 (Acoustic Ver.)'는 지금 모든 음원사이트에서 만나보실 수 있습니다💚\n\n#권진아 #집에같이갈래 #덴티스테 https://t.co/ouprWq5jGB"
+	},
+	{
 		"created_at": "Fri Jul 09 02:29:48 +0000 2021",
 		"id": 1413323758740271000,
 		"id_str": "1413324477962854405",
