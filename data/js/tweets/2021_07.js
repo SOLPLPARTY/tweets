@@ -1,6 +1,707 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 10 03:29:42 +0000 2021",
+		"id": 1413701345605918700,
+		"id_str": "1413701940215697410",
+		"full_text": "2021인천시티팝, 참가곡 및 가수 공모 https://t.co/6XsVJUH7zB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6XsVJUH7zB",
+					"expanded_url": "http://www.discoverynews.kr/news/articleView.html?idxno=603256",
+					"display_url": "discoverynews.kr/news/articleVi…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7709,
+			"friends_count": 8379,
+			"listed_count": 199,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00903a520cdf7c25",
+			"url": "https://api.twitter.com/1.1/geo/id/00903a520cdf7c25.json",
+			"place_type": "city",
+			"name": "남동구",
+			"full_name": "대한민국 남동구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.674406117552,
+							37.3817471944655
+						],
+						[
+							126.802684034492,
+							37.3817471944655
+						],
+						[
+							126.802684034492,
+							37.4829732134929
+						],
+						[
+							126.674406117552,
+							37.4829732134929
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2021인천시티팝, 참가곡 및 가수 공모 https://t.co/6XsVJUH7zB"
+	},
+	{
+		"created_at": "Sat Jul 10 03:29:38 +0000 2021",
+		"id": 1413696863765631000,
+		"id_str": "1413701922998132738",
+		"full_text": "[GENESIO]\n\nGENESIO(제네시오) -  Know (Feat. 장한나(Hannah), iHwak) / Lyric Video\n\n#GENESIO #제네시오 #I_KNOW\n#장한나 #Hannah #iHwak\n#PAKTORYCOMPANY #팩토리컴퍼니\n\nhttps://t.co/dr8Wovoetk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GENESIO",
+					"indices": [
+						75,
+						83
+					]
+				},
+				{
+					"text": "제네시오",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "I_KNOW",
+					"indices": [
+						90,
+						97
+					]
+				},
+				{
+					"text": "장한나",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "Hannah",
+					"indices": [
+						103,
+						110
+					]
+				},
+				{
+					"text": "iHwak",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "PAKTORYCOMPANY",
+					"indices": [
+						118,
+						133
+					]
+				},
+				{
+					"text": "팩토리컴퍼니",
+					"indices": [
+						134,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dr8Wovoetk",
+					"expanded_url": "https://youtu.be/FjhGhXiIyvs",
+					"display_url": "youtu.be/FjhGhXiIyvs",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189041084971634700,
+			"id_str": "1189041084971634688",
+			"name": "PAKTORY COMPANY",
+			"screen_name": "paktoryofficial",
+			"location": "seoul",
+			"description": "contact@paktory.net",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Tue Oct 29 04:47:52 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[GENESIO]\n\nGENESIO(제네시오) -  Know (Feat. 장한나(Hannah), iHwak) / Lyric Video\n\n#GENESIO #제네시오 #I_KNOW\n#장한나 #Hannah #iHwak\n#PAKTORYCOMPANY #팩토리컴퍼니\n\nhttps://t.co/dr8Wovoetk"
+	},
+	{
+		"created_at": "Sat Jul 10 03:29:36 +0000 2021",
+		"id": 1413696001479561200,
+		"id_str": "1413701914114539521",
+		"full_text": "[GENESIO]\n\nGENESIO(제네시오)의 데뷔 싱글 ‘I Know (Feat. 장한나, iHwak)’가 모든 음원 사이트를 통해 발매되었습니다.\n\nGENESIO’s debut single ‘I Know (Feat. Hannah, iHwak)’ released on online music streaming platform.\n\n#GENESIO  #I_KNOW\n#장한나 #iHwak\n#PAKTORYCOMPANY #팩토리컴퍼니 https://t.co/eW9uhZUHwE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GENESIO",
+					"indices": [
+						185,
+						193
+					]
+				},
+				{
+					"text": "I_KNOW",
+					"indices": [
+						195,
+						202
+					]
+				},
+				{
+					"text": "장한나",
+					"indices": [
+						203,
+						207
+					]
+				},
+				{
+					"text": "iHwak",
+					"indices": [
+						208,
+						214
+					]
+				},
+				{
+					"text": "PAKTORYCOMPANY",
+					"indices": [
+						215,
+						230
+					]
+				},
+				{
+					"text": "팩토리컴퍼니",
+					"indices": [
+						231,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1413695933427052500,
+					"id_str": "1413695933427052555",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/E5509hxVcAsJm3i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5509hxVcAsJm3i.jpg",
+					"url": "https://t.co/eW9uhZUHwE",
+					"display_url": "pic.twitter.com/eW9uhZUHwE",
+					"expanded_url": "https://twitter.com/paktoryofficial/status/1413696001479561216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413695933427052500,
+					"id_str": "1413695933427052555",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/E5509hxVcAsJm3i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5509hxVcAsJm3i.jpg",
+					"url": "https://t.co/eW9uhZUHwE",
+					"display_url": "pic.twitter.com/eW9uhZUHwE",
+					"expanded_url": "https://twitter.com/paktoryofficial/status/1413696001479561216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189041084971634700,
+			"id_str": "1189041084971634688",
+			"name": "PAKTORY COMPANY",
+			"screen_name": "paktoryofficial",
+			"location": "seoul",
+			"description": "contact@paktory.net",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 294,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Tue Oct 29 04:47:52 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[GENESIO]\n\nGENESIO(제네시오)의 데뷔 싱글 ‘I Know (Feat. 장한나, iHwak)’가 모든 음원 사이트를 통해 발매되었습니다.\n\nGENESIO’s debut single ‘I Know (Feat. Hannah, iHwak)’ released on online music streaming platform.\n\n#GENESIO  #I_KNOW\n#장한나 #iHwak\n#PAKTORYCOMPANY #팩토리컴퍼니 https://t.co/eW9uhZUHwE"
+	},
+	{
+		"created_at": "Sat Jul 10 03:29:34 +0000 2021",
+		"id": 1413695449173684200,
+		"id_str": "1413701905193357318",
+		"full_text": "[SEOY]\nSEOY New Single [사랑으로 (♥x4)]\n2021.07.11 12PM KST\n\n#music #음악 #노래 https://t.co/nOp957g7NU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "music",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "음악",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "노래",
+					"indices": [
+						68,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1413695432761372700,
+					"id_str": "1413695432761372672",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/E550gYpVcAAiyL3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E550gYpVcAAiyL3.jpg",
+					"url": "https://t.co/nOp957g7NU",
+					"display_url": "pic.twitter.com/nOp957g7NU",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1413695449173684229/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413695432761372700,
+					"id_str": "1413695432761372672",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/E550gYpVcAAiyL3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E550gYpVcAAiyL3.jpg",
+					"url": "https://t.co/nOp957g7NU",
+					"display_url": "pic.twitter.com/nOp957g7NU",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1413695449173684229/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/에버루아/아일",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 790,
+			"friends_count": 8,
+			"listed_count": 17,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 923,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[SEOY]\nSEOY New Single [사랑으로 (♥x4)]\n2021.07.11 12PM KST\n\n#music #음악 #노래 https://t.co/nOp957g7NU"
+	},
+	{
 		"created_at": "Sat Jul 10 02:47:08 +0000 2021",
 		"id": 1413691228718354400,
 		"id_str": "1413691228718354433",
