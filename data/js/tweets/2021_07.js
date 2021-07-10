@@ -1,6 +1,891 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 10 09:29:57 +0000 2021",
+		"id": 1413785453820403700,
+		"id_str": "1413792601594114051",
+		"full_text": "[#인순이] #컴인순 #버킷리스트\n\n▶홈 피크닉 이렇게 하는 거 맞나요…?◀\n\n팬데믹으로 인해 맘 편히 나갈 수 없으니\n#홈피크닉 으로 기분 내보려고 준비했는데,\n\n'홈 피크닉...너 시작부터 어렵다..'\n\nby. 인순이\n\n👉 https://t.co/qgaZi54m1e\n\n#INSOONI #comeinsoon #노티드도넛 #토요일은_컴인순 https://t.co/PrnNgvVpSQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "컴인순",
+					"indices": [
+						7,
+						11
+					]
+				},
+				{
+					"text": "버킷리스트",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"text": "홈피크닉",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						152,
+						160
+					]
+				},
+				{
+					"text": "comeinsoon",
+					"indices": [
+						161,
+						172
+					]
+				},
+				{
+					"text": "노티드도넛",
+					"indices": [
+						173,
+						179
+					]
+				},
+				{
+					"text": "토요일은_컴인순",
+					"indices": [
+						180,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qgaZi54m1e",
+					"expanded_url": "https://youtu.be/Xyd1ugrr2rE",
+					"display_url": "youtu.be/Xyd1ugrr2rE",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1413785446404952000,
+					"id_str": "1413785446404952070",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/E57GX3mVkAYKt2R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E57GX3mVkAYKt2R.jpg",
+					"url": "https://t.co/PrnNgvVpSQ",
+					"display_url": "pic.twitter.com/PrnNgvVpSQ",
+					"expanded_url": "https://twitter.com/humap_official/status/1413785453820403712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1048,
+							"h": 590,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1048,
+							"h": 590,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413785446404952000,
+					"id_str": "1413785446404952070",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/E57GX3mVkAYKt2R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E57GX3mVkAYKt2R.jpg",
+					"url": "https://t.co/PrnNgvVpSQ",
+					"display_url": "pic.twitter.com/PrnNgvVpSQ",
+					"expanded_url": "https://twitter.com/humap_official/status/1413785453820403712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1048,
+							"h": 590,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1048,
+							"h": 590,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#인순이] #컴인순 #버킷리스트\n\n▶홈 피크닉 이렇게 하는 거 맞나요…?◀\n\n팬데믹으로 인해 맘 편히 나갈 수 없으니\n#홈피크닉 으로 기분 내보려고 준비했는데,\n\n'홈 피크닉...너 시작부터 어렵다..'\n\nby. 인순이\n\n👉 https://t.co/qgaZi54m1e\n\n#INSOONI #comeinsoon #노티드도넛 #토요일은_컴인순 https://t.co/PrnNgvVpSQ"
+	},
+	{
+		"created_at": "Sat Jul 10 09:29:52 +0000 2021",
+		"id": 1413785070335250400,
+		"id_str": "1413792580085723139",
+		"full_text": "존박 (John Park)\n‘now, us, here' M/V Teaser\n🔗 https://t.co/i1Qv18FSRh\n\nThe 2nd Mini Album 【𝗼𝘂𝘁𝗯𝗼𝘅】\n📦 2021.07.12 6PM (KST) Release\n\n#존박 #JohnPark #nowushere\n#outbox #미니앨범 #20210712_6PM https://t.co/R7lRJZlYX5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "존박",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "JohnPark",
+					"indices": [
+						133,
+						142
+					]
+				},
+				{
+					"text": "nowushere",
+					"indices": [
+						143,
+						153
+					]
+				},
+				{
+					"text": "outbox",
+					"indices": [
+						154,
+						161
+					]
+				},
+				{
+					"text": "미니앨범",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "20210712_6PM",
+					"indices": [
+						168,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i1Qv18FSRh",
+					"expanded_url": "https://youtu.be/UNPpmnbuuV4",
+					"display_url": "youtu.be/UNPpmnbuuV4",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1413746132832817200,
+					"id_str": "1413746132832817152",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1413746132832817152/pu/img/1DJrhXyb7528hzTO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1413746132832817152/pu/img/1DJrhXyb7528hzTO.jpg",
+					"url": "https://t.co/R7lRJZlYX5",
+					"display_url": "pic.twitter.com/R7lRJZlYX5",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1413785070335250434/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413746132832817200,
+					"id_str": "1413746132832817152",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1413746132832817152/pu/img/1DJrhXyb7528hzTO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1413746132832817152/pu/img/1DJrhXyb7528hzTO.jpg",
+					"url": "https://t.co/R7lRJZlYX5",
+					"display_url": "pic.twitter.com/R7lRJZlYX5",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1413785070335250434/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 27069,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1413746132832817152/pu/pl/TwSZQHGBCFDOUMnU.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1413746132832817152/pu/vid/640x360/MsWHTWx_FR5_oZzc.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1413746132832817152/pu/vid/480x270/lVP6iBLHpQZnBhgJ.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1413746132832817152/pu/vid/1280x720/sPlLi5DCoGJx19Tp.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/eGHxiArKQw",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eGHxiArKQw",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9047,
+			"friends_count": 5,
+			"listed_count": 108,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 859,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1625475697",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "존박 (John Park)\n‘now, us, here' M/V Teaser\n🔗 https://t.co/i1Qv18FSRh\n\nThe 2nd Mini Album 【𝗼𝘂𝘁𝗯𝗼𝘅】\n📦 2021.07.12 6PM (KST) Release\n\n#존박 #JohnPark #nowushere\n#outbox #미니앨범 #20210712_6PM https://t.co/R7lRJZlYX5"
+	},
+	{
+		"created_at": "Sat Jul 10 09:29:45 +0000 2021",
+		"id": 1413783514076516400,
+		"id_str": "1413792550155169796",
+		"full_text": "링크는 프로필 하이라이트에 있습니다.\n\n정말, 아주 많이 지쳤지만, 꼭 우리 이겨냅시다!\n\n#frommidnighttokyo #fullofcitypop #citypop #lightmellow #vinyl #시티팝 #라이트멜로우 #stayhomestaymellow #staysafe #covid19 #helicopterrecords \n\nhttps://t.co/uPctDiY9qj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "frommidnighttokyo",
+					"indices": [
+						51,
+						69
+					]
+				},
+				{
+					"text": "fullofcitypop",
+					"indices": [
+						70,
+						84
+					]
+				},
+				{
+					"text": "citypop",
+					"indices": [
+						85,
+						93
+					]
+				},
+				{
+					"text": "lightmellow",
+					"indices": [
+						94,
+						106
+					]
+				},
+				{
+					"text": "vinyl",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"text": "시티팝",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "라이트멜로우",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"text": "stayhomestaymellow",
+					"indices": [
+						127,
+						146
+					]
+				},
+				{
+					"text": "staysafe",
+					"indices": [
+						147,
+						156
+					]
+				},
+				{
+					"text": "covid19",
+					"indices": [
+						157,
+						165
+					]
+				},
+				{
+					"text": "helicopterrecords",
+					"indices": [
+						166,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uPctDiY9qj",
+					"expanded_url": "https://soundcloud.app.goo.gl/CAu8ZAe39UBt2DD88",
+					"display_url": "soundcloud.app.goo.gl/CAu8ZAe39UBt2D…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1413783222345867300,
+		"in_reply_to_status_id_str": "1413783222345867267",
+		"in_reply_to_user_id": 732970717,
+		"in_reply_to_user_id_str": "732970717",
+		"in_reply_to_screen_name": "Helicopterseoul",
+		"user": {
+			"id": 732970717,
+			"id_str": "732970717",
+			"name": "Helicopter Records",
+			"screen_name": "Helicopterseoul",
+			"location": "Seoul",
+			"description": "음악을 소개하는 레이블 Helicopter Records입니다. 2012년 8월에 시작했습니다. 공연문의 및 각종문의 : helicopter.seoul@gmail.com",
+			"url": "http://t.co/1FN6ioFRra",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1FN6ioFRra",
+							"expanded_url": "http://helicopterseoul.tumblr.com",
+							"display_url": "helicopterseoul.tumblr.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3188,
+			"friends_count": 1584,
+			"listed_count": 38,
+			"created_at": "Thu Aug 02 14:50:07 +0000 2012",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2459893588/ryfbej290twh6kcfajr1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2459893588/ryfbej290twh6kcfajr1_normal.jpeg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "링크는 프로필 하이라이트에 있습니다.\n\n정말, 아주 많이 지쳤지만, 꼭 우리 이겨냅시다!\n\n#frommidnighttokyo #fullofcitypop #citypop #lightmellow #vinyl #시티팝 #라이트멜로우 #stayhomestaymellow #staysafe #covid19 #helicopterrecords \n\nhttps://t.co/uPctDiY9qj"
+	},
+	{
+		"created_at": "Sat Jul 10 09:29:38 +0000 2021",
+		"id": 1413783222345867300,
+		"id_str": "1413792520333574146",
+		"full_text": "“다 나가도 다시는 절대 프레싱 안한다”는 마음으로 제작을 했으나, 아시다시피 이제 다시 우리가 Stay Home를 해야하는 상황이 되었기에, Helicopter Records의 박다함님에게 상담을 해서, 이번에 \"거리두기 4단계”기간인 2주일동안 저의 사운드클라우드에 공개하도록 하겠습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1413783055001550800,
+		"in_reply_to_status_id_str": "1413783055001550848",
+		"in_reply_to_user_id": 732970717,
+		"in_reply_to_user_id_str": "732970717",
+		"in_reply_to_screen_name": "Helicopterseoul",
+		"user": {
+			"id": 732970717,
+			"id_str": "732970717",
+			"name": "Helicopter Records",
+			"screen_name": "Helicopterseoul",
+			"location": "Seoul",
+			"description": "음악을 소개하는 레이블 Helicopter Records입니다. 2012년 8월에 시작했습니다. 공연문의 및 각종문의 : helicopter.seoul@gmail.com",
+			"url": "http://t.co/1FN6ioFRra",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1FN6ioFRra",
+							"expanded_url": "http://helicopterseoul.tumblr.com",
+							"display_url": "helicopterseoul.tumblr.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3188,
+			"friends_count": 1584,
+			"listed_count": 38,
+			"created_at": "Thu Aug 02 14:50:07 +0000 2012",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2459893588/ryfbej290twh6kcfajr1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2459893588/ryfbej290twh6kcfajr1_normal.jpeg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "“다 나가도 다시는 절대 프레싱 안한다”는 마음으로 제작을 했으나, 아시다시피 이제 다시 우리가 Stay Home를 해야하는 상황이 되었기에, Helicopter Records의 박다함님에게 상담을 해서, 이번에 \"거리두기 4단계”기간인 2주일동안 저의 사운드클라우드에 공개하도록 하겠습니다."
+	},
+	{
+		"created_at": "Sat Jul 10 09:29:30 +0000 2021",
+		"id": 1413783055001550800,
+		"id_str": "1413792486347186178",
+		"full_text": "그때 생각이 딱 난거죠.\n\n\"이런 답답한 기분, 그리고 마음에 딱 어울리는, 좀 릴렉스를 할 수 있는 라이트멜로우 믹스가 있으면 좋지않을까?”\n\n예전에 BPM100을 넘치 않은 믹스를 만들어 놓았는데, 이거다 싶어서 프로모션 개념으로 극소수 프레싱을 해서 여러분 손으로 갔었습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1413782783479017500,
+		"in_reply_to_status_id_str": "1413782783479017476",
+		"in_reply_to_user_id": 732970717,
+		"in_reply_to_user_id_str": "732970717",
+		"in_reply_to_screen_name": "Helicopterseoul",
+		"user": {
+			"id": 732970717,
+			"id_str": "732970717",
+			"name": "Helicopter Records",
+			"screen_name": "Helicopterseoul",
+			"location": "Seoul",
+			"description": "음악을 소개하는 레이블 Helicopter Records입니다. 2012년 8월에 시작했습니다. 공연문의 및 각종문의 : helicopter.seoul@gmail.com",
+			"url": "http://t.co/1FN6ioFRra",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1FN6ioFRra",
+							"expanded_url": "http://helicopterseoul.tumblr.com",
+							"display_url": "helicopterseoul.tumblr.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3188,
+			"friends_count": 1584,
+			"listed_count": 38,
+			"created_at": "Thu Aug 02 14:50:07 +0000 2012",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2459893588/ryfbej290twh6kcfajr1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2459893588/ryfbej290twh6kcfajr1_normal.jpeg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그때 생각이 딱 난거죠.\n\n\"이런 답답한 기분, 그리고 마음에 딱 어울리는, 좀 릴렉스를 할 수 있는 라이트멜로우 믹스가 있으면 좋지않을까?”\n\n예전에 BPM100을 넘치 않은 믹스를 만들어 놓았는데, 이거다 싶어서 프로모션 개념으로 극소수 프레싱을 해서 여러분 손으로 갔었습니다."
+	},
+	{
 		"created_at": "Sat Jul 10 09:11:22 +0000 2021",
 		"id": 1413783551552757800,
 		"id_str": "1413787922332098560",
