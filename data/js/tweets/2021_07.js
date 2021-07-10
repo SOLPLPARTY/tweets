@@ -1,6 +1,460 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 10 13:58:15 +0000 2021",
+		"id": 1413849203160146000,
+		"id_str": "1413860118274453509",
+		"full_text": "새로운 케이팝 창조주들의 개성을 콕콕 찝어준 DJ lemontune의 믹스도 마지막을 향해 달려갑니다.\n\nIZ*ONE 환상동화📚\nCLC Black Dress🐈‍⬛\n(여자)아이들 한(一)🌈\n(여자)아이들 Oh my god☦️\n\nlisten only on\nhttps://t.co/T43gV7xOm1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T43gV7xOm1",
+					"expanded_url": "https://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 수요일~토요일 NAVER NOW / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/J4jpDKDhWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J4jpDKDhWh",
+							"expanded_url": "https://now.naver.com/player/10256",
+							"display_url": "now.naver.com/player/10256",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7674,
+			"friends_count": 30,
+			"listed_count": 19,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 694,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "새로운 케이팝 창조주들의 개성을 콕콕 찝어준 DJ lemontune의 믹스도 마지막을 향해 달려갑니다.\n\nIZ*ONE 환상동화📚\nCLC Black Dress🐈‍⬛\n(여자)아이들 한(一)🌈\n(여자)아이들 Oh my god☦️\n\nlisten only on\nhttps://t.co/T43gV7xOm1"
+	},
+	{
+		"created_at": "Sat Jul 10 13:29:28 +0000 2021",
+		"id": 1413839048850829300,
+		"id_str": "1413852874497478656",
+		"full_text": "블루데이는 막을 내렸지만 그린데이가 기다리고 있다는 거- 우리 내일도 조심히 안전하게, 그리고 시원하게 즐겨요🤟\n\n#아마도이자람밴드 #단독공연 #시원하게 #아마도조플린밴드 #BLUE #이자람 #김온유 #김정민 #이민기 https://t.co/dkuCQMHdwS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아마도이자람밴드",
+					"indices": [
+						64,
+						73
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "시원하게",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "아마도조플린밴드",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"text": "BLUE",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "이자람",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "김온유",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "김정민",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "이민기",
+					"indices": [
+						117,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1413839023152373800,
+					"id_str": "1413839023152373762",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/E573GciVIAIJd5J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E573GciVIAIJd5J.jpg",
+					"url": "https://t.co/dkuCQMHdwS",
+					"display_url": "pic.twitter.com/dkuCQMHdwS",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1413839048850829316/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1057,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1057,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413839023152373800,
+					"id_str": "1413839023152373762",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/E573GciVIAIJd5J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E573GciVIAIJd5J.jpg",
+					"url": "https://t.co/dkuCQMHdwS",
+					"display_url": "pic.twitter.com/dkuCQMHdwS",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1413839048850829316/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1057,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1057,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1413839030253281300,
+					"id_str": "1413839030253281281",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/E573G2_UYAEKkKZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E573G2_UYAEKkKZ.jpg",
+					"url": "https://t.co/dkuCQMHdwS",
+					"display_url": "pic.twitter.com/dkuCQMHdwS",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1413839048850829316/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1054,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 664,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1054,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1413839038830628900,
+					"id_str": "1413839038830628868",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/E573HW8UUAQd6cG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E573HW8UUAQd6cG.jpg",
+					"url": "https://t.co/dkuCQMHdwS",
+					"display_url": "pic.twitter.com/dkuCQMHdwS",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1413839048850829316/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 669,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1063,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1063,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1413839042400059400,
+					"id_str": "1413839042400059396",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/E573HkPVgAQfU1s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E573HkPVgAQfU1s.jpg",
+					"url": "https://t.co/dkuCQMHdwS",
+					"display_url": "pic.twitter.com/dkuCQMHdwS",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1413839048850829316/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1056,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 665,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1413838918567424000,
+		"in_reply_to_status_id_str": "1413838918567424000",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 (당신의여름)",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타와 함께합니다.",
+			"url": "https://t.co/oHXBW5kYJK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oHXBW5kYJK",
+							"expanded_url": "http://www.instagram.com/yoursummerkr",
+							"display_url": "instagram.com/yoursummerkr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2093,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "블루데이는 막을 내렸지만 그린데이가 기다리고 있다는 거- 우리 내일도 조심히 안전하게, 그리고 시원하게 즐겨요🤟\n\n#아마도이자람밴드 #단독공연 #시원하게 #아마도조플린밴드 #BLUE #이자람 #김온유 #김정민 #이민기 https://t.co/dkuCQMHdwS"
+	},
+	{
 		"created_at": "Sat Jul 10 12:58:23 +0000 2021",
 		"id": 1413842307690889200,
 		"id_str": "1413845053445914629",
@@ -111,7 +565,7 @@ Grailbird.data.tweets_2021_07 =
 		"created_at": "Sat Jul 10 12:58:17 +0000 2021",
 		"id": 1413840342181245000,
 		"id_str": "1413845027835596800",
-		"full_text": "케이팝의 아버지 유영진을 필두로 한 계보를 소개한 DJ QUIBBIE의 믹스 어땠나요?🖋\n\n젝스키스 사나이가는길🚶‍♂️\n쥬얼리 Vari2ty💎\n아이비 유혹의소나타🎹\n쥬얼리 Super Star🌟\n\nlisten only on\nhttps://t.co/T43gV7xOm1",
+		"full_text": "케이팝의 아버지 유영진을 필두로 한 계보를 소개한 DJ QUIBBIE의 믹스 어땠나요?🖋\n\n젝스키스 사나이가는길🚶♂️\n쥬얼리 Vari2ty💎\n아이비 유혹의소나타🎹\n쥬얼리 Super Star🌟\n\nlisten only on\nhttps://t.co/T43gV7xOm1",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -212,7 +666,7 @@ Grailbird.data.tweets_2021_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "케이팝의 아버지 유영진을 필두로 한 계보를 소개한 DJ QUIBBIE의 믹스 어땠나요?🖋\n\n젝스키스 사나이가는길🚶‍♂️\n쥬얼리 Vari2ty💎\n아이비 유혹의소나타🎹\n쥬얼리 Super Star🌟\n\nlisten only on\nhttps://t.co/T43gV7xOm1"
+		"text": "케이팝의 아버지 유영진을 필두로 한 계보를 소개한 DJ QUIBBIE의 믹스 어땠나요?🖋\n\n젝스키스 사나이가는길🚶♂️\n쥬얼리 Vari2ty💎\n아이비 유혹의소나타🎹\n쥬얼리 Super Star🌟\n\nlisten only on\nhttps://t.co/T43gV7xOm1"
 	},
 	{
 		"created_at": "Sat Jul 10 11:58:14 +0000 2021",
