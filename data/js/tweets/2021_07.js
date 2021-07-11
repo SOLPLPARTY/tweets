@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 11 06:29:24 +0000 2021",
+		"id": 1414098836910350300,
+		"id_str": "1414109552665051142",
+		"full_text": "[아마도이자람밴드]\n🧊아마도이자람밴드 단독 콘서트&lt;시원하게&gt;\n🧊 블루데이(10일)이어 그린데이(11일)가 다가왔습니다! \n🧊어렵게 섭외한 아마도조플린밴드의 공연 영상 맛보기!! \n🧊 잠시 후 6시, CJ AZIT 광흥창에서 만나요!!\n\n#아마도이자람밴드 #단독공연 #시원하게 #아마도조플린밴드 https://t.co/G0dZMHx1s9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아마도이자람밴드",
+					"indices": [
+						138,
+						147
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "시원하게",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "아마도조플린밴드",
+					"indices": [
+						160,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1414098797043470300,
+					"id_str": "1414098797043470340",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414098797043470340/pu/img/qVh7gigzrQ4rPMVY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414098797043470340/pu/img/qVh7gigzrQ4rPMVY.jpg",
+					"url": "https://t.co/G0dZMHx1s9",
+					"display_url": "pic.twitter.com/G0dZMHx1s9",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1414098836910350338/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414098797043470300,
+					"id_str": "1414098797043470340",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414098797043470340/pu/img/qVh7gigzrQ4rPMVY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414098797043470340/pu/img/qVh7gigzrQ4rPMVY.jpg",
+					"url": "https://t.co/G0dZMHx1s9",
+					"display_url": "pic.twitter.com/G0dZMHx1s9",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1414098836910350338/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 52066,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414098797043470340/pu/vid/720x720/M03HWPG49msJIrD9.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414098797043470340/pu/vid/320x320/-8Kii2ykE88dJhoT.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414098797043470340/pu/vid/540x540/MxGAFgs698cF82gC.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1414098797043470340/pu/pl/ZtzUsdIWkRpLfsNK.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 (당신의여름)",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타와 함께합니다.",
+			"url": "https://t.co/oHXBW5kYJK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oHXBW5kYJK",
+							"expanded_url": "http://www.instagram.com/yoursummerkr",
+							"display_url": "instagram.com/yoursummerkr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2092,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[아마도이자람밴드]\n🧊아마도이자람밴드 단독 콘서트&lt;시원하게&gt;\n🧊 블루데이(10일)이어 그린데이(11일)가 다가왔습니다! \n🧊어렵게 섭외한 아마도조플린밴드의 공연 영상 맛보기!! \n🧊 잠시 후 6시, CJ AZIT 광흥창에서 만나요!!\n\n#아마도이자람밴드 #단독공연 #시원하게 #아마도조플린밴드 https://t.co/G0dZMHx1s9"
+	},
+	{
 		"created_at": "Sun Jul 11 05:29:24 +0000 2021",
 		"id": 1414084109819732000,
 		"id_str": "1414094453514588162",
