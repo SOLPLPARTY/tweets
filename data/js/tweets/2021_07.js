@@ -1,6 +1,353 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 11 12:29:30 +0000 2021",
+		"id": 1414194436758597600,
+		"id_str": "1414200171274047489",
+		"full_text": "마지막까지 함께해주신 모든 분들 감사드리며, 함께한 시간이 여러분들의 일상에 기쁨이 되는 순간이었길 바랍니다. 프라이빗 콘서트는 추후 공지될 예정이니 조금만 기다려주세요.\n\n#정재형 #루시드폴 #이진아 #윤석철 #적재 #샘김 #권진아 #안테나 #일상비일상의틈 https://t.co/HavGRCImtK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정재형",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "루시드폴",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "이진아",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "윤석철",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "샘김",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "안테나",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "일상비일상의틈",
+					"indices": [
+						136,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1414194431788425200,
+					"id_str": "1414194431788425217",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/E6A6V84VoAEk5N8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6A6V84VoAEk5N8.jpg",
+					"url": "https://t.co/HavGRCImtK",
+					"display_url": "pic.twitter.com/HavGRCImtK",
+					"expanded_url": "https://twitter.com/antennamusic/status/1414194436758597650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414194431788425200,
+					"id_str": "1414194431788425217",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/E6A6V84VoAEk5N8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6A6V84VoAEk5N8.jpg",
+					"url": "https://t.co/HavGRCImtK",
+					"display_url": "pic.twitter.com/HavGRCImtK",
+					"expanded_url": "https://twitter.com/antennamusic/status/1414194436758597650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1414194431947788300,
+					"id_str": "1414194431947788290",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/E6A6V9eVUAI16xH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6A6V9eVUAI16xH.jpg",
+					"url": "https://t.co/HavGRCImtK",
+					"display_url": "pic.twitter.com/HavGRCImtK",
+					"expanded_url": "https://twitter.com/antennamusic/status/1414194436758597650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1414194432119697400,
+					"id_str": "1414194432119697416",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/E6A6V-HUcAgIou5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6A6V-HUcAgIou5.jpg",
+					"url": "https://t.co/HavGRCImtK",
+					"display_url": "pic.twitter.com/HavGRCImtK",
+					"expanded_url": "https://twitter.com/antennamusic/status/1414194436758597650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1414194432300130300,
+					"id_str": "1414194432300130306",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/E6A6V-yVoAIAaEE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6A6V-yVoAIAaEE.jpg",
+					"url": "https://t.co/HavGRCImtK",
+					"display_url": "pic.twitter.com/HavGRCImtK",
+					"expanded_url": "https://twitter.com/antennamusic/status/1414194436758597650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1414194428701335600,
+		"in_reply_to_status_id_str": "1414194428701335553",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / Sam Kim (샘김) Single ‘The Juice’ 2021. 06. 23. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36432,
+			"friends_count": 10,
+			"listed_count": 373,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1623754978",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마지막까지 함께해주신 모든 분들 감사드리며, 함께한 시간이 여러분들의 일상에 기쁨이 되는 순간이었길 바랍니다. 프라이빗 콘서트는 추후 공지될 예정이니 조금만 기다려주세요.\n\n#정재형 #루시드폴 #이진아 #윤석철 #적재 #샘김 #권진아 #안테나 #일상비일상의틈 https://t.co/HavGRCImtK"
+	},
+	{
 		"created_at": "Sun Jul 11 09:29:34 +0000 2021",
 		"id": 1414147453750812700,
 		"id_str": "1414154889991708673",
