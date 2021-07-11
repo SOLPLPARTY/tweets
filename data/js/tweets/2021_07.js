@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 11 01:29:24 +0000 2021",
+		"id": 1414032306973544400,
+		"id_str": "1414034055088201729",
+		"full_text": "[D-3]💌\n우리같은사람들 Woogotsa\nNew Single '물고기' Fish / https://t.co/x5J6bViBgx.12pm\nComing Soon!\n╰(*´︶`*)╯ \n\n#woogotsa #kband #kindie #kpop #우리같은사람들 #kballad #krock #우같사 #물고기 #Fish https://t.co/SgrfIxW3Ml",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "woogotsa",
+					"indices": [
+						102,
+						111
+					]
+				},
+				{
+					"text": "kband",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "kindie",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"text": "kpop",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "우리같은사람들",
+					"indices": [
+						133,
+						141
+					]
+				},
+				{
+					"text": "kballad",
+					"indices": [
+						142,
+						150
+					]
+				},
+				{
+					"text": "krock",
+					"indices": [
+						151,
+						157
+					]
+				},
+				{
+					"text": "우같사",
+					"indices": [
+						158,
+						162
+					]
+				},
+				{
+					"text": "물고기",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "Fish",
+					"indices": [
+						168,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x5J6bViBgx",
+					"expanded_url": "http://2021.07.14.Wed",
+					"display_url": "2021.07.14.Wed",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1414032175461109800,
+					"id_str": "1414032175461109760",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/E5-mxY9VEAAE_Ib.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5-mxY9VEAAE_Ib.jpg",
+					"url": "https://t.co/SgrfIxW3Ml",
+					"display_url": "pic.twitter.com/SgrfIxW3Ml",
+					"expanded_url": "https://twitter.com/sugar_records/status/1414032306973544451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414032175461109800,
+					"id_str": "1414032175461109760",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/E5-mxY9VEAAE_Ib.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5-mxY9VEAAE_Ib.jpg",
+					"url": "https://t.co/SgrfIxW3Ml",
+					"display_url": "pic.twitter.com/SgrfIxW3Ml",
+					"expanded_url": "https://twitter.com/sugar_records/status/1414032306973544451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94343878,
+			"id_str": "94343878",
+			"name": "슈가레코드",
+			"screen_name": "sugar_records",
+			"location": "Seoul, KR",
+			"description": "#달에닿아 #뷰티핸섬 #리썬 #모브닝 #엔분의일 #당기시오 #우리같은사람들 슈가레코드",
+			"url": "https://t.co/MaZwhWbQNT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MaZwhWbQNT",
+							"expanded_url": "http://sugar-records.com",
+							"display_url": "sugar-records.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 549,
+			"friends_count": 37,
+			"listed_count": 9,
+			"created_at": "Thu Dec 03 14:51:49 +0000 2009",
+			"favourites_count": 436,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94343878/1548148600",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[D-3]💌\n우리같은사람들 Woogotsa\nNew Single '물고기' Fish / https://t.co/x5J6bViBgx.12pm\nComing Soon!\n╰(*´︶`*)╯ \n\n#woogotsa #kband #kindie #kpop #우리같은사람들 #kballad #krock #우같사 #물고기 #Fish https://t.co/SgrfIxW3Ml"
+	},
+	{
 		"created_at": "Sat Jul 10 15:29:42 +0000 2021",
 		"id": 1413875910844063700,
 		"id_str": "1413883133016133640",
