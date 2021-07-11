@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 11 03:29:32 +0000 2021",
+		"id": 1414057915661516800,
+		"id_str": "1414064284481597442",
+		"full_text": "💿NEW MUSIC TODAY💿\nJTBC드라마 &lt;알고있지만,&gt; OST Part.4\n\"제이유나(J.UNA) - Butterfly\" 를 지금 바로 음원 사이트에서 만나보세요!\n⠀\n🦋 https://t.co/PLloa5tP9Y\n⠀\n#warnerkpop #warnermusic #release #OST #JTBC #알고있지만 #송강 #한소희 #제이유나 #Butterfly https://t.co/OwiMOJOXKo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						132,
+						143
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						144,
+						156
+					]
+				},
+				{
+					"text": "release",
+					"indices": [
+						157,
+						165
+					]
+				},
+				{
+					"text": "OST",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						171,
+						176
+					]
+				},
+				{
+					"text": "알고있지만",
+					"indices": [
+						177,
+						183
+					]
+				},
+				{
+					"text": "송강",
+					"indices": [
+						184,
+						187
+					]
+				},
+				{
+					"text": "한소희",
+					"indices": [
+						188,
+						192
+					]
+				},
+				{
+					"text": "제이유나",
+					"indices": [
+						193,
+						198
+					]
+				},
+				{
+					"text": "Butterfly",
+					"indices": [
+						199,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PLloa5tP9Y",
+					"expanded_url": "https://wmk.lnk.to/NeverthelessPart4",
+					"display_url": "wmk.lnk.to/NeverthelessPa…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1414057769657802800,
+					"id_str": "1414057769657802752",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414057769657802752/pu/img/VEhw8S_IeEpFpcUN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414057769657802752/pu/img/VEhw8S_IeEpFpcUN.jpg",
+					"url": "https://t.co/OwiMOJOXKo",
+					"display_url": "pic.twitter.com/OwiMOJOXKo",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1414057915661516802/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414057769657802800,
+					"id_str": "1414057769657802752",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414057769657802752/pu/img/VEhw8S_IeEpFpcUN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414057769657802752/pu/img/VEhw8S_IeEpFpcUN.jpg",
+					"url": "https://t.co/OwiMOJOXKo",
+					"display_url": "pic.twitter.com/OwiMOJOXKo",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1414057915661516802/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 36102,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414057769657802752/pu/vid/720x720/mkKB3L9BiGfoz5Kv.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414057769657802752/pu/vid/320x320/ULYV8InFO-jutDkB.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1414057769657802752/pu/pl/2CnfVBw26aGqpEPn.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414057769657802752/pu/vid/540x540/m-Q9GL0dUh1FFeDe.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51641,
+			"friends_count": 496,
+			"listed_count": 194,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 97,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\nJTBC드라마 &lt;알고있지만,&gt; OST Part.4\n\"제이유나(J.UNA) - Butterfly\" 를 지금 바로 음원 사이트에서 만나보세요!\n⠀\n🦋 https://t.co/PLloa5tP9Y\n⠀\n#warnerkpop #warnermusic #release #OST #JTBC #알고있지만 #송강 #한소희 #제이유나 #Butterfly https://t.co/OwiMOJOXKo"
+	},
+	{
 		"created_at": "Sun Jul 11 03:08:55 +0000 2021",
 		"id": 1414059099453526000,
 		"id_str": "1414059099453526017",
