@@ -1,6 +1,395 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 12 06:11:17 +0000 2021",
+		"id": 1414454302085550000,
+		"id_str": "1414467378663071745",
+		"full_text": "✔️상상마당 열-줄📃 소설 공모전\n🤗열 줄만 써도 50만원!\n1등에게는 강의 진행 기회까지🤭\n장르무관! 기성&amp;신인무관!\n\n7월 31일까지 지원 받아요🙌🏼\n\n자세한 내용은 하단 링크🔽\n열 줄소설 공모전을 클릭해 주세요!!\nhttps://t.co/24R9BYfeGe\n13시간 https://t.co/krMdsolLq3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/24R9BYfeGe",
+					"expanded_url": "https://linktr.ee/ssmadangacademy",
+					"display_url": "linktr.ee/ssmadangacademy",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1414454195751579600,
+					"id_str": "1414454195751579653",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/E6EmmNDVcAUEIAd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6EmmNDVcAUEIAd.jpg",
+					"url": "https://t.co/krMdsolLq3",
+					"display_url": "pic.twitter.com/krMdsolLq3",
+					"expanded_url": "https://twitter.com/SSmadang/status/1414454302085550082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414454195751579600,
+					"id_str": "1414454195751579653",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/E6EmmNDVcAUEIAd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6EmmNDVcAUEIAd.jpg",
+					"url": "https://t.co/krMdsolLq3",
+					"display_url": "pic.twitter.com/krMdsolLq3",
+					"expanded_url": "https://twitter.com/SSmadang/status/1414454302085550082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1414454195743121400,
+					"id_str": "1414454195743121411",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/E6EmmNBUYAM4HhG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6EmmNBUYAM4HhG.jpg",
+					"url": "https://t.co/krMdsolLq3",
+					"display_url": "pic.twitter.com/krMdsolLq3",
+					"expanded_url": "https://twitter.com/SSmadang/status/1414454302085550082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1414454195747389400,
+					"id_str": "1414454195747389444",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/E6EmmNCVgAQDpfL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6EmmNCVgAQDpfL.jpg",
+					"url": "https://t.co/krMdsolLq3",
+					"display_url": "pic.twitter.com/krMdsolLq3",
+					"expanded_url": "https://twitter.com/SSmadang/status/1414454302085550082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1414454195743199200,
+					"id_str": "1414454195743199240",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/E6EmmNBVkAgNfiy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6EmmNBVkAgNfiy.jpg",
+					"url": "https://t.co/krMdsolLq3",
+					"display_url": "pic.twitter.com/krMdsolLq3",
+					"expanded_url": "https://twitter.com/SSmadang/status/1414454302085550082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17852,
+			"friends_count": 1882,
+			"listed_count": 289,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✔️상상마당 열-줄📃 소설 공모전\n🤗열 줄만 써도 50만원!\n1등에게는 강의 진행 기회까지🤭\n장르무관! 기성&amp;신인무관!\n\n7월 31일까지 지원 받아요🙌🏼\n\n자세한 내용은 하단 링크🔽\n열 줄소설 공모전을 클릭해 주세요!!\nhttps://t.co/24R9BYfeGe\n13시간 https://t.co/krMdsolLq3"
+	},
+	{
+		"created_at": "Mon Jul 12 05:29:29 +0000 2021",
+		"id": 1414449659200761900,
+		"id_str": "1414456858778218498",
+		"full_text": "\"김목인은 2000년대 이후 한국 모던포크의 흐름을 연 음악가라고 생각한다. 그리고 2017년에 발매된 3집 [콜라보 씨의 일일]은 콜라보씨의 하루를 통해 음악가의 일상을 담아 온 스토리텔링을 가장 잘 설명해주는 음악들이 담겨 있다. 은유로 넘치지만 다채롭고 선명한 음악이다. (벨로주/박정용)\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1414449657325838300,
+		"in_reply_to_status_id_str": "1414449657325838339",
+		"in_reply_to_user_id": 49219598,
+		"in_reply_to_user_id_str": "49219598",
+		"in_reply_to_screen_name": "electric_muse",
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3344,
+			"friends_count": 1298,
+			"listed_count": 106,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 5800,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25536,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"김목인은 2000년대 이후 한국 모던포크의 흐름을 연 음악가라고 생각한다. 그리고 2017년에 발매된 3집 [콜라보 씨의 일일]은 콜라보씨의 하루를 통해 음악가의 일상을 담아 온 스토리텔링을 가장 잘 설명해주는 음악들이 담겨 있다. 은유로 넘치지만 다채롭고 선명한 음악이다. (벨로주/박정용)\""
+	},
+	{
 		"created_at": "Mon Jul 12 04:29:25 +0000 2021",
 		"id": 1414440760745676800,
 		"id_str": "1414441742074580992",
