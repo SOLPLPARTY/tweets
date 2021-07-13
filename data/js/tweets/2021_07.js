@@ -1,6 +1,1021 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 13 11:29:55 +0000 2021",
+		"id": 1414908960797200400,
+		"id_str": "1414909955765907459",
+		"full_text": "🎞 공연 정보\nhttps://t.co/fhHdkSE0aM\n\n🎫𝗧𝗜𝗖𝗞𝗘𝗧 𝗢𝗣𝗘𝗡\n오프라인 티켓 👉𝟮𝟭.𝟬𝟳.𝟭𝟰(𝙒𝙀𝘿) 𝟮𝗣𝗠 롯데콘서트홀, 인터파크\n온라인 티켓 👉𝟮𝟭.𝟬𝟳.𝟭𝟵(𝙈𝙊𝙉) 𝟯𝗣𝗠 올레tv, Seezn, KAVECON\n\n@LeegitItsSam #SamKim #샘김\n#페퍼톤스 #Peppertones\n#신재평 #이장원 #오노프콘서트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SamKim",
+					"indices": [
+						148,
+						155
+					]
+				},
+				{
+					"text": "샘김",
+					"indices": [
+						156,
+						159
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						160,
+						165
+					]
+				},
+				{
+					"text": "Peppertones",
+					"indices": [
+						166,
+						178
+					]
+				},
+				{
+					"text": "신재평",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "이장원",
+					"indices": [
+						184,
+						188
+					]
+				},
+				{
+					"text": "오노프콘서트",
+					"indices": [
+						189,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeegitItsSam",
+					"name": "Sam Kim 샘김",
+					"id": 1202716135,
+					"id_str": "1202716135",
+					"indices": [
+						134,
+						147
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fhHdkSE0aM",
+					"expanded_url": "https://bit.ly/3wwkFyY",
+					"display_url": "bit.ly/3wwkFyY",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1414908958406439000,
+		"in_reply_to_status_id_str": "1414908958406438912",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / Sam Kim (샘김) Single ‘The Juice’ 2021. 06. 23. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36434,
+			"friends_count": 10,
+			"listed_count": 373,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1623754978",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎞 공연 정보\nhttps://t.co/fhHdkSE0aM\n\n🎫𝗧𝗜𝗖𝗞𝗘𝗧 𝗢𝗣𝗘𝗡\n오프라인 티켓 👉𝟮𝟭.𝟬𝟳.𝟭𝟰(𝙒𝙀𝘿) 𝟮𝗣𝗠 롯데콘서트홀, 인터파크\n온라인 티켓 👉𝟮𝟭.𝟬𝟳.𝟭𝟵(𝙈𝙊𝙉) 𝟯𝗣𝗠 올레tv, Seezn, KAVECON\n\n@LeegitItsSam #SamKim #샘김\n#페퍼톤스 #Peppertones\n#신재평 #이장원 #오노프콘서트"
+	},
+	{
+		"created_at": "Tue Jul 13 11:29:48 +0000 2021",
+		"id": 1414908958406439000,
+		"id_str": "1414909925914984449",
+		"full_text": "[Concert] #샘김 #페퍼톤스\n\n샘김, 페퍼톤스가 함께하는 &lt;2021 오노프 콘서트&gt;가 사회적 거리두기 4단계 공연장 방역 수칙에 따라 시작 시간이 저녁 7시 30분(인터미션 10분)으로 변동되었습니다. 이 점 양해 부탁드리며, 공연 정보, 티켓 오픈 일정 등은 아래 내용을 확인해 주세요!✨ https://t.co/OEglMXuE8p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "샘김",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						14,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1414908951569735700,
+					"id_str": "1414908951569735687",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/E6LEMefVoAct2yL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6LEMefVoAct2yL.jpg",
+					"url": "https://t.co/OEglMXuE8p",
+					"display_url": "pic.twitter.com/OEglMXuE8p",
+					"expanded_url": "https://twitter.com/antennamusic/status/1414908958406438912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414908951569735700,
+					"id_str": "1414908951569735687",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/E6LEMefVoAct2yL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6LEMefVoAct2yL.jpg",
+					"url": "https://t.co/OEglMXuE8p",
+					"display_url": "pic.twitter.com/OEglMXuE8p",
+					"expanded_url": "https://twitter.com/antennamusic/status/1414908958406438912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1414908951590621200,
+					"id_str": "1414908951590621184",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/E6LEMekUUAALYVF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6LEMekUUAALYVF.jpg",
+					"url": "https://t.co/OEglMXuE8p",
+					"display_url": "pic.twitter.com/OEglMXuE8p",
+					"expanded_url": "https://twitter.com/antennamusic/status/1414908958406438912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 961,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / Sam Kim (샘김) Single ‘The Juice’ 2021. 06. 23. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36434,
+			"friends_count": 10,
+			"listed_count": 373,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1623754978",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 91,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Concert] #샘김 #페퍼톤스\n\n샘김, 페퍼톤스가 함께하는 &lt;2021 오노프 콘서트&gt;가 사회적 거리두기 4단계 공연장 방역 수칙에 따라 시작 시간이 저녁 7시 30분(인터미션 10분)으로 변동되었습니다. 이 점 양해 부탁드리며, 공연 정보, 티켓 오픈 일정 등은 아래 내용을 확인해 주세요!✨ https://t.co/OEglMXuE8p"
+	},
+	{
+		"created_at": "Tue Jul 13 11:29:40 +0000 2021",
+		"id": 1414904940955259000,
+		"id_str": "1414909890347290627",
+		"full_text": "[#존박]\n‘now, us, here’\n‘strangers (feat. 유라)’\n🔗 https://t.co/B4E0pwZwKx\n\n보그 코리아와 함께한 존박의 #8PMCONCERT 라이브 영상이 공개되었습니다. 인터뷰까지 포함된 풀버전은 @VogueKorea 유튜브 채널에서 확인해주세요\n\n#존박 #JohnPark #outbox #아웃박스\n#nowushere #strangers #유라 https://t.co/YHWPiJIzRf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "존박",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "8PMCONCERT",
+					"indices": [
+						88,
+						99
+					]
+				},
+				{
+					"text": "존박",
+					"indices": [
+						161,
+						164
+					]
+				},
+				{
+					"text": "JohnPark",
+					"indices": [
+						165,
+						174
+					]
+				},
+				{
+					"text": "outbox",
+					"indices": [
+						175,
+						182
+					]
+				},
+				{
+					"text": "아웃박스",
+					"indices": [
+						183,
+						188
+					]
+				},
+				{
+					"text": "nowushere",
+					"indices": [
+						189,
+						199
+					]
+				},
+				{
+					"text": "strangers",
+					"indices": [
+						200,
+						210
+					]
+				},
+				{
+					"text": "유라",
+					"indices": [
+						211,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VogueKorea",
+					"name": "VOGUE KOREA",
+					"id": 159102271,
+					"id_str": "159102271",
+					"indices": [
+						132,
+						143
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/B4E0pwZwKx",
+					"expanded_url": "http://youtu.be/PW0MywkIIYE",
+					"display_url": "youtu.be/PW0MywkIIYE",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1414869032998641700,
+					"id_str": "1414869032998641666",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414869032998641666/pu/img/3g3EYPuJskG4Lyin.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414869032998641666/pu/img/3g3EYPuJskG4Lyin.jpg",
+					"url": "https://t.co/YHWPiJIzRf",
+					"display_url": "pic.twitter.com/YHWPiJIzRf",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1414904940955258886/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414869032998641700,
+					"id_str": "1414869032998641666",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414869032998641666/pu/img/3g3EYPuJskG4Lyin.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414869032998641666/pu/img/3g3EYPuJskG4Lyin.jpg",
+					"url": "https://t.co/YHWPiJIzRf",
+					"display_url": "pic.twitter.com/YHWPiJIzRf",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1414904940955258886/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59977,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414869032998641666/pu/vid/720x720/0C3mN2XSCMp-aGhy.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1414869032998641666/pu/pl/hRGd4uW1nGMGhyFQ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414869032998641666/pu/vid/540x540/GoqUMSZ3Szes8tkB.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414869032998641666/pu/vid/320x320/gg8zKAS3GmDApQ3c.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/eGHxiArKQw",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eGHxiArKQw",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9045,
+			"friends_count": 5,
+			"listed_count": 108,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 866,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1625475697",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#존박]\n‘now, us, here’\n‘strangers (feat. 유라)’\n🔗 https://t.co/B4E0pwZwKx\n\n보그 코리아와 함께한 존박의 #8PMCONCERT 라이브 영상이 공개되었습니다. 인터뷰까지 포함된 풀버전은 @VogueKorea 유튜브 채널에서 확인해주세요\n\n#존박 #JohnPark #outbox #아웃박스\n#nowushere #strangers #유라 https://t.co/YHWPiJIzRf"
+	},
+	{
+		"created_at": "Tue Jul 13 11:29:31 +0000 2021",
+		"id": 1414901150059405300,
+		"id_str": "1414909852141428737",
+		"full_text": "[슬릭X이랑]\n슬릭과 이랑의 서간에세이 『괄호가 많은 편지』 가 출간되었습니다🎈\n\n📖교보문고\nhttps://t.co/A9nGhxsZnv\n📖알라딘\nhttps://t.co/NQxCBZz2Tg\n📖예스24\nhttps://t.co/oWt1tCwrs9\n📖인터파크\nhttps://t.co/lwL4VE607z\n\n#슬릭 #이랑 #괄호가많은편지 #총총시리즈 #문학동네 https://t.co/5S6hpjxZcR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬릭",
+					"indices": [
+						166,
+						169
+					]
+				},
+				{
+					"text": "이랑",
+					"indices": [
+						170,
+						173
+					]
+				},
+				{
+					"text": "괄호가많은편지",
+					"indices": [
+						174,
+						182
+					]
+				},
+				{
+					"text": "총총시리즈",
+					"indices": [
+						183,
+						189
+					]
+				},
+				{
+					"text": "문학동네",
+					"indices": [
+						190,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A9nGhxsZnv",
+					"expanded_url": "https://bit.ly/3hB6AMz",
+					"display_url": "bit.ly/3hB6AMz",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/NQxCBZz2Tg",
+					"expanded_url": "https://bit.ly/3AWMBzj",
+					"display_url": "bit.ly/3AWMBzj",
+					"indices": [
+						81,
+						104
+					]
+				},
+				{
+					"url": "https://t.co/oWt1tCwrs9",
+					"expanded_url": "https://bit.ly/3wBfeil",
+					"display_url": "bit.ly/3wBfeil",
+					"indices": [
+						111,
+						134
+					]
+				},
+				{
+					"url": "https://t.co/lwL4VE607z",
+					"expanded_url": "https://bit.ly/3ea5vt2",
+					"display_url": "bit.ly/3ea5vt2",
+					"indices": [
+						141,
+						164
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1414901142761312300,
+					"id_str": "1414901142761312260",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/E6K9F8aVEAQ_Fel.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6K9F8aVEAQ_Fel.jpg",
+					"url": "https://t.co/5S6hpjxZcR",
+					"display_url": "pic.twitter.com/5S6hpjxZcR",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1414901150059405312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 673,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 836,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 836,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414901142761312300,
+					"id_str": "1414901142761312260",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/E6K9F8aVEAQ_Fel.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6K9F8aVEAQ_Fel.jpg",
+					"url": "https://t.co/5S6hpjxZcR",
+					"display_url": "pic.twitter.com/5S6hpjxZcR",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1414901150059405312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 673,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 836,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 836,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1414901142761271300,
+					"id_str": "1414901142761271301",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/E6K9F8aUcAUoIe4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6K9F8aUcAUoIe4.jpg",
+					"url": "https://t.co/5S6hpjxZcR",
+					"display_url": "pic.twitter.com/5S6hpjxZcR",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1414901150059405312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 862,
+							"h": 758,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 862,
+							"h": 758,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 598,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1414901142773911600,
+					"id_str": "1414901142773911558",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/E6K9F8dVUAYi1xX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6K9F8dVUAYi1xX.jpg",
+					"url": "https://t.co/5S6hpjxZcR",
+					"display_url": "pic.twitter.com/5S6hpjxZcR",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1414901150059405312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 (당신의여름)",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타와 함께합니다.",
+			"url": "https://t.co/oHXBW5kYJK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oHXBW5kYJK",
+							"expanded_url": "http://www.instagram.com/yoursummerkr",
+							"display_url": "instagram.com/yoursummerkr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2093,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[슬릭X이랑]\n슬릭과 이랑의 서간에세이 『괄호가 많은 편지』 가 출간되었습니다🎈\n\n📖교보문고\nhttps://t.co/A9nGhxsZnv\n📖알라딘\nhttps://t.co/NQxCBZz2Tg\n📖예스24\nhttps://t.co/oWt1tCwrs9\n📖인터파크\nhttps://t.co/lwL4VE607z\n\n#슬릭 #이랑 #괄호가많은편지 #총총시리즈 #문학동네 https://t.co/5S6hpjxZcR"
+	},
+	{
 		"created_at": "Tue Jul 13 10:29:25 +0000 2021",
 		"id": 1414884484181237800,
 		"id_str": "1414894727128813568",
