@@ -1,6 +1,1192 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 13 06:29:53 +0000 2021",
+		"id": 1414827982082904000,
+		"id_str": "1414834448856662017",
+		"full_text": "🙌#앤마리 정규 2집 [Therapy] 예약판매 시작🙌\n🌷예약하러가기: https://t.co/cVkasEb9zq https://t.co/OMT3rlCuNc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "앤마리",
+					"indices": [
+						1,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cVkasEb9zq",
+					"expanded_url": "https://WMK.lnk.to/c5UwPQec",
+					"display_url": "WMK.lnk.to/c5UwPQec",
+					"indices": [
+						40,
+						63
+					]
+				},
+				{
+					"url": "https://t.co/OMT3rlCuNc",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1414818196092194817",
+					"display_url": "twitter.com/Warner_Music_K…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51628,
+			"friends_count": 496,
+			"listed_count": 194,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1414818196092194800,
+		"quoted_status_id_str": "1414818196092194817",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OMT3rlCuNc",
+			"expanded": "https://twitter.com/Warner_Music_Kr/status/1414818196092194817",
+			"display": "twitter.com/Warner_Music_K…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 13 05:25:18 +0000 2021",
+			"id": 1414818196092194800,
+			"id_str": "1414818196092194817",
+			"full_text": "'2002’를 함께 만든 에드 시런이 참여한👏\n#앤마리 새 싱글 🌷𝑩𝒆𝒂𝒖𝒕𝒊𝒇𝒖𝒍🌷 공개!\n🔊 https://t.co/cVkasEb9zq https://t.co/jHiAliOKEU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				77
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "앤마리",
+						"indices": [
+							26,
+							30
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cVkasEb9zq",
+						"expanded_url": "https://WMK.lnk.to/c5UwPQec",
+						"display_url": "WMK.lnk.to/c5UwPQec",
+						"indices": [
+							54,
+							77
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1414817904537706500,
+						"id_str": "1414817904537706496",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414817904537706496/pu/img/RyFV27G91qXuYS1B.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414817904537706496/pu/img/RyFV27G91qXuYS1B.jpg",
+						"url": "https://t.co/jHiAliOKEU",
+						"display_url": "pic.twitter.com/jHiAliOKEU",
+						"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1414818196092194817/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1414817904537706500,
+						"id_str": "1414817904537706496",
+						"indices": [
+							78,
+							101
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414817904537706496/pu/img/RyFV27G91qXuYS1B.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414817904537706496/pu/img/RyFV27G91qXuYS1B.jpg",
+						"url": "https://t.co/jHiAliOKEU",
+						"display_url": "pic.twitter.com/jHiAliOKEU",
+						"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1414818196092194817/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 22940,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1414817904537706496/pu/vid/720x720/WaLk-IBAHc6MMEaQ.mp4?tag=12"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1414817904537706496/pu/vid/320x320/CQO5jHhl_1bUEHPo.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1414817904537706496/pu/vid/540x540/TdUfLoO2cI4Z54_x.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1414817904537706496/pu/pl/BjOEw8lwX08gLVvr.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 206117108,
+				"id_str": "206117108",
+				"name": "Warner Music Korea",
+				"screen_name": "Warner_Music_Kr",
+				"location": "Seoul, Korea",
+				"description": "워너뮤직코리아 공식 트위터",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 51628,
+				"friends_count": 496,
+				"listed_count": 194,
+				"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+				"favourites_count": 1628,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 11206,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "023BE5",
+				"profile_text_color": "2566FC",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🙌#앤마리 정규 2집 [Therapy] 예약판매 시작🙌\n🌷예약하러가기: https://t.co/cVkasEb9zq https://t.co/OMT3rlCuNc"
+	},
+	{
+		"created_at": "Tue Jul 13 06:29:51 +0000 2021",
+		"id": 1414824597699006500,
+		"id_str": "1414834439968985091",
+		"full_text": "🔊#메이지피터스 🎂𝑷𝒔𝒚𝒄𝒉𝒐🎂\n에드 시런과 공동 작곡한 새 싱글 공개!😍\n🎬 https://t.co/eFhUauEG8b https://t.co/Hxgg92C7rI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "메이지피터스",
+					"indices": [
+						1,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eFhUauEG8b",
+					"expanded_url": "https://youtu.be/IZtxqU_RbV4",
+					"display_url": "youtu.be/IZtxqU_RbV4",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1414823910999163000,
+					"id_str": "1414823910999162882",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414823910999162882/pu/img/HWpj06g9PEnaWqKw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414823910999162882/pu/img/HWpj06g9PEnaWqKw.jpg",
+					"url": "https://t.co/Hxgg92C7rI",
+					"display_url": "pic.twitter.com/Hxgg92C7rI",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1414824597699006474/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414823910999163000,
+					"id_str": "1414823910999162882",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414823910999162882/pu/img/HWpj06g9PEnaWqKw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414823910999162882/pu/img/HWpj06g9PEnaWqKw.jpg",
+					"url": "https://t.co/Hxgg92C7rI",
+					"display_url": "pic.twitter.com/Hxgg92C7rI",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1414824597699006474/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 39873,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414823910999162882/pu/vid/320x320/r8PayPnAqb86GiC7.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414823910999162882/pu/vid/540x540/dnzHgnR11h4YDgVX.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1414823910999162882/pu/pl/xTL9tZSJy0y9XU-N.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414823910999162882/pu/vid/720x720/3sHzLPkhd9ElOra_.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51628,
+			"friends_count": 496,
+			"listed_count": 194,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔊#메이지피터스 🎂𝑷𝒔𝒚𝒄𝒉𝒐🎂\n에드 시런과 공동 작곡한 새 싱글 공개!😍\n🎬 https://t.co/eFhUauEG8b https://t.co/Hxgg92C7rI"
+	},
+	{
+		"created_at": "Tue Jul 13 06:29:44 +0000 2021",
+		"id": 1414822890415952000,
+		"id_str": "1414834410118123523",
+		"full_text": "🔊#샘라이더 🧨𝑻𝒊𝒏𝒚 𝑹𝒊𝒐𝒕🧨\n가슴이 웅장해지는 라이브,,,😳\n🎬 https://t.co/gduXMXSZk0 https://t.co/0N0D3Fsc4J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "샘라이더",
+					"indices": [
+						1,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gduXMXSZk0",
+					"expanded_url": "https://youtu.be/AX7BcBD8-BA",
+					"display_url": "youtu.be/AX7BcBD8-BA",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1414822170492997600,
+					"id_str": "1414822170492997636",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414822170492997636/pu/img/XYOj2Lqghgn-flSX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414822170492997636/pu/img/XYOj2Lqghgn-flSX.jpg",
+					"url": "https://t.co/0N0D3Fsc4J",
+					"display_url": "pic.twitter.com/0N0D3Fsc4J",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1414822890415951879/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414822170492997600,
+					"id_str": "1414822170492997636",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414822170492997636/pu/img/XYOj2Lqghgn-flSX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414822170492997636/pu/img/XYOj2Lqghgn-flSX.jpg",
+					"url": "https://t.co/0N0D3Fsc4J",
+					"display_url": "pic.twitter.com/0N0D3Fsc4J",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1414822890415951879/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 40624,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414822170492997636/pu/vid/320x320/Y5IBtB4lRBLgP3X1.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414822170492997636/pu/vid/540x540/Us3Jx9qVkIQVkZ1a.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414822170492997636/pu/vid/720x720/UusePqUX7wcRoPtB.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1414822170492997636/pu/pl/-oLvZVDIA2CBrfhn.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51628,
+			"friends_count": 496,
+			"listed_count": 194,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔊#샘라이더 🧨𝑻𝒊𝒏𝒚 𝑹𝒊𝒐𝒕🧨\n가슴이 웅장해지는 라이브,,,😳\n🎬 https://t.co/gduXMXSZk0 https://t.co/0N0D3Fsc4J"
+	},
+	{
+		"created_at": "Tue Jul 13 06:29:37 +0000 2021",
+		"id": 1414822668180746200,
+		"id_str": "1414834380133085186",
+		"full_text": "🔊#트웬티원파일럿츠 🌊𝑺𝒂𝒕𝒖𝒓𝒅𝒂𝒚🌊\n#풀영상은워뮤코유튜브에서🙌\n🎬 https://t.co/kEfE4HZjOf https://t.co/Mai6ZD6N1C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "트웬티원파일럿츠",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "풀영상은워뮤코유튜브에서",
+					"indices": [
+						22,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kEfE4HZjOf",
+					"expanded_url": "https://youtu.be/I99p8Zd8gFc",
+					"display_url": "youtu.be/I99p8Zd8gFc",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1414821532132540400,
+					"id_str": "1414821532132540416",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414821532132540416/pu/img/fsxd7gZWRw4t6jPR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414821532132540416/pu/img/fsxd7gZWRw4t6jPR.jpg",
+					"url": "https://t.co/Mai6ZD6N1C",
+					"display_url": "pic.twitter.com/Mai6ZD6N1C",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1414822668180746243/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414821532132540400,
+					"id_str": "1414821532132540416",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414821532132540416/pu/img/fsxd7gZWRw4t6jPR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414821532132540416/pu/img/fsxd7gZWRw4t6jPR.jpg",
+					"url": "https://t.co/Mai6ZD6N1C",
+					"display_url": "pic.twitter.com/Mai6ZD6N1C",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1414822668180746243/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 35327,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1414821532132540416/pu/pl/MnHueNAo6N5RgGFX.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414821532132540416/pu/vid/540x540/fEZpjXJQKQ9iYY2e.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414821532132540416/pu/vid/320x320/QI0LpBRypIcL0iR1.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414821532132540416/pu/vid/720x720/XYzz86a_uhb_zrzX.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51628,
+			"friends_count": 496,
+			"listed_count": 194,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🔊#트웬티원파일럿츠 🌊𝑺𝒂𝒕𝒖𝒓𝒅𝒂𝒚🌊\n#풀영상은워뮤코유튜브에서🙌\n🎬 https://t.co/kEfE4HZjOf https://t.co/Mai6ZD6N1C"
+	},
+	{
+		"created_at": "Tue Jul 13 06:29:29 +0000 2021",
+		"id": 1414820999711785000,
+		"id_str": "1414834346075246596",
+		"full_text": "🔊#에드시런 🩸𝑩𝒂𝒅 𝑯𝒂𝒃𝒊𝒕𝒔🩸\n역시 에드는 #어쿠스틱 😍😍\n🎬 https://t.co/L0gb23nKTI https://t.co/pVkgL03YLQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에드시런",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "어쿠스틱",
+					"indices": [
+						27,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/L0gb23nKTI",
+					"expanded_url": "https://youtu.be/Zq33q2g-HoI",
+					"display_url": "youtu.be/Zq33q2g-HoI",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1414819847658037200,
+					"id_str": "1414819847658037253",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414819847658037253/pu/img/dCAOE5GBGrRw9WvT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414819847658037253/pu/img/dCAOE5GBGrRw9WvT.jpg",
+					"url": "https://t.co/pVkgL03YLQ",
+					"display_url": "pic.twitter.com/pVkgL03YLQ",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1414820999711784966/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414819847658037200,
+					"id_str": "1414819847658037253",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414819847658037253/pu/img/dCAOE5GBGrRw9WvT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414819847658037253/pu/img/dCAOE5GBGrRw9WvT.jpg",
+					"url": "https://t.co/pVkgL03YLQ",
+					"display_url": "pic.twitter.com/pVkgL03YLQ",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1414820999711784966/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60143,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414819847658037253/pu/vid/320x320/zJDjVW_OVarzZNkM.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1414819847658037253/pu/pl/BOqy8YAUMDWzL5xj.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414819847658037253/pu/vid/540x540/v7ar-h9BFTiDepGz.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414819847658037253/pu/vid/720x720/79I_ukH3d3GNCtS3.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51628,
+			"friends_count": 496,
+			"listed_count": 194,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔊#에드시런 🩸𝑩𝒂𝒅 𝑯𝒂𝒃𝒊𝒕𝒔🩸\n역시 에드는 #어쿠스틱 😍😍\n🎬 https://t.co/L0gb23nKTI https://t.co/pVkgL03YLQ"
+	},
+	{
 		"created_at": "Tue Jul 13 05:58:22 +0000 2021",
 		"id": 1414812023129403400,
 		"id_str": "1414826515553038338",
