@@ -1,6 +1,1181 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 14 03:45:13 +0000 2021",
+		"id": 1415155395866284000,
+		"id_str": "1415155395866284032",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n뮤지컬 비틀쥬스 (Beetlejuice The Musical) - Dead Mom 가사 번역 뮤직비디오\nhttps://t.co/KZFNZLz6Qf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KZFNZLz6Qf",
+					"expanded_url": "https://youtu.be/W8zfdLDdFoA",
+					"display_url": "youtu.be/W8zfdLDdFoA",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 259,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 70641,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n뮤지컬 비틀쥬스 (Beetlejuice The Musical) - Dead Mom 가사 번역 뮤직비디오\nhttps://t.co/KZFNZLz6Qf"
+	},
+	{
+		"created_at": "Wed Jul 14 03:29:51 +0000 2021",
+		"id": 1415148444193153000,
+		"id_str": "1415151530064465920",
+		"full_text": "[🔥Out Now🔥] 우리같은사람들(Woogotsa) - 물고기 / Fish\n\n누군가의 마음을 얻기 위해 노력해본 적이 있나요?\n- woogotsa 김지환 -\n\n🔔 Woogotsa SNS\nFacebook : https://t.co/kjm2iAvLPW\nInstagram : https://t.co/spTvfI7lvF\n\n#woogotsa #kband #kindie #우리같은사람들 #krock #물고기 #Fish https://t.co/CqbJmXGePW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "woogotsa",
+					"indices": [
+						177,
+						186
+					]
+				},
+				{
+					"text": "kband",
+					"indices": [
+						187,
+						193
+					]
+				},
+				{
+					"text": "kindie",
+					"indices": [
+						194,
+						201
+					]
+				},
+				{
+					"text": "우리같은사람들",
+					"indices": [
+						202,
+						210
+					]
+				},
+				{
+					"text": "krock",
+					"indices": [
+						211,
+						217
+					]
+				},
+				{
+					"text": "물고기",
+					"indices": [
+						218,
+						222
+					]
+				},
+				{
+					"text": "Fish",
+					"indices": [
+						223,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kjm2iAvLPW",
+					"expanded_url": "https://www.facebook.com/woogotsa",
+					"display_url": "facebook.com/woogotsa",
+					"indices": [
+						116,
+						139
+					]
+				},
+				{
+					"url": "https://t.co/spTvfI7lvF",
+					"expanded_url": "https://www.instagram.com/woogotsa/",
+					"display_url": "instagram.com/woogotsa/",
+					"indices": [
+						152,
+						175
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1415148138596159500,
+					"id_str": "1415148138596159488",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/E6Odu_mUUAACD_D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6Odu_mUUAACD_D.jpg",
+					"url": "https://t.co/CqbJmXGePW",
+					"display_url": "pic.twitter.com/CqbJmXGePW",
+					"expanded_url": "https://twitter.com/sugar_records/status/1415148444193153029/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415148138596159500,
+					"id_str": "1415148138596159488",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/E6Odu_mUUAACD_D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6Odu_mUUAACD_D.jpg",
+					"url": "https://t.co/CqbJmXGePW",
+					"display_url": "pic.twitter.com/CqbJmXGePW",
+					"expanded_url": "https://twitter.com/sugar_records/status/1415148444193153029/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94343878,
+			"id_str": "94343878",
+			"name": "슈가레코드",
+			"screen_name": "sugar_records",
+			"location": "Seoul, KR",
+			"description": "#달에닿아 #뷰티핸섬 #리썬 #모브닝 #엔분의일 #당기시오 #우리같은사람들 슈가레코드",
+			"url": "https://t.co/MaZwhWbQNT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MaZwhWbQNT",
+							"expanded_url": "http://sugar-records.com",
+							"display_url": "sugar-records.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 549,
+			"friends_count": 37,
+			"listed_count": 9,
+			"created_at": "Thu Dec 03 14:51:49 +0000 2009",
+			"favourites_count": 436,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94343878/1548148600",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🔥Out Now🔥] 우리같은사람들(Woogotsa) - 물고기 / Fish\n\n누군가의 마음을 얻기 위해 노력해본 적이 있나요?\n- woogotsa 김지환 -\n\n🔔 Woogotsa SNS\nFacebook : https://t.co/kjm2iAvLPW\nInstagram : https://t.co/spTvfI7lvF\n\n#woogotsa #kband #kindie #우리같은사람들 #krock #물고기 #Fish https://t.co/CqbJmXGePW"
+	},
+	{
+		"created_at": "Wed Jul 14 03:29:44 +0000 2021",
+		"id": 1415148096065970200,
+		"id_str": "1415151500205101058",
+		"full_text": "🔔 우리같은사람들(Woogotsa) - 물고기 / Fish MV 🔥 https://t.co/xKDdACN5mH 출처 @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						65,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xKDdACN5mH",
+					"expanded_url": "https://youtu.be/Vwf28tWEaBk",
+					"display_url": "youtu.be/Vwf28tWEaBk",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94343878,
+			"id_str": "94343878",
+			"name": "슈가레코드",
+			"screen_name": "sugar_records",
+			"location": "Seoul, KR",
+			"description": "#달에닿아 #뷰티핸섬 #리썬 #모브닝 #엔분의일 #당기시오 #우리같은사람들 슈가레코드",
+			"url": "https://t.co/MaZwhWbQNT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MaZwhWbQNT",
+							"expanded_url": "http://sugar-records.com",
+							"display_url": "sugar-records.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 549,
+			"friends_count": 37,
+			"listed_count": 9,
+			"created_at": "Thu Dec 03 14:51:49 +0000 2009",
+			"favourites_count": 436,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94343878/1548148600",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔔 우리같은사람들(Woogotsa) - 물고기 / Fish MV 🔥 https://t.co/xKDdACN5mH 출처 @YouTube"
+	},
+	{
+		"created_at": "Wed Jul 14 03:29:39 +0000 2021",
+		"id": 1415147205158080500,
+		"id_str": "1415151478646452227",
+		"full_text": "[#존박]\n마치 한편의 영화를 보는 듯한🎬\n존박의 ‘now, us, here’ 뮤직비디오 촬영 현장\n비하인드를 지금 멜론 매거진에서 만나보세요!\n\n🔗 https://t.co/XRJbNfSQhb\n\n#존박 #JohnPark #nowushere\n#outbox #아웃박스 #미니앨범 https://t.co/bUZA4VSqK7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "존박",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "존박",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "JohnPark",
+					"indices": [
+						113,
+						122
+					]
+				},
+				{
+					"text": "nowushere",
+					"indices": [
+						123,
+						133
+					]
+				},
+				{
+					"text": "outbox",
+					"indices": [
+						134,
+						141
+					]
+				},
+				{
+					"text": "아웃박스",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "미니앨범",
+					"indices": [
+						148,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XRJbNfSQhb",
+					"expanded_url": "http://kko.to/5BC1auH4M",
+					"display_url": "kko.to/5BC1auH4M",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1415147154729959400,
+					"id_str": "1415147154729959424",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/E6Oc1uaVgAAacrP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6Oc1uaVgAAacrP.jpg",
+					"url": "https://t.co/bUZA4VSqK7",
+					"display_url": "pic.twitter.com/bUZA4VSqK7",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1415147205158080512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415147154729959400,
+					"id_str": "1415147154729959424",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/E6Oc1uaVgAAacrP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6Oc1uaVgAAacrP.jpg",
+					"url": "https://t.co/bUZA4VSqK7",
+					"display_url": "pic.twitter.com/bUZA4VSqK7",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1415147205158080512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1415147164712403000,
+					"id_str": "1415147164712402952",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/E6Oc2TmVgAgA9Ng.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6Oc2TmVgAgA9Ng.jpg",
+					"url": "https://t.co/bUZA4VSqK7",
+					"display_url": "pic.twitter.com/bUZA4VSqK7",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1415147205158080512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1415147180659142700,
+					"id_str": "1415147180659142661",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/E6Oc3PAVcAUiR52.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6Oc3PAVcAUiR52.jpg",
+					"url": "https://t.co/bUZA4VSqK7",
+					"display_url": "pic.twitter.com/bUZA4VSqK7",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1415147205158080512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1415147193279778800,
+					"id_str": "1415147193279778818",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/E6Oc3-BVEAIfbAN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6Oc3-BVEAIfbAN.jpg",
+					"url": "https://t.co/bUZA4VSqK7",
+					"display_url": "pic.twitter.com/bUZA4VSqK7",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1415147205158080512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/eGHxiArKQw",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eGHxiArKQw",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9046,
+			"friends_count": 5,
+			"listed_count": 108,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 869,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1625475697",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#존박]\n마치 한편의 영화를 보는 듯한🎬\n존박의 ‘now, us, here’ 뮤직비디오 촬영 현장\n비하인드를 지금 멜론 매거진에서 만나보세요!\n\n🔗 https://t.co/XRJbNfSQhb\n\n#존박 #JohnPark #nowushere\n#outbox #아웃박스 #미니앨범 https://t.co/bUZA4VSqK7"
+	},
+	{
+		"created_at": "Wed Jul 14 03:29:32 +0000 2021",
+		"id": 1415145115140591600,
+		"id_str": "1415151448778842113",
+		"full_text": "[News]\n\nFKA Twigs가 최근 데뷔 앨범을 발매한 웨일즈 출신의 전자음악 프로듀서 Koreless의 뮤직비디오를 연출했습니다.\nhttps://t.co/bqvZEu8Ikv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bqvZEu8Ikv",
+					"expanded_url": "https://www.highjinkxmm.com/news/koreless-wpf",
+					"display_url": "highjinkxmm.com/news/koreless-…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/P2V4wFkAko",
+			"url": "https://t.co/oAPJfxeB46",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAPJfxeB46",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P2V4wFkAko",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 410,
+			"friends_count": 19,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[News]\n\nFKA Twigs가 최근 데뷔 앨범을 발매한 웨일즈 출신의 전자음악 프로듀서 Koreless의 뮤직비디오를 연출했습니다.\nhttps://t.co/bqvZEu8Ikv"
+	},
+	{
+		"created_at": "Wed Jul 14 03:29:29 +0000 2021",
+		"id": 1415143060841779200,
+		"id_str": "1415151435600306179",
+		"full_text": "@dajungjen @dooroomi_c #parannoul @NETGALA_ @Jbrekkie @arloparks @squidbanduk @tylerthecreator #MIKE @HiatusKaiyote",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "parannoul",
+					"indices": [
+						23,
+						33
+					]
+				},
+				{
+					"text": "MIKE",
+					"indices": [
+						95,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dajungjen",
+					"name": "Dajung",
+					"id": 1341628352424104000,
+					"id_str": "1341628352424103936",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "dooroomi_c",
+					"name": "두루미 흥업",
+					"id": 1302973592448036900,
+					"id_str": "1302973592448036869",
+					"indices": [
+						11,
+						22
+					]
+				},
+				{
+					"screen_name": "NETGALA_",
+					"name": "NÆT gSHINPA",
+					"id": 350223879,
+					"id_str": "350223879",
+					"indices": [
+						34,
+						43
+					]
+				},
+				{
+					"screen_name": "Jbrekkie",
+					"name": "Japanese Breakfast",
+					"id": 3038964031,
+					"id_str": "3038964031",
+					"indices": [
+						44,
+						53
+					]
+				},
+				{
+					"screen_name": "arloparks",
+					"name": "Arlo Parks",
+					"id": 1065590638178168800,
+					"id_str": "1065590638178168832",
+					"indices": [
+						54,
+						64
+					]
+				},
+				{
+					"screen_name": "squidbanduk",
+					"name": "Squid",
+					"id": 458554413,
+					"id_str": "458554413",
+					"indices": [
+						65,
+						77
+					]
+				},
+				{
+					"screen_name": "tylerthecreator",
+					"name": "Tyler, The Creator",
+					"id": 166747718,
+					"id_str": "166747718",
+					"indices": [
+						78,
+						94
+					]
+				},
+				{
+					"screen_name": "HiatusKaiyote",
+					"name": "Hiatus Kaiyote",
+					"id": 602857868,
+					"id_str": "602857868",
+					"indices": [
+						101,
+						115
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1415138642868142000,
+		"in_reply_to_status_id_str": "1415138642868142080",
+		"in_reply_to_user_id": 985865748638650400,
+		"in_reply_to_user_id_str": "985865748638650368",
+		"in_reply_to_screen_name": "HIGHJINKXX",
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/P2V4wFkAko",
+			"url": "https://t.co/oAPJfxeB46",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAPJfxeB46",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P2V4wFkAko",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 410,
+			"friends_count": 19,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "@dajungjen @dooroomi_c #parannoul @NETGALA_ @Jbrekkie @arloparks @squidbanduk @tylerthecreator #MIKE @HiatusKaiyote"
+	},
+	{
 		"created_at": "Wed Jul 14 03:04:09 +0000 2021",
 		"id": 1415145060019093500,
 		"id_str": "1415145060019093511",
