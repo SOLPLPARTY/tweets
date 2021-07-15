@@ -1,6 +1,470 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 15 12:29:37 +0000 2021",
+		"id": 1415643861758611500,
+		"id_str": "1415649752537079810",
+		"full_text": "치즈 X 스텔라장 ‘31’ Live Clip 🌻\n\n치즈와 스텔라장이 함께한 ‘31’ 라이브 클립이 치즈 유튜브 채널을 통해 공개되었습니다. 언제나 어린 아이일 수는 없지만, 마음이 통하는 친구와 함께라면 우리 괜찮을거에요 👭🏻\n\n🔗https://t.co/CM8NTdYY7k\n#치즈 #스텔라장 #CHEEZE #STELLAJANG https://t.co/lWVBOW3BLw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "치즈",
+					"indices": [
+						153,
+						156
+					]
+				},
+				{
+					"text": "스텔라장",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "CHEEZE",
+					"indices": [
+						163,
+						170
+					]
+				},
+				{
+					"text": "STELLAJANG",
+					"indices": [
+						171,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CM8NTdYY7k",
+					"expanded_url": "https://youtu.be/CED7D247dH8",
+					"display_url": "youtu.be/CED7D247dH8",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1415643800257450000,
+					"id_str": "1415643800257449985",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/E6VgiTLUUAEeffh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6VgiTLUUAEeffh.jpg",
+					"url": "https://t.co/lWVBOW3BLw",
+					"display_url": "pic.twitter.com/lWVBOW3BLw",
+					"expanded_url": "https://twitter.com/msbsound/status/1415643861758611459/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415643800257450000,
+					"id_str": "1415643800257449985",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/E6VgiTLUUAEeffh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6VgiTLUUAEeffh.jpg",
+					"url": "https://t.co/lWVBOW3BLw",
+					"display_url": "pic.twitter.com/lWVBOW3BLw",
+					"expanded_url": "https://twitter.com/msbsound/status/1415643861758611459/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드 MAGIC STRAWBERRY SOUND / Music label based in Korea",
+			"url": "https://t.co/2ZpTkk9tMw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2ZpTkk9tMw",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8525,
+			"friends_count": 19,
+			"listed_count": 99,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 95,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6096,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1597394894",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "치즈 X 스텔라장 ‘31’ Live Clip 🌻\n\n치즈와 스텔라장이 함께한 ‘31’ 라이브 클립이 치즈 유튜브 채널을 통해 공개되었습니다. 언제나 어린 아이일 수는 없지만, 마음이 통하는 친구와 함께라면 우리 괜찮을거에요 👭🏻\n\n🔗https://t.co/CM8NTdYY7k\n#치즈 #스텔라장 #CHEEZE #STELLAJANG https://t.co/lWVBOW3BLw"
+	},
+	{
+		"created_at": "Thu Jul 15 12:29:29 +0000 2021",
+		"id": 1415637693438910500,
+		"id_str": "1415649718449889282",
+		"full_text": "[발매]\nSURL Single [Beside] is released on July 22, 12PM(KST)\nSURL 싱글 [내 옆] 2021. 07. 22. 목요일 오후 12시 발매됩니다.\n\nTrack List\n1. 내 옆\n2. Colors\n\nArtwork by BIGSEUL\n\n#SURL🌵 #SURL #설🌵 #설 #밴드설 #說\n#내옆 #Beside #Colors #210722\n@SURLofficial https://t.co/5uMZleLOIr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SURL",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "SURL",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "설",
+					"indices": [
+						169,
+						171
+					]
+				},
+				{
+					"text": "설",
+					"indices": [
+						173,
+						175
+					]
+				},
+				{
+					"text": "밴드설",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "說",
+					"indices": [
+						181,
+						183
+					]
+				},
+				{
+					"text": "내옆",
+					"indices": [
+						184,
+						187
+					]
+				},
+				{
+					"text": "Beside",
+					"indices": [
+						188,
+						195
+					]
+				},
+				{
+					"text": "Colors",
+					"indices": [
+						196,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SURLofficial",
+					"name": "SURL",
+					"id": 1007177110077632500,
+					"id_str": "1007177110077632512",
+					"indices": [
+						212,
+						225
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1415637509850108000,
+					"id_str": "1415637509850107906",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/E6Va0JlVkAIcV-m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6Va0JlVkAIcV-m.jpg",
+					"url": "https://t.co/5uMZleLOIr",
+					"display_url": "pic.twitter.com/5uMZleLOIr",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1415637693438910465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415637509850108000,
+					"id_str": "1415637509850107906",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/E6Va0JlVkAIcV-m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6Va0JlVkAIcV-m.jpg",
+					"url": "https://t.co/5uMZleLOIr",
+					"display_url": "pic.twitter.com/5uMZleLOIr",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1415637693438910465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), LambC(램씨), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13063,
+			"friends_count": 1944,
+			"listed_count": 254,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13246,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[발매]\nSURL Single [Beside] is released on July 22, 12PM(KST)\nSURL 싱글 [내 옆] 2021. 07. 22. 목요일 오후 12시 발매됩니다.\n\nTrack List\n1. 내 옆\n2. Colors\n\nArtwork by BIGSEUL\n\n#SURL🌵 #SURL #설🌵 #설 #밴드설 #說\n#내옆 #Beside #Colors #210722\n@SURLofficial https://t.co/5uMZleLOIr"
+	},
+	{
 		"created_at": "Thu Jul 15 11:47:20 +0000 2021",
 		"id": 1415639114049806300,
 		"id_str": "1415639114049806338",
