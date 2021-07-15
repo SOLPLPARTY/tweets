@@ -1,6 +1,1134 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 15 05:11:28 +0000 2021",
+		"id": 1415538083924045800,
+		"id_str": "1415539488584085506",
+		"full_text": "📣 이 행사는 취소되었습니다. 날짜를 연기하여 하반기 중 진행할 예정이며, 현재 일정 조율 중에 있습니다. (예매자분들께는 네이버 예약을 통한 연락 및 환불 처리가 완료되었습니다.) \n  \n모쪼록 이 시기를 안전히 잘 넘기고 곧 다시 만날 수 있기를 바랍니다. https://t.co/UKbxLFzaM1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1415537282837225500,
+					"id_str": "1415537282837225476",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/E6T_qK3VoAQQN1Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6T_qK3VoAQQN1Y.jpg",
+					"url": "https://t.co/UKbxLFzaM1",
+					"display_url": "pic.twitter.com/UKbxLFzaM1",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1415538083924045825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415537282837225500,
+					"id_str": "1415537282837225476",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/E6T_qK3VoAQQN1Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6T_qK3VoAQQN1Y.jpg",
+					"url": "https://t.co/UKbxLFzaM1",
+					"display_url": "pic.twitter.com/UKbxLFzaM1",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1415538083924045825/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1410521076543541200,
+		"in_reply_to_status_id_str": "1410521076543541248",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8428,
+			"friends_count": 560,
+			"listed_count": 81,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📣 이 행사는 취소되었습니다. 날짜를 연기하여 하반기 중 진행할 예정이며, 현재 일정 조율 중에 있습니다. (예매자분들께는 네이버 예약을 통한 연락 및 환불 처리가 완료되었습니다.) \n  \n모쪼록 이 시기를 안전히 잘 넘기고 곧 다시 만날 수 있기를 바랍니다. https://t.co/UKbxLFzaM1"
+	},
+	{
+		"created_at": "Thu Jul 15 05:11:22 +0000 2021",
+		"id": 1415534206252314600,
+		"id_str": "1415539462877163520",
+		"full_text": "📣 이 공연은 취소되었습니다. 날짜를 연기하여 하반기 중 진행할 예정이며, 현재 일정 조율 중에 있습니다. (예매자분들께는 네이버 예약을 통한 연락 및 환불 처리가 완료되었습니다.) \n  \n모쪼록 이 시기를 안전히 잘 넘기고 곧 다시 만날 수 있기를 바랍니다. https://t.co/zozr9c1UOx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1415530728666792000,
+					"id_str": "1415530728666791941",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/E6T5sqrVgAUVYQY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6T5sqrVgAUVYQY.jpg",
+					"url": "https://t.co/zozr9c1UOx",
+					"display_url": "pic.twitter.com/zozr9c1UOx",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1415534206252314625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415530728666792000,
+					"id_str": "1415530728666791941",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/E6T5sqrVgAUVYQY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6T5sqrVgAUVYQY.jpg",
+					"url": "https://t.co/zozr9c1UOx",
+					"display_url": "pic.twitter.com/zozr9c1UOx",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1415534206252314625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1411891444550230000,
+		"in_reply_to_status_id_str": "1411891444550230017",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8428,
+			"friends_count": 560,
+			"listed_count": 81,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📣 이 공연은 취소되었습니다. 날짜를 연기하여 하반기 중 진행할 예정이며, 현재 일정 조율 중에 있습니다. (예매자분들께는 네이버 예약을 통한 연락 및 환불 처리가 완료되었습니다.) \n  \n모쪼록 이 시기를 안전히 잘 넘기고 곧 다시 만날 수 있기를 바랍니다. https://t.co/zozr9c1UOx"
+	},
+	{
+		"created_at": "Thu Jul 15 05:11:16 +0000 2021",
+		"id": 1415530004272730000,
+		"id_str": "1415539441398059008",
+		"full_text": "📣 7.16(금)~17(토) 진행 예정이던 재미공작소 X 노낫네버 팝업숍은 취소되었습니다. 현재 상황 속에서는 관람객 분들이 맘 편히 방문하시는 게 어렵다고 판단, 모두의 안전을 위해 아티스트와 협의하여 결정했습니다. 노낫네버 팝업숍은 올 11월로 연기하여 진행할 계획입니다. https://t.co/xeveTZ6h57",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1415529021136269300,
+					"id_str": "1415529021136269313",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/E6T4JRoVcAEvTWk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6T4JRoVcAEvTWk.jpg",
+					"url": "https://t.co/xeveTZ6h57",
+					"display_url": "pic.twitter.com/xeveTZ6h57",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1415530004272730119/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415529021136269300,
+					"id_str": "1415529021136269313",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/E6T4JRoVcAEvTWk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6T4JRoVcAEvTWk.jpg",
+					"url": "https://t.co/xeveTZ6h57",
+					"display_url": "pic.twitter.com/xeveTZ6h57",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1415530004272730119/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8428,
+			"friends_count": 560,
+			"listed_count": 81,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📣 7.16(금)~17(토) 진행 예정이던 재미공작소 X 노낫네버 팝업숍은 취소되었습니다. 현재 상황 속에서는 관람객 분들이 맘 편히 방문하시는 게 어렵다고 판단, 모두의 안전을 위해 아티스트와 협의하여 결정했습니다. 노낫네버 팝업숍은 올 11월로 연기하여 진행할 계획입니다. https://t.co/xeveTZ6h57"
+	},
+	{
+		"created_at": "Thu Jul 15 04:29:49 +0000 2021",
+		"id": 1415524506404225000,
+		"id_str": "1415529008666718212",
+		"full_text": "[News]\n\n영국의 익스페리멘탈 락 밴드 블랙 미디가 투어 오프닝 아티스트를 오픈 마이크 오디션으로 뽑겠다고 밝혔습니다. 노래, 마술, 스탠드업 코미디 등 어떤 공연이든 선보일 수 있으며 여러분 누구나 지원할 수 있습니다.\nhttps://t.co/ZJnVdov4vI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZJnVdov4vI",
+					"expanded_url": "https://www.highjinkxmm.com/news/ring-o-a92z8-24b66",
+					"display_url": "highjinkxmm.com/news/ring-o-a9…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/P2V4wFkAko",
+			"url": "https://t.co/oAPJfxeB46",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAPJfxeB46",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P2V4wFkAko",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 414,
+			"friends_count": 20,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[News]\n\n영국의 익스페리멘탈 락 밴드 블랙 미디가 투어 오프닝 아티스트를 오픈 마이크 오디션으로 뽑겠다고 밝혔습니다. 노래, 마술, 스탠드업 코미디 등 어떤 공연이든 선보일 수 있으며 여러분 누구나 지원할 수 있습니다.\nhttps://t.co/ZJnVdov4vI"
+	},
+	{
+		"created_at": "Thu Jul 15 04:29:44 +0000 2021",
+		"id": 1415517223536369700,
+		"id_str": "1415528987191824386",
+		"full_text": "🎧벅스 https://t.co/q4eSg1VJ9r\n🎧애플뮤직 https://t.co/IF5LDVBYFt\n\n#방준석 #새콤달콤OST",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방준석",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "새콤달콤OST",
+					"indices": [
+						64,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q4eSg1VJ9r",
+					"expanded_url": "https://m.bugs.co.kr/album/20407201",
+					"display_url": "m.bugs.co.kr/album/20407201",
+					"indices": [
+						4,
+						27
+					]
+				},
+				{
+					"url": "https://t.co/IF5LDVBYFt",
+					"expanded_url": "https://music.apple.com/kr/album/sweet-sour-original-motion-picture-soundtrack/1575343563",
+					"display_url": "music.apple.com/kr/album/sweet…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1415516880660357000,
+		"in_reply_to_status_id_str": "1415516880660357121",
+		"in_reply_to_user_id": 613235782,
+		"in_reply_to_user_id_str": "613235782",
+		"in_reply_to_screen_name": "blueboy_kr",
+		"user": {
+			"id": 613235782,
+			"id_str": "613235782",
+			"name": "BLUE BOY",
+			"screen_name": "blueboy_kr",
+			"location": "",
+			"description": "언니네 이발관 / Wouter Hamel / 이자람 판소리 / 한승석&정재일 / [info.blueboy@gmail.com]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1291,
+			"friends_count": 186,
+			"listed_count": 14,
+			"created_at": "Wed Jun 20 07:48:47 +0000 2012",
+			"favourites_count": 106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1840,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎧벅스 https://t.co/q4eSg1VJ9r\n🎧애플뮤직 https://t.co/IF5LDVBYFt\n\n#방준석 #새콤달콤OST"
+	},
+	{
+		"created_at": "Thu Jul 15 04:29:40 +0000 2021",
+		"id": 1415516880660357000,
+		"id_str": "1415528969869438981",
+		"full_text": "📌‘방준석’ 음악감독의 신보, 영화 ‘새콤달콤’의 오리지널 사운드트랙이 발매되었습니다! \n\n&lt;새콤달콤 OST&gt; ⬇️⬇️\n\n🎧멜론 https://t.co/1JaQGQHKwg\n🎧지니 https://t.co/ODDpqhnjcv\n🎧플로 https://t.co/hbuRm2mcyX\n🎧바이브 https://t.co/6heZRNUR3o\n\n#방준석 #새콤달콤OST https://t.co/y6Bkdda7lX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방준석",
+					"indices": [
+						188,
+						192
+					]
+				},
+				{
+					"text": "새콤달콤OST",
+					"indices": [
+						193,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1JaQGQHKwg",
+					"expanded_url": "http://kko.to/SWs0wKHf0",
+					"display_url": "kko.to/SWs0wKHf0",
+					"indices": [
+						78,
+						101
+					]
+				},
+				{
+					"url": "https://t.co/ODDpqhnjcv",
+					"expanded_url": "http://genie.co.kr/1QA3C2",
+					"display_url": "genie.co.kr/1QA3C2",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/hbuRm2mcyX",
+					"expanded_url": "http://flomuz.io/s/a.BE8OX",
+					"display_url": "flomuz.io/s/a.BE8OX",
+					"indices": [
+						134,
+						157
+					]
+				},
+				{
+					"url": "https://t.co/6heZRNUR3o",
+					"expanded_url": "http://naver.me/5fnKd2fc",
+					"display_url": "naver.me/5fnKd2fc",
+					"indices": [
+						163,
+						186
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1415516872879997000,
+					"id_str": "1415516872879996928",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/E6TtGJ2VgAAkc7l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6TtGJ2VgAAkc7l.jpg",
+					"url": "https://t.co/y6Bkdda7lX",
+					"display_url": "pic.twitter.com/y6Bkdda7lX",
+					"expanded_url": "https://twitter.com/blueboy_kr/status/1415516880660357121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415516872879997000,
+					"id_str": "1415516872879996928",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/E6TtGJ2VgAAkc7l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6TtGJ2VgAAkc7l.jpg",
+					"url": "https://t.co/y6Bkdda7lX",
+					"display_url": "pic.twitter.com/y6Bkdda7lX",
+					"expanded_url": "https://twitter.com/blueboy_kr/status/1415516880660357121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 613235782,
+			"id_str": "613235782",
+			"name": "BLUE BOY",
+			"screen_name": "blueboy_kr",
+			"location": "",
+			"description": "언니네 이발관 / Wouter Hamel / 이자람 판소리 / 한승석&정재일 / [info.blueboy@gmail.com]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1291,
+			"friends_count": 186,
+			"listed_count": 14,
+			"created_at": "Wed Jun 20 07:48:47 +0000 2012",
+			"favourites_count": 106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1840,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📌‘방준석’ 음악감독의 신보, 영화 ‘새콤달콤’의 오리지널 사운드트랙이 발매되었습니다! \n\n&lt;새콤달콤 OST&gt; ⬇️⬇️\n\n🎧멜론 https://t.co/1JaQGQHKwg\n🎧지니 https://t.co/ODDpqhnjcv\n🎧플로 https://t.co/hbuRm2mcyX\n🎧바이브 https://t.co/6heZRNUR3o\n\n#방준석 #새콤달콤OST https://t.co/y6Bkdda7lX"
+	},
+	{
+		"created_at": "Thu Jul 15 04:29:31 +0000 2021",
+		"id": 1415515610981617700,
+		"id_str": "1415528931424342020",
+		"full_text": "#홍대 #벨로주 #공연 #페스티벌\n#멜론티켓 #엠와이뮤직 #서울특별시",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍대",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "벨로주",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						19,
+						24
+					]
+				},
+				{
+					"text": "엠와이뮤직",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "서울특별시",
+					"indices": [
+						32,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1415515562822619100,
+		"in_reply_to_status_id_str": "1415515562822619138",
+		"in_reply_to_user_id": 110930534,
+		"in_reply_to_user_id_str": "110930534",
+		"in_reply_to_screen_name": "ruby_records",
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7712,
+			"friends_count": 8379,
+			"listed_count": 199,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#홍대 #벨로주 #공연 #페스티벌\n#멜론티켓 #엠와이뮤직 #서울특별시"
+	},
+	{
 		"created_at": "Thu Jul 15 03:29:52 +0000 2021",
 		"id": 1415512923326148600,
 		"id_str": "1415513919465136130",
