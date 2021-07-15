@@ -1,6 +1,272 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 15 10:29:25 +0000 2021",
+		"id": 1415607128396492800,
+		"id_str": "1415619502780321796",
+		"full_text": "[Video] #정재형 #이장원\n\n&lt;오늘도 삽질&gt; 6삽 공개🖇 첫째도 안전 둘째는 인기인 쟝과 백만뷰를 위한 재형의 큰 그림까지, 지금 바로 유튜브 ‘스튜디오 훜’ 채널에서 만나요!\n\n🌲오늘도 삽질 6삽\nhttps://t.co/FcAYAPkzct\n\n#정재형 #이장원 #페퍼톤스\n#스튜디오훜 #오늘도삽질 https://t.co/T9kbfSj5kM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정재형",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "이장원",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "정재형",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "이장원",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "스튜디오훜",
+					"indices": [
+						161,
+						167
+					]
+				},
+				{
+					"text": "오늘도삽질",
+					"indices": [
+						168,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FcAYAPkzct",
+					"expanded_url": "https://youtu.be/N5U5x6QZUfs",
+					"display_url": "youtu.be/N5U5x6QZUfs",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1415607101963997200,
+					"id_str": "1415607101963997184",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415607101963997184/pu/img/iqh49zvRJHiQSDyX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415607101963997184/pu/img/iqh49zvRJHiQSDyX.jpg",
+					"url": "https://t.co/T9kbfSj5kM",
+					"display_url": "pic.twitter.com/T9kbfSj5kM",
+					"expanded_url": "https://twitter.com/antennamusic/status/1415607128396492803/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415607101963997200,
+					"id_str": "1415607101963997184",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415607101963997184/pu/img/iqh49zvRJHiQSDyX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415607101963997184/pu/img/iqh49zvRJHiQSDyX.jpg",
+					"url": "https://t.co/T9kbfSj5kM",
+					"display_url": "pic.twitter.com/T9kbfSj5kM",
+					"expanded_url": "https://twitter.com/antennamusic/status/1415607128396492803/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 3051,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1415607101963997184/pu/pl/lRzJD0adS2PxW7dB.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1415607101963997184/pu/vid/640x360/yyU3rntImqePayH4.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1415607101963997184/pu/vid/480x270/59PAFcGM7bhB2ASg.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1415607101963997184/pu/vid/1280x720/kdzDJG9opCOVSfBk.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / Sam Kim (샘김) Single ‘The Juice’ 2021. 06. 23. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36529,
+			"friends_count": 10,
+			"listed_count": 373,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3711,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1623754978",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 84,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Video] #정재형 #이장원\n\n&lt;오늘도 삽질&gt; 6삽 공개🖇 첫째도 안전 둘째는 인기인 쟝과 백만뷰를 위한 재형의 큰 그림까지, 지금 바로 유튜브 ‘스튜디오 훜’ 채널에서 만나요!\n\n🌲오늘도 삽질 6삽\nhttps://t.co/FcAYAPkzct\n\n#정재형 #이장원 #페퍼톤스\n#스튜디오훜 #오늘도삽질 https://t.co/T9kbfSj5kM"
+	},
+	{
 		"created_at": "Thu Jul 15 09:58:16 +0000 2021",
 		"id": 1415597076776321000,
 		"id_str": "1415611667388452866",
