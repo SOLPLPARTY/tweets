@@ -1,6 +1,272 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 15 05:29:24 +0000 2021",
+		"id": 1415543541179113500,
+		"id_str": "1415544004981272581",
+		"full_text": "⠀\nDAILY MIRRORBALL MUSIC | 210715 THU\n⠀\n🔸 홍수정 [사랑 후에 남는 것]\n🔸 이정윤 [오늘도]\n🔸 두솜 (dusom) [검은바다 (Deep sea)]\n🔸 까마귀 (The Crows) [Re-Birth of The Blues]\n\n#홍수정 #이정윤 #두솜 #까마귀 #미러볼뮤직 #인디음악 #음스타그램 https://t.co/2FyxNFs88q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍수정",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "이정윤",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "두솜",
+					"indices": [
+						155,
+						158
+					]
+				},
+				{
+					"text": "까마귀",
+					"indices": [
+						159,
+						163
+					]
+				},
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						164,
+						170
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						171,
+						176
+					]
+				},
+				{
+					"text": "음스타그램",
+					"indices": [
+						177,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1415543417552081000,
+					"id_str": "1415543417552080904",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415543417552080904/pu/img/4zF0entrMqBpyfGt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415543417552080904/pu/img/4zF0entrMqBpyfGt.jpg",
+					"url": "https://t.co/2FyxNFs88q",
+					"display_url": "pic.twitter.com/2FyxNFs88q",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1415543541179113474/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415543417552081000,
+					"id_str": "1415543417552080904",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415543417552080904/pu/img/4zF0entrMqBpyfGt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415543417552080904/pu/img/4zF0entrMqBpyfGt.jpg",
+					"url": "https://t.co/2FyxNFs88q",
+					"display_url": "pic.twitter.com/2FyxNFs88q",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1415543541179113474/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 56056,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1415543417552080904/pu/vid/540x540/J6RkKfAwMtck6VZq.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1415543417552080904/pu/vid/320x320/tfnx5QhWMWUgog9R.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1415543417552080904/pu/pl/kyp40ZTyVcaThPrZ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1415543417552080904/pu/vid/720x720/obHbpp-SJC_kZjh9.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9477,
+			"friends_count": 2678,
+			"listed_count": 250,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10692,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1613553522",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⠀\nDAILY MIRRORBALL MUSIC | 210715 THU\n⠀\n🔸 홍수정 [사랑 후에 남는 것]\n🔸 이정윤 [오늘도]\n🔸 두솜 (dusom) [검은바다 (Deep sea)]\n🔸 까마귀 (The Crows) [Re-Birth of The Blues]\n\n#홍수정 #이정윤 #두솜 #까마귀 #미러볼뮤직 #인디음악 #음스타그램 https://t.co/2FyxNFs88q"
+	},
+	{
 		"created_at": "Thu Jul 15 05:11:28 +0000 2021",
 		"id": 1415538083924045800,
 		"id_str": "1415539488584085506",
