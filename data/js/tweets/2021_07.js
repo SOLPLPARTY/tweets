@@ -1,6 +1,1332 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 16 10:29:48 +0000 2021",
+		"id": 1415980716165243000,
+		"id_str": "1415981990101372929",
+		"full_text": "KBS CoolFM (89.1MHz)\n'심야식당 시즌 3 여의도의 밤'\n정목님이 토요일에서 일요일로 넘어가는 새벽 2시 일일DJ로 출연 합니다! \n어떤 음악과 이야기로 한시간을 꽉 채워주실지 기대해주세요! https://t.co/K7rknPR10i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1415980705478176800,
+					"id_str": "1415980705478176771",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/E6aS8w7VcAMfRap.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6aS8w7VcAMfRap.jpg",
+					"url": "https://t.co/K7rknPR10i",
+					"display_url": "pic.twitter.com/K7rknPR10i",
+					"expanded_url": "https://twitter.com/orm_ent/status/1415980716165242882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1124,
+							"h": 1919,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 398,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 703,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415980705478176800,
+					"id_str": "1415980705478176771",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/E6aS8w7VcAMfRap.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6aS8w7VcAMfRap.jpg",
+					"url": "https://t.co/K7rknPR10i",
+					"display_url": "pic.twitter.com/K7rknPR10i",
+					"expanded_url": "https://twitter.com/orm_ent/status/1415980716165242882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1124,
+							"h": 1919,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 398,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 703,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1415980705478185000,
+					"id_str": "1415980705478184963",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/E6aS8w7VkAMBa_b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6aS8w7VkAMBa_b.jpg",
+					"url": "https://t.co/K7rknPR10i",
+					"display_url": "pic.twitter.com/K7rknPR10i",
+					"expanded_url": "https://twitter.com/orm_ent/status/1415980716165242882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1415980705482379300,
+					"id_str": "1415980705482379268",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/E6aS8w8VkAQ3ANr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6aS8w8VkAQ3ANr.jpg",
+					"url": "https://t.co/K7rknPR10i",
+					"display_url": "pic.twitter.com/K7rknPR10i",
+					"expanded_url": "https://twitter.com/orm_ent/status/1415980716165242882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 723,
+			"friends_count": 324,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3071,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1624418145",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KBS CoolFM (89.1MHz)\n'심야식당 시즌 3 여의도의 밤'\n정목님이 토요일에서 일요일로 넘어가는 새벽 2시 일일DJ로 출연 합니다! \n어떤 음악과 이야기로 한시간을 꽉 채워주실지 기대해주세요! https://t.co/K7rknPR10i"
+	},
+	{
+		"created_at": "Fri Jul 16 10:29:41 +0000 2021",
+		"id": 1415979009964314600,
+		"id_str": "1415981960191692800",
+		"full_text": "[#존박]\n존박 - 그건 아마 우리의 잘못은 아닐 거야\n(원곡: 백예린 Yerin Baek)\n\n🔗 https://t.co/HVum4oaBWr\n\n#존박 #JohnPark #고막메이트 #고막라이브 https://t.co/394hOe8zkX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "존박",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "존박",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "JohnPark",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"text": "고막메이트",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "고막라이브",
+					"indices": [
+						101,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HVum4oaBWr",
+					"expanded_url": "https://youtu.be/FNRkH_rTlIk",
+					"display_url": "youtu.be/FNRkH_rTlIk",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1415978765428007000,
+					"id_str": "1415978765428006925",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415978765428006925/pu/img/8F8LryPppc-p3Zqh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415978765428006925/pu/img/8F8LryPppc-p3Zqh.jpg",
+					"url": "https://t.co/394hOe8zkX",
+					"display_url": "pic.twitter.com/394hOe8zkX",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1415979009964314629/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415978765428007000,
+					"id_str": "1415978765428006925",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415978765428006925/pu/img/8F8LryPppc-p3Zqh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415978765428006925/pu/img/8F8LryPppc-p3Zqh.jpg",
+					"url": "https://t.co/394hOe8zkX",
+					"display_url": "pic.twitter.com/394hOe8zkX",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1415979009964314629/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29055,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1415978765428006925/pu/pl/ZzY7zeDKOsrsBZJP.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1415978765428006925/pu/vid/1280x720/-elWqpLXYUcdYcU2.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1415978765428006925/pu/vid/480x270/n2LvCFXSJqD5CcmN.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1415978765428006925/pu/vid/640x360/Kv5FQXwxtdJDtWf0.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1415975293207019500,
+		"in_reply_to_status_id_str": "1415975293207019520",
+		"in_reply_to_user_id": 387577661,
+		"in_reply_to_user_id_str": "387577661",
+		"in_reply_to_screen_name": "musicfarmkorea",
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/eGHxiArKQw",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eGHxiArKQw",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9049,
+			"friends_count": 5,
+			"listed_count": 109,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 873,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1625475697",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#존박]\n존박 - 그건 아마 우리의 잘못은 아닐 거야\n(원곡: 백예린 Yerin Baek)\n\n🔗 https://t.co/HVum4oaBWr\n\n#존박 #JohnPark #고막메이트 #고막라이브 https://t.co/394hOe8zkX"
+	},
+	{
+		"created_at": "Fri Jul 16 10:29:32 +0000 2021",
+		"id": 1415978263873208300,
+		"id_str": "1415981921973178368",
+		"full_text": "[BEHIND FILM]\n소란 (SORAN) - SWITCH ON✨비하인드 필름 공개! \n풀 버전은 소란 오피셜 Youtube에서 확인해주세요!\n▶https://t.co/L8ZravTBRU\n\n#소란 #SORAN #스위치온 #SWITCHON https://t.co/9sUd98rtSH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소란",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "SORAN",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "스위치온",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "SWITCHON",
+					"indices": [
+						124,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/L8ZravTBRU",
+					"expanded_url": "http://youtu.be/Or8KL7OmvEE",
+					"display_url": "youtu.be/Or8KL7OmvEE",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1415975697051381800,
+					"id_str": "1415975697051381764",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/E6aOsJBVIAIyDBN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6aOsJBVIAIyDBN.jpg",
+					"url": "https://t.co/9sUd98rtSH",
+					"display_url": "pic.twitter.com/9sUd98rtSH",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1415978263873208322/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415975697051381800,
+					"id_str": "1415975697051381764",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/E6aOsJBVIAIyDBN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6aOsJBVIAIyDBN.jpg",
+					"url": "https://t.co/9sUd98rtSH",
+					"display_url": "pic.twitter.com/9sUd98rtSH",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1415978263873208322/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 60185,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1415975697051381764/vid/320x568/cJzUBErWqPumfKKD.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1415975697051381764/vid/720x1280/27TpPaeLGUceAC_g.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1415975697051381764/pl/uJ9jDRPZ8G_0yp0E.m3u8?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1415975697051381764/vid/480x852/Q9pOH77kRWGd7qHX.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "소란 (SORAN) - SWITCH ON✨ l BEHIND FILM",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), LambC(램씨), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13063,
+			"friends_count": 1942,
+			"listed_count": 254,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[BEHIND FILM]\n소란 (SORAN) - SWITCH ON✨비하인드 필름 공개! \n풀 버전은 소란 오피셜 Youtube에서 확인해주세요!\n▶https://t.co/L8ZravTBRU\n\n#소란 #SORAN #스위치온 #SWITCHON https://t.co/9sUd98rtSH"
+	},
+	{
+		"created_at": "Fri Jul 16 10:29:30 +0000 2021",
+		"id": 1415975954850087000,
+		"id_str": "1415981913001574407",
+		"full_text": "여러분들의 성원에 힘입어 ‘아마도조플린밴드’의 풀영상을 공개합니다‼️\n\n지금 바로 감상해보세요🎧\nhttps://t.co/ijajW3Y5Rc\n\n#아마도이자람밴드 #아이밴 #아마도조플린밴드 #maybejoplinband #janisjoplin #legend #koreanjoplin #레전드 #라이브장인 #역대급라이브 #직캠 #라이브 #라이브왕 #귀호강",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아마도이자람밴드",
+					"indices": [
+						79,
+						88
+					]
+				},
+				{
+					"text": "아이밴",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "아마도조플린밴드",
+					"indices": [
+						94,
+						103
+					]
+				},
+				{
+					"text": "maybejoplinband",
+					"indices": [
+						104,
+						120
+					]
+				},
+				{
+					"text": "janisjoplin",
+					"indices": [
+						121,
+						133
+					]
+				},
+				{
+					"text": "legend",
+					"indices": [
+						134,
+						141
+					]
+				},
+				{
+					"text": "koreanjoplin",
+					"indices": [
+						142,
+						155
+					]
+				},
+				{
+					"text": "레전드",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "라이브장인",
+					"indices": [
+						161,
+						167
+					]
+				},
+				{
+					"text": "역대급라이브",
+					"indices": [
+						168,
+						175
+					]
+				},
+				{
+					"text": "직캠",
+					"indices": [
+						176,
+						179
+					]
+				},
+				{
+					"text": "라이브",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "라이브왕",
+					"indices": [
+						185,
+						190
+					]
+				},
+				{
+					"text": "귀호강",
+					"indices": [
+						191,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ijajW3Y5Rc",
+					"expanded_url": "https://bit.ly/3BaGQhF",
+					"display_url": "bit.ly/3BaGQhF",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 (당신의여름)",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타와 함께합니다.",
+			"url": "https://t.co/oHXBW5kYJK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oHXBW5kYJK",
+							"expanded_url": "http://www.instagram.com/yoursummerkr",
+							"display_url": "instagram.com/yoursummerkr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2093,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여러분들의 성원에 힘입어 ‘아마도조플린밴드’의 풀영상을 공개합니다‼️\n\n지금 바로 감상해보세요🎧\nhttps://t.co/ijajW3Y5Rc\n\n#아마도이자람밴드 #아이밴 #아마도조플린밴드 #maybejoplinband #janisjoplin #legend #koreanjoplin #레전드 #라이브장인 #역대급라이브 #직캠 #라이브 #라이브왕 #귀호강"
+	},
+	{
+		"created_at": "Fri Jul 16 10:29:28 +0000 2021",
+		"id": 1415975293207019500,
+		"id_str": "1415981904080379908",
+		"full_text": "[#존박]\n존박이 함께한 《고막메이트》👂🎤\n막둥이들을 위한 고민 상담과 고막라이브로 선보이는 '아마 그건 우리의 잘못은 아닐거야' 커버까지, 방언니 유튜브 채널과 seezn에서 만나보세요! \n\n🔗https://t.co/9YVPsiP2iQ \n\n#존박 #JohnPark  #outbox #아웃박스 \n#Seezn #고막메이트 #nowushere https://t.co/fzMcyRxerx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "존박",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "존박",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "JohnPark",
+					"indices": [
+						139,
+						148
+					]
+				},
+				{
+					"text": "outbox",
+					"indices": [
+						150,
+						157
+					]
+				},
+				{
+					"text": "아웃박스",
+					"indices": [
+						158,
+						163
+					]
+				},
+				{
+					"text": "Seezn",
+					"indices": [
+						165,
+						171
+					]
+				},
+				{
+					"text": "고막메이트",
+					"indices": [
+						172,
+						178
+					]
+				},
+				{
+					"text": "nowushere",
+					"indices": [
+						179,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9YVPsiP2iQ",
+					"expanded_url": "https://youtu.be/L4uiIXzb714",
+					"display_url": "youtu.be/L4uiIXzb714",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1415975290732306400,
+					"id_str": "1415975290732306435",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/E6aOBlbUYAMRHLz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6aOBlbUYAMRHLz.jpg",
+					"url": "https://t.co/fzMcyRxerx",
+					"display_url": "pic.twitter.com/fzMcyRxerx",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1415975293207019520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415975290732306400,
+					"id_str": "1415975290732306435",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/E6aOBlbUYAMRHLz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6aOBlbUYAMRHLz.jpg",
+					"url": "https://t.co/fzMcyRxerx",
+					"display_url": "pic.twitter.com/fzMcyRxerx",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1415975293207019520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/eGHxiArKQw",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eGHxiArKQw",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9049,
+			"friends_count": 5,
+			"listed_count": 109,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 873,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1625475697",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#존박]\n존박이 함께한 《고막메이트》👂🎤\n막둥이들을 위한 고민 상담과 고막라이브로 선보이는 '아마 그건 우리의 잘못은 아닐거야' 커버까지, 방언니 유튜브 채널과 seezn에서 만나보세요! \n\n🔗https://t.co/9YVPsiP2iQ \n\n#존박 #JohnPark  #outbox #아웃박스 \n#Seezn #고막메이트 #nowushere https://t.co/fzMcyRxerx"
+	},
+	{
+		"created_at": "Fri Jul 16 10:29:25 +0000 2021",
+		"id": 1415974491662913500,
+		"id_str": "1415981891065466884",
+		"full_text": "앞으로 있을 눈부신 나날들을 기대하며\n환영의 인사를 전합니다.\n\n2021년, 데뷔 30주년을 맞이한 유재석\n그리고 그의 새로운 날들에 안테나가 함께합니다.\n\n#안테나 #환영합니다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안테나",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "환영합니다",
+					"indices": [
+						93,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1415974489683202000,
+		"in_reply_to_status_id_str": "1415974489683202049",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / Sam Kim (샘김) Single ‘The Juice’ 2021. 06. 23. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36566,
+			"friends_count": 10,
+			"listed_count": 373,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1623754978",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 115,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "앞으로 있을 눈부신 나날들을 기대하며\n환영의 인사를 전합니다.\n\n2021년, 데뷔 30주년을 맞이한 유재석\n그리고 그의 새로운 날들에 안테나가 함께합니다.\n\n#안테나 #환영합니다"
+	},
+	{
 		"created_at": "Fri Jul 16 09:58:26 +0000 2021",
 		"id": 1415959408576655400,
 		"id_str": "1415974095049666560",
