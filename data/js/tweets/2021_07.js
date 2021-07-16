@@ -1,10 +1,435 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 16 05:58:25 +0000 2021",
+		"id": 1415909652248678400,
+		"id_str": "1415913693532102657",
+		"full_text": "2021.07.17 토요일 슬케파 DJ LINE UP\nhttps://t.co/WMeO6kHSri\n\nDJ GCM (21:50-22:40)\n궁중음악회의 수상한 지휘자 DJ GCM!\n토요일밤 여러분의 흥을 책임집니다!\n신사동호랭이부터 테디까지 \n한국 케이팝 작곡가들의 명곡을 함께하세요!\n\nPRE-SET\nSHAKE IT - 씨스타\n여름여름해 - 여자친구",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WMeO6kHSri",
+					"expanded_url": "http://now.naver.com/player/10256",
+					"display_url": "now.naver.com/player/10256",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1415909537635131400,
+		"in_reply_to_status_id_str": "1415909537635131396",
+		"in_reply_to_user_id": 729495493080809500,
+		"in_reply_to_user_id_str": "729495493080809473",
+		"in_reply_to_screen_name": "seulpeumkpop",
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/J4jpDKDhWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J4jpDKDhWh",
+							"expanded_url": "https://now.naver.com/player/10256",
+							"display_url": "now.naver.com/player/10256",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7739,
+			"friends_count": 30,
+			"listed_count": 19,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 694,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2021.07.17 토요일 슬케파 DJ LINE UP\nhttps://t.co/WMeO6kHSri\n\nDJ GCM (21:50-22:40)\n궁중음악회의 수상한 지휘자 DJ GCM!\n토요일밤 여러분의 흥을 책임집니다!\n신사동호랭이부터 테디까지 \n한국 케이팝 작곡가들의 명곡을 함께하세요!\n\nPRE-SET\nSHAKE IT - 씨스타\n여름여름해 - 여자친구"
+	},
+	{
+		"created_at": "Fri Jul 16 05:58:22 +0000 2021",
+		"id": 1415909537635131400,
+		"id_str": "1415913680357761025",
+		"full_text": "2021.07.17 토요일 슬케파 DJ LINE UP\nhttps://t.co/WMeO6kHSri\n\nDJ RB (21:00-21:50)\n불토... 부모님과 집에서 함께 계신가요?\nRB님의 첫 타임부터 함께하셔야 합니다!\n조용필부터 스테이씨까지 시대와 장르를\n커버하는 DJ RB 타임 놓치지 마세요!\n\nPRE-SET\n눈동자 - 엄정화\nSO BAD - STAYC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WMeO6kHSri",
+					"expanded_url": "http://now.naver.com/player/10256",
+					"display_url": "now.naver.com/player/10256",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1415908042449690600,
+		"in_reply_to_status_id_str": "1415908042449690626",
+		"in_reply_to_user_id": 729495493080809500,
+		"in_reply_to_user_id_str": "729495493080809473",
+		"in_reply_to_screen_name": "seulpeumkpop",
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/J4jpDKDhWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J4jpDKDhWh",
+							"expanded_url": "https://now.naver.com/player/10256",
+							"display_url": "now.naver.com/player/10256",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7739,
+			"friends_count": 30,
+			"listed_count": 19,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 694,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2021.07.17 토요일 슬케파 DJ LINE UP\nhttps://t.co/WMeO6kHSri\n\nDJ RB (21:00-21:50)\n불토... 부모님과 집에서 함께 계신가요?\nRB님의 첫 타임부터 함께하셔야 합니다!\n조용필부터 스테이씨까지 시대와 장르를\n커버하는 DJ RB 타임 놓치지 마세요!\n\nPRE-SET\n눈동자 - 엄정화\nSO BAD - STAYC"
+	},
+	{
+		"created_at": "Fri Jul 16 05:58:14 +0000 2021",
+		"id": 1415908042449690600,
+		"id_str": "1415913648531382273",
+		"full_text": "슬픔의케이팝파티 episode.09 &lt;궁중음악회&gt;\n2021.07.17 토요일 저녁 9시 (입장 8시 30분부터)\nNAVER NOW https://t.co/WMeO6kHSri https://t.co/KmA83s1QNJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WMeO6kHSri",
+					"expanded_url": "http://now.naver.com/player/10256",
+					"display_url": "now.naver.com/player/10256",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1415907950623813600,
+					"id_str": "1415907950623813633",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415907950623813633/pu/img/iltgd6buxAAT1yo-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415907950623813633/pu/img/iltgd6buxAAT1yo-.jpg",
+					"url": "https://t.co/KmA83s1QNJ",
+					"display_url": "pic.twitter.com/KmA83s1QNJ",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1415908042449690626/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 436,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 436,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 436,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415907950623813600,
+					"id_str": "1415907950623813633",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415907950623813633/pu/img/iltgd6buxAAT1yo-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415907950623813633/pu/img/iltgd6buxAAT1yo-.jpg",
+					"url": "https://t.co/KmA83s1QNJ",
+					"display_url": "pic.twitter.com/KmA83s1QNJ",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1415908042449690626/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 436,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 436,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 436,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							109,
+							120
+						],
+						"duration_millis": 81500,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1415907950623813633/pu/vid/320x352/BeYAvnOClVgGc8Zx.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1415907950623813633/pu/pl/3GGnmoIvH7EX3S4d.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1415907950623813633/pu/vid/436x480/i6R8UybMPEMd7PX0.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/J4jpDKDhWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J4jpDKDhWh",
+							"expanded_url": "https://now.naver.com/player/10256",
+							"display_url": "now.naver.com/player/10256",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7739,
+			"friends_count": 30,
+			"listed_count": 19,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 694,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬픔의케이팝파티 episode.09 &lt;궁중음악회&gt;\n2021.07.17 토요일 저녁 9시 (입장 8시 30분부터)\nNAVER NOW https://t.co/WMeO6kHSri https://t.co/KmA83s1QNJ"
+	},
+	{
 		"created_at": "Fri Jul 16 04:58:15 +0000 2021",
 		"id": 1415886955934404600,
 		"id_str": "1415898550777622532",
-		"full_text": "슬픔의케이팝파티 NOW NEW POSTER\nIllustration by. 청건 (웹툰 &lt;여자친구&gt;)\n\n매주 토요일 저녁 아홉시 NAVER NOW\n다양한 테마로 함께하는 슬케파에 놀러오세요 🤸‍♀️ https://t.co/9IsSloCCL4",
+		"full_text": "슬픔의케이팝파티 NOW NEW POSTER\nIllustration by. 청건 (웹툰 &lt;여자친구&gt;)\n\n매주 토요일 저녁 아홉시 NAVER NOW\n다양한 테마로 함께하는 슬케파에 놀러오세요 🤸♀️ https://t.co/9IsSloCCL4",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -173,7 +598,7 @@ Grailbird.data.tweets_2021_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "슬픔의케이팝파티 NOW NEW POSTER\nIllustration by. 청건 (웹툰 &lt;여자친구&gt;)\n\n매주 토요일 저녁 아홉시 NAVER NOW\n다양한 테마로 함께하는 슬케파에 놀러오세요 🤸‍♀️ https://t.co/9IsSloCCL4"
+		"text": "슬픔의케이팝파티 NOW NEW POSTER\nIllustration by. 청건 (웹툰 &lt;여자친구&gt;)\n\n매주 토요일 저녁 아홉시 NAVER NOW\n다양한 테마로 함께하는 슬케파에 놀러오세요 🤸♀️ https://t.co/9IsSloCCL4"
 	},
 	{
 		"created_at": "Fri Jul 16 04:29:33 +0000 2021",
