@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 16 04:58:15 +0000 2021",
+		"id": 1415886955934404600,
+		"id_str": "1415898550777622532",
+		"full_text": "슬픔의케이팝파티 NOW NEW POSTER\nIllustration by. 청건 (웹툰 &lt;여자친구&gt;)\n\n매주 토요일 저녁 아홉시 NAVER NOW\n다양한 테마로 함께하는 슬케파에 놀러오세요 🤸‍♀️ https://t.co/9IsSloCCL4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1415886715537956900,
+					"id_str": "1415886715537956864",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/E6Y9d1HVoAAhym6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6Y9d1HVoAAhym6.jpg",
+					"url": "https://t.co/9IsSloCCL4",
+					"display_url": "pic.twitter.com/9IsSloCCL4",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1415886955934404616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1537,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415886715537956900,
+					"id_str": "1415886715537956864",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/E6Y9d1HVoAAhym6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6Y9d1HVoAAhym6.jpg",
+					"url": "https://t.co/9IsSloCCL4",
+					"display_url": "pic.twitter.com/9IsSloCCL4",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1415886955934404616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1537,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/J4jpDKDhWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J4jpDKDhWh",
+							"expanded_url": "https://now.naver.com/player/10256",
+							"display_url": "now.naver.com/player/10256",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7722,
+			"friends_count": 30,
+			"listed_count": 20,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 694,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 510,
+		"favorite_count": 141,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬픔의케이팝파티 NOW NEW POSTER\nIllustration by. 청건 (웹툰 &lt;여자친구&gt;)\n\n매주 토요일 저녁 아홉시 NAVER NOW\n다양한 테마로 함께하는 슬케파에 놀러오세요 🤸‍♀️ https://t.co/9IsSloCCL4"
+	},
+	{
+		"created_at": "Fri Jul 16 04:29:33 +0000 2021",
+		"id": 1415878908201689000,
+		"id_str": "1415891327770836993",
+		"full_text": "🎧벅스 https://t.co/nZ7OAKfQEU\n🎧애플뮤직 https://t.co/aUXP4U6zIz\n🎧소리바다 https://t.co/fazR0gA7PO\n\n#바우터하멜 #하멜 #WouterHamel #Hamel #LuckyStreak",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "바우터하멜",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "하멜",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "WouterHamel",
+					"indices": [
+						100,
+						112
+					]
+				},
+				{
+					"text": "Hamel",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "LuckyStreak",
+					"indices": [
+						120,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nZ7OAKfQEU",
+					"expanded_url": "https://m.bugs.co.kr/album/20406962",
+					"display_url": "m.bugs.co.kr/album/20406962",
+					"indices": [
+						4,
+						27
+					]
+				},
+				{
+					"url": "https://t.co/aUXP4U6zIz",
+					"expanded_url": "https://music.apple.com/kr/album/lucky-streak-single/1575315476",
+					"display_url": "music.apple.com/kr/album/lucky…",
+					"indices": [
+						34,
+						57
+					]
+				},
+				{
+					"url": "https://t.co/fazR0gA7PO",
+					"expanded_url": "http://m.soribada.com/album/PD0193219",
+					"display_url": "m.soribada.com/album/PD0193219",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1415878297829838800,
+		"in_reply_to_status_id_str": "1415878297829838848",
+		"in_reply_to_user_id": 613235782,
+		"in_reply_to_user_id_str": "613235782",
+		"in_reply_to_screen_name": "blueboy_kr",
+		"user": {
+			"id": 613235782,
+			"id_str": "613235782",
+			"name": "BLUE BOY",
+			"screen_name": "blueboy_kr",
+			"location": "",
+			"description": "언니네 이발관 / Wouter Hamel / 이자람 판소리 / 한승석&정재일 / [info.blueboy@gmail.com]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1291,
+			"friends_count": 186,
+			"listed_count": 14,
+			"created_at": "Wed Jun 20 07:48:47 +0000 2012",
+			"favourites_count": 106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎧벅스 https://t.co/nZ7OAKfQEU\n🎧애플뮤직 https://t.co/aUXP4U6zIz\n🎧소리바다 https://t.co/fazR0gA7PO\n\n#바우터하멜 #하멜 #WouterHamel #Hamel #LuckyStreak"
+	},
+	{
 		"created_at": "Fri Jul 16 03:32:23 +0000 2021",
 		"id": 1415876941136158700,
 		"id_str": "1415876941136158723",
