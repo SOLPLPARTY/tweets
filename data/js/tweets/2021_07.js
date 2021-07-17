@@ -1,6 +1,686 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 17 04:29:29 +0000 2021",
+		"id": 1416248890995576800,
+		"id_str": "1416253700063080452",
+		"full_text": "KIM SU YEON (김수연) I K-GROUP\n▶️ YouTube : https://t.co/2BMqLkBHVq\n▶️ NAVER TV : https://t.co/AX4aueI0wd\n\nMore information is available on the official website(https://t.co/NFtlc2jb0G)!\n\n#KimSuYeon #girlsplanet999 #걸스플래닛999 #소녀대전 #TheGirlsSaga #globalaudition #Mnet https://t.co/qBOE1uJESm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KimSuYeon",
+					"indices": [
+						185,
+						195
+					]
+				},
+				{
+					"text": "girlsplanet999",
+					"indices": [
+						196,
+						211
+					]
+				},
+				{
+					"text": "걸스플래닛999",
+					"indices": [
+						212,
+						221
+					]
+				},
+				{
+					"text": "소녀대전",
+					"indices": [
+						222,
+						227
+					]
+				},
+				{
+					"text": "TheGirlsSaga",
+					"indices": [
+						228,
+						241
+					]
+				},
+				{
+					"text": "globalaudition",
+					"indices": [
+						242,
+						257
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						258,
+						263
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2BMqLkBHVq",
+					"expanded_url": "http://youtu.be/IJk6XUvFmFA",
+					"display_url": "youtu.be/IJk6XUvFmFA",
+					"indices": [
+						41,
+						64
+					]
+				},
+				{
+					"url": "https://t.co/AX4aueI0wd",
+					"expanded_url": "http://naver.me/GDcRusFy",
+					"display_url": "naver.me/GDcRusFy",
+					"indices": [
+						79,
+						102
+					]
+				},
+				{
+					"url": "https://t.co/NFtlc2jb0G",
+					"expanded_url": "http://girlsplanet999.com",
+					"display_url": "girlsplanet999.com",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1416248885400391700,
+					"id_str": "1416248885400391681",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/E6eG24_VUAE8aFZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6eG24_VUAE8aFZ.jpg",
+					"url": "https://t.co/qBOE1uJESm",
+					"display_url": "pic.twitter.com/qBOE1uJESm",
+					"expanded_url": "https://twitter.com/themysticstory/status/1416248890995576836/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1416248885400391700,
+					"id_str": "1416248885400391681",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/E6eG24_VUAE8aFZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6eG24_VUAE8aFZ.jpg",
+					"url": "https://t.co/qBOE1uJESm",
+					"display_url": "pic.twitter.com/qBOE1uJESm",
+					"expanded_url": "https://twitter.com/themysticstory/status/1416248890995576836/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1416248885396185000,
+					"id_str": "1416248885396185088",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/E6eG24-VIAADWgQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6eG24-VIAADWgQ.jpg",
+					"url": "https://t.co/qBOE1uJESm",
+					"display_url": "pic.twitter.com/qBOE1uJESm",
+					"expanded_url": "https://twitter.com/themysticstory/status/1416248890995576836/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1416248885459124200,
+					"id_str": "1416248885459124230",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/E6eG25NVgAYVg2e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6eG25NVgAYVg2e.jpg",
+					"url": "https://t.co/qBOE1uJESm",
+					"display_url": "pic.twitter.com/qBOE1uJESm",
+					"expanded_url": "https://twitter.com/themysticstory/status/1416248890995576836/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1416248885509464000,
+					"id_str": "1416248885509464067",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/E6eG25ZVoAMWHl2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6eG25ZVoAMWHl2.jpg",
+					"url": "https://t.co/qBOE1uJESm",
+					"display_url": "pic.twitter.com/qBOE1uJESm",
+					"expanded_url": "https://twitter.com/themysticstory/status/1416248890995576836/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1416248660195565600,
+		"in_reply_to_status_id_str": "1416248660195565576",
+		"in_reply_to_user_id": 486655058,
+		"in_reply_to_user_id_str": "486655058",
+		"in_reply_to_screen_name": "themysticstory",
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21253,
+			"friends_count": 17,
+			"listed_count": 235,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KIM SU YEON (김수연) I K-GROUP\n▶️ YouTube : https://t.co/2BMqLkBHVq\n▶️ NAVER TV : https://t.co/AX4aueI0wd\n\nMore information is available on the official website(https://t.co/NFtlc2jb0G)!\n\n#KimSuYeon #girlsplanet999 #걸스플래닛999 #소녀대전 #TheGirlsSaga #globalaudition #Mnet https://t.co/qBOE1uJESm"
+	},
+	{
+		"created_at": "Sat Jul 17 04:29:27 +0000 2021",
+		"id": 1416248660195565600,
+		"id_str": "1416253690713985025",
+		"full_text": "[#김수연] 미스틱스토리 연습생 김수연 Mnet '걸스플래닛999' 출연🎶\n\nPR 영상 보시고 많은 관심 부탁드립니다❤️\n\n김수연 (KIM SU YEON) I K-GROUP\n▶️ YouTube : https://t.co/2BMqLkBHVq\n▶️ NAVER TV : https://t.co/AX4aueI0wd\n\n더 많은 정보는 공식 홈페이지(https://t.co/NFtlc2jb0G)에서 확인✅ https://t.co/JS033Jah5T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김수연",
+					"indices": [
+						1,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2BMqLkBHVq",
+					"expanded_url": "http://youtu.be/IJk6XUvFmFA",
+					"display_url": "youtu.be/IJk6XUvFmFA",
+					"indices": [
+						110,
+						133
+					]
+				},
+				{
+					"url": "https://t.co/AX4aueI0wd",
+					"expanded_url": "http://naver.me/GDcRusFy",
+					"display_url": "naver.me/GDcRusFy",
+					"indices": [
+						148,
+						171
+					]
+				},
+				{
+					"url": "https://t.co/NFtlc2jb0G",
+					"expanded_url": "http://girlsplanet999.com",
+					"display_url": "girlsplanet999.com",
+					"indices": [
+						190,
+						213
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1416248653279207400,
+					"id_str": "1416248653279207433",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/E6eGpYRVIAkANwt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6eGpYRVIAkANwt.jpg",
+					"url": "https://t.co/JS033Jah5T",
+					"display_url": "pic.twitter.com/JS033Jah5T",
+					"expanded_url": "https://twitter.com/themysticstory/status/1416248660195565576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1416248653279207400,
+					"id_str": "1416248653279207433",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/E6eGpYRVIAkANwt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6eGpYRVIAkANwt.jpg",
+					"url": "https://t.co/JS033Jah5T",
+					"display_url": "pic.twitter.com/JS033Jah5T",
+					"expanded_url": "https://twitter.com/themysticstory/status/1416248660195565576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1416248653283397600,
+					"id_str": "1416248653283397634",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/E6eGpYSVEAIaWaX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6eGpYSVEAIaWaX.jpg",
+					"url": "https://t.co/JS033Jah5T",
+					"display_url": "pic.twitter.com/JS033Jah5T",
+					"expanded_url": "https://twitter.com/themysticstory/status/1416248660195565576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1416248653275009000,
+					"id_str": "1416248653275009024",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/E6eGpYQVEAAawwK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6eGpYQVEAAawwK.jpg",
+					"url": "https://t.co/JS033Jah5T",
+					"display_url": "pic.twitter.com/JS033Jah5T",
+					"expanded_url": "https://twitter.com/themysticstory/status/1416248660195565576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1416248653283356700,
+					"id_str": "1416248653283356674",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/E6eGpYSUcAIUpqX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6eGpYSUcAIUpqX.jpg",
+					"url": "https://t.co/JS033Jah5T",
+					"display_url": "pic.twitter.com/JS033Jah5T",
+					"expanded_url": "https://twitter.com/themysticstory/status/1416248660195565576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21253,
+			"friends_count": 17,
+			"listed_count": 235,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#김수연] 미스틱스토리 연습생 김수연 Mnet '걸스플래닛999' 출연🎶\n\nPR 영상 보시고 많은 관심 부탁드립니다❤️\n\n김수연 (KIM SU YEON) I K-GROUP\n▶️ YouTube : https://t.co/2BMqLkBHVq\n▶️ NAVER TV : https://t.co/AX4aueI0wd\n\n더 많은 정보는 공식 홈페이지(https://t.co/NFtlc2jb0G)에서 확인✅ https://t.co/JS033Jah5T"
+	},
+	{
 		"created_at": "Sat Jul 17 03:29:30 +0000 2021",
 		"id": 1416232420018294800,
 		"id_str": "1416238603232063494",
