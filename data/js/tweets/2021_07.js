@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 17 11:58:23 +0000 2021",
+		"id": 1416366612236542000,
+		"id_str": "1416366667924484098",
+		"full_text": "잠시후 9시부터! 슬픔의 케이팝 파티 궁중음악회가 시작됩니다! 네이버 나우에서 다함께 즐겨요😘\n#슬케파\nhttps://t.co/T43gV7xOm1 https://t.co/ZWjR6KhuBk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬케파",
+					"indices": [
+						53,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T43gV7xOm1",
+					"expanded_url": "https://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1416366188238499800,
+					"id_str": "1416366188238499840",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1416366188238499840/pu/img/W0E3BstbKddW62bS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1416366188238499840/pu/img/W0E3BstbKddW62bS.jpg",
+					"url": "https://t.co/ZWjR6KhuBk",
+					"display_url": "pic.twitter.com/ZWjR6KhuBk",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1416366612236541953/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 336,
+							"h": 504,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 336,
+							"h": 504,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 336,
+							"h": 504,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1416366188238499800,
+					"id_str": "1416366188238499840",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1416366188238499840/pu/img/W0E3BstbKddW62bS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1416366188238499840/pu/img/W0E3BstbKddW62bS.jpg",
+					"url": "https://t.co/ZWjR6KhuBk",
+					"display_url": "pic.twitter.com/ZWjR6KhuBk",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1416366612236541953/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 336,
+							"h": 504,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 336,
+							"h": 504,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 336,
+							"h": 504,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							2,
+							3
+						],
+						"duration_millis": 22100,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1416366188238499840/pu/pl/6gMF4gySNQdKNL3R.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1416366188238499840/pu/vid/336x504/XXzFGYgsKmOPR5yj.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1416366188238499840/pu/vid/320x480/CLRNkr97GBv4NbDx.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/J4jpDKDhWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J4jpDKDhWh",
+							"expanded_url": "https://now.naver.com/player/10256",
+							"display_url": "now.naver.com/player/10256",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7836,
+			"friends_count": 30,
+			"listed_count": 19,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 694,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1031,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시후 9시부터! 슬픔의 케이팝 파티 궁중음악회가 시작됩니다! 네이버 나우에서 다함께 즐겨요😘\n#슬케파\nhttps://t.co/T43gV7xOm1 https://t.co/ZWjR6KhuBk"
+	},
+	{
 		"created_at": "Sat Jul 17 11:11:17 +0000 2021",
 		"id": 1416345846870790100,
 		"id_str": "1416354814804602887",
