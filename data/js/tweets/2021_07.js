@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 17 05:58:17 +0000 2021",
+		"id": 1416275993409429500,
+		"id_str": "1416276049256722434",
+		"full_text": "슬케파 [본방 시청 중 이벤트]\n방송화면을 캡쳐해서 #슬케파 해시태그와 함께 본인의 SNS에 후기를 남겨주시면 추첨을 통해 한 분께는 에어팟프로와 슬케파 굿즈를 세 분께는 배달음식 기프티콘과 슬케파 굿즈를 드립니다 🍋 오늘밤 아홉시 파티 신나게 즐기시고 상품도 받아가세요 🌼 https://t.co/IOpk8NSqXh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬케파",
+					"indices": [
+						29,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1416275987625517000,
+					"id_str": "1416275987625517057",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/E6efgcpVoAEcDhx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6efgcpVoAEcDhx.jpg",
+					"url": "https://t.co/IOpk8NSqXh",
+					"display_url": "pic.twitter.com/IOpk8NSqXh",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1416275993409429504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 794,
+							"h": 794,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 794,
+							"h": 794,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1416275987625517000,
+					"id_str": "1416275987625517057",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/E6efgcpVoAEcDhx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6efgcpVoAEcDhx.jpg",
+					"url": "https://t.co/IOpk8NSqXh",
+					"display_url": "pic.twitter.com/IOpk8NSqXh",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1416275993409429504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 794,
+							"h": 794,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 794,
+							"h": 794,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1416275987600314400,
+					"id_str": "1416275987600314368",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/E6efgcjVEAAjeTX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6efgcjVEAAjeTX.jpg",
+					"url": "https://t.co/IOpk8NSqXh",
+					"display_url": "pic.twitter.com/IOpk8NSqXh",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1416275993409429504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 659,
+							"h": 659,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 659,
+							"h": 659,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 659,
+							"h": 659,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1416275983359897600,
+		"in_reply_to_status_id_str": "1416275983359897601",
+		"in_reply_to_user_id": 729495493080809500,
+		"in_reply_to_user_id_str": "729495493080809473",
+		"in_reply_to_screen_name": "seulpeumkpop",
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/J4jpDKDhWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J4jpDKDhWh",
+							"expanded_url": "https://now.naver.com/player/10256",
+							"display_url": "now.naver.com/player/10256",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7822,
+			"friends_count": 30,
+			"listed_count": 20,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 694,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬케파 [본방 시청 중 이벤트]\n방송화면을 캡쳐해서 #슬케파 해시태그와 함께 본인의 SNS에 후기를 남겨주시면 추첨을 통해 한 분께는 에어팟프로와 슬케파 굿즈를 세 분께는 배달음식 기프티콘과 슬케파 굿즈를 드립니다 🍋 오늘밤 아홉시 파티 신나게 즐기시고 상품도 받아가세요 🌼 https://t.co/IOpk8NSqXh"
+	},
+	{
 		"created_at": "Sat Jul 17 04:29:29 +0000 2021",
 		"id": 1416248890995576800,
 		"id_str": "1416253700063080452",
