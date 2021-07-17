@@ -1,6 +1,169 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 17 03:29:30 +0000 2021",
+		"id": 1416232420018294800,
+		"id_str": "1416238603232063494",
+		"full_text": "정승환 '집에 같이 갈래 (Full band Ver.)\n\nMelon https://t.co/KXBUVBM85h\nGenie https://t.co/AMNtujZg8v\nBugs https://t.co/l7y7GM3MXK\nFLO https://t.co/U7NZdmL1Nu\n\n#정승환 #JungSeungHwan #집에같이갈래 #덴티스테",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정승환",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						155,
+						169
+					]
+				},
+				{
+					"text": "집에같이갈래",
+					"indices": [
+						170,
+						177
+					]
+				},
+				{
+					"text": "덴티스테",
+					"indices": [
+						178,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KXBUVBM85h",
+					"expanded_url": "http://bit.ly/2UTdB26",
+					"display_url": "bit.ly/2UTdB26",
+					"indices": [
+						38,
+						61
+					]
+				},
+				{
+					"url": "https://t.co/AMNtujZg8v",
+					"expanded_url": "http://bit.ly/3BaxJNX",
+					"display_url": "bit.ly/3BaxJNX",
+					"indices": [
+						68,
+						91
+					]
+				},
+				{
+					"url": "https://t.co/l7y7GM3MXK",
+					"expanded_url": "http://bit.ly/3z8cydO",
+					"display_url": "bit.ly/3z8cydO",
+					"indices": [
+						97,
+						120
+					]
+				},
+				{
+					"url": "https://t.co/U7NZdmL1Nu",
+					"expanded_url": "http://bit.ly/3igAULC",
+					"display_url": "bit.ly/3igAULC",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1416232414125252600,
+		"in_reply_to_status_id_str": "1416232414125252608",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / Sam Kim (샘김) Single ‘The Juice’ 2021. 06. 23. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36617,
+			"friends_count": 10,
+			"listed_count": 374,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1623754978",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정승환 '집에 같이 갈래 (Full band Ver.)\n\nMelon https://t.co/KXBUVBM85h\nGenie https://t.co/AMNtujZg8v\nBugs https://t.co/l7y7GM3MXK\nFLO https://t.co/U7NZdmL1Nu\n\n#정승환 #JungSeungHwan #집에같이갈래 #덴티스테"
+	},
+	{
 		"created_at": "Fri Jul 16 16:11:16 +0000 2021",
 		"id": 1416057892789129200,
 		"id_str": "1416067923865702402",
