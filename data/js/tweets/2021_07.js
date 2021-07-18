@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 18 14:11:16 +0000 2021",
+		"id": 1416752512925896700,
+		"id_str": "1416762500272508929",
+		"full_text": "2021년 6월\n\n#patientspunk #steelface\n#얀돌이 #반돌이 https://t.co/w0lLnE0YGi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "patientspunk",
+					"indices": [
+						10,
+						23
+					]
+				},
+				{
+					"text": "steelface",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"text": "얀돌이",
+					"indices": [
+						35,
+						39
+					]
+				},
+				{
+					"text": "반돌이",
+					"indices": [
+						40,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w0lLnE0YGi",
+					"expanded_url": "https://www.instagram.com/p/CReGT8eFKQi/?utm_medium=twitter",
+					"display_url": "instagram.com/p/CReGT8eFKQi/…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144667354,
+			"id_str": "4144667354",
+			"name": "CLUB STEEL FACE",
+			"screen_name": "clubsteelface",
+			"location": "10, Jandari-ro, Mapo-gu, Seoul",
+			"description": "Since 2015, Live Music Venue & Bar in Seoul, Korea(south)",
+			"url": "https://t.co/qNZdtjMBbN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qNZdtjMBbN",
+							"expanded_url": "http://steelface.com",
+							"display_url": "steelface.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 223,
+			"friends_count": 1,
+			"listed_count": 7,
+			"created_at": "Fri Nov 06 09:37:46 +0000 2015",
+			"favourites_count": 483,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144667354/1453393563",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2021년 6월\n\n#patientspunk #steelface\n#얀돌이 #반돌이 https://t.co/w0lLnE0YGi"
+	},
+	{
 		"created_at": "Sun Jul 18 12:00:20 +0000 2021",
 		"id": 1364357335909474300,
 		"id_str": "1416729547265900547",
@@ -64,7 +200,7 @@ Grailbird.data.tweets_2021_07 =
 			"name": "Ambler",
 			"screen_name": "AmblerKR",
 			"location": "ambler@ambler.kr",
-			"description": "Marketer & Creator \n​\n🤘 Music and Performance Lover. \n🚀 I support artists growth. \n⚡ Automation, No-Code, Productivity",
+			"description": "Marketer & Creator \n\n🤘 Music and Performance Lover. \n🚀 I support artists growth. \n⚡ Automation, No-Code, Productivity",
 			"url": "https://t.co/Ewhnensvic",
 			"entities": {
 				"url": {
@@ -206,7 +342,7 @@ Grailbird.data.tweets_2021_07 =
 			"name": "Ambler",
 			"screen_name": "AmblerKR",
 			"location": "ambler@ambler.kr",
-			"description": "Marketer & Creator \n​\n🤘 Music and Performance Lover. \n🚀 I support artists growth. \n⚡ Automation, No-Code, Productivity",
+			"description": "Marketer & Creator \n\n🤘 Music and Performance Lover. \n🚀 I support artists growth. \n⚡ Automation, No-Code, Productivity",
 			"url": "https://t.co/Ewhnensvic",
 			"entities": {
 				"url": {
