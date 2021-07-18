@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 18 05:58:14 +0000 2021",
+		"id": 1416623769221742600,
+		"id_str": "1416638424505851904",
+		"full_text": "💥 KCON:TACT 4 U SHOW / MEET&amp;GREET HIGHLIGHT VIDEO ! 💥\n*Watch the FULL video on the KCON official YouTube channel.\n📎 https://t.co/nJIIvJUnsi\n\n#KCONTACT #KCONTACT4U https://t.co/VIZwxrvXo4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						145,
+						154
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						155,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nJIIvJUnsi",
+					"expanded_url": "https://youtu.be/OSQYBsHMt4k",
+					"display_url": "youtu.be/OSQYBsHMt4k",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1415858341062996000,
+					"id_str": "1415858341062995969",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415858341062995969/pu/img/uIKOEHAEmeI25g2Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415858341062995969/pu/img/uIKOEHAEmeI25g2Y.jpg",
+					"url": "https://t.co/VIZwxrvXo4",
+					"display_url": "pic.twitter.com/VIZwxrvXo4",
+					"expanded_url": "https://twitter.com/KCON_official/status/1416623769221742594/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415858341062996000,
+					"id_str": "1415858341062995969",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1415858341062995969/pu/img/uIKOEHAEmeI25g2Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1415858341062995969/pu/img/uIKOEHAEmeI25g2Y.jpg",
+					"url": "https://t.co/VIZwxrvXo4",
+					"display_url": "pic.twitter.com/VIZwxrvXo4",
+					"expanded_url": "https://twitter.com/KCON_official/status/1416623769221742594/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29830,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1415858341062995969/pu/pl/PoYZ5uzpX9Bdp3ha.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1415858341062995969/pu/vid/480x270/76BtUlAcSfMW-bFq.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1415858341062995969/pu/vid/1280x720/YXnS79p9i4KnDjvv.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1415858341062995969/pu/vid/640x360/5xhh0CqUU3PpQDzx.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 380483,
+			"friends_count": 75,
+			"listed_count": 994,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 613,
+		"favorite_count": 2004,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💥 KCON:TACT 4 U SHOW / MEET&amp;GREET HIGHLIGHT VIDEO ! 💥\n*Watch the FULL video on the KCON official YouTube channel.\n📎 https://t.co/nJIIvJUnsi\n\n#KCONTACT #KCONTACT4U https://t.co/VIZwxrvXo4"
+	},
+	{
 		"created_at": "Sun Jul 18 03:55:09 +0000 2021",
 		"id": 1416607445762314200,
 		"id_str": "1416607445762314240",
