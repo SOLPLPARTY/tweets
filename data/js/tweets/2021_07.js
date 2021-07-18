@@ -1,6 +1,651 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 18 12:00:20 +0000 2021",
+		"id": 1364357335909474300,
+		"id_str": "1416729547265900547",
+		"full_text": "시각장애인, 난독증, 인지장애인 등 다양한 사람들이 화면판독기(Screen Reader)를 통해 음성으로 낭독하는 것을 듣게 되는데 인스타그램 폰트라고 불리는 유니코드 문자 폰트를 사용하면 이를 건너뛰거나 제대로 읽지 못하기 때문. \n\n#접근성 #Accessibility \n#스크린리더 #ScreenReader #화면판독기",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "접근성",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "Accessibility",
+					"indices": [
+						137,
+						151
+					]
+				},
+				{
+					"text": "스크린리더",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "ScreenReader",
+					"indices": [
+						160,
+						173
+					]
+				},
+				{
+					"text": "화면판독기",
+					"indices": [
+						174,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1364357334198198300,
+		"in_reply_to_status_id_str": "1364357334198198274",
+		"in_reply_to_user_id": 1252910486435164200,
+		"in_reply_to_user_id_str": "1252910486435164161",
+		"in_reply_to_screen_name": "AmblerKR",
+		"user": {
+			"id": 1252910486435164200,
+			"id_str": "1252910486435164161",
+			"name": "Ambler",
+			"screen_name": "AmblerKR",
+			"location": "ambler@ambler.kr",
+			"description": "Marketer & Creator \n​\n🤘 Music and Performance Lover. \n🚀 I support artists growth. \n⚡ Automation, No-Code, Productivity",
+			"url": "https://t.co/Ewhnensvic",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ewhnensvic",
+							"expanded_url": "http://ambler.kr",
+							"display_url": "ambler.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52,
+			"friends_count": 32,
+			"listed_count": 2,
+			"created_at": "Wed Apr 22 10:42:04 +0000 2020",
+			"favourites_count": 1622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269999552225873920/4SpDKr1y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269999552225873920/4SpDKr1y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1252910486435164161/1614407560",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "시각장애인, 난독증, 인지장애인 등 다양한 사람들이 화면판독기(Screen Reader)를 통해 음성으로 낭독하는 것을 듣게 되는데 인스타그램 폰트라고 불리는 유니코드 문자 폰트를 사용하면 이를 건너뛰거나 제대로 읽지 못하기 때문. \n\n#접근성 #Accessibility \n#스크린리더 #ScreenReader #화면판독기"
+	},
+	{
+		"created_at": "Sun Jul 18 12:00:15 +0000 2021",
+		"id": 1364357334198198300,
+		"id_str": "1416729528659890181",
+		"full_text": "소셜미디어 SNS 마케팅에서 인스타그램 폰트를 사용하지 않고 사용하지 말라고 하는 이유. 유니코드 문자 폰트를 사용하면 화면판독기(Screen Reader)가 읽기 어렵다. \n\nFancy Fonts, Deco Fonts, Instagram Font 등으로 불림. \n\n#접근성 #Accessibility \n#스크린리더 #ScreenReader #화면판독기 https://t.co/B3q7vihzbp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "접근성",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "Accessibility",
+					"indices": [
+						154,
+						168
+					]
+				},
+				{
+					"text": "스크린리더",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "ScreenReader",
+					"indices": [
+						177,
+						190
+					]
+				},
+				{
+					"text": "화면판독기",
+					"indices": [
+						191,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B3q7vihzbp",
+					"expanded_url": "https://twitter.com/kentcdodds/status/1083073242330361856",
+					"display_url": "twitter.com/kentcdodds/sta…",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1252910486435164200,
+			"id_str": "1252910486435164161",
+			"name": "Ambler",
+			"screen_name": "AmblerKR",
+			"location": "ambler@ambler.kr",
+			"description": "Marketer & Creator \n​\n🤘 Music and Performance Lover. \n🚀 I support artists growth. \n⚡ Automation, No-Code, Productivity",
+			"url": "https://t.co/Ewhnensvic",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ewhnensvic",
+							"expanded_url": "http://ambler.kr",
+							"display_url": "ambler.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52,
+			"friends_count": 32,
+			"listed_count": 2,
+			"created_at": "Wed Apr 22 10:42:04 +0000 2020",
+			"favourites_count": 1622,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269999552225873920/4SpDKr1y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269999552225873920/4SpDKr1y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1252910486435164161/1614407560",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1083073242330361900,
+		"quoted_status_id_str": "1083073242330361856",
+		"quoted_status_permalink": {
+			"url": "https://t.co/B3q7vihzbp",
+			"expanded": "https://twitter.com/kentcdodds/status/1083073242330361856",
+			"display": "twitter.com/kentcdodds/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 09 18:49:18 +0000 2019",
+			"id": 1083073242330361900,
+			"id_str": "1083073242330361856",
+			"full_text": "You 𝘵𝘩𝘪𝘯𝘬 it's 𝒸𝓊𝓉ℯ to 𝘄𝗿𝗶𝘁𝗲 your tweets and usernames 𝖙𝖍𝖎𝖘 𝖜𝖆𝖞. But have you 𝙡𝙞𝙨𝙩𝙚𝙣𝙚𝙙 to what it 𝘴𝘰𝘶𝘯𝘥𝘴 𝘭𝘪𝘬𝘦 with assistive technologies like 𝓥𝓸𝓲𝓬𝓮𝓞𝓿𝓮𝓻? https://t.co/CywCf1b3Lm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				153
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1083073166715498500,
+						"id_str": "1083073166715498496",
+						"indices": [
+							154,
+							177
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1083073166715498496/pu/img/toR7ISMmufQf8COF.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1083073166715498496/pu/img/toR7ISMmufQf8COF.jpg",
+						"url": "https://t.co/CywCf1b3Lm",
+						"display_url": "pic.twitter.com/CywCf1b3Lm",
+						"expanded_url": "https://twitter.com/kentcdodds/status/1083073242330361856/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1000,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 490,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1083073166715498500,
+						"id_str": "1083073166715498496",
+						"indices": [
+							154,
+							177
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1083073166715498496/pu/img/toR7ISMmufQf8COF.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1083073166715498496/pu/img/toR7ISMmufQf8COF.jpg",
+						"url": "https://t.co/CywCf1b3Lm",
+						"display_url": "pic.twitter.com/CywCf1b3Lm",
+						"expanded_url": "https://twitter.com/kentcdodds/status/1083073242330361856/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 1000,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 490,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								25,
+								18
+							],
+							"duration_millis": 77667,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1083073166715498496/pu/pl/y1xwsyS7H4kSNiHv.m3u8?tag=6"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1083073166715498496/pu/vid/1000x720/YuLuvB9FdwdZ_kO_.mp4?tag=6"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1083073166715498496/pu/vid/500x360/IKmg1jZ3EZmYHSnz.mp4?tag=6"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1083073166715498496/pu/vid/250x180/HEbHKr-HlfTtWZXP.mp4?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 389681470,
+				"id_str": "389681470",
+				"name": "Kent C. Dodds",
+				"screen_name": "kentcdodds",
+				"location": "Pleasant Grove, UT",
+				"description": "Improving the world w/ quality software · Husband, Father, Latter-day Saint, Teacher, OSS · https://t.co/BPGwlZKHOo · https://t.co/E1TQ8Ju1OS · Be Kind",
+				"url": "https://t.co/F3SmzPLcfn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/F3SmzPLcfn",
+								"expanded_url": "http://kentcdodds.com",
+								"display_url": "kentcdodds.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/BPGwlZKHOo",
+								"expanded_url": "http://TestingJavaScript.com",
+								"display_url": "TestingJavaScript.com",
+								"indices": [
+									92,
+									115
+								]
+							},
+							{
+								"url": "https://t.co/E1TQ8Ju1OS",
+								"expanded_url": "http://EpicReact.Dev",
+								"display_url": "EpicReact.Dev",
+								"indices": [
+									118,
+									141
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 136765,
+				"friends_count": 108,
+				"listed_count": 2738,
+				"created_at": "Wed Oct 12 20:43:38 +0000 2011",
+				"favourites_count": 173199,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 112608,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDEDED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/759557613445001216/6M2E1l4q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/759557613445001216/6M2E1l4q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/389681470/1573580089",
+				"profile_link_color": "223891",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 37671,
+			"favorite_count": 59355,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 10,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소셜미디어 SNS 마케팅에서 인스타그램 폰트를 사용하지 않고 사용하지 말라고 하는 이유. 유니코드 문자 폰트를 사용하면 화면판독기(Screen Reader)가 읽기 어렵다. \n\nFancy Fonts, Deco Fonts, Instagram Font 등으로 불림. \n\n#접근성 #Accessibility \n#스크린리더 #ScreenReader #화면판독기 https://t.co/B3q7vihzbp"
+	},
+	{
+		"created_at": "Sun Jul 18 11:29:35 +0000 2021",
+		"id": 1416712036214472700,
+		"id_str": "1416721811363045378",
+		"full_text": "곽진언 - 자유롭게\n(출처 : 열린 음악회 | 네이버TV)\n🔗 https://t.co/5Foc9H5lgQ\n\n#곽진언 #KwakJineon #자유롭게",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "곽진언",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "KwakJineon",
+					"indices": [
+						65,
+						76
+					]
+				},
+				{
+					"text": "자유롭게",
+					"indices": [
+						77,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5Foc9H5lgQ",
+					"expanded_url": "http://naver.me/xlWpeIUy",
+					"display_url": "naver.me/xlWpeIUy",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1416710997478314000,
+		"in_reply_to_status_id_str": "1416710997478313987",
+		"in_reply_to_user_id": 387577661,
+		"in_reply_to_user_id_str": "387577661",
+		"in_reply_to_screen_name": "musicfarmkorea",
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/eGHxiArKQw",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eGHxiArKQw",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9053,
+			"friends_count": 5,
+			"listed_count": 108,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 876,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1625475697",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "곽진언 - 자유롭게\n(출처 : 열린 음악회 | 네이버TV)\n🔗 https://t.co/5Foc9H5lgQ\n\n#곽진언 #KwakJineon #자유롭게"
+	},
+	{
 		"created_at": "Sun Jul 18 08:29:48 +0000 2021",
 		"id": 1416669066652094500,
 		"id_str": "1416676565019201536",
