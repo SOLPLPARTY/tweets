@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 19 11:29:38 +0000 2021",
+		"id": 1417077911421476900,
+		"id_str": "1417084209676574720",
+		"full_text": "[Intro] #권진아\n\n권진아 Summer Single 'KNOCK'\nKwon Jin Ah Summer Single 'KNOCK'\n⠀\n💖Intro\n⠀\n2021. 07. 27. 6PM Release\n⠀\n#권진아 #KwonJinAh #KNOCK\n#20210727_6PM https://t.co/plT0Pcet2O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권진아",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						118,
+						128
+					]
+				},
+				{
+					"text": "KNOCK",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "20210727_6PM",
+					"indices": [
+						136,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1417074384129249300,
+					"id_str": "1417074384129249280",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1417074384129249280/pu/img/QY5_EEii7FTICsAz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1417074384129249280/pu/img/QY5_EEii7FTICsAz.jpg",
+					"url": "https://t.co/plT0Pcet2O",
+					"display_url": "pic.twitter.com/plT0Pcet2O",
+					"expanded_url": "https://twitter.com/antennamusic/status/1417077911421476868/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417074384129249300,
+					"id_str": "1417074384129249280",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1417074384129249280/pu/img/QY5_EEii7FTICsAz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1417074384129249280/pu/img/QY5_EEii7FTICsAz.jpg",
+					"url": "https://t.co/plT0Pcet2O",
+					"display_url": "pic.twitter.com/plT0Pcet2O",
+					"expanded_url": "https://twitter.com/antennamusic/status/1417077911421476868/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 15000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1417074384129249280/pu/pl/gW3ED4r_LoPOrvyF.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1417074384129249280/pu/vid/720x1280/ozKx6LaWc7B1jEa6.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1417074384129249280/pu/vid/320x568/TsLGSo-7rGJRQneH.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1417074384129249280/pu/vid/480x852/Oa5SF4q2L1Vm_bsW.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / Sam Kim (샘김) Single ‘The Juice’ 2021. 06. 23. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36654,
+			"friends_count": 10,
+			"listed_count": 375,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1623754978",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 92,
+		"favorite_count": 124,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Intro] #권진아\n\n권진아 Summer Single 'KNOCK'\nKwon Jin Ah Summer Single 'KNOCK'\n⠀\n💖Intro\n⠀\n2021. 07. 27. 6PM Release\n⠀\n#권진아 #KwonJinAh #KNOCK\n#20210727_6PM https://t.co/plT0Pcet2O"
+	},
+	{
 		"created_at": "Mon Jul 19 10:29:27 +0000 2021",
 		"id": 1417061658913038300,
 		"id_str": "1417069062799175682",
