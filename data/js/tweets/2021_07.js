@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 19 10:29:27 +0000 2021",
+		"id": 1417061658913038300,
+		"id_str": "1417069062799175682",
+		"full_text": "[TEASER]\nSURL(설) - 내 옆 TEASER\n\nSURL Single [Beside] will be released on July 22, 12PM(KST)\nSURL 싱글 [내 옆] 2021. 07. 22. 목요일 오후 12시 발매됩니다.\n\n@SURLofficial\n▶https://t.co/X28GQ37CHN\nAnimator &amp; Director by @yangyoongab\n\n#SURL #설 #밴드설 #내옆 #Beside #Colors #210722 https://t.co/l3OWUPDALf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SURL",
+					"indices": [
+						218,
+						223
+					]
+				},
+				{
+					"text": "설",
+					"indices": [
+						224,
+						226
+					]
+				},
+				{
+					"text": "밴드설",
+					"indices": [
+						227,
+						231
+					]
+				},
+				{
+					"text": "내옆",
+					"indices": [
+						232,
+						235
+					]
+				},
+				{
+					"text": "Beside",
+					"indices": [
+						236,
+						243
+					]
+				},
+				{
+					"text": "Colors",
+					"indices": [
+						244,
+						251
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SURLofficial",
+					"name": "SURL",
+					"id": 1007177110077632500,
+					"id_str": "1007177110077632512",
+					"indices": [
+						138,
+						151
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/X28GQ37CHN",
+					"expanded_url": "https://youtu.be/SFKHKSPqZ0I",
+					"display_url": "youtu.be/SFKHKSPqZ0I",
+					"indices": [
+						153,
+						176
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1417016753356382200,
+					"id_str": "1417016753356382217",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/E6pBp9wVEAMkIM2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6pBp9wVEAMkIM2.jpg",
+					"url": "https://t.co/l3OWUPDALf",
+					"display_url": "pic.twitter.com/l3OWUPDALf",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1417061658913038338/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 852,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 852,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417016753356382200,
+					"id_str": "1417016753356382217",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/E6pBp9wVEAMkIM2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6pBp9wVEAMkIM2.jpg",
+					"url": "https://t.co/l3OWUPDALf",
+					"display_url": "pic.twitter.com/l3OWUPDALf",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1417061658913038338/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 852,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 852,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 51700,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1417016753356382217/vid/320x568/Ix4XNxzYfORrhLzU.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1417016753356382217/vid/720x1280/y1KMQCl6Eu7UnuOQ.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1417016753356382217/pl/2Lc5PfJsrQbWQ0K6.m3u8?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1417016753356382217/vid/480x852/QhiYUN9v2_SDE1qy.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), LambC(램씨), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/b6z6U7PUtR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b6z6U7PUtR",
+							"expanded_url": "http://www.happyrobot.co.kr",
+							"display_url": "happyrobot.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13071,
+			"friends_count": 1943,
+			"listed_count": 254,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267287924904611840/mf0XKF0__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1590937317",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[TEASER]\nSURL(설) - 내 옆 TEASER\n\nSURL Single [Beside] will be released on July 22, 12PM(KST)\nSURL 싱글 [내 옆] 2021. 07. 22. 목요일 오후 12시 발매됩니다.\n\n@SURLofficial\n▶https://t.co/X28GQ37CHN\nAnimator &amp; Director by @yangyoongab\n\n#SURL #설 #밴드설 #내옆 #Beside #Colors #210722 https://t.co/l3OWUPDALf"
+	},
+	{
 		"created_at": "Mon Jul 19 09:58:32 +0000 2021",
 		"id": 1417046668462104600,
 		"id_str": "1417061282155581440",
