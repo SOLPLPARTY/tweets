@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 19 12:29:25 +0000 2021",
+		"id": 1417092803046219800,
+		"id_str": "1417099253151903754",
+		"full_text": "[#슬릭X이랑]\n&lt;괄호가 많은 편지&gt; 출간 기념 알라디너 TV 라이브 북토크에 초대합니다!\n\n일시 : 7월 27일 화요일 오후 7시\n링크 : https://t.co/Ta5PbqcZ1l\n\n* 링크를 통해 슬릭과 이랑에게, 혹은 &lt;괄호가 많은 편지&gt;를 읽고 궁금한 점을 남겨주시면 북토크에서 대답해드려요.\n\n#슬릭 #이랑 https://t.co/jgoayuSwJE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬릭X이랑",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "슬릭",
+					"indices": [
+						182,
+						185
+					]
+				},
+				{
+					"text": "이랑",
+					"indices": [
+						186,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ta5PbqcZ1l",
+					"expanded_url": "https://url.kr/sb6yal",
+					"display_url": "url.kr/sb6yal",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1417092796641538000,
+					"id_str": "1417092796641538048",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/E6qGY_WVcAAO2Cm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6qGY_WVcAAO2Cm.jpg",
+					"url": "https://t.co/jgoayuSwJE",
+					"display_url": "pic.twitter.com/jgoayuSwJE",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1417092803046219777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 255,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 450,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417092796641538000,
+					"id_str": "1417092796641538048",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/E6qGY_WVcAAO2Cm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6qGY_WVcAAO2Cm.jpg",
+					"url": "https://t.co/jgoayuSwJE",
+					"display_url": "pic.twitter.com/jgoayuSwJE",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1417092803046219777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 255,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 450,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 (당신의여름)",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타와 함께합니다.",
+			"url": "https://t.co/oHXBW5kYJK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oHXBW5kYJK",
+							"expanded_url": "http://www.instagram.com/yoursummerkr",
+							"display_url": "instagram.com/yoursummerkr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2092,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#슬릭X이랑]\n&lt;괄호가 많은 편지&gt; 출간 기념 알라디너 TV 라이브 북토크에 초대합니다!\n\n일시 : 7월 27일 화요일 오후 7시\n링크 : https://t.co/Ta5PbqcZ1l\n\n* 링크를 통해 슬릭과 이랑에게, 혹은 &lt;괄호가 많은 편지&gt;를 읽고 궁금한 점을 남겨주시면 북토크에서 대답해드려요.\n\n#슬릭 #이랑 https://t.co/jgoayuSwJE"
+	},
+	{
 		"created_at": "Mon Jul 19 11:29:38 +0000 2021",
 		"id": 1417077911421476900,
 		"id_str": "1417084209676574720",
