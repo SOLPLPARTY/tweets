@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 20 01:29:29 +0000 2021",
+		"id": 1417292131119497200,
+		"id_str": "1417295566455853060",
+		"full_text": "한국음악레이블산업협회(음레협) 에서는\n지난 3년 동안 음원 및 공연 활동을 한\n전국의 인디 뮤지션 인구수를 조사 했습니다\n그리고 지난달 인디에 대한 인식을\n대중음악 관계자와 대중에게 설문조사를 진행해온 바 결과를 공개 합니다\n\n추후 2차 조사를 진행하여 인디에 대한 업계 규정을 만들 예정임 https://t.co/uTsDxUheRK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1417292119358673000,
+					"id_str": "1417292119358672924",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/E6s7rGVVkBwKCF_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6s7rGVVkBwKCF_.jpg",
+					"url": "https://t.co/uTsDxUheRK",
+					"display_url": "pic.twitter.com/uTsDxUheRK",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1417292131119497216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417292119358673000,
+					"id_str": "1417292119358672924",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/E6s7rGVVkBwKCF_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6s7rGVVkBwKCF_.jpg",
+					"url": "https://t.co/uTsDxUheRK",
+					"display_url": "pic.twitter.com/uTsDxUheRK",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1417292131119497216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1417292127566925800,
+					"id_str": "1417292127566925831",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/E6s7rk6VkAcYJY0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6s7rk6VkAcYJY0.jpg",
+					"url": "https://t.co/uTsDxUheRK",
+					"display_url": "pic.twitter.com/uTsDxUheRK",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1417292131119497216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2655,
+			"friends_count": 337,
+			"listed_count": 32,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 19783,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "한국음악레이블산업협회(음레협) 에서는\n지난 3년 동안 음원 및 공연 활동을 한\n전국의 인디 뮤지션 인구수를 조사 했습니다\n그리고 지난달 인디에 대한 인식을\n대중음악 관계자와 대중에게 설문조사를 진행해온 바 결과를 공개 합니다\n\n추후 2차 조사를 진행하여 인디에 대한 업계 규정을 만들 예정임 https://t.co/uTsDxUheRK"
+	},
+	{
 		"created_at": "Tue Jul 20 00:29:25 +0000 2021",
 		"id": 1417272589005725700,
 		"id_str": "1417280447273385986",
