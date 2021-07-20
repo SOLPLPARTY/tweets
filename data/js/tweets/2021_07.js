@@ -1,6 +1,1591 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 20 10:15:24 +0000 2021",
+		"id": 1417427914925265000,
+		"id_str": "1417427914925264917",
+		"full_text": "#민트페이퍼 #MINTPAPER\n9천9백평 잔디마당에서 VIP 관객체험 했습니다ㅋ ( 뷰민라 , BML2021 , 올림픽공원 ) [암쏘큐] Ep.13 | 민트페이퍼\nhttps://t.co/Q7mtohKoMJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민트페이퍼",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "MINTPAPER",
+					"indices": [
+						7,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q7mtohKoMJ",
+					"expanded_url": "https://youtu.be/nEZK66Icnm8",
+					"display_url": "youtu.be/nEZK66Icnm8",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 258,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 70895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#민트페이퍼 #MINTPAPER\n9천9백평 잔디마당에서 VIP 관객체험 했습니다ㅋ ( 뷰민라 , BML2021 , 올림픽공원 ) [암쏘큐] Ep.13 | 민트페이퍼\nhttps://t.co/Q7mtohKoMJ"
+	},
+	{
+		"created_at": "Tue Jul 20 09:58:21 +0000 2021",
+		"id": 1417409160128331800,
+		"id_str": "1417423623804145667",
+		"full_text": "#CNBLUE #EVERGLOW #GoldenChild #JO1 #ONF\n#KCONTACT #KCONTACT4U https://t.co/LOY55ELW9q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CNBLUE",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "EVERGLOW",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						18,
+						30
+					]
+				},
+				{
+					"text": "JO1",
+					"indices": [
+						31,
+						35
+					]
+				},
+				{
+					"text": "ONF",
+					"indices": [
+						36,
+						40
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						41,
+						50
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						51,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1417409123205861400,
+					"id_str": "1417409123205861377",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/E6umFnoVUAEkyge.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6umFnoVUAEkyge.jpg",
+					"url": "https://t.co/LOY55ELW9q",
+					"display_url": "pic.twitter.com/LOY55ELW9q",
+					"expanded_url": "https://twitter.com/KCON_official/status/1417409160128331779/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417409123205861400,
+					"id_str": "1417409123205861377",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/E6umFnoVUAEkyge.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6umFnoVUAEkyge.jpg",
+					"url": "https://t.co/LOY55ELW9q",
+					"display_url": "pic.twitter.com/LOY55ELW9q",
+					"expanded_url": "https://twitter.com/KCON_official/status/1417409160128331779/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1417409135369355300,
+					"id_str": "1417409135369355266",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/E6umGU8VgAI0u-l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6umGU8VgAI0u-l.jpg",
+					"url": "https://t.co/LOY55ELW9q",
+					"display_url": "pic.twitter.com/LOY55ELW9q",
+					"expanded_url": "https://twitter.com/KCON_official/status/1417409160128331779/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1417408947661639700,
+		"in_reply_to_status_id_str": "1417408947661639682",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 380777,
+			"friends_count": 75,
+			"listed_count": 995,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 281,
+		"favorite_count": 506,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#CNBLUE #EVERGLOW #GoldenChild #JO1 #ONF\n#KCONTACT #KCONTACT4U https://t.co/LOY55ELW9q"
+	},
+	{
+		"created_at": "Tue Jul 20 09:58:14 +0000 2021",
+		"id": 1417408947661639700,
+		"id_str": "1417423598092947459",
+		"full_text": "KCON:TACT 4 U FanPick Cam &lt;CENTER CAM &amp; ALL CAM&gt; VOD DAY 7 💌\n\n🔗 https://t.co/KIwB10BjyC\n\n*&lt;FanPick Cam VOD&gt; is available to KCON:TACT PREMIUM members.\n*&lt;FanPick Cam VOD&gt;はKCON:TACT PREMIUMのみ視聴可能です。\n*한국 거주자는 티빙에서 시청 가능합니다. https://t.co/1WUcejbPpU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KIwB10BjyC",
+					"expanded_url": "http://bit.ly/KCONTACT4U_VOD",
+					"display_url": "bit.ly/KCONTACT4U_VOD",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1416932784740782000,
+					"id_str": "1416932784740782080",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/E6n03EkUUAAsZXT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6n03EkUUAAsZXT.jpg",
+					"url": "https://t.co/1WUcejbPpU",
+					"display_url": "pic.twitter.com/1WUcejbPpU",
+					"expanded_url": "https://twitter.com/KCON_official/status/1417408947661639682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1416932784740782000,
+					"id_str": "1416932784740782080",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/E6n03EkUUAAsZXT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6n03EkUUAAsZXT.jpg",
+					"url": "https://t.co/1WUcejbPpU",
+					"display_url": "pic.twitter.com/1WUcejbPpU",
+					"expanded_url": "https://twitter.com/KCON_official/status/1417408947661639682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1416932796501684200,
+					"id_str": "1416932796501684227",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/E6n03wYVcAM5kIP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6n03wYVcAM5kIP.jpg",
+					"url": "https://t.co/1WUcejbPpU",
+					"display_url": "pic.twitter.com/1WUcejbPpU",
+					"expanded_url": "https://twitter.com/KCON_official/status/1417408947661639682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1416932808652583000,
+					"id_str": "1416932808652582915",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/E6n04dpVcAM8fKI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6n04dpVcAM8fKI.jpg",
+					"url": "https://t.co/1WUcejbPpU",
+					"display_url": "pic.twitter.com/1WUcejbPpU",
+					"expanded_url": "https://twitter.com/KCON_official/status/1417408947661639682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 380777,
+			"friends_count": 75,
+			"listed_count": 995,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 183,
+		"favorite_count": 362,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "KCON:TACT 4 U FanPick Cam &lt;CENTER CAM &amp; ALL CAM&gt; VOD DAY 7 💌\n\n🔗 https://t.co/KIwB10BjyC\n\n*&lt;FanPick Cam VOD&gt; is available to KCON:TACT PREMIUM members.\n*&lt;FanPick Cam VOD&gt;はKCON:TACT PREMIUMのみ視聴可能です。\n*한국 거주자는 티빙에서 시청 가능합니다. https://t.co/1WUcejbPpU"
+	},
+	{
+		"created_at": "Tue Jul 20 09:29:43 +0000 2021",
+		"id": 1417408944562000000,
+		"id_str": "1417416420389015565",
+		"full_text": "JTBC 비긴어게인 오픈마이크 EPISODE. 14 를 통해 카더가든과 정인이 함께 부른 [Little By Little]이 음원으로 발매되었습니다. https://t.co/zycjsAicSr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1417401860856553500,
+					"id_str": "1417401860856553475",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/E6ufe5RVIAMfSKT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6ufe5RVIAMfSKT.jpg",
+					"url": "https://t.co/zycjsAicSr",
+					"display_url": "pic.twitter.com/zycjsAicSr",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1417408944561999874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417401860856553500,
+					"id_str": "1417401860856553475",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/E6ufe5RVIAMfSKT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6ufe5RVIAMfSKT.jpg",
+					"url": "https://t.co/zycjsAicSr",
+					"display_url": "pic.twitter.com/zycjsAicSr",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1417408944561999874/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3916,
+			"friends_count": 8,
+			"listed_count": 85,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "JTBC 비긴어게인 오픈마이크 EPISODE. 14 를 통해 카더가든과 정인이 함께 부른 [Little By Little]이 음원으로 발매되었습니다. https://t.co/zycjsAicSr"
+	},
+	{
+		"created_at": "Tue Jul 20 09:29:41 +0000 2021",
+		"id": 1417408940350922800,
+		"id_str": "1417416411526451207",
+		"full_text": "[#정인] 비긴어게인 오픈마이크 EPISODE. 14 발매🎧\n\nTrack 01. 오르막길 - 정인\nTrack 02. Little by Little - 카더가든, 정인\n\n선물같은 정인의 목소리는 지금 바로 각종 음원 사이트에서✅\n\n#JUNGIN #비긴어게인 #오픈마이크 #오르막길 #Little_by_Little https://t.co/2hY7dW0u01",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정인",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "JUNGIN",
+					"indices": [
+						128,
+						135
+					]
+				},
+				{
+					"text": "비긴어게인",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "오픈마이크",
+					"indices": [
+						143,
+						149
+					]
+				},
+				{
+					"text": "오르막길",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "Little_by_Little",
+					"indices": [
+						156,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1417377217995104300,
+					"id_str": "1417377217995104257",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/E6uJEfdUYAEUXjp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6uJEfdUYAEUXjp.jpg",
+					"url": "https://t.co/2hY7dW0u01",
+					"display_url": "pic.twitter.com/2hY7dW0u01",
+					"expanded_url": "https://twitter.com/themysticstory/status/1417408940350922755/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417377217995104300,
+					"id_str": "1417377217995104257",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/E6uJEfdUYAEUXjp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6uJEfdUYAEUXjp.jpg",
+					"url": "https://t.co/2hY7dW0u01",
+					"display_url": "pic.twitter.com/2hY7dW0u01",
+					"expanded_url": "https://twitter.com/themysticstory/status/1417408940350922755/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21283,
+			"friends_count": 17,
+			"listed_count": 235,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#정인] 비긴어게인 오픈마이크 EPISODE. 14 발매🎧\n\nTrack 01. 오르막길 - 정인\nTrack 02. Little by Little - 카더가든, 정인\n\n선물같은 정인의 목소리는 지금 바로 각종 음원 사이트에서✅\n\n#JUNGIN #비긴어게인 #오픈마이크 #오르막길 #Little_by_Little https://t.co/2hY7dW0u01"
+	},
+	{
+		"created_at": "Tue Jul 20 09:29:35 +0000 2021",
+		"id": 1417403663119622100,
+		"id_str": "1417416385882468352",
+		"full_text": "&lt;공연 정보&gt;\n- 출연팀 : 9와숫자들, 노모밴드, 아미마\n- 일시 : 2021년 8월 7일(토) 오후 6시\n- 장소 : 톤스튜디오 A-HALL (서울 성산동)\n\n@9andthenumbers #9와숫자들 #온라인콘서트 #톤스튜디오",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "9와숫자들",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "온라인콘서트",
+					"indices": [
+						120,
+						127
+					]
+				},
+				{
+					"text": "톤스튜디오",
+					"indices": [
+						128,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "9andthenumbers",
+					"name": "9와 숫자들",
+					"id": 118578410,
+					"id_str": "118578410",
+					"indices": [
+						97,
+						112
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1417403659709677600,
+		"in_reply_to_status_id_str": "1417403659709677569",
+		"in_reply_to_user_id": 52109991,
+		"in_reply_to_user_id_str": "52109991",
+		"in_reply_to_screen_name": "orm_ent",
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 724,
+			"friends_count": 324,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1624418145",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "&lt;공연 정보&gt;\n- 출연팀 : 9와숫자들, 노모밴드, 아미마\n- 일시 : 2021년 8월 7일(토) 오후 6시\n- 장소 : 톤스튜디오 A-HALL (서울 성산동)\n\n@9andthenumbers #9와숫자들 #온라인콘서트 #톤스튜디오"
+	},
+	{
+		"created_at": "Tue Jul 20 09:29:31 +0000 2021",
+		"id": 1417403659709677600,
+		"id_str": "1417416368677326849",
+		"full_text": "'9와 숫자들과 함께 하는 울산음악창작소 온라인 콘서트'의 예매가 이번주 토요일 24일 마감 됩니다.\n9와 숫자들의 톤스튜디오 공연을 편안하게 온라인으로 관람 하세요!\n-\n소량의 오프라인 티켓도 남아있습니다.\n예매 바로가기: https://t.co/5d4IHSzt6y https://t.co/iuY3x59n4v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5d4IHSzt6y",
+					"expanded_url": "http://www.soundfriends.com/detail.php?number=464",
+					"display_url": "soundfriends.com/detail.php?num…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1417403558903746600,
+					"id_str": "1417403558903746565",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1417403558903746565/pu/img/id155zqBBhCmya5j.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1417403558903746565/pu/img/id155zqBBhCmya5j.jpg",
+					"url": "https://t.co/iuY3x59n4v",
+					"display_url": "pic.twitter.com/iuY3x59n4v",
+					"expanded_url": "https://twitter.com/orm_ent/status/1417403659709677569/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417403558903746600,
+					"id_str": "1417403558903746565",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1417403558903746565/pu/img/id155zqBBhCmya5j.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1417403558903746565/pu/img/id155zqBBhCmya5j.jpg",
+					"url": "https://t.co/iuY3x59n4v",
+					"display_url": "pic.twitter.com/iuY3x59n4v",
+					"expanded_url": "https://twitter.com/orm_ent/status/1417403659709677569/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 38800,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1417403558903746565/pu/pl/kH2IXcEVkYPYISXe.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1417403558903746565/pu/vid/480x270/H_WjCwgxaYG1aH0i.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1417403558903746565/pu/vid/640x360/xs3UGIJ40APDN3Vy.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1417403558903746565/pu/vid/1280x720/A_TIITDCVSHZihlZ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 724,
+			"friends_count": 324,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1624418145",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'9와 숫자들과 함께 하는 울산음악창작소 온라인 콘서트'의 예매가 이번주 토요일 24일 마감 됩니다.\n9와 숫자들의 톤스튜디오 공연을 편안하게 온라인으로 관람 하세요!\n-\n소량의 오프라인 티켓도 남아있습니다.\n예매 바로가기: https://t.co/5d4IHSzt6y https://t.co/iuY3x59n4v"
+	},
+	{
+		"created_at": "Tue Jul 20 09:29:27 +0000 2021",
+		"id": 1417401984865366000,
+		"id_str": "1417416351451385856",
+		"full_text": "술과 안주 추천 받읍니다. 아 내일 뭐 먹지?\n\n#손님포차 #박소은 #박손님 #박손장 #손원들모여라 #스페셜게스트 #유정목 #9와숫자들 #안주추천 #술도추천받아요 #유튜브라이브 #생방송 #유어썸머",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손님포차",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"text": "박소은",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "박손님",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "박손장",
+					"indices": [
+						43,
+						47
+					]
+				},
+				{
+					"text": "손원들모여라",
+					"indices": [
+						48,
+						55
+					]
+				},
+				{
+					"text": "스페셜게스트",
+					"indices": [
+						56,
+						63
+					]
+				},
+				{
+					"text": "유정목",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "9와숫자들",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "안주추천",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "술도추천받아요",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"text": "유튜브라이브",
+					"indices": [
+						91,
+						98
+					]
+				},
+				{
+					"text": "생방송",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "유어썸머",
+					"indices": [
+						104,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1417401967098298400,
+		"in_reply_to_status_id_str": "1417401967098298371",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 (당신의여름)",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타와 함께합니다.",
+			"url": "https://t.co/oHXBW5kYJK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oHXBW5kYJK",
+							"expanded_url": "http://www.instagram.com/yoursummerkr",
+							"display_url": "instagram.com/yoursummerkr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2092,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5317,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "술과 안주 추천 받읍니다. 아 내일 뭐 먹지?\n\n#손님포차 #박소은 #박손님 #박손장 #손원들모여라 #스페셜게스트 #유정목 #9와숫자들 #안주추천 #술도추천받아요 #유튜브라이브 #생방송 #유어썸머"
+	},
+	{
 		"created_at": "Tue Jul 20 09:13:40 +0000 2021",
 		"id": 1417412378946424800,
 		"id_str": "1417412378946424854",
