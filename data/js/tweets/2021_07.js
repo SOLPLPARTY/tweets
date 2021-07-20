@@ -1,6 +1,554 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 20 05:58:15 +0000 2021",
+		"id": 1417348542671245300,
+		"id_str": "1417363201306546177",
+		"full_text": "💥KCON:TACT 4 U ON AIR STREAMING July 22nd at 16:00 (KST) 💥\nYou can watch it on YouTube KCON official channel.\nYouTube KCON officialチャンネルで鑑賞することができます。\n\n* 한국 거주자는 유튜브를 통한 시청이 제한될 수 있습니다.\n\n#KCONTACT #KCONTACT4U https://t.co/2eMFEH8Ayu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						186,
+						195
+					]
+				},
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						196,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1417056161329651700,
+					"id_str": "1417056161329651713",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/E6plEiLVIAEenkA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6plEiLVIAEenkA.jpg",
+					"url": "https://t.co/2eMFEH8Ayu",
+					"display_url": "pic.twitter.com/2eMFEH8Ayu",
+					"expanded_url": "https://twitter.com/KCON_official/status/1417348542671245321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417056161329651700,
+					"id_str": "1417056161329651713",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/E6plEiLVIAEenkA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6plEiLVIAEenkA.jpg",
+					"url": "https://t.co/2eMFEH8Ayu",
+					"display_url": "pic.twitter.com/2eMFEH8Ayu",
+					"expanded_url": "https://twitter.com/KCON_official/status/1417348542671245321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 380737,
+			"friends_count": 75,
+			"listed_count": 996,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 149,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "💥KCON:TACT 4 U ON AIR STREAMING July 22nd at 16:00 (KST) 💥\nYou can watch it on YouTube KCON official channel.\nYouTube KCON officialチャンネルで鑑賞することができます。\n\n* 한국 거주자는 유튜브를 통한 시청이 제한될 수 있습니다.\n\n#KCONTACT #KCONTACT4U https://t.co/2eMFEH8Ayu"
+	},
+	{
+		"created_at": "Tue Jul 20 05:29:35 +0000 2021",
+		"id": 1417354211621146600,
+		"id_str": "1417355987275632656",
+		"full_text": "전세계 인디씬의 친구, Bandcamp Daily에 드링킹소년소녀합창단의 2집 \"Marriage License\" 기사가 게재되었습니다. \"Marriage License\"는 내일 정오 발매🍻🍻🍻\n\nBIG thanks to James Gui who chatted to \n@BandDBGC\n   about their new album for this excellent \n@Bandcamp\n Daily feature. ❤️❤️❤️ https://t.co/zb9POSO5tg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BandDBGC",
+					"name": "드링킹소년소녀합창단 Drinking Boys and Girls Choir Official",
+					"id": 944548838731157500,
+					"id_str": "944548838731157506",
+					"indices": [
+						149,
+						158
+					]
+				},
+				{
+					"screen_name": "Bandcamp",
+					"name": "bandcamp",
+					"id": 16705752,
+					"id_str": "16705752",
+					"indices": [
+						204,
+						213
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zb9POSO5tg",
+					"expanded_url": "https://twitter.com/Bandcamp/status/1417152822316044295",
+					"display_url": "twitter.com/Bandcamp/statu…",
+					"indices": [
+						237,
+						260
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3344,
+			"friends_count": 1299,
+			"listed_count": 106,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 5815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1417152822316044300,
+		"quoted_status_id_str": "1417152822316044295",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zb9POSO5tg",
+			"expanded": "https://twitter.com/Bandcamp/status/1417152822316044295",
+			"display": "twitter.com/Bandcamp/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 19 16:02:16 +0000 2021",
+			"id": 1417152822316044300,
+			"id_str": "1417152822316044295",
+			"full_text": "On \"Marriage Licence,\" DBGC channel their frustration into a collection of melodic punk rippers. https://t.co/OJvfRxDDmL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				120
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OJvfRxDDmL",
+						"expanded_url": "https://daily.bandcamp.com/features/drinking-boys-and-girls-choir-marriage-licence-interview",
+						"display_url": "daily.bandcamp.com/features/drink…",
+						"indices": [
+							97,
+							120
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16705752,
+				"id_str": "16705752",
+				"name": "bandcamp",
+				"screen_name": "Bandcamp",
+				"location": "",
+				"description": "Bandcamp is an online record store and music community where passionate fans connect with and directly support the artists they love.",
+				"url": "https://t.co/m3s52jmo0n",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/m3s52jmo0n",
+								"expanded_url": "http://bandcamp.com",
+								"display_url": "bandcamp.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 181435,
+				"friends_count": 346,
+				"listed_count": 3032,
+				"created_at": "Sun Oct 12 07:27:04 +0000 2008",
+				"favourites_count": 9501,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 29502,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F6F6F6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1108067366343270402/_sA2eYRA_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1108067366343270402/_sA2eYRA_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16705752/1553018855",
+				"profile_link_color": "1DA0C3",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "전세계 인디씬의 친구, Bandcamp Daily에 드링킹소년소녀합창단의 2집 \"Marriage License\" 기사가 게재되었습니다. \"Marriage License\"는 내일 정오 발매🍻🍻🍻\n\nBIG thanks to James Gui who chatted to \n@BandDBGC\n   about their new album for this excellent \n@Bandcamp\n Daily feature. ❤️❤️❤️ https://t.co/zb9POSO5tg"
+	},
+	{
+		"created_at": "Tue Jul 20 05:29:31 +0000 2021",
+		"id": 1417350163018883000,
+		"id_str": "1417355969986801664",
+		"full_text": "[News]\n\n킬러스가 지난해에 이어 또 정규 앨범 발매를 예고했습니다. 거장들의 활동이 왕성한 2021년입니다.\nhttps://t.co/rp2m9XVdo4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rp2m9XVdo4",
+					"expanded_url": "http://www.highjinkxmm.com/news/the-killers-pressure-machine",
+					"display_url": "highjinkxmm.com/news/the-kille…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/P2V4wFkAko",
+			"url": "https://t.co/oAPJfxeB46",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAPJfxeB46",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P2V4wFkAko",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 417,
+			"friends_count": 20,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 533,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[News]\n\n킬러스가 지난해에 이어 또 정규 앨범 발매를 예고했습니다. 거장들의 활동이 왕성한 2021년입니다.\nhttps://t.co/rp2m9XVdo4"
+	},
+	{
 		"created_at": "Tue Jul 20 04:11:17 +0000 2021",
 		"id": 1417324306179055600,
 		"id_str": "1417336282628378633",
