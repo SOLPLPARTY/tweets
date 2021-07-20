@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 20 13:29:25 +0000 2021",
+		"id": 1417468332333179000,
+		"id_str": "1417476740348321793",
+		"full_text": "윤지영, 일본 매거진 &lt;뽀빠이&gt;에 등장!🧚\n\n윤지영이 일본의 패션 매거진 &lt;POPEYE&gt;에 소개되었습니다. 홍대 거리, 작업실에서의 편안한 모습과 함께 그의 음악에 대한 인터뷰가 함께 실리게 되었는데요. 더 많은 사진과 내용 전문은 &lt;POPEYE&gt; 8월호에서 만나보실 수 있습니다!☀️\n\n#윤지영 #뽀빠이매거진 https://t.co/xCJiwPNbGD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤지영",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "뽀빠이매거진",
+					"indices": [
+						184,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1417468304394899500,
+					"id_str": "1417468304394899461",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/E6vb6avVUAUFQp4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6vb6avVUAUFQp4.jpg",
+					"url": "https://t.co/xCJiwPNbGD",
+					"display_url": "pic.twitter.com/xCJiwPNbGD",
+					"expanded_url": "https://twitter.com/msbsound/status/1417468332333178883/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1198,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 962,
+							"h": 1198,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417468304394899500,
+					"id_str": "1417468304394899461",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/E6vb6avVUAUFQp4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6vb6avVUAUFQp4.jpg",
+					"url": "https://t.co/xCJiwPNbGD",
+					"display_url": "pic.twitter.com/xCJiwPNbGD",
+					"expanded_url": "https://twitter.com/msbsound/status/1417468332333178883/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 546,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 962,
+							"h": 1198,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 962,
+							"h": 1198,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드 MAGIC STRAWBERRY SOUND / Music label based in Korea",
+			"url": "https://t.co/2ZpTkk9tMw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2ZpTkk9tMw",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8528,
+			"friends_count": 19,
+			"listed_count": 100,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 95,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1597394894",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "윤지영, 일본 매거진 &lt;뽀빠이&gt;에 등장!🧚\n\n윤지영이 일본의 패션 매거진 &lt;POPEYE&gt;에 소개되었습니다. 홍대 거리, 작업실에서의 편안한 모습과 함께 그의 음악에 대한 인터뷰가 함께 실리게 되었는데요. 더 많은 사진과 내용 전문은 &lt;POPEYE&gt; 8월호에서 만나보실 수 있습니다!☀️\n\n#윤지영 #뽀빠이매거진 https://t.co/xCJiwPNbGD"
+	},
+	{
 		"created_at": "Tue Jul 20 12:29:25 +0000 2021",
 		"id": 1417447314570973200,
 		"id_str": "1417461641160151050",
