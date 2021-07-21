@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 21 05:29:32 +0000 2021",
+		"id": 1417711732638720000,
+		"id_str": "1417718361891475460",
+		"full_text": "[#정진운] 네이버 NOW. 응수CINE 출연✔\n정진운 주연 영화 '나만 보이니' 개봉 D-DAY🎉\n잠시 후 오후 3시, 응수씨네에서 함께 이야기 나눠요😍\n🔗https://t.co/7t5v0eLILm\n\n#정진운 #Jinwoon #영화 #나만보이니 #장근 #개봉 #네이버나우 #NOW #응수CINE #응수씨네 https://t.co/A7LeQZyS7T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정진운",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "정진운",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "Jinwoon",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"text": "영화",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "나만보이니",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "장근",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "개봉",
+					"indices": [
+						142,
+						145
+					]
+				},
+				{
+					"text": "네이버나우",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "NOW",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "응수CINE",
+					"indices": [
+						158,
+						165
+					]
+				},
+				{
+					"text": "응수씨네",
+					"indices": [
+						166,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7t5v0eLILm",
+					"expanded_url": "https://now.naver.com/player/766",
+					"display_url": "now.naver.com/player/766",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1417711707397386200,
+					"id_str": "1417711707397386242",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/E6y5SVlVcAIPi5o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6y5SVlVcAIPi5o.jpg",
+					"url": "https://t.co/A7LeQZyS7T",
+					"display_url": "pic.twitter.com/A7LeQZyS7T",
+					"expanded_url": "https://twitter.com/themysticstory/status/1417711732638720002/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417711707397386200,
+					"id_str": "1417711707397386242",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/E6y5SVlVcAIPi5o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6y5SVlVcAIPi5o.jpg",
+					"url": "https://t.co/A7LeQZyS7T",
+					"display_url": "pic.twitter.com/A7LeQZyS7T",
+					"expanded_url": "https://twitter.com/themysticstory/status/1417711732638720002/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21275,
+			"friends_count": 17,
+			"listed_count": 235,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#정진운] 네이버 NOW. 응수CINE 출연✔\n정진운 주연 영화 '나만 보이니' 개봉 D-DAY🎉\n잠시 후 오후 3시, 응수씨네에서 함께 이야기 나눠요😍\n🔗https://t.co/7t5v0eLILm\n\n#정진운 #Jinwoon #영화 #나만보이니 #장근 #개봉 #네이버나우 #NOW #응수CINE #응수씨네 https://t.co/A7LeQZyS7T"
+	},
+	{
 		"created_at": "Wed Jul 21 04:29:25 +0000 2021",
 		"id": 1417703198148554800,
 		"id_str": "1417703232986619909",
