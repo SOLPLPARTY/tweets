@@ -1,6 +1,853 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 21 04:11:16 +0000 2021",
+		"id": 1417691615129313300,
+		"id_str": "1417698668887650304",
+		"full_text": "벌써 8차 재입고가 된 공상온도의 베스트셀러 &lt;생각이 방 안들 돌아다녀&gt; 소식입니다! 또 품절되기 전에 어서 공상온도에서 GET 하세요!\n.\nhttps://t.co/d7i5lMqQTc\n. https://t.co/oxCjrm5YvQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7i5lMqQTc",
+					"expanded_url": "http://www.gongsangondo.com",
+					"display_url": "gongsangondo.com",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1417691609433477000,
+					"id_str": "1417691609433477122",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/E6ynAe1VkAIqcgC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6ynAe1VkAIqcgC.jpg",
+					"url": "https://t.co/oxCjrm5YvQ",
+					"display_url": "pic.twitter.com/oxCjrm5YvQ",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1417691615129313282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417691609433477000,
+					"id_str": "1417691609433477122",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/E6ynAe1VkAIqcgC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6ynAe1VkAIqcgC.jpg",
+					"url": "https://t.co/oxCjrm5YvQ",
+					"display_url": "pic.twitter.com/oxCjrm5YvQ",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1417691615129313282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 377,
+			"friends_count": 207,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "벌써 8차 재입고가 된 공상온도의 베스트셀러 &lt;생각이 방 안들 돌아다녀&gt; 소식입니다! 또 품절되기 전에 어서 공상온도에서 GET 하세요!\n.\nhttps://t.co/d7i5lMqQTc\n. https://t.co/oxCjrm5YvQ"
+	},
+	{
+		"created_at": "Wed Jul 21 03:29:52 +0000 2021",
+		"id": 1417687609116037000,
+		"id_str": "1417688247648534531",
+		"full_text": "&lt;𝐭𝐫𝐚𝐜𝐤𝐥𝐢𝐬𝐭𝐢𝐧𝐠&gt;\n🪐\n𝐇𝐢𝐠𝐡𝐞𝐫 𝐏𝐨𝐰𝐞𝐫\n𝐇𝐮𝐦𝐚𝐧𝐤𝐢𝐧𝐝\n✨\n𝐋𝐞𝐭 𝐒𝐨𝐦𝐞𝐛𝐨𝐝𝐲 𝐆𝐨\n❤️\n𝐏𝐞𝐨𝐩𝐥𝐞 𝐎𝐟 𝐓𝐡𝐞 𝐏𝐫𝐢𝐝𝐞\n𝐁𝐢𝐮𝐭𝐲𝐟𝐮𝐥\n🌎\n𝐌𝐲 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐞\n♾️\n𝐂𝐨𝐥𝐨𝐫𝐚𝐭𝐮𝐫𝐚",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1417687588500951000,
+		"in_reply_to_status_id_str": "1417687588500951044",
+		"in_reply_to_user_id": 206117108,
+		"in_reply_to_user_id_str": "206117108",
+		"in_reply_to_screen_name": "Warner_Music_Kr",
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51583,
+			"friends_count": 496,
+			"listed_count": 192,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "&lt;𝐭𝐫𝐚𝐜𝐤𝐥𝐢𝐬𝐭𝐢𝐧𝐠&gt;\n🪐\n𝐇𝐢𝐠𝐡𝐞𝐫 𝐏𝐨𝐰𝐞𝐫\n𝐇𝐮𝐦𝐚𝐧𝐤𝐢𝐧𝐝\n✨\n𝐋𝐞𝐭 𝐒𝐨𝐦𝐞𝐛𝐨𝐝𝐲 𝐆𝐨\n❤️\n𝐏𝐞𝐨𝐩𝐥𝐞 𝐎𝐟 𝐓𝐡𝐞 𝐏𝐫𝐢𝐝𝐞\n𝐁𝐢𝐮𝐭𝐲𝐟𝐮𝐥\n🌎\n𝐌𝐲 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐞\n♾️\n𝐂𝐨𝐥𝐨𝐫𝐚𝐭𝐮𝐫𝐚"
+	},
+	{
+		"created_at": "Wed Jul 21 03:29:47 +0000 2021",
+		"id": 1417687588500951000,
+		"id_str": "1417688226089906178",
+		"full_text": "🌌#콜드플레이 #새앨범 [𝐌𝐮𝐬𝐢𝐜 𝐎𝐟 𝐓𝐡𝐞 𝐒𝐩𝐡𝐞𝐫𝐞𝐬]\n📆2021년 10월 15일 발매 예정🙌 https://t.co/w3Cuo0hYmx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "콜드플레이",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "새앨범",
+					"indices": [
+						8,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1417687199605162000,
+					"id_str": "1417687199605161991",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/E6yi_y8VgAcrsWw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6yi_y8VgAcrsWw.jpg",
+					"url": "https://t.co/w3Cuo0hYmx",
+					"display_url": "pic.twitter.com/w3Cuo0hYmx",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1417687588500951044/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417687199605162000,
+					"id_str": "1417687199605161991",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/E6yi_y8VgAcrsWw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6yi_y8VgAcrsWw.jpg",
+					"url": "https://t.co/w3Cuo0hYmx",
+					"display_url": "pic.twitter.com/w3Cuo0hYmx",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1417687588500951044/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51583,
+			"friends_count": 496,
+			"listed_count": 192,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌌#콜드플레이 #새앨범 [𝐌𝐮𝐬𝐢𝐜 𝐎𝐟 𝐓𝐡𝐞 𝐒𝐩𝐡𝐞𝐫𝐞𝐬]\n📆2021년 10월 15일 발매 예정🙌 https://t.co/w3Cuo0hYmx"
+	},
+	{
+		"created_at": "Wed Jul 21 03:29:42 +0000 2021",
+		"id": 1417684466189799400,
+		"id_str": "1417688204602445824",
+		"full_text": "💿📀💿[Marriage License] CD 판매!!\n향뮤직 https://t.co/pI3wMlKd6m\n예스24 https://t.co/9MCWkiG1sd\n알라딘 https://t.co/Pfi767x6La\n핫트랙스 https://t.co/lPU56OjhA2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pI3wMlKd6m",
+					"expanded_url": "https://url.kr/q58zs4",
+					"display_url": "url.kr/q58zs4",
+					"indices": [
+						34,
+						57
+					]
+				},
+				{
+					"url": "https://t.co/9MCWkiG1sd",
+					"expanded_url": "https://bit.ly/3hwwkJO",
+					"display_url": "bit.ly/3hwwkJO",
+					"indices": [
+						63,
+						86
+					]
+				},
+				{
+					"url": "https://t.co/Pfi767x6La",
+					"expanded_url": "https://bit.ly/3kbEGIy",
+					"display_url": "bit.ly/3kbEGIy",
+					"indices": [
+						91,
+						114
+					]
+				},
+				{
+					"url": "https://t.co/lPU56OjhA2",
+					"expanded_url": "https://bit.ly/2UFIk2G",
+					"display_url": "bit.ly/2UFIk2G",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1417684464914690000,
+		"in_reply_to_status_id_str": "1417684464914690050",
+		"in_reply_to_user_id": 49219598,
+		"in_reply_to_user_id_str": "49219598",
+		"in_reply_to_screen_name": "electric_muse",
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3344,
+			"friends_count": 1299,
+			"listed_count": 0,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 5820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25581,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿📀💿[Marriage License] CD 판매!!\n향뮤직 https://t.co/pI3wMlKd6m\n예스24 https://t.co/9MCWkiG1sd\n알라딘 https://t.co/Pfi767x6La\n핫트랙스 https://t.co/lPU56OjhA2"
+	},
+	{
+		"created_at": "Wed Jul 21 03:29:34 +0000 2021",
+		"id": 1417684464914690000,
+		"id_str": "1417688174655049735",
+		"full_text": "🍺🍻🍺🍻드링킹소년소녀합창단 [Marriage License] 발매 콘서트 \n예매 (Ticket) https://t.co/QCZXF9uKyk\n\n서울 : 7월24일 (토) 19시 프리즘홀 (게스트 : 빌리카터 )\n대구 : 8월 7일 (토) 19시 클럽헤비 (게스트:에고펑션에러)\nBancdcamp Live : July 31st PM8(CEST, GMT+2)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QCZXF9uKyk",
+					"expanded_url": "https://linktr.ee/band.dbgc",
+					"display_url": "linktr.ee/band.dbgc",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1417684463501254700,
+		"in_reply_to_status_id_str": "1417684463501254660",
+		"in_reply_to_user_id": 49219598,
+		"in_reply_to_user_id_str": "49219598",
+		"in_reply_to_screen_name": "electric_muse",
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3344,
+			"friends_count": 1299,
+			"listed_count": 0,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 5820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25581,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🍺🍻🍺🍻드링킹소년소녀합창단 [Marriage License] 발매 콘서트 \n예매 (Ticket) https://t.co/QCZXF9uKyk\n\n서울 : 7월24일 (토) 19시 프리즘홀 (게스트 : 빌리카터 )\n대구 : 8월 7일 (토) 19시 클럽헤비 (게스트:에고펑션에러)\nBancdcamp Live : July 31st PM8(CEST, GMT+2)"
+	},
+	{
+		"created_at": "Wed Jul 21 03:29:31 +0000 2021",
+		"id": 1417684463501254700,
+		"id_str": "1417688161631809537",
+		"full_text": "스포티파이 https://t.co/BNrtP3GjC0\n애플뮤직 https://t.co/7FKLVohlVF\n멜론 https://t.co/mWjeeBIsDC\n지니 https://t.co/UUKXQeFN09\n벅스 https://t.co/6gSL9hEpM6\n플로 https://t.co/aw2DZGQhbS\n바이브 https://t.co/1FsVbWwOjC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BNrtP3GjC0",
+					"expanded_url": "https://spoti.fi/3hSSJBt",
+					"display_url": "spoti.fi/3hSSJBt",
+					"indices": [
+						6,
+						29
+					]
+				},
+				{
+					"url": "https://t.co/7FKLVohlVF",
+					"expanded_url": "https://apple.co/36Saj1U",
+					"display_url": "apple.co/36Saj1U",
+					"indices": [
+						35,
+						58
+					]
+				},
+				{
+					"url": "https://t.co/mWjeeBIsDC",
+					"expanded_url": "https://bit.ly/36N4NgX",
+					"display_url": "bit.ly/36N4NgX",
+					"indices": [
+						62,
+						85
+					]
+				},
+				{
+					"url": "https://t.co/UUKXQeFN09",
+					"expanded_url": "https://bit.ly/3xWbA3V",
+					"display_url": "bit.ly/3xWbA3V",
+					"indices": [
+						89,
+						112
+					]
+				},
+				{
+					"url": "https://t.co/6gSL9hEpM6",
+					"expanded_url": "https://bit.ly/36RHKlb",
+					"display_url": "bit.ly/36RHKlb",
+					"indices": [
+						116,
+						139
+					]
+				},
+				{
+					"url": "https://t.co/aw2DZGQhbS",
+					"expanded_url": "https://bit.ly/3wTL222",
+					"display_url": "bit.ly/3wTL222",
+					"indices": [
+						143,
+						166
+					]
+				},
+				{
+					"url": "https://t.co/1FsVbWwOjC",
+					"expanded_url": "https://bit.ly/3rmiKfw",
+					"display_url": "bit.ly/3rmiKfw",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1417684460917575700,
+		"in_reply_to_status_id_str": "1417684460917575681",
+		"in_reply_to_user_id": 49219598,
+		"in_reply_to_user_id_str": "49219598",
+		"in_reply_to_screen_name": "electric_muse",
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3344,
+			"friends_count": 1299,
+			"listed_count": 0,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 5820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25581,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "스포티파이 https://t.co/BNrtP3GjC0\n애플뮤직 https://t.co/7FKLVohlVF\n멜론 https://t.co/mWjeeBIsDC\n지니 https://t.co/UUKXQeFN09\n벅스 https://t.co/6gSL9hEpM6\n플로 https://t.co/aw2DZGQhbS\n바이브 https://t.co/1FsVbWwOjC"
+	},
+	{
 		"created_at": "Wed Jul 21 03:07:40 +0000 2021",
 		"id": 1417682661548740600,
 		"id_str": "1417682661548740612",
