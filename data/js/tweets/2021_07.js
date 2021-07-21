@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 21 13:29:25 +0000 2021",
+		"id": 1417824177374081000,
+		"id_str": "1417839128335601668",
+		"full_text": "[#정유미] 개안을 부르는 비주얼의 소유자\n\n▶ https://t.co/VuQCqOjEES\n\n#Jungyumi #배우 #프로필 #네이버포스트 https://t.co/WFX4DFrrVb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정유미",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "Jungyumi",
+					"indices": [
+						52,
+						61
+					]
+				},
+				{
+					"text": "배우",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "프로필",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						71,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VuQCqOjEES",
+					"expanded_url": "http://naver.me/FeOjZYd0",
+					"display_url": "naver.me/FeOjZYd0",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1417778111672844300,
+					"id_str": "1417778111672844293",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/E6z1rkyVgAUFXbl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6z1rkyVgAUFXbl.jpg",
+					"url": "https://t.co/WFX4DFrrVb",
+					"display_url": "pic.twitter.com/WFX4DFrrVb",
+					"expanded_url": "https://twitter.com/themysticstory/status/1417824177374081028/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417778111672844300,
+					"id_str": "1417778111672844293",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/E6z1rkyVgAUFXbl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6z1rkyVgAUFXbl.jpg",
+					"url": "https://t.co/WFX4DFrrVb",
+					"display_url": "pic.twitter.com/WFX4DFrrVb",
+					"expanded_url": "https://twitter.com/themysticstory/status/1417824177374081028/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1417778111677010000,
+					"id_str": "1417778111677009922",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/E6z1rkzVEAImoLp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6z1rkzVEAImoLp.jpg",
+					"url": "https://t.co/WFX4DFrrVb",
+					"display_url": "pic.twitter.com/WFX4DFrrVb",
+					"expanded_url": "https://twitter.com/themysticstory/status/1417824177374081028/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1417778111702179800,
+					"id_str": "1417778111702179841",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/E6z1rk5VIAEJfoL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6z1rk5VIAEJfoL.jpg",
+					"url": "https://t.co/WFX4DFrrVb",
+					"display_url": "pic.twitter.com/WFX4DFrrVb",
+					"expanded_url": "https://twitter.com/themysticstory/status/1417824177374081028/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1417778111689547800,
+					"id_str": "1417778111689547782",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/E6z1rk2UYAYfo4h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6z1rk2UYAYfo4h.jpg",
+					"url": "https://t.co/WFX4DFrrVb",
+					"display_url": "pic.twitter.com/WFX4DFrrVb",
+					"expanded_url": "https://twitter.com/themysticstory/status/1417824177374081028/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21278,
+			"friends_count": 17,
+			"listed_count": 235,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#정유미] 개안을 부르는 비주얼의 소유자\n\n▶ https://t.co/VuQCqOjEES\n\n#Jungyumi #배우 #프로필 #네이버포스트 https://t.co/WFX4DFrrVb"
+	},
+	{
 		"created_at": "Wed Jul 21 11:29:24 +0000 2021",
 		"id": 1417801641340797000,
 		"id_str": "1417808928902103044",
