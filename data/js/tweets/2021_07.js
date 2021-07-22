@@ -1,6 +1,1045 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 22 09:58:15 +0000 2021",
+		"id": 1418133720544862200,
+		"id_str": "1418148374621085696",
+		"full_text": "#KCONTACT4U FanPick Cam &lt;CENTER CAM &amp; ALL CAM&gt; VOD DAY 8 💌\n\n🔗 https://t.co/KIwB10BjyC\n\n*&lt;FanPick Cam VOD&gt; is available to KCON:TACT PREMIUM members.\n*&lt;FanPick Cam VOD&gt;はKCON:TACT PREMIUMのみ視聴可能です。\n*한국 거주자는 티빙에서 시청 가능합니다.\n\n#iKON #SF9 #THEBOYZ\n#KCONTACT https://t.co/s7YLr1WE2r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "iKON",
+					"indices": [
+						242,
+						247
+					]
+				},
+				{
+					"text": "SF9",
+					"indices": [
+						248,
+						252
+					]
+				},
+				{
+					"text": "THEBOYZ",
+					"indices": [
+						253,
+						261
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						262,
+						271
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KIwB10BjyC",
+					"expanded_url": "http://bit.ly/KCONTACT4U_VOD",
+					"display_url": "bit.ly/KCONTACT4U_VOD",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1417658338641203200,
+					"id_str": "1417658338641203205",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/E6yIv3eUUAULkzN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6yIv3eUUAULkzN.jpg",
+					"url": "https://t.co/s7YLr1WE2r",
+					"display_url": "pic.twitter.com/s7YLr1WE2r",
+					"expanded_url": "https://twitter.com/KCON_official/status/1418133720544862209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417658338641203200,
+					"id_str": "1417658338641203205",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/E6yIv3eUUAULkzN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6yIv3eUUAULkzN.jpg",
+					"url": "https://t.co/s7YLr1WE2r",
+					"display_url": "pic.twitter.com/s7YLr1WE2r",
+					"expanded_url": "https://twitter.com/KCON_official/status/1418133720544862209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1417658343749914600,
+					"id_str": "1417658343749914629",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/E6yIwKgVEAUYGO6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6yIwKgVEAUYGO6.jpg",
+					"url": "https://t.co/s7YLr1WE2r",
+					"display_url": "pic.twitter.com/s7YLr1WE2r",
+					"expanded_url": "https://twitter.com/KCON_official/status/1418133720544862209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1417658350590779400,
+					"id_str": "1417658350590779394",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/E6yIwj_UYAI3qEs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6yIwj_UYAI3qEs.jpg",
+					"url": "https://t.co/s7YLr1WE2r",
+					"display_url": "pic.twitter.com/s7YLr1WE2r",
+					"expanded_url": "https://twitter.com/KCON_official/status/1418133720544862209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 381112,
+			"friends_count": 75,
+			"listed_count": 997,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 252,
+		"favorite_count": 619,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#KCONTACT4U FanPick Cam &lt;CENTER CAM &amp; ALL CAM&gt; VOD DAY 8 💌\n\n🔗 https://t.co/KIwB10BjyC\n\n*&lt;FanPick Cam VOD&gt; is available to KCON:TACT PREMIUM members.\n*&lt;FanPick Cam VOD&gt;はKCON:TACT PREMIUMのみ視聴可能です。\n*한국 거주자는 티빙에서 시청 가능합니다.\n\n#iKON #SF9 #THEBOYZ\n#KCONTACT https://t.co/s7YLr1WE2r"
+	},
+	{
+		"created_at": "Thu Jul 22 09:29:53 +0000 2021",
+		"id": 1418135277034377200,
+		"id_str": "1418141237664784386",
+		"full_text": "선공개된 티저 이미지만큼이나 강렬한 라이브 무대가 궁금하시다면 매직스트로베리 사운드 / 선우정아 유튜브 채널을 주목해주세요! 🍓\n\n+ 매직스트로베리 채널에 접속해 있으면 6시 이전에 뮤비를 볼 수 있다는 소문이..? 🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃\n\n#선우정아 #버팔로 #쇼케이스 #sunwoojunga #buffalo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선우정아",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "버팔로",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "쇼케이스",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "sunwoojunga",
+					"indices": [
+						150,
+						162
+					]
+				},
+				{
+					"text": "buffalo",
+					"indices": [
+						163,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1418135126223986700,
+		"in_reply_to_status_id_str": "1418135126223986690",
+		"in_reply_to_user_id": 263751129,
+		"in_reply_to_user_id_str": "263751129",
+		"in_reply_to_screen_name": "msbsound",
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드 MAGIC STRAWBERRY SOUND / Music label based in Korea",
+			"url": "https://t.co/2ZpTkk9tMw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2ZpTkk9tMw",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8531,
+			"friends_count": 19,
+			"listed_count": 100,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 95,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1597394894",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "선공개된 티저 이미지만큼이나 강렬한 라이브 무대가 궁금하시다면 매직스트로베리 사운드 / 선우정아 유튜브 채널을 주목해주세요! 🍓\n\n+ 매직스트로베리 채널에 접속해 있으면 6시 이전에 뮤비를 볼 수 있다는 소문이..? 🐃🐃🐃🐃🐃🐃🐃🐃🐃🐃\n\n#선우정아 #버팔로 #쇼케이스 #sunwoojunga #buffalo"
+	},
+	{
+		"created_at": "Thu Jul 22 09:29:45 +0000 2021",
+		"id": 1418135244583030800,
+		"id_str": "1418141203640590336",
+		"full_text": "아직 알림 신청을 안하셨다면 아래 링크를 확인해 주세요!\n▶https://t.co/02PoKHlnnB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/02PoKHlnnB",
+					"expanded_url": "https://www.wadiz.kr/web/wcomingsoon/rwd/115003",
+					"display_url": "wadiz.kr/web/wcomingsoo…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1418135242842333200,
+		"in_reply_to_status_id_str": "1418135242842333185",
+		"in_reply_to_user_id": 110930534,
+		"in_reply_to_user_id_str": "110930534",
+		"in_reply_to_screen_name": "ruby_records",
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7702,
+			"friends_count": 8374,
+			"listed_count": 200,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아직 알림 신청을 안하셨다면 아래 링크를 확인해 주세요!\n▶https://t.co/02PoKHlnnB"
+	},
+	{
+		"created_at": "Thu Jul 22 09:29:36 +0000 2021",
+		"id": 1418135242842333200,
+		"id_str": "1418141165388447744",
+		"full_text": "📍레인보우 노트 [Animation] 컬러반 LP 공지📍\n\n23일 금요일 오후 2시 오픈되는 2차 LP 펀딩!\n레인보우 노트의 [Animation] LP의 컬러반 사진을 공개합니다💟\n\n오직 와디즈에서만 소장할 수 있는 레인보우 노트의 [Animation] 컬러반 LP! \n많은 관심 부탁드립니다 : ) https://t.co/lzNyeilQoU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1418135185527169000,
+					"id_str": "1418135185527169029",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/E646cAjUYAUS4vH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E646cAjUYAUS4vH.jpg",
+					"url": "https://t.co/lzNyeilQoU",
+					"display_url": "pic.twitter.com/lzNyeilQoU",
+					"expanded_url": "https://twitter.com/ruby_records/status/1418135242842333185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 485,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1202,
+							"h": 858,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418135185527169000,
+					"id_str": "1418135185527169029",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/E646cAjUYAUS4vH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E646cAjUYAUS4vH.jpg",
+					"url": "https://t.co/lzNyeilQoU",
+					"display_url": "pic.twitter.com/lzNyeilQoU",
+					"expanded_url": "https://twitter.com/ruby_records/status/1418135242842333185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 857,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 485,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1202,
+							"h": 858,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7702,
+			"friends_count": 8374,
+			"listed_count": 200,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📍레인보우 노트 [Animation] 컬러반 LP 공지📍\n\n23일 금요일 오후 2시 오픈되는 2차 LP 펀딩!\n레인보우 노트의 [Animation] LP의 컬러반 사진을 공개합니다💟\n\n오직 와디즈에서만 소장할 수 있는 레인보우 노트의 [Animation] 컬러반 LP! \n많은 관심 부탁드립니다 : ) https://t.co/lzNyeilQoU"
+	},
+	{
+		"created_at": "Thu Jul 22 09:29:33 +0000 2021",
+		"id": 1418135126223986700,
+		"id_str": "1418141152319057920",
+		"full_text": "👥👥선우정아 BUFFALO 발매 기념 쇼케이스👥👥\n\n오는 7월 25일 일요일 오후 8시, 선우정아의 쇼케이스가 유튜브 스트리밍으로 진행됩니다!🔥🔥 같은 날 오후 6시 발매 예정인 신곡 'BUFFALO' 를 포함한 선우정아의 라이브와 앨범에 대한 이야기를 들려줄 예정이라고 하는데요! https://t.co/EvgULyC9pZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1418134979947552800,
+					"id_str": "1418134979947552770",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1418134979947552770/pu/img/V0cC38F1aOUc1dRM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1418134979947552770/pu/img/V0cC38F1aOUc1dRM.jpg",
+					"url": "https://t.co/EvgULyC9pZ",
+					"display_url": "pic.twitter.com/EvgULyC9pZ",
+					"expanded_url": "https://twitter.com/msbsound/status/1418135126223986690/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418134979947552800,
+					"id_str": "1418134979947552770",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1418134979947552770/pu/img/V0cC38F1aOUc1dRM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1418134979947552770/pu/img/V0cC38F1aOUc1dRM.jpg",
+					"url": "https://t.co/EvgULyC9pZ",
+					"display_url": "pic.twitter.com/EvgULyC9pZ",
+					"expanded_url": "https://twitter.com/msbsound/status/1418135126223986690/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 18085,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1418134979947552770/pu/vid/540x540/CqcfP1OYmVUG_BUX.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1418134979947552770/pu/pl/WDTGj3eAay14iJTC.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1418134979947552770/pu/vid/720x720/xY6yB69pkqndTVgm.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1418134979947552770/pu/vid/320x320/_OCEBQwdWPjbeBvp.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드 MAGIC STRAWBERRY SOUND / Music label based in Korea",
+			"url": "https://t.co/2ZpTkk9tMw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2ZpTkk9tMw",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8531,
+			"friends_count": 19,
+			"listed_count": 100,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 95,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1597394894",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "👥👥선우정아 BUFFALO 발매 기념 쇼케이스👥👥\n\n오는 7월 25일 일요일 오후 8시, 선우정아의 쇼케이스가 유튜브 스트리밍으로 진행됩니다!🔥🔥 같은 날 오후 6시 발매 예정인 신곡 'BUFFALO' 를 포함한 선우정아의 라이브와 앨범에 대한 이야기를 들려줄 예정이라고 하는데요! https://t.co/EvgULyC9pZ"
+	},
+	{
+		"created_at": "Thu Jul 22 09:29:28 +0000 2021",
+		"id": 1418135086415761400,
+		"id_str": "1418141130894548993",
+		"full_text": "📀LP 구성\n1. 레인보우노트 EP [Animation]\n2. [장덕 Tribute Project]\n3. 이장혁 [정규 2집], [정규 3집]\n\n📅타임라인\n오픈예정 종료일 : 7월 23일 13시 59분\n본 펀딩 오픈일 : 7월 23일 14시\n프로젝트 종료일 : 8월 23일 (월)\n결제 8월 24일~27일\n배송 8월 30일 이후 ~ 3개월 이내",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1418135085128114200,
+		"in_reply_to_status_id_str": "1418135085128114178",
+		"in_reply_to_user_id": 110930534,
+		"in_reply_to_user_id_str": "110930534",
+		"in_reply_to_screen_name": "ruby_records",
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7702,
+			"friends_count": 8374,
+			"listed_count": 200,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "📀LP 구성\n1. 레인보우노트 EP [Animation]\n2. [장덕 Tribute Project]\n3. 이장혁 [정규 2집], [정규 3집]\n\n📅타임라인\n오픈예정 종료일 : 7월 23일 13시 59분\n본 펀딩 오픈일 : 7월 23일 14시\n프로젝트 종료일 : 8월 23일 (월)\n결제 8월 24일~27일\n배송 8월 30일 이후 ~ 3개월 이내"
+	},
+	{
 		"created_at": "Thu Jul 22 09:07:11 +0000 2021",
 		"id": 1418135525538549800,
 		"id_str": "1418135525538549763",
