@@ -1,6 +1,842 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 22 03:29:54 +0000 2021",
+		"id": 1418049808359518200,
+		"id_str": "1418050645593108482",
+		"full_text": "룸306 Room306 - 외면 DENIAL [OFFICIAL AUDIO]\n\n“괜찮다 말 했어요 \n한시간 이십사분\n바늘들이 돌아가는\n없는 사람을 그리며\n괜찮다 말 했어요\n그럴 수 있다 했어요 \n나의 소중한 시간\n그의 따스한 불안 \n없는 행복을 만들며\n그럴 수 있다 했어요”\n\nhttps://t.co/ZepHaZQGOK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZepHaZQGOK",
+					"expanded_url": "https://youtu.be/3jSFMTqnf48",
+					"display_url": "youtu.be/3jSFMTqnf48",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": 1418045523903139800,
+		"in_reply_to_status_id_str": "1418045523903139840",
+		"in_reply_to_user_id": 602961088,
+		"in_reply_to_user_id_str": "602961088",
+		"in_reply_to_screen_name": "YOUNGGIFTEDWACK",
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3546,
+			"friends_count": 1205,
+			"listed_count": 49,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "룸306 Room306 - 외면 DENIAL [OFFICIAL AUDIO]\n\n“괜찮다 말 했어요 \n한시간 이십사분\n바늘들이 돌아가는\n없는 사람을 그리며\n괜찮다 말 했어요\n그럴 수 있다 했어요 \n나의 소중한 시간\n그의 따스한 불안 \n없는 행복을 만들며\n그럴 수 있다 했어요”\n\nhttps://t.co/ZepHaZQGOK"
+	},
+	{
+		"created_at": "Thu Jul 22 03:29:51 +0000 2021",
+		"id": 1418048604485210000,
+		"id_str": "1418050632146169856",
+		"full_text": "[Playlist]\n\n(001) LEVEL 4 SOCIAL DISTANCING\n\n정부의 사회적 거리두기 4단계 방역수칙에 발맞추어 안전하고 건강한 운동을 위한 하이징스의 플레이리스트를 공개합니다.\n\nhttps://t.co/nzBkB4LMxa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nzBkB4LMxa",
+					"expanded_url": "https://www.highjinkxmm.com/playlist/hp-001",
+					"display_url": "highjinkxmm.com/playlist/hp-001",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/P2V4wFkAko",
+			"url": "https://t.co/oAPJfxeB46",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAPJfxeB46",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P2V4wFkAko",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 419,
+			"friends_count": 20,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 540,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Playlist]\n\n(001) LEVEL 4 SOCIAL DISTANCING\n\n정부의 사회적 거리두기 4단계 방역수칙에 발맞추어 안전하고 건강한 운동을 위한 하이징스의 플레이리스트를 공개합니다.\n\nhttps://t.co/nzBkB4LMxa"
+	},
+	{
+		"created_at": "Thu Jul 22 03:29:42 +0000 2021",
+		"id": 1418045523903139800,
+		"id_str": "1418050593894146048",
+		"full_text": "멜론 https://t.co/vVZfoiohgo\n플로 https://t.co/mbi0MzlGNK\n지니 https://t.co/OeAUqEvwAX\n벅스 https://t.co/zJAukKbwb4\n바이브 https://t.co/cM6UUJifii\n애플뮤직 https://t.co/1YRww6J7nx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vVZfoiohgo",
+					"expanded_url": "https://bit.ly/3eFCCFm",
+					"display_url": "bit.ly/3eFCCFm",
+					"indices": [
+						3,
+						26
+					]
+				},
+				{
+					"url": "https://t.co/mbi0MzlGNK",
+					"expanded_url": "https://bit.ly/3wXa8NF",
+					"display_url": "bit.ly/3wXa8NF",
+					"indices": [
+						30,
+						53
+					]
+				},
+				{
+					"url": "https://t.co/OeAUqEvwAX",
+					"expanded_url": "https://bit.ly/2TuwDvC",
+					"display_url": "bit.ly/2TuwDvC",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/zJAukKbwb4",
+					"expanded_url": "https://bit.ly/3y12WkL",
+					"display_url": "bit.ly/3y12WkL",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/cM6UUJifii",
+					"expanded_url": "https://bit.ly/3ryndvB",
+					"display_url": "bit.ly/3ryndvB",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/1YRww6J7nx",
+					"expanded_url": "https://apple.co/3iG1vlw",
+					"display_url": "apple.co/3iG1vlw",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": 1418043821523234800,
+		"in_reply_to_status_id_str": "1418043821523234822",
+		"in_reply_to_user_id": 602961088,
+		"in_reply_to_user_id_str": "602961088",
+		"in_reply_to_screen_name": "YOUNGGIFTEDWACK",
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3546,
+			"friends_count": 1205,
+			"listed_count": 49,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "멜론 https://t.co/vVZfoiohgo\n플로 https://t.co/mbi0MzlGNK\n지니 https://t.co/OeAUqEvwAX\n벅스 https://t.co/zJAukKbwb4\n바이브 https://t.co/cM6UUJifii\n애플뮤직 https://t.co/1YRww6J7nx"
+	},
+	{
+		"created_at": "Thu Jul 22 03:29:33 +0000 2021",
+		"id": 1418044048758120400,
+		"id_str": "1418050555583291392",
+		"full_text": "골든차일드(Golden Child)\n2nd Full Album [GAME CHANGER] : Individual Photo\n#김지범 (#KimJiBeom)\n\n#GoldenChild #골든차일드\n#GAME_CHANGER #20210802_6PM https://t.co/5uCfDawkIj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김지범",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "KimJiBeom",
+					"indices": [
+						75,
+						85
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						88,
+						100
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "GAME_CHANGER",
+					"indices": [
+						108,
+						121
+					]
+				},
+				{
+					"text": "20210802_6PM",
+					"indices": [
+						122,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1418043956747591700,
+					"id_str": "1418043956747591682",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/E63ndy3UYAIZO-B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E63ndy3UYAIZO-B.jpg",
+					"url": "https://t.co/5uCfDawkIj",
+					"display_url": "pic.twitter.com/5uCfDawkIj",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1418044048758120451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418043956747591700,
+					"id_str": "1418043956747591682",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/E63ndy3UYAIZO-B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E63ndy3UYAIZO-B.jpg",
+					"url": "https://t.co/5uCfDawkIj",
+					"display_url": "pic.twitter.com/5uCfDawkIj",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1418044048758120451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1418043967698968600,
+					"id_str": "1418043967698968580",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/E63nebqVIAQQIwG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E63nebqVIAQQIwG.jpg",
+					"url": "https://t.co/5uCfDawkIj",
+					"display_url": "pic.twitter.com/5uCfDawkIj",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1418044048758120451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTuZ29E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTuZ29E",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426588,
+			"friends_count": 10,
+			"listed_count": 1898,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1626685383",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 583,
+		"favorite_count": 1291,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "골든차일드(Golden Child)\n2nd Full Album [GAME CHANGER] : Individual Photo\n#김지범 (#KimJiBeom)\n\n#GoldenChild #골든차일드\n#GAME_CHANGER #20210802_6PM https://t.co/5uCfDawkIj"
+	},
+	{
+		"created_at": "Thu Jul 22 03:29:29 +0000 2021",
+		"id": 1418043821523234800,
+		"id_str": "1418050538210578434",
+		"full_text": "[RELEASE]\n2021.7.22\nRoom306 ‘외면(Single Edit)’ (Digital Single)\n\nWritten by FIRST AID\nArranged by FIRST AID\nSung by 이히읗\nRhodes played by 채지수\nPiano played by FIRST AID\nGuitar and bass played by FIRST AID\nDrums programmed by FIRST AID\nMixed and Mastered by FIRST AID https://t.co/darNg50d7f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1418043761901269000,
+					"id_str": "1418043761901268994",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1418043761901268994/pu/img/yBtU52H0TFoD3Tnk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1418043761901268994/pu/img/yBtU52H0TFoD3Tnk.jpg",
+					"url": "https://t.co/darNg50d7f",
+					"display_url": "pic.twitter.com/darNg50d7f",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1418043821523234822/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418043761901269000,
+					"id_str": "1418043761901268994",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1418043761901268994/pu/img/yBtU52H0TFoD3Tnk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1418043761901268994/pu/img/yBtU52H0TFoD3Tnk.jpg",
+					"url": "https://t.co/darNg50d7f",
+					"display_url": "pic.twitter.com/darNg50d7f",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1418043821523234822/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 43293,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1418043761901268994/pu/pl/F3zwzjtvV6Y3q4RX.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1418043761901268994/pu/vid/320x320/C5EHDreav18-pMf1.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1418043761901268994/pu/vid/540x540/JedjxwkSlXe6RYTq.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1418043761901268994/pu/vid/720x720/TAXLuqag2AAgFUqo.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3546,
+			"friends_count": 1205,
+			"listed_count": 49,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[RELEASE]\n2021.7.22\nRoom306 ‘외면(Single Edit)’ (Digital Single)\n\nWritten by FIRST AID\nArranged by FIRST AID\nSung by 이히읗\nRhodes played by 채지수\nPiano played by FIRST AID\nGuitar and bass played by FIRST AID\nDrums programmed by FIRST AID\nMixed and Mastered by FIRST AID https://t.co/darNg50d7f"
+	},
+	{
 		"created_at": "Thu Jul 22 02:29:39 +0000 2021",
 		"id": 1418031667017441300,
 		"id_str": "1418035481456041985",
