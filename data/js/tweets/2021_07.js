@@ -1,6 +1,513 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 22 11:58:17 +0000 2021",
+		"id": 1418178245535490000,
+		"id_str": "1418178581633642497",
+		"full_text": "슬픔의케이팝파티 episode.10\n&lt;슬픔의케이팝페스티벌&gt;\n\n한여름밤의 락페를 그리워하시는 분들 계신가요? 그러면 \"슬케페\"로 모여주세요! DJ lemontune은 케이팝 속 밴드음악으로 오프닝을 열고 헤드라이너 DJ monday studio는 한밤의 하이라이트를 책임집니다! \n\n토요일 밤 아홉시 NOW에서 만나요! https://t.co/QEwe8RIYVN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1418178238652715000,
+					"id_str": "1418178238652715010",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E65hmB8VkAIgVeP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E65hmB8VkAIgVeP.jpg",
+					"url": "https://t.co/QEwe8RIYVN",
+					"display_url": "pic.twitter.com/QEwe8RIYVN",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1418178245535490050/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418178238652715000,
+					"id_str": "1418178238652715010",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E65hmB8VkAIgVeP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E65hmB8VkAIgVeP.jpg",
+					"url": "https://t.co/QEwe8RIYVN",
+					"display_url": "pic.twitter.com/QEwe8RIYVN",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1418178245535490050/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/J4jpDKDhWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J4jpDKDhWh",
+							"expanded_url": "https://now.naver.com/player/10256",
+							"display_url": "now.naver.com/player/10256",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7835,
+			"friends_count": 33,
+			"listed_count": 19,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 694,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1058,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬픔의케이팝파티 episode.10\n&lt;슬픔의케이팝페스티벌&gt;\n\n한여름밤의 락페를 그리워하시는 분들 계신가요? 그러면 \"슬케페\"로 모여주세요! DJ lemontune은 케이팝 속 밴드음악으로 오프닝을 열고 헤드라이너 DJ monday studio는 한밤의 하이라이트를 책임집니다! \n\n토요일 밤 아홉시 NOW에서 만나요! https://t.co/QEwe8RIYVN"
+	},
+	{
+		"created_at": "Thu Jul 22 11:58:14 +0000 2021",
+		"id": 1418163917294035000,
+		"id_str": "1418178572645281794",
+		"full_text": "See you in September, KCON-ers! https://t.co/1mR0zGgV5b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1417848782415229000,
+					"id_str": "1417848782415228937",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/E6019J0UcAkeNxV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6019J0UcAkeNxV.jpg",
+					"url": "https://t.co/1mR0zGgV5b",
+					"display_url": "pic.twitter.com/1mR0zGgV5b",
+					"expanded_url": "https://twitter.com/KCON_official/status/1418163917294034948/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417848782415229000,
+					"id_str": "1417848782415228937",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/E6019J0UcAkeNxV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6019J0UcAkeNxV.jpg",
+					"url": "https://t.co/1mR0zGgV5b",
+					"display_url": "pic.twitter.com/1mR0zGgV5b",
+					"expanded_url": "https://twitter.com/KCON_official/status/1418163917294034948/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / See you in September!",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 381144,
+			"friends_count": 75,
+			"listed_count": 999,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 513,
+		"favorite_count": 2542,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "See you in September, KCON-ers! https://t.co/1mR0zGgV5b"
+	},
+	{
+		"created_at": "Thu Jul 22 11:29:28 +0000 2021",
+		"id": 1418164099825889300,
+		"id_str": "1418171333712793600",
+		"full_text": "['KNOCK' Spoiler_Live] #권진아\n\n권진아 Summer Single 'KNOCK (With 박문치)'\nKwon Jin Ah Summer Single 'KNOCK (With PARKMOONCHI)'\n\n💖 'KNOCK' Spoiler_Live\nhttps://t.co/PH6Oxsp5bx\n\n2021. 07. 27. 6PM Release\n\n#권진아 #KwonJinAh #KNOCK\n#박문치 #PARKMOONCHI\n#20210727_6PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권진아",
+					"indices": [
+						23,
+						27
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						195,
+						199
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						200,
+						210
+					]
+				},
+				{
+					"text": "KNOCK",
+					"indices": [
+						211,
+						217
+					]
+				},
+				{
+					"text": "박문치",
+					"indices": [
+						218,
+						222
+					]
+				},
+				{
+					"text": "PARKMOONCHI",
+					"indices": [
+						223,
+						235
+					]
+				},
+				{
+					"text": "20210727_6PM",
+					"indices": [
+						236,
+						249
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PH6Oxsp5bx",
+					"expanded_url": "https://youtu.be/LW2DvUHIlAQ",
+					"display_url": "youtu.be/LW2DvUHIlAQ",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 정재형 Single 'Dance of Phrase (Feat. 김아일)' 2021. 07. 21. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36731,
+			"friends_count": 10,
+			"listed_count": 372,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "['KNOCK' Spoiler_Live] #권진아\n\n권진아 Summer Single 'KNOCK (With 박문치)'\nKwon Jin Ah Summer Single 'KNOCK (With PARKMOONCHI)'\n\n💖 'KNOCK' Spoiler_Live\nhttps://t.co/PH6Oxsp5bx\n\n2021. 07. 27. 6PM Release\n\n#권진아 #KwonJinAh #KNOCK\n#박문치 #PARKMOONCHI\n#20210727_6PM"
+	},
+	{
 		"created_at": "Thu Jul 22 10:29:24 +0000 2021",
 		"id": 1418143689151418400,
 		"id_str": "1418156217285890049",
