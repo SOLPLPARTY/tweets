@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 23 06:29:24 +0000 2021",
+		"id": 1418451819404005400,
+		"id_str": "1418458207148707844",
+		"full_text": "이번 주 일요일(25일) 싱어송라이터 김목인이 오후 6시반 클럽빵에서 김찬민, 김라프님과 함께 공연합니다. 관객없이 클럽빵 유튜브 채널로 실시간 라이브로 진행됩니다. 많은 시청 부탁드려요☺\n\nhttps://t.co/xwYW2Xqm0y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xwYW2Xqm0y",
+					"expanded_url": "https://www.youtube.com/channel/UCU-1Rejnev1Rrt3EUK_OEAg",
+					"display_url": "youtube.com/channel/UCU-1R…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3340,
+			"friends_count": 1299,
+			"listed_count": 106,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 5847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25604,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번 주 일요일(25일) 싱어송라이터 김목인이 오후 6시반 클럽빵에서 김찬민, 김라프님과 함께 공연합니다. 관객없이 클럽빵 유튜브 채널로 실시간 라이브로 진행됩니다. 많은 시청 부탁드려요☺\n\nhttps://t.co/xwYW2Xqm0y"
+	},
+	{
 		"created_at": "Fri Jul 23 05:29:38 +0000 2021",
 		"id": 1418439206284578800,
 		"id_str": "1418443163518312449",
