@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 23 05:29:38 +0000 2021",
+		"id": 1418439206284578800,
+		"id_str": "1418443163518312449",
+		"full_text": "📀LP 구성\n1. 레인보우노트 EP [Animation]\n2. [장덕 Tribute Project]\n3. 이장혁 [정규 2집], [정규 3집]\n\n📅타임라인\n본 펀딩 오픈일 : 7월 23일 14시\n프로젝트 종료일 : 8월 23일 (월)\n결제 8월 24일~27일\n배송 8월 30일 이후 ~ 3개월 이내",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1418439204493676500,
+		"in_reply_to_status_id_str": "1418439204493676544",
+		"in_reply_to_user_id": 110930534,
+		"in_reply_to_user_id_str": "110930534",
+		"in_reply_to_screen_name": "ruby_records",
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7699,
+			"friends_count": 8373,
+			"listed_count": 200,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "📀LP 구성\n1. 레인보우노트 EP [Animation]\n2. [장덕 Tribute Project]\n3. 이장혁 [정규 2집], [정규 3집]\n\n📅타임라인\n본 펀딩 오픈일 : 7월 23일 14시\n프로젝트 종료일 : 8월 23일 (월)\n결제 8월 24일~27일\n배송 8월 30일 이후 ~ 3개월 이내"
+	},
+	{
+		"created_at": "Fri Jul 23 05:29:30 +0000 2021",
+		"id": 1418439204493676500,
+		"id_str": "1418443129477292034",
+		"full_text": "🎊루비레코드 2차 LP 본펀딩이 오픈되었습니다🎊\n\n7월 23일 14시, 많이 기다리셨던 루비레코드의 2차 LP 펀딩이 드디어 오픈되었습니다!\n얼리버드 리워드도 진행되니 많은 참여 바랍니다-!\n\n▼펀딩하러 가기▼\nhttps://t.co/02PoKHlnnB https://t.co/HT2aVH8CrC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/02PoKHlnnB",
+					"expanded_url": "https://www.wadiz.kr/web/wcomingsoon/rwd/115003",
+					"display_url": "wadiz.kr/web/wcomingsoo…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1418438795729330200,
+					"id_str": "1418438795729330179",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1418438795729330179/pu/img/OgvkNqPkxnsnuf9u.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1418438795729330179/pu/img/OgvkNqPkxnsnuf9u.jpg",
+					"url": "https://t.co/HT2aVH8CrC",
+					"display_url": "pic.twitter.com/HT2aVH8CrC",
+					"expanded_url": "https://twitter.com/ruby_records/status/1418439204493676544/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418438795729330200,
+					"id_str": "1418438795729330179",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1418438795729330179/pu/img/OgvkNqPkxnsnuf9u.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1418438795729330179/pu/img/OgvkNqPkxnsnuf9u.jpg",
+					"url": "https://t.co/HT2aVH8CrC",
+					"display_url": "pic.twitter.com/HT2aVH8CrC",
+					"expanded_url": "https://twitter.com/ruby_records/status/1418439204493676544/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 35035,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1418438795729330179/pu/vid/480x270/zg4ziIuvs1rI9Vrw.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1418438795729330179/pu/vid/640x360/BU1Qwd4r4gfDYzXb.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1418438795729330179/pu/pl/_pbgsLb5nFK4kB0E.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1418438795729330179/pu/vid/1280x720/CE25yfv-CmU6PJLh.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7699,
+			"friends_count": 8373,
+			"listed_count": 200,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎊루비레코드 2차 LP 본펀딩이 오픈되었습니다🎊\n\n7월 23일 14시, 많이 기다리셨던 루비레코드의 2차 LP 펀딩이 드디어 오픈되었습니다!\n얼리버드 리워드도 진행되니 많은 참여 바랍니다-!\n\n▼펀딩하러 가기▼\nhttps://t.co/02PoKHlnnB https://t.co/HT2aVH8CrC"
+	},
+	{
 		"created_at": "Fri Jul 23 05:02:15 +0000 2021",
 		"id": 1418436274403348500,
 		"id_str": "1418436274403348488",
