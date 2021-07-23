@@ -1,6 +1,1204 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 23 03:29:55 +0000 2021",
+		"id": 1418406963948499000,
+		"id_str": "1418413037430743040",
+		"full_text": "[News] #권진아\n\n권진아, ‘KNOCK(With 박문치)’ 스포일러 라이브 공개…귀호강 꿀보이스\n\n(출처: MK스포츠 | 네이버 TV연예)\n\n✔️ https://t.co/o3AEoYJ2uQ\n\n#권진아 #KwonJinAh #KNOCK\n#박문치 #PARKMOONCHI\n#20210727_6PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권진아",
+					"indices": [
+						7,
+						11
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						115,
+						125
+					]
+				},
+				{
+					"text": "KNOCK",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "박문치",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "PARKMOONCHI",
+					"indices": [
+						138,
+						150
+					]
+				},
+				{
+					"text": "20210727_6PM",
+					"indices": [
+						151,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o3AEoYJ2uQ",
+					"expanded_url": "http://naver.me/GeWSqWNc",
+					"display_url": "naver.me/GeWSqWNc",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 정재형 Single 'Dance of Phrase (Feat. 김아일)' 2021. 07. 21. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36727,
+			"friends_count": 10,
+			"listed_count": 372,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3738,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[News] #권진아\n\n권진아, ‘KNOCK(With 박문치)’ 스포일러 라이브 공개…귀호강 꿀보이스\n\n(출처: MK스포츠 | 네이버 TV연예)\n\n✔️ https://t.co/o3AEoYJ2uQ\n\n#권진아 #KwonJinAh #KNOCK\n#박문치 #PARKMOONCHI\n#20210727_6PM"
+	},
+	{
+		"created_at": "Fri Jul 23 03:29:49 +0000 2021",
+		"id": 1418406765868339200,
+		"id_str": "1418413011837104129",
+		"full_text": "⠀\nDAILY MIRRORBALL MUSIC | 210723 FRI\n⠀\n🔸 ROGI (로기) [기러기]\n🔸 이풀 [바다의 지퍼]\n🔸 HEESU [Tik Tok]\n🔸 Roobe (루브) [Hold Me]\n\n#ROGI #로기 #이풀 #HEESU #Roobe #루브 #미러볼뮤직 #인디음악 #음스타그램\n⠀ https://t.co/Xg2MoDBzjP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ROGI",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "로기",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "이풀",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "HEESU",
+					"indices": [
+						128,
+						134
+					]
+				},
+				{
+					"text": "Roobe",
+					"indices": [
+						135,
+						141
+					]
+				},
+				{
+					"text": "루브",
+					"indices": [
+						142,
+						145
+					]
+				},
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "음스타그램",
+					"indices": [
+						159,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1418387173477290000,
+					"id_str": "1418387173477289985",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1418387173477289985/pu/img/cOTtL1xigWToANZC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1418387173477289985/pu/img/cOTtL1xigWToANZC.jpg",
+					"url": "https://t.co/Xg2MoDBzjP",
+					"display_url": "pic.twitter.com/Xg2MoDBzjP",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1418406765868339205/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418387173477290000,
+					"id_str": "1418387173477289985",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1418387173477289985/pu/img/cOTtL1xigWToANZC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1418387173477289985/pu/img/cOTtL1xigWToANZC.jpg",
+					"url": "https://t.co/Xg2MoDBzjP",
+					"display_url": "pic.twitter.com/Xg2MoDBzjP",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1418406765868339205/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 56056,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1418387173477289985/pu/vid/320x320/SANFO6w8ysE7pM8N.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1418387173477289985/pu/pl/tPwrSzAus42UVj8m.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1418387173477289985/pu/vid/720x720/AMjt3rEnK87Zy6xn.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1418387173477289985/pu/vid/540x540/U2ud9iSSgD83E4m1.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9470,
+			"friends_count": 2676,
+			"listed_count": 250,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1613553522",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⠀\nDAILY MIRRORBALL MUSIC | 210723 FRI\n⠀\n🔸 ROGI (로기) [기러기]\n🔸 이풀 [바다의 지퍼]\n🔸 HEESU [Tik Tok]\n🔸 Roobe (루브) [Hold Me]\n\n#ROGI #로기 #이풀 #HEESU #Roobe #루브 #미러볼뮤직 #인디음악 #음스타그램\n⠀ https://t.co/Xg2MoDBzjP"
+	},
+	{
+		"created_at": "Fri Jul 23 03:29:41 +0000 2021",
+		"id": 1418405730298695700,
+		"id_str": "1418412977821212672",
+		"full_text": "골든차일드(Golden Child)\n2nd Full Album [GAME CHANGER] : Individual Photo\n#이장준 (#LeeJangJun)\n\n#GoldenChild #골든차일드\n#GAME_CHANGER #20210802_6PM https://t.co/mWFf5jDpn1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이장준",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "LeeJangJun",
+					"indices": [
+						75,
+						86
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						89,
+						101
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "GAME_CHANGER",
+					"indices": [
+						109,
+						122
+					]
+				},
+				{
+					"text": "20210802_6PM",
+					"indices": [
+						123,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1418405723071914000,
+					"id_str": "1418405723071913986",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/E68wfXcVIAIbfzc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E68wfXcVIAIbfzc.jpg",
+					"url": "https://t.co/mWFf5jDpn1",
+					"display_url": "pic.twitter.com/mWFf5jDpn1",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1418405730298695682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418405723071914000,
+					"id_str": "1418405723071913986",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/E68wfXcVIAIbfzc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E68wfXcVIAIbfzc.jpg",
+					"url": "https://t.co/mWFf5jDpn1",
+					"display_url": "pic.twitter.com/mWFf5jDpn1",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1418405730298695682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1418405722946031600,
+					"id_str": "1418405722946031619",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/E68wfW-UUAMBoxX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E68wfW-UUAMBoxX.jpg",
+					"url": "https://t.co/mWFf5jDpn1",
+					"display_url": "pic.twitter.com/mWFf5jDpn1",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1418405730298695682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTuZ29E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTuZ29E",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426532,
+			"friends_count": 10,
+			"listed_count": 1896,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2199,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1626685383",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 510,
+		"favorite_count": 1125,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "골든차일드(Golden Child)\n2nd Full Album [GAME CHANGER] : Individual Photo\n#이장준 (#LeeJangJun)\n\n#GoldenChild #골든차일드\n#GAME_CHANGER #20210802_6PM https://t.co/mWFf5jDpn1"
+	},
+	{
+		"created_at": "Fri Jul 23 03:29:34 +0000 2021",
+		"id": 1418405681560920000,
+		"id_str": "1418412947924205569",
+		"full_text": "골든차일드(Golden Child)\n2nd Full Album [GAME CHANGER] : Individual Photo\n#홍주찬 (#HongJooChan)\n\n#GoldenChild #골든차일드\n#GAME_CHANGER #20210802_6PM https://t.co/vbu9ubvHi9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "홍주찬",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "HongJooChan",
+					"indices": [
+						75,
+						87
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						90,
+						102
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "GAME_CHANGER",
+					"indices": [
+						110,
+						123
+					]
+				},
+				{
+					"text": "20210802_6PM",
+					"indices": [
+						124,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1418405673402916900,
+					"id_str": "1418405673402916868",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/E68wceaUYAQ9Xgg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E68wceaUYAQ9Xgg.jpg",
+					"url": "https://t.co/vbu9ubvHi9",
+					"display_url": "pic.twitter.com/vbu9ubvHi9",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1418405681560920066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418405673402916900,
+					"id_str": "1418405673402916868",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/E68wceaUYAQ9Xgg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E68wceaUYAQ9Xgg.jpg",
+					"url": "https://t.co/vbu9ubvHi9",
+					"display_url": "pic.twitter.com/vbu9ubvHi9",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1418405681560920066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1418405673545605000,
+					"id_str": "1418405673545605134",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/E68wce8VoA4LTLk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E68wce8VoA4LTLk.jpg",
+					"url": "https://t.co/vbu9ubvHi9",
+					"display_url": "pic.twitter.com/vbu9ubvHi9",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1418405681560920066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTuZ29E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTuZ29E",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426532,
+			"friends_count": 10,
+			"listed_count": 1896,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2199,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1626685383",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 501,
+		"favorite_count": 1177,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "골든차일드(Golden Child)\n2nd Full Album [GAME CHANGER] : Individual Photo\n#홍주찬 (#HongJooChan)\n\n#GoldenChild #골든차일드\n#GAME_CHANGER #20210802_6PM https://t.co/vbu9ubvHi9"
+	},
+	{
+		"created_at": "Fri Jul 23 03:29:30 +0000 2021",
+		"id": 1418405514837471200,
+		"id_str": "1418412930664697869",
+		"full_text": "💌 ғʀᴏᴍ ✨#MAX✨\n\n글로벌 팬 커뮤니티 플랫폼 #위버스 @weverseofficial 에 #맥스 @MAXMusic 의 커뮤니티가 오픈했습니다!\n\n🎧#Butterflies 듣기 https://t.co/QhxeEOiTlb https://t.co/k1RocyozLR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MAX",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "위버스",
+					"indices": [
+						30,
+						34
+					]
+				},
+				{
+					"text": "맥스",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "Butterflies",
+					"indices": [
+						86,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "weverseofficial",
+					"name": "Weverse",
+					"id": 988692701791993900,
+					"id_str": "988692701791993856",
+					"indices": [
+						35,
+						51
+					]
+				},
+				{
+					"screen_name": "MAXMusic",
+					"name": "MAX",
+					"id": 117639473,
+					"id_str": "117639473",
+					"indices": [
+						58,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QhxeEOiTlb",
+					"expanded_url": "https://WMK.lnk.to/djYKtUFs",
+					"display_url": "WMK.lnk.to/djYKtUFs",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1418123062751359000,
+					"id_str": "1418123062751358986",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1418123062751358986/pu/img/xrB5Qj9royuUYWUQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1418123062751358986/pu/img/xrB5Qj9royuUYWUQ.jpg",
+					"url": "https://t.co/k1RocyozLR",
+					"display_url": "pic.twitter.com/k1RocyozLR",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1418405514837471234/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418123062751359000,
+					"id_str": "1418123062751358986",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1418123062751358986/pu/img/xrB5Qj9royuUYWUQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1418123062751358986/pu/img/xrB5Qj9royuUYWUQ.jpg",
+					"url": "https://t.co/k1RocyozLR",
+					"display_url": "pic.twitter.com/k1RocyozLR",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1418405514837471234/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 41917,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1418123062751358986/pu/vid/720x720/HkiV8L_d04eJcENr.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1418123062751358986/pu/pl/J8A8sg7zZpWd6RVy.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1418123062751358986/pu/vid/540x540/-Eiohtm0gfjhxAWX.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1418123062751358986/pu/vid/320x320/P-2zSruRfh-NibDz.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51592,
+			"friends_count": 496,
+			"listed_count": 191,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 426,
+		"favorite_count": 3300,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💌 ғʀᴏᴍ ✨#MAX✨\n\n글로벌 팬 커뮤니티 플랫폼 #위버스 @weverseofficial 에 #맥스 @MAXMusic 의 커뮤니티가 오픈했습니다!\n\n🎧#Butterflies 듣기 https://t.co/QhxeEOiTlb https://t.co/k1RocyozLR"
+	},
+	{
 		"created_at": "Fri Jul 23 02:29:39 +0000 2021",
 		"id": 1418397796772683800,
 		"id_str": "1418397869883772928",
