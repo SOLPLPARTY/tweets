@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 23 10:29:29 +0000 2021",
+		"id": 1418514525150584800,
+		"id_str": "1418518623497428995",
+		"full_text": "⚽용진X싸공X배차X오존⚽ FC못배놈 vs FC서울 한판 결과는? 👥못배운놈들 시즌2 Ep10!\n\n풀버전은 이리오너라 유튜브 채널에서 확인하실 수 있습니다. https://t.co/1x3hlO3KEr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1418514115388084200,
+					"id_str": "1418514115388084224",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1418514115388084224/pu/img/EkX6X2432LmfdB0W.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1418514115388084224/pu/img/EkX6X2432LmfdB0W.jpg",
+					"url": "https://t.co/1x3hlO3KEr",
+					"display_url": "pic.twitter.com/1x3hlO3KEr",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1418514525150584836/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418514115388084200,
+					"id_str": "1418514115388084224",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1418514115388084224/pu/img/EkX6X2432LmfdB0W.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1418514115388084224/pu/img/EkX6X2432LmfdB0W.jpg",
+					"url": "https://t.co/1x3hlO3KEr",
+					"display_url": "pic.twitter.com/1x3hlO3KEr",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1418514525150584836/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 18218,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1418514115388084224/pu/vid/640x360/pq0jc_VrNJwi9cD_.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1418514115388084224/pu/vid/480x270/TzONiTMeNxNYdPZS.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1418514115388084224/pu/vid/1280x720/bexOFzM-vuhZ7SBe.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1418514115388084224/pu/pl/qcIKWeWg9Brfkr9h.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3916,
+			"friends_count": 8,
+			"listed_count": 85,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⚽용진X싸공X배차X오존⚽ FC못배놈 vs FC서울 한판 결과는? 👥못배운놈들 시즌2 Ep10!\n\n풀버전은 이리오너라 유튜브 채널에서 확인하실 수 있습니다. https://t.co/1x3hlO3KEr"
+	},
+	{
 		"created_at": "Fri Jul 23 09:58:19 +0000 2021",
 		"id": 1418496189477970000,
 		"id_str": "1418510782833340416",
