@@ -1,6 +1,399 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 23 02:29:39 +0000 2021",
+		"id": 1418397796772683800,
+		"id_str": "1418397869883772928",
+		"full_text": "'Blue Birthday’, #KIMYERIM’s 1st drama starring her as the leading role, to be revealed today!\nTo show her wide acting spectrum playing a character in her teens &amp; twenties\n“I’ve put my heart into this, so I hope you look forward to it”\n\n#김예림\n#블루버스데이 #BLUEBIRTHDAY https://t.co/GQeIz8DSp9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KIMYERIM",
+					"indices": [
+						17,
+						26
+					]
+				},
+				{
+					"text": "김예림",
+					"indices": [
+						241,
+						245
+					]
+				},
+				{
+					"text": "블루버스데이",
+					"indices": [
+						246,
+						253
+					]
+				},
+				{
+					"text": "BLUEBIRTHDAY",
+					"indices": [
+						254,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1418395277585617000,
+					"id_str": "1418395277585616902",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E68m_W-VEAYM1g6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E68m_W-VEAYM1g6.jpg",
+					"url": "https://t.co/GQeIz8DSp9",
+					"display_url": "pic.twitter.com/GQeIz8DSp9",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1418397796772683777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418395277585617000,
+					"id_str": "1418395277585616902",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E68m_W-VEAYM1g6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E68m_W-VEAYM1g6.jpg",
+					"url": "https://t.co/GQeIz8DSp9",
+					"display_url": "pic.twitter.com/GQeIz8DSp9",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1418397796772683777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1418395277753417700,
+					"id_str": "1418395277753417728",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E68m_XmVgAApbra.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E68m_XmVgAApbra.jpg",
+					"url": "https://t.co/GQeIz8DSp9",
+					"display_url": "pic.twitter.com/GQeIz8DSp9",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1418397796772683777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1418395277841428500,
+					"id_str": "1418395277841428480",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E68m_X7UcAALy0p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E68m_X7UcAALy0p.jpg",
+					"url": "https://t.co/GQeIz8DSp9",
+					"display_url": "pic.twitter.com/GQeIz8DSp9",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1418397796772683777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 840,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1120,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9690841,
+			"friends_count": 55,
+			"listed_count": 10264,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4866,
+		"favorite_count": 12841,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Blue Birthday’, #KIMYERIM’s 1st drama starring her as the leading role, to be revealed today!\nTo show her wide acting spectrum playing a character in her teens &amp; twenties\n“I’ve put my heart into this, so I hope you look forward to it”\n\n#김예림\n#블루버스데이 #BLUEBIRTHDAY https://t.co/GQeIz8DSp9"
+	},
+	{
+		"created_at": "Fri Jul 23 02:29:30 +0000 2021",
+		"id": 1418397424381399000,
+		"id_str": "1418397831656771586",
+		"full_text": "[News]\n\n프린스의 미공개 싱글 'Hot Summer'가 공개되었습니다. 최고 기온이 36도에 육박하는 무더위에 알맞는 선곡이 될 것입니다.\nhttps://t.co/B9zSot1jDC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B9zSot1jDC",
+					"expanded_url": "https://www.highjinkxmm.com/news/prince-hotsummer",
+					"display_url": "highjinkxmm.com/news/prince-ho…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/P2V4wFkAko",
+			"url": "https://t.co/oAPJfxeB46",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAPJfxeB46",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P2V4wFkAko",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 419,
+			"friends_count": 20,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[News]\n\n프린스의 미공개 싱글 'Hot Summer'가 공개되었습니다. 최고 기온이 36도에 육박하는 무더위에 알맞는 선곡이 될 것입니다.\nhttps://t.co/B9zSot1jDC"
+	},
+	{
 		"created_at": "Fri Jul 23 01:29:25 +0000 2021",
 		"id": 1418378547261939700,
 		"id_str": "1418382710134001673",
