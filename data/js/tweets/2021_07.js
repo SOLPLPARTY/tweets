@@ -1,6 +1,1431 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 24 09:58:14 +0000 2021",
+		"id": 1418858495361917000,
+		"id_str": "1418873149668610049",
+		"full_text": "#KCONTACT4U FanPick Cam &lt;CENTER CAM &amp; ALL CAM&gt; VOD DAY 9 💌\n\n🔗 https://t.co/KIwB10jIH4\n\n*&lt;FanPick Cam VOD&gt; is available to #KCONTACT PREMIUM members.\n*&lt;FanPick Cam VOD&gt;はKCON:TACT PREMIUMのみ視聴可能です。\n*한국 거주자는 티빙에서 시청 가능합니다.\n\n#BTOB #OHMYGIRL #StrayKids https://t.co/JP4fQdNrgw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT4U",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						138,
+						147
+					]
+				},
+				{
+					"text": "BTOB",
+					"indices": [
+						242,
+						247
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						248,
+						257
+					]
+				},
+				{
+					"text": "StrayKids",
+					"indices": [
+						258,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KIwB10jIH4",
+					"expanded_url": "http://bit.ly/KCONTACT4U_VOD",
+					"display_url": "bit.ly/KCONTACT4U_VOD",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1418385079475204000,
+					"id_str": "1418385079475204097",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/E68dtwDVcAEDzOg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E68dtwDVcAEDzOg.jpg",
+					"url": "https://t.co/JP4fQdNrgw",
+					"display_url": "pic.twitter.com/JP4fQdNrgw",
+					"expanded_url": "https://twitter.com/KCON_official/status/1418858495361916936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418385079475204000,
+					"id_str": "1418385079475204097",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/E68dtwDVcAEDzOg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E68dtwDVcAEDzOg.jpg",
+					"url": "https://t.co/JP4fQdNrgw",
+					"display_url": "pic.twitter.com/JP4fQdNrgw",
+					"expanded_url": "https://twitter.com/KCON_official/status/1418858495361916936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1418385089768026000,
+					"id_str": "1418385089768026115",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/E68duWZVcAMNKrM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E68duWZVcAMNKrM.jpg",
+					"url": "https://t.co/JP4fQdNrgw",
+					"display_url": "pic.twitter.com/JP4fQdNrgw",
+					"expanded_url": "https://twitter.com/KCON_official/status/1418858495361916936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1418385108076175400,
+					"id_str": "1418385108076175361",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/E68dvamVoAERw4k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E68dvamVoAERw4k.jpg",
+					"url": "https://t.co/JP4fQdNrgw",
+					"display_url": "pic.twitter.com/JP4fQdNrgw",
+					"expanded_url": "https://twitter.com/KCON_official/status/1418858495361916936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / See you in September!",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 381403,
+			"friends_count": 75,
+			"listed_count": 998,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1391536361627291651/aEkp5dth_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1620603098",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 547,
+		"favorite_count": 1636,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#KCONTACT4U FanPick Cam &lt;CENTER CAM &amp; ALL CAM&gt; VOD DAY 9 💌\n\n🔗 https://t.co/KIwB10jIH4\n\n*&lt;FanPick Cam VOD&gt; is available to #KCONTACT PREMIUM members.\n*&lt;FanPick Cam VOD&gt;はKCON:TACT PREMIUMのみ視聴可能です。\n*한국 거주자는 티빙에서 시청 가능합니다.\n\n#BTOB #OHMYGIRL #StrayKids https://t.co/JP4fQdNrgw"
+	},
+	{
+		"created_at": "Sat Jul 24 09:29:54 +0000 2021",
+		"id": 1418860821690470400,
+		"id_str": "1418866018651459595",
+		"full_text": "알고있지만, OST Part.6\n샘김 ‘Love Me Like That’\n\nMelon https://t.co/NzdtlkuiWA\nGenie https://t.co/6iPCbEXCnF\nBugs https://t.co/irUTCKjB0J\nFLO https://t.co/WHFGJ2EcPJ\n\n@LeegitItsSam #SamKim #LoveMeLikeThat\n#JTBC #알고있지만",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SamKim",
+					"indices": [
+						174,
+						181
+					]
+				},
+				{
+					"text": "LoveMeLikeThat",
+					"indices": [
+						182,
+						197
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						198,
+						203
+					]
+				},
+				{
+					"text": "알고있지만",
+					"indices": [
+						204,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeegitItsSam",
+					"name": "Sam Kim 샘김",
+					"id": 1202716135,
+					"id_str": "1202716135",
+					"indices": [
+						160,
+						173
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NzdtlkuiWA",
+					"expanded_url": "http://bit.ly/3iHnwjR",
+					"display_url": "bit.ly/3iHnwjR",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/6iPCbEXCnF",
+					"expanded_url": "http://bit.ly/3BEqVs7",
+					"display_url": "bit.ly/3BEqVs7",
+					"indices": [
+						78,
+						101
+					]
+				},
+				{
+					"url": "https://t.co/irUTCKjB0J",
+					"expanded_url": "http://bit.ly/3y1W071",
+					"display_url": "bit.ly/3y1W071",
+					"indices": [
+						107,
+						130
+					]
+				},
+				{
+					"url": "https://t.co/WHFGJ2EcPJ",
+					"expanded_url": "http://bit.ly/3x6ydS2",
+					"display_url": "bit.ly/3x6ydS2",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1418860819291381800,
+		"in_reply_to_status_id_str": "1418860819291381760",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 정재형 Single 'Dance of Phrase (Feat. 김아일)' 2021. 07. 21. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36750,
+			"friends_count": 10,
+			"listed_count": 372,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3744,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "알고있지만, OST Part.6\n샘김 ‘Love Me Like That’\n\nMelon https://t.co/NzdtlkuiWA\nGenie https://t.co/6iPCbEXCnF\nBugs https://t.co/irUTCKjB0J\nFLO https://t.co/WHFGJ2EcPJ\n\n@LeegitItsSam #SamKim #LoveMeLikeThat\n#JTBC #알고있지만"
+	},
+	{
+		"created_at": "Sat Jul 24 09:29:51 +0000 2021",
+		"id": 1418860819291381800,
+		"id_str": "1418866005372280848",
+		"full_text": "[Release] #샘김\n\n알고있지만, OST Part.6\n샘김 ‘Love Me Like That’\n\nLyrics by 샘김 (Sam Kim), Zac Poor \nComposed by 샘김 (Sam Kim), Maxx Song, Zac Poor \nArranged by 샘김 (Sam Kim), Maxx Song, Zac Poor \n\n@LeegitItsSam #SamKim #LoveMeLikeThat\n#JTBC #알고있지만 https://t.co/WFtOPqlbLU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "샘김",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "SamKim",
+					"indices": [
+						200,
+						207
+					]
+				},
+				{
+					"text": "LoveMeLikeThat",
+					"indices": [
+						208,
+						223
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						224,
+						229
+					]
+				},
+				{
+					"text": "알고있지만",
+					"indices": [
+						230,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeegitItsSam",
+					"name": "Sam Kim 샘김",
+					"id": 1202716135,
+					"id_str": "1202716135",
+					"indices": [
+						186,
+						199
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1418859910561947600,
+					"id_str": "1418859910561947652",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/E7DNkjsWYAQiKul.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7DNkjsWYAQiKul.jpg",
+					"url": "https://t.co/WFtOPqlbLU",
+					"display_url": "pic.twitter.com/WFtOPqlbLU",
+					"expanded_url": "https://twitter.com/antennamusic/status/1418860819291381760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418859910561947600,
+					"id_str": "1418859910561947652",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/E7DNkjsWYAQiKul.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7DNkjsWYAQiKul.jpg",
+					"url": "https://t.co/WFtOPqlbLU",
+					"display_url": "pic.twitter.com/WFtOPqlbLU",
+					"expanded_url": "https://twitter.com/antennamusic/status/1418860819291381760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 정재형 Single 'Dance of Phrase (Feat. 김아일)' 2021. 07. 21. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36750,
+			"friends_count": 10,
+			"listed_count": 372,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3744,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 164,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release] #샘김\n\n알고있지만, OST Part.6\n샘김 ‘Love Me Like That’\n\nLyrics by 샘김 (Sam Kim), Zac Poor \nComposed by 샘김 (Sam Kim), Maxx Song, Zac Poor \nArranged by 샘김 (Sam Kim), Maxx Song, Zac Poor \n\n@LeegitItsSam #SamKim #LoveMeLikeThat\n#JTBC #알고있지만 https://t.co/WFtOPqlbLU"
+	},
+	{
+		"created_at": "Sat Jul 24 09:29:46 +0000 2021",
+		"id": 1418860157551980500,
+		"id_str": "1418865983842816011",
+		"full_text": "💿NEW MUSIC TODAY💿\nJTBC드라마 &lt;알고있지만,&gt; OST Part.6\n\"샘김 (@LeegitItsSam) -Love Me Like That\"을 지금 바로 음원 사이트에서 만나보세요!\n⠀\n🦋 https://t.co/QuqtQeWmjq\n⠀\n#warnerkpop #warnermusic #release #OST #JTBC #알고있지만 #송강 #한소희 #샘김 #SamKim #LoveMeLikeThat https://t.co/KXb1qZJovt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						145,
+						156
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						157,
+						169
+					]
+				},
+				{
+					"text": "release",
+					"indices": [
+						170,
+						178
+					]
+				},
+				{
+					"text": "OST",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						184,
+						189
+					]
+				},
+				{
+					"text": "알고있지만",
+					"indices": [
+						190,
+						196
+					]
+				},
+				{
+					"text": "송강",
+					"indices": [
+						197,
+						200
+					]
+				},
+				{
+					"text": "한소희",
+					"indices": [
+						201,
+						205
+					]
+				},
+				{
+					"text": "샘김",
+					"indices": [
+						206,
+						209
+					]
+				},
+				{
+					"text": "SamKim",
+					"indices": [
+						210,
+						217
+					]
+				},
+				{
+					"text": "LoveMeLikeThat",
+					"indices": [
+						218,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeegitItsSam",
+					"name": "Sam Kim 샘김",
+					"id": 1202716135,
+					"id_str": "1202716135",
+					"indices": [
+						57,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QuqtQeWmjq",
+					"expanded_url": "https://wmk.lnk.to/NeverthelessPart6",
+					"display_url": "wmk.lnk.to/NeverthelessPa…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1418860020486316000,
+					"id_str": "1418860020486316044",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1418860020486316044/pu/img/Q7RV3BdogCeVq0NT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1418860020486316044/pu/img/Q7RV3BdogCeVq0NT.jpg",
+					"url": "https://t.co/KXb1qZJovt",
+					"display_url": "pic.twitter.com/KXb1qZJovt",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1418860157551980558/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418860020486316000,
+					"id_str": "1418860020486316044",
+					"indices": [
+						234,
+						257
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1418860020486316044/pu/img/Q7RV3BdogCeVq0NT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1418860020486316044/pu/img/Q7RV3BdogCeVq0NT.jpg",
+					"url": "https://t.co/KXb1qZJovt",
+					"display_url": "pic.twitter.com/KXb1qZJovt",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1418860157551980558/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 45001,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1418860020486316044/pu/vid/540x540/fqHx7E8BHoCRQ05W.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1418860020486316044/pu/vid/320x320/pCJYPXPtWcStJZ-_.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1418860020486316044/pu/vid/720x720/4l0gvYynLbz8Y5dd.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1418860020486316044/pu/pl/1kr9OCOsWCsVIkBm.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51602,
+			"friends_count": 496,
+			"listed_count": 190,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 216,
+		"favorite_count": 249,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\nJTBC드라마 &lt;알고있지만,&gt; OST Part.6\n\"샘김 (@LeegitItsSam) -Love Me Like That\"을 지금 바로 음원 사이트에서 만나보세요!\n⠀\n🦋 https://t.co/QuqtQeWmjq\n⠀\n#warnerkpop #warnermusic #release #OST #JTBC #알고있지만 #송강 #한소희 #샘김 #SamKim #LoveMeLikeThat https://t.co/KXb1qZJovt"
+	},
+	{
+		"created_at": "Sat Jul 24 09:29:41 +0000 2021",
+		"id": 1418859035961565200,
+		"id_str": "1418865962309271557",
+		"full_text": "[#인순이] #노래커버\n\n▶Dance Monkey (vocal by 인순이)◀\n\n오랜만에 등장한 노래커버영상!\n\n'제가 부르는 'Dance Monkey' 들으시며 \n신나는 주말 보내세요!'\n\nby. 인순이\n\n👉 https://t.co/zl0ZkUMjIF\n\n#INSOONI #DanceMonkey #TonesAndI https://t.co/mcKDhrQ8V2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "노래커버",
+					"indices": [
+						7,
+						12
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						143,
+						151
+					]
+				},
+				{
+					"text": "DanceMonkey",
+					"indices": [
+						152,
+						164
+					]
+				},
+				{
+					"text": "TonesAndI",
+					"indices": [
+						165,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zl0ZkUMjIF",
+					"expanded_url": "https://youtu.be/Oh-2hO4ou1M",
+					"display_url": "youtu.be/Oh-2hO4ou1M",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1418859028298539000,
+					"id_str": "1418859028298539009",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/E7DMxNAXIAE8BQP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7DMxNAXIAE8BQP.jpg",
+					"url": "https://t.co/mcKDhrQ8V2",
+					"display_url": "pic.twitter.com/mcKDhrQ8V2",
+					"expanded_url": "https://twitter.com/humap_official/status/1418859035961565191/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1011,
+							"h": 568,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1011,
+							"h": 568,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418859028298539000,
+					"id_str": "1418859028298539009",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/E7DMxNAXIAE8BQP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7DMxNAXIAE8BQP.jpg",
+					"url": "https://t.co/mcKDhrQ8V2",
+					"display_url": "pic.twitter.com/mcKDhrQ8V2",
+					"expanded_url": "https://twitter.com/humap_official/status/1418859035961565191/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1011,
+							"h": 568,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1011,
+							"h": 568,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#인순이] #노래커버\n\n▶Dance Monkey (vocal by 인순이)◀\n\n오랜만에 등장한 노래커버영상!\n\n'제가 부르는 'Dance Monkey' 들으시며 \n신나는 주말 보내세요!'\n\nby. 인순이\n\n👉 https://t.co/zl0ZkUMjIF\n\n#INSOONI #DanceMonkey #TonesAndI https://t.co/mcKDhrQ8V2"
+	},
+	{
+		"created_at": "Sat Jul 24 09:29:34 +0000 2021",
+		"id": 1418858954491318300,
+		"id_str": "1418865932219334669",
+		"full_text": "골든차일드(Golden Child)\n2nd Full Album [GAME CHANGER] : Individual Film\n#TAG\n\nhttps://t.co/Cipro9XG1V\nhttps://t.co/z6CcM22YbJ\n\n#GoldenChild #골든차일드 #GAME_CHANGER https://t.co/OA4tVAZS6s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAG",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						123,
+						135
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "GAME_CHANGER",
+					"indices": [
+						143,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Cipro9XG1V",
+					"expanded_url": "https://youtu.be/fdaF9ecRikQ",
+					"display_url": "youtu.be/fdaF9ecRikQ",
+					"indices": [
+						74,
+						97
+					]
+				},
+				{
+					"url": "https://t.co/z6CcM22YbJ",
+					"expanded_url": "https://www.vlive.tv/post/0-24282240",
+					"display_url": "vlive.tv/post/0-24282240",
+					"indices": [
+						98,
+						121
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1418858946085933000,
+					"id_str": "1418858946085933062",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E7DMsavWUAYkNaV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7DMsavWUAYkNaV.jpg",
+					"url": "https://t.co/OA4tVAZS6s",
+					"display_url": "pic.twitter.com/OA4tVAZS6s",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1418858954491318279/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418858946085933000,
+					"id_str": "1418858946085933062",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E7DMsavWUAYkNaV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7DMsavWUAYkNaV.jpg",
+					"url": "https://t.co/OA4tVAZS6s",
+					"display_url": "pic.twitter.com/OA4tVAZS6s",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1418858954491318279/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTuZ29E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTuZ29E",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426534,
+			"friends_count": 10,
+			"listed_count": 1903,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1626685383",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 337,
+		"favorite_count": 732,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "골든차일드(Golden Child)\n2nd Full Album [GAME CHANGER] : Individual Film\n#TAG\n\nhttps://t.co/Cipro9XG1V\nhttps://t.co/z6CcM22YbJ\n\n#GoldenChild #골든차일드 #GAME_CHANGER https://t.co/OA4tVAZS6s"
+	},
+	{
 		"created_at": "Sat Jul 24 09:09:31 +0000 2021",
 		"id": 1418860887444762600,
 		"id_str": "1418860887444762628",
