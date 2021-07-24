@@ -1,6 +1,664 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 24 03:29:34 +0000 2021",
+		"id": 1418772990376898600,
+		"id_str": "1418775337111105540",
+		"full_text": "[News] #권진아\n\n'컴백 D-3' 권진아, 청량+발랄의 서머 싱글 ‘KNOCK (With 박문치)’\n\n(출처: OSEN | 네이버 TV연예)\n\n✔️ https://t.co/TdGoHWDg9Y\n\n#권진아 #KwonJinAh #KNOCK\n#박문치 #PARKMOONCHI\n#20210727_6PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권진아",
+					"indices": [
+						7,
+						11
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						116,
+						126
+					]
+				},
+				{
+					"text": "KNOCK",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "박문치",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "PARKMOONCHI",
+					"indices": [
+						139,
+						151
+					]
+				},
+				{
+					"text": "20210727_6PM",
+					"indices": [
+						152,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TdGoHWDg9Y",
+					"expanded_url": "http://naver.me/xXrvUqyD",
+					"display_url": "naver.me/xXrvUqyD",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 정재형 Single 'Dance of Phrase (Feat. 김아일)' 2021. 07. 21. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36745,
+			"friends_count": 10,
+			"listed_count": 372,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[News] #권진아\n\n'컴백 D-3' 권진아, 청량+발랄의 서머 싱글 ‘KNOCK (With 박문치)’\n\n(출처: OSEN | 네이버 TV연예)\n\n✔️ https://t.co/TdGoHWDg9Y\n\n#권진아 #KwonJinAh #KNOCK\n#박문치 #PARKMOONCHI\n#20210727_6PM"
+	},
+	{
+		"created_at": "Sat Jul 24 03:29:29 +0000 2021",
+		"id": 1418768351669624800,
+		"id_str": "1418775315430707203",
+		"full_text": "골든차일드(Golden Child)\n2nd Full Album [GAME CHANGER] : Individual Photo\n#TAG\n\n#GoldenChild #골든차일드\n#GAME_CHANGER #20210802_6PM https://t.co/cA34n07IOh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAG",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						75,
+						87
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "GAME_CHANGER",
+					"indices": [
+						95,
+						108
+					]
+				},
+				{
+					"text": "20210802_6PM",
+					"indices": [
+						109,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1418768331834749000,
+					"id_str": "1418768331834748929",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/E7B6R-WVcAEchcO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7B6R-WVcAEchcO.jpg",
+					"url": "https://t.co/cA34n07IOh",
+					"display_url": "pic.twitter.com/cA34n07IOh",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1418768351669624835/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418768331834749000,
+					"id_str": "1418768331834748929",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/E7B6R-WVcAEchcO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7B6R-WVcAEchcO.jpg",
+					"url": "https://t.co/cA34n07IOh",
+					"display_url": "pic.twitter.com/cA34n07IOh",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1418768351669624835/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1418768331918635000,
+					"id_str": "1418768331918635013",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/E7B6R-qVcAUxhQk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7B6R-qVcAUxhQk.jpg",
+					"url": "https://t.co/cA34n07IOh",
+					"display_url": "pic.twitter.com/cA34n07IOh",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1418768351669624835/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTuZ29E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTuZ29E",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426543,
+			"friends_count": 10,
+			"listed_count": 1902,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1626685383",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 471,
+		"favorite_count": 1178,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "골든차일드(Golden Child)\n2nd Full Album [GAME CHANGER] : Individual Photo\n#TAG\n\n#GoldenChild #골든차일드\n#GAME_CHANGER #20210802_6PM https://t.co/cA34n07IOh"
+	},
+	{
+		"created_at": "Sat Jul 24 03:29:27 +0000 2021",
+		"id": 1418768238318526500,
+		"id_str": "1418775306484293633",
+		"full_text": "골든차일드(Golden Child)\n2nd Full Album [GAME CHANGER] : Individual Photo\n#김동현 (#KimDongHyun)\n\n#GoldenChild #골든차일드\n#GAME_CHANGER #20210802_6PM https://t.co/kH8rhDwnzq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김동현",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "KimDongHyun",
+					"indices": [
+						75,
+						87
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						90,
+						102
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "GAME_CHANGER",
+					"indices": [
+						110,
+						123
+					]
+				},
+				{
+					"text": "20210802_6PM",
+					"indices": [
+						124,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1418768212586467300,
+					"id_str": "1418768212586467335",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/E7B6LCHVEAcuJLW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7B6LCHVEAcuJLW.jpg",
+					"url": "https://t.co/kH8rhDwnzq",
+					"display_url": "pic.twitter.com/kH8rhDwnzq",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1418768238318526464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418768212586467300,
+					"id_str": "1418768212586467335",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/E7B6LCHVEAcuJLW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7B6LCHVEAcuJLW.jpg",
+					"url": "https://t.co/kH8rhDwnzq",
+					"display_url": "pic.twitter.com/kH8rhDwnzq",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1418768238318526464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1418768212783632400,
+					"id_str": "1418768212783632384",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/E7B6LC2VkAA4SHt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7B6LC2VkAA4SHt.jpg",
+					"url": "https://t.co/kH8rhDwnzq",
+					"display_url": "pic.twitter.com/kH8rhDwnzq",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1418768238318526464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTuZ29E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTuZ29E",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426543,
+			"friends_count": 10,
+			"listed_count": 1902,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1626685383",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 460,
+		"favorite_count": 1109,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "골든차일드(Golden Child)\n2nd Full Album [GAME CHANGER] : Individual Photo\n#김동현 (#KimDongHyun)\n\n#GoldenChild #골든차일드\n#GAME_CHANGER #20210802_6PM https://t.co/kH8rhDwnzq"
+	},
+	{
 		"created_at": "Sat Jul 24 03:15:24 +0000 2021",
 		"id": 1418771771420037000,
 		"id_str": "1418771771420037122",
