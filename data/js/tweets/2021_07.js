@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 24 04:29:25 +0000 2021",
+		"id": 1418776294813094000,
+		"id_str": "1418790397002850305",
+		"full_text": "[#민서] 이미테이션 OST 올트랙 공개✔️\n종영한 드라마의 여운을 OST로 함께 하세요.\n\n티파티 리더 리아로 활약한 민서의 참여곡은 지금 바로 음원사이트에서🎶\n\n#MINSEO #KBS2 #이미테이션 #이미테이션OST #리아 https://t.co/BE5gI9ISxc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민서",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "MINSEO",
+					"indices": [
+						92,
+						99
+					]
+				},
+				{
+					"text": "KBS2",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "이미테이션",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "이미테이션OST",
+					"indices": [
+						113,
+						122
+					]
+				},
+				{
+					"text": "리아",
+					"indices": [
+						123,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1418776286885859300,
+					"id_str": "1418776286885859330",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/E7CBhBOUUAIlPDg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7CBhBOUUAIlPDg.jpg",
+					"url": "https://t.co/BE5gI9ISxc",
+					"display_url": "pic.twitter.com/BE5gI9ISxc",
+					"expanded_url": "https://twitter.com/themysticstory/status/1418776294813093897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1016,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1016,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418776286885859300,
+					"id_str": "1418776286885859330",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/E7CBhBOUUAIlPDg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7CBhBOUUAIlPDg.jpg",
+					"url": "https://t.co/BE5gI9ISxc",
+					"display_url": "pic.twitter.com/BE5gI9ISxc",
+					"expanded_url": "https://twitter.com/themysticstory/status/1418776294813093897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1016,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1016,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21280,
+			"friends_count": 17,
+			"listed_count": 234,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#민서] 이미테이션 OST 올트랙 공개✔️\n종영한 드라마의 여운을 OST로 함께 하세요.\n\n티파티 리더 리아로 활약한 민서의 참여곡은 지금 바로 음원사이트에서🎶\n\n#MINSEO #KBS2 #이미테이션 #이미테이션OST #리아 https://t.co/BE5gI9ISxc"
+	},
+	{
 		"created_at": "Sat Jul 24 03:29:34 +0000 2021",
 		"id": 1418772990376898600,
 		"id_str": "1418775337111105540",
