@@ -1,6 +1,494 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 24 06:08:34 +0000 2021",
+		"id": 1418815349051601000,
+		"id_str": "1418815349051600900",
+		"full_text": "#EBS스페이스공감 #스페이스공감 #공감 \n[EBS 스페이스 공감] 선공개 영상 1415 - LOST\nhttps://t.co/OK5x4KGaBl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EBS스페이스공감",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "스페이스공감",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"text": "공감",
+					"indices": [
+						19,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OK5x4KGaBl",
+					"expanded_url": "https://youtu.be/hVOBJ7i1bRU",
+					"display_url": "youtu.be/hVOBJ7i1bRU",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "🌈 문화예술 커뮤니티, 솔플파티\n\n#문화예술정보 @ArtManagementKR\n#뮤직매거진 @Magazine_KR\n#티켓오픈 @TicketOpen\n#음악방송 @KPOP_Broadcast\n\n\n▶ 참가하기\nhttps://t.co/VTy0e7c0kj\n\n❓ ABOUT\nhttps://t.co/eNOwJHvWcy",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VTy0e7c0kj",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								113,
+								136
+							]
+						},
+						{
+							"url": "https://t.co/eNOwJHvWcy",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								146,
+								169
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 257,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#EBS스페이스공감 #스페이스공감 #공감 \n[EBS 스페이스 공감] 선공개 영상 1415 - LOST\nhttps://t.co/OK5x4KGaBl"
+	},
+	{
+		"created_at": "Sat Jul 24 05:29:34 +0000 2021",
+		"id": 1418800446009872400,
+		"id_str": "1418805534640193539",
+		"full_text": "Paste Magazine의 \"10 New Albums to Stream Today\"에  @BandDBGC \"Marriage License\"가 소개되었어요🤩🤩🤩 https://t.co/VUzsrTLq1r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BandDBGC",
+					"name": "드링킹소년소녀합창단 Drinking Boys and Girls Choir Official",
+					"id": 944548838731157500,
+					"id_str": "944548838731157506",
+					"indices": [
+						50,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VUzsrTLq1r",
+					"expanded_url": "https://twitter.com/PasteMagazine/status/1418650045893722112",
+					"display_url": "twitter.com/PasteMagazine/…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3341,
+			"friends_count": 1299,
+			"listed_count": 106,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 5858,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25617,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1418650045893722000,
+		"quoted_status_id_str": "1418650045893722112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VUzsrTLq1r",
+			"expanded": "https://twitter.com/PasteMagazine/status/1418650045893722112",
+			"display": "twitter.com/PasteMagazine/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 23 19:11:42 +0000 2021",
+			"id": 1418650045893722000,
+			"id_str": "1418650045893722112",
+			"full_text": "10 new albums to stream today, feat. @leonbridges, @DarksideUSA, Anika (@anikainvada) and more: https://t.co/gQI9u8BkxN https://t.co/V7vUVuA97K",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				119
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "leonbridges",
+						"name": "Leon Bridges",
+						"id": 46597488,
+						"id_str": "46597488",
+						"indices": [
+							37,
+							49
+						]
+					},
+					{
+						"screen_name": "DarksideUSA",
+						"name": "DARKSIDE",
+						"id": 1431309086,
+						"id_str": "1431309086",
+						"indices": [
+							51,
+							63
+						]
+					},
+					{
+						"screen_name": "anikainvada",
+						"name": "anika",
+						"id": 196544553,
+						"id_str": "196544553",
+						"indices": [
+							72,
+							84
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/gQI9u8BkxN",
+						"expanded_url": "https://bit.ly/2WgrXdN",
+						"display_url": "bit.ly/2WgrXdN",
+						"indices": [
+							96,
+							119
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1418650044966768600,
+						"id_str": "1418650044966768644",
+						"indices": [
+							120,
+							143
+						],
+						"media_url": "http://pbs.twimg.com/media/E7AOsxbWEAQTAiB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E7AOsxbWEAQTAiB.jpg",
+						"url": "https://t.co/V7vUVuA97K",
+						"display_url": "pic.twitter.com/V7vUVuA97K",
+						"expanded_url": "https://twitter.com/PasteMagazine/status/1418650045893722112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 678,
+								"h": 381,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 678,
+								"h": 381,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 678,
+								"h": 381,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1418650044966768600,
+						"id_str": "1418650044966768644",
+						"indices": [
+							120,
+							143
+						],
+						"media_url": "http://pbs.twimg.com/media/E7AOsxbWEAQTAiB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E7AOsxbWEAQTAiB.jpg",
+						"url": "https://t.co/V7vUVuA97K",
+						"display_url": "pic.twitter.com/V7vUVuA97K",
+						"expanded_url": "https://twitter.com/PasteMagazine/status/1418650045893722112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 678,
+								"h": 381,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 678,
+								"h": 381,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 678,
+								"h": 381,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.pastemagazine.com/\" rel=\"nofollow\">Paste</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6604072,
+				"id_str": "6604072",
+				"name": "Paste Magazine",
+				"screen_name": "PasteMagazine",
+				"location": "Atlanta, GA",
+				"description": "SIGNS of LIFE in MUSIC, FILM & CULTURE.",
+				"url": "https://t.co/oH0WZdRQKy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oH0WZdRQKy",
+								"expanded_url": "http://www.pastemagazine.com",
+								"display_url": "pastemagazine.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 234461,
+				"friends_count": 90859,
+				"listed_count": 9854,
+				"created_at": "Tue Jun 05 21:30:47 +0000 2007",
+				"favourites_count": 9437,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 131956,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/811652687196368896/NmzCv8tu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/811652687196368896/NmzCv8tu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6604072/1568156086",
+				"profile_link_color": "0B61A0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Paste Magazine의 \"10 New Albums to Stream Today\"에  @BandDBGC \"Marriage License\"가 소개되었어요🤩🤩🤩 https://t.co/VUzsrTLq1r"
+	},
+	{
 		"created_at": "Sat Jul 24 04:29:25 +0000 2021",
 		"id": 1418776294813094000,
 		"id_str": "1418790397002850305",
