@@ -1,6 +1,474 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 25 09:29:34 +0000 2021",
+		"id": 1419222488660136000,
+		"id_str": "1419228320957403140",
+		"full_text": "선우정아 ‘BUFFALO’ OUT NOW🔥\n\n선우정아의 새 싱글, ‘BUFFALO’가 발매되었습니다. \n\n다양한 레이어의 신쓰, 쿵쾅대는 드럼과\n소띠 연예인과 팬들의 코러스가 빚어낸\n강렬한 사운드의 ‘BUFFALO’를 지금 감상해보세요.\n\n🔗https://t.co/a4huMPacL8\n#선우정아 #버팔로 #sunwoojunga #buffalo https://t.co/2XJffDJY1P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "선우정아",
+					"indices": [
+						159,
+						164
+					]
+				},
+				{
+					"text": "버팔로",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "sunwoojunga",
+					"indices": [
+						170,
+						182
+					]
+				},
+				{
+					"text": "buffalo",
+					"indices": [
+						183,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a4huMPacL8",
+					"expanded_url": "https://youtu.be/aiwBWDELGeg",
+					"display_url": "youtu.be/aiwBWDELGeg",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1419222345923715000,
+					"id_str": "1419222345923715072",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1419222345923715072/pu/img/s_FmgK7oEcPSaVxp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1419222345923715072/pu/img/s_FmgK7oEcPSaVxp.jpg",
+					"url": "https://t.co/2XJffDJY1P",
+					"display_url": "pic.twitter.com/2XJffDJY1P",
+					"expanded_url": "https://twitter.com/msbsound/status/1419222488660135939/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 633,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1419222345923715000,
+					"id_str": "1419222345923715072",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1419222345923715072/pu/img/s_FmgK7oEcPSaVxp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1419222345923715072/pu/img/s_FmgK7oEcPSaVxp.jpg",
+					"url": "https://t.co/2XJffDJY1P",
+					"display_url": "pic.twitter.com/2XJffDJY1P",
+					"expanded_url": "https://twitter.com/msbsound/status/1419222488660135939/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 633,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							341,
+							180
+						],
+						"duration_millis": 47839,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1419222345923715072/pu/pl/Sv9ifjbyMb31K-47.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1419222345923715072/pu/vid/1364x720/ZRhdd3sp9EBTQexB.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1419222345923715072/pu/vid/510x270/vNyTCnsmBHUOkBWB.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1419222345923715072/pu/vid/682x360/RmAr850CkE9nI-zX.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드 MAGIC STRAWBERRY SOUND / Music label based in Korea",
+			"url": "https://t.co/2ZpTkk9tMw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2ZpTkk9tMw",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8527,
+			"friends_count": 19,
+			"listed_count": 100,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 95,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1597394894",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "선우정아 ‘BUFFALO’ OUT NOW🔥\n\n선우정아의 새 싱글, ‘BUFFALO’가 발매되었습니다. \n\n다양한 레이어의 신쓰, 쿵쾅대는 드럼과\n소띠 연예인과 팬들의 코러스가 빚어낸\n강렬한 사운드의 ‘BUFFALO’를 지금 감상해보세요.\n\n🔗https://t.co/a4huMPacL8\n#선우정아 #버팔로 #sunwoojunga #buffalo https://t.co/2XJffDJY1P"
+	},
+	{
+		"created_at": "Sun Jul 25 09:29:31 +0000 2021",
+		"id": 1419221346014298000,
+		"id_str": "1419228307850158082",
+		"full_text": "골든차일드(Golden Child)\n2nd Full Album [GAME CHANGER] : Individual Film \n#Y\n\nhttps://t.co/837nPg5q3S\nhttps://t.co/ZrbToZ824u\n\n#GoldenChild #골든차일드 #GAME_CHANGER https://t.co/65NXu5lMsf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Y",
+					"indices": [
+						69,
+						71
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						122,
+						134
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						135,
+						141
+					]
+				},
+				{
+					"text": "GAME_CHANGER",
+					"indices": [
+						142,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/837nPg5q3S",
+					"expanded_url": "https://youtu.be/8F1VEYecHng",
+					"display_url": "youtu.be/8F1VEYecHng",
+					"indices": [
+						73,
+						96
+					]
+				},
+				{
+					"url": "https://t.co/ZrbToZ824u",
+					"expanded_url": "https://www.vlive.tv/post/0-24287533",
+					"display_url": "vlive.tv/post/0-24287533",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1419221340293193700,
+					"id_str": "1419221340293193730",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/E7IWSiXUYAIL1l5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7IWSiXUYAIL1l5.jpg",
+					"url": "https://t.co/65NXu5lMsf",
+					"display_url": "pic.twitter.com/65NXu5lMsf",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1419221346014298112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1419221340293193700,
+					"id_str": "1419221340293193730",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/E7IWSiXUYAIL1l5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7IWSiXUYAIL1l5.jpg",
+					"url": "https://t.co/65NXu5lMsf",
+					"display_url": "pic.twitter.com/65NXu5lMsf",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1419221346014298112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTuZ29E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTuZ29E",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426486,
+			"friends_count": 10,
+			"listed_count": 1906,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1626685383",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 311,
+		"favorite_count": 709,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "골든차일드(Golden Child)\n2nd Full Album [GAME CHANGER] : Individual Film \n#Y\n\nhttps://t.co/837nPg5q3S\nhttps://t.co/ZrbToZ824u\n\n#GoldenChild #골든차일드 #GAME_CHANGER https://t.co/65NXu5lMsf"
+	},
+	{
 		"created_at": "Sun Jul 25 09:17:49 +0000 2021",
 		"id": 1419225363025105000,
 		"id_str": "1419225363025104901",
