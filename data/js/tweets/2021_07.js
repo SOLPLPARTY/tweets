@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 25 03:29:31 +0000 2021",
+		"id": 1419130951976640500,
+		"id_str": "1419137711122927617",
+		"full_text": "골든차일드(Golden Child)\n2nd Full Album [GAME CHANGER] : Individual Photo\n#Y\n\n#GoldenChild #골든차일드\n#GAME_CHANGER #20210802_6PM https://t.co/3LvNtdJXqZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Y",
+					"indices": [
+						69,
+						71
+					]
+				},
+				{
+					"text": "GoldenChild",
+					"indices": [
+						73,
+						85
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "GAME_CHANGER",
+					"indices": [
+						93,
+						106
+					]
+				},
+				{
+					"text": "20210802_6PM",
+					"indices": [
+						107,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1419130888722411500,
+					"id_str": "1419130888722411520",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/E7HEBkAVcAAsOCS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7HEBkAVcAAsOCS.jpg",
+					"url": "https://t.co/3LvNtdJXqZ",
+					"display_url": "pic.twitter.com/3LvNtdJXqZ",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1419130951976640513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1419130888722411500,
+					"id_str": "1419130888722411520",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/E7HEBkAVcAAsOCS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7HEBkAVcAAsOCS.jpg",
+					"url": "https://t.co/3LvNtdJXqZ",
+					"display_url": "pic.twitter.com/3LvNtdJXqZ",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1419130951976640513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1419130906862702600,
+					"id_str": "1419130906862702593",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/E7HECnlUUAEHjH2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7HECnlUUAEHjH2.jpg",
+					"url": "https://t.co/3LvNtdJXqZ",
+					"display_url": "pic.twitter.com/3LvNtdJXqZ",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1419130951976640513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTuZ29E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTuZ29E",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426497,
+			"friends_count": 10,
+			"listed_count": 1906,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1626685383",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 490,
+		"favorite_count": 1144,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "골든차일드(Golden Child)\n2nd Full Album [GAME CHANGER] : Individual Photo\n#Y\n\n#GoldenChild #골든차일드\n#GAME_CHANGER #20210802_6PM https://t.co/3LvNtdJXqZ"
+	},
+	{
 		"created_at": "Sun Jul 25 03:14:52 +0000 2021",
 		"id": 1419134025680277500,
 		"id_str": "1419134025680277504",
