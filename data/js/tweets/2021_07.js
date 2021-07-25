@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 25 10:29:24 +0000 2021",
+		"id": 1419230317567570000,
+		"id_str": "1419243381134397442",
+		"full_text": "[김우주]\n'장기하와 얼굴들 - 아무도 필요없다'\n김우주가 커버한 노래 들으러 오세요👏🏻\n\n➡️ https://t.co/Ais0ozDAWM\n\n#김우주 #커버곡 #music #음악 https://t.co/sqN6ZN7Gmb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김우주",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "커버곡",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "music",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "음악",
+					"indices": [
+						96,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ais0ozDAWM",
+					"expanded_url": "https://bit.ly/2V7WUjJ",
+					"display_url": "bit.ly/2V7WUjJ",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1419230193290408000,
+					"id_str": "1419230193290407936",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1419230193290407936/pu/img/L3tQDQ5Fqk1mMzS5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1419230193290407936/pu/img/L3tQDQ5Fqk1mMzS5.jpg",
+					"url": "https://t.co/sqN6ZN7Gmb",
+					"display_url": "pic.twitter.com/sqN6ZN7Gmb",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1419230317567569921/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1419230193290408000,
+					"id_str": "1419230193290407936",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1419230193290407936/pu/img/L3tQDQ5Fqk1mMzS5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1419230193290407936/pu/img/L3tQDQ5Fqk1mMzS5.jpg",
+					"url": "https://t.co/sqN6ZN7Gmb",
+					"display_url": "pic.twitter.com/sqN6ZN7Gmb",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1419230317567569921/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1419230193290407936/pu/pl/j5AQVcOWR3DKOzoD.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1419230193290407936/pu/vid/320x320/U5VoZkJn62nS4xtp.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1419230193290407936/pu/vid/540x540/pxkM14vX0q-L9RVi.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1419230193290407936/pu/vid/720x720/Tv2T9o944DVTpkQl.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/에버루아/아일",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 800,
+			"friends_count": 7,
+			"listed_count": 17,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[김우주]\n'장기하와 얼굴들 - 아무도 필요없다'\n김우주가 커버한 노래 들으러 오세요👏🏻\n\n➡️ https://t.co/Ais0ozDAWM\n\n#김우주 #커버곡 #music #음악 https://t.co/sqN6ZN7Gmb"
+	},
+	{
 		"created_at": "Sun Jul 25 09:29:34 +0000 2021",
 		"id": 1419222488660136000,
 		"id_str": "1419228320957403140",
