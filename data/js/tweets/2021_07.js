@@ -1,6 +1,414 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 25 15:29:40 +0000 2021",
+		"id": 1419311980846911500,
+		"id_str": "1419318942414295043",
+		"full_text": "KANGTA 강타 [7월의 크리스마스 (Christmas in July)]\n\n🎧 2021.07.28. 6PM (KST)\n\n#강타 #KANGTA \n#7월의크리스마스 #Christmas_in_July https://t.co/LrpdUzzxUA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강타",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "KANGTA",
+					"indices": [
+						72,
+						79
+					]
+				},
+				{
+					"text": "7월의크리스마스",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"text": "Christmas_in_July",
+					"indices": [
+						91,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1419187671126057000,
+					"id_str": "1419187671126056962",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/E7H3qu8VIAIBJJT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7H3qu8VIAIBJJT.jpg",
+					"url": "https://t.co/LrpdUzzxUA",
+					"display_url": "pic.twitter.com/LrpdUzzxUA",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1419311980846911488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 808,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1380,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1419187671126057000,
+					"id_str": "1419187671126056962",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/E7H3qu8VIAIBJJT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7H3qu8VIAIBJJT.jpg",
+					"url": "https://t.co/LrpdUzzxUA",
+					"display_url": "pic.twitter.com/LrpdUzzxUA",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1419311980846911488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 808,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1380,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9698485,
+			"friends_count": 55,
+			"listed_count": 10280,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10500,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 346,
+		"favorite_count": 2695,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KANGTA 강타 [7월의 크리스마스 (Christmas in July)]\n\n🎧 2021.07.28. 6PM (KST)\n\n#강타 #KANGTA \n#7월의크리스마스 #Christmas_in_July https://t.co/LrpdUzzxUA"
+	},
+	{
+		"created_at": "Sun Jul 25 15:29:34 +0000 2021",
+		"id": 1419311728983109600,
+		"id_str": "1419318916749348864",
+		"full_text": "KANGTA 강타 [7월의 크리스마스 (Christmas in July)]\n\n🎧 2021.07.28. 6PM (KST)\n\n#강타 #KANGTA \n#7월의크리스마스 #Christmas_in_July https://t.co/aijOUn9B8h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강타",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "KANGTA",
+					"indices": [
+						72,
+						79
+					]
+				},
+				{
+					"text": "7월의크리스마스",
+					"indices": [
+						81,
+						90
+					]
+				},
+				{
+					"text": "Christmas_in_July",
+					"indices": [
+						91,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1419187675286757400,
+					"id_str": "1419187675286757376",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/E7H3q-cUYAA4KcQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7H3q-cUYAA4KcQ.jpg",
+					"url": "https://t.co/aijOUn9B8h",
+					"display_url": "pic.twitter.com/aijOUn9B8h",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1419311728983109635/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1419187675286757400,
+					"id_str": "1419187675286757376",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/E7H3q-cUYAA4KcQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7H3q-cUYAA4KcQ.jpg",
+					"url": "https://t.co/aijOUn9B8h",
+					"display_url": "pic.twitter.com/aijOUn9B8h",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1419311728983109635/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9698485,
+			"friends_count": 55,
+			"listed_count": 10280,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10500,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 373,
+		"favorite_count": 3017,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KANGTA 강타 [7월의 크리스마스 (Christmas in July)]\n\n🎧 2021.07.28. 6PM (KST)\n\n#강타 #KANGTA \n#7월의크리스마스 #Christmas_in_July https://t.co/aijOUn9B8h"
+	},
+	{
 		"created_at": "Sun Jul 25 14:29:25 +0000 2021",
 		"id": 1419299080614776800,
 		"id_str": "1419303779279724545",
