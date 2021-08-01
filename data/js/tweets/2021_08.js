@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sun Aug 01 13:29:25 +0000 2021",
+		"id": 1421822423263891500,
+		"id_str": "1421825395238883330",
+		"full_text": "[📸] 💚210801 HAPPY CHAEWON DAY✨\n\n✨빛나는 채원이의 생일🎉\n특별한 날을 함께해준 팬 여러분 감사해요~😘\n\n#KimChaeWon\n#HAPPYCHAEWONDAY #해피채원데이\n#눈부신여름_채원아_생일축하해\n#우리의_8월은_오직_김채원 https://t.co/KN2qSvsQh3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KimChaeWon",
+					"indices": [
+						72,
+						83
+					]
+				},
+				{
+					"text": "HAPPYCHAEWONDAY",
+					"indices": [
+						84,
+						100
+					]
+				},
+				{
+					"text": "해피채원데이",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"text": "눈부신여름_채원아_생일축하해",
+					"indices": [
+						109,
+						125
+					]
+				},
+				{
+					"text": "우리의_8월은_오직_김채원",
+					"indices": [
+						126,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1421822404901277700,
+					"id_str": "1421822404901277702",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/E7tT8bHVEAY7lMH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7tT8bHVEAY7lMH.jpg",
+					"url": "https://t.co/KN2qSvsQh3",
+					"display_url": "pic.twitter.com/KN2qSvsQh3",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1421822423263891458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 592,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1782,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1044,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1421822404901277700,
+					"id_str": "1421822404901277702",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/E7tT8bHVEAY7lMH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7tT8bHVEAY7lMH.jpg",
+					"url": "https://t.co/KN2qSvsQh3",
+					"display_url": "pic.twitter.com/KN2qSvsQh3",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1421822423263891458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 592,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1782,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1044,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1421822404913889300,
+					"id_str": "1421822404913889287",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/E7tT8bKVgAcas89.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7tT8bKVgAcas89.jpg",
+					"url": "https://t.co/KN2qSvsQh3",
+					"display_url": "pic.twitter.com/KN2qSvsQh3",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1421822423263891458/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 539,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 950,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1622,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTuZ29E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTuZ29E",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 427250,
+			"friends_count": 10,
+			"listed_count": 1906,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1627377718",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3903,
+		"favorite_count": 6245,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📸] 💚210801 HAPPY CHAEWON DAY✨\n\n✨빛나는 채원이의 생일🎉\n특별한 날을 함께해준 팬 여러분 감사해요~😘\n\n#KimChaeWon\n#HAPPYCHAEWONDAY #해피채원데이\n#눈부신여름_채원아_생일축하해\n#우리의_8월은_오직_김채원 https://t.co/KN2qSvsQh3"
+	},
+	{
 		"created_at": "Sun Aug 01 12:11:17 +0000 2021",
 		"id": 1421791030513336300,
 		"id_str": "1421805731850952704",
