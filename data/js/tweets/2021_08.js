@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sun Aug 01 12:11:17 +0000 2021",
+		"id": 1421791030513336300,
+		"id_str": "1421805731850952704",
+		"full_text": "빠르게 품절되었다가 재입고 된 책들의 소식입니다! 또 품절되기 전에 어서 공상온도에서 GET 하세요!\n.\nhttps://t.co/d7i5lMqQTc\n.\nhttps://t.co/XipgX8L2sV\nㅡ\n#공상온도입고서적 #펫로스 #그냥저냥지내 #오렌지카스텔라 #김종완 #서적 #재입고 https://t.co/6JDXw3AoUI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공상온도입고서적",
+					"indices": [
+						111,
+						120
+					]
+				},
+				{
+					"text": "펫로스",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "그냥저냥지내",
+					"indices": [
+						126,
+						133
+					]
+				},
+				{
+					"text": "오렌지카스텔라",
+					"indices": [
+						134,
+						142
+					]
+				},
+				{
+					"text": "김종완",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "서적",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "재입고",
+					"indices": [
+						152,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7i5lMqQTc",
+					"expanded_url": "http://www.gongsangondo.com",
+					"display_url": "gongsangondo.com",
+					"indices": [
+						59,
+						82
+					]
+				},
+				{
+					"url": "https://t.co/XipgX8L2sV",
+					"expanded_url": "http://smartstore.naver.com/gongsangondo",
+					"display_url": "smartstore.naver.com/gongsangondo",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1421791025354317800,
+					"id_str": "1421791025354317824",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E7s3Z5MVIAAfnkC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7s3Z5MVIAAfnkC.jpg",
+					"url": "https://t.co/6JDXw3AoUI",
+					"display_url": "pic.twitter.com/6JDXw3AoUI",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1421791030513336321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1421791025354317800,
+					"id_str": "1421791025354317824",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E7s3Z5MVIAAfnkC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7s3Z5MVIAAfnkC.jpg",
+					"url": "https://t.co/6JDXw3AoUI",
+					"display_url": "pic.twitter.com/6JDXw3AoUI",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1421791030513336321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1421791025371119600,
+					"id_str": "1421791025371119617",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E7s3Z5QVgAETnCb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7s3Z5QVgAETnCb.jpg",
+					"url": "https://t.co/6JDXw3AoUI",
+					"display_url": "pic.twitter.com/6JDXw3AoUI",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1421791030513336321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 378,
+			"friends_count": 209,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빠르게 품절되었다가 재입고 된 책들의 소식입니다! 또 품절되기 전에 어서 공상온도에서 GET 하세요!\n.\nhttps://t.co/d7i5lMqQTc\n.\nhttps://t.co/XipgX8L2sV\nㅡ\n#공상온도입고서적 #펫로스 #그냥저냥지내 #오렌지카스텔라 #김종완 #서적 #재입고 https://t.co/6JDXw3AoUI"
+	},
+	{
 		"created_at": "Sun Aug 01 11:11:07 +0000 2021",
 		"id": 1421790593685016600,
 		"id_str": "1421790593685016581",
