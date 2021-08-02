@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 02 14:29:24 +0000 2021",
+		"id": 1422192092990754800,
+		"id_str": "1422202881856393219",
+		"full_text": "[Video] #샘김\n\nJTBC 드라마 &lt;알고있지만&gt; OST 샘김 ‘Love Me Like That’ 깜짝 라이브 영상이 업로드 되었습니다. 기타 연주와 함께하는 ‘Love Me Like That’, 지금 바로 유튜브 ‘Sam Kim’ 채널에서 만나보세요💛\n\n💕샘김 ‘Love Me Like That’ Live\nhttps://t.co/0GJuzwlerz\n\n#SamKim #LoveMeLikeThat https://t.co/647YTiJtBT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "샘김",
+					"indices": [
+						8,
+						11
+					]
+				},
+				{
+					"text": "SamKim",
+					"indices": [
+						205,
+						212
+					]
+				},
+				{
+					"text": "LoveMeLikeThat",
+					"indices": [
+						213,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0GJuzwlerz",
+					"expanded_url": "http://youtu.be/Nl1-FhTdevQ",
+					"display_url": "youtu.be/Nl1-FhTdevQ",
+					"indices": [
+						180,
+						203
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1422191951428812800,
+					"id_str": "1422191951428812800",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1422191951428812800/pu/img/Wcy0GtCb3XsiBVE5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1422191951428812800/pu/img/Wcy0GtCb3XsiBVE5.jpg",
+					"url": "https://t.co/647YTiJtBT",
+					"display_url": "pic.twitter.com/647YTiJtBT",
+					"expanded_url": "https://twitter.com/antennamusic/status/1422192092990754827/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 315,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 555,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 592,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422191951428812800,
+					"id_str": "1422191951428812800",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1422191951428812800/pu/img/Wcy0GtCb3XsiBVE5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1422191951428812800/pu/img/Wcy0GtCb3XsiBVE5.jpg",
+					"url": "https://t.co/647YTiJtBT",
+					"display_url": "pic.twitter.com/647YTiJtBT",
+					"expanded_url": "https://twitter.com/antennamusic/status/1422192092990754827/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 315,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 555,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 592,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							37,
+							80
+						],
+						"duration_millis": 60463,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1422191951428812800/pu/vid/320x690/xePf6Np2g0qUO2jF.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1422191951428812800/pu/vid/480x1036/zQ0HdS2ed4h6SivF.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1422191951428812800/pu/pl/zE_RFc4pDkLCWa7A.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1422191951428812800/pu/vid/592x1280/qGnqJ8_ua_ByI7Q_.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 권진아 Summer Single 'KNOCK (With 박문치)' 2021. 07. 27. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36840,
+			"friends_count": 10,
+			"listed_count": 372,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3795,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 91,
+		"favorite_count": 125,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Video] #샘김\n\nJTBC 드라마 &lt;알고있지만&gt; OST 샘김 ‘Love Me Like That’ 깜짝 라이브 영상이 업로드 되었습니다. 기타 연주와 함께하는 ‘Love Me Like That’, 지금 바로 유튜브 ‘Sam Kim’ 채널에서 만나보세요💛\n\n💕샘김 ‘Love Me Like That’ Live\nhttps://t.co/0GJuzwlerz\n\n#SamKim #LoveMeLikeThat https://t.co/647YTiJtBT"
+	},
+	{
 		"created_at": "Mon Aug 02 12:11:16 +0000 2021",
 		"id": 1422166928261451800,
 		"id_str": "1422168119146172420",
