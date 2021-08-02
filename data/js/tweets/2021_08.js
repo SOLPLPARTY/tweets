@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 02 10:29:37 +0000 2021",
+		"id": 1422133808241860600,
+		"id_str": "1422142535900803073",
+		"full_text": "예스24 https://t.co/tNYAeBX86N\n알라딘 https://t.co/kXzGmjWg6Z\n인터파크 https://t.co/72ptm8bb2m\n교보문고 https://t.co/iLO2MOlsyC\n핫트랙스 https://t.co/tfoJD84RSM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tNYAeBX86N",
+					"expanded_url": "https://bit.ly/3eamKdH",
+					"display_url": "bit.ly/3eamKdH",
+					"indices": [
+						5,
+						28
+					]
+				},
+				{
+					"url": "https://t.co/kXzGmjWg6Z",
+					"expanded_url": "https://bit.ly/3r2QrT2",
+					"display_url": "bit.ly/3r2QrT2",
+					"indices": [
+						33,
+						56
+					]
+				},
+				{
+					"url": "https://t.co/72ptm8bb2m",
+					"expanded_url": "https://bit.ly/2TR3sDf",
+					"display_url": "bit.ly/2TR3sDf",
+					"indices": [
+						62,
+						85
+					]
+				},
+				{
+					"url": "https://t.co/iLO2MOlsyC",
+					"expanded_url": "https://bit.ly/3hYH9U1",
+					"display_url": "bit.ly/3hYH9U1",
+					"indices": [
+						91,
+						114
+					]
+				},
+				{
+					"url": "https://t.co/tfoJD84RSM",
+					"expanded_url": "https://bit.ly/3e8TST4",
+					"display_url": "bit.ly/3e8TST4",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1422133807012999200,
+		"in_reply_to_status_id_str": "1422133807012999171",
+		"in_reply_to_user_id": 49219598,
+		"in_reply_to_user_id_str": "49219598",
+		"in_reply_to_screen_name": "electric_muse",
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3337,
+			"friends_count": 1300,
+			"listed_count": 106,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 5914,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "예스24 https://t.co/tNYAeBX86N\n알라딘 https://t.co/kXzGmjWg6Z\n인터파크 https://t.co/72ptm8bb2m\n교보문고 https://t.co/iLO2MOlsyC\n핫트랙스 https://t.co/tfoJD84RSM"
+	},
+	{
+		"created_at": "Mon Aug 02 10:29:34 +0000 2021",
+		"id": 1422133807012999200,
+		"id_str": "1422142522818797569",
+		"full_text": "\"김목인은 2000년대 이후 한국 모던포크의 흐름을 연 음악가라고 생각한다. 그리고 2017년에 발매된 3집 [콜라보 씨의 일일]은 콜라보씨의 하루를 통해 음악가의 일상을 담아 온 스토리텔링을 가장 잘 설명해주는 음악들이 담겨 있다. 은유로 넘치지만 다채롭고 선명한 음악이다. (벨로주/박정용)\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1422133803229741000,
+		"in_reply_to_status_id_str": "1422133803229741063",
+		"in_reply_to_user_id": 49219598,
+		"in_reply_to_user_id_str": "49219598",
+		"in_reply_to_screen_name": "electric_muse",
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3337,
+			"friends_count": 1300,
+			"listed_count": 106,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 5914,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "\"김목인은 2000년대 이후 한국 모던포크의 흐름을 연 음악가라고 생각한다. 그리고 2017년에 발매된 3집 [콜라보 씨의 일일]은 콜라보씨의 하루를 통해 음악가의 일상을 담아 온 스토리텔링을 가장 잘 설명해주는 음악들이 담겨 있다. 은유로 넘치지만 다채롭고 선명한 음악이다. (벨로주/박정용)\""
+	},
+	{
 		"created_at": "Mon Aug 02 10:02:40 +0000 2021",
 		"id": 1422135752843055000,
 		"id_str": "1422135752843055104",
