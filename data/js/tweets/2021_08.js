@@ -1,6 +1,701 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 03 04:11:22 +0000 2021",
+		"id": 1422397758447571000,
+		"id_str": "1422409734259363844",
+		"full_text": "𝗼𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗠/𝗩\n📎 https://t.co/pID80tc6cE\n⠀\n𝘀𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝘀𝗶𝘁𝗲\n📎 genie https://t.co/PgVzmBe080\n📎 melon https://t.co/WYvWoacPfn\n📎 FLO https://t.co/xeh1mLZjTQ\n📎 Bugs https://t.co/HQaDcLGPLA\n📎 VIBE https://t.co/161WKnIM3h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pID80tc6cE",
+					"expanded_url": "https://bit.ly/37dGHMI",
+					"display_url": "bit.ly/37dGHMI",
+					"indices": [
+						15,
+						38
+					]
+				},
+				{
+					"url": "https://t.co/PgVzmBe080",
+					"expanded_url": "https://bit.ly/3rTdMqW",
+					"display_url": "bit.ly/3rTdMqW",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/WYvWoacPfn",
+					"expanded_url": "https://bit.ly/3ih4DFo",
+					"display_url": "bit.ly/3ih4DFo",
+					"indices": [
+						96,
+						119
+					]
+				},
+				{
+					"url": "https://t.co/xeh1mLZjTQ",
+					"expanded_url": "https://bit.ly/2Vsu8KG",
+					"display_url": "bit.ly/2Vsu8KG",
+					"indices": [
+						126,
+						149
+					]
+				},
+				{
+					"url": "https://t.co/HQaDcLGPLA",
+					"expanded_url": "https://bit.ly/3A43C9H",
+					"display_url": "bit.ly/3A43C9H",
+					"indices": [
+						157,
+						180
+					]
+				},
+				{
+					"url": "https://t.co/161WKnIM3h",
+					"expanded_url": "https://bit.ly/2V8wgYx",
+					"display_url": "bit.ly/2V8wgYx",
+					"indices": [
+						188,
+						211
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1422397733961224200,
+		"in_reply_to_status_id_str": "1422397733961224194",
+		"in_reply_to_user_id": 1291327050578456600,
+		"in_reply_to_user_id_str": "1291327050578456578",
+		"in_reply_to_screen_name": "rollinghall1995",
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 188,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 250,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "𝗼𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗠/𝗩\n📎 https://t.co/pID80tc6cE\n⠀\n𝘀𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝘀𝗶𝘁𝗲\n📎 genie https://t.co/PgVzmBe080\n📎 melon https://t.co/WYvWoacPfn\n📎 FLO https://t.co/xeh1mLZjTQ\n📎 Bugs https://t.co/HQaDcLGPLA\n📎 VIBE https://t.co/161WKnIM3h"
+	},
+	{
+		"created_at": "Tue Aug 03 04:11:17 +0000 2021",
+		"id": 1422397733961224200,
+		"id_str": "1422409712801361922",
+		"full_text": "💿 𝗡𝗘𝗪 𝗔𝗟𝗕𝗨𝗠\n⠀\n프루던스 1st EP [𝗪𝗵𝗶𝗹𝗲 𝗬𝗼𝘂 𝗔𝗿𝗲 𝗬𝗼𝘂𝗻𝗴]\n\n‘젊은 날을 꼭 담은 사진첩’\n\n01. 그대 이름은 Blue *\n02. 초상화\n03. While You're Young\n04. 평행우주 (I'm never leaving you)\n05. Festival\n\n#Prudence #프루던스\n#While_You_Are_Young #그대_이름은_Blue https://t.co/tUj1fyBWVc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Prudence",
+					"indices": [
+						163,
+						172
+					]
+				},
+				{
+					"text": "프루던스",
+					"indices": [
+						173,
+						178
+					]
+				},
+				{
+					"text": "While_You_Are_Young",
+					"indices": [
+						179,
+						199
+					]
+				},
+				{
+					"text": "그대_이름은_Blue",
+					"indices": [
+						200,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1422397637882355700,
+					"id_str": "1422397637882355714",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/E71fHY9VIAI9vcs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E71fHY9VIAI9vcs.jpg",
+					"url": "https://t.co/tUj1fyBWVc",
+					"display_url": "pic.twitter.com/tUj1fyBWVc",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1422397733961224194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1830,
+							"h": 1830,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422397637882355700,
+					"id_str": "1422397637882355714",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/E71fHY9VIAI9vcs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E71fHY9VIAI9vcs.jpg",
+					"url": "https://t.co/tUj1fyBWVc",
+					"display_url": "pic.twitter.com/tUj1fyBWVc",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1422397733961224194/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1830,
+							"h": 1830,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 188,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 250,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿 𝗡𝗘𝗪 𝗔𝗟𝗕𝗨𝗠\n⠀\n프루던스 1st EP [𝗪𝗵𝗶𝗹𝗲 𝗬𝗼𝘂 𝗔𝗿𝗲 𝗬𝗼𝘂𝗻𝗴]\n\n‘젊은 날을 꼭 담은 사진첩’\n\n01. 그대 이름은 Blue *\n02. 초상화\n03. While You're Young\n04. 평행우주 (I'm never leaving you)\n05. Festival\n\n#Prudence #프루던스\n#While_You_Are_Young #그대_이름은_Blue https://t.co/tUj1fyBWVc"
+	},
+	{
+		"created_at": "Tue Aug 03 03:29:28 +0000 2021",
+		"id": 1422391774308290600,
+		"id_str": "1422399188718039072",
+		"full_text": "성종 PROFILE IMAGE 📸\n\n#이성종 #LeeSungJong #ソンジョン\n#울림엔터테인먼트 #WOOLLIM https://t.co/8rTkTxMKW8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이성종",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "LeeSungJong",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"text": "ソンジョン",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "울림엔터테인먼트",
+					"indices": [
+						45,
+						54
+					]
+				},
+				{
+					"text": "WOOLLIM",
+					"indices": [
+						55,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1422384821905490000,
+					"id_str": "1422384821905489920",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E71TdZuVgAAw06t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E71TdZuVgAAw06t.jpg",
+					"url": "https://t.co/8rTkTxMKW8",
+					"display_url": "pic.twitter.com/8rTkTxMKW8",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1422391774308290568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 535,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 943,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1132,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422384821905490000,
+					"id_str": "1422384821905489920",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E71TdZuVgAAw06t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E71TdZuVgAAw06t.jpg",
+					"url": "https://t.co/8rTkTxMKW8",
+					"display_url": "pic.twitter.com/8rTkTxMKW8",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1422391774308290568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 535,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 943,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1132,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1422384822261977000,
+					"id_str": "1422384822261977090",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E71TdbDVEAIW5-d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E71TdbDVEAIW5-d.jpg",
+					"url": "https://t.co/8rTkTxMKW8",
+					"display_url": "pic.twitter.com/8rTkTxMKW8",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1422391774308290568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 535,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 943,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1132,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1422384822387822600,
+					"id_str": "1422384822387822592",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E71TdbhVUAAhiV5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E71TdbhVUAAhiV5.jpg",
+					"url": "https://t.co/8rTkTxMKW8",
+					"display_url": "pic.twitter.com/8rTkTxMKW8",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1422391774308290568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 809,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 971,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1422384822522028000,
+					"id_str": "1422384822522028035",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E71TdcBVIAMcPb_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E71TdcBVIAMcPb_.jpg",
+					"url": "https://t.co/8rTkTxMKW8",
+					"display_url": "pic.twitter.com/8rTkTxMKW8",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1422391774308290568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 943,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1132,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 535,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTuZ29E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTuZ29E",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 428553,
+			"friends_count": 10,
+			"listed_count": 1912,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1627377718",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1413,
+		"favorite_count": 1924,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "성종 PROFILE IMAGE 📸\n\n#이성종 #LeeSungJong #ソンジョン\n#울림엔터테인먼트 #WOOLLIM https://t.co/8rTkTxMKW8"
+	},
+	{
 		"created_at": "Tue Aug 03 03:14:23 +0000 2021",
 		"id": 1422395395322298400,
 		"id_str": "1422395395322298369",
