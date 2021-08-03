@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 03 05:29:34 +0000 2021",
+		"id": 1422425440241680400,
+		"id_str": "1422429412591554565",
+		"full_text": "𝗣𝗿𝘂𝗱𝗲𝗻𝗰𝗲 𝟭𝘀𝘁 𝗘𝗣 𝗔𝗹𝗯𝘂𝗺 [While You Are Young] \n\n‘젊은 날을 꼭 담은 사진첩’\n\n01. 그대 이름은 Blue *\n02. 초상화\n03. While You're Young\n04. 평행우주 (I'm never leaving you)\n05. Festival\n\nⓒRollingCultureone\n\n#Prudence #프루던스 #While_You_Are_Young https://t.co/1ZGSE5tk0A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Prudence",
+					"indices": [
+						180,
+						189
+					]
+				},
+				{
+					"text": "프루던스",
+					"indices": [
+						190,
+						195
+					]
+				},
+				{
+					"text": "While_You_Are_Young",
+					"indices": [
+						196,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1422425393429028900,
+					"id_str": "1422425393429028865",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/E714W-bVIAE_edG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E714W-bVIAE_edG.jpg",
+					"url": "https://t.co/1ZGSE5tk0A",
+					"display_url": "pic.twitter.com/1ZGSE5tk0A",
+					"expanded_url": "https://twitter.com/RCultureone/status/1422425440241680389/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1830,
+							"h": 1830,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422425393429028900,
+					"id_str": "1422425393429028865",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/E714W-bVIAE_edG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E714W-bVIAE_edG.jpg",
+					"url": "https://t.co/1ZGSE5tk0A",
+					"display_url": "pic.twitter.com/1ZGSE5tk0A",
+					"expanded_url": "https://twitter.com/RCultureone/status/1422425440241680389/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1830,
+							"h": 1830,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1232510182682267600,
+			"id_str": "1232510182682267653",
+			"name": "ROLLING CULTUREONE (롤링컬쳐원)",
+			"screen_name": "RCultureone",
+			"location": "",
+			"description": "ROLLING CULTUREONE (롤링컬쳐원) Official Twitter\n\n- 조문근밴드(THE MOON)\n- D.COY(디코이)\n- 프루던스(Prudence)\n- 락킷걸(Rockitgirl)\n- 피콕(Peacock)",
+			"url": "https://t.co/e3JqDNKrBf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e3JqDNKrBf",
+							"expanded_url": "http://therolling.co.kr",
+							"display_url": "therolling.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 28,
+			"listed_count": 2,
+			"created_at": "Wed Feb 26 03:38:36 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422434195805073414/WGRYivIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422434195805073414/WGRYivIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1232510182682267653/1627969715",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "𝗣𝗿𝘂𝗱𝗲𝗻𝗰𝗲 𝟭𝘀𝘁 𝗘𝗣 𝗔𝗹𝗯𝘂𝗺 [While You Are Young] \n\n‘젊은 날을 꼭 담은 사진첩’\n\n01. 그대 이름은 Blue *\n02. 초상화\n03. While You're Young\n04. 평행우주 (I'm never leaving you)\n05. Festival\n\nⓒRollingCultureone\n\n#Prudence #프루던스 #While_You_Are_Young https://t.co/1ZGSE5tk0A"
+	},
+	{
 		"created_at": "Tue Aug 03 04:29:25 +0000 2021",
 		"id": 1422413198301405200,
 		"id_str": "1422414276711571461",
