@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 03 10:29:34 +0000 2021",
+		"id": 1422499974441357300,
+		"id_str": "1422504910600409138",
+		"full_text": "[Video] #정승환\n\nCyworld BGM 2021 정승환 '애인 있어요' Music Clip 스케치 영상 공개! 지금 바로 유튜브 'CYWORLD' 채널에서 Music Clip 촬영 현장을 담은 비하인드 영상을 만나보세요💛💚💙\n\n✨https://t.co/l5HpGy7PTb\n\n#정승환 #JungSeungHwan #애인있어요\n#CyworldBGM2021 https://t.co/9AMmj5hADh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정승환",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						162,
+						176
+					]
+				},
+				{
+					"text": "애인있어요",
+					"indices": [
+						177,
+						183
+					]
+				},
+				{
+					"text": "CyworldBGM2021",
+					"indices": [
+						184,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l5HpGy7PTb",
+					"expanded_url": "https://youtu.be/NI3Ne29kWVQ",
+					"display_url": "youtu.be/NI3Ne29kWVQ",
+					"indices": [
+						132,
+						155
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1422499866329051100,
+					"id_str": "1422499866329051136",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1422499866329051136/pu/img/SGPBdpshNfnLJ9Ih.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1422499866329051136/pu/img/SGPBdpshNfnLJ9Ih.jpg",
+					"url": "https://t.co/9AMmj5hADh",
+					"display_url": "pic.twitter.com/9AMmj5hADh",
+					"expanded_url": "https://twitter.com/antennamusic/status/1422499974441357314/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422499866329051100,
+					"id_str": "1422499866329051136",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1422499866329051136/pu/img/SGPBdpshNfnLJ9Ih.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1422499866329051136/pu/img/SGPBdpshNfnLJ9Ih.jpg",
+					"url": "https://t.co/9AMmj5hADh",
+					"display_url": "pic.twitter.com/9AMmj5hADh",
+					"expanded_url": "https://twitter.com/antennamusic/status/1422499974441357314/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 60000,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1422499866329051136/pu/vid/478x270/jpuLz6Ll4HmliUWF.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1422499866329051136/pu/pl/p7aSZKFa3ISF4I_b.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1422499866329051136/pu/vid/720x406/kksXQ9RAsMA5QXTD.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 권진아 Summer Single 'KNOCK (With 박문치)' 2021. 07. 27. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36839,
+			"friends_count": 10,
+			"listed_count": 372,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Video] #정승환\n\nCyworld BGM 2021 정승환 '애인 있어요' Music Clip 스케치 영상 공개! 지금 바로 유튜브 'CYWORLD' 채널에서 Music Clip 촬영 현장을 담은 비하인드 영상을 만나보세요💛💚💙\n\n✨https://t.co/l5HpGy7PTb\n\n#정승환 #JungSeungHwan #애인있어요\n#CyworldBGM2021 https://t.co/9AMmj5hADh"
+	},
+	{
 		"created_at": "Tue Aug 03 10:02:28 +0000 2021",
 		"id": 1422498092130181000,
 		"id_str": "1422498092130181120",
