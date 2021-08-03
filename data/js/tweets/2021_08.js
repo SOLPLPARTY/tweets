@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 03 04:29:25 +0000 2021",
+		"id": 1422413198301405200,
+		"id_str": "1422414276711571461",
+		"full_text": "CHEEZE [Mood Film] project\nEp.01 ⌜이렇게 좋아해 본 적이 없어요⌟\n\n치즈 기존곡들의 무드를 담은 영상을 매달 한 편씩 선보이는 'Mood Film' 프로젝트 첫번째, '이렇게 좋아해본 적이 없어요'를 지금 만나보세요!\n\n🔗https://t.co/YtruMmBDzR\n#CHEEZE #MOODFILM #치즈 #이렇게좋아해본적이없어요 https://t.co/G8QvBuUU1o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHEEZE",
+					"indices": [
+						163,
+						170
+					]
+				},
+				{
+					"text": "MOODFILM",
+					"indices": [
+						171,
+						180
+					]
+				},
+				{
+					"text": "치즈",
+					"indices": [
+						181,
+						184
+					]
+				},
+				{
+					"text": "이렇게좋아해본적이없어요",
+					"indices": [
+						185,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YtruMmBDzR",
+					"expanded_url": "https://youtu.be/wfezuI-l7hc",
+					"display_url": "youtu.be/wfezuI-l7hc",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1422412731869655000,
+					"id_str": "1422412731869655040",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1422412731869655040/pu/img/_EmbqIIwisZkm32W.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1422412731869655040/pu/img/_EmbqIIwisZkm32W.jpg",
+					"url": "https://t.co/G8QvBuUU1o",
+					"display_url": "pic.twitter.com/G8QvBuUU1o",
+					"expanded_url": "https://twitter.com/msbsound/status/1422413198301405190/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422412731869655000,
+					"id_str": "1422412731869655040",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1422412731869655040/pu/img/_EmbqIIwisZkm32W.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1422412731869655040/pu/img/_EmbqIIwisZkm32W.jpg",
+					"url": "https://t.co/G8QvBuUU1o",
+					"display_url": "pic.twitter.com/G8QvBuUU1o",
+					"expanded_url": "https://twitter.com/msbsound/status/1422413198301405190/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 58042,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1422412731869655040/pu/vid/480x270/70RBeckPtf1N-p62.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1422412731869655040/pu/vid/640x360/cO9lU9j7lTp29Zjd.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1422412731869655040/pu/pl/v_cFPKXXwKZp4g1v.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1422412731869655040/pu/vid/1280x720/qLTDH591r8zAbePa.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드 MAGIC STRAWBERRY SOUND / Music label based in Korea",
+			"url": "https://t.co/2ZpTkk9tMw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2ZpTkk9tMw",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8538,
+			"friends_count": 20,
+			"listed_count": 100,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 95,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1597394894",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "CHEEZE [Mood Film] project\nEp.01 ⌜이렇게 좋아해 본 적이 없어요⌟\n\n치즈 기존곡들의 무드를 담은 영상을 매달 한 편씩 선보이는 'Mood Film' 프로젝트 첫번째, '이렇게 좋아해본 적이 없어요'를 지금 만나보세요!\n\n🔗https://t.co/YtruMmBDzR\n#CHEEZE #MOODFILM #치즈 #이렇게좋아해본적이없어요 https://t.co/G8QvBuUU1o"
+	},
+	{
 		"created_at": "Tue Aug 03 04:11:22 +0000 2021",
 		"id": 1422397758447571000,
 		"id_str": "1422409734259363844",
