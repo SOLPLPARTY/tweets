@@ -1,10 +1,768 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 04 09:11:21 +0000 2021",
+		"id": 1422838622521200600,
+		"id_str": "1422847614857396225",
+		"full_text": "사랑이 가지는 미묘한 기승전결을 작가의 예민한 감정선을 따라 그린 &lt; 너와 나 사이에 바퀴벌레가 지나가고 있어 &gt; 가 공상온도 온라인스토어와 오프라인에 모두 입고되었어요! 공상온도 스토어에서 만나보세요!\n.\nhttps://t.co/d7i5lMqQTc\nhttps://t.co/XipgX8L2sV https://t.co/BpvILEuG1V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7i5lMqQTc",
+					"expanded_url": "http://www.gongsangondo.com",
+					"display_url": "gongsangondo.com",
+					"indices": [
+						122,
+						145
+					]
+				},
+				{
+					"url": "https://t.co/XipgX8L2sV",
+					"expanded_url": "http://smartstore.naver.com/gongsangondo",
+					"display_url": "smartstore.naver.com/gongsangondo",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1422838617592909800,
+					"id_str": "1422838617592909827",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/E77wLyZVUAM9pe_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E77wLyZVUAM9pe_.jpg",
+					"url": "https://t.co/BpvILEuG1V",
+					"display_url": "pic.twitter.com/BpvILEuG1V",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1422838622521200646/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422838617592909800,
+					"id_str": "1422838617592909827",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/E77wLyZVUAM9pe_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E77wLyZVUAM9pe_.jpg",
+					"url": "https://t.co/BpvILEuG1V",
+					"display_url": "pic.twitter.com/BpvILEuG1V",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1422838622521200646/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 378,
+			"friends_count": 209,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사랑이 가지는 미묘한 기승전결을 작가의 예민한 감정선을 따라 그린 &lt; 너와 나 사이에 바퀴벌레가 지나가고 있어 &gt; 가 공상온도 온라인스토어와 오프라인에 모두 입고되었어요! 공상온도 스토어에서 만나보세요!\n.\nhttps://t.co/d7i5lMqQTc\nhttps://t.co/XipgX8L2sV https://t.co/BpvILEuG1V"
+	},
+	{
+		"created_at": "Wed Aug 04 09:11:17 +0000 2021",
+		"id": 1422838075613352000,
+		"id_str": "1422847597627297793",
+		"full_text": "[프리즘홀 8월 스케쥴]\n프리즘홀 8월 스케쥴입니다.\n\n공연 및 대관 문의 : 070-8150-2979\n\n페이스북, 네이버블로그, 유튜브, 홈페이지 등을 통해 다양한 소식을 얻을 수 있습니다.\n\n#프리즘홀 #prismhall #8월 #공연문의 #대관문의 #홍대공연장 #합정공연장 #공연장대관 #인디밴드 #싱어송라이터 https://t.co/CpAlgjPKsJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프리즘홀",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "prismhall",
+					"indices": [
+						115,
+						125
+					]
+				},
+				{
+					"text": "8월",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "공연문의",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "대관문의",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "홍대공연장",
+					"indices": [
+						142,
+						148
+					]
+				},
+				{
+					"text": "합정공연장",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "공연장대관",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "인디밴드",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "싱어송라이터",
+					"indices": [
+						169,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1422838067849699300,
+					"id_str": "1422838067849699335",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E77vrycVoAcThqF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E77vrycVoAcThqF.jpg",
+					"url": "https://t.co/CpAlgjPKsJ",
+					"display_url": "pic.twitter.com/CpAlgjPKsJ",
+					"expanded_url": "https://twitter.com/prismhall/status/1422838075613351937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422838067849699300,
+					"id_str": "1422838067849699335",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E77vrycVoAcThqF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E77vrycVoAcThqF.jpg",
+					"url": "https://t.co/CpAlgjPKsJ",
+					"display_url": "pic.twitter.com/CpAlgjPKsJ",
+					"expanded_url": "https://twitter.com/prismhall/status/1422838075613351937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1422838067837108200,
+					"id_str": "1422838067837108226",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E77vryZVgAIiLS3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E77vryZVgAIiLS3.jpg",
+					"url": "https://t.co/CpAlgjPKsJ",
+					"display_url": "pic.twitter.com/CpAlgjPKsJ",
+					"expanded_url": "https://twitter.com/prismhall/status/1422838075613351937/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 곳!  최고의 핫플레이스로 떠오르고 있는 프리즘홀입니다!",
+			"url": "https://t.co/wj8kdioGqi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wj8kdioGqi",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2047,
+			"friends_count": 1126,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[프리즘홀 8월 스케쥴]\n프리즘홀 8월 스케쥴입니다.\n\n공연 및 대관 문의 : 070-8150-2979\n\n페이스북, 네이버블로그, 유튜브, 홈페이지 등을 통해 다양한 소식을 얻을 수 있습니다.\n\n#프리즘홀 #prismhall #8월 #공연문의 #대관문의 #홍대공연장 #합정공연장 #공연장대관 #인디밴드 #싱어송라이터 https://t.co/CpAlgjPKsJ"
+	},
+	{
+		"created_at": "Wed Aug 04 09:11:16 +0000 2021",
+		"id": 1422847595534241800,
+		"id_str": "1422847595534241792",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n너와 떨어져 있을 때 그 어느 떄보다 행복해 😥 | Billie Eilish (빌리 아일리시) - Happier Than Ever\nhttps://t.co/gFXXEXlomR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gFXXEXlomR",
+					"expanded_url": "https://youtu.be/4J3oRjzBgUg",
+					"display_url": "youtu.be/4J3oRjzBgUg",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n너와 떨어져 있을 때 그 어느 떄보다 행복해 😥 | Billie Eilish (빌리 아일리시) - Happier Than Ever\nhttps://t.co/gFXXEXlomR"
+	},
+	{
+		"created_at": "Wed Aug 04 09:05:59 +0000 2021",
+		"id": 1422846266510389200,
+		"id_str": "1422846266510389250",
+		"full_text": "#서울뮤직 #SEOUL_MUSIC\n[Teaser] 김제형 (Kim jae hyung) - 중독 (mood ver.) / Official Teaser\nhttps://t.co/0IZaZxGOeZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SEOUL_MUSIC",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0IZaZxGOeZ",
+					"expanded_url": "https://youtu.be/O4KoVCAUepI",
+					"display_url": "youtu.be/O4KoVCAUepI",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#서울뮤직 #SEOUL_MUSIC\n[Teaser] 김제형 (Kim jae hyung) - 중독 (mood ver.) / Official Teaser\nhttps://t.co/0IZaZxGOeZ"
+	},
+	{
 		"created_at": "Wed Aug 04 07:29:25 +0000 2021",
 		"id": 1422820161254420500,
 		"id_str": "1422821961974038528",
-		"full_text": "[📣]\n\n8월 6일 저녁 8시 에이미문의 제페토 라이브에는 특별 게스트 💙하연💙이가 출연합니다 ❗️많이 보러와주세요 ❤️‍🔥\n\n#하연 #Hayeon #Zepeto #제페토 #라이브 #라이브방송 https://t.co/P1rMS456WA",
+		"full_text": "[📣]\n\n8월 6일 저녁 8시 에이미문의 제페토 라이브에는 특별 게스트 💙하연💙이가 출연합니다 ❗️많이 보러와주세요 ❤️🔥\n\n#하연 #Hayeon #Zepeto #제페토 #라이브 #라이브방송 https://t.co/P1rMS456WA",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -216,7 +974,7 @@ Grailbird.data.tweets_2021_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[📣]\n\n8월 6일 저녁 8시 에이미문의 제페토 라이브에는 특별 게스트 💙하연💙이가 출연합니다 ❗️많이 보러와주세요 ❤️‍🔥\n\n#하연 #Hayeon #Zepeto #제페토 #라이브 #라이브방송 https://t.co/P1rMS456WA"
+		"text": "[📣]\n\n8월 6일 저녁 8시 에이미문의 제페토 라이브에는 특별 게스트 💙하연💙이가 출연합니다 ❗️많이 보러와주세요 ❤️🔥\n\n#하연 #Hayeon #Zepeto #제페토 #라이브 #라이브방송 https://t.co/P1rMS456WA"
 	},
 	{
 		"created_at": "Wed Aug 04 06:29:29 +0000 2021",
