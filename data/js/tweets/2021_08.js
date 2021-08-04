@@ -1,6 +1,407 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 04 06:04:04 +0000 2021",
+		"id": 1422800484629454800,
+		"id_str": "1422800484629454849",
+		"full_text": "#루비레코드 #Ruby_Records\n[우예린(Woo Yerin)] 컴백 기념 인사영상\nhttps://t.co/93pIIRi3wx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "루비레코드",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Ruby_Records",
+					"indices": [
+						7,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/93pIIRi3wx",
+					"expanded_url": "https://youtu.be/3dJbN_gEgLs",
+					"display_url": "youtu.be/3dJbN_gEgLs",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#루비레코드 #Ruby_Records\n[우예린(Woo Yerin)] 컴백 기념 인사영상\nhttps://t.co/93pIIRi3wx"
+	},
+	{
+		"created_at": "Wed Aug 04 05:29:31 +0000 2021",
+		"id": 1422786031665877000,
+		"id_str": "1422791788167929856",
+		"full_text": "JTBC 드라마 &lt;알고있지만,&gt;의 OST를 스포티파이에서 작중 대사와 함께 색다르게 즐겨보세요🦋\n\n🦋https://t.co/6pN4RvZFtR\n⠀\n#warnerkpop #warnermusic #OST #JTBC #알고있지만 #송강 #한소희 #Spotify https://t.co/A1hBXNxovD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						88,
+						99
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						100,
+						112
+					]
+				},
+				{
+					"text": "OST",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "알고있지만",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "송강",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "한소희",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "Spotify",
+					"indices": [
+						140,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6pN4RvZFtR",
+					"expanded_url": "https://open.spotify.com/playlist/37i9dQZF1DWZmyMvDnABPu?si=1519b02eaa134931",
+					"display_url": "open.spotify.com/playlist/37i9d…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1422785928293093400,
+					"id_str": "1422785928293093379",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1422785928293093379/pu/img/yfuqgB6_TTU7ruFW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1422785928293093379/pu/img/yfuqgB6_TTU7ruFW.jpg",
+					"url": "https://t.co/A1hBXNxovD",
+					"display_url": "pic.twitter.com/A1hBXNxovD",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1422786031665876994/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422785928293093400,
+					"id_str": "1422785928293093379",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1422785928293093379/pu/img/yfuqgB6_TTU7ruFW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1422785928293093379/pu/img/yfuqgB6_TTU7ruFW.jpg",
+					"url": "https://t.co/A1hBXNxovD",
+					"display_url": "pic.twitter.com/A1hBXNxovD",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1422786031665876994/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 13546,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1422785928293093379/pu/vid/320x320/rTDP9AHUuxEq60v3.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1422785928293093379/pu/vid/720x720/XtEjekE3JW4tKkmx.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1422785928293093379/pu/vid/540x540/fz0whqO5VC1_Jm7C.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1422785928293093379/pu/pl/O4CfZRm3m_YuIxdA.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51626,
+			"friends_count": 496,
+			"listed_count": 189,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11228,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "JTBC 드라마 &lt;알고있지만,&gt;의 OST를 스포티파이에서 작중 대사와 함께 색다르게 즐겨보세요🦋\n\n🦋https://t.co/6pN4RvZFtR\n⠀\n#warnerkpop #warnermusic #OST #JTBC #알고있지만 #송강 #한소희 #Spotify https://t.co/A1hBXNxovD"
+	},
+	{
 		"created_at": "Wed Aug 04 04:35:22 +0000 2021",
 		"id": 1422778164275814400,
 		"id_str": "1422778164275814400",
