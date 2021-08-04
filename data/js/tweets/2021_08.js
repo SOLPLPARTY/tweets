@@ -1,6 +1,952 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 04 10:03:59 +0000 2021",
+		"id": 1422860861102829600,
+		"id_str": "1422860861102829568",
+		"full_text": "#문화가있는날 #블로그\n여름휴가에도 근손실과 거리두기, 스포츠케이션(sportscation)\nhttps://t.co/xmSQljoRBE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문화가있는날",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						8,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xmSQljoRBE",
+					"expanded_url": "https://bit.ly/3yrhhXT",
+					"display_url": "bit.ly/3yrhhXT",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71424,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#문화가있는날 #블로그\n여름휴가에도 근손실과 거리두기, 스포츠케이션(sportscation)\nhttps://t.co/xmSQljoRBE"
+	},
+	{
+		"created_at": "Wed Aug 04 09:29:43 +0000 2021",
+		"id": 1422851210789359600,
+		"id_str": "1422852238876217347",
+		"full_text": "[Video] #정승환\n\nCyworld BGM 2021 정승환 '애인 있어요' 리릭비디오 영상이 공개되었습니다📹 햄찌 대장의 모험 일지로 기록한 '애인 있어요' Music Clip (Lyric ver.) 영상은 유튜브 'CYWORLD' 채널에서 감상하실 수 있습니다💛💚💙\n\n✨https://t.co/r76ZKLC0W4\n\n#애인있어요 #CyworldBGM2021 https://t.co/Lge72GmskT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정승환",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "애인있어요",
+					"indices": [
+						179,
+						185
+					]
+				},
+				{
+					"text": "CyworldBGM2021",
+					"indices": [
+						186,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r76ZKLC0W4",
+					"expanded_url": "http://youtu.be/_W8-7ron_u4",
+					"display_url": "youtu.be/_W8-7ron_u4",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1422851019227107300,
+					"id_str": "1422851019227107331",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1422851019227107331/pu/img/xuWDnGv9-WzWEw5R.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1422851019227107331/pu/img/xuWDnGv9-WzWEw5R.jpg",
+					"url": "https://t.co/Lge72GmskT",
+					"display_url": "pic.twitter.com/Lge72GmskT",
+					"expanded_url": "https://twitter.com/antennamusic/status/1422851210789359621/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422851019227107300,
+					"id_str": "1422851019227107331",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1422851019227107331/pu/img/xuWDnGv9-WzWEw5R.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1422851019227107331/pu/img/xuWDnGv9-WzWEw5R.jpg",
+					"url": "https://t.co/Lge72GmskT",
+					"display_url": "pic.twitter.com/Lge72GmskT",
+					"expanded_url": "https://twitter.com/antennamusic/status/1422851210789359621/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 60000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1422851019227107331/pu/pl/lrauO91SMW4bJ1Xg.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1422851019227107331/pu/vid/720x406/FRmyQii9RlhuYz87.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1422851019227107331/pu/vid/478x270/fOqz_wOd17qHXIgI.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 권진아 Summer Single 'KNOCK (With 박문치)' 2021. 07. 27. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36848,
+			"friends_count": 10,
+			"listed_count": 372,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Video] #정승환\n\nCyworld BGM 2021 정승환 '애인 있어요' 리릭비디오 영상이 공개되었습니다📹 햄찌 대장의 모험 일지로 기록한 '애인 있어요' Music Clip (Lyric ver.) 영상은 유튜브 'CYWORLD' 채널에서 감상하실 수 있습니다💛💚💙\n\n✨https://t.co/r76ZKLC0W4\n\n#애인있어요 #CyworldBGM2021 https://t.co/Lge72GmskT"
+	},
+	{
+		"created_at": "Wed Aug 04 09:29:39 +0000 2021",
+		"id": 1422848147768807400,
+		"id_str": "1422852221658673152",
+		"full_text": "[Kriz]\n\n[Lyric Video] Kriz(크리즈) - My BABY, SWAY / Lyric Video\n\n#Kriz #크리즈\n#MyBABYSWAY\n#PAKTORYCOMPANY #팩토리컴퍼니\n\nhttps://t.co/IjpWOK7xoo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Kriz",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "크리즈",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "MyBABYSWAY",
+					"indices": [
+						74,
+						85
+					]
+				},
+				{
+					"text": "PAKTORYCOMPANY",
+					"indices": [
+						86,
+						101
+					]
+				},
+				{
+					"text": "팩토리컴퍼니",
+					"indices": [
+						102,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IjpWOK7xoo",
+					"expanded_url": "https://youtu.be/phvZ-ZiqiK8",
+					"display_url": "youtu.be/phvZ-ZiqiK8",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189041084971634700,
+			"id_str": "1189041084971634688",
+			"name": "PAKTORY COMPANY",
+			"screen_name": "paktoryofficial",
+			"location": "seoul",
+			"description": "contact@paktory.net",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Tue Oct 29 04:47:52 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Kriz]\n\n[Lyric Video] Kriz(크리즈) - My BABY, SWAY / Lyric Video\n\n#Kriz #크리즈\n#MyBABYSWAY\n#PAKTORYCOMPANY #팩토리컴퍼니\n\nhttps://t.co/IjpWOK7xoo"
+	},
+	{
+		"created_at": "Wed Aug 04 09:29:37 +0000 2021",
+		"id": 1422846219152330800,
+		"id_str": "1422852212758306816",
+		"full_text": "💿NEW MUSIC TODAY💿\n오왼(Owen)의 \"Members Only (Prod. xrface)\" 를 지금 바로 음원 사이트에서 만나보세요!\n⠀\n🎶https://t.co/yRWqVTGty6\n⠀\n#warnerkpop #warnermusic #release #MembersOnly #오왼 #Owen https://t.co/6SUUkd0AIw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						111,
+						122
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						123,
+						135
+					]
+				},
+				{
+					"text": "release",
+					"indices": [
+						136,
+						144
+					]
+				},
+				{
+					"text": "MembersOnly",
+					"indices": [
+						145,
+						157
+					]
+				},
+				{
+					"text": "오왼",
+					"indices": [
+						158,
+						161
+					]
+				},
+				{
+					"text": "Owen",
+					"indices": [
+						162,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yRWqVTGty6",
+					"expanded_url": "http://WMK.lnk.to/MembersOnly",
+					"display_url": "WMK.lnk.to/MembersOnly",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1422845751235809300,
+					"id_str": "1422845751235809288",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1422845751235809288/pu/img/6fGwoTU_yne0KLMA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1422845751235809288/pu/img/6fGwoTU_yne0KLMA.jpg",
+					"url": "https://t.co/6SUUkd0AIw",
+					"display_url": "pic.twitter.com/6SUUkd0AIw",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1422846219152330754/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422845751235809300,
+					"id_str": "1422845751235809288",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1422845751235809288/pu/img/6fGwoTU_yne0KLMA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1422845751235809288/pu/img/6fGwoTU_yne0KLMA.jpg",
+					"url": "https://t.co/6SUUkd0AIw",
+					"display_url": "pic.twitter.com/6SUUkd0AIw",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1422846219152330754/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 31498,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1422845751235809288/pu/pl/je9So4bBLQElhlwh.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1422845751235809288/pu/vid/720x720/inw08WheN00Jv0De.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1422845751235809288/pu/vid/540x540/7AMCPMqdk6Uf_XMT.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1422845751235809288/pu/vid/320x320/AUvApYlW_HNSL6Qh.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51630,
+			"friends_count": 496,
+			"listed_count": 189,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11229,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\n오왼(Owen)의 \"Members Only (Prod. xrface)\" 를 지금 바로 음원 사이트에서 만나보세요!\n⠀\n🎶https://t.co/yRWqVTGty6\n⠀\n#warnerkpop #warnermusic #release #MembersOnly #오왼 #Owen https://t.co/6SUUkd0AIw"
+	},
+	{
+		"created_at": "Wed Aug 04 09:29:32 +0000 2021",
+		"id": 1422846067389780000,
+		"id_str": "1422852191333855237",
+		"full_text": "[Kriz]\n\nKriz(크리즈)의 새 싱글 ‘My BABY, SWAY’가 모든 음원 사이트를 통해 발매되었습니다.\n\nKriz’s new single ‘My BABY, SWAY’ released on online music streaming platform.\n\n#Kriz #크리즈\n#MyBABYSWAY\n#PAKTORYCOMPANY #팩토리컴퍼니 https://t.co/sATZpGfU5o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Kriz",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "크리즈",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "MyBABYSWAY",
+					"indices": [
+						156,
+						167
+					]
+				},
+				{
+					"text": "PAKTORYCOMPANY",
+					"indices": [
+						168,
+						183
+					]
+				},
+				{
+					"text": "팩토리컴퍼니",
+					"indices": [
+						184,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1422845799528951800,
+					"id_str": "1422845799528951809",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/E772t1MUcAEvsha.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E772t1MUcAEvsha.jpg",
+					"url": "https://t.co/sATZpGfU5o",
+					"display_url": "pic.twitter.com/sATZpGfU5o",
+					"expanded_url": "https://twitter.com/paktoryofficial/status/1422846067389779969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422845799528951800,
+					"id_str": "1422845799528951809",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/E772t1MUcAEvsha.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E772t1MUcAEvsha.jpg",
+					"url": "https://t.co/sATZpGfU5o",
+					"display_url": "pic.twitter.com/sATZpGfU5o",
+					"expanded_url": "https://twitter.com/paktoryofficial/status/1422846067389779969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189041084971634700,
+			"id_str": "1189041084971634688",
+			"name": "PAKTORY COMPANY",
+			"screen_name": "paktoryofficial",
+			"location": "seoul",
+			"description": "contact@paktory.net",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 286,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Tue Oct 29 04:47:52 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 131,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Kriz]\n\nKriz(크리즈)의 새 싱글 ‘My BABY, SWAY’가 모든 음원 사이트를 통해 발매되었습니다.\n\nKriz’s new single ‘My BABY, SWAY’ released on online music streaming platform.\n\n#Kriz #크리즈\n#MyBABYSWAY\n#PAKTORYCOMPANY #팩토리컴퍼니 https://t.co/sATZpGfU5o"
+	},
+	{
 		"created_at": "Wed Aug 04 09:11:21 +0000 2021",
 		"id": 1422838622521200600,
 		"id_str": "1422847614857396225",
