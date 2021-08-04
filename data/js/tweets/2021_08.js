@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 04 12:29:25 +0000 2021",
+		"id": 1422892501183078400,
+		"id_str": "1422897462734462986",
+		"full_text": "세계로 뻗어나가는 새소년🌏\n새소년이 뉴욕 타임스퀘어, 런던 번화가 전광판에 등장했습니다. 유튜브가 발표한 글로벌 아티스트 개발 프로그램인 ‘2021 FOUNDRY'에 선정되었기 때문인데요. 그들의 음악이 전세계에 울려퍼지는 날을 기대해봅니다.🙏🔥\n#새소년 #seosoneon #foundry #youtube #합성아님 https://t.co/UFFfnwwRbt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "새소년",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "seosoneon",
+					"indices": [
+						143,
+						153
+					]
+				},
+				{
+					"text": "foundry",
+					"indices": [
+						154,
+						162
+					]
+				},
+				{
+					"text": "youtube",
+					"indices": [
+						163,
+						171
+					]
+				},
+				{
+					"text": "합성아님",
+					"indices": [
+						172,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1422892347289862100,
+					"id_str": "1422892347289862157",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1422892347289862157/pu/img/AXji2FaFxDsue_Q3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1422892347289862157/pu/img/AXji2FaFxDsue_Q3.jpg",
+					"url": "https://t.co/UFFfnwwRbt",
+					"display_url": "pic.twitter.com/UFFfnwwRbt",
+					"expanded_url": "https://twitter.com/msbsound/status/1422892501183078401/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422892347289862100,
+					"id_str": "1422892347289862157",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1422892347289862157/pu/img/AXji2FaFxDsue_Q3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1422892347289862157/pu/img/AXji2FaFxDsue_Q3.jpg",
+					"url": "https://t.co/UFFfnwwRbt",
+					"display_url": "pic.twitter.com/UFFfnwwRbt",
+					"expanded_url": "https://twitter.com/msbsound/status/1422892501183078401/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 14948,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1422892347289862157/pu/vid/540x540/w64ZAC4n2UVf__nc.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1422892347289862157/pu/vid/720x720/e3yStDd99xHh6Ncb.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1422892347289862157/pu/vid/320x320/GaxLpnSGQ6OBPSdx.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1422892347289862157/pu/pl/wE0KGfLtiH1pb298.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드 MAGIC STRAWBERRY SOUND / Music label based in Korea",
+			"url": "https://t.co/2ZpTkk9tMw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2ZpTkk9tMw",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8540,
+			"friends_count": 20,
+			"listed_count": 100,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 95,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1597394894",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세계로 뻗어나가는 새소년🌏\n새소년이 뉴욕 타임스퀘어, 런던 번화가 전광판에 등장했습니다. 유튜브가 발표한 글로벌 아티스트 개발 프로그램인 ‘2021 FOUNDRY'에 선정되었기 때문인데요. 그들의 음악이 전세계에 울려퍼지는 날을 기대해봅니다.🙏🔥\n#새소년 #seosoneon #foundry #youtube #합성아님 https://t.co/UFFfnwwRbt"
+	},
+	{
 		"created_at": "Wed Aug 04 10:03:59 +0000 2021",
 		"id": 1422860861102829600,
 		"id_str": "1422860861102829568",
