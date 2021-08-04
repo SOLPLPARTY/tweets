@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 04 07:29:25 +0000 2021",
+		"id": 1422820161254420500,
+		"id_str": "1422821961974038528",
+		"full_text": "[📣]\n\n8월 6일 저녁 8시 에이미문의 제페토 라이브에는 특별 게스트 💙하연💙이가 출연합니다 ❗️많이 보러와주세요 ❤️‍🔥\n\n#하연 #Hayeon #Zepeto #제페토 #라이브 #라이브방송 https://t.co/P1rMS456WA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하연",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "Hayeon",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"text": "Zepeto",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "제페토",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "라이브",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "라이브방송",
+					"indices": [
+						101,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1422820153331388400,
+					"id_str": "1422820153331388418",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/E77fZBqVkAIXf3v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E77fZBqVkAIXf3v.jpg",
+					"url": "https://t.co/P1rMS456WA",
+					"display_url": "pic.twitter.com/P1rMS456WA",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1422820161254420486/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422820153331388400,
+					"id_str": "1422820153331388418",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/E77fZBqVkAIXf3v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E77fZBqVkAIXf3v.jpg",
+					"url": "https://t.co/P1rMS456WA",
+					"display_url": "pic.twitter.com/P1rMS456WA",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1422820161254420486/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 964372210436591600,
+			"id_str": "964372210436591616",
+			"name": "Enterarts - A.I.M",
+			"screen_name": "aimbyenterarts",
+			"location": "",
+			"description": "The World's First AI Music Production Company & Record Label / Artist Agency 세계 최초 인공지능 음반 제작 레이블",
+			"url": "https://t.co/j360f0m0bn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j360f0m0bn",
+							"expanded_url": "http://www.enterarts.net",
+							"display_url": "enterarts.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 366,
+			"friends_count": 4,
+			"listed_count": 6,
+			"created_at": "Fri Feb 16 05:33:46 +0000 2018",
+			"favourites_count": 1199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/964372210436591616/1518759589",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📣]\n\n8월 6일 저녁 8시 에이미문의 제페토 라이브에는 특별 게스트 💙하연💙이가 출연합니다 ❗️많이 보러와주세요 ❤️‍🔥\n\n#하연 #Hayeon #Zepeto #제페토 #라이브 #라이브방송 https://t.co/P1rMS456WA"
+	},
+	{
 		"created_at": "Wed Aug 04 06:29:29 +0000 2021",
 		"id": 1422806428482379800,
 		"id_str": "1422806879214911489",
