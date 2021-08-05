@@ -1,6 +1,1004 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 05 10:06:42 +0000 2021",
+		"id": 1423223934871347200,
+		"id_str": "1423223934871347200",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n우리 다시 한 번 잘해볼 수 있을까? | DallasK (달라스K) - Try Again Feat. Lauv\nhttps://t.co/X37Ms4EpkK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X37Ms4EpkK",
+					"expanded_url": "https://youtu.be/uEHhJYDysns",
+					"display_url": "youtu.be/uEHhJYDysns",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n우리 다시 한 번 잘해볼 수 있을까? | DallasK (달라스K) - Try Again Feat. Lauv\nhttps://t.co/X37Ms4EpkK"
+	},
+	{
+		"created_at": "Thu Aug 05 09:29:50 +0000 2021",
+		"id": 1423211744021729300,
+		"id_str": "1423214654822703104",
+		"full_text": "[나히]\n나히가 커버한 'Colde - 없어도 돼'\n아래 링크를 통해 감상하실 수 있습니다\n\n▶https://t.co/O3GlG6SRfu\n\n#나히 #커버곡 #music #음악 https://t.co/wfz3mqdk9v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나히",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "커버곡",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "music",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "음악",
+					"indices": [
+						94,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O3GlG6SRfu",
+					"expanded_url": "https://bit.ly/3xkqoIE",
+					"display_url": "bit.ly/3xkqoIE",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1423211416924823600,
+					"id_str": "1423211416924823554",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1423211416924823554/pu/img/zBJRJUmi4Z6PB0YA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1423211416924823554/pu/img/zBJRJUmi4Z6PB0YA.jpg",
+					"url": "https://t.co/wfz3mqdk9v",
+					"display_url": "pic.twitter.com/wfz3mqdk9v",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1423211744021729286/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423211416924823600,
+					"id_str": "1423211416924823554",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1423211416924823554/pu/img/zBJRJUmi4Z6PB0YA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1423211416924823554/pu/img/zBJRJUmi4Z6PB0YA.jpg",
+					"url": "https://t.co/wfz3mqdk9v",
+					"display_url": "pic.twitter.com/wfz3mqdk9v",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1423211744021729286/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1423211416924823554/pu/pl/E4o3Jt9olLUWQAaE.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1423211416924823554/pu/vid/540x540/tw0yp-aNO8DiKLXX.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1423211416924823554/pu/vid/320x320/ZNKMxQR8S71asOQR.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1423211416924823554/pu/vid/720x720/NyzrVVDsRoQEXngl.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/에버루아/아일",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 807,
+			"friends_count": 7,
+			"listed_count": 17,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 934,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[나히]\n나히가 커버한 'Colde - 없어도 돼'\n아래 링크를 통해 감상하실 수 있습니다\n\n▶https://t.co/O3GlG6SRfu\n\n#나히 #커버곡 #music #음악 https://t.co/wfz3mqdk9v"
+	},
+	{
+		"created_at": "Thu Aug 05 09:29:41 +0000 2021",
+		"id": 1423210601728249900,
+		"id_str": "1423214616608452610",
+		"full_text": "[Release D-3]\n\n중2때까지 늘 첫째줄에… 기억조작의 원조격인 그 노래! 한국 인디신의 명곡 델리스파이스 ‘고백’이 10CM 버전으로 곧 발매됩니다. ⚾️\n\n10CM New Single ‘고백’\n2021. 08. 08. 6PM (KST)\n\n🔗https://t.co/uNBbRS1Qob\n#10CM #십센치 #권정열 #고백 #리메이크 #델리스파이스 https://t.co/AzBsV9nqgS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "10CM",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "십센치",
+					"indices": [
+						170,
+						174
+					]
+				},
+				{
+					"text": "권정열",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "고백",
+					"indices": [
+						180,
+						183
+					]
+				},
+				{
+					"text": "리메이크",
+					"indices": [
+						184,
+						189
+					]
+				},
+				{
+					"text": "델리스파이스",
+					"indices": [
+						190,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uNBbRS1Qob",
+					"expanded_url": "https://youtu.be/KSuNQ7xr5UQ",
+					"display_url": "youtu.be/KSuNQ7xr5UQ",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1423210159619272700,
+					"id_str": "1423210159619272710",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1423210159619272710/pu/img/fRjxrjKzi8dZXnnb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1423210159619272710/pu/img/fRjxrjKzi8dZXnnb.jpg",
+					"url": "https://t.co/AzBsV9nqgS",
+					"display_url": "pic.twitter.com/AzBsV9nqgS",
+					"expanded_url": "https://twitter.com/msbsound/status/1423210601728249862/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423210159619272700,
+					"id_str": "1423210159619272710",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1423210159619272710/pu/img/fRjxrjKzi8dZXnnb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1423210159619272710/pu/img/fRjxrjKzi8dZXnnb.jpg",
+					"url": "https://t.co/AzBsV9nqgS",
+					"display_url": "pic.twitter.com/AzBsV9nqgS",
+					"expanded_url": "https://twitter.com/msbsound/status/1423210601728249862/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 41375,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1423210159619272710/pu/vid/480x270/3aWXVaynrJ9j2tTx.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1423210159619272710/pu/vid/640x360/tBwYutIXgYN14jBX.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1423210159619272710/pu/vid/1280x720/sJ06O4HYw7iFIswS.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1423210159619272710/pu/pl/u6V9AsubMoltaY2h.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드 MAGIC STRAWBERRY SOUND / Music label based in Korea",
+			"url": "https://t.co/2ZpTkk9tMw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2ZpTkk9tMw",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8540,
+			"friends_count": 20,
+			"listed_count": 100,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 95,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6123,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1597394894",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release D-3]\n\n중2때까지 늘 첫째줄에… 기억조작의 원조격인 그 노래! 한국 인디신의 명곡 델리스파이스 ‘고백’이 10CM 버전으로 곧 발매됩니다. ⚾️\n\n10CM New Single ‘고백’\n2021. 08. 08. 6PM (KST)\n\n🔗https://t.co/uNBbRS1Qob\n#10CM #십센치 #권정열 #고백 #리메이크 #델리스파이스 https://t.co/AzBsV9nqgS"
+	},
+	{
+		"created_at": "Thu Aug 05 09:29:35 +0000 2021",
+		"id": 1423208973008658400,
+		"id_str": "1423214590956027906",
+		"full_text": "&lt;블레이드 &amp; 소울 2&gt; OST\n정승환 '저 별에 바람 불어'\n\nMelon https://t.co/fM7eKSXMEK\nGenie https://t.co/AkDB28X4SJ\nBugs https://t.co/zFCQUIspn3\nFLO https://t.co/SzconuD7Cc\n\n#정승환 #JungSeungHwan #저별에바람불어\n#NCSOUND #블레이드앤소울2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정승환",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						169,
+						183
+					]
+				},
+				{
+					"text": "저별에바람불어",
+					"indices": [
+						184,
+						192
+					]
+				},
+				{
+					"text": "NCSOUND",
+					"indices": [
+						193,
+						201
+					]
+				},
+				{
+					"text": "블레이드앤소울2",
+					"indices": [
+						202,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fM7eKSXMEK",
+					"expanded_url": "http://bit.ly/3ClpiQm",
+					"display_url": "bit.ly/3ClpiQm",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/AkDB28X4SJ",
+					"expanded_url": "http://bit.ly/3yxjCRm",
+					"display_url": "bit.ly/3yxjCRm",
+					"indices": [
+						82,
+						105
+					]
+				},
+				{
+					"url": "https://t.co/zFCQUIspn3",
+					"expanded_url": "http://bit.ly/3AikRnX",
+					"display_url": "bit.ly/3AikRnX",
+					"indices": [
+						111,
+						134
+					]
+				},
+				{
+					"url": "https://t.co/SzconuD7Cc",
+					"expanded_url": "http://bit.ly/3xkBIEA",
+					"display_url": "bit.ly/3xkBIEA",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1423208969292509200,
+		"in_reply_to_status_id_str": "1423208969292509188",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 권진아 Summer Single 'KNOCK (With 박문치)' 2021. 07. 27. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36852,
+			"friends_count": 10,
+			"listed_count": 372,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;블레이드 &amp; 소울 2&gt; OST\n정승환 '저 별에 바람 불어'\n\nMelon https://t.co/fM7eKSXMEK\nGenie https://t.co/AkDB28X4SJ\nBugs https://t.co/zFCQUIspn3\nFLO https://t.co/SzconuD7Cc\n\n#정승환 #JungSeungHwan #저별에바람불어\n#NCSOUND #블레이드앤소울2"
+	},
+	{
+		"created_at": "Thu Aug 05 09:29:29 +0000 2021",
+		"id": 1423208969292509200,
+		"id_str": "1423214565299560450",
+		"full_text": "[Release] #정승환\n\n&lt;블레이드 &amp; 소울 2&gt; OST\n정승환 '저 별에 바람 불어'\n\nLyrics by 오근혜, 김소연\nComposed by 김소연\nArranged by 황성제 (ButterFly)\n\n정승환이 참여한 &lt;블레이드 &amp; 소울 2&gt; OST '저 별에 바람 불어'는 지금 모든 음원사이트에서 감상하실 수 있습니다💛💚💙 https://t.co/6zzejFC3sU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정승환",
+					"indices": [
+						10,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1423208304986136600,
+					"id_str": "1423208304986136577",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/E8BAabQVoAEX6vI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8BAabQVoAEX6vI.jpg",
+					"url": "https://t.co/6zzejFC3sU",
+					"display_url": "pic.twitter.com/6zzejFC3sU",
+					"expanded_url": "https://twitter.com/antennamusic/status/1423208969292509188/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423208304986136600,
+					"id_str": "1423208304986136577",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/E8BAabQVoAEX6vI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8BAabQVoAEX6vI.jpg",
+					"url": "https://t.co/6zzejFC3sU",
+					"display_url": "pic.twitter.com/6zzejFC3sU",
+					"expanded_url": "https://twitter.com/antennamusic/status/1423208969292509188/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 권진아 Summer Single 'KNOCK (With 박문치)' 2021. 07. 27. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36852,
+			"friends_count": 10,
+			"listed_count": 372,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release] #정승환\n\n&lt;블레이드 &amp; 소울 2&gt; OST\n정승환 '저 별에 바람 불어'\n\nLyrics by 오근혜, 김소연\nComposed by 김소연\nArranged by 황성제 (ButterFly)\n\n정승환이 참여한 &lt;블레이드 &amp; 소울 2&gt; OST '저 별에 바람 불어'는 지금 모든 음원사이트에서 감상하실 수 있습니다💛💚💙 https://t.co/6zzejFC3sU"
+	},
+	{
 		"created_at": "Thu Aug 05 09:15:34 +0000 2021",
 		"id": 1423211065849127000,
 		"id_str": "1423211065849126912",
