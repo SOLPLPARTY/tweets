@@ -1,6 +1,414 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 05 05:11:16 +0000 2021",
+		"id": 1423149258010554400,
+		"id_str": "1423149586584154113",
+		"full_text": "✔️상상마당 8월 프로그램🗣\n8월에도 야심차게 준비한 프로그램들😉\n⠀\nKT&amp;G 상상마당 홍대 춘천 대치 등\n공간별 프로그램들을 확인하시고 즐겨보세요🤟🏻\n⠀\n#상상마당_주요프로그램 https://t.co/eT1DaaEeSP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상상마당_주요프로그램",
+					"indices": [
+						91,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1423149172165730300,
+					"id_str": "1423149172165730306",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E8AKocVUYAI1CeA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8AKocVUYAI1CeA.jpg",
+					"url": "https://t.co/eT1DaaEeSP",
+					"display_url": "pic.twitter.com/eT1DaaEeSP",
+					"expanded_url": "https://twitter.com/SSmadang/status/1423149258010554370/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1543,
+							"h": 1542,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423149172165730300,
+					"id_str": "1423149172165730306",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E8AKocVUYAI1CeA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8AKocVUYAI1CeA.jpg",
+					"url": "https://t.co/eT1DaaEeSP",
+					"display_url": "pic.twitter.com/eT1DaaEeSP",
+					"expanded_url": "https://twitter.com/SSmadang/status/1423149258010554370/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1543,
+							"h": 1542,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1423149172400615400,
+					"id_str": "1423149172400615426",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E8AKodNUcAIIzlY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8AKodNUcAIIzlY.jpg",
+					"url": "https://t.co/eT1DaaEeSP",
+					"display_url": "pic.twitter.com/eT1DaaEeSP",
+					"expanded_url": "https://twitter.com/SSmadang/status/1423149258010554370/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1543,
+							"h": 1542,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1423149172513861600,
+					"id_str": "1423149172513861637",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E8AKodoUcAUyRTS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8AKodoUcAUyRTS.jpg",
+					"url": "https://t.co/eT1DaaEeSP",
+					"display_url": "pic.twitter.com/eT1DaaEeSP",
+					"expanded_url": "https://twitter.com/SSmadang/status/1423149258010554370/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1543,
+							"h": 1542,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1423149172589432800,
+					"id_str": "1423149172589432835",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E8AKod6VkAMtKNT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8AKod6VkAMtKNT.jpg",
+					"url": "https://t.co/eT1DaaEeSP",
+					"display_url": "pic.twitter.com/eT1DaaEeSP",
+					"expanded_url": "https://twitter.com/SSmadang/status/1423149258010554370/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1543,
+							"h": 1542,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17829,
+			"friends_count": 1879,
+			"listed_count": 289,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9455,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✔️상상마당 8월 프로그램🗣\n8월에도 야심차게 준비한 프로그램들😉\n⠀\nKT&amp;G 상상마당 홍대 춘천 대치 등\n공간별 프로그램들을 확인하시고 즐겨보세요🤟🏻\n⠀\n#상상마당_주요프로그램 https://t.co/eT1DaaEeSP"
+	},
+	{
+		"created_at": "Thu Aug 05 04:29:29 +0000 2021",
+		"id": 1423126283089637400,
+		"id_str": "1423139068083310593",
+		"full_text": "[List]\n\n놓치기엔 아쉬운 것들을 소개하는 Things You Missed. 7월에도 계속됩니다. Iceage, 얼스바운드, Henjila, DARKSIDE의 지난 릴리즈를 살펴봤습니다.\n\nhttps://t.co/Rm830ep8rR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Rm830ep8rR",
+					"expanded_url": "https://www.highjinkxmm.com/features/tym-july",
+					"display_url": "highjinkxmm.com/features/tym-j…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/P2V4wFkAko",
+			"url": "https://t.co/oAPJfxeB46",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAPJfxeB46",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P2V4wFkAko",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 423,
+			"friends_count": 20,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 559,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[List]\n\n놓치기엔 아쉬운 것들을 소개하는 Things You Missed. 7월에도 계속됩니다. Iceage, 얼스바운드, Henjila, DARKSIDE의 지난 릴리즈를 살펴봤습니다.\n\nhttps://t.co/Rm830ep8rR"
+	},
+	{
 		"created_at": "Thu Aug 05 04:04:32 +0000 2021",
 		"id": 1423132790648934400,
 		"id_str": "1423132790648934406",
