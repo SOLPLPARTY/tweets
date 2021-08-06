@@ -1,6 +1,943 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 06 15:29:40 +0000 2021",
+		"id": 1423661946310586400,
+		"id_str": "1423667598009438211",
+		"full_text": "[TRACK POSTER] #샘김\n\nAKMU ‘EVEREST (with Sam Kim)’ TRACK POSTER\n\n8월 8일 0AM ‘EVEREST (with Sam Kim)’ OFFICIAL VIDEO가 공개됩니다✨\n\n@LeegitItsSam #샘김 #SamKim\n#AKMU #NEXTEPISODE #EVEREST https://t.co/pohZhveJoq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "샘김",
+					"indices": [
+						15,
+						18
+					]
+				},
+				{
+					"text": "샘김",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "SamKim",
+					"indices": [
+						141,
+						148
+					]
+				},
+				{
+					"text": "AKMU",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "NEXTEPISODE",
+					"indices": [
+						155,
+						167
+					]
+				},
+				{
+					"text": "EVEREST",
+					"indices": [
+						168,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeegitItsSam",
+					"name": "Sam Kim 샘김",
+					"id": 1202716135,
+					"id_str": "1202716135",
+					"indices": [
+						123,
+						136
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1423661940094558200,
+					"id_str": "1423661940094558215",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E8Hc_duUYAceEg7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8Hc_duUYAceEg7.jpg",
+					"url": "https://t.co/pohZhveJoq",
+					"display_url": "pic.twitter.com/pohZhveJoq",
+					"expanded_url": "https://twitter.com/antennamusic/status/1423661946310586376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423661940094558200,
+					"id_str": "1423661940094558215",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E8Hc_duUYAceEg7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8Hc_duUYAceEg7.jpg",
+					"url": "https://t.co/pohZhveJoq",
+					"display_url": "pic.twitter.com/pohZhveJoq",
+					"expanded_url": "https://twitter.com/antennamusic/status/1423661946310586376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 권진아 Summer Single 'KNOCK (With 박문치)' 2021. 07. 27. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36852,
+			"friends_count": 11,
+			"listed_count": 372,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3814,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 94,
+		"favorite_count": 156,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[TRACK POSTER] #샘김\n\nAKMU ‘EVEREST (with Sam Kim)’ TRACK POSTER\n\n8월 8일 0AM ‘EVEREST (with Sam Kim)’ OFFICIAL VIDEO가 공개됩니다✨\n\n@LeegitItsSam #샘김 #SamKim\n#AKMU #NEXTEPISODE #EVEREST https://t.co/pohZhveJoq"
+	},
+	{
+		"created_at": "Fri Aug 06 15:29:36 +0000 2021",
+		"id": 1423660886548418600,
+		"id_str": "1423667580762574856",
+		"full_text": "[#STATION]\n⠀\n🎧 TEN 텐 ‘Paint Me Naked’\n: 2021.08.10. 6PM KST\n⠀\n#TEN #텐 #Paint_Me_Naked \n#WayV #威神V #李永钦 @WayV_official https://t.co/s9hzwWA7aV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STATION",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "TEN",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "텐",
+					"indices": [
+						67,
+						69
+					]
+				},
+				{
+					"text": "Paint_Me_Naked",
+					"indices": [
+						70,
+						85
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "威神V",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "李永钦",
+					"indices": [
+						98,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WayV_official",
+					"name": "WayV",
+					"id": 1033994695595065300,
+					"id_str": "1033994695595065347",
+					"indices": [
+						103,
+						117
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1423580960289738800,
+					"id_str": "1423580960289738752",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GTV0cUUAAgJBC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GTV0cUUAAgJBC.jpg",
+					"url": "https://t.co/s9hzwWA7aV",
+					"display_url": "pic.twitter.com/s9hzwWA7aV",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1423660886548418569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423580960289738800,
+					"id_str": "1423580960289738752",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GTV0cUUAAgJBC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GTV0cUUAAgJBC.jpg",
+					"url": "https://t.co/s9hzwWA7aV",
+					"display_url": "pic.twitter.com/s9hzwWA7aV",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1423660886548418569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9739531,
+			"friends_count": 55,
+			"listed_count": 10356,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10575,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26311,
+		"favorite_count": 48485,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#STATION]\n⠀\n🎧 TEN 텐 ‘Paint Me Naked’\n: 2021.08.10. 6PM KST\n⠀\n#TEN #텐 #Paint_Me_Naked \n#WayV #威神V #李永钦 @WayV_official https://t.co/s9hzwWA7aV"
+	},
+	{
+		"created_at": "Fri Aug 06 15:29:34 +0000 2021",
+		"id": 1423660634978271200,
+		"id_str": "1423667571912552452",
+		"full_text": "[#STATION]\n⠀\n🎧 TEN 텐 ‘Paint Me Naked’\n: 2021.08.10. 6PM KST\n⠀\n#TEN #텐 #Paint_Me_Naked \n#WayV #威神V #李永钦 @WayV_official https://t.co/cKsi5xZQMC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STATION",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "TEN",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "텐",
+					"indices": [
+						67,
+						69
+					]
+				},
+				{
+					"text": "Paint_Me_Naked",
+					"indices": [
+						70,
+						85
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "威神V",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "李永钦",
+					"indices": [
+						98,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WayV_official",
+					"name": "WayV",
+					"id": 1033994695595065300,
+					"id_str": "1033994695595065347",
+					"indices": [
+						103,
+						117
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1423580820351029200,
+					"id_str": "1423580820351029249",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GTNrIVEAEqbuw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GTNrIVEAEqbuw.jpg",
+					"url": "https://t.co/cKsi5xZQMC",
+					"display_url": "pic.twitter.com/cKsi5xZQMC",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1423660634978271232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423580820351029200,
+					"id_str": "1423580820351029249",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GTNrIVEAEqbuw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GTNrIVEAEqbuw.jpg",
+					"url": "https://t.co/cKsi5xZQMC",
+					"display_url": "pic.twitter.com/cKsi5xZQMC",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1423660634978271232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9739531,
+			"friends_count": 55,
+			"listed_count": 10356,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10575,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26189,
+		"favorite_count": 47076,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#STATION]\n⠀\n🎧 TEN 텐 ‘Paint Me Naked’\n: 2021.08.10. 6PM KST\n⠀\n#TEN #텐 #Paint_Me_Naked \n#WayV #威神V #李永钦 @WayV_official https://t.co/cKsi5xZQMC"
+	},
+	{
+		"created_at": "Fri Aug 06 15:29:31 +0000 2021",
+		"id": 1423660383223443500,
+		"id_str": "1423667558830510081",
+		"full_text": "[#STATION]\n⠀\n🎧 TEN 텐 ‘Paint Me Naked’\n: 2021.08.10. 6PM KST\n⠀\n#TEN #텐 #Paint_Me_Naked \n#WayV #威神V #李永钦 @WayV_official https://t.co/kyhQAY9Dzt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STATION",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "TEN",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "텐",
+					"indices": [
+						67,
+						69
+					]
+				},
+				{
+					"text": "Paint_Me_Naked",
+					"indices": [
+						70,
+						85
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "威神V",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "李永钦",
+					"indices": [
+						98,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WayV_official",
+					"name": "WayV",
+					"id": 1033994695595065300,
+					"id_str": "1033994695595065347",
+					"indices": [
+						103,
+						117
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1423580693158789000,
+					"id_str": "1423580693158789121",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GTGRTVgAEmsO_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GTGRTVgAEmsO_.jpg",
+					"url": "https://t.co/kyhQAY9Dzt",
+					"display_url": "pic.twitter.com/kyhQAY9Dzt",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1423660383223443456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423580693158789000,
+					"id_str": "1423580693158789121",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GTGRTVgAEmsO_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GTGRTVgAEmsO_.jpg",
+					"url": "https://t.co/kyhQAY9Dzt",
+					"display_url": "pic.twitter.com/kyhQAY9Dzt",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1423660383223443456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9739531,
+			"friends_count": 55,
+			"listed_count": 10356,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10575,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27756,
+		"favorite_count": 49725,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#STATION]\n⠀\n🎧 TEN 텐 ‘Paint Me Naked’\n: 2021.08.10. 6PM KST\n⠀\n#TEN #텐 #Paint_Me_Naked \n#WayV #威神V #李永钦 @WayV_official https://t.co/kyhQAY9Dzt"
+	},
+	{
 		"created_at": "Fri Aug 06 14:29:28 +0000 2021",
 		"id": 1423645687225323500,
 		"id_str": "1423652447214505987",
