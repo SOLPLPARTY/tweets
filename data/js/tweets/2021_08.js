@@ -1,6 +1,272 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 06 03:29:25 +0000 2021",
+		"id": 1423481670452215800,
+		"id_str": "1423486339400491008",
+		"full_text": "⠀\nDAILY MIRRORBALL MUSIC | 210806 FRI\n⠀\n🔸 Skinny Chase [City of Angels]\n🔸 Yuwol (유월) [계절 (Season)]\n🔸 패일더문 (Pale the Moon) [시절]\n\n#SkinnyChase #Yuwol #유월 #패일더문 #미러볼뮤직 #인디음악 #음스타그램\n⠀ https://t.co/iTWLHuTmy0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SkinnyChase",
+					"indices": [
+						128,
+						140
+					]
+				},
+				{
+					"text": "Yuwol",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"text": "유월",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "패일더문",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						165,
+						170
+					]
+				},
+				{
+					"text": "음스타그램",
+					"indices": [
+						171,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1423481540143505400,
+					"id_str": "1423481540143505408",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1423481540143505408/pu/img/OuGowIQ98bK5WC2x.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1423481540143505408/pu/img/OuGowIQ98bK5WC2x.jpg",
+					"url": "https://t.co/iTWLHuTmy0",
+					"display_url": "pic.twitter.com/iTWLHuTmy0",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1423481670452215812/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423481540143505400,
+					"id_str": "1423481540143505408",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1423481540143505408/pu/img/OuGowIQ98bK5WC2x.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1423481540143505408/pu/img/OuGowIQ98bK5WC2x.jpg",
+					"url": "https://t.co/iTWLHuTmy0",
+					"display_url": "pic.twitter.com/iTWLHuTmy0",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1423481670452215812/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 57057,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1423481540143505408/pu/vid/320x320/Li-qSnaXsYf0iceH.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1423481540143505408/pu/vid/540x540/ERb3RasIvj_JK9GR.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1423481540143505408/pu/vid/720x720/Q7e3Wlm9OLw_VQ27.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1423481540143505408/pu/pl/9tpwFEflhw48v9c-.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9468,
+			"friends_count": 2673,
+			"listed_count": 248,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10711,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1627032310",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⠀\nDAILY MIRRORBALL MUSIC | 210806 FRI\n⠀\n🔸 Skinny Chase [City of Angels]\n🔸 Yuwol (유월) [계절 (Season)]\n🔸 패일더문 (Pale the Moon) [시절]\n\n#SkinnyChase #Yuwol #유월 #패일더문 #미러볼뮤직 #인디음악 #음스타그램\n⠀ https://t.co/iTWLHuTmy0"
+	},
+	{
 		"created_at": "Fri Aug 06 03:11:47 +0000 2021",
 		"id": 1423481904133808000,
 		"id_str": "1423481904133808134",
