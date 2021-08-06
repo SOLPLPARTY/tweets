@@ -1,6 +1,614 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 06 11:05:24 +0000 2021",
+		"id": 1423601094559735800,
+		"id_str": "1423601094559735811",
+		"full_text": "#문화가있는날 #블로그\n필환경 시대, '에코 인싸'되는 법\nhttps://t.co/AK2m19FnRa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문화가있는날",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						8,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AK2m19FnRa",
+					"expanded_url": "https://bit.ly/3yuJjSu",
+					"display_url": "bit.ly/3yuJjSu",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#문화가있는날 #블로그\n필환경 시대, '에코 인싸'되는 법\nhttps://t.co/AK2m19FnRa"
+	},
+	{
+		"created_at": "Fri Aug 06 10:58:20 +0000 2021",
+		"id": 1423590534292009000,
+		"id_str": "1423599313612165123",
+		"full_text": "[🕘 time table]\n\n🔉 21:00-21:50 DJ WAKARAN GIRL\n🔉 21:50-22:50 yunji\n\n🪅 Episode 12 Virtual Insanity\n🛸 토요일 저녁 9시 네이버 NOW에서\n\n▶️ 파티 대기실은 토요일 8시 30분 부터 열립니다 https://t.co/T43gV7xOm1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T43gV7xOm1",
+					"expanded_url": "https://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1423589460973789200,
+		"in_reply_to_status_id_str": "1423589460973789186",
+		"in_reply_to_user_id": 729495493080809500,
+		"in_reply_to_user_id_str": "729495493080809473",
+		"in_reply_to_screen_name": "seulpeumkpop",
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/J4jpDKDhWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J4jpDKDhWh",
+							"expanded_url": "https://now.naver.com/player/10256",
+							"display_url": "now.naver.com/player/10256",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7811,
+			"friends_count": 33,
+			"listed_count": 19,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🕘 time table]\n\n🔉 21:00-21:50 DJ WAKARAN GIRL\n🔉 21:50-22:50 yunji\n\n🪅 Episode 12 Virtual Insanity\n🛸 토요일 저녁 9시 네이버 NOW에서\n\n▶️ 파티 대기실은 토요일 8시 30분 부터 열립니다 https://t.co/T43gV7xOm1"
+	},
+	{
+		"created_at": "Fri Aug 06 10:58:15 +0000 2021",
+		"id": 1423589460973789200,
+		"id_str": "1423599292074270721",
+		"full_text": "슬픔의케이팝파티 episode.12\n&lt;Virtual Insanity&gt;\n\n가상현실속에 의미없는 상자속에 갇혀서 케이팝 파티를 즐겨볼까요!! DJ WACARAN GIRL과 yunji가 준비한 케이팝의 새로운 차원을 슬케파에서 느껴보세요! \n\n토요일 밤 아홉시! NAVER NOW에서 만나요! https://t.co/JM01qgsV8M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1423589449741398000,
+					"id_str": "1423589449741398020",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GbD-HUcAQdzEW.png",
+					"media_url_https": "https://pbs.twimg.com/media/E8GbD-HUcAQdzEW.png",
+					"url": "https://t.co/JM01qgsV8M",
+					"display_url": "pic.twitter.com/JM01qgsV8M",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1423589460973789186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423589449741398000,
+					"id_str": "1423589449741398020",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GbD-HUcAQdzEW.png",
+					"media_url_https": "https://pbs.twimg.com/media/E8GbD-HUcAQdzEW.png",
+					"url": "https://t.co/JM01qgsV8M",
+					"display_url": "pic.twitter.com/JM01qgsV8M",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1423589460973789186/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/J4jpDKDhWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J4jpDKDhWh",
+							"expanded_url": "https://now.naver.com/player/10256",
+							"display_url": "now.naver.com/player/10256",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7811,
+			"friends_count": 33,
+			"listed_count": 19,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬픔의케이팝파티 episode.12\n&lt;Virtual Insanity&gt;\n\n가상현실속에 의미없는 상자속에 갇혀서 케이팝 파티를 즐겨볼까요!! DJ WACARAN GIRL과 yunji가 준비한 케이팝의 새로운 차원을 슬케파에서 느껴보세요! \n\n토요일 밤 아홉시! NAVER NOW에서 만나요! https://t.co/JM01qgsV8M"
+	},
+	{
+		"created_at": "Fri Aug 06 10:29:28 +0000 2021",
+		"id": 1423588673216340000,
+		"id_str": "1423592048825978882",
+		"full_text": "JO1 ‘STRANGER’ Released!!\n❤️ https://t.co/FUhjUyf3Rp https://t.co/fKwjfHQI4x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FUhjUyf3Rp",
+					"expanded_url": "https://www.instagram.com/p/CSOqz6CHRPL/?utm_medium=copy_link",
+					"display_url": "instagram.com/p/CSOqz6CHRPL/…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1423588665935077400,
+					"id_str": "1423588665935077382",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GaWWNVIAYuYEp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GaWWNVIAYuYEp.jpg",
+					"url": "https://t.co/fKwjfHQI4x",
+					"display_url": "pic.twitter.com/fKwjfHQI4x",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1423588673216339979/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 669,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 814,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 814,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423588665935077400,
+					"id_str": "1423588665935077382",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GaWWNVIAYuYEp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GaWWNVIAYuYEp.jpg",
+					"url": "https://t.co/fKwjfHQI4x",
+					"display_url": "pic.twitter.com/fKwjfHQI4x",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1423588673216339979/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 669,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 814,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 814,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/75NNtZGos2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/75NNtZGos2",
+							"expanded_url": "https://www.monotree.shop",
+							"display_url": "monotree.shop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7123,
+			"friends_count": 0,
+			"listed_count": 54,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "JO1 ‘STRANGER’ Released!!\n❤️ https://t.co/FUhjUyf3Rp https://t.co/fKwjfHQI4x"
+	},
+	{
 		"created_at": "Fri Aug 06 10:11:17 +0000 2021",
 		"id": 1423584941774835700,
 		"id_str": "1423587472634748928",
