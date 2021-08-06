@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 06 11:29:24 +0000 2021",
+		"id": 1423603947344851000,
+		"id_str": "1423607134957318144",
+		"full_text": "[POST] #권진아\n\n여러분의 마음을 똑똑, 권진아 썸머 싱글 'KNOCK (With 박문치)' 비하인드🖼✨\n\n💛https://t.co/1M1LJt69UQ\n\n#권진아 #KwonJinAh #KNOCK #비하인드 https://t.co/xdo7qfDw1z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권진아",
+					"indices": [
+						7,
+						11
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						94,
+						104
+					]
+				},
+				{
+					"text": "KNOCK",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						112,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1M1LJt69UQ",
+					"expanded_url": "http://naver.me/5lZm6mTj",
+					"display_url": "naver.me/5lZm6mTj",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1423603942840172500,
+					"id_str": "1423603942840172549",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GoPlHVgAUBxH0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GoPlHVgAUBxH0.jpg",
+					"url": "https://t.co/xdo7qfDw1z",
+					"display_url": "pic.twitter.com/xdo7qfDw1z",
+					"expanded_url": "https://twitter.com/antennamusic/status/1423603947344850944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423603942840172500,
+					"id_str": "1423603942840172549",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GoPlHVgAUBxH0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GoPlHVgAUBxH0.jpg",
+					"url": "https://t.co/xdo7qfDw1z",
+					"display_url": "pic.twitter.com/xdo7qfDw1z",
+					"expanded_url": "https://twitter.com/antennamusic/status/1423603947344850944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 권진아 Summer Single 'KNOCK (With 박문치)' 2021. 07. 27. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36853,
+			"friends_count": 11,
+			"listed_count": 372,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[POST] #권진아\n\n여러분의 마음을 똑똑, 권진아 썸머 싱글 'KNOCK (With 박문치)' 비하인드🖼✨\n\n💛https://t.co/1M1LJt69UQ\n\n#권진아 #KwonJinAh #KNOCK #비하인드 https://t.co/xdo7qfDw1z"
+	},
+	{
 		"created_at": "Fri Aug 06 11:05:24 +0000 2021",
 		"id": 1423601094559735800,
 		"id_str": "1423601094559735811",
