@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 06 14:29:28 +0000 2021",
+		"id": 1423645687225323500,
+		"id_str": "1423652447214505987",
+		"full_text": "채원 PROFILE BEHIND📂\n\n#김채원 #KimChaeWon #キム・チェウォン\n#울림엔터테인먼트 #WOOLLIM https://t.co/21yBfHfFMl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김채원",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "KimChaeWon",
+					"indices": [
+						25,
+						36
+					]
+				},
+				{
+					"text": "キム・チェウォン",
+					"indices": [
+						37,
+						46
+					]
+				},
+				{
+					"text": "울림엔터테인먼트",
+					"indices": [
+						47,
+						56
+					]
+				},
+				{
+					"text": "WOOLLIM",
+					"indices": [
+						57,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1423645680795480000,
+					"id_str": "1423645680795480064",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/E8HONDHVcAAEToo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8HONDHVcAAEToo.jpg",
+					"url": "https://t.co/21yBfHfFMl",
+					"display_url": "pic.twitter.com/21yBfHfFMl",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1423645687225323527/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423645680795480000,
+					"id_str": "1423645680795480064",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/E8HONDHVcAAEToo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8HONDHVcAAEToo.jpg",
+					"url": "https://t.co/21yBfHfFMl",
+					"display_url": "pic.twitter.com/21yBfHfFMl",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1423645687225323527/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1423645680854212600,
+					"id_str": "1423645680854212608",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/E8HONDVVoAAgokY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8HONDVVoAAgokY.jpg",
+					"url": "https://t.co/21yBfHfFMl",
+					"display_url": "pic.twitter.com/21yBfHfFMl",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1423645687225323527/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1423645680891875300,
+					"id_str": "1423645680891875336",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/E8HONDeUUAgckj-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8HONDeUUAgckj-.jpg",
+					"url": "https://t.co/21yBfHfFMl",
+					"display_url": "pic.twitter.com/21yBfHfFMl",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1423645687225323527/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1423645681038741500,
+					"id_str": "1423645681038741511",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/E8HONEBVUAcQnY6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8HONEBVUAcQnY6.jpg",
+					"url": "https://t.co/21yBfHfFMl",
+					"display_url": "pic.twitter.com/21yBfHfFMl",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1423645687225323527/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1423645601879576600,
+		"in_reply_to_status_id_str": "1423645601879576584",
+		"in_reply_to_user_id": 713661673,
+		"in_reply_to_user_id_str": "713661673",
+		"in_reply_to_screen_name": "woollim_ent",
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTuZ29E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTuZ29E",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 429230,
+			"friends_count": 10,
+			"listed_count": 1914,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2246,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1627377718",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2495,
+		"favorite_count": 4200,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "채원 PROFILE BEHIND📂\n\n#김채원 #KimChaeWon #キム・チェウォン\n#울림엔터테인먼트 #WOOLLIM https://t.co/21yBfHfFMl"
+	},
+	{
 		"created_at": "Fri Aug 06 13:29:25 +0000 2021",
 		"id": 1423622382342836200,
 		"id_str": "1423637335263043586",
