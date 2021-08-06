@@ -1,6 +1,423 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 06 07:29:39 +0000 2021",
+		"id": 1423534876502880300,
+		"id_str": "1423546796517756928",
+		"full_text": "[MLF - 미니멀라이프 페스티벌]\n오늘부터 매주 금요일 4주동안 \n홍대 소규모 공연장에서 진행됩니다\n함께 해주시는 분들께 감사드립니다\n\n06일 #모트 #초승 #빨간의자\n13일 #SURL #위아영\n20일 #기프트 #우자앤쉐인 #레이브릭스\n27일 #디어클라우드 #코토바\n\n&lt;멜론티켓&gt;\nhttps://t.co/wKqR8qq8iX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "모트",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "초승",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "빨간의자",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "SURL",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "위아영",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "기프트",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "우자앤쉐인",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "레이브릭스",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "디어클라우드",
+					"indices": [
+						137,
+						144
+					]
+				},
+				{
+					"text": "코토바",
+					"indices": [
+						145,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wKqR8qq8iX",
+					"expanded_url": "http://kko.to/nwPTlOY40",
+					"display_url": "kko.to/nwPTlOY40",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2648,
+			"friends_count": 336,
+			"listed_count": 32,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 19855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MLF - 미니멀라이프 페스티벌]\n오늘부터 매주 금요일 4주동안 \n홍대 소규모 공연장에서 진행됩니다\n함께 해주시는 분들께 감사드립니다\n\n06일 #모트 #초승 #빨간의자\n13일 #SURL #위아영\n20일 #기프트 #우자앤쉐인 #레이브릭스\n27일 #디어클라우드 #코토바\n\n&lt;멜론티켓&gt;\nhttps://t.co/wKqR8qq8iX"
+	},
+	{
+		"created_at": "Fri Aug 06 07:29:32 +0000 2021",
+		"id": 1423532314504532000,
+		"id_str": "1423546766700552192",
+		"full_text": "💿[LP] 모트 - Re: (옐로우 컬러)\n▶https://t.co/ka8aSsKWTt\n\n📀[CD] 모트 - 소중함에 대하여 EP\n▶https://t.co/IjH84eAmf3 https://t.co/f0M5e3J6B7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ka8aSsKWTt",
+					"expanded_url": "http://www.yes24.com/Product/Goods/103052580",
+					"display_url": "yes24.com/Product/Goods/…",
+					"indices": [
+						25,
+						48
+					]
+				},
+				{
+					"url": "https://t.co/IjH84eAmf3",
+					"expanded_url": "http://www.yes24.com/Product/Goods/103097223",
+					"display_url": "yes24.com/Product/Goods/…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1423532309978914800,
+					"id_str": "1423532309978914821",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/E8FnF_6VoAUEsUY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8FnF_6VoAUEsUY.jpg",
+					"url": "https://t.co/f0M5e3J6B7",
+					"display_url": "pic.twitter.com/f0M5e3J6B7",
+					"expanded_url": "https://twitter.com/ruby_records/status/1423532314504531969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423532309978914800,
+					"id_str": "1423532309978914821",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/E8FnF_6VoAUEsUY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8FnF_6VoAUEsUY.jpg",
+					"url": "https://t.co/f0M5e3J6B7",
+					"display_url": "pic.twitter.com/f0M5e3J6B7",
+					"expanded_url": "https://twitter.com/ruby_records/status/1423532314504531969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1423532310075379700,
+					"id_str": "1423532310075379714",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/E8FnGARVkAI_7_z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8FnGARVkAI_7_z.jpg",
+					"url": "https://t.co/f0M5e3J6B7",
+					"display_url": "pic.twitter.com/f0M5e3J6B7",
+					"expanded_url": "https://twitter.com/ruby_records/status/1423532314504531969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1423532303054041000,
+		"in_reply_to_status_id_str": "1423532303054041091",
+		"in_reply_to_user_id": 110930534,
+		"in_reply_to_user_id_str": "110930534",
+		"in_reply_to_screen_name": "ruby_records",
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7690,
+			"friends_count": 8367,
+			"listed_count": 198,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿[LP] 모트 - Re: (옐로우 컬러)\n▶https://t.co/ka8aSsKWTt\n\n📀[CD] 모트 - 소중함에 대하여 EP\n▶https://t.co/IjH84eAmf3 https://t.co/f0M5e3J6B7"
+	},
+	{
 		"created_at": "Fri Aug 06 06:58:18 +0000 2021",
 		"id": 1423533421918183400,
 		"id_str": "1423538907896074246",
