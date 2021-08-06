@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 06 12:29:25 +0000 2021",
+		"id": 1423615014343037000,
+		"id_str": "1423622234657206273",
+		"full_text": "[PHOTO] #권진아\n\nstudio NEON과 함께한 ‘권진아 - KNOCK (With 박문치)’ 라이브 영상이 공개되었습니다💖시원한 권진아의 목소리와 함께, 기분 좋은 주말 맞이하세요🙌💫\n\n💟 https://t.co/PwYjBvQvRC\n\n#KwonJinAh #KNOCK https://t.co/2Cd9E17JC4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권진아",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						135,
+						145
+					]
+				},
+				{
+					"text": "KNOCK",
+					"indices": [
+						146,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PwYjBvQvRC",
+					"expanded_url": "https://youtu.be/Okcfi8uh0VI",
+					"display_url": "youtu.be/Okcfi8uh0VI",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1423615007372189700,
+					"id_str": "1423615007372189699",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GyTntVoAM2-b_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GyTntVoAM2-b_.jpg",
+					"url": "https://t.co/2Cd9E17JC4",
+					"display_url": "pic.twitter.com/2Cd9E17JC4",
+					"expanded_url": "https://twitter.com/antennamusic/status/1423615014343036929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423615007372189700,
+					"id_str": "1423615007372189699",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GyTntVoAM2-b_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GyTntVoAM2-b_.jpg",
+					"url": "https://t.co/2Cd9E17JC4",
+					"display_url": "pic.twitter.com/2Cd9E17JC4",
+					"expanded_url": "https://twitter.com/antennamusic/status/1423615014343036929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1423615007422488600,
+					"id_str": "1423615007422488578",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GyTn5VIAIEM9N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GyTn5VIAIEM9N.jpg",
+					"url": "https://t.co/2Cd9E17JC4",
+					"display_url": "pic.twitter.com/2Cd9E17JC4",
+					"expanded_url": "https://twitter.com/antennamusic/status/1423615014343036929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 권진아 Summer Single 'KNOCK (With 박문치)' 2021. 07. 27. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36853,
+			"friends_count": 11,
+			"listed_count": 372,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[PHOTO] #권진아\n\nstudio NEON과 함께한 ‘권진아 - KNOCK (With 박문치)’ 라이브 영상이 공개되었습니다💖시원한 권진아의 목소리와 함께, 기분 좋은 주말 맞이하세요🙌💫\n\n💟 https://t.co/PwYjBvQvRC\n\n#KwonJinAh #KNOCK https://t.co/2Cd9E17JC4"
+	},
+	{
 		"created_at": "Fri Aug 06 11:29:24 +0000 2021",
 		"id": 1423603947344851000,
 		"id_str": "1423607134957318144",
