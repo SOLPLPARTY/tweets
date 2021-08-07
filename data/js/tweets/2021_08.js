@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sat Aug 07 01:29:24 +0000 2021",
+		"id": 1423810254676979700,
+		"id_str": "1423818527790837764",
+		"full_text": "[TRACK POSTER] #샘김 #적재 \n\nAKMU ‘EVEREST (with Sam Kim)’ TRACK POSTER\n\n샘김이 피처링으로, 적재가 작, 편곡으로 참여한 8월 8일 0AM ‘EVEREST (with Sam Kim)’ OFFICIAL VIDEO가 공개됩니다✨\n\n#샘김 #SamKim #적재 #JUKJAE \n#AKMU #NEXTEPISODE #EVEREST https://t.co/WomGj0Kl8T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "샘김",
+					"indices": [
+						15,
+						18
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						19,
+						22
+					]
+				},
+				{
+					"text": "샘김",
+					"indices": [
+						155,
+						158
+					]
+				},
+				{
+					"text": "SamKim",
+					"indices": [
+						159,
+						166
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "JUKJAE",
+					"indices": [
+						171,
+						178
+					]
+				},
+				{
+					"text": "AKMU",
+					"indices": [
+						180,
+						185
+					]
+				},
+				{
+					"text": "NEXTEPISODE",
+					"indices": [
+						186,
+						198
+					]
+				},
+				{
+					"text": "EVEREST",
+					"indices": [
+						199,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1423810250210119700,
+					"id_str": "1423810250210119681",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/E8Jj4P9VkAE-g8L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8Jj4P9VkAE-g8L.jpg",
+					"url": "https://t.co/WomGj0Kl8T",
+					"display_url": "pic.twitter.com/WomGj0Kl8T",
+					"expanded_url": "https://twitter.com/antennamusic/status/1423810254676979718/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423810250210119700,
+					"id_str": "1423810250210119681",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/E8Jj4P9VkAE-g8L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8Jj4P9VkAE-g8L.jpg",
+					"url": "https://t.co/WomGj0Kl8T",
+					"display_url": "pic.twitter.com/WomGj0Kl8T",
+					"expanded_url": "https://twitter.com/antennamusic/status/1423810254676979718/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 960,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 권진아 Summer Single 'KNOCK (With 박문치)' 2021. 07. 27. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36851,
+			"friends_count": 11,
+			"listed_count": 372,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3814,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[TRACK POSTER] #샘김 #적재 \n\nAKMU ‘EVEREST (with Sam Kim)’ TRACK POSTER\n\n샘김이 피처링으로, 적재가 작, 편곡으로 참여한 8월 8일 0AM ‘EVEREST (with Sam Kim)’ OFFICIAL VIDEO가 공개됩니다✨\n\n#샘김 #SamKim #적재 #JUKJAE \n#AKMU #NEXTEPISODE #EVEREST https://t.co/WomGj0Kl8T"
+	},
+	{
 		"created_at": "Fri Aug 06 15:29:40 +0000 2021",
 		"id": 1423661946310586400,
 		"id_str": "1423667598009438211",
