@@ -1,6 +1,425 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sat Aug 07 12:11:16 +0000 2021",
+		"id": 1423973179807068200,
+		"id_str": "1423980058767773703",
+		"full_text": "차세대 100분쇼 @FF \n\n2021/08/14 (sat) 6pm \n\n“차세대” 의 100분 단독 공연!\n\n예매 : 30000원 (30명 한정) \n\n예매처 : https://t.co/LSO24KIm80 \n예매시작 : 2021/08/09 월요일 오후 2시 (예매 입금순 입장이고 계좌는 오후 2시 정각 공개 예정) https://t.co/PEvMd3mJKA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ff",
+					"name": "ff",
+					"id": 45513,
+					"id_str": "45513",
+					"indices": [
+						10,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LSO24KIm80",
+					"expanded_url": "http://clubff.modoo.at",
+					"display_url": "clubff.modoo.at",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1423973169891664000,
+					"id_str": "1423973169891663886",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/E8L4DbEUYA49UXJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8L4DbEUYA49UXJ.jpg",
+					"url": "https://t.co/PEvMd3mJKA",
+					"display_url": "pic.twitter.com/PEvMd3mJKA",
+					"expanded_url": "https://twitter.com/clubFF_/status/1423973179807068162/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2022,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 671,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1185,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423973169891664000,
+					"id_str": "1423973169891663886",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/E8L4DbEUYA49UXJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8L4DbEUYA49UXJ.jpg",
+					"url": "https://t.co/PEvMd3mJKA",
+					"display_url": "pic.twitter.com/PEvMd3mJKA",
+					"expanded_url": "https://twitter.com/clubFF_/status/1423973179807068162/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2022,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 671,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1185,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 455224965,
+			"id_str": "455224965",
+			"name": "클럽에프에프",
+			"screen_name": "clubFF_",
+			"location": "서울 마포구 서교동 407-8 지하1층",
+			"description": "홍대 최고의 NO.1 Indie experience 라이브 & 댄스클럽 에프에프입니다!! 엪엪의 대관 및 오디션 문의(프로필,음원,연락처 필수)는  010-9025-3407 과 ianbrown@naver.com 으로 .",
+			"url": "https://t.co/dmU2vJP8pS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmU2vJP8pS",
+							"expanded_url": "http://clubff.modoo.at",
+							"display_url": "clubff.modoo.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6163,
+			"friends_count": 8,
+			"listed_count": 74,
+			"created_at": "Wed Jan 04 21:41:48 +0000 2012",
+			"favourites_count": 560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2263880419/image_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "차세대 100분쇼 @FF \n\n2021/08/14 (sat) 6pm \n\n“차세대” 의 100분 단독 공연!\n\n예매 : 30000원 (30명 한정) \n\n예매처 : https://t.co/LSO24KIm80 \n예매시작 : 2021/08/09 월요일 오후 2시 (예매 입금순 입장이고 계좌는 오후 2시 정각 공개 예정) https://t.co/PEvMd3mJKA"
+	},
+	{
+		"created_at": "Sat Aug 07 11:58:20 +0000 2021",
+		"id": 1423975962149068800,
+		"id_str": "1423976800263327751",
+		"full_text": "5분 뒤 슬픔의 케이팝 파티 12번째 이야기, &lt;Virtual Insanity&gt;가 시작됩니다! 오늘의 슬픔의 케이팝 파티는 아주 특별한 가상 현실 공간에서 진행됩니다! 각자 개성 넘치는 아바타로 접속하시고, 슬케파 월드로 로그온 해주세요~! #슬케파\n\n🎧우주소녀 - ROBOT\n👉https://t.co/T43gV7PpKB https://t.co/nJTCoM1ljg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬케파",
+					"indices": [
+						141,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T43gV7PpKB",
+					"expanded_url": "https://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1423970439987032000,
+					"id_str": "1423970439987032066",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1423970439987032066/pu/img/Oy_lYLmb7KtH0fHa.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1423970439987032066/pu/img/Oy_lYLmb7KtH0fHa.jpg",
+					"url": "https://t.co/nJTCoM1ljg",
+					"display_url": "pic.twitter.com/nJTCoM1ljg",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1423975962149068801/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423970439987032000,
+					"id_str": "1423970439987032066",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1423970439987032066/pu/img/Oy_lYLmb7KtH0fHa.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1423970439987032066/pu/img/Oy_lYLmb7KtH0fHa.jpg",
+					"url": "https://t.co/nJTCoM1ljg",
+					"display_url": "pic.twitter.com/nJTCoM1ljg",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1423975962149068801/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							2,
+							3
+						],
+						"duration_millis": 16100,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1423970439987032066/pu/vid/720x1080/GrNoS-aye7U0TdYF.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1423970439987032066/pu/vid/320x480/wIwT1aOkW0vb_pBk.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1423970439987032066/pu/pl/eAaohuSRVU_FVYej.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1423970439987032066/pu/vid/480x720/JQfujtTyz6RoSvUg.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/J4jpDKDhWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J4jpDKDhWh",
+							"expanded_url": "https://now.naver.com/player/10256",
+							"display_url": "now.naver.com/player/10256",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7813,
+			"friends_count": 33,
+			"listed_count": 19,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 705,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "5분 뒤 슬픔의 케이팝 파티 12번째 이야기, &lt;Virtual Insanity&gt;가 시작됩니다! 오늘의 슬픔의 케이팝 파티는 아주 특별한 가상 현실 공간에서 진행됩니다! 각자 개성 넘치는 아바타로 접속하시고, 슬케파 월드로 로그온 해주세요~! #슬케파\n\n🎧우주소녀 - ROBOT\n👉https://t.co/T43gV7PpKB https://t.co/nJTCoM1ljg"
+	},
+	{
 		"created_at": "Sat Aug 07 09:29:35 +0000 2021",
 		"id": 1423934088109432800,
 		"id_str": "1423939366930550785",
