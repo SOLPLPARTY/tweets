@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sat Aug 07 04:58:14 +0000 2021",
+		"id": 1423864897557852200,
+		"id_str": "1423871082604466176",
+		"full_text": "슬픔의케이팝파티 episode.12\n&lt;Virtual Insanity&gt;\n\n2021.08.07 토요일 저녁 아홉시\n\nDJ WAKARAN GIRL (@mayolazrbeam)\nDJ yunji (@yunjiofficial)\n\nNAVER NOW\nhttps://t.co/WMeO6kHSri https://t.co/LMrk5Q992F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mayolazrbeam",
+					"name": "wakaran girl x mayolazr",
+					"id": 1035595630016692200,
+					"id_str": "1035595630016692224",
+					"indices": [
+						86,
+						99
+					]
+				},
+				{
+					"screen_name": "yunjiofficial",
+					"name": "yunji",
+					"id": 720350573833228300,
+					"id_str": "720350573833228288",
+					"indices": [
+						111,
+						125
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WMeO6kHSri",
+					"expanded_url": "http://now.naver.com/player/10256",
+					"display_url": "now.naver.com/player/10256",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1423864826170732500,
+					"id_str": "1423864826170732549",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1423864826170732549/pu/img/vGMppjdUnZKe0bC3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1423864826170732549/pu/img/vGMppjdUnZKe0bC3.jpg",
+					"url": "https://t.co/LMrk5Q992F",
+					"display_url": "pic.twitter.com/LMrk5Q992F",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1423864897557852163/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 436,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 436,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 436,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423864826170732500,
+					"id_str": "1423864826170732549",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1423864826170732549/pu/img/vGMppjdUnZKe0bC3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1423864826170732549/pu/img/vGMppjdUnZKe0bC3.jpg",
+					"url": "https://t.co/LMrk5Q992F",
+					"display_url": "pic.twitter.com/LMrk5Q992F",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1423864897557852163/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 436,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 436,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 436,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							109,
+							120
+						],
+						"duration_millis": 26084,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1423864826170732549/pu/vid/320x352/vzJh1rtMWf24FdA7.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1423864826170732549/pu/vid/436x480/uxgEVCd0T0YtRWJh.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1423864826170732549/pu/pl/7K-gnwtkllVnnEqn.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/J4jpDKDhWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J4jpDKDhWh",
+							"expanded_url": "https://now.naver.com/player/10256",
+							"display_url": "now.naver.com/player/10256",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7807,
+			"friends_count": 33,
+			"listed_count": 19,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬픔의케이팝파티 episode.12\n&lt;Virtual Insanity&gt;\n\n2021.08.07 토요일 저녁 아홉시\n\nDJ WAKARAN GIRL (@mayolazrbeam)\nDJ yunji (@yunjiofficial)\n\nNAVER NOW\nhttps://t.co/WMeO6kHSri https://t.co/LMrk5Q992F"
+	},
+	{
 		"created_at": "Sat Aug 07 03:29:25 +0000 2021",
 		"id": 1423842583625805800,
 		"id_str": "1423848727316402176",
