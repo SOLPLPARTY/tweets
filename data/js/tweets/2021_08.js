@@ -1,10 +1,259 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 09 05:58:14 +0000 2021",
+		"id": 1424596091421352000,
+		"id_str": "1424610957477752835",
+		"full_text": "#JUMF #전주얼티밋뮤직페스티벌 #채용공고 #디자이너채용 #그래픽디자이너 \n\n궁금한 점은 디엠으로 보내주세요!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JUMF",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "전주얼티밋뮤직페스티벌",
+					"indices": [
+						6,
+						18
+					]
+				},
+				{
+					"text": "채용공고",
+					"indices": [
+						19,
+						24
+					]
+				},
+				{
+					"text": "디자이너채용",
+					"indices": [
+						25,
+						32
+					]
+				},
+				{
+					"text": "그래픽디자이너",
+					"indices": [
+						33,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1424595771727302700,
+		"in_reply_to_status_id_str": "1424595771727302662",
+		"in_reply_to_user_id": 702764019308867600,
+		"in_reply_to_user_id_str": "702764019308867585",
+		"in_reply_to_screen_name": "JUMF_2021",
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2021(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2021",
+			"location": "대한민국 전주시",
+			"description": "JUMF2021 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)",
+			"url": "https://t.co/d1vvaslpQh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d1vvaslpQh",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 361,
+			"friends_count": 1199,
+			"listed_count": 6,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1562257708",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#JUMF #전주얼티밋뮤직페스티벌 #채용공고 #디자이너채용 #그래픽디자이너 \n\n궁금한 점은 디엠으로 보내주세요!"
+	},
+	{
+		"created_at": "Mon Aug 09 05:29:31 +0000 2021",
+		"id": 1424596854210060300,
+		"id_str": "1424603727319666689",
+		"full_text": "[문화저널21 사람,공감,소통의 미디어(종합인터넷신문)] 싱어송라이터 우예린, 신곡 화월(火越) 10일 정오 발매 https://t.co/D81Gu7amEh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D81Gu7amEh",
+					"expanded_url": "http://m.mhj21.com/144908",
+					"display_url": "m.mhj21.com/144908",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7688,
+			"friends_count": 8365,
+			"listed_count": 198,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[문화저널21 사람,공감,소통의 미디어(종합인터넷신문)] 싱어송라이터 우예린, 신곡 화월(火越) 10일 정오 발매 https://t.co/D81Gu7amEh"
+	},
+	{
 		"created_at": "Mon Aug 09 04:58:15 +0000 2021",
 		"id": 1424595771727302700,
 		"id_str": "1424595860768399365",
-		"full_text": "🧑‍🎤JUMF에서 함께할 음악을 사랑하는 열정있는 디자이너를 모집합니다!🧑‍🎤\n🎸채용 : 그래픽 디자이너 (1명)\n🎵근무기간 : 2021년 8월~11월\n🎤제출서류 : 이력서, 디자인 작업물 포트폴리오\n🎶지원방법 : 이메일(jumf2016@gmail.com), 트위터 메신저(DM)\n🎹접수마감 : 2021년 8월 11일 (수)\n#JUMF https://t.co/m9CCivqik2",
+		"full_text": "🧑🎤JUMF에서 함께할 음악을 사랑하는 열정있는 디자이너를 모집합니다!🧑🎤\n🎸채용 : 그래픽 디자이너 (1명)\n🎵근무기간 : 2021년 8월~11월\n🎤제출서류 : 이력서, 디자인 작업물 포트폴리오\n🎶지원방법 : 이메일(jumf2016@gmail.com), 트위터 메신저(DM)\n🎹접수마감 : 2021년 8월 11일 (수)\n#JUMF https://t.co/m9CCivqik2",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -217,7 +466,7 @@ Grailbird.data.tweets_2021_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "🧑‍🎤JUMF에서 함께할 음악을 사랑하는 열정있는 디자이너를 모집합니다!🧑‍🎤\n🎸채용 : 그래픽 디자이너 (1명)\n🎵근무기간 : 2021년 8월~11월\n🎤제출서류 : 이력서, 디자인 작업물 포트폴리오\n🎶지원방법 : 이메일(jumf2016@gmail.com), 트위터 메신저(DM)\n🎹접수마감 : 2021년 8월 11일 (수)\n#JUMF https://t.co/m9CCivqik2"
+		"text": "🧑🎤JUMF에서 함께할 음악을 사랑하는 열정있는 디자이너를 모집합니다!🧑🎤\n🎸채용 : 그래픽 디자이너 (1명)\n🎵근무기간 : 2021년 8월~11월\n🎤제출서류 : 이력서, 디자인 작업물 포트폴리오\n🎶지원방법 : 이메일(jumf2016@gmail.com), 트위터 메신저(DM)\n🎹접수마감 : 2021년 8월 11일 (수)\n#JUMF https://t.co/m9CCivqik2"
 	},
 	{
 		"created_at": "Mon Aug 09 03:29:31 +0000 2021",
