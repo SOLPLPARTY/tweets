@@ -1,6 +1,337 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 10 13:11:17 +0000 2021",
+		"id": 1425075173871345700,
+		"id_str": "1425082322475487237",
+		"full_text": "@AmblerKR 네. 지금 유튜브 플레이리스트로 바꿨어요. 내일부터 올라오는 다섯 곡은 주욱 들을 수 있게요 ㅎ 이러니저러니해도 이용자가 불편하면 무의미라... 그리고, 짧은 소개글은 카카오뷰에만 있을거고, 유튜브에서 카카오뷰로 유입도 될테니. 의견 주셔서 결심할 수 있었네요. 감사!",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AmblerKR",
+					"name": "Ambler",
+					"id": 1252910486435164200,
+					"id_str": "1252910486435164161",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1425071610705322000,
+		"in_reply_to_status_id_str": "1425071610705321999",
+		"in_reply_to_user_id": 1252910486435164200,
+		"in_reply_to_user_id_str": "1252910486435164161",
+		"in_reply_to_screen_name": "AmblerKR",
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8643,
+			"friends_count": 152,
+			"listed_count": 133,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@AmblerKR 네. 지금 유튜브 플레이리스트로 바꿨어요. 내일부터 올라오는 다섯 곡은 주욱 들을 수 있게요 ㅎ 이러니저러니해도 이용자가 불편하면 무의미라... 그리고, 짧은 소개글은 카카오뷰에만 있을거고, 유튜브에서 카카오뷰로 유입도 될테니. 의견 주셔서 결심할 수 있었네요. 감사!"
+	},
+	{
+		"created_at": "Tue Aug 10 12:29:33 +0000 2021",
+		"id": 1425068439169732600,
+		"id_str": "1425071820965924865",
+		"full_text": "[너드커넥션] 🄽🄴🅆 🅂🄸🄽🄶🄻🄴 D-5\n\n𝟮𝟬𝟮𝟭.𝟬𝟴.𝟭𝟱.𝗦𝗨𝗡.𝟭𝟮𝗽𝗺\n\n#너드커넥션 #nerdconnection #신곡 #싱글 #발매 #12시 #너컨 https://t.co/Ctz6lhMEud",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						45,
+						51
+					]
+				},
+				{
+					"text": "nerdconnection",
+					"indices": [
+						52,
+						67
+					]
+				},
+				{
+					"text": "신곡",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "싱글",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "12시",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "너컨",
+					"indices": [
+						85,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1425068430890180600,
+					"id_str": "1425068430890180609",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/E8bcMAPVIAELLB6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8bcMAPVIAELLB6.jpg",
+					"url": "https://t.co/Ctz6lhMEud",
+					"display_url": "pic.twitter.com/Ctz6lhMEud",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1425068439169732611/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425068430890180600,
+					"id_str": "1425068430890180609",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/E8bcMAPVIAELLB6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8bcMAPVIAELLB6.jpg",
+					"url": "https://t.co/Ctz6lhMEud",
+					"display_url": "pic.twitter.com/Ctz6lhMEud",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1425068439169732611/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 (당신의여름)",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타와 함께합니다.",
+			"url": "https://t.co/oHXBW5kYJK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oHXBW5kYJK",
+							"expanded_url": "http://www.instagram.com/yoursummerkr",
+							"display_url": "instagram.com/yoursummerkr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2085,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5333,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[너드커넥션] 🄽🄴🅆 🅂🄸🄽🄶🄻🄴 D-5\n\n𝟮𝟬𝟮𝟭.𝟬𝟴.𝟭𝟱.𝗦𝗨𝗡.𝟭𝟮𝗽𝗺\n\n#너드커넥션 #nerdconnection #신곡 #싱글 #발매 #12시 #너컨 https://t.co/Ctz6lhMEud"
+	},
+	{
 		"created_at": "Tue Aug 10 12:11:25 +0000 2021",
 		"id": 1425066789063430100,
 		"id_str": "1425067256682369030",
