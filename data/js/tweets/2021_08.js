@@ -1,6 +1,1023 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 10 04:17:44 +0000 2021",
+		"id": 1424948053476266000,
+		"id_str": "1424948053476265999",
+		"full_text": "#루비레코드 #Ruby_Records\n[우예린(Woo Yerin)] '화월(火越)' Live\nhttps://t.co/zSd0M5TfjQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "루비레코드",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Ruby_Records",
+					"indices": [
+						7,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zSd0M5TfjQ",
+					"expanded_url": "https://youtu.be/zPF-ckwnCkI",
+					"display_url": "youtu.be/zPF-ckwnCkI",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71618,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#루비레코드 #Ruby_Records\n[우예린(Woo Yerin)] '화월(火越)' Live\nhttps://t.co/zSd0M5TfjQ"
+	},
+	{
+		"created_at": "Tue Aug 10 04:11:16 +0000 2021",
+		"id": 1424942250698625000,
+		"id_str": "1424946426652540930",
+		"full_text": "신도시는 내일 8월 11일 수요일\n촬영 대관으로 인하여 하루 쉽니다.\n12일 목요일 부터 정상 영업 합니다.\n양해 부탁 드립니다.\n감사합니다. @신도시 Seendosi https://t.co/k8S7ymIUWB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k8S7ymIUWB",
+					"expanded_url": "https://www.instagram.com/p/CSYSkwhJya6/?utm_medium=twitter",
+					"display_url": "instagram.com/p/CSYSkwhJya6/…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3225907891,
+			"id_str": "3225907891",
+			"name": "신도시",
+			"screen_name": "seendosi",
+			"location": "서울시 중구 수표동 11-2, 5층",
+			"description": "맥주.양주.커피.식사 /송년회•신년회•돌잔치•회갑연•상견례•생일연•피로연회석완비 /서울시 중구 수표동 11-2 5층 /평일 6PM-2AM /금 6PM-3AM /토 3PM-3AM /일 휴무 /070-8631-4557",
+			"url": "https://t.co/o9mzPvptV6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o9mzPvptV6",
+							"expanded_url": "http://seendosi.com",
+							"display_url": "seendosi.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3888,
+			"friends_count": 683,
+			"listed_count": 0,
+			"created_at": "Mon May 25 05:15:01 +0000 2015",
+			"favourites_count": 2890,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242419878239170560/pBD26VQm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3225907891/1442843307",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.56781323,
+				126.99073278
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				126.99073278,
+				37.56781323
+			]
+		},
+		"place": {
+			"id": "0082bcf413c3da5b",
+			"url": "https://api.twitter.com/1.1/geo/id/0082bcf413c3da5b.json",
+			"place_type": "city",
+			"name": "종로구",
+			"full_name": "대한민국 종로구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.954583757566,
+							37.5608647493162
+						],
+						[
+							127.020041620086,
+							37.5608647493162
+						],
+						[
+							127.020041620086,
+							37.6329424143606
+						],
+						[
+							126.954583757566,
+							37.6329424143606
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "신도시는 내일 8월 11일 수요일\n촬영 대관으로 인하여 하루 쉽니다.\n12일 목요일 부터 정상 영업 합니다.\n양해 부탁 드립니다.\n감사합니다. @신도시 Seendosi https://t.co/k8S7ymIUWB"
+	},
+	{
+		"created_at": "Tue Aug 10 03:30:14 +0000 2021",
+		"id": 1424935575044255700,
+		"id_str": "1424936097801547790",
+		"full_text": "공항, 바다, 숲, 과수원, 냇가, 오일장 등 제주에 살고 있는 루시드폴이 제주도의 여러 곳을 직접 발로 뛰며 담아낸 소리를 &lt;루시드폴의 사운드 제주&gt;를 통해 들려 드립니다. 우리를 둘러싼 모든 소리가 지닌 아름다움을 느껴보세요✨\n\n🔊 FLO 루시드폴의 사운드 제주\nhttps://t.co/IK8R7PdUYt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IK8R7PdUYt",
+					"expanded_url": "http://flomuz.io/s/d.lYb",
+					"display_url": "flomuz.io/s/d.lYb",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1424935572427083800,
+		"in_reply_to_status_id_str": "1424935572427083777",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 권진아 Summer Single 'KNOCK (With 박문치)' 2021. 07. 27. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36846,
+			"friends_count": 11,
+			"listed_count": 372,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공항, 바다, 숲, 과수원, 냇가, 오일장 등 제주에 살고 있는 루시드폴이 제주도의 여러 곳을 직접 발로 뛰며 담아낸 소리를 &lt;루시드폴의 사운드 제주&gt;를 통해 들려 드립니다. 우리를 둘러싼 모든 소리가 지닌 아름다움을 느껴보세요✨\n\n🔊 FLO 루시드폴의 사운드 제주\nhttps://t.co/IK8R7PdUYt"
+	},
+	{
+		"created_at": "Tue Aug 10 03:30:09 +0000 2021",
+		"id": 1424935572427083800,
+		"id_str": "1424936076104421377",
+		"full_text": "[Audio] #루시드폴\n\n매주 화요일 오후 12시, FLO 앱을 통해 만나 보실 수 있는 &lt;루시드폴의 사운드 제주&gt; 1회 '루시드폴과 함께 제주도로 떠나볼까요'가 공개 되었습니다.\n\n#루시드폴 #루시드폴의사운드제주 #FLO #오디오콘텐츠 #AmbientMusic https://t.co/6ZZGEBbXbv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "루시드폴",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "루시드폴",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "루시드폴의사운드제주",
+					"indices": [
+						115,
+						126
+					]
+				},
+				{
+					"text": "FLO",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "오디오콘텐츠",
+					"indices": [
+						132,
+						139
+					]
+				},
+				{
+					"text": "AmbientMusic",
+					"indices": [
+						140,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1424935566135627800,
+					"id_str": "1424935566135627780",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/E8ZjWQdVkAQPReg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8ZjWQdVkAQPReg.jpg",
+					"url": "https://t.co/6ZZGEBbXbv",
+					"display_url": "pic.twitter.com/6ZZGEBbXbv",
+					"expanded_url": "https://twitter.com/antennamusic/status/1424935572427083777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 456,
+							"h": 456,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 456,
+							"h": 456,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 456,
+							"h": 456,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1424935566135627800,
+					"id_str": "1424935566135627780",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/E8ZjWQdVkAQPReg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8ZjWQdVkAQPReg.jpg",
+					"url": "https://t.co/6ZZGEBbXbv",
+					"display_url": "pic.twitter.com/6ZZGEBbXbv",
+					"expanded_url": "https://twitter.com/antennamusic/status/1424935572427083777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 456,
+							"h": 456,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 456,
+							"h": 456,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 456,
+							"h": 456,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 권진아 Summer Single 'KNOCK (With 박문치)' 2021. 07. 27. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36846,
+			"friends_count": 11,
+			"listed_count": 372,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Audio] #루시드폴\n\n매주 화요일 오후 12시, FLO 앱을 통해 만나 보실 수 있는 &lt;루시드폴의 사운드 제주&gt; 1회 '루시드폴과 함께 제주도로 떠나볼까요'가 공개 되었습니다.\n\n#루시드폴 #루시드폴의사운드제주 #FLO #오디오콘텐츠 #AmbientMusic https://t.co/6ZZGEBbXbv"
+	},
+	{
+		"created_at": "Tue Aug 10 03:29:59 +0000 2021",
+		"id": 1424933294496391200,
+		"id_str": "1424936037181272070",
+		"full_text": "🔥[𝐎𝐔𝐓 𝐍𝐎𝐖]\n💝모브닝 new single \n'우리에게 아픔이 필요한 이유 (The reason we need pain)'\n\n\"설령 아픔이 나를 무너뜨릴지라도 여전히 물렁물렁하고 솔직한 감정으로 세상을 살아가고 싶어요.\n아픔은 추억으로 묻고 더 나은 내일을 기대하며!\"\n-하림-✍\nMOVNING https://t.co/aH8V5O6zMX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1424933057102958600,
+					"id_str": "1424933057102958593",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/E8ZhENlVUAESiby.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8ZhENlVUAESiby.jpg",
+					"url": "https://t.co/aH8V5O6zMX",
+					"display_url": "pic.twitter.com/aH8V5O6zMX",
+					"expanded_url": "https://twitter.com/sugar_records/status/1424933294496391173/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1424933057102958600,
+					"id_str": "1424933057102958593",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/E8ZhENlVUAESiby.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8ZhENlVUAESiby.jpg",
+					"url": "https://t.co/aH8V5O6zMX",
+					"display_url": "pic.twitter.com/aH8V5O6zMX",
+					"expanded_url": "https://twitter.com/sugar_records/status/1424933294496391173/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94343878,
+			"id_str": "94343878",
+			"name": "슈가레코드",
+			"screen_name": "sugar_records",
+			"location": "Seoul, KR",
+			"description": "#달에닿아 #뷰티핸섬 #리썬 #모브닝 #엔분의일 #당기시오 #우리같은사람들 슈가레코드",
+			"url": "https://t.co/MaZwhWbQNT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MaZwhWbQNT",
+							"expanded_url": "http://sugar-records.com",
+							"display_url": "sugar-records.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 549,
+			"friends_count": 38,
+			"listed_count": 9,
+			"created_at": "Thu Dec 03 14:51:49 +0000 2009",
+			"favourites_count": 437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7514,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94343878/1548148600",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔥[𝐎𝐔𝐓 𝐍𝐎𝐖]\n💝모브닝 new single \n'우리에게 아픔이 필요한 이유 (The reason we need pain)'\n\n\"설령 아픔이 나를 무너뜨릴지라도 여전히 물렁물렁하고 솔직한 감정으로 세상을 살아가고 싶어요.\n아픔은 추억으로 묻고 더 나은 내일을 기대하며!\"\n-하림-✍\nMOVNING https://t.co/aH8V5O6zMX"
+	},
+	{
+		"created_at": "Tue Aug 10 03:29:48 +0000 2021",
+		"id": 1424932965692309500,
+		"id_str": "1424935989768765440",
+		"full_text": "모브닝 MOVNING  - 우리에게 아픔이 필요한 이유 (The reason we need pa... https://t.co/ywh1rSQ7yL 출처 @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						84,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ywh1rSQ7yL",
+					"expanded_url": "https://youtu.be/WAbz5iRyHw4",
+					"display_url": "youtu.be/WAbz5iRyHw4",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94343878,
+			"id_str": "94343878",
+			"name": "슈가레코드",
+			"screen_name": "sugar_records",
+			"location": "Seoul, KR",
+			"description": "#달에닿아 #뷰티핸섬 #리썬 #모브닝 #엔분의일 #당기시오 #우리같은사람들 슈가레코드",
+			"url": "https://t.co/MaZwhWbQNT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MaZwhWbQNT",
+							"expanded_url": "http://sugar-records.com",
+							"display_url": "sugar-records.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 549,
+			"friends_count": 38,
+			"listed_count": 9,
+			"created_at": "Thu Dec 03 14:51:49 +0000 2009",
+			"favourites_count": 437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7514,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94343878/1548148600",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "모브닝 MOVNING  - 우리에게 아픔이 필요한 이유 (The reason we need pa... https://t.co/ywh1rSQ7yL 출처 @YouTube"
+	},
+	{
+		"created_at": "Tue Aug 10 03:29:45 +0000 2021",
+		"id": 1424930001787359200,
+		"id_str": "1424935976430973005",
+		"full_text": "火(불 화), 越(넘을 월)\n\n내리쬐는 태양에 말라 비틀어진 땅.\n시원한 비라도 내리면 좋으련만 절절 끓는 날씨.\n\n갈라져가는 마음과 퍼석해진 감정.\n아무래도 좋다는 생각이 드는 요즘.\n\n-20200302",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1424930000495464400,
+		"in_reply_to_status_id_str": "1424930000495464451",
+		"in_reply_to_user_id": 110930534,
+		"in_reply_to_user_id_str": "110930534",
+		"in_reply_to_screen_name": "ruby_records",
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7687,
+			"friends_count": 8365,
+			"listed_count": 198,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "火(불 화), 越(넘을 월)\n\n내리쬐는 태양에 말라 비틀어진 땅.\n시원한 비라도 내리면 좋으련만 절절 끓는 날씨.\n\n갈라져가는 마음과 퍼석해진 감정.\n아무래도 좋다는 생각이 드는 요즘.\n\n-20200302"
+	},
+	{
 		"created_at": "Tue Aug 10 03:12:42 +0000 2021",
 		"id": 1424931685146275800,
 		"id_str": "1424931685146275841",
