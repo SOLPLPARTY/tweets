@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 10 13:29:24 +0000 2021",
+		"id": 1425071935977889800,
+		"id_str": "1425086885416800260",
+		"full_text": "[#정진운] 오늘의 연료는 정진운 온리유..❤\n청량감 넘치는 정진운 화보 같이 봐요🤩\n\n🔗https://t.co/26OysEkG9E \n\n#화보 #촬영 #네이버포스트 https://t.co/szo2fdmOkF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정진운",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "화보",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "촬영",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						84,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/26OysEkG9E",
+					"expanded_url": "http://naver.me/GKo0KEgJ",
+					"display_url": "naver.me/GKo0KEgJ",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1425016256525070300,
+					"id_str": "1425016256525070337",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/E8asvDlVcAEbHbI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8asvDlVcAEbHbI.jpg",
+					"url": "https://t.co/szo2fdmOkF",
+					"display_url": "pic.twitter.com/szo2fdmOkF",
+					"expanded_url": "https://twitter.com/themysticstory/status/1425071935977889794/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 803,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 803,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425016256525070300,
+					"id_str": "1425016256525070337",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/E8asvDlVcAEbHbI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8asvDlVcAEbHbI.jpg",
+					"url": "https://t.co/szo2fdmOkF",
+					"display_url": "pic.twitter.com/szo2fdmOkF",
+					"expanded_url": "https://twitter.com/themysticstory/status/1425071935977889794/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 803,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 803,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1425016256533463000,
+					"id_str": "1425016256533463044",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/E8asvDnVgAQUM6C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8asvDnVgAQUM6C.jpg",
+					"url": "https://t.co/szo2fdmOkF",
+					"display_url": "pic.twitter.com/szo2fdmOkF",
+					"expanded_url": "https://twitter.com/themysticstory/status/1425071935977889794/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 803,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 803,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1425016256533434400,
+					"id_str": "1425016256533434369",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/E8asvDnVEAE1JPN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8asvDnVEAE1JPN.jpg",
+					"url": "https://t.co/szo2fdmOkF",
+					"display_url": "pic.twitter.com/szo2fdmOkF",
+					"expanded_url": "https://twitter.com/themysticstory/status/1425071935977889794/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 803,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 803,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1425016256529191000,
+					"id_str": "1425016256529190916",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/E8asvDmUUAQwyd6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8asvDmUUAQwyd6.jpg",
+					"url": "https://t.co/szo2fdmOkF",
+					"display_url": "pic.twitter.com/szo2fdmOkF",
+					"expanded_url": "https://twitter.com/themysticstory/status/1425071935977889794/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 803,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 803,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21348,
+			"friends_count": 14,
+			"listed_count": 237,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#정진운] 오늘의 연료는 정진운 온리유..❤\n청량감 넘치는 정진운 화보 같이 봐요🤩\n\n🔗https://t.co/26OysEkG9E \n\n#화보 #촬영 #네이버포스트 https://t.co/szo2fdmOkF"
+	},
+	{
 		"created_at": "Tue Aug 10 13:11:17 +0000 2021",
 		"id": 1425075173871345700,
 		"id_str": "1425082322475487237",
