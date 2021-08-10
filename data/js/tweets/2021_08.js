@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 10 12:11:25 +0000 2021",
+		"id": 1425066789063430100,
+		"id_str": "1425067256682369030",
+		"full_text": "@AmblerKR 제안을 받고 운영중인데다 같이 성장해서 광고 수익 등을 쉐어하는 '큐레이션' 채널(플레이리스트가 아니라)인지라 이런 초창기 어려움이 있어도 같이 가야하는데 말씀대로 이용자가 불편하면 다 무용한지라...",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AmblerKR",
+					"name": "Ambler",
+					"id": 1252910486435164200,
+					"id_str": "1252910486435164161",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1425065773525966800,
+		"in_reply_to_status_id_str": "1425065773525966852",
+		"in_reply_to_user_id": 444545059,
+		"in_reply_to_user_id_str": "444545059",
+		"in_reply_to_screen_name": "cafe_veloso",
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8643,
+			"friends_count": 152,
+			"listed_count": 133,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@AmblerKR 제안을 받고 운영중인데다 같이 성장해서 광고 수익 등을 쉐어하는 '큐레이션' 채널(플레이리스트가 아니라)인지라 이런 초창기 어려움이 있어도 같이 가야하는데 말씀대로 이용자가 불편하면 다 무용한지라..."
+	},
+	{
+		"created_at": "Tue Aug 10 12:11:16 +0000 2021",
+		"id": 1425065773525966800,
+		"id_str": "1425067222050000898",
+		"full_text": "@AmblerKR 네 알고 있고, 맞는 이야기인데 그렇게 되면 제 유튜브 채널을 구독하게 되어버려서... 다섯 곡이면 플레이리스트라기 보다는 큐레이션 매거진 성격으로 보는게 맞겠다는 생각 중. 백그라운드 플레이가 가능하게 만들면 좋긴 한데 그러면 확장성이 떨어질거고 카카오뷰에서도 고민이 있는 것 같고요.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AmblerKR",
+					"name": "Ambler",
+					"id": 1252910486435164200,
+					"id_str": "1252910486435164161",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1425055676582142000,
+		"in_reply_to_status_id_str": "1425055676582141959",
+		"in_reply_to_user_id": 1252910486435164200,
+		"in_reply_to_user_id_str": "1252910486435164161",
+		"in_reply_to_screen_name": "AmblerKR",
+		"user": {
+			"id": 444545059,
+			"id_str": "444545059",
+			"name": "벨로주(veloso)",
+			"screen_name": "cafe_veloso",
+			"location": "홍대",
+			"description": "벨로주 홍대(서교동 372-6) / 벨로주 망원(망원동 422-27)",
+			"url": "https://t.co/IHGjrVSuBz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IHGjrVSuBz",
+							"expanded_url": "http://www.veloso.co.kr",
+							"display_url": "veloso.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8643,
+			"friends_count": 152,
+			"listed_count": 133,
+			"created_at": "Fri Dec 23 11:08:35 +0000 2011",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1709792493/IMAG0116_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "@AmblerKR 네 알고 있고, 맞는 이야기인데 그렇게 되면 제 유튜브 채널을 구독하게 되어버려서... 다섯 곡이면 플레이리스트라기 보다는 큐레이션 매거진 성격으로 보는게 맞겠다는 생각 중. 백그라운드 플레이가 가능하게 만들면 좋긴 한데 그러면 확장성이 떨어질거고 카카오뷰에서도 고민이 있는 것 같고요."
+	},
+	{
+		"created_at": "Tue Aug 10 11:29:34 +0000 2021",
+		"id": 1425051745810452500,
+		"id_str": "1425056724860420097",
+		"full_text": "이루리의 4songs, 두번째 트랙 공개🥳\n\n'나의 곁에 있어줘'가 이루리의 뽀송즈 두번째 트랙으로 공개되었습니다! 이루리의 감수성 짙은 목소리와 영상을 만나보세요💛\n\n🔗https://t.co/DbryemrdZM\nhttps://t.co/DbryemrdZM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DbryemrdZM",
+					"expanded_url": "https://youtu.be/JLGKwaG9pTY",
+					"display_url": "youtu.be/JLGKwaG9pTY",
+					"indices": [
+						95,
+						118
+					]
+				},
+				{
+					"url": "https://t.co/DbryemrdZM",
+					"expanded_url": "https://youtu.be/JLGKwaG9pTY",
+					"display_url": "youtu.be/JLGKwaG9pTY",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드 MAGIC STRAWBERRY SOUND / Music label based in Korea",
+			"url": "https://t.co/2ZpTkk9tMw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2ZpTkk9tMw",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8542,
+			"friends_count": 20,
+			"listed_count": 100,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 95,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6132,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1597394894",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이루리의 4songs, 두번째 트랙 공개🥳\n\n'나의 곁에 있어줘'가 이루리의 뽀송즈 두번째 트랙으로 공개되었습니다! 이루리의 감수성 짙은 목소리와 영상을 만나보세요💛\n\n🔗https://t.co/DbryemrdZM\nhttps://t.co/DbryemrdZM"
+	},
+	{
 		"created_at": "Tue Aug 10 10:41:16 +0000 2021",
 		"id": 1425044571742953500,
 		"id_str": "1425044571742953473",
