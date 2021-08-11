@@ -1,6 +1,457 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 11 10:58:14 +0000 2021",
+		"id": 1425396577171034000,
+		"id_str": "1425411230177579008",
+		"full_text": "⏳KCON:TACT PERFORMANCE VIDEOS⏳\nALL of KCON:TACT 3's performance videos are out!\nKCON:TACT 3의 무대 영상이 모두 업로드 되었습니다!\nKCON:TACT 3のステージ映像が全てアップ完了！\n\nPlaylist&gt; https://t.co/DYu2NZuf4i\n\nSubscribe Now&gt; https://t.co/83zc6i5T1X https://t.co/z8MJacKNc1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DYu2NZuf4i",
+					"expanded_url": "https://bit.ly/KCONTACT_3",
+					"display_url": "bit.ly/KCONTACT_3",
+					"indices": [
+						156,
+						179
+					]
+				},
+				{
+					"url": "https://t.co/83zc6i5T1X",
+					"expanded_url": "http://youtube.com/KCON",
+					"display_url": "youtube.com/KCON",
+					"indices": [
+						199,
+						222
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1425270041151369200,
+					"id_str": "1425270041151369218",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/E8eTjQ_VcAINfWq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8eTjQ_VcAINfWq.jpg",
+					"url": "https://t.co/z8MJacKNc1",
+					"display_url": "pic.twitter.com/z8MJacKNc1",
+					"expanded_url": "https://twitter.com/KCON_official/status/1425396577171034112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425270041151369200,
+					"id_str": "1425270041151369218",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/E8eTjQ_VcAINfWq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8eTjQ_VcAINfWq.jpg",
+					"url": "https://t.co/z8MJacKNc1",
+					"display_url": "pic.twitter.com/z8MJacKNc1",
+					"expanded_url": "https://twitter.com/KCON_official/status/1425396577171034112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 382226,
+			"friends_count": 75,
+			"listed_count": 1000,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 185,
+		"favorite_count": 477,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "⏳KCON:TACT PERFORMANCE VIDEOS⏳\nALL of KCON:TACT 3's performance videos are out!\nKCON:TACT 3의 무대 영상이 모두 업로드 되었습니다!\nKCON:TACT 3のステージ映像が全てアップ完了！\n\nPlaylist&gt; https://t.co/DYu2NZuf4i\n\nSubscribe Now&gt; https://t.co/83zc6i5T1X https://t.co/z8MJacKNc1"
+	},
+	{
+		"created_at": "Wed Aug 11 10:29:34 +0000 2021",
+		"id": 1425396825004118000,
+		"id_str": "1425404013168766978",
+		"full_text": "[#정인] 최준의 니곡내곡 공개🎤\n\n노래에 진심인 최준과 함께한 정인의 '장마'☔\n이 라이브 듣고 무더위 잊기로 약속🤙\n\n🔗 https://t.co/cj7kskqgmt\n\n#장마 #최준 #니곡내곡 #피식대학 https://t.co/AhZNUbfPOV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정인",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "장마",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "최준",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "니곡내곡",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "피식대학",
+					"indices": [
+						109,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cj7kskqgmt",
+					"expanded_url": "https://youtu.be/Y-CrUAIgTF4",
+					"display_url": "youtu.be/Y-CrUAIgTF4",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1425387672663584800,
+					"id_str": "1425387672663584776",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/E8f-iUhVcAgO3Ef.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8f-iUhVcAgO3Ef.jpg",
+					"url": "https://t.co/AhZNUbfPOV",
+					"display_url": "pic.twitter.com/AhZNUbfPOV",
+					"expanded_url": "https://twitter.com/themysticstory/status/1425396825004118016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425387672663584800,
+					"id_str": "1425387672663584776",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/E8f-iUhVcAgO3Ef.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8f-iUhVcAgO3Ef.jpg",
+					"url": "https://t.co/AhZNUbfPOV",
+					"display_url": "pic.twitter.com/AhZNUbfPOV",
+					"expanded_url": "https://twitter.com/themysticstory/status/1425396825004118016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1425387702363455500,
+					"id_str": "1425387702363455488",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/E8f-kDKVgAA4h7t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8f-kDKVgAA4h7t.jpg",
+					"url": "https://t.co/AhZNUbfPOV",
+					"display_url": "pic.twitter.com/AhZNUbfPOV",
+					"expanded_url": "https://twitter.com/themysticstory/status/1425396825004118016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1059,
+							"h": 1412,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21354,
+			"friends_count": 14,
+			"listed_count": 235,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#정인] 최준의 니곡내곡 공개🎤\n\n노래에 진심인 최준과 함께한 정인의 '장마'☔\n이 라이브 듣고 무더위 잊기로 약속🤙\n\n🔗 https://t.co/cj7kskqgmt\n\n#장마 #최준 #니곡내곡 #피식대학 https://t.co/AhZNUbfPOV"
+	},
+	{
 		"created_at": "Wed Aug 11 10:09:06 +0000 2021",
 		"id": 1425398863293190100,
 		"id_str": "1425398863293190145",
