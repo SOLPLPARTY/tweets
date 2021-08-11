@@ -1,6 +1,707 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 11 06:29:46 +0000 2021",
+		"id": 1425343097261625300,
+		"id_str": "1425343666579808257",
+		"full_text": "DAILY MIRRORBALL MUSIC | 210811 WED\n⠀\n🔸 FOOL IN THE POOL (풀인더풀) [No Fear]\n🔸 ECIM [솔직하게]\n🔸 백식 (Baeksik) [자존심]\n🔸 조병훈 [들어주기를]\n\n#풀인더풀 #ECIM #백식 #조병훈 #미러볼뮤직 #인디음악 #음스타그램 https://t.co/6chHORCMHs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "풀인더풀",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "ECIM",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "백식",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "조병훈",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "음스타그램",
+					"indices": [
+						158,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1425342966667776000,
+					"id_str": "1425342966667776009",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1425342966667776009/pu/img/QZzCncJyvjYKm04k.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1425342966667776009/pu/img/QZzCncJyvjYKm04k.jpg",
+					"url": "https://t.co/6chHORCMHs",
+					"display_url": "pic.twitter.com/6chHORCMHs",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1425343097261625349/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425342966667776000,
+					"id_str": "1425342966667776009",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1425342966667776009/pu/img/QZzCncJyvjYKm04k.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1425342966667776009/pu/img/QZzCncJyvjYKm04k.jpg",
+					"url": "https://t.co/6chHORCMHs",
+					"display_url": "pic.twitter.com/6chHORCMHs",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1425343097261625349/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 56056,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1425342966667776009/pu/vid/720x720/-4BD1p6iE5wWtzvV.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1425342966667776009/pu/vid/320x320/aPT5MsfwOmXXJLgV.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1425342966667776009/pu/vid/540x540/xwXPWj04F-neiDMh.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1425342966667776009/pu/pl/XkVAuQjm_V77nm20.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9467,
+			"friends_count": 2673,
+			"listed_count": 247,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10716,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1627032310",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "DAILY MIRRORBALL MUSIC | 210811 WED\n⠀\n🔸 FOOL IN THE POOL (풀인더풀) [No Fear]\n🔸 ECIM [솔직하게]\n🔸 백식 (Baeksik) [자존심]\n🔸 조병훈 [들어주기를]\n\n#풀인더풀 #ECIM #백식 #조병훈 #미러볼뮤직 #인디음악 #음스타그램 https://t.co/6chHORCMHs"
+	},
+	{
+		"created_at": "Wed Aug 11 06:29:40 +0000 2021",
+		"id": 1425339036353241000,
+		"id_str": "1425343640944132099",
+		"full_text": "#미니멀라이프페스티벌 #MLF #미라페\n이번주 금요일! 2회차 공연 예매가\n오늘 마감 됩니다.\n늦기전에 서둘러 주세요^^\n\n8월 13일(금) 8pm #롤링홀\n#SURL(#설) - #위아영(#WeAreYoung)\nhttps://t.co/GSbmvJE0RR\n\n#엠와이뮤직 #서울특별시",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미니멀라이프페스티벌",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MLF",
+					"indices": [
+						12,
+						16
+					]
+				},
+				{
+					"text": "미라페",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "SURL",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "설",
+					"indices": [
+						94,
+						96
+					]
+				},
+				{
+					"text": "위아영",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "WeAreYoung",
+					"indices": [
+						105,
+						116
+					]
+				},
+				{
+					"text": "엠와이뮤직",
+					"indices": [
+						143,
+						149
+					]
+				},
+				{
+					"text": "서울특별시",
+					"indices": [
+						150,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GSbmvJE0RR",
+					"expanded_url": "http://kko.to/9fqNvQY4B",
+					"display_url": "kko.to/9fqNvQY4B",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2647,
+			"friends_count": 336,
+			"listed_count": 32,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 19898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#미니멀라이프페스티벌 #MLF #미라페\n이번주 금요일! 2회차 공연 예매가\n오늘 마감 됩니다.\n늦기전에 서둘러 주세요^^\n\n8월 13일(금) 8pm #롤링홀\n#SURL(#설) - #위아영(#WeAreYoung)\nhttps://t.co/GSbmvJE0RR\n\n#엠와이뮤직 #서울특별시"
+	},
+	{
+		"created_at": "Wed Aug 11 06:29:35 +0000 2021",
+		"id": 1425338547188293600,
+		"id_str": "1425343619461009408",
+		"full_text": "2021.08.10. 12pm\n\n우예린의 '화월(火越)'이 발매되었습니다.\n'화월(火越)' 발매 기념으로 '낙원(楽園)' Live도 공개합니다💚\n\n현재 모든 스트리밍 사이트에서 들어보실 수 있습니다.\n지금 바로 들어보러 가시죠 !\nㅡ\n음원듣기 : https://t.co/lhRAjnvTTD\n---\n▶️https://t.co/itVgSoqp2t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lhRAjnvTTD",
+					"expanded_url": "https://lnk.to/OlYDf4",
+					"display_url": "lnk.to/OlYDf4",
+					"indices": [
+						138,
+						161
+					]
+				},
+				{
+					"url": "https://t.co/itVgSoqp2t",
+					"expanded_url": "https://youtu.be/VNarjdLrYDY",
+					"display_url": "youtu.be/VNarjdLrYDY",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7686,
+			"friends_count": 8366,
+			"listed_count": 198,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 951,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2021.08.10. 12pm\n\n우예린의 '화월(火越)'이 발매되었습니다.\n'화월(火越)' 발매 기념으로 '낙원(楽園)' Live도 공개합니다💚\n\n현재 모든 스트리밍 사이트에서 들어보실 수 있습니다.\n지금 바로 들어보러 가시죠 !\nㅡ\n음원듣기 : https://t.co/lhRAjnvTTD\n---\n▶️https://t.co/itVgSoqp2t"
+	},
+	{
+		"created_at": "Wed Aug 11 06:29:28 +0000 2021",
+		"id": 1425336522228654000,
+		"id_str": "1425343589656190977",
+		"full_text": "출연진 : SURL, 너드커넥션, 나상현씨\n초등학생 이상 관람가 / 200명 관람 제한\n\n신청기간 : 8/3(화) 10:00 ~ 8/19(목) 13:00 (2명까지 신청가능)\n당첨자 발표: 8/20(금) 개별연락 \n\n#너드커넥션 #너컨 #울산중구문화의전당 #울산공연 #울산중구문화이음콘서트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "너컨",
+					"indices": [
+						128,
+						131
+					]
+				},
+				{
+					"text": "울산중구문화의전당",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"text": "울산공연",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "울산중구문화이음콘서트",
+					"indices": [
+						149,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1425336474702991400,
+		"in_reply_to_status_id_str": "1425336474702991364",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 (당신의여름)",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타와 함께합니다.",
+			"url": "https://t.co/oHXBW5kYJK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oHXBW5kYJK",
+							"expanded_url": "http://www.instagram.com/yoursummerkr",
+							"display_url": "instagram.com/yoursummerkr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2084,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "출연진 : SURL, 너드커넥션, 나상현씨\n초등학생 이상 관람가 / 200명 관람 제한\n\n신청기간 : 8/3(화) 10:00 ~ 8/19(목) 13:00 (2명까지 신청가능)\n당첨자 발표: 8/20(금) 개별연락 \n\n#너드커넥션 #너컨 #울산중구문화의전당 #울산공연 #울산중구문화이음콘서트"
+	},
+	{
 		"created_at": "Wed Aug 11 06:11:16 +0000 2021",
 		"id": 1425334825334894600,
 		"id_str": "1425339013372723200",
