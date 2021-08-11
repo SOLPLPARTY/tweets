@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 11 11:29:24 +0000 2021",
+		"id": 1425412681465401300,
+		"id_str": "1425419073970655233",
+		"full_text": "[너드커넥션] 🄽🄴🅆 🅂🄸🄽🄶🄻🄴 D-4\n\n𝟮𝟬𝟮𝟭.𝟬𝟴.𝟭𝟱.𝗦𝗨𝗡.𝟭𝟮𝗽𝗺\n\n“만약에 우리가\n이 많은 사람들 앞에서\n우리만의 춤을 춰야 한다면”\n\n#너드커넥션 #nerdconnection #신곡 #싱글 #발매 #0815 #12시 #너컨 https://t.co/xcEWxUBZw3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "nerdconnection",
+					"indices": [
+						91,
+						106
+					]
+				},
+				{
+					"text": "신곡",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "싱글",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "12시",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "너컨",
+					"indices": [
+						130,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1425412675043872800,
+					"id_str": "1425412675043872769",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/E8gVRppUUAE7Qi9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8gVRppUUAE7Qi9.jpg",
+					"url": "https://t.co/xcEWxUBZw3",
+					"display_url": "pic.twitter.com/xcEWxUBZw3",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1425412681465401346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425412675043872800,
+					"id_str": "1425412675043872769",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/E8gVRppUUAE7Qi9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8gVRppUUAE7Qi9.jpg",
+					"url": "https://t.co/xcEWxUBZw3",
+					"display_url": "pic.twitter.com/xcEWxUBZw3",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1425412681465401346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 (당신의여름)",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타와 함께합니다.",
+			"url": "https://t.co/oHXBW5kYJK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oHXBW5kYJK",
+							"expanded_url": "http://www.instagram.com/yoursummerkr",
+							"display_url": "instagram.com/yoursummerkr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2086,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5336,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[너드커넥션] 🄽🄴🅆 🅂🄸🄽🄶🄻🄴 D-4\n\n𝟮𝟬𝟮𝟭.𝟬𝟴.𝟭𝟱.𝗦𝗨𝗡.𝟭𝟮𝗽𝗺\n\n“만약에 우리가\n이 많은 사람들 앞에서\n우리만의 춤을 춰야 한다면”\n\n#너드커넥션 #nerdconnection #신곡 #싱글 #발매 #0815 #12시 #너컨 https://t.co/xcEWxUBZw3"
+	},
+	{
 		"created_at": "Wed Aug 11 10:58:14 +0000 2021",
 		"id": 1425396577171034000,
 		"id_str": "1425411230177579008",
