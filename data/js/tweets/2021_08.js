@@ -1,6 +1,481 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 12 07:58:26 +0000 2021",
+		"id": 1425713879749861400,
+		"id_str": "1425728367563874309",
+		"full_text": "アーティストとファンの心が繋がる時間、 KCON:TACT HI 5 🖐💗\n KCON:TACT HI 5だけの強力なショー、楽しむ準備は終わりました？\nKCON-ersのための映像を見て心の準備をしっかりしてくださいね！ \n\n💌 WHEN : SEP 18(SAT)~26(SUN), 2021 ▶ https://t.co/aQyhRtMTxC #KCON #KCONTACTHI5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						181,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aQyhRtMTxC",
+					"expanded_url": "http://kconofficial.com",
+					"display_url": "kconofficial.com",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1425713786950799400,
+		"in_reply_to_status_id_str": "1425713786950799361",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 382430,
+			"friends_count": 75,
+			"listed_count": 1000,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10498,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "アーティストとファンの心が繋がる時間、 KCON:TACT HI 5 🖐💗\n KCON:TACT HI 5だけの強力なショー、楽しむ準備は終わりました？\nKCON-ersのための映像を見て心の準備をしっかりしてくださいね！ \n\n💌 WHEN : SEP 18(SAT)~26(SUN), 2021 ▶ https://t.co/aQyhRtMTxC #KCON #KCONTACTHI5"
+	},
+	{
+		"created_at": "Thu Aug 12 07:58:19 +0000 2021",
+		"id": 1425713786950799400,
+		"id_str": "1425728337721413632",
+		"full_text": "아티스트와 팬의 마음이 이어지는 시간, KCON:TACT HI 5 🖐💗\n KCON:TACT HI 5만의 강력한 쇼, 즐길 준비 되셨나요? \nKCON-ers들을 위한 영상보고 마음 준비 단단히 하기! \n\n💌 WHEN : SEP 18(SAT)~26(SUN), 2021 ▶ https://t.co/aQyhRtMTxC #KCON #KCONTACTHI5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						180,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aQyhRtMTxC",
+					"expanded_url": "http://kconofficial.com",
+					"display_url": "kconofficial.com",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1425713667706916900,
+		"in_reply_to_status_id_str": "1425713667706916865",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 382430,
+			"friends_count": 75,
+			"listed_count": 1000,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10498,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아티스트와 팬의 마음이 이어지는 시간, KCON:TACT HI 5 🖐💗\n KCON:TACT HI 5만의 강력한 쇼, 즐길 준비 되셨나요? \nKCON-ers들을 위한 영상보고 마음 준비 단단히 하기! \n\n💌 WHEN : SEP 18(SAT)~26(SUN), 2021 ▶ https://t.co/aQyhRtMTxC #KCON #KCONTACTHI5"
+	},
+	{
+		"created_at": "Thu Aug 12 07:58:15 +0000 2021",
+		"id": 1425713667706916900,
+		"id_str": "1425728320528846850",
+		"full_text": "Time for the artists and fans to connect,\nKCON:TACT HI 5 🖐💗\nAre you ready to enjoy the show on KCON:TACT HI 5?\nGet ready for the upcoming show by watching what we have for KCON-ers!\n💌 WHEN : SEP 18(SAT)~26(SUN), 2021 \n\n▶ https://t.co/aQyhRu4uWc \n#KCON #KCONTACTHI5 https://t.co/fw6djLuTT4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCON",
+					"indices": [
+						246,
+						251
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						252,
+						264
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aQyhRu4uWc",
+					"expanded_url": "http://kconofficial.com",
+					"display_url": "kconofficial.com",
+					"indices": [
+						221,
+						244
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1425706456926417000,
+					"id_str": "1425706456926416897",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1425706456926416897/pu/img/M0R326vYS24twrAf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1425706456926416897/pu/img/M0R326vYS24twrAf.jpg",
+					"url": "https://t.co/fw6djLuTT4",
+					"display_url": "pic.twitter.com/fw6djLuTT4",
+					"expanded_url": "https://twitter.com/KCON_official/status/1425713667706916865/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425706456926417000,
+					"id_str": "1425706456926416897",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1425706456926416897/pu/img/M0R326vYS24twrAf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1425706456926416897/pu/img/M0R326vYS24twrAf.jpg",
+					"url": "https://t.co/fw6djLuTT4",
+					"display_url": "pic.twitter.com/fw6djLuTT4",
+					"expanded_url": "https://twitter.com/KCON_official/status/1425713667706916865/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 42476,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1425706456926416897/pu/vid/1280x720/Z6IscjPMYK7tctA1.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1425706456926416897/pu/pl/lWv5I_D-vBiTprnM.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1425706456926416897/pu/vid/480x270/MdoO4Xm8rLu_VvZf.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1425706456926416897/pu/vid/640x360/P8f9gv6gzAJscAhH.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 382430,
+			"friends_count": 75,
+			"listed_count": 1000,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10498,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 246,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Time for the artists and fans to connect,\nKCON:TACT HI 5 🖐💗\nAre you ready to enjoy the show on KCON:TACT HI 5?\nGet ready for the upcoming show by watching what we have for KCON-ers!\n💌 WHEN : SEP 18(SAT)~26(SUN), 2021 \n\n▶ https://t.co/aQyhRu4uWc \n#KCON #KCONTACTHI5 https://t.co/fw6djLuTT4"
+	},
+	{
 		"created_at": "Thu Aug 12 06:29:24 +0000 2021",
 		"id": 1425698803777085400,
 		"id_str": "1425705964699795457",
