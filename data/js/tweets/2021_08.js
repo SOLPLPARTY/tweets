@@ -1,6 +1,638 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 12 10:29:40 +0000 2021",
+		"id": 1425763169243328500,
+		"id_str": "1425766427668144137",
+		"full_text": "[NOTICE]\n⠀\n뮤지션 '최유리'를 알아보는 시간!\n최유리의 뮤즈온 인터뷰를 지금 바로 확인해보세요💛\n⠀\n▷https://t.co/Y1YmEhdUsQ\n\n#최유리 #뮤즈온 #뮤즈온2021 #Interview",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최유리",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "뮤즈온",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "뮤즈온2021",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "Interview",
+					"indices": [
+						106,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y1YmEhdUsQ",
+					"expanded_url": "https://youtu.be/lxYQDKcvn78",
+					"display_url": "youtu.be/lxYQDKcvn78",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/VtrzF3mRza",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VtrzF3mRza",
+							"expanded_url": "http://shofar-ent.com",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7767,
+			"friends_count": 4,
+			"listed_count": 66,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4435,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1626080157",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NOTICE]\n⠀\n뮤지션 '최유리'를 알아보는 시간!\n최유리의 뮤즈온 인터뷰를 지금 바로 확인해보세요💛\n⠀\n▷https://t.co/Y1YmEhdUsQ\n\n#최유리 #뮤즈온 #뮤즈온2021 #Interview"
+	},
+	{
+		"created_at": "Thu Aug 12 10:29:33 +0000 2021",
+		"id": 1425763157637701600,
+		"id_str": "1425766397796306950",
+		"full_text": "🪴오늘도 삽질 10-1삽\nhttps://t.co/hwB64wOuWd\n\n🪴오늘도 삽질 10-2삽\nhttps://t.co/nbv3EDEFvp\n\n@le_petit_piano @pptnznoshel \n#페퍼톤스 #윤지성 #오늘도삽질 #스튜디오훜 https://t.co/qwrb9bi7lX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "윤지성",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "오늘도삽질",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "스튜디오훜",
+					"indices": [
+						126,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "le_petit_piano",
+					"name": "Jae-Hyung.JUNG",
+					"id": 120697779,
+					"id_str": "120697779",
+					"indices": [
+						78,
+						93
+					]
+				},
+				{
+					"screen_name": "pptnznoshel",
+					"name": "이장원 (Edward J Lee)",
+					"id": 192668164,
+					"id_str": "192668164",
+					"indices": [
+						94,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hwB64wOuWd",
+					"expanded_url": "https://youtu.be/wkQDwJTLrgE",
+					"display_url": "youtu.be/wkQDwJTLrgE",
+					"indices": [
+						14,
+						37
+					]
+				},
+				{
+					"url": "https://t.co/nbv3EDEFvp",
+					"expanded_url": "https://youtu.be/nHcjCLMVCe4",
+					"display_url": "youtu.be/nHcjCLMVCe4",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1425763095561965600,
+					"id_str": "1425763095561965571",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1425763095561965571/pu/img/ueQYRmgdcvXFXvtw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1425763095561965571/pu/img/ueQYRmgdcvXFXvtw.jpg",
+					"url": "https://t.co/qwrb9bi7lX",
+					"display_url": "pic.twitter.com/qwrb9bi7lX",
+					"expanded_url": "https://twitter.com/antennamusic/status/1425763157637701635/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 716,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425763095561965600,
+					"id_str": "1425763095561965571",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1425763095561965571/pu/img/ueQYRmgdcvXFXvtw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1425763095561965571/pu/img/ueQYRmgdcvXFXvtw.jpg",
+					"url": "https://t.co/qwrb9bi7lX",
+					"display_url": "pic.twitter.com/qwrb9bi7lX",
+					"expanded_url": "https://twitter.com/antennamusic/status/1425763157637701635/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 716,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							179
+						],
+						"duration_millis": 10621,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1425763095561965571/pu/vid/1280x716/rtHmxMkll3NxlGp_.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1425763095561965571/pu/vid/642x360/SsoqczEEcI_PrtYh.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1425763095561965571/pu/pl/BlwO7v3U176m9BRB.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1425763095561965571/pu/vid/482x270/7ecPEmAGtIV79407.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1425763082396004400,
+		"in_reply_to_status_id_str": "1425763082396004353",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 권진아 Summer Single 'KNOCK (With 박문치)' 2021. 07. 27. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36858,
+			"friends_count": 11,
+			"listed_count": 372,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🪴오늘도 삽질 10-1삽\nhttps://t.co/hwB64wOuWd\n\n🪴오늘도 삽질 10-2삽\nhttps://t.co/nbv3EDEFvp\n\n@le_petit_piano @pptnznoshel \n#페퍼톤스 #윤지성 #오늘도삽질 #스튜디오훜 https://t.co/qwrb9bi7lX"
+	},
+	{
+		"created_at": "Thu Aug 12 10:29:31 +0000 2021",
+		"id": 1425763082396004400,
+		"id_str": "1425766388799610884",
+		"full_text": "[Video] #정재형 #이장원\n\n&lt;오늘도 삽질&gt; 10삽 공개🌳 \n\n안테나 아이돌 '꽃님이대장' 재형X장원이 엔딩요정 윤지성과 함께 수많은 콤포지숑들로 이루어낸 한옥 어린이도서관 앞마당 꾸미기🌱 그리고 마지막 쎄-뚜😭 그동안 스튜디오 훜 '오늘도 삽질'을 사랑해주신 모든 분들 감사합니다💚✨ https://t.co/Hhfg0M3CNP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정재형",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "이장원",
+					"indices": [
+						13,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1425763028931211300,
+					"id_str": "1425763028931211264",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1425763028931211264/pu/img/uduvSjxmskRicx0S.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1425763028931211264/pu/img/uduvSjxmskRicx0S.jpg",
+					"url": "https://t.co/Hhfg0M3CNP",
+					"display_url": "pic.twitter.com/Hhfg0M3CNP",
+					"expanded_url": "https://twitter.com/antennamusic/status/1425763082396004353/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 716,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425763028931211300,
+					"id_str": "1425763028931211264",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1425763028931211264/pu/img/uduvSjxmskRicx0S.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1425763028931211264/pu/img/uduvSjxmskRicx0S.jpg",
+					"url": "https://t.co/Hhfg0M3CNP",
+					"display_url": "pic.twitter.com/Hhfg0M3CNP",
+					"expanded_url": "https://twitter.com/antennamusic/status/1425763082396004353/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 716,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							179
+						],
+						"duration_millis": 5593,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1425763028931211264/pu/pl/4s3k6Vcy-pZwMbFU.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1425763028931211264/pu/vid/1280x716/WyedWTzVM75FRRiw.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1425763028931211264/pu/vid/482x270/I4r6w8-BCuMyvPOg.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1425763028931211264/pu/vid/642x360/ZCyBB-qLf2My90yN.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 권진아 Summer Single 'KNOCK (With 박문치)' 2021. 07. 27. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36858,
+			"friends_count": 11,
+			"listed_count": 372,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 102,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Video] #정재형 #이장원\n\n&lt;오늘도 삽질&gt; 10삽 공개🌳 \n\n안테나 아이돌 '꽃님이대장' 재형X장원이 엔딩요정 윤지성과 함께 수많은 콤포지숑들로 이루어낸 한옥 어린이도서관 앞마당 꾸미기🌱 그리고 마지막 쎄-뚜😭 그동안 스튜디오 훜 '오늘도 삽질'을 사랑해주신 모든 분들 감사합니다💚✨ https://t.co/Hhfg0M3CNP"
+	},
+	{
 		"created_at": "Thu Aug 12 10:11:16 +0000 2021",
 		"id": 1425756713978826800,
 		"id_str": "1425761798641365000",
