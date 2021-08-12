@@ -1,6 +1,701 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 12 11:29:41 +0000 2021",
+		"id": 1425770147386597400,
+		"id_str": "1425781530924920834",
+		"full_text": "[#NEWS] '오후의 발견' 정인, '장마'→'한숨' 완벽 가창…이지혜X청취자 감탄\n\n▶ https://t.co/4wwYVilA1y\n\n#정인 #라디오 #MBC #FM4U #오후의발견 #오후의발견이지혜입니다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "정인",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "라디오",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "MBC",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "FM4U",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "오후의발견",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "오후의발견이지혜입니다",
+					"indices": [
+						103,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4wwYVilA1y",
+					"expanded_url": "https://bit.ly/3lXvBnK",
+					"display_url": "bit.ly/3lXvBnK",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21361,
+			"friends_count": 14,
+			"listed_count": 235,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] '오후의 발견' 정인, '장마'→'한숨' 완벽 가창…이지혜X청취자 감탄\n\n▶ https://t.co/4wwYVilA1y\n\n#정인 #라디오 #MBC #FM4U #오후의발견 #오후의발견이지혜입니다"
+	},
+	{
+		"created_at": "Thu Aug 12 11:29:37 +0000 2021",
+		"id": 1425767639473791000,
+		"id_str": "1425781513598160897",
+		"full_text": "[Release D-3]\n\nSilica Gel Single [Desert Eagle]\n2021.08.15 SUN 6PM (KST)\n\n#실리카겔 #SilicaGel #DesertEagle https://t.co/7Uaku5gv8k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "실리카겔",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "SilicaGel",
+					"indices": [
+						80,
+						90
+					]
+				},
+				{
+					"text": "DesertEagle",
+					"indices": [
+						91,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1425767584922697700,
+					"id_str": "1425767584922697729",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E8lYEH-VgAEeYhd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8lYEH-VgAEeYhd.jpg",
+					"url": "https://t.co/7Uaku5gv8k",
+					"display_url": "pic.twitter.com/7Uaku5gv8k",
+					"expanded_url": "https://twitter.com/msbsound/status/1425767639473790977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1385,
+							"h": 1732,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425767584922697700,
+					"id_str": "1425767584922697729",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E8lYEH-VgAEeYhd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8lYEH-VgAEeYhd.jpg",
+					"url": "https://t.co/7Uaku5gv8k",
+					"display_url": "pic.twitter.com/7Uaku5gv8k",
+					"expanded_url": "https://twitter.com/msbsound/status/1425767639473790977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1385,
+							"h": 1732,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1425767598940070000,
+					"id_str": "1425767598940069888",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E8lYE8MVoAAlltX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8lYE8MVoAAlltX.jpg",
+					"url": "https://t.co/7Uaku5gv8k",
+					"display_url": "pic.twitter.com/7Uaku5gv8k",
+					"expanded_url": "https://twitter.com/msbsound/status/1425767639473790977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1425767606212972500,
+					"id_str": "1425767606212972549",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E8lYFXSVUAUA3BD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8lYFXSVUAUA3BD.jpg",
+					"url": "https://t.co/7Uaku5gv8k",
+					"display_url": "pic.twitter.com/7Uaku5gv8k",
+					"expanded_url": "https://twitter.com/msbsound/status/1425767639473790977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1425767631626260500,
+		"in_reply_to_status_id_str": "1425767631626260496",
+		"in_reply_to_user_id": 263751129,
+		"in_reply_to_user_id_str": "263751129",
+		"in_reply_to_screen_name": "msbsound",
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드 MAGIC STRAWBERRY SOUND / Music label based in Korea",
+			"url": "https://t.co/2ZpTkk9tMw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2ZpTkk9tMw",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8538,
+			"friends_count": 20,
+			"listed_count": 100,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 95,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1597394894",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Release D-3]\n\nSilica Gel Single [Desert Eagle]\n2021.08.15 SUN 6PM (KST)\n\n#실리카겔 #SilicaGel #DesertEagle https://t.co/7Uaku5gv8k"
+	},
+	{
+		"created_at": "Thu Aug 12 11:29:29 +0000 2021",
+		"id": 1425767631626260500,
+		"id_str": "1425781479490134017",
+		"full_text": "[Release D-3]\n\nSilica Gel Single [Desert Eagle]\n2021.08.15 SUN 6PM (KST)\n\n#실리카겔 #SilicaGel #DesertEagle https://t.co/wH9GMiUoUE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "실리카겔",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "SilicaGel",
+					"indices": [
+						80,
+						90
+					]
+				},
+				{
+					"text": "DesertEagle",
+					"indices": [
+						91,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1425767539968147500,
+					"id_str": "1425767539968147458",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E8lYBggVgAI0zj_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8lYBggVgAI0zj_.jpg",
+					"url": "https://t.co/wH9GMiUoUE",
+					"display_url": "pic.twitter.com/wH9GMiUoUE",
+					"expanded_url": "https://twitter.com/msbsound/status/1425767631626260496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425767539968147500,
+					"id_str": "1425767539968147458",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E8lYBggVgAI0zj_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8lYBggVgAI0zj_.jpg",
+					"url": "https://t.co/wH9GMiUoUE",
+					"display_url": "pic.twitter.com/wH9GMiUoUE",
+					"expanded_url": "https://twitter.com/msbsound/status/1425767631626260496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1425767550755827700,
+					"id_str": "1425767550755827715",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E8lYCIsUcAMuLnT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8lYCIsUcAMuLnT.jpg",
+					"url": "https://t.co/wH9GMiUoUE",
+					"display_url": "pic.twitter.com/wH9GMiUoUE",
+					"expanded_url": "https://twitter.com/msbsound/status/1425767631626260496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1591,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 932,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 528,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1425767561086468000,
+					"id_str": "1425767561086468097",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E8lYCvLVgAEYrsE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8lYCvLVgAEYrsE.jpg",
+					"url": "https://t.co/wH9GMiUoUE",
+					"display_url": "pic.twitter.com/wH9GMiUoUE",
+					"expanded_url": "https://twitter.com/msbsound/status/1425767631626260496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1425767623246024700,
+		"in_reply_to_status_id_str": "1425767623246024704",
+		"in_reply_to_user_id": 263751129,
+		"in_reply_to_user_id_str": "263751129",
+		"in_reply_to_screen_name": "msbsound",
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드 MAGIC STRAWBERRY SOUND / Music label based in Korea",
+			"url": "https://t.co/2ZpTkk9tMw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2ZpTkk9tMw",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8538,
+			"friends_count": 20,
+			"listed_count": 100,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 95,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1597394894",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Release D-3]\n\nSilica Gel Single [Desert Eagle]\n2021.08.15 SUN 6PM (KST)\n\n#실리카겔 #SilicaGel #DesertEagle https://t.co/wH9GMiUoUE"
+	},
+	{
 		"created_at": "Thu Aug 12 10:29:40 +0000 2021",
 		"id": 1425763169243328500,
 		"id_str": "1425766427668144137",
