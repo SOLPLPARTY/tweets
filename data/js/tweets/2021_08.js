@@ -1,6 +1,1338 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 12 10:11:16 +0000 2021",
+		"id": 1425756713978826800,
+		"id_str": "1425761798641365000",
+		"full_text": "⠀\n\nCLUB STEEL FACE 2021\n\nOpening Hours:\nTHU / FRI / SAT 6PM~10PM\n\n클럽 스틸페이스 바 영업시간:\n목/금/토요일 오후 6시~10시\n\n#clubsteelface #steelface #cyberpunk #seoul 2021 https://t.co/A3tYaEfWr2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "clubsteelface",
+					"indices": [
+						102,
+						116
+					]
+				},
+				{
+					"text": "steelface",
+					"indices": [
+						117,
+						127
+					]
+				},
+				{
+					"text": "cyberpunk",
+					"indices": [
+						128,
+						138
+					]
+				},
+				{
+					"text": "seoul",
+					"indices": [
+						139,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A3tYaEfWr2",
+					"expanded_url": "https://www.instagram.com/p/CSeCkDFlpaQ/?utm_medium=twitter",
+					"display_url": "instagram.com/p/CSeCkDFlpaQ/…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144667354,
+			"id_str": "4144667354",
+			"name": "CLUB STEEL FACE",
+			"screen_name": "clubsteelface",
+			"location": "10, Jandari-ro, Mapo-gu, Seoul",
+			"description": "Since 2015, Live Music Venue & Bar in Seoul, Korea(south)",
+			"url": "https://t.co/qNZdtjMBbN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qNZdtjMBbN",
+							"expanded_url": "http://steelface.com",
+							"display_url": "steelface.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 221,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Nov 06 09:37:46 +0000 2015",
+			"favourites_count": 483,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144667354/1453393563",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⠀\n\nCLUB STEEL FACE 2021\n\nOpening Hours:\nTHU / FRI / SAT 6PM~10PM\n\n클럽 스틸페이스 바 영업시간:\n목/금/토요일 오후 6시~10시\n\n#clubsteelface #steelface #cyberpunk #seoul 2021 https://t.co/A3tYaEfWr2"
+	},
+	{
+		"created_at": "Thu Aug 12 09:51:47 +0000 2021",
+		"id": 1425756894258507800,
+		"id_str": "1425756894258507778",
+		"full_text": "#해피로봇레코드 #Happy_Robot_Records\n손글씨 배경화면 #2, Lacuna(라쿠나)_춤을 춰요\nhttps://t.co/bsk6fx5ucm\n#블로그 #레이블 #기획사 #인디 #인디음악",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "해피로봇레코드",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Happy_Robot_Records",
+					"indices": [
+						9,
+						29
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "레이블",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "기획사",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						104,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bsk6fx5ucm",
+					"expanded_url": "https://bit.ly/3iDx8x2",
+					"display_url": "bit.ly/3iDx8x2",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71733,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#해피로봇레코드 #Happy_Robot_Records\n손글씨 배경화면 #2, Lacuna(라쿠나)_춤을 춰요\nhttps://t.co/bsk6fx5ucm\n#블로그 #레이블 #기획사 #인디 #인디음악"
+	},
+	{
+		"created_at": "Thu Aug 12 09:29:45 +0000 2021",
+		"id": 1425747231471112200,
+		"id_str": "1425751349510262791",
+		"full_text": "SM Classics TOWN Orchestra 'Make A Wish (Birthday Song)'\n\n🎧 Listen now on your favorite platform\nhttps://t.co/InVy98cLmg\n\n#SMClassics #MakeAWish #NCTU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMClassics",
+					"indices": [
+						122,
+						133
+					]
+				},
+				{
+					"text": "MakeAWish",
+					"indices": [
+						134,
+						144
+					]
+				},
+				{
+					"text": "NCTU",
+					"indices": [
+						145,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/InVy98cLmg",
+					"expanded_url": "https://smarturl.it/MAW_Orchestra",
+					"display_url": "smarturl.it/MAW_Orchestra",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9758558,
+			"friends_count": 55,
+			"listed_count": 10385,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2876,
+		"favorite_count": 6976,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SM Classics TOWN Orchestra 'Make A Wish (Birthday Song)'\n\n🎧 Listen now on your favorite platform\nhttps://t.co/InVy98cLmg\n\n#SMClassics #MakeAWish #NCTU"
+	},
+	{
+		"created_at": "Thu Aug 12 09:29:40 +0000 2021",
+		"id": 1425746965963231200,
+		"id_str": "1425751328094138368",
+		"full_text": "SM Classics TOWN Orchestra 'Make A Wish (Birthday Song)'\n\n🎧 Melon: https://t.co/u29FBItEi2\n🎧 FLO: https://t.co/PMvW5car4W \n🎧 genie:  https://t.co/0gWDvEjD60\n🎧 NAVER VIBE: https://t.co/LlyYvnlIvO\n\n#SMClassics #MakeAWish #NCTU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMClassics",
+					"indices": [
+						196,
+						207
+					]
+				},
+				{
+					"text": "MakeAWish",
+					"indices": [
+						208,
+						218
+					]
+				},
+				{
+					"text": "NCTU",
+					"indices": [
+						219,
+						224
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u29FBItEi2",
+					"expanded_url": "http://kko.to/nBgY8kY4B",
+					"display_url": "kko.to/nBgY8kY4B",
+					"indices": [
+						67,
+						90
+					]
+				},
+				{
+					"url": "https://t.co/PMvW5car4W",
+					"expanded_url": "http://flomuz.io/s/a.BFA93",
+					"display_url": "flomuz.io/s/a.BFA93",
+					"indices": [
+						98,
+						121
+					]
+				},
+				{
+					"url": "https://t.co/0gWDvEjD60",
+					"expanded_url": "http://genie.co.kr/1PX826",
+					"display_url": "genie.co.kr/1PX826",
+					"indices": [
+						133,
+						156
+					]
+				},
+				{
+					"url": "https://t.co/LlyYvnlIvO",
+					"expanded_url": "http://naver.me/GdJ01v8G",
+					"display_url": "naver.me/GdJ01v8G",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9758558,
+			"friends_count": 55,
+			"listed_count": 10385,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2190,
+		"favorite_count": 5208,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SM Classics TOWN Orchestra 'Make A Wish (Birthday Song)'\n\n🎧 Melon: https://t.co/u29FBItEi2\n🎧 FLO: https://t.co/PMvW5car4W \n🎧 genie:  https://t.co/0gWDvEjD60\n🎧 NAVER VIBE: https://t.co/LlyYvnlIvO\n\n#SMClassics #MakeAWish #NCTU"
+	},
+	{
+		"created_at": "Thu Aug 12 09:29:38 +0000 2021",
+		"id": 1425746138544545800,
+		"id_str": "1425751319231574017",
+		"full_text": "💿NEW MUSIC TODAY💿\n양다일의 \"바다가 들린다(Prod.NIve)\" 를 지금 바로 음원 사이트에서 만나보세요!\n⠀\n🎶https://t.co/oIV8VpsQ6c\n⠀\n#warnerkpop #warnermusic #바다가들린다 #oceanwaves #코지팝 #kozypop #양다일 #yangdail #니브 #NIve #withKozyPop #위드코지팝 https://t.co/LWS8EXqFcr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						97,
+						108
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						109,
+						121
+					]
+				},
+				{
+					"text": "바다가들린다",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "oceanwaves",
+					"indices": [
+						130,
+						141
+					]
+				},
+				{
+					"text": "코지팝",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "kozypop",
+					"indices": [
+						147,
+						155
+					]
+				},
+				{
+					"text": "양다일",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "yangdail",
+					"indices": [
+						161,
+						170
+					]
+				},
+				{
+					"text": "니브",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "NIve",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "withKozyPop",
+					"indices": [
+						181,
+						193
+					]
+				},
+				{
+					"text": "위드코지팝",
+					"indices": [
+						194,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oIV8VpsQ6c",
+					"expanded_url": "http://WMK.lnk.to/OceanWaves",
+					"display_url": "WMK.lnk.to/OceanWaves",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1425744380959215600,
+					"id_str": "1425744380959215619",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1425744380959215619/pu/img/3fnuiYwo23vle5Ti.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1425744380959215619/pu/img/3fnuiYwo23vle5Ti.jpg",
+					"url": "https://t.co/LWS8EXqFcr",
+					"display_url": "pic.twitter.com/LWS8EXqFcr",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1425746138544545795/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425744380959215600,
+					"id_str": "1425744380959215619",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1425744380959215619/pu/img/3fnuiYwo23vle5Ti.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1425744380959215619/pu/img/3fnuiYwo23vle5Ti.jpg",
+					"url": "https://t.co/LWS8EXqFcr",
+					"display_url": "pic.twitter.com/LWS8EXqFcr",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1425746138544545795/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60093,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1425744380959215619/pu/vid/720x720/RSA0OMnQivSrOboh.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1425744380959215619/pu/pl/sfA24NXI2Yfdtu-D.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1425744380959215619/pu/vid/540x540/WYqcHxckR2aC6v0h.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1425744380959215619/pu/vid/320x320/dNgq27AAP-Gtfcry.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51617,
+			"friends_count": 496,
+			"listed_count": 190,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\n양다일의 \"바다가 들린다(Prod.NIve)\" 를 지금 바로 음원 사이트에서 만나보세요!\n⠀\n🎶https://t.co/oIV8VpsQ6c\n⠀\n#warnerkpop #warnermusic #바다가들린다 #oceanwaves #코지팝 #kozypop #양다일 #yangdail #니브 #NIve #withKozyPop #위드코지팝 https://t.co/LWS8EXqFcr"
+	},
+	{
+		"created_at": "Thu Aug 12 09:29:34 +0000 2021",
+		"id": 1425744070152839200,
+		"id_str": "1425751301976100868",
+		"full_text": "#OuiOui\n\nConcept Photo : Day\nPhotograph by NMW Studio \n\n☼ ☽\nOuiOui [하루]\n2021.08.16.6PM(KST)\n\n#위위 #하루 #HARU #DaynNight https://t.co/ddodcu1eaw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OuiOui",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "위위",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "하루",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "HARU",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "DaynNight",
+					"indices": [
+						107,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1425744042927616000,
+					"id_str": "1425744042927616002",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E8lCpzNUcAIClq6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8lCpzNUcAIClq6.jpg",
+					"url": "https://t.co/ddodcu1eaw",
+					"display_url": "pic.twitter.com/ddodcu1eaw",
+					"expanded_url": "https://twitter.com/inplanet/status/1425744070152839170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425744042927616000,
+					"id_str": "1425744042927616002",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E8lCpzNUcAIClq6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8lCpzNUcAIClq6.jpg",
+					"url": "https://t.co/ddodcu1eaw",
+					"display_url": "pic.twitter.com/ddodcu1eaw",
+					"expanded_url": "https://twitter.com/inplanet/status/1425744070152839170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1425744043623948300,
+					"id_str": "1425744043623948290",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E8lCp1zVoAI2cHM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8lCp1zVoAI2cHM.jpg",
+					"url": "https://t.co/ddodcu1eaw",
+					"display_url": "pic.twitter.com/ddodcu1eaw",
+					"expanded_url": "https://twitter.com/inplanet/status/1425744070152839170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1425744043607134200,
+					"id_str": "1425744043607134216",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E8lCp1vVEAgr68i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8lCp1vVEAgr68i.jpg",
+					"url": "https://t.co/ddodcu1eaw",
+					"display_url": "pic.twitter.com/ddodcu1eaw",
+					"expanded_url": "https://twitter.com/inplanet/status/1425744070152839170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1425744043611345000,
+					"id_str": "1425744043611344903",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E8lCp1wVUAcURGi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8lCp1wVUAcURGi.jpg",
+					"url": "https://t.co/ddodcu1eaw",
+					"display_url": "pic.twitter.com/ddodcu1eaw",
+					"expanded_url": "https://twitter.com/inplanet/status/1425744070152839170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1442,
+			"friends_count": 774,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 109,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#OuiOui\n\nConcept Photo : Day\nPhotograph by NMW Studio \n\n☼ ☽\nOuiOui [하루]\n2021.08.16.6PM(KST)\n\n#위위 #하루 #HARU #DaynNight https://t.co/ddodcu1eaw"
+	},
+	{
+		"created_at": "Thu Aug 12 09:29:30 +0000 2021",
+		"id": 1425744057792229400,
+		"id_str": "1425751284724994050",
+		"full_text": "SM Classics TOWN Orchestra 'Make A Wish (Birthday Song) (Orchestra Ver.)' MV\n\nhttps://t.co/S4VVfNdL51\n\n#SMClassics #MakeAWish #NCTU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMClassics",
+					"indices": [
+						103,
+						114
+					]
+				},
+				{
+					"text": "MakeAWish",
+					"indices": [
+						115,
+						125
+					]
+				},
+				{
+					"text": "NCTU",
+					"indices": [
+						126,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S4VVfNdL51",
+					"expanded_url": "https://youtu.be/UTbYn3ePKsk",
+					"display_url": "youtu.be/UTbYn3ePKsk",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9758558,
+			"friends_count": 55,
+			"listed_count": 10385,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16439,
+		"favorite_count": 30510,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SM Classics TOWN Orchestra 'Make A Wish (Birthday Song) (Orchestra Ver.)' MV\n\nhttps://t.co/S4VVfNdL51\n\n#SMClassics #MakeAWish #NCTU"
+	},
+	{
 		"created_at": "Thu Aug 12 09:15:47 +0000 2021",
 		"id": 1425747835115425800,
 		"id_str": "1425747835115425792",
