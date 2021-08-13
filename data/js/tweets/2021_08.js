@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 13 12:29:24 +0000 2021",
+		"id": 1426151709705834500,
+		"id_str": "1426158949573799946",
+		"full_text": "[#STATION] TEN 텐 'Paint Me Naked' Performance Video #비하인더스테이션\n\nhttps://t.co/vZmB6Gkiuk\n\n#TEN #텐 #Paint_Me_Naked  \n#WayV #威神V #李永钦 @WayV_official",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STATION",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "비하인더스테이션",
+					"indices": [
+						52,
+						61
+					]
+				},
+				{
+					"text": "TEN",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "텐",
+					"indices": [
+						93,
+						95
+					]
+				},
+				{
+					"text": "Paint_Me_Naked",
+					"indices": [
+						96,
+						111
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "威神V",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "李永钦",
+					"indices": [
+						125,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WayV_official",
+					"name": "WayV",
+					"id": 1033994695595065300,
+					"id_str": "1033994695595065347",
+					"indices": [
+						130,
+						144
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vZmB6Gkiuk",
+					"expanded_url": "https://youtu.be/SqsyOM9sw0A",
+					"display_url": "youtu.be/SqsyOM9sw0A",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9763341,
+			"friends_count": 55,
+			"listed_count": 10391,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10640,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15715,
+		"favorite_count": 31724,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#STATION] TEN 텐 'Paint Me Naked' Performance Video #비하인더스테이션\n\nhttps://t.co/vZmB6Gkiuk\n\n#TEN #텐 #Paint_Me_Naked  \n#WayV #威神V #李永钦 @WayV_official"
+	},
+	{
 		"created_at": "Fri Aug 13 12:09:53 +0000 2021",
 		"id": 1426154038052143000,
 		"id_str": "1426154038052143104",
