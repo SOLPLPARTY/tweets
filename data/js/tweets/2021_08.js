@@ -1,6 +1,437 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 13 03:29:32 +0000 2021",
+		"id": 1426015659285270500,
+		"id_str": "1426023084373520389",
+		"full_text": "[ARS]\n오늘부터 MPMG 사내 대표전화 ARS 음성에서 구만(@qman_official)의 목소리를 들으실 수 있습니다!\n\n📞 녹음 현장 비하인드는 민트페이퍼 웹예능 '암쏘큐' 유튜브를 통해 확인하실 수 있습니다 🙂\n▶ https://t.co/UklwLgxoKC\n\n📞 용건이 있을 시에만 전화 부탁드립니다 :) https://t.co/y1E0GJdclv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "qman_official",
+					"name": "구만(9.10000)",
+					"id": 1253683153455050800,
+					"id_str": "1253683153455050753",
+					"indices": [
+						36,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UklwLgxoKC",
+					"expanded_url": "https://bit.ly/3xFESCT",
+					"display_url": "bit.ly/3xFESCT",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1425990627347472400,
+					"id_str": "1425990627347472394",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1425990627347472394/pu/img/qZLQbOlJcJMSztwu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1425990627347472394/pu/img/qZLQbOlJcJMSztwu.jpg",
+					"url": "https://t.co/y1E0GJdclv",
+					"display_url": "pic.twitter.com/y1E0GJdclv",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1426015659285270528/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1152,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425990627347472400,
+					"id_str": "1425990627347472394",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1425990627347472394/pu/img/qZLQbOlJcJMSztwu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1425990627347472394/pu/img/qZLQbOlJcJMSztwu.jpg",
+					"url": "https://t.co/y1E0GJdclv",
+					"display_url": "pic.twitter.com/y1E0GJdclv",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1426015659285270528/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1152,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							8,
+							5
+						],
+						"duration_millis": 59293,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1425990627347472394/pu/vid/432x270/KqHIDXH27Nr6hM1v.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1425990627347472394/pu/pl/jN6Mk7W0oCVFkiRX.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1425990627347472394/pu/vid/576x360/8B5IPEGukRSmzo-W.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1425990627347472394/pu/vid/1152x720/VmnizyJQVwYhVuhw.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), LambC(램씨), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbKMln",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbKMln",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13041,
+			"friends_count": 1939,
+			"listed_count": 255,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ARS]\n오늘부터 MPMG 사내 대표전화 ARS 음성에서 구만(@qman_official)의 목소리를 들으실 수 있습니다!\n\n📞 녹음 현장 비하인드는 민트페이퍼 웹예능 '암쏘큐' 유튜브를 통해 확인하실 수 있습니다 🙂\n▶ https://t.co/UklwLgxoKC\n\n📞 용건이 있을 시에만 전화 부탁드립니다 :) https://t.co/y1E0GJdclv"
+	},
+	{
+		"created_at": "Fri Aug 13 03:29:27 +0000 2021",
+		"id": 1426015652708503600,
+		"id_str": "1426023062928039938",
+		"full_text": "[#민서] 영화 ‘화평반점’ 캐스팅✔️\n아름다운 목소리의 소유자 이모 역으로 첫 스크린 데뷔 🎬\n\n#영화 #화평반점 #이모 https://t.co/uETwFWzIoq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민서",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "영화",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "화평반점",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "이모",
+					"indices": [
+						65,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1426008749580296200,
+					"id_str": "1426008749580296196",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/E8ozZwVVIAQ_86q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8ozZwVVIAQ_86q.jpg",
+					"url": "https://t.co/uETwFWzIoq",
+					"display_url": "pic.twitter.com/uETwFWzIoq",
+					"expanded_url": "https://twitter.com/themysticstory/status/1426015652708503559/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1426008749580296200,
+					"id_str": "1426008749580296196",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/E8ozZwVVIAQ_86q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8ozZwVVIAQ_86q.jpg",
+					"url": "https://t.co/uETwFWzIoq",
+					"display_url": "pic.twitter.com/uETwFWzIoq",
+					"expanded_url": "https://twitter.com/themysticstory/status/1426015652708503559/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21367,
+			"friends_count": 14,
+			"listed_count": 235,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#민서] 영화 ‘화평반점’ 캐스팅✔️\n아름다운 목소리의 소유자 이모 역으로 첫 스크린 데뷔 🎬\n\n#영화 #화평반점 #이모 https://t.co/uETwFWzIoq"
+	},
+	{
 		"created_at": "Fri Aug 13 03:11:24 +0000 2021",
 		"id": 1426015659830308900,
 		"id_str": "1426018521348255746",
