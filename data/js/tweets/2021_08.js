@@ -1,6 +1,702 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sat Aug 14 10:29:42 +0000 2021",
+		"id": 1426483740293931000,
+		"id_str": "1426491211867697155",
+		"full_text": "[🎥] [Jacket Making Film] 권은비(KWON EUN BI) 1st Mini Album [OPEN]\n\nhttps://t.co/4hq9I7fXMa\nhttps://t.co/TKzRQeI0tq\n\n#권은비 #KwonEunBi\n#OPEN #debut #20210824_6PM https://t.co/6ztP7P0T5Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권은비",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "KwonEunBi",
+					"indices": [
+						119,
+						129
+					]
+				},
+				{
+					"text": "OPEN",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "debut",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "20210824_6PM",
+					"indices": [
+						143,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4hq9I7fXMa",
+					"expanded_url": "https://youtu.be/FPyLpEaBY-k",
+					"display_url": "youtu.be/FPyLpEaBY-k",
+					"indices": [
+						65,
+						88
+					]
+				},
+				{
+					"url": "https://t.co/TKzRQeI0tq",
+					"expanded_url": "https://www.vlive.tv/post/0-24753025",
+					"display_url": "vlive.tv/post/0-24753025",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1426370636541141000,
+					"id_str": "1426370636541140994",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E8t8iWUVIAI7EVB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8t8iWUVIAI7EVB.jpg",
+					"url": "https://t.co/6ztP7P0T5Y",
+					"display_url": "pic.twitter.com/6ztP7P0T5Y",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1426483740293931009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1426370636541141000,
+					"id_str": "1426370636541140994",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E8t8iWUVIAI7EVB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8t8iWUVIAI7EVB.jpg",
+					"url": "https://t.co/6ztP7P0T5Y",
+					"display_url": "pic.twitter.com/6ztP7P0T5Y",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1426483740293931009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTuZ29E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTuZ29E",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 431066,
+			"friends_count": 11,
+			"listed_count": 1919,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1628673097",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 426,
+		"favorite_count": 989,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "[🎥] [Jacket Making Film] 권은비(KWON EUN BI) 1st Mini Album [OPEN]\n\nhttps://t.co/4hq9I7fXMa\nhttps://t.co/TKzRQeI0tq\n\n#권은비 #KwonEunBi\n#OPEN #debut #20210824_6PM https://t.co/6ztP7P0T5Y"
+	},
+	{
+		"created_at": "Sat Aug 14 10:29:40 +0000 2021",
+		"id": 1426482621060505600,
+		"id_str": "1426491202975715328",
+		"full_text": "💿NEW MUSIC TODAY💿\n마마무 문별과 함께한 Xydo의 \"너 없는 난(feat.문별 of 마마무)\" 을 지금 바로 음원 사이트에서 만나보세요!\n⠀\n🎶https://t.co/zk9SUqHqAa\n⠀\n#warnerkpop #warnermusic #release #너없는난 #Xydo #시도 #마마무 #문별 https://t.co/6D0StUY2mQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						114,
+						125
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						126,
+						138
+					]
+				},
+				{
+					"text": "release",
+					"indices": [
+						139,
+						147
+					]
+				},
+				{
+					"text": "너없는난",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "Xydo",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "시도",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "마마무",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "문별",
+					"indices": [
+						169,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zk9SUqHqAa",
+					"expanded_url": "http://WMK.lnk.to/IhHjzp",
+					"display_url": "WMK.lnk.to/IhHjzp",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1426480080667086800,
+					"id_str": "1426480080667086851",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1426480080667086851/pu/img/n6xl7VkF6oVQnkT8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1426480080667086851/pu/img/n6xl7VkF6oVQnkT8.jpg",
+					"url": "https://t.co/6D0StUY2mQ",
+					"display_url": "pic.twitter.com/6D0StUY2mQ",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1426482621060505604/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1426480080667086800,
+					"id_str": "1426480080667086851",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1426480080667086851/pu/img/n6xl7VkF6oVQnkT8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1426480080667086851/pu/img/n6xl7VkF6oVQnkT8.jpg",
+					"url": "https://t.co/6D0StUY2mQ",
+					"display_url": "pic.twitter.com/6D0StUY2mQ",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1426482621060505604/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 58825,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1426480080667086851/pu/vid/320x320/NNqCqvfqR9era5-W.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1426480080667086851/pu/vid/720x720/3KXX6IrfWWJiHAL4.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1426480080667086851/pu/pl/8yxExUWD_nywBWBL.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1426480080667086851/pu/vid/540x540/UysFirtaJg6dhz2n.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51609,
+			"friends_count": 496,
+			"listed_count": 190,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 640,
+		"favorite_count": 796,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\n마마무 문별과 함께한 Xydo의 \"너 없는 난(feat.문별 of 마마무)\" 을 지금 바로 음원 사이트에서 만나보세요!\n⠀\n🎶https://t.co/zk9SUqHqAa\n⠀\n#warnerkpop #warnermusic #release #너없는난 #Xydo #시도 #마마무 #문별 https://t.co/6D0StUY2mQ"
+	},
+	{
+		"created_at": "Sat Aug 14 10:29:33 +0000 2021",
+		"id": 1426480442505498600,
+		"id_str": "1426491173120643073",
+		"full_text": "https://t.co/8dxLLRSY5h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1426479799560667100,
+					"id_str": "1426479799560667141",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1426479799560667141/pu/img/Y8gdNeyn9RWcxd3c.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1426479799560667141/pu/img/Y8gdNeyn9RWcxd3c.jpg",
+					"url": "https://t.co/8dxLLRSY5h",
+					"display_url": "pic.twitter.com/8dxLLRSY5h",
+					"expanded_url": "https://twitter.com/msbsound/status/1426480442505498627/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1426479799560667100,
+					"id_str": "1426479799560667141",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1426479799560667141/pu/img/Y8gdNeyn9RWcxd3c.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1426479799560667141/pu/img/Y8gdNeyn9RWcxd3c.jpg",
+					"url": "https://t.co/8dxLLRSY5h",
+					"display_url": "pic.twitter.com/8dxLLRSY5h",
+					"expanded_url": "https://twitter.com/msbsound/status/1426480442505498627/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 88520,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1426479799560667141/pu/pl/wSyn0_MJtHF-_X3b.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1426479799560667141/pu/vid/720x900/xbImDknuqsIH8qww.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1426479799560667141/pu/vid/480x600/hdFd0V8iArMthdnq.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1426479799560667141/pu/vid/320x400/3xbBbI1zQAP-Gsam.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1426472542877864000,
+		"in_reply_to_status_id_str": "1426472542877863936",
+		"in_reply_to_user_id": 263751129,
+		"in_reply_to_user_id_str": "263751129",
+		"in_reply_to_screen_name": "msbsound",
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드 MAGIC STRAWBERRY SOUND / Music label based in Korea",
+			"url": "https://t.co/2ZpTkk9tMw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2ZpTkk9tMw",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8540,
+			"friends_count": 20,
+			"listed_count": 100,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 95,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1597394894",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/8dxLLRSY5h"
+	},
+	{
 		"created_at": "Sat Aug 14 09:53:14 +0000 2021",
 		"id": 1426482034407530500,
 		"id_str": "1426482034407530499",
