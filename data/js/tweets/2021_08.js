@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sun Aug 15 03:29:30 +0000 2021",
+		"id": 1426744372209492000,
+		"id_str": "1426747851850326016",
+		"full_text": "💿NEW MUSIC TODAY💿\nJTBC드라마 &lt;알고있지만,&gt; OST Part.9\n\"SLAY, 아빈(AVIN) -Love,This\" 를 지금 바로 음원 사이트에서 만나보세요!\n⠀\n🦋 https://t.co/fn1c85u6Q5\n⠀\n#warnerkpop #warnermusic #release #OST #JTBC #알고있지만 #송강 #한소희 #SLAY #아빈 #AVIN #LoveThis https://t.co/27DXXKdr3v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						134,
+						145
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						146,
+						158
+					]
+				},
+				{
+					"text": "release",
+					"indices": [
+						159,
+						167
+					]
+				},
+				{
+					"text": "OST",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						173,
+						178
+					]
+				},
+				{
+					"text": "알고있지만",
+					"indices": [
+						179,
+						185
+					]
+				},
+				{
+					"text": "송강",
+					"indices": [
+						186,
+						189
+					]
+				},
+				{
+					"text": "한소희",
+					"indices": [
+						190,
+						194
+					]
+				},
+				{
+					"text": "SLAY",
+					"indices": [
+						195,
+						200
+					]
+				},
+				{
+					"text": "아빈",
+					"indices": [
+						201,
+						204
+					]
+				},
+				{
+					"text": "AVIN",
+					"indices": [
+						205,
+						210
+					]
+				},
+				{
+					"text": "LoveThis",
+					"indices": [
+						211,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fn1c85u6Q5",
+					"expanded_url": "https://wmk.lnk.to/NeverthelessOST",
+					"display_url": "wmk.lnk.to/NeverthelessOST",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1426744153388458000,
+					"id_str": "1426744153388457985",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1426744153388457985/pu/img/Ug7MGEd6ZguON2Ir.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1426744153388457985/pu/img/Ug7MGEd6ZguON2Ir.jpg",
+					"url": "https://t.co/27DXXKdr3v",
+					"display_url": "pic.twitter.com/27DXXKdr3v",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1426744372209491976/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1426744153388458000,
+					"id_str": "1426744153388457985",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1426744153388457985/pu/img/Ug7MGEd6ZguON2Ir.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1426744153388457985/pu/img/Ug7MGEd6ZguON2Ir.jpg",
+					"url": "https://t.co/27DXXKdr3v",
+					"display_url": "pic.twitter.com/27DXXKdr3v",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1426744372209491976/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 44965,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1426744153388457985/pu/vid/720x720/_SUB59iG1nRgn6ld.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1426744153388457985/pu/vid/320x320/_-sbRwaHMELZeKBN.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1426744153388457985/pu/vid/540x540/hGsCDuZ8CZAD6EGG.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1426744153388457985/pu/pl/crFYSwWddUAEOxes.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51600,
+			"friends_count": 496,
+			"listed_count": 190,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\nJTBC드라마 &lt;알고있지만,&gt; OST Part.9\n\"SLAY, 아빈(AVIN) -Love,This\" 를 지금 바로 음원 사이트에서 만나보세요!\n⠀\n🦋 https://t.co/fn1c85u6Q5\n⠀\n#warnerkpop #warnermusic #release #OST #JTBC #알고있지만 #송강 #한소희 #SLAY #아빈 #AVIN #LoveThis https://t.co/27DXXKdr3v"
+	},
+	{
 		"created_at": "Sun Aug 15 03:11:16 +0000 2021",
 		"id": 1426742683377180700,
 		"id_str": "1426743266087772160",
