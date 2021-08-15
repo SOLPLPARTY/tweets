@@ -1,6 +1,531 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sun Aug 15 04:29:40 +0000 2021",
+		"id": 1426758169544454100,
+		"id_str": "1426762993820442631",
+		"full_text": "#너드커넥션 #너컨 #라이프댄싱 #신곡추천 #싱글발매 #lifedancing #스트리밍이벤트 #스트리밍 #폴라로이드",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "너컨",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "라이프댄싱",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"text": "신곡추천",
+					"indices": [
+						18,
+						23
+					]
+				},
+				{
+					"text": "싱글발매",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"text": "lifedancing",
+					"indices": [
+						30,
+						42
+					]
+				},
+				{
+					"text": "스트리밍이벤트",
+					"indices": [
+						43,
+						51
+					]
+				},
+				{
+					"text": "스트리밍",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "폴라로이드",
+					"indices": [
+						58,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1426758092054667300,
+		"in_reply_to_status_id_str": "1426758092054667266",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 (당신의여름)",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타와 함께합니다.",
+			"url": "https://t.co/oHXBW5kYJK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oHXBW5kYJK",
+							"expanded_url": "http://www.instagram.com/yoursummerkr",
+							"display_url": "instagram.com/yoursummerkr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2095,
+			"friends_count": 23,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#너드커넥션 #너컨 #라이프댄싱 #신곡추천 #싱글발매 #lifedancing #스트리밍이벤트 #스트리밍 #폴라로이드"
+	},
+	{
+		"created_at": "Sun Aug 15 04:29:37 +0000 2021",
+		"id": 1426758157791989800,
+		"id_str": "1426762980704849921",
+		"full_text": "2. 함께 듣고 싶은 친구를 태그하고 ‘인증 완료’ 댓글을 남긴다.\n\n🎈유의 사항 : 비공개 계정인 경우 확인이 불가능하니 공개 계정에 업로드 부탁드립니다.\n\n🎈 당첨자 발표 : 8월 23일 (월) 개별 연락 (총 10명)\n\n🎈당첨자 선물 : 너드커넥션 사인 폴라로이드(랜덤)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1426758092054667300,
+		"in_reply_to_status_id_str": "1426758092054667266",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 (당신의여름)",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타와 함께합니다.",
+			"url": "https://t.co/oHXBW5kYJK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oHXBW5kYJK",
+							"expanded_url": "http://www.instagram.com/yoursummerkr",
+							"display_url": "instagram.com/yoursummerkr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2095,
+			"friends_count": 23,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "2. 함께 듣고 싶은 친구를 태그하고 ‘인증 완료’ 댓글을 남긴다.\n\n🎈유의 사항 : 비공개 계정인 경우 확인이 불가능하니 공개 계정에 업로드 부탁드립니다.\n\n🎈 당첨자 발표 : 8월 23일 (월) 개별 연락 (총 10명)\n\n🎈당첨자 선물 : 너드커넥션 사인 폴라로이드(랜덤)"
+	},
+	{
+		"created_at": "Sun Aug 15 04:29:34 +0000 2021",
+		"id": 1426758092054667300,
+		"id_str": "1426762967639629825",
+		"full_text": "[너드커넥션] ‘Life Dancing’ 발매 기념 스트리밍 이벤트 💿\n\n🎈참여 기간 : 8월 15일 (일) ~ 8월 21일 (토) 11:59PM\n\n🎈참여 방법 \n1. 스트리밍 인증 캡쳐 후 음악 감상평 + 해시태그(#라이프댄싱 #너드커넥션 #신곡추천)와 함께 인스타그램 혹은 트위터에 게시한다. https://t.co/PC63wtvPpF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라이프댄싱",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "너드커넥션",
+					"indices": [
+						128,
+						134
+					]
+				},
+				{
+					"text": "신곡추천",
+					"indices": [
+						135,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1426758084504952800,
+					"id_str": "1426758084504952837",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E8zc6ydVoAUzhDy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8zc6ydVoAUzhDy.jpg",
+					"url": "https://t.co/PC63wtvPpF",
+					"display_url": "pic.twitter.com/PC63wtvPpF",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1426758092054667266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1426758084504952800,
+					"id_str": "1426758084504952837",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E8zc6ydVoAUzhDy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8zc6ydVoAUzhDy.jpg",
+					"url": "https://t.co/PC63wtvPpF",
+					"display_url": "pic.twitter.com/PC63wtvPpF",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1426758092054667266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1426758084609773600,
+					"id_str": "1426758084609773571",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E8zc6y2VEAMe_c1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8zc6y2VEAMe_c1.jpg",
+					"url": "https://t.co/PC63wtvPpF",
+					"display_url": "pic.twitter.com/PC63wtvPpF",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1426758092054667266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1526,
+							"h": 1526,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1426758084706279400,
+					"id_str": "1426758084706279429",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/E8zc6zNVoAUe4vC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8zc6zNVoAUe4vC.jpg",
+					"url": "https://t.co/PC63wtvPpF",
+					"display_url": "pic.twitter.com/PC63wtvPpF",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1426758092054667266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 (당신의여름)",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타와 함께합니다.",
+			"url": "https://t.co/oHXBW5kYJK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oHXBW5kYJK",
+							"expanded_url": "http://www.instagram.com/yoursummerkr",
+							"display_url": "instagram.com/yoursummerkr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2095,
+			"friends_count": 23,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[너드커넥션] ‘Life Dancing’ 발매 기념 스트리밍 이벤트 💿\n\n🎈참여 기간 : 8월 15일 (일) ~ 8월 21일 (토) 11:59PM\n\n🎈참여 방법 \n1. 스트리밍 인증 캡쳐 후 음악 감상평 + 해시태그(#라이프댄싱 #너드커넥션 #신곡추천)와 함께 인스타그램 혹은 트위터에 게시한다. https://t.co/PC63wtvPpF"
+	},
+	{
 		"created_at": "Sun Aug 15 03:29:30 +0000 2021",
 		"id": 1426744372209492000,
 		"id_str": "1426747851850326016",
