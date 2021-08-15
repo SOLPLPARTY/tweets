@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sun Aug 15 11:29:25 +0000 2021",
+		"id": 1426861583922188300,
+		"id_str": "1426868625982607361",
+		"full_text": "[#정인] MBC &lt;복면가왕&gt; 2연승 가왕 '화채' 공개🍉\n\n독보적인 보컬로 남다른 클라스 입증👏\n🔗 https://t.co/bv6hNPyORx\n\n#MBC #복면가왕 #가왕 #화채 https://t.co/pVmwLM2QCe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정인",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "MBC",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "복면가왕",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "가왕",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "화채",
+					"indices": [
+						103,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bv6hNPyORx",
+					"expanded_url": "https://bit.ly/3sji9vl",
+					"display_url": "bit.ly/3sji9vl",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1426861573327376400,
+					"id_str": "1426861573327376386",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/E807CoXVUAIt_hF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E807CoXVUAIt_hF.jpg",
+					"url": "https://t.co/pVmwLM2QCe",
+					"display_url": "pic.twitter.com/pVmwLM2QCe",
+					"expanded_url": "https://twitter.com/themysticstory/status/1426861583922188290/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 684,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 684,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1426861573327376400,
+					"id_str": "1426861573327376386",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/E807CoXVUAIt_hF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E807CoXVUAIt_hF.jpg",
+					"url": "https://t.co/pVmwLM2QCe",
+					"display_url": "pic.twitter.com/pVmwLM2QCe",
+					"expanded_url": "https://twitter.com/themysticstory/status/1426861583922188290/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 684,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 684,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21381,
+			"friends_count": 14,
+			"listed_count": 235,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#정인] MBC &lt;복면가왕&gt; 2연승 가왕 '화채' 공개🍉\n\n독보적인 보컬로 남다른 클라스 입증👏\n🔗 https://t.co/bv6hNPyORx\n\n#MBC #복면가왕 #가왕 #화채 https://t.co/pVmwLM2QCe"
+	},
+	{
 		"created_at": "Sun Aug 15 10:29:24 +0000 2021",
 		"id": 1426843971456671700,
 		"id_str": "1426853526236549121",
