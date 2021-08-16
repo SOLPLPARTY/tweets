@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 16 11:29:28 +0000 2021",
+		"id": 1427229486857080800,
+		"id_str": "1427231027609616387",
+		"full_text": "I AM NOT I 리뷰 : 매끄러운 허구 속에서 이제 음악은 현실을 반영하지 않는다... 허구가 가릴 수 없는 현상의 자투리들을 우리는 현실 또는 음악이라고 부를 수 있을까?  https://t.co/kJZGla54gt https://t.co/4lyMMR6XOe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kJZGla54gt",
+					"expanded_url": "https://www.evernote.com/shard/s428/client/snv?noteGuid=593aa12c-2a8d-cbcb-1698-a5ed9556551d&noteKey=3fe96463fee095fa5fb8b808ab4e51df&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs428%2Fsh%2F593aa12c-2a8d-cbcb-1698-a5ed9556551d%2F3fe96463fee095fa5fb8b808ab4e51df&title=I%2BAM%2BNOT%2BI%2B-%2Breview",
+					"display_url": "evernote.com/shard/s428/cli…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427229482822226000,
+					"id_str": "1427229482822225921",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/E86JpyCVUAEWec3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E86JpyCVUAEWec3.jpg",
+					"url": "https://t.co/4lyMMR6XOe",
+					"display_url": "pic.twitter.com/4lyMMR6XOe",
+					"expanded_url": "https://twitter.com/dooroomi_c/status/1427229486857080836/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427229482822226000,
+					"id_str": "1427229482822225921",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/E86JpyCVUAEWec3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E86JpyCVUAEWec3.jpg",
+					"url": "https://t.co/4lyMMR6XOe",
+					"display_url": "pic.twitter.com/4lyMMR6XOe",
+					"expanded_url": "https://twitter.com/dooroomi_c/status/1427229486857080836/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1302973592448036900,
+			"id_str": "1302973592448036869",
+			"name": "두루미 흥업",
+			"screen_name": "dooroomi_c",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/w0g5ZZkoX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w0g5ZZkoX6",
+							"expanded_url": "http://drmicp.com",
+							"display_url": "drmicp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 134,
+			"friends_count": 193,
+			"listed_count": 1,
+			"created_at": "Mon Sep 07 14:14:53 +0000 2020",
+			"favourites_count": 680,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1302973592448036869/1628405842",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "I AM NOT I 리뷰 : 매끄러운 허구 속에서 이제 음악은 현실을 반영하지 않는다... 허구가 가릴 수 없는 현상의 자투리들을 우리는 현실 또는 음악이라고 부를 수 있을까?  https://t.co/kJZGla54gt https://t.co/4lyMMR6XOe"
+	},
+	{
 		"created_at": "Mon Aug 16 11:02:51 +0000 2021",
 		"id": 1427224331269070800,
 		"id_str": "1427224331269070850",
