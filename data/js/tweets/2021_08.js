@@ -1,6 +1,484 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 16 05:29:42 +0000 2021",
+		"id": 1427138660621688800,
+		"id_str": "1427140489078267904",
+		"full_text": "[Photo] #이진아\n\n지난 금요일에 공개된 이진아 국립중앙박물관 '박물관 속 피아노'의 현장 비하인드 사진을 공개합니다📸✨\n\n🎹박물관 속 피아노\nhttps://t.co/W2CweAMMo0\n\n1. 이진아 – 어디서부터\n2. 이진아 – Dangerous Dream\n3. 이진아 – Awake\n\n#박종우 #서주영 #이진아트리오\n#박물관속피아노 https://t.co/9nvi3HArAJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이진아",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "박종우",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "서주영",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "이진아트리오",
+					"indices": [
+						174,
+						181
+					]
+				},
+				{
+					"text": "박물관속피아노",
+					"indices": [
+						182,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W2CweAMMo0",
+					"expanded_url": "http://youtu.be/BT2VRY7vWns",
+					"display_url": "youtu.be/BT2VRY7vWns",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427138655173234700,
+					"id_str": "1427138655173234689",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/E843C6rUUAEsmN8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E843C6rUUAEsmN8.jpg",
+					"url": "https://t.co/9nvi3HArAJ",
+					"display_url": "pic.twitter.com/9nvi3HArAJ",
+					"expanded_url": "https://twitter.com/antennamusic/status/1427138660621688835/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427138655173234700,
+					"id_str": "1427138655173234689",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/E843C6rUUAEsmN8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E843C6rUUAEsmN8.jpg",
+					"url": "https://t.co/9nvi3HArAJ",
+					"display_url": "pic.twitter.com/9nvi3HArAJ",
+					"expanded_url": "https://twitter.com/antennamusic/status/1427138660621688835/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1427138655169044500,
+					"id_str": "1427138655169044481",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/E843C6qUYAED9T5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E843C6qUYAED9T5.jpg",
+					"url": "https://t.co/9nvi3HArAJ",
+					"display_url": "pic.twitter.com/9nvi3HArAJ",
+					"expanded_url": "https://twitter.com/antennamusic/status/1427138660621688835/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 722,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 722,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1427138655173300200,
+					"id_str": "1427138655173300224",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/E843C6rVUAA0J09.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E843C6rVUAA0J09.jpg",
+					"url": "https://t.co/9nvi3HArAJ",
+					"display_url": "pic.twitter.com/9nvi3HArAJ",
+					"expanded_url": "https://twitter.com/antennamusic/status/1427138660621688835/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 722,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 722,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 권진아 Summer Single 'KNOCK (With 박문치)' 2021. 07. 27. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36910,
+			"friends_count": 11,
+			"listed_count": 372,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3848,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Photo] #이진아\n\n지난 금요일에 공개된 이진아 국립중앙박물관 '박물관 속 피아노'의 현장 비하인드 사진을 공개합니다📸✨\n\n🎹박물관 속 피아노\nhttps://t.co/W2CweAMMo0\n\n1. 이진아 – 어디서부터\n2. 이진아 – Dangerous Dream\n3. 이진아 – Awake\n\n#박종우 #서주영 #이진아트리오\n#박물관속피아노 https://t.co/9nvi3HArAJ"
+	},
+	{
+		"created_at": "Mon Aug 16 05:29:33 +0000 2021",
+		"id": 1427132794333847600,
+		"id_str": "1427140450872438784",
+		"full_text": "리뷰:“I AM NOT I”는 노트와 가사보다는 이름을 알 수 없는 각종 피드백으로 구성되어 있다. 작자들의 의도가 어떻건 간에 이 앨범은 무수한 시행착오와 권태, 두려움이나 어떤 포기 상태가 만들어내는 공허와 희미한 희열들의 공진(Resonance)에서 생성되었다고 예측해 본다.https://t.co/kJZGla54gt https://t.co/PUPOYncUno",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kJZGla54gt",
+					"expanded_url": "https://www.evernote.com/shard/s428/client/snv?noteGuid=593aa12c-2a8d-cbcb-1698-a5ed9556551d&noteKey=3fe96463fee095fa5fb8b808ab4e51df&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs428%2Fsh%2F593aa12c-2a8d-cbcb-1698-a5ed9556551d%2F3fe96463fee095fa5fb8b808ab4e51df&title=I%2BAM%2BNOT%2BI%2B-%2Breview",
+					"display_url": "evernote.com/shard/s428/cli…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427132790424838100,
+					"id_str": "1427132790424838152",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/E84xtiyVoAgA6v3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E84xtiyVoAgA6v3.jpg",
+					"url": "https://t.co/PUPOYncUno",
+					"display_url": "pic.twitter.com/PUPOYncUno",
+					"expanded_url": "https://twitter.com/dooroomi_c/status/1427132794333847555/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427132790424838100,
+					"id_str": "1427132790424838152",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/E84xtiyVoAgA6v3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E84xtiyVoAgA6v3.jpg",
+					"url": "https://t.co/PUPOYncUno",
+					"display_url": "pic.twitter.com/PUPOYncUno",
+					"expanded_url": "https://twitter.com/dooroomi_c/status/1427132794333847555/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1302973592448036900,
+			"id_str": "1302973592448036869",
+			"name": "두루미 흥업",
+			"screen_name": "dooroomi_c",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/w0g5ZZkoX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w0g5ZZkoX6",
+							"expanded_url": "http://drmicp.com",
+							"display_url": "drmicp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 133,
+			"friends_count": 192,
+			"listed_count": 1,
+			"created_at": "Mon Sep 07 14:14:53 +0000 2020",
+			"favourites_count": 680,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1302973592448036869/1628405842",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "리뷰:“I AM NOT I”는 노트와 가사보다는 이름을 알 수 없는 각종 피드백으로 구성되어 있다. 작자들의 의도가 어떻건 간에 이 앨범은 무수한 시행착오와 권태, 두려움이나 어떤 포기 상태가 만들어내는 공허와 희미한 희열들의 공진(Resonance)에서 생성되었다고 예측해 본다.https://t.co/kJZGla54gt https://t.co/PUPOYncUno"
+	},
+	{
 		"created_at": "Mon Aug 16 03:29:40 +0000 2021",
 		"id": 1427106608086061000,
 		"id_str": "1427110281885405185",
