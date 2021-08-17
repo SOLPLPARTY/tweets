@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 16 23:29:25 +0000 2021",
+		"id": 1427408848982208500,
+		"id_str": "1427412207961354248",
+		"full_text": "땡큐살롱 제주 오늘 17일 오픈! \n식사와 음악은 6시부터 즐기실 수 있습니다 🍜🎧 마실옵써얘~\n제주시 행원리 2564 #땡큐살롱#파인땡큐X루비살롱 https://t.co/dqxCKcKZ6K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1427408753238761500,
+					"id_str": "1427408753238761473",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1427408753238761473/pu/img/6H2fh0ZCEW0684TX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1427408753238761473/pu/img/6H2fh0ZCEW0684TX.jpg",
+					"url": "https://t.co/dqxCKcKZ6K",
+					"display_url": "pic.twitter.com/dqxCKcKZ6K",
+					"expanded_url": "https://twitter.com/ruby_records/status/1427408848982208527/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427408753238761500,
+					"id_str": "1427408753238761473",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1427408753238761473/pu/img/6H2fh0ZCEW0684TX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1427408753238761473/pu/img/6H2fh0ZCEW0684TX.jpg",
+					"url": "https://t.co/dqxCKcKZ6K",
+					"display_url": "pic.twitter.com/dqxCKcKZ6K",
+					"expanded_url": "https://twitter.com/ruby_records/status/1427408848982208527/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 35452,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1427408753238761473/pu/vid/720x1280/X1v8rpWUCVEUWBLK.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1427408753238761473/pu/pl/Mpb9Grel-XAtRyzT.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1427408753238761473/pu/vid/320x568/0b0RGLjtLg3NbHME.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1427408753238761473/pu/vid/480x852/7mTpAuw2XrsIfARd.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7687,
+			"friends_count": 8365,
+			"listed_count": 198,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 951,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00903a520cdf7c25",
+			"url": "https://api.twitter.com/1.1/geo/id/00903a520cdf7c25.json",
+			"place_type": "city",
+			"name": "남동구",
+			"full_name": "대한민국 남동구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.674406117552,
+							37.3817471944655
+						],
+						[
+							126.802684034492,
+							37.3817471944655
+						],
+						[
+							126.802684034492,
+							37.4829732134929
+						],
+						[
+							126.674406117552,
+							37.4829732134929
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "땡큐살롱 제주 오늘 17일 오픈! \n식사와 음악은 6시부터 즐기실 수 있습니다 🍜🎧 마실옵써얘~\n제주시 행원리 2564 #땡큐살롱#파인땡큐X루비살롱 https://t.co/dqxCKcKZ6K"
+	},
+	{
 		"created_at": "Mon Aug 16 13:29:24 +0000 2021",
 		"id": 1427246261812351000,
 		"id_str": "1427261212576911369",
