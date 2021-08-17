@@ -1,6 +1,1055 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 17 09:29:59 +0000 2021",
+		"id": 1427560763250516000,
+		"id_str": "1427563347835244544",
+		"full_text": "[김우주]\n비오는 오늘 듣기 좋은\n김우주가 커버한 '박중훈 - 비와 당신'☔\n아래 링크를 통해 들으러 오세요!\n\n▶ https://t.co/w5YF8WQfKP\n\n#김우주 #music #커버곡 #음악 #rain https://t.co/TLGKTiS5vr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김우주",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "music",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "커버곡",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "음악",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "rain",
+					"indices": [
+						111,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w5YF8WQfKP",
+					"expanded_url": "https://bit.ly/3gaihbQ",
+					"display_url": "bit.ly/3gaihbQ",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427560518907170800,
+					"id_str": "1427560518907170823",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1427560518907170823/pu/img/qP3uI2acXfkcNz0d.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1427560518907170823/pu/img/qP3uI2acXfkcNz0d.jpg",
+					"url": "https://t.co/TLGKTiS5vr",
+					"display_url": "pic.twitter.com/TLGKTiS5vr",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1427560763250515971/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427560518907170800,
+					"id_str": "1427560518907170823",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1427560518907170823/pu/img/qP3uI2acXfkcNz0d.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1427560518907170823/pu/img/qP3uI2acXfkcNz0d.jpg",
+					"url": "https://t.co/TLGKTiS5vr",
+					"display_url": "pic.twitter.com/TLGKTiS5vr",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1427560763250515971/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59663,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1427560518907170823/pu/vid/320x320/ACZEBDd4UXaSUKkJ.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1427560518907170823/pu/vid/540x540/fqeqbbuNGffYOXbT.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1427560518907170823/pu/vid/720x720/CZLOADRWpQwLrDc-.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1427560518907170823/pu/pl/YZxdC3Q9Lno-sd6c.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/에버루아/아일",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 809,
+			"friends_count": 7,
+			"listed_count": 17,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[김우주]\n비오는 오늘 듣기 좋은\n김우주가 커버한 '박중훈 - 비와 당신'☔\n아래 링크를 통해 들으러 오세요!\n\n▶ https://t.co/w5YF8WQfKP\n\n#김우주 #music #커버곡 #음악 #rain https://t.co/TLGKTiS5vr"
+	},
+	{
+		"created_at": "Tue Aug 17 09:29:52 +0000 2021",
+		"id": 1427560191814377500,
+		"id_str": "1427563317963415553",
+		"full_text": "✔Track 9. 없던 일로 해 (Feat. meenoi)\n\nLyrics by GRAY, Hoody\nComposed by GRAY, 샘김(Sam Kim), Hoody\nArranged by GRAY, 샘김(Sam Kim)\n\nMelon https://t.co/CtrOgxrw1U\nGenie https://t.co/5BLUClxIYq\nBugs https://t.co/DJCPFFPAi6\nFLO https://t.co/EDIdtjG5VJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CtrOgxrw1U",
+					"expanded_url": "http://bit.ly/3jZDYfJ",
+					"display_url": "bit.ly/3jZDYfJ",
+					"indices": [
+						130,
+						153
+					]
+				},
+				{
+					"url": "https://t.co/5BLUClxIYq",
+					"expanded_url": "http://bit.ly/3iUeNfy",
+					"display_url": "bit.ly/3iUeNfy",
+					"indices": [
+						160,
+						183
+					]
+				},
+				{
+					"url": "https://t.co/DJCPFFPAi6",
+					"expanded_url": "http://bit.ly/3jXZH84",
+					"display_url": "bit.ly/3jXZH84",
+					"indices": [
+						189,
+						212
+					]
+				},
+				{
+					"url": "https://t.co/EDIdtjG5VJ",
+					"expanded_url": "http://bit.ly/3maOkfK",
+					"display_url": "bit.ly/3maOkfK",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1427560187787767800,
+		"in_reply_to_status_id_str": "1427560187787767808",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 권진아 Summer Single 'KNOCK (With 박문치)' 2021. 07. 27. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36901,
+			"friends_count": 11,
+			"listed_count": 372,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3850,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "✔Track 9. 없던 일로 해 (Feat. meenoi)\n\nLyrics by GRAY, Hoody\nComposed by GRAY, 샘김(Sam Kim), Hoody\nArranged by GRAY, 샘김(Sam Kim)\n\nMelon https://t.co/CtrOgxrw1U\nGenie https://t.co/5BLUClxIYq\nBugs https://t.co/DJCPFFPAi6\nFLO https://t.co/EDIdtjG5VJ"
+	},
+	{
+		"created_at": "Tue Aug 17 09:29:44 +0000 2021",
+		"id": 1427560187787767800,
+		"id_str": "1427563283897270275",
+		"full_text": "[Release] #샘김\n\n샘김이 작곡, 편곡, 기타 연주로 함께한 GRAY (그레이), 정규 [grayground.]가 발매되었습니다. 지금 모든 음원 사이트에서 만나보실 수 있습니다🎧\n\n#샘김 #SamKim #없던일로해\n#GRAY #그레이 #grayground https://t.co/HaMz8FoyS5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "샘김",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "샘김",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "SamKim",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "없던일로해",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "GRAY",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "그레이",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "grayground",
+					"indices": [
+						136,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1427559753371189200,
+					"id_str": "1427559753371189250",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/E8-2CDtVgAIeURH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8-2CDtVgAIeURH.jpg",
+					"url": "https://t.co/HaMz8FoyS5",
+					"display_url": "pic.twitter.com/HaMz8FoyS5",
+					"expanded_url": "https://twitter.com/antennamusic/status/1427560187787767808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427559753371189200,
+					"id_str": "1427559753371189250",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/E8-2CDtVgAIeURH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8-2CDtVgAIeURH.jpg",
+					"url": "https://t.co/HaMz8FoyS5",
+					"display_url": "pic.twitter.com/HaMz8FoyS5",
+					"expanded_url": "https://twitter.com/antennamusic/status/1427560187787767808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 권진아 Summer Single 'KNOCK (With 박문치)' 2021. 07. 27. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36901,
+			"friends_count": 11,
+			"listed_count": 372,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3850,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 87,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release] #샘김\n\n샘김이 작곡, 편곡, 기타 연주로 함께한 GRAY (그레이), 정규 [grayground.]가 발매되었습니다. 지금 모든 음원 사이트에서 만나보실 수 있습니다🎧\n\n#샘김 #SamKim #없던일로해\n#GRAY #그레이 #grayground https://t.co/HaMz8FoyS5"
+	},
+	{
+		"created_at": "Tue Aug 17 09:29:36 +0000 2021",
+		"id": 1427556939857240000,
+		"id_str": "1427563249839530002",
+		"full_text": "#OuiOui #Magazine\n\nOuiOui [하루]에 대한 모든 것! \nLive Film 비하인드 사진과 미니 인터뷰가 공개되었습니다. \n지니매거진을 통해서 확인해보세요✨\n\n https://t.co/GOvTvgNcnX\n\n#위위 #하루 #HARU #DaynNight https://t.co/37W8QyJNPJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OuiOui",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Magazine",
+					"indices": [
+						8,
+						17
+					]
+				},
+				{
+					"text": "위위",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "하루",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "HARU",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "DaynNight",
+					"indices": [
+						139,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GOvTvgNcnX",
+					"expanded_url": "http://genie.co.kr/RC8R35",
+					"display_url": "genie.co.kr/RC8R35",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427556935067340800,
+					"id_str": "1427556935067340802",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/E8-zeAtVkAINmk-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8-zeAtVkAINmk-.jpg",
+					"url": "https://t.co/37W8QyJNPJ",
+					"display_url": "pic.twitter.com/37W8QyJNPJ",
+					"expanded_url": "https://twitter.com/inplanet/status/1427556939857240074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427556935067340800,
+					"id_str": "1427556935067340802",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/E8-zeAtVkAINmk-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8-zeAtVkAINmk-.jpg",
+					"url": "https://t.co/37W8QyJNPJ",
+					"display_url": "pic.twitter.com/37W8QyJNPJ",
+					"expanded_url": "https://twitter.com/inplanet/status/1427556939857240074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1447,
+			"friends_count": 775,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 109,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#OuiOui #Magazine\n\nOuiOui [하루]에 대한 모든 것! \nLive Film 비하인드 사진과 미니 인터뷰가 공개되었습니다. \n지니매거진을 통해서 확인해보세요✨\n\n https://t.co/GOvTvgNcnX\n\n#위위 #하루 #HARU #DaynNight https://t.co/37W8QyJNPJ"
+	},
+	{
+		"created_at": "Tue Aug 17 09:29:31 +0000 2021",
+		"id": 1427556727126302700,
+		"id_str": "1427563228222066688",
+		"full_text": "오존이 가창한 ‘블루버스데이’ OST [어떤 날도, 어떤 말도 (2021)] 음원이 발매되었습니다. https://t.co/oqn603aLNZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1427556685942378500,
+					"id_str": "1427556685942378500",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/E8-zPgpUUAQfG_n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8-zPgpUUAQfG_n.jpg",
+					"url": "https://t.co/oqn603aLNZ",
+					"display_url": "pic.twitter.com/oqn603aLNZ",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1427556727126302722/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427556685942378500,
+					"id_str": "1427556685942378500",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/E8-zPgpUUAQfG_n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8-zPgpUUAQfG_n.jpg",
+					"url": "https://t.co/oqn603aLNZ",
+					"display_url": "pic.twitter.com/oqn603aLNZ",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1427556727126302722/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1427556700194672600,
+					"id_str": "1427556700194672648",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/E8-zQVvVEAggZP9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8-zQVvVEAggZP9.jpg",
+					"url": "https://t.co/oqn603aLNZ",
+					"display_url": "pic.twitter.com/oqn603aLNZ",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1427556727126302722/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3903,
+			"friends_count": 8,
+			"listed_count": 84,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오존이 가창한 ‘블루버스데이’ OST [어떤 날도, 어떤 말도 (2021)] 음원이 발매되었습니다. https://t.co/oqn603aLNZ"
+	},
+	{
 		"created_at": "Tue Aug 17 09:16:24 +0000 2021",
 		"id": 1427559928441544700,
 		"id_str": "1427559928441544705",
