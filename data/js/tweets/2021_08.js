@@ -1,6 +1,569 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 17 03:58:31 +0000 2021",
+		"id": 1427465380818129000,
+		"id_str": "1427479930728861699",
+		"full_text": "[1st LINEUP HINT] アーティストとファンの心を繋ぐKCON:TACT HI 5🖐 \nKCON-ersとコミュニケーションする最初のアーティストは誰なのか！\nチャットを通して推理して見ましたが... \n今すぐ映像をご確認してください💕 \n\n#KCONTACT #KCONTACTHI5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						137,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1427465339466518500,
+		"in_reply_to_status_id_str": "1427465339466518532",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 382816,
+			"friends_count": 75,
+			"listed_count": 1002,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 76,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "[1st LINEUP HINT] アーティストとファンの心を繋ぐKCON:TACT HI 5🖐 \nKCON-ersとコミュニケーションする最初のアーティストは誰なのか！\nチャットを通して推理して見ましたが... \n今すぐ映像をご確認してください💕 \n\n#KCONTACT #KCONTACTHI5"
+	},
+	{
+		"created_at": "Tue Aug 17 03:58:22 +0000 2021",
+		"id": 1427465339466518500,
+		"id_str": "1427479892501876736",
+		"full_text": "[1st LINEUP HINT] 아티스트와 팬들의 마음을 잇는 KCON:TACT HI 5🖐 \nKCON-ers와 소통할 첫 번째 아티스트들이 누굴지! \n채팅을 통해 추리해보았다는데... \n지금 영상을 확인해보세요💕 \n\n#KCONTACT #KCONTACTHI5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						121,
+						130
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						131,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1427465204653248500,
+		"in_reply_to_status_id_str": "1427465204653248513",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 382816,
+			"friends_count": 75,
+			"listed_count": 1002,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[1st LINEUP HINT] 아티스트와 팬들의 마음을 잇는 KCON:TACT HI 5🖐 \nKCON-ers와 소통할 첫 번째 아티스트들이 누굴지! \n채팅을 통해 추리해보았다는데... \n지금 영상을 확인해보세요💕 \n\n#KCONTACT #KCONTACTHI5"
+	},
+	{
+		"created_at": "Tue Aug 17 03:58:15 +0000 2021",
+		"id": 1427465204653248500,
+		"id_str": "1427479862697250816",
+		"full_text": "[1st LINEUP HINT] KCON:TACT HI 5 links artists and fans together🖐\nWhich artists will be in the first line-up for KCON-ers to communicate?\nFind it out through the hint chat in the video💕 \n\n#KCONTACT #KCONTACTHI5 https://t.co/yjfvLHOull",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						188,
+						197
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						198,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1427455836310315000,
+					"id_str": "1427455836310315008",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/E89aJemVkA44H1d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E89aJemVkA44H1d.jpg",
+					"url": "https://t.co/yjfvLHOull",
+					"display_url": "pic.twitter.com/yjfvLHOull",
+					"expanded_url": "https://twitter.com/KCON_official/status/1427465204653248513/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427455836310315000,
+					"id_str": "1427455836310315008",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/E89aJemVkA44H1d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E89aJemVkA44H1d.jpg",
+					"url": "https://t.co/yjfvLHOull",
+					"display_url": "pic.twitter.com/yjfvLHOull",
+					"expanded_url": "https://twitter.com/KCON_official/status/1427465204653248513/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 215567,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1427455836310315008/vid/320x568/bVbrW4RkVNklsB4I.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1427455836310315008/vid/720x1280/sZpRIvuPoPQXJdBc.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1427455836310315008/vid/480x852/bMRlT3U086aqSdI2.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1427455836310315008/pl/FfqKYn_h8NYG_qc7.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 382816,
+			"friends_count": 75,
+			"listed_count": 1002,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 580,
+		"favorite_count": 1371,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[1st LINEUP HINT] KCON:TACT HI 5 links artists and fans together🖐\nWhich artists will be in the first line-up for KCON-ers to communicate?\nFind it out through the hint chat in the video💕 \n\n#KCONTACT #KCONTACTHI5 https://t.co/yjfvLHOull"
+	},
+	{
+		"created_at": "Tue Aug 17 03:29:25 +0000 2021",
+		"id": 1427460447536484400,
+		"id_str": "1427472606425460738",
+		"full_text": "[News]\n\n 디스클로저가 클럽씬의 부활을 열망하는 새로운 싱글 'In My Arms'를 공개했습니다. 이번 싱글을 시작으로 EP 앨범 [Never Enough]의 수록곡이 24시간마다 한 곡씩 공개됩니다.\n\n\"다시 누리기를 갈망했던 마술적인 순간에 어울리는 것을 만들고자 했습니다.”\nhttps://t.co/DwK2uC8Ahl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DwK2uC8Ahl",
+					"expanded_url": "https://www.highjinkxmm.com/news/disclosure-in-my-arms",
+					"display_url": "highjinkxmm.com/news/disclosur…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/P2V4wFkAko",
+			"url": "https://t.co/oAPJfxeB46",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAPJfxeB46",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P2V4wFkAko",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 428,
+			"friends_count": 20,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[News]\n\n 디스클로저가 클럽씬의 부활을 열망하는 새로운 싱글 'In My Arms'를 공개했습니다. 이번 싱글을 시작으로 EP 앨범 [Never Enough]의 수록곡이 24시간마다 한 곡씩 공개됩니다.\n\n\"다시 누리기를 갈망했던 마술적인 순간에 어울리는 것을 만들고자 했습니다.”\nhttps://t.co/DwK2uC8Ahl"
+	},
+	{
 		"created_at": "Tue Aug 17 02:29:25 +0000 2021",
 		"id": 1427451129198092300,
 		"id_str": "1427457506247421956",
