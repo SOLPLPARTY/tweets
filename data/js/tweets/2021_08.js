@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 17 05:29:30 +0000 2021",
+		"id": 1427498283765624800,
+		"id_str": "1427502826289344521",
+		"full_text": "⠀\nDAILY MIRRORBALL MUSIC | 210818 WED\n⠀\n🔸 Rsh [Seven twelfth]\n🔸 Ain Blurr [Body Algorithm]\n🔸 SiAN [Wildflower]\n\n#Rsh #AinBlurr #SiAN #미러볼뮤직 #인디음악 #음스타그램\n⠀ https://t.co/LIpQTwcVBD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Rsh",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "AinBlurr",
+					"indices": [
+						117,
+						126
+					]
+				},
+				{
+					"text": "SiAN",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "음스타그램",
+					"indices": [
+						146,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1427498103918137300,
+					"id_str": "1427498103918137344",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1427498103918137344/pu/img/jGGDP-gkwnLOgF8g.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1427498103918137344/pu/img/jGGDP-gkwnLOgF8g.jpg",
+					"url": "https://t.co/LIpQTwcVBD",
+					"display_url": "pic.twitter.com/LIpQTwcVBD",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1427498283765624837/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427498103918137300,
+					"id_str": "1427498103918137344",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1427498103918137344/pu/img/jGGDP-gkwnLOgF8g.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1427498103918137344/pu/img/jGGDP-gkwnLOgF8g.jpg",
+					"url": "https://t.co/LIpQTwcVBD",
+					"display_url": "pic.twitter.com/LIpQTwcVBD",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1427498283765624837/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 57057,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1427498103918137344/pu/vid/720x720/LDgTLbCHAkwDHAAO.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1427498103918137344/pu/vid/320x320/R-Dl1tgNWXWccKii.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1427498103918137344/pu/vid/540x540/Dz3Cj31cJxKXr07w.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1427498103918137344/pu/pl/YYBuRmEX9Ap792OI.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9475,
+			"friends_count": 2673,
+			"listed_count": 247,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1627032310",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "⠀\nDAILY MIRRORBALL MUSIC | 210818 WED\n⠀\n🔸 Rsh [Seven twelfth]\n🔸 Ain Blurr [Body Algorithm]\n🔸 SiAN [Wildflower]\n\n#Rsh #AinBlurr #SiAN #미러볼뮤직 #인디음악 #음스타그램\n⠀ https://t.co/LIpQTwcVBD"
+	},
+	{
 		"created_at": "Tue Aug 17 04:29:48 +0000 2021",
 		"id": 1427486521477668900,
 		"id_str": "1427487801679953921",
