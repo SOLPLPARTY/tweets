@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 17 13:29:32 +0000 2021",
+		"id": 1427618137134952400,
+		"id_str": "1427623630519865352",
+		"full_text": "우리 손원들도 함께 놀 준비 되었죠?!👻\n\n술과 안주 댓글로 추천 부탁드립니다아〰️\n\n#손님포차 #박소은 #박손님 #박손장 #손원들모여라 #밴드 #소은밴드 #안주추천 #술도추천받아요 #포차노래방 #포차 #유튜브라이브 #생방송 #유어썸머",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손님포차",
+					"indices": [
+						48,
+						53
+					]
+				},
+				{
+					"text": "박소은",
+					"indices": [
+						54,
+						58
+					]
+				},
+				{
+					"text": "박손님",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "박손장",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "손원들모여라",
+					"indices": [
+						69,
+						76
+					]
+				},
+				{
+					"text": "밴드",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "소은밴드",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "안주추천",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "술도추천받아요",
+					"indices": [
+						93,
+						101
+					]
+				},
+				{
+					"text": "포차노래방",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "포차",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "유튜브라이브",
+					"indices": [
+						113,
+						120
+					]
+				},
+				{
+					"text": "생방송",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "유어썸머",
+					"indices": [
+						126,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1427618075663167500,
+		"in_reply_to_status_id_str": "1427618075663167492",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 (당신의여름)",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타와 함께합니다.",
+			"url": "https://t.co/oHXBW5kYJK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oHXBW5kYJK",
+							"expanded_url": "http://www.instagram.com/yoursummerkr",
+							"display_url": "instagram.com/yoursummerkr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2103,
+			"friends_count": 23,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "우리 손원들도 함께 놀 준비 되었죠?!👻\n\n술과 안주 댓글로 추천 부탁드립니다아〰️\n\n#손님포차 #박소은 #박손님 #박손장 #손원들모여라 #밴드 #소은밴드 #안주추천 #술도추천받아요 #포차노래방 #포차 #유튜브라이브 #생방송 #유어썸머"
+	},
+	{
 		"created_at": "Tue Aug 17 13:11:17 +0000 2021",
 		"id": 1427615191185838000,
 		"id_str": "1427619037421395968",
