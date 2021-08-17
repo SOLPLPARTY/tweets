@@ -1,6 +1,675 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 17 11:11:22 +0000 2021",
+		"id": 1427579621990539300,
+		"id_str": "1427588859391524864",
+		"full_text": "2021년 일렉트릭 뮤즈의 첫 발매작인 다정(Dajung)의 데뷔 앨범 &lt; Jay Knife &gt; 가 공상온도 온라인스토어와 오프라인에 모두 입고되어있요! 공상온도 스토어에서 만나보세요!\n.\nhttps://t.co/d7i5lMqQTc\nhttps://t.co/XipgX8L2sV\nㅡ \n#다정 #JayKnife #음반 #인디음악 #일렉트릭뮤즈 #공상온도스토어 https://t.co/0Ol3kglmfp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "다정",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "JayKnife",
+					"indices": [
+						167,
+						176
+					]
+				},
+				{
+					"text": "음반",
+					"indices": [
+						177,
+						180
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						181,
+						186
+					]
+				},
+				{
+					"text": "일렉트릭뮤즈",
+					"indices": [
+						187,
+						194
+					]
+				},
+				{
+					"text": "공상온도스토어",
+					"indices": [
+						195,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7i5lMqQTc",
+					"expanded_url": "http://www.gongsangondo.com",
+					"display_url": "gongsangondo.com",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/XipgX8L2sV",
+					"expanded_url": "http://smartstore.naver.com/gongsangondo",
+					"display_url": "smartstore.naver.com/gongsangondo",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427579616521187300,
+					"id_str": "1427579616521187328",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/E8_IGPtVcAAojyR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8_IGPtVcAAojyR.jpg",
+					"url": "https://t.co/0Ol3kglmfp",
+					"display_url": "pic.twitter.com/0Ol3kglmfp",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1427579621990539268/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427579616521187300,
+					"id_str": "1427579616521187328",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/E8_IGPtVcAAojyR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8_IGPtVcAAojyR.jpg",
+					"url": "https://t.co/0Ol3kglmfp",
+					"display_url": "pic.twitter.com/0Ol3kglmfp",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1427579621990539268/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 377,
+			"friends_count": 210,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2021년 일렉트릭 뮤즈의 첫 발매작인 다정(Dajung)의 데뷔 앨범 &lt; Jay Knife &gt; 가 공상온도 온라인스토어와 오프라인에 모두 입고되어있요! 공상온도 스토어에서 만나보세요!\n.\nhttps://t.co/d7i5lMqQTc\nhttps://t.co/XipgX8L2sV\nㅡ \n#다정 #JayKnife #음반 #인디음악 #일렉트릭뮤즈 #공상온도스토어 https://t.co/0Ol3kglmfp"
+	},
+	{
+		"created_at": "Tue Aug 17 10:29:34 +0000 2021",
+		"id": 1427573801403912200,
+		"id_str": "1427578343222878208",
+		"full_text": "[이랑] \n정규 3집\n&lt;늑대가 나타났다&gt;\n𝟮𝟬𝟮𝟭.𝟬𝟴.𝟮𝟯.𝗠𝗼𝗻.𝟭𝟮𝗽𝗺\n\n#이랑 #정규3집 #늑대가나타났다 #8월23일 #발매 https://t.co/MTFfYfSHdA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이랑",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "정규3집",
+					"indices": [
+						54,
+						59
+					]
+				},
+				{
+					"text": "늑대가나타났다",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"text": "8월23일",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						76,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1427573788426662000,
+					"id_str": "1427573788426661888",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/E8_CzAXUcAAB078.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8_CzAXUcAAB078.jpg",
+					"url": "https://t.co/MTFfYfSHdA",
+					"display_url": "pic.twitter.com/MTFfYfSHdA",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1427573801403912193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427573788426662000,
+					"id_str": "1427573788426661888",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/E8_CzAXUcAAB078.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8_CzAXUcAAB078.jpg",
+					"url": "https://t.co/MTFfYfSHdA",
+					"display_url": "pic.twitter.com/MTFfYfSHdA",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1427573801403912193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 (당신의여름)",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타와 함께합니다.",
+			"url": "https://t.co/oHXBW5kYJK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oHXBW5kYJK",
+							"expanded_url": "http://www.instagram.com/yoursummerkr",
+							"display_url": "instagram.com/yoursummerkr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2101,
+			"friends_count": 23,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이랑] \n정규 3집\n&lt;늑대가 나타났다&gt;\n𝟮𝟬𝟮𝟭.𝟬𝟴.𝟮𝟯.𝗠𝗼𝗻.𝟭𝟮𝗽𝗺\n\n#이랑 #정규3집 #늑대가나타났다 #8월23일 #발매 https://t.co/MTFfYfSHdA"
+	},
+	{
+		"created_at": "Tue Aug 17 10:29:29 +0000 2021",
+		"id": 1427567554973749200,
+		"id_str": "1427578321739603977",
+		"full_text": "' I AM NOT I '리뷰 : J.G. 발라드에게 영향받은 젊은이들은 일련의 기타 코드(chords)를 버리고 Korg 700s 같은 신시사이저를 구입, 가만히 서서 키를 누르고 있는 것으로 비인간적 표현과 행동을 대신했다. https://t.co/kJZGla54gt https://t.co/SzPX8ep3uK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kJZGla54gt",
+					"expanded_url": "https://www.evernote.com/shard/s428/client/snv?noteGuid=593aa12c-2a8d-cbcb-1698-a5ed9556551d&noteKey=3fe96463fee095fa5fb8b808ab4e51df&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs428%2Fsh%2F593aa12c-2a8d-cbcb-1698-a5ed9556551d%2F3fe96463fee095fa5fb8b808ab4e51df&title=I%2BAM%2BNOT%2BI%2B-%2Breview",
+					"display_url": "evernote.com/shard/s428/cli…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427567550854930400,
+					"id_str": "1427567550854930438",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/E8-9H7mVIAY06sg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8-9H7mVIAY06sg.jpg",
+					"url": "https://t.co/SzPX8ep3uK",
+					"display_url": "pic.twitter.com/SzPX8ep3uK",
+					"expanded_url": "https://twitter.com/dooroomi_c/status/1427567554973749253/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427567550854930400,
+					"id_str": "1427567550854930438",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/E8-9H7mVIAY06sg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8-9H7mVIAY06sg.jpg",
+					"url": "https://t.co/SzPX8ep3uK",
+					"display_url": "pic.twitter.com/SzPX8ep3uK",
+					"expanded_url": "https://twitter.com/dooroomi_c/status/1427567554973749253/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1427567550859120600,
+					"id_str": "1427567550859120640",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/E8-9H7nVEAARRvk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8-9H7nVEAARRvk.jpg",
+					"url": "https://t.co/SzPX8ep3uK",
+					"display_url": "pic.twitter.com/SzPX8ep3uK",
+					"expanded_url": "https://twitter.com/dooroomi_c/status/1427567554973749253/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1302973592448036900,
+			"id_str": "1302973592448036869",
+			"name": "두루미 흥업",
+			"screen_name": "dooroomi_c",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/w0g5ZZkoX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w0g5ZZkoX6",
+							"expanded_url": "http://drmicp.com",
+							"display_url": "drmicp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 135,
+			"friends_count": 194,
+			"listed_count": 1,
+			"created_at": "Mon Sep 07 14:14:53 +0000 2020",
+			"favourites_count": 682,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1302973592448036869/1628405842",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "' I AM NOT I '리뷰 : J.G. 발라드에게 영향받은 젊은이들은 일련의 기타 코드(chords)를 버리고 Korg 700s 같은 신시사이저를 구입, 가만히 서서 키를 누르고 있는 것으로 비인간적 표현과 행동을 대신했다. https://t.co/kJZGla54gt https://t.co/SzPX8ep3uK"
+	},
+	{
 		"created_at": "Tue Aug 17 09:29:59 +0000 2021",
 		"id": 1427560763250516000,
 		"id_str": "1427563347835244544",
