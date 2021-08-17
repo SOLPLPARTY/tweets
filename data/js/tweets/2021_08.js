@@ -1,6 +1,166 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 17 14:29:27 +0000 2021",
+		"id": 1427628470209638400,
+		"id_str": "1427638709772603403",
+		"full_text": "cott과 실시간 채팅을 하며 ‘SCENE’ 라이브 영상을 함께 즐겨보세요. \n\n#cott #콧 #scene #한시간영상 #유튜브스트리밍 #스트리밍 #실시간채팅 #라이브 #라이브영상",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cott",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "콧",
+					"indices": [
+						51,
+						53
+					]
+				},
+				{
+					"text": "scene",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "한시간영상",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "유튜브스트리밍",
+					"indices": [
+						68,
+						76
+					]
+				},
+				{
+					"text": "스트리밍",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "실시간채팅",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "라이브",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "라이브영상",
+					"indices": [
+						95,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1427628431903133700,
+		"in_reply_to_status_id_str": "1427628431903133697",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 (당신의여름)",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타와 함께합니다.",
+			"url": "https://t.co/oHXBW5kYJK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oHXBW5kYJK",
+							"expanded_url": "http://www.instagram.com/yoursummerkr",
+							"display_url": "instagram.com/yoursummerkr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2103,
+			"friends_count": 23,
+			"listed_count": 10,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "cott과 실시간 채팅을 하며 ‘SCENE’ 라이브 영상을 함께 즐겨보세요. \n\n#cott #콧 #scene #한시간영상 #유튜브스트리밍 #스트리밍 #실시간채팅 #라이브 #라이브영상"
+	},
+	{
 		"created_at": "Tue Aug 17 13:29:32 +0000 2021",
 		"id": 1427618137134952400,
 		"id_str": "1427623630519865352",
