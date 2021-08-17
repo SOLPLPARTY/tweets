@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 17 13:11:17 +0000 2021",
+		"id": 1427615191185838000,
+		"id_str": "1427619037421395968",
+		"full_text": "2021.08.21 SAT 7:30P.M\n[HAPPY BUNNY DAY]\nhttps://t.co/y9UoUyimBb\n\n#베리코이버니 #프리즘홀 #첫단독콘서트 #BUNNY #홍대공연 #prismhall https://t.co/9q7qTnTj2f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "베리코이버니",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"text": "프리즘홀",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "첫단독콘서트",
+					"indices": [
+						80,
+						87
+					]
+				},
+				{
+					"text": "BUNNY",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "홍대공연",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "prismhall",
+					"indices": [
+						101,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y9UoUyimBb",
+					"expanded_url": "https://ticket.melon.com/performance/index.htm?prodId=206102",
+					"display_url": "ticket.melon.com/performance/in…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427615045555396600,
+					"id_str": "1427615045555396614",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1427615045555396614/pu/img/-KFae8LDZyey7GIZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1427615045555396614/pu/img/-KFae8LDZyey7GIZ.jpg",
+					"url": "https://t.co/9q7qTnTj2f",
+					"display_url": "pic.twitter.com/9q7qTnTj2f",
+					"expanded_url": "https://twitter.com/prismhall/status/1427615191185838084/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427615045555396600,
+					"id_str": "1427615045555396614",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1427615045555396614/pu/img/-KFae8LDZyey7GIZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1427615045555396614/pu/img/-KFae8LDZyey7GIZ.jpg",
+					"url": "https://t.co/9q7qTnTj2f",
+					"display_url": "pic.twitter.com/9q7qTnTj2f",
+					"expanded_url": "https://twitter.com/prismhall/status/1427615191185838084/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 71066,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1427615045555396614/pu/pl/5vwYXsCpUAJ-7ksa.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1427615045555396614/pu/vid/640x360/XENJAEafrGlWcyFp.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1427615045555396614/pu/vid/1280x720/xEaFxu7cOtBQGXAz.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1427615045555396614/pu/vid/480x270/Oni1ZICBDVUlg6Gl.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 곳!  최고의 핫플레이스로 떠오르고 있는 프리즘홀입니다!",
+			"url": "https://t.co/wj8kdioGqi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wj8kdioGqi",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2053,
+			"friends_count": 1125,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2021.08.21 SAT 7:30P.M\n[HAPPY BUNNY DAY]\nhttps://t.co/y9UoUyimBb\n\n#베리코이버니 #프리즘홀 #첫단독콘서트 #BUNNY #홍대공연 #prismhall https://t.co/9q7qTnTj2f"
+	},
+	{
 		"created_at": "Tue Aug 17 11:29:25 +0000 2021",
 		"id": 1427583852969545700,
 		"id_str": "1427593402909007882",
