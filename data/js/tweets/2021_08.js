@@ -1,6 +1,886 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 18 04:11:16 +0000 2021",
+		"id": 1427844419282112500,
+		"id_str": "1427845529124458497",
+		"full_text": "무려 7차 재입고인 안리타 작가님의 에세이 &lt; 모든 계절이 유서였다 &gt; 가 공상온도 온라인스토어와 오프라인에 모두 재입고 되었어요! 공상온도 스토어에서 만나보세요!\n.\nhttps://t.co/d7i5lMqQTc\nhttps://t.co/XipgX8L2sV https://t.co/vTzWdlJKW7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7i5lMqQTc",
+					"expanded_url": "http://www.gongsangondo.com",
+					"display_url": "gongsangondo.com",
+					"indices": [
+						100,
+						123
+					]
+				},
+				{
+					"url": "https://t.co/XipgX8L2sV",
+					"expanded_url": "http://smartstore.naver.com/gongsangondo",
+					"display_url": "smartstore.naver.com/gongsangondo",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427844413439373300,
+					"id_str": "1427844413439373312",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/E9C47dGUcAAQXRt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9C47dGUcAAQXRt.jpg",
+					"url": "https://t.co/vTzWdlJKW7",
+					"display_url": "pic.twitter.com/vTzWdlJKW7",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1427844419282112520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427844413439373300,
+					"id_str": "1427844413439373312",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/E9C47dGUcAAQXRt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9C47dGUcAAQXRt.jpg",
+					"url": "https://t.co/vTzWdlJKW7",
+					"display_url": "pic.twitter.com/vTzWdlJKW7",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1427844419282112520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 376,
+			"friends_count": 210,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2983,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "무려 7차 재입고인 안리타 작가님의 에세이 &lt; 모든 계절이 유서였다 &gt; 가 공상온도 온라인스토어와 오프라인에 모두 재입고 되었어요! 공상온도 스토어에서 만나보세요!\n.\nhttps://t.co/d7i5lMqQTc\nhttps://t.co/XipgX8L2sV https://t.co/vTzWdlJKW7"
+	},
+	{
+		"created_at": "Wed Aug 18 03:29:45 +0000 2021",
+		"id": 1427832072291246000,
+		"id_str": "1427835079729074181",
+		"full_text": "https://t.co/t93UTFgY66",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1427832057682567200,
+					"id_str": "1427832057682567175",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E9CtsQUVoAcIgxV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9CtsQUVoAcIgxV.jpg",
+					"url": "https://t.co/t93UTFgY66",
+					"display_url": "pic.twitter.com/t93UTFgY66",
+					"expanded_url": "https://twitter.com/inplanet/status/1427832072291246082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427832057682567200,
+					"id_str": "1427832057682567175",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E9CtsQUVoAcIgxV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9CtsQUVoAcIgxV.jpg",
+					"url": "https://t.co/t93UTFgY66",
+					"display_url": "pic.twitter.com/t93UTFgY66",
+					"expanded_url": "https://twitter.com/inplanet/status/1427832072291246082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1427831557855662000,
+		"in_reply_to_status_id_str": "1427831557855662081",
+		"in_reply_to_user_id": 76964739,
+		"in_reply_to_user_id_str": "76964739",
+		"in_reply_to_screen_name": "inplanet",
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1447,
+			"friends_count": 775,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 109,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/t93UTFgY66"
+	},
+	{
+		"created_at": "Wed Aug 18 03:29:43 +0000 2021",
+		"id": 1427831557855662000,
+		"id_str": "1427835070795161604",
+		"full_text": "#OuiOui #Notice\n\n🎤\nOuiOui 위위 소극장 공연 [하루] \n2021.09.04.SAT.PM6(KST)\n홍대 벨로주\n\n🎫Ticket Open \n2021.08.23.MON.PM8(KST) \n멜론티켓 단독판매\n\n☼ ☽\n\n자세한 내용은 멜론티켓 사이트를 통해서 확인해 주세요.\nhttps://t.co/LzWnQREh9j\n\n#위위 #하루 #HARU #DaynNight",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OuiOui",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "Notice",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "위위",
+					"indices": [
+						185,
+						188
+					]
+				},
+				{
+					"text": "하루",
+					"indices": [
+						189,
+						192
+					]
+				},
+				{
+					"text": "HARU",
+					"indices": [
+						193,
+						198
+					]
+				},
+				{
+					"text": "DaynNight",
+					"indices": [
+						199,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LzWnQREh9j",
+					"expanded_url": "http://kko.to/nNo-x34fB",
+					"display_url": "kko.to/nNo-x34fB",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1447,
+			"friends_count": 775,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 109,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#OuiOui #Notice\n\n🎤\nOuiOui 위위 소극장 공연 [하루] \n2021.09.04.SAT.PM6(KST)\n홍대 벨로주\n\n🎫Ticket Open \n2021.08.23.MON.PM8(KST) \n멜론티켓 단독판매\n\n☼ ☽\n\n자세한 내용은 멜론티켓 사이트를 통해서 확인해 주세요.\nhttps://t.co/LzWnQREh9j\n\n#위위 #하루 #HARU #DaynNight"
+	},
+	{
+		"created_at": "Wed Aug 18 03:29:39 +0000 2021",
+		"id": 1427830444091875300,
+		"id_str": "1427835053460148231",
+		"full_text": "[🔥Out Now🔥] 우리같은사람들(Woogotsa) - '별자리' Constellation 🌟🌟🌟\n\n그 해 어둡던 기억도 별이 되어\n늘 꿈꾸었던 별자리가 되었네\n지금 아주 중요한 일을 하고\n있다고 말해주고파\n\n#woogotsa #kband #kindie #kpop #우리같은사람들 #krock #aor #별자리 #Constellation #우같사 https://t.co/L4WxJFdM19",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "woogotsa",
+					"indices": [
+						118,
+						127
+					]
+				},
+				{
+					"text": "kband",
+					"indices": [
+						128,
+						134
+					]
+				},
+				{
+					"text": "kindie",
+					"indices": [
+						135,
+						142
+					]
+				},
+				{
+					"text": "kpop",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "우리같은사람들",
+					"indices": [
+						149,
+						157
+					]
+				},
+				{
+					"text": "krock",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"text": "aor",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "별자리",
+					"indices": [
+						170,
+						174
+					]
+				},
+				{
+					"text": "Constellation",
+					"indices": [
+						175,
+						189
+					]
+				},
+				{
+					"text": "우같사",
+					"indices": [
+						190,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1427830365775810600,
+					"id_str": "1427830365775810560",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/E9CsJxeVUAAyhSN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9CsJxeVUAAyhSN.jpg",
+					"url": "https://t.co/L4WxJFdM19",
+					"display_url": "pic.twitter.com/L4WxJFdM19",
+					"expanded_url": "https://twitter.com/sugar_records/status/1427830444091875328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427830365775810600,
+					"id_str": "1427830365775810560",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/E9CsJxeVUAAyhSN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9CsJxeVUAAyhSN.jpg",
+					"url": "https://t.co/L4WxJFdM19",
+					"display_url": "pic.twitter.com/L4WxJFdM19",
+					"expanded_url": "https://twitter.com/sugar_records/status/1427830444091875328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94343878,
+			"id_str": "94343878",
+			"name": "슈가레코드",
+			"screen_name": "sugar_records",
+			"location": "Seoul, KR",
+			"description": "#달에닿아 #뷰티핸섬 #리썬 #모브닝 #엔분의일 #당기시오 #우리같은사람들 슈가레코드",
+			"url": "https://t.co/MaZwhWbQNT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MaZwhWbQNT",
+							"expanded_url": "http://sugar-records.com",
+							"display_url": "sugar-records.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 557,
+			"friends_count": 38,
+			"listed_count": 9,
+			"created_at": "Thu Dec 03 14:51:49 +0000 2009",
+			"favourites_count": 437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7516,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087640124270075904/QfkBjdmp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94343878/1548148600",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🔥Out Now🔥] 우리같은사람들(Woogotsa) - '별자리' Constellation 🌟🌟🌟\n\n그 해 어둡던 기억도 별이 되어\n늘 꿈꾸었던 별자리가 되었네\n지금 아주 중요한 일을 하고\n있다고 말해주고파\n\n#woogotsa #kband #kindie #kpop #우리같은사람들 #krock #aor #별자리 #Constellation #우같사 https://t.co/L4WxJFdM19"
+	},
+	{
+		"created_at": "Wed Aug 18 03:29:32 +0000 2021",
+		"id": 1427826411285278700,
+		"id_str": "1427835023592497153",
+		"full_text": "[Playlist]\n\n박소은: 바다에서 맥주와 함께 곁들이는 노래\n\n지난해 발매한 [고강동] 이후 1년 5개월만의 싱글 ‘우리는 같은 음악을 듣고’로 돌아온 박소은의 플레이리스트와 짧은 인터뷰를 공개합니다.\n\nhttps://t.co/wt5xJhVscz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wt5xJhVscz",
+					"expanded_url": "https://www.highjinkxmm.com/playlist/park-so-eun-playlist",
+					"display_url": "highjinkxmm.com/playlist/park-…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/P2V4wFkAko",
+			"url": "https://t.co/oAPJfxeB46",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAPJfxeB46",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P2V4wFkAko",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 428,
+			"friends_count": 20,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Playlist]\n\n박소은: 바다에서 맥주와 함께 곁들이는 노래\n\n지난해 발매한 [고강동] 이후 1년 5개월만의 싱글 ‘우리는 같은 음악을 듣고’로 돌아온 박소은의 플레이리스트와 짧은 인터뷰를 공개합니다.\n\nhttps://t.co/wt5xJhVscz"
+	},
+	{
 		"created_at": "Wed Aug 18 03:02:30 +0000 2021",
 		"id": 1427828220217409500,
 		"id_str": "1427828220217409536",
