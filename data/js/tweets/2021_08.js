@@ -1,6 +1,704 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 18 06:07:18 +0000 2021",
+		"id": 1427874729755611100,
+		"id_str": "1427874729755611143",
+		"full_text": "#루비레코드 #Ruby_Records\n[로칼리카 2021] OBS PD 공태희, 싱어송라이터 우예린 한국과 일본 음악 토크 ep.06\nhttps://t.co/UhuaMENtzf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "루비레코드",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Ruby_Records",
+					"indices": [
+						7,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UhuaMENtzf",
+					"expanded_url": "https://youtu.be/dHLfVhMEGx4",
+					"display_url": "youtu.be/dHLfVhMEGx4",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71944,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#루비레코드 #Ruby_Records\n[로칼리카 2021] OBS PD 공태희, 싱어송라이터 우예린 한국과 일본 음악 토크 ep.06\nhttps://t.co/UhuaMENtzf"
+	},
+	{
+		"created_at": "Wed Aug 18 05:49:44 +0000 2021",
+		"id": 1427870307923251200,
+		"id_str": "1427870307923251202",
+		"full_text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n순한맛부터 매운맛까지 11곡으로 끝내는 실리카겔 입문 | PLAYLIST\nhttps://t.co/VPCxk49uKS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MAGIC_STRAWBERRY_SOUND",
+					"indices": [
+						12,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VPCxk49uKS",
+					"expanded_url": "https://youtu.be/e5VpFjZnUeo",
+					"display_url": "youtu.be/e5VpFjZnUeo",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71944,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n순한맛부터 매운맛까지 11곡으로 끝내는 실리카겔 입문 | PLAYLIST\nhttps://t.co/VPCxk49uKS"
+	},
+	{
+		"created_at": "Wed Aug 18 05:29:34 +0000 2021",
+		"id": 1427864876441952300,
+		"id_str": "1427865231007621124",
+		"full_text": "[#NEWS] 고민시, 그레이 신곡 뮤비 여주인공\n\n▶https://t.co/UnL0L9WPfy\n\n#고민시 #그레이 #MakeLove #뮤직비디오 #MV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "고민시",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "그레이",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "MakeLove",
+					"indices": [
+						65,
+						74
+					]
+				},
+				{
+					"text": "뮤직비디오",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						82,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UnL0L9WPfy",
+					"expanded_url": "https://bit.ly/3APgJvN",
+					"display_url": "bit.ly/3APgJvN",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21393,
+			"friends_count": 14,
+			"listed_count": 0,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6171,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 고민시, 그레이 신곡 뮤비 여주인공\n\n▶https://t.co/UnL0L9WPfy\n\n#고민시 #그레이 #MakeLove #뮤직비디오 #MV"
+	},
+	{
+		"created_at": "Wed Aug 18 05:29:32 +0000 2021",
+		"id": 1427863600975077400,
+		"id_str": "1427865222111432712",
+		"full_text": "⠀\nDAILY MIRRORBALL MUSIC | 210818 WED\n⠀\n🔸 우리같은사람들 [별자리]\n🔸 Subok [안녕, 나의 아침]\n🔸 최아임 [S.T.O.P]\n🔸 Kinn (킨) [뭐든 다 (Whatever)]\n\n#우리같은사람들 #Subok #최아임 #Kinn #미러볼뮤직 #인디음악 #음스타그램\n⠀ https://t.co/pXm8MP09jP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우리같은사람들",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"text": "Subok",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "최아임",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "Kinn",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "음스타그램",
+					"indices": [
+						162,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1427863439481794600,
+					"id_str": "1427863439481794561",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1427863439481794561/pu/img/M05jDZrwlwSMSECe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1427863439481794561/pu/img/M05jDZrwlwSMSECe.jpg",
+					"url": "https://t.co/pXm8MP09jP",
+					"display_url": "pic.twitter.com/pXm8MP09jP",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1427863600975077376/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427863439481794600,
+					"id_str": "1427863439481794561",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1427863439481794561/pu/img/M05jDZrwlwSMSECe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1427863439481794561/pu/img/M05jDZrwlwSMSECe.jpg",
+					"url": "https://t.co/pXm8MP09jP",
+					"display_url": "pic.twitter.com/pXm8MP09jP",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1427863600975077376/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 56056,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1427863439481794561/pu/vid/540x540/jVBsP0ZJVt0099OL.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1427863439481794561/pu/vid/320x320/H5jMND2JjvKpGHpu.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1427863439481794561/pu/pl/KHPZYreM20O_5lRn.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1427863439481794561/pu/vid/720x720/rs5ROt0eWzavoff4.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9476,
+			"friends_count": 2673,
+			"listed_count": 247,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1627032310",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⠀\nDAILY MIRRORBALL MUSIC | 210818 WED\n⠀\n🔸 우리같은사람들 [별자리]\n🔸 Subok [안녕, 나의 아침]\n🔸 최아임 [S.T.O.P]\n🔸 Kinn (킨) [뭐든 다 (Whatever)]\n\n#우리같은사람들 #Subok #최아임 #Kinn #미러볼뮤직 #인디음악 #음스타그램\n⠀ https://t.co/pXm8MP09jP"
+	},
+	{
 		"created_at": "Wed Aug 18 05:02:17 +0000 2021",
 		"id": 1427858365099782100,
 		"id_str": "1427858365099782150",
