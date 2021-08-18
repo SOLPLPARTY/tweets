@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 18 06:29:34 +0000 2021",
+		"id": 1427878727946412000,
+		"id_str": "1427880331789672452",
+		"full_text": "[Audio] #루시드폴\n\n매주 화요일 오후 12시, FLO 앱을 통해 만나 보실 수 있는 &lt;루시드폴의 사운드 제주&gt; 2회 '제주도 숲을 걸으면 만날 수 있는 소리'가 공개되었습니다. 제주를 담은 다양한 소리를 감상해보세요✨\n\n🔊https://t.co/RRQDC757hk\n\n@lucid_fall_jo #루시드폴의사운드제주 #FLO https://t.co/Xb11c1V2YR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "루시드폴",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "루시드폴의사운드제주",
+					"indices": [
+						174,
+						185
+					]
+				},
+				{
+					"text": "FLO",
+					"indices": [
+						186,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lucid_fall_jo",
+					"name": "Lucid Fall",
+					"id": 115856799,
+					"id_str": "115856799",
+					"indices": [
+						159,
+						173
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RRQDC757hk",
+					"expanded_url": "http://flomuz.io/s/a.BFBwz",
+					"display_url": "flomuz.io/s/a.BFBwz",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427878710862966800,
+					"id_str": "1427878710862966789",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/E9DYH09UcAUorEI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9DYH09UcAUorEI.jpg",
+					"url": "https://t.co/Xb11c1V2YR",
+					"display_url": "pic.twitter.com/Xb11c1V2YR",
+					"expanded_url": "https://twitter.com/antennamusic/status/1427878727946412036/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427878710862966800,
+					"id_str": "1427878710862966789",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/E9DYH09UcAUorEI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9DYH09UcAUorEI.jpg",
+					"url": "https://t.co/Xb11c1V2YR",
+					"display_url": "pic.twitter.com/Xb11c1V2YR",
+					"expanded_url": "https://twitter.com/antennamusic/status/1427878727946412036/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1427878710854623200,
+					"id_str": "1427878710854623236",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/E9DYH07VIAQwxtG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9DYH07VIAQwxtG.jpg",
+					"url": "https://t.co/Xb11c1V2YR",
+					"display_url": "pic.twitter.com/Xb11c1V2YR",
+					"expanded_url": "https://twitter.com/antennamusic/status/1427878727946412036/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1427878710850375700,
+					"id_str": "1427878710850375681",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/E9DYH06UUAEA6_d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9DYH06UUAEA6_d.jpg",
+					"url": "https://t.co/Xb11c1V2YR",
+					"display_url": "pic.twitter.com/Xb11c1V2YR",
+					"expanded_url": "https://twitter.com/antennamusic/status/1427878727946412036/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1427878710863024000,
+					"id_str": "1427878710863024141",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/E9DYH09VUA0_71G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9DYH09VUA0_71G.jpg",
+					"url": "https://t.co/Xb11c1V2YR",
+					"display_url": "pic.twitter.com/Xb11c1V2YR",
+					"expanded_url": "https://twitter.com/antennamusic/status/1427878727946412036/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 권진아 Summer Single 'KNOCK (With 박문치)' 2021. 07. 27. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36915,
+			"friends_count": 10,
+			"listed_count": 0,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Audio] #루시드폴\n\n매주 화요일 오후 12시, FLO 앱을 통해 만나 보실 수 있는 &lt;루시드폴의 사운드 제주&gt; 2회 '제주도 숲을 걸으면 만날 수 있는 소리'가 공개되었습니다. 제주를 담은 다양한 소리를 감상해보세요✨\n\n🔊https://t.co/RRQDC757hk\n\n@lucid_fall_jo #루시드폴의사운드제주 #FLO https://t.co/Xb11c1V2YR"
+	},
+	{
 		"created_at": "Wed Aug 18 06:07:18 +0000 2021",
 		"id": 1427874729755611100,
 		"id_str": "1427874729755611143",
