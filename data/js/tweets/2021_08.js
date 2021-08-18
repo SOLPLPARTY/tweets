@@ -1,6 +1,417 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 18 10:11:47 +0000 2021",
+		"id": 1427924592882970600,
+		"id_str": "1427936252834295808",
+		"full_text": "✨ 김일두의 작은 독무대 𝗗-𝗗𝗮𝘆!\n씨티알싸운드 유튜브 채널에서 생중계를 진행합니다!\n많이들 보러 오이소~ https://t.co/devBfcmqG5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1427924581377974300,
+					"id_str": "1427924581377974278",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/E9EB118VIAYZo7C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9EB118VIAYZo7C.jpg",
+					"url": "https://t.co/devBfcmqG5",
+					"display_url": "pic.twitter.com/devBfcmqG5",
+					"expanded_url": "https://twitter.com/ctrsound/status/1427924592882970628/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1154,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 676,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427924581377974300,
+					"id_str": "1427924581377974278",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/E9EB118VIAYZo7C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9EB118VIAYZo7C.jpg",
+					"url": "https://t.co/devBfcmqG5",
+					"display_url": "pic.twitter.com/devBfcmqG5",
+					"expanded_url": "https://twitter.com/ctrsound/status/1427924592882970628/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1154,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 676,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 925630800,
+			"id_str": "925630800",
+			"name": "씨티알싸운드",
+			"screen_name": "ctrsound",
+			"location": "제비다방 2층",
+			"description": "원피스매거진과 제비다방, 씨티알폼(건축) 등을 운영하고 있는 ‘문화지형연구소 씨티알’ 에서 록큰롤의 부흥과 음주가무 문화의 정착을 위해 시작한 ‘씨티알싸운드'는 제비다방에서 인디 뮤지션들의 공연을 기획하고 있으며 뮤지션들과 함께 대한민국의 아름다운 음반문화 정착을 위해 노력하고 있다",
+			"url": "https://t.co/qBjJ0F3Nf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qBjJ0F3Nf5",
+							"expanded_url": "http://www.ctrplus.com",
+							"display_url": "ctrplus.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269,
+			"friends_count": 201,
+			"listed_count": 0,
+			"created_at": "Sun Nov 04 16:14:55 +0000 2012",
+			"favourites_count": 96,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/694932642605563905/6sfNnDNC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/694932642605563905/6sfNnDNC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨ 김일두의 작은 독무대 𝗗-𝗗𝗮𝘆!\n씨티알싸운드 유튜브 채널에서 생중계를 진행합니다!\n많이들 보러 오이소~ https://t.co/devBfcmqG5"
+	},
+	{
+		"created_at": "Wed Aug 18 09:29:28 +0000 2021",
+		"id": 1427918268736495600,
+		"id_str": "1427925604096163842",
+		"full_text": "[Track Video #BLUEEYES]\n권은비(KWON EUN BI) 1st Mini Album [OPEN]\n\nhttps://t.co/QnH9vdEi3n\nhttps://t.co/ehqeXNwvuW\n\n#권은비 #KwonEunBi\n#OPEN #debut #20210824_6PM https://t.co/QW0SSjvKy5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BLUEEYES",
+					"indices": [
+						13,
+						22
+					]
+				},
+				{
+					"text": "권은비",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "KwonEunBi",
+					"indices": [
+						118,
+						128
+					]
+				},
+				{
+					"text": "OPEN",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "debut",
+					"indices": [
+						135,
+						141
+					]
+				},
+				{
+					"text": "20210824_6PM",
+					"indices": [
+						142,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QnH9vdEi3n",
+					"expanded_url": "https://youtu.be/dkViLvxYIEk",
+					"display_url": "youtu.be/dkViLvxYIEk",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/ehqeXNwvuW",
+					"expanded_url": "https://www.vlive.tv/post/0-24836894",
+					"display_url": "vlive.tv/post/0-24836894",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1427918263275585500,
+					"id_str": "1427918263275585536",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/E9D8GFLVgAAEyAZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9D8GFLVgAAEyAZ.jpg",
+					"url": "https://t.co/QW0SSjvKy5",
+					"display_url": "pic.twitter.com/QW0SSjvKy5",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1427918268736495618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427918263275585500,
+					"id_str": "1427918263275585536",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/E9D8GFLVgAAEyAZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9D8GFLVgAAEyAZ.jpg",
+					"url": "https://t.co/QW0SSjvKy5",
+					"display_url": "pic.twitter.com/QW0SSjvKy5",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1427918268736495618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTuZ29E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTuZ29E",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 431410,
+			"friends_count": 11,
+			"listed_count": 1920,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1628673097",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 694,
+		"favorite_count": 1640,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "[Track Video #BLUEEYES]\n권은비(KWON EUN BI) 1st Mini Album [OPEN]\n\nhttps://t.co/QnH9vdEi3n\nhttps://t.co/ehqeXNwvuW\n\n#권은비 #KwonEunBi\n#OPEN #debut #20210824_6PM https://t.co/QW0SSjvKy5"
+	},
+	{
 		"created_at": "Wed Aug 18 09:11:58 +0000 2021",
 		"id": 1427921201444397000,
 		"id_str": "1427921201444397057",
