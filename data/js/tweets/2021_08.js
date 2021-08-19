@@ -1,6 +1,1060 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 19 10:04:53 +0000 2021",
+		"id": 1428296904169902000,
+		"id_str": "1428296904169902081",
+		"full_text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n오핑 첫 정규 앨범 [Paradise Is Where We Are] 발매 인터뷰\nhttps://t.co/MfkqPE9ntF\n#Album_Special #매스사 https://t.co/0PzMhztCKZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MagicStrawberrySound",
+					"indices": [
+						12,
+						33
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"text": "Album_Special",
+					"indices": [
+						111,
+						125
+					]
+				},
+				{
+					"text": "매스사",
+					"indices": [
+						126,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MfkqPE9ntF",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=32198056&memberNo=838758&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1428296903234556000,
+					"id_str": "1428296903234555907",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/E9JUd08WEAMMyi6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9JUd08WEAMMyi6.jpg",
+					"url": "https://t.co/0PzMhztCKZ",
+					"display_url": "pic.twitter.com/0PzMhztCKZ",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1428296904169902081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428296903234556000,
+					"id_str": "1428296903234555907",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/E9JUd08WEAMMyi6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9JUd08WEAMMyi6.jpg",
+					"url": "https://t.co/0PzMhztCKZ",
+					"display_url": "pic.twitter.com/0PzMhztCKZ",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1428296904169902081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72000,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n오핑 첫 정규 앨범 [Paradise Is Where We Are] 발매 인터뷰\nhttps://t.co/MfkqPE9ntF\n#Album_Special #매스사 https://t.co/0PzMhztCKZ"
+	},
+	{
+		"created_at": "Thu Aug 19 09:29:52 +0000 2021",
+		"id": 1428286523242209300,
+		"id_str": "1428288094688751618",
+		"full_text": "I'm so thirsty\n\n2021.08.25 WED 12PM\n최첼로(Choi Cello), Single 'Thirsty'\n\n#최첼로 #ChoiCello #Thirsty https://t.co/NtWJcoL8UI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최첼로",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "ChoiCello",
+					"indices": [
+						76,
+						86
+					]
+				},
+				{
+					"text": "Thirsty",
+					"indices": [
+						87,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1428286516590047200,
+					"id_str": "1428286516590047233",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/E9JLBPrUcAEbXvJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9JLBPrUcAEbXvJ.jpg",
+					"url": "https://t.co/NtWJcoL8UI",
+					"display_url": "pic.twitter.com/NtWJcoL8UI",
+					"expanded_url": "https://twitter.com/inplanet/status/1428286523242209281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428286516590047200,
+					"id_str": "1428286516590047233",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/E9JLBPrUcAEbXvJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9JLBPrUcAEbXvJ.jpg",
+					"url": "https://t.co/NtWJcoL8UI",
+					"display_url": "pic.twitter.com/NtWJcoL8UI",
+					"expanded_url": "https://twitter.com/inplanet/status/1428286523242209281/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1447,
+			"friends_count": 775,
+			"listed_count": 0,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 110,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm so thirsty\n\n2021.08.25 WED 12PM\n최첼로(Choi Cello), Single 'Thirsty'\n\n#최첼로 #ChoiCello #Thirsty https://t.co/NtWJcoL8UI"
+	},
+	{
+		"created_at": "Thu Aug 19 09:29:43 +0000 2021",
+		"id": 1428283941987881000,
+		"id_str": "1428288056390471685",
+		"full_text": "⭐8월 25일 보라미유 컴백⭐\n\n바로 어제 보라미유가 인스타그램 라이브를 통해 따끈따끈한 신곡 발매 소식을 알렸는데요! 벌써부터 중독된 것 같은 따따따따라따따-✨😜\n▷ https://t.co/izRfK36Wwt\n\n8월 25일 수요일 오후 6시 많관부💜\n⠀\n#보라미유 #Boramiyu\n#보라미유_따따따따라따따",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보라미유",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "Boramiyu",
+					"indices": [
+						149,
+						158
+					]
+				},
+				{
+					"text": "보라미유_따따따따라따따",
+					"indices": [
+						159,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/izRfK36Wwt",
+					"expanded_url": "https://www.instagram.com/reel/CSwAxVRFeOy/",
+					"display_url": "instagram.com/reel/CSwAxVRFe…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/VtrzF3mRza",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VtrzF3mRza",
+							"expanded_url": "http://shofar-ent.com",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7759,
+			"friends_count": 4,
+			"listed_count": 66,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4450,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1628848580",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⭐8월 25일 보라미유 컴백⭐\n\n바로 어제 보라미유가 인스타그램 라이브를 통해 따끈따끈한 신곡 발매 소식을 알렸는데요! 벌써부터 중독된 것 같은 따따따따라따따-✨😜\n▷ https://t.co/izRfK36Wwt\n\n8월 25일 수요일 오후 6시 많관부💜\n⠀\n#보라미유 #Boramiyu\n#보라미유_따따따따라따따"
+	},
+	{
+		"created_at": "Thu Aug 19 09:29:36 +0000 2021",
+		"id": 1428283329917296600,
+		"id_str": "1428288026019569668",
+		"full_text": "[나히]\n🍋청량하고 상큼한🍋\n나히의 '권진아 - Knock' 커버!아래 링크를 통해 들으러 오세요!\n\n▶ https://t.co/IeONO8599D\n\n#나히 #music #커버곡 #음악스타그램 #knock https://t.co/DPCfP5LDFn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나히",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "music",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "커버곡",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "음악스타그램",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "knock",
+					"indices": [
+						108,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IeONO8599D",
+					"expanded_url": "https://bit.ly/3sxpwPT",
+					"display_url": "bit.ly/3sxpwPT",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1428283166561738800,
+					"id_str": "1428283166561738756",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428283166561738756/pu/img/wXDnGpYqJ6Gf8EEE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428283166561738756/pu/img/wXDnGpYqJ6Gf8EEE.jpg",
+					"url": "https://t.co/DPCfP5LDFn",
+					"display_url": "pic.twitter.com/DPCfP5LDFn",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1428283329917296640/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428283166561738800,
+					"id_str": "1428283166561738756",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428283166561738756/pu/img/wXDnGpYqJ6Gf8EEE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428283166561738756/pu/img/wXDnGpYqJ6Gf8EEE.jpg",
+					"url": "https://t.co/DPCfP5LDFn",
+					"display_url": "pic.twitter.com/DPCfP5LDFn",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1428283329917296640/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 52600,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1428283166561738756/pu/pl/mWPCSEYiHOuJmO1v.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428283166561738756/pu/vid/720x720/I6YqwHmfvuvbcsfv.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428283166561738756/pu/vid/540x540/m3Am7wh-2a12J1Jm.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428283166561738756/pu/vid/320x320/GDRA9IaID9Guda5N.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/에버루아/아일",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 810,
+			"friends_count": 7,
+			"listed_count": 17,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[나히]\n🍋청량하고 상큼한🍋\n나히의 '권진아 - Knock' 커버!아래 링크를 통해 들으러 오세요!\n\n▶ https://t.co/IeONO8599D\n\n#나히 #music #커버곡 #음악스타그램 #knock https://t.co/DPCfP5LDFn"
+	},
+	{
+		"created_at": "Thu Aug 19 09:29:34 +0000 2021",
+		"id": 1428280648406474800,
+		"id_str": "1428288017127587847",
+		"full_text": "[Track Video #DOOR]\n권은비(KWON EUN BI) 1st Mini Album [OPEN]\n\nhttps://t.co/r3GO1P8bJ3\nhttps://t.co/Gg49sx0a0E\n\n#권은비 #KwonEunBi\n#OPEN #debut #20210824_6PM https://t.co/A7cvmPQNTu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DOOR",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "권은비",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "KwonEunBi",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"text": "OPEN",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "debut",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "20210824_6PM",
+					"indices": [
+						138,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r3GO1P8bJ3",
+					"expanded_url": "https://youtu.be/hDpPvUL31Ms",
+					"display_url": "youtu.be/hDpPvUL31Ms",
+					"indices": [
+						60,
+						83
+					]
+				},
+				{
+					"url": "https://t.co/Gg49sx0a0E",
+					"expanded_url": "https://www.vlive.tv/post/0-24854767",
+					"display_url": "vlive.tv/post/0-24854767",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1428280642744164400,
+					"id_str": "1428280642744164360",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/E9JFrV5VIAgx-Jl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9JFrV5VIAgx-Jl.jpg",
+					"url": "https://t.co/A7cvmPQNTu",
+					"display_url": "pic.twitter.com/A7cvmPQNTu",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1428280648406474752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428280642744164400,
+					"id_str": "1428280642744164360",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/E9JFrV5VIAgx-Jl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9JFrV5VIAgx-Jl.jpg",
+					"url": "https://t.co/A7cvmPQNTu",
+					"display_url": "pic.twitter.com/A7cvmPQNTu",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1428280648406474752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTuZ29E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTuZ29E",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 431422,
+			"friends_count": 11,
+			"listed_count": 1923,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1628673097",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 446,
+		"favorite_count": 1098,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "[Track Video #DOOR]\n권은비(KWON EUN BI) 1st Mini Album [OPEN]\n\nhttps://t.co/r3GO1P8bJ3\nhttps://t.co/Gg49sx0a0E\n\n#권은비 #KwonEunBi\n#OPEN #debut #20210824_6PM https://t.co/A7cvmPQNTu"
+	},
+	{
 		"created_at": "Thu Aug 19 09:17:37 +0000 2021",
 		"id": 1428285011518763000,
 		"id_str": "1428285011518763013",
