@@ -1,6 +1,666 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 19 03:10:11 +0000 2021",
+		"id": 1428192542542160000,
+		"id_str": "1428192542542159876",
+		"full_text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n[Full Album] 오핑 (Offing) - 'Paradise Is Where We Are'\nhttps://t.co/Hm5Nc3oWyM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MAGIC_STRAWBERRY_SOUND",
+					"indices": [
+						12,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Hm5Nc3oWyM",
+					"expanded_url": "https://youtu.be/Fod8Ai_6NSc",
+					"display_url": "youtu.be/Fod8Ai_6NSc",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71969,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n[Full Album] 오핑 (Offing) - 'Paradise Is Where We Are'\nhttps://t.co/Hm5Nc3oWyM"
+	},
+	{
+		"created_at": "Thu Aug 19 03:10:10 +0000 2021",
+		"id": 1428192540038152200,
+		"id_str": "1428192540038152199",
+		"full_text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n오핑 (Offing) - Fish Tank [Lyric Video]\nhttps://t.co/VcI4iQJQmq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MAGIC_STRAWBERRY_SOUND",
+					"indices": [
+						12,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VcI4iQJQmq",
+					"expanded_url": "https://youtu.be/iZxlYgNug-4",
+					"display_url": "youtu.be/iZxlYgNug-4",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71969,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#매직스트로베리사운드 #MAGIC_STRAWBERRY_SOUND\n오핑 (Offing) - Fish Tank [Lyric Video]\nhttps://t.co/VcI4iQJQmq"
+	},
+	{
+		"created_at": "Thu Aug 19 02:29:46 +0000 2021",
+		"id": 1428181644427464700,
+		"id_str": "1428182372193820673",
+		"full_text": "📀LP 구성\n1. 레인보우 노트 [Animation]\n2. [장덕 Tribute Project] \n3. 이장혁 [정규 2집], [정규 3집] \n\n▼펀딩하러 가기▼\nhttps://t.co/TnXAMEygUx...\n\n📅타임라인\n프로젝트 종료일 : 8월 23일 (월)\n결제 8월 24일~27일\n배송 8월 30일 이후 ~ 3개월 이내",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TnXAMEygUx",
+					"expanded_url": "https://www.wadiz.kr/web/campaign/det",
+					"display_url": "wadiz.kr/web/campaign/d…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1428181643030790100,
+		"in_reply_to_status_id_str": "1428181643030790148",
+		"in_reply_to_user_id": 110930534,
+		"in_reply_to_user_id_str": "110930534",
+		"in_reply_to_screen_name": "ruby_records",
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7688,
+			"friends_count": 8365,
+			"listed_count": 198,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📀LP 구성\n1. 레인보우 노트 [Animation]\n2. [장덕 Tribute Project] \n3. 이장혁 [정규 2집], [정규 3집] \n\n▼펀딩하러 가기▼\nhttps://t.co/TnXAMEygUx...\n\n📅타임라인\n프로젝트 종료일 : 8월 23일 (월)\n결제 8월 24일~27일\n배송 8월 30일 이후 ~ 3개월 이내"
+	},
+	{
+		"created_at": "Thu Aug 19 02:29:38 +0000 2021",
+		"id": 1428181643030790100,
+		"id_str": "1428182338140360722",
+		"full_text": "[#와디즈펀딩] 모트와 레인보우 노트가 참여한 [장덕 Tribute Project]!\n잘 듣고 계신가요?\n레인보우 노트 슬희와 모트가 직접 소개한 [장덕 Tribute Project],\n바로 보러 가시죠!\n▶https://t.co/s6CttCdePG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "와디즈펀딩",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s6CttCdePG",
+					"expanded_url": "https://youtu.be/Tchvnj5oUOU",
+					"display_url": "youtu.be/Tchvnj5oUOU",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7688,
+			"friends_count": 8365,
+			"listed_count": 198,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#와디즈펀딩] 모트와 레인보우 노트가 참여한 [장덕 Tribute Project]!\n잘 듣고 계신가요?\n레인보우 노트 슬희와 모트가 직접 소개한 [장덕 Tribute Project],\n바로 보러 가시죠!\n▶https://t.co/s6CttCdePG"
+	},
+	{
+		"created_at": "Thu Aug 19 02:29:30 +0000 2021",
+		"id": 1428177296213504000,
+		"id_str": "1428182304032235524",
+		"full_text": "[#NEWS] 김성은, 파격 절개 드레스도 완벽 소화 [화보]\n\n▶ https://t.co/sGD8DhnhYU\n\n#김성은 #맥앤지나 #화보",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "김성은",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "맥앤지나",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "화보",
+					"indices": [
+						74,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sGD8DhnhYU",
+					"expanded_url": "https://bit.ly/3iWn4iX",
+					"display_url": "bit.ly/3iWn4iX",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21393,
+			"friends_count": 14,
+			"listed_count": 236,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 김성은, 파격 절개 드레스도 완벽 소화 [화보]\n\n▶ https://t.co/sGD8DhnhYU\n\n#김성은 #맥앤지나 #화보"
+	},
+	{
 		"created_at": "Wed Aug 18 16:29:24 +0000 2021",
 		"id": 1428022313061023700,
 		"id_str": "1428031286027997186",
