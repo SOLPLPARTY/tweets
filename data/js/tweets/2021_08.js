@@ -1,6 +1,1090 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 19 06:29:56 +0000 2021",
+		"id": 1428242075456131000,
+		"id_str": "1428242812525502466",
+		"full_text": "이것은 40여 년 전의 이야기지만 아직도 진행 중인 어떤 흐름이다. 40년 전, 뉴 로맨티시즘이라 불리웠던 일단의 변화들 이후 연산과 전송속도, 클라우드 컴퓨팅과 가상 소자 등의 가공할 발전은 오늘날 음악을 거의 완벽한 꿈이나 허구로 전환 시키기에 충분했다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1428242010213732400,
+		"in_reply_to_status_id_str": "1428242010213732355",
+		"in_reply_to_user_id": 1302973592448036900,
+		"in_reply_to_user_id_str": "1302973592448036869",
+		"in_reply_to_screen_name": "dooroomi_c",
+		"user": {
+			"id": 1302973592448036900,
+			"id_str": "1302973592448036869",
+			"name": "두루미 흥업",
+			"screen_name": "dooroomi_c",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/w0g5ZZkoX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w0g5ZZkoX6",
+							"expanded_url": "http://drmicp.com",
+							"display_url": "drmicp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 135,
+			"friends_count": 194,
+			"listed_count": 1,
+			"created_at": "Mon Sep 07 14:14:53 +0000 2020",
+			"favourites_count": 693,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1302973592448036869/1628405842",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이것은 40여 년 전의 이야기지만 아직도 진행 중인 어떤 흐름이다. 40년 전, 뉴 로맨티시즘이라 불리웠던 일단의 변화들 이후 연산과 전송속도, 클라우드 컴퓨팅과 가상 소자 등의 가공할 발전은 오늘날 음악을 거의 완벽한 꿈이나 허구로 전환 시키기에 충분했다."
+	},
+	{
+		"created_at": "Thu Aug 19 06:29:54 +0000 2021",
+		"id": 1428242010213732400,
+		"id_str": "1428242803612700680",
+		"full_text": "마침 그 시기는 테크놀로지의 급격한 발전에 힘입어 “음악의 자동화”가 현실로 이뤄지고 있었다. 발라드에게 영향받은 젊은이들은 일련의 기타 코드(chords)를 버리고 Korg 700s 같은 신시사이저를 구입, 가만히 서서 키를 누르고 있는 것으로 비인간적 표현과 행동을 대신했다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1428240410820767700,
+		"in_reply_to_status_id_str": "1428240410820767751",
+		"in_reply_to_user_id": 1302973592448036900,
+		"in_reply_to_user_id_str": "1302973592448036869",
+		"in_reply_to_screen_name": "dooroomi_c",
+		"user": {
+			"id": 1302973592448036900,
+			"id_str": "1302973592448036869",
+			"name": "두루미 흥업",
+			"screen_name": "dooroomi_c",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/w0g5ZZkoX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w0g5ZZkoX6",
+							"expanded_url": "http://drmicp.com",
+							"display_url": "drmicp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 135,
+			"friends_count": 194,
+			"listed_count": 1,
+			"created_at": "Mon Sep 07 14:14:53 +0000 2020",
+			"favourites_count": 693,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1302973592448036869/1628405842",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "마침 그 시기는 테크놀로지의 급격한 발전에 힘입어 “음악의 자동화”가 현실로 이뤄지고 있었다. 발라드에게 영향받은 젊은이들은 일련의 기타 코드(chords)를 버리고 Korg 700s 같은 신시사이저를 구입, 가만히 서서 키를 누르고 있는 것으로 비인간적 표현과 행동을 대신했다."
+	},
+	{
+		"created_at": "Thu Aug 19 06:29:48 +0000 2021",
+		"id": 1428240410820767700,
+		"id_str": "1428242777855365123",
+		"full_text": "#김일두 #Review : 소설을 통해 발라드는 디스토피아와 유토피아가 교차하는 스윗 스팟을, 새로운 융합을 짚어나가면서 꿈은 종종 사악하다는 것을 상기시켰는데 이러한 스타일은 몇 년이 흐르자 동시대 젊은이들과 팝 음악에 곧바로 전이되었다. https://t.co/fv8DWSxBxc https://t.co/NqL40s86JU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김일두",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "Review",
+					"indices": [
+						5,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fv8DWSxBxc",
+					"expanded_url": "https://drmicp.com/M3g",
+					"display_url": "drmicp.com/M3g",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1428240406915862500,
+					"id_str": "1428240406915862530",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/E9IhFTwUUAIO2Iu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9IhFTwUUAIO2Iu.jpg",
+					"url": "https://t.co/NqL40s86JU",
+					"display_url": "pic.twitter.com/NqL40s86JU",
+					"expanded_url": "https://twitter.com/dooroomi_c/status/1428240410820767751/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 732,
+							"h": 732,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 732,
+							"h": 732,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428240406915862500,
+					"id_str": "1428240406915862530",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/E9IhFTwUUAIO2Iu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9IhFTwUUAIO2Iu.jpg",
+					"url": "https://t.co/NqL40s86JU",
+					"display_url": "pic.twitter.com/NqL40s86JU",
+					"expanded_url": "https://twitter.com/dooroomi_c/status/1428240410820767751/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 732,
+							"h": 732,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 732,
+							"h": 732,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1428240406911717400,
+					"id_str": "1428240406911717378",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/E9IhFTvVEAISd5z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9IhFTvVEAISd5z.jpg",
+					"url": "https://t.co/NqL40s86JU",
+					"display_url": "pic.twitter.com/NqL40s86JU",
+					"expanded_url": "https://twitter.com/dooroomi_c/status/1428240410820767751/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 861,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 520,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 861,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1428240406907527200,
+					"id_str": "1428240406907527168",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/E9IhFTuVIAAKke8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9IhFTuVIAAKke8.jpg",
+					"url": "https://t.co/NqL40s86JU",
+					"display_url": "pic.twitter.com/NqL40s86JU",
+					"expanded_url": "https://twitter.com/dooroomi_c/status/1428240410820767751/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 130,
+							"h": 130,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 130,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 126,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 130,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1428240406907478000,
+					"id_str": "1428240406907478020",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/E9IhFTuUYAQtj8p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9IhFTuUYAQtj8p.jpg",
+					"url": "https://t.co/NqL40s86JU",
+					"display_url": "pic.twitter.com/NqL40s86JU",
+					"expanded_url": "https://twitter.com/dooroomi_c/status/1428240410820767751/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1302973592448036900,
+			"id_str": "1302973592448036869",
+			"name": "두루미 흥업",
+			"screen_name": "dooroomi_c",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/w0g5ZZkoX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w0g5ZZkoX6",
+							"expanded_url": "http://drmicp.com",
+							"display_url": "drmicp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 135,
+			"friends_count": 194,
+			"listed_count": 1,
+			"created_at": "Mon Sep 07 14:14:53 +0000 2020",
+			"favourites_count": 693,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1302973592448036869/1628405842",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#김일두 #Review : 소설을 통해 발라드는 디스토피아와 유토피아가 교차하는 스윗 스팟을, 새로운 융합을 짚어나가면서 꿈은 종종 사악하다는 것을 상기시켰는데 이러한 스타일은 몇 년이 흐르자 동시대 젊은이들과 팝 음악에 곧바로 전이되었다. https://t.co/fv8DWSxBxc https://t.co/NqL40s86JU"
+	},
+	{
+		"created_at": "Thu Aug 19 06:29:40 +0000 2021",
+		"id": 1428237960969801700,
+		"id_str": "1428242743768326146",
+		"full_text": "[#MUSIC_ON] 아쉬운 여름의 끝자락에 듣는 노래🌊\n여름을 붙잡는 Playlist  오픈🎧\n\n📸 MYSTIC STORY BUSINESS 2 TEAM\n🔗 https://t.co/2jBeqOU0kW\n\n#이별 #헤어진날 #플레이리스트 #미스틱스토리 #뮤직온 #PLAYLIST #MYSTICSTORY #MUSICON https://t.co/D7vAQDC3ji",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MUSIC_ON",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "이별",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "헤어진날",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "플레이리스트",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"text": "미스틱스토리",
+					"indices": [
+						131,
+						138
+					]
+				},
+				{
+					"text": "뮤직온",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						144,
+						153
+					]
+				},
+				{
+					"text": "MYSTICSTORY",
+					"indices": [
+						154,
+						166
+					]
+				},
+				{
+					"text": "MUSICON",
+					"indices": [
+						167,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2jBeqOU0kW",
+					"expanded_url": "https://youtu.be/e5sP5U7cxZw",
+					"display_url": "youtu.be/e5sP5U7cxZw",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1428237514397999000,
+					"id_str": "1428237514397999106",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428237514397999106/pu/img/jl_Ytoyekd4OZMye.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428237514397999106/pu/img/jl_Ytoyekd4OZMye.jpg",
+					"url": "https://t.co/D7vAQDC3ji",
+					"display_url": "pic.twitter.com/D7vAQDC3ji",
+					"expanded_url": "https://twitter.com/themysticstory/status/1428237960969801729/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428237514397999000,
+					"id_str": "1428237514397999106",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428237514397999106/pu/img/jl_Ytoyekd4OZMye.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428237514397999106/pu/img/jl_Ytoyekd4OZMye.jpg",
+					"url": "https://t.co/D7vAQDC3ji",
+					"display_url": "pic.twitter.com/D7vAQDC3ji",
+					"expanded_url": "https://twitter.com/themysticstory/status/1428237960969801729/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 56967,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428237514397999106/pu/vid/480x270/EoXlV09cePK7kCpO.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428237514397999106/pu/vid/640x360/v5wUIcrGKf9eTpCX.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428237514397999106/pu/vid/1280x720/CagNZQwllO99m8py.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1428237514397999106/pu/pl/rXrZH1wDXP_5gnjg.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21390,
+			"friends_count": 14,
+			"listed_count": 236,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6173,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#MUSIC_ON] 아쉬운 여름의 끝자락에 듣는 노래🌊\n여름을 붙잡는 Playlist  오픈🎧\n\n📸 MYSTIC STORY BUSINESS 2 TEAM\n🔗 https://t.co/2jBeqOU0kW\n\n#이별 #헤어진날 #플레이리스트 #미스틱스토리 #뮤직온 #PLAYLIST #MYSTICSTORY #MUSICON https://t.co/D7vAQDC3ji"
+	},
+	{
+		"created_at": "Thu Aug 19 06:29:31 +0000 2021",
+		"id": 1428237730719232000,
+		"id_str": "1428242705482764290",
+		"full_text": "#나난 #NANAN #SMTOWN #SMile #해피빈 #트리플래닛 #달빛차노을차 #대관령생태계보전숲 https://t.co/48QbdTmpGR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "나난",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "NANAN",
+					"indices": [
+						4,
+						10
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"text": "SMile",
+					"indices": [
+						19,
+						25
+					]
+				},
+				{
+					"text": "해피빈",
+					"indices": [
+						26,
+						30
+					]
+				},
+				{
+					"text": "트리플래닛",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "달빛차노을차",
+					"indices": [
+						38,
+						45
+					]
+				},
+				{
+					"text": "대관령생태계보전숲",
+					"indices": [
+						46,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1428235747996229600,
+					"id_str": "1428235747996229634",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/E9Ic2H7UYAIy-bQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9Ic2H7UYAIy-bQ.jpg",
+					"url": "https://t.co/48QbdTmpGR",
+					"display_url": "pic.twitter.com/48QbdTmpGR",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1428237730719232000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428235747996229600,
+					"id_str": "1428235747996229634",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/E9Ic2H7UYAIy-bQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9Ic2H7UYAIy-bQ.jpg",
+					"url": "https://t.co/48QbdTmpGR",
+					"display_url": "pic.twitter.com/48QbdTmpGR",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1428237730719232000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1428235748000428000,
+					"id_str": "1428235748000428040",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/E9Ic2H8UcAgo9s6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9Ic2H8UcAgo9s6.jpg",
+					"url": "https://t.co/48QbdTmpGR",
+					"display_url": "pic.twitter.com/48QbdTmpGR",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1428237730719232000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1428235748000428000,
+					"id_str": "1428235748000428036",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/E9Ic2H8UcAQxVnh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9Ic2H8UcAQxVnh.jpg",
+					"url": "https://t.co/48QbdTmpGR",
+					"display_url": "pic.twitter.com/48QbdTmpGR",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1428237730719232000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1428237714135027700,
+		"in_reply_to_status_id_str": "1428237714135027721",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9785596,
+			"friends_count": 55,
+			"listed_count": 10460,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 767,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#나난 #NANAN #SMTOWN #SMile #해피빈 #트리플래닛 #달빛차노을차 #대관령생태계보전숲 https://t.co/48QbdTmpGR"
+	},
+	{
 		"created_at": "Thu Aug 19 05:29:30 +0000 2021",
 		"id": 1428225536841506800,
 		"id_str": "1428227601764544513",
