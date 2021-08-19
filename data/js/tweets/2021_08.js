@@ -1,6 +1,1088 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 19 04:11:16 +0000 2021",
+		"id": 1428207087318798300,
+		"id_str": "1428207917107449859",
+		"full_text": "직장인, 구직자들의 존엄성을 위하여 &lt; 희망한 적 없는 희망퇴직 &gt; 이 공상온도 온라인스토어와 오프라인에 모두 입고되어있요! 공상온도 스토어에서 만나보세요!\n.\nhttps://t.co/d7i5lMqQTc\nhttps://t.co/XipgX8L2sV https://t.co/PP6fFyohfy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7i5lMqQTc",
+					"expanded_url": "http://www.gongsangondo.com",
+					"display_url": "gongsangondo.com",
+					"indices": [
+						96,
+						119
+					]
+				},
+				{
+					"url": "https://t.co/XipgX8L2sV",
+					"expanded_url": "http://smartstore.naver.com/gongsangondo",
+					"display_url": "smartstore.naver.com/gongsangondo",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1428207080922513400,
+					"id_str": "1428207080922513411",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/E9ICxewVgAMYXis.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9ICxewVgAMYXis.jpg",
+					"url": "https://t.co/PP6fFyohfy",
+					"display_url": "pic.twitter.com/PP6fFyohfy",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1428207087318798339/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428207080922513400,
+					"id_str": "1428207080922513411",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/E9ICxewVgAMYXis.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9ICxewVgAMYXis.jpg",
+					"url": "https://t.co/PP6fFyohfy",
+					"display_url": "pic.twitter.com/PP6fFyohfy",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1428207087318798339/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 376,
+			"friends_count": 210,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2984,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "직장인, 구직자들의 존엄성을 위하여 &lt; 희망한 적 없는 희망퇴직 &gt; 이 공상온도 온라인스토어와 오프라인에 모두 입고되어있요! 공상온도 스토어에서 만나보세요!\n.\nhttps://t.co/d7i5lMqQTc\nhttps://t.co/XipgX8L2sV https://t.co/PP6fFyohfy"
+	},
+	{
+		"created_at": "Thu Aug 19 03:58:19 +0000 2021",
+		"id": 1428190140619313200,
+		"id_str": "1428204655750885379",
+		"full_text": "[2nd LINEUP HINT] アーティストとファンの心を繋ぐKCON:TACT HI 5🖐 \nKCON-ersと交流するアーティストのLIVE配信の中に隠れているヒント！\nコメントに書かれた絵文字を確認してみてください💕 \n\n#KCONTACT #KCONTACTHI5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						116,
+						125
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						126,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1428190060432687000,
+		"in_reply_to_status_id_str": "1428190060432687104",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 385260,
+			"friends_count": 75,
+			"listed_count": 1005,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "[2nd LINEUP HINT] アーティストとファンの心を繋ぐKCON:TACT HI 5🖐 \nKCON-ersと交流するアーティストのLIVE配信の中に隠れているヒント！\nコメントに書かれた絵文字を確認してみてください💕 \n\n#KCONTACT #KCONTACTHI5"
+	},
+	{
+		"created_at": "Thu Aug 19 03:58:17 +0000 2021",
+		"id": 1428190060432687000,
+		"id_str": "1428204646913515523",
+		"full_text": "[2nd LINEUP HINT] 아티스트와 팬들의 마음을 잇는 KCON:TACT HI 5🖐 \nKCON-ers와 소통하는 아티스트의 라방 속 숨겨진 힌트!\n댓글에 남겨진 이모지를 확인해보세요💕 \n\n#KCONTACT #KCONTACTHI5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						109,
+						118
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						119,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1428189989498757000,
+		"in_reply_to_status_id_str": "1428189989498757121",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 385260,
+			"friends_count": 75,
+			"listed_count": 1005,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[2nd LINEUP HINT] 아티스트와 팬들의 마음을 잇는 KCON:TACT HI 5🖐 \nKCON-ers와 소통하는 아티스트의 라방 속 숨겨진 힌트!\n댓글에 남겨진 이모지를 확인해보세요💕 \n\n#KCONTACT #KCONTACTHI5"
+	},
+	{
+		"created_at": "Thu Aug 19 03:58:15 +0000 2021",
+		"id": 1428189989498757000,
+		"id_str": "1428204638092808195",
+		"full_text": "[2nd LINEUP HINT] KCON:TACT HI 5 links artists and fans together🖐\nLook for the hints hidden in the artists' LIVE with KCON-ers!\nFind out what each emoji means in the chat💕 \n\n#KCONTACT #KCONTACTHI5 https://t.co/a7nGSIT0Xd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						174,
+						183
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						184,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1427936000458719200,
+					"id_str": "1427936000458719237",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1427936000458719237/pu/img/NiYYJvP6GHhkXdoG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1427936000458719237/pu/img/NiYYJvP6GHhkXdoG.jpg",
+					"url": "https://t.co/a7nGSIT0Xd",
+					"display_url": "pic.twitter.com/a7nGSIT0Xd",
+					"expanded_url": "https://twitter.com/KCON_official/status/1428189989498757121/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427936000458719200,
+					"id_str": "1427936000458719237",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1427936000458719237/pu/img/NiYYJvP6GHhkXdoG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1427936000458719237/pu/img/NiYYJvP6GHhkXdoG.jpg",
+					"url": "https://t.co/a7nGSIT0Xd",
+					"display_url": "pic.twitter.com/a7nGSIT0Xd",
+					"expanded_url": "https://twitter.com/KCON_official/status/1428189989498757121/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 63196,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1427936000458719237/pu/vid/320x568/A_YBbaRqcpYgmRwf.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1427936000458719237/pu/vid/720x1280/hen1GAak36cQvr59.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1427936000458719237/pu/pl/XOWevTRsxj9wkdQL.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1427936000458719237/pu/vid/480x852/5Gn8ZNE_my0HH29Q.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 385260,
+			"friends_count": 75,
+			"listed_count": 1005,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 542,
+		"favorite_count": 773,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[2nd LINEUP HINT] KCON:TACT HI 5 links artists and fans together🖐\nLook for the hints hidden in the artists' LIVE with KCON-ers!\nFind out what each emoji means in the chat💕 \n\n#KCONTACT #KCONTACTHI5 https://t.co/a7nGSIT0Xd"
+	},
+	{
+		"created_at": "Thu Aug 19 03:29:45 +0000 2021",
+		"id": 1428191802952061000,
+		"id_str": "1428197466961178626",
+		"full_text": "[김사월]\n너만큼 사랑하고 싶은 건 찾을 수 없을 거야\n너만큼 아깝고 귀중한 건 흔하지 않을거야\n\nNew Single\n너만큼\n2021.8.27\n\n#김사월 #싱글 #너만큼 #발매 #신곡 https://t.co/pSU8hz9SXY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김사월",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "싱글",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "너만큼",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "신곡",
+					"indices": [
+						99,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1428191788938907600,
+					"id_str": "1428191788938907652",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/E9H03XrVUAQKJT_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9H03XrVUAQKJT_.jpg",
+					"url": "https://t.co/pSU8hz9SXY",
+					"display_url": "pic.twitter.com/pSU8hz9SXY",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1428191802952060929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428191788938907600,
+					"id_str": "1428191788938907652",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/E9H03XrVUAQKJT_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9H03XrVUAQKJT_.jpg",
+					"url": "https://t.co/pSU8hz9SXY",
+					"display_url": "pic.twitter.com/pSU8hz9SXY",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1428191802952060929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 (당신의여름)",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타와 함께합니다.",
+			"url": "https://t.co/oHXBW5kYJK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oHXBW5kYJK",
+							"expanded_url": "http://www.instagram.com/yoursummerkr",
+							"display_url": "instagram.com/yoursummerkr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2105,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5361,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[김사월]\n너만큼 사랑하고 싶은 건 찾을 수 없을 거야\n너만큼 아깝고 귀중한 건 흔하지 않을거야\n\nNew Single\n너만큼\n2021.8.27\n\n#김사월 #싱글 #너만큼 #발매 #신곡 https://t.co/pSU8hz9SXY"
+	},
+	{
+		"created_at": "Thu Aug 19 03:29:39 +0000 2021",
+		"id": 1428188953279012900,
+		"id_str": "1428197440734310402",
+		"full_text": "[News]\n\n일본의 싱어송라이터 AAAMYYY가 코로나 팬데믹 상황에서 느낀 솔직한 감정들과 따뜻한 멜로디를 담은 두 번째 정규 앨범을 발매했습니다. \n\nhttps://t.co/v1dQpNBBfV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v1dQpNBBfV",
+					"expanded_url": "https://www.highjinkxmm.com/news/aaamyyy-annhilation",
+					"display_url": "highjinkxmm.com/news/aaamyyy-a…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/P2V4wFkAko",
+			"url": "https://t.co/oAPJfxeB46",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAPJfxeB46",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P2V4wFkAko",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 428,
+			"friends_count": 20,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[News]\n\n일본의 싱어송라이터 AAAMYYY가 코로나 팬데믹 상황에서 느낀 솔직한 감정들과 따뜻한 멜로디를 담은 두 번째 정규 앨범을 발매했습니다. \n\nhttps://t.co/v1dQpNBBfV"
+	},
+	{
+		"created_at": "Thu Aug 19 03:29:31 +0000 2021",
+		"id": 1428182907831554000,
+		"id_str": "1428197406567436291",
+		"full_text": "🤘로칼리카🤘 시즌2 일본음악 편\n\n'OBS PD' 공태희 &amp; '싱어송라이터' 우예린의 일본음악과 문화토크\n\n▶https://t.co/RUpgfTPSic",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RUpgfTPSic",
+					"expanded_url": "https://youtu.be/dHLfVhMEGx4",
+					"display_url": "youtu.be/dHLfVhMEGx4",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7688,
+			"friends_count": 8365,
+			"listed_count": 198,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7481,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🤘로칼리카🤘 시즌2 일본음악 편\n\n'OBS PD' 공태희 &amp; '싱어송라이터' 우예린의 일본음악과 문화토크\n\n▶https://t.co/RUpgfTPSic"
+	},
+	{
 		"created_at": "Thu Aug 19 03:10:11 +0000 2021",
 		"id": 1428192542542160000,
 		"id_str": "1428192542542159876",
