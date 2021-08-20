@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 20 02:11:16 +0000 2021",
+		"id": 1428530654027796500,
+		"id_str": "1428540106160365574",
+		"full_text": "[뮤지컬 &lt;메리셸리&gt; 2차 티켓 오픈 안내]\n- 티켓오픈일시 : 8월 23일(월) 오후 12시\n- 공연기간 : 8월 31일(화)-9월 22일(수)\n- 예매처 : 인터파크, 티켓링크\n\n#뮤지컬 #메리셸리 #2차 #티켓 #오픈 #안내 #상상스테이지챌린지 #대치아트홀 #공연 https://t.co/1KkMNjypsw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤지컬",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "메리셸리",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "2차",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "티켓",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "오픈",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "안내",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "상상스테이지챌린지",
+					"indices": [
+						135,
+						145
+					]
+				},
+				{
+					"text": "대치아트홀",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						153,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1428530609782071300,
+					"id_str": "1428530609782071297",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E9MpBVrVIAElnD_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9MpBVrVIAElnD_.jpg",
+					"url": "https://t.co/1KkMNjypsw",
+					"display_url": "pic.twitter.com/1KkMNjypsw",
+					"expanded_url": "https://twitter.com/SSmadang/status/1428530654027796483/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428530609782071300,
+					"id_str": "1428530609782071297",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E9MpBVrVIAElnD_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9MpBVrVIAElnD_.jpg",
+					"url": "https://t.co/1KkMNjypsw",
+					"display_url": "pic.twitter.com/1KkMNjypsw",
+					"expanded_url": "https://twitter.com/SSmadang/status/1428530654027796483/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1428530633811259400,
+					"id_str": "1428530633811259395",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E9MpCvMVcAMmL3y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9MpCvMVcAMmL3y.jpg",
+					"url": "https://t.co/1KkMNjypsw",
+					"display_url": "pic.twitter.com/1KkMNjypsw",
+					"expanded_url": "https://twitter.com/SSmadang/status/1428530654027796483/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17823,
+			"friends_count": 1879,
+			"listed_count": 289,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9458,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[뮤지컬 &lt;메리셸리&gt; 2차 티켓 오픈 안내]\n- 티켓오픈일시 : 8월 23일(월) 오후 12시\n- 공연기간 : 8월 31일(화)-9월 22일(수)\n- 예매처 : 인터파크, 티켓링크\n\n#뮤지컬 #메리셸리 #2차 #티켓 #오픈 #안내 #상상스테이지챌린지 #대치아트홀 #공연 https://t.co/1KkMNjypsw"
+	},
+	{
 		"created_at": "Fri Aug 20 00:58:14 +0000 2021",
 		"id": 1428517533238268000,
 		"id_str": "1428521726388940807",
