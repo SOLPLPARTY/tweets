@@ -1,6 +1,732 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 20 10:29:40 +0000 2021",
+		"id": 1428662265012572200,
+		"id_str": "1428665530240716804",
+		"full_text": "[이랑] 정규 3집 ‘늑대가 나타났다’ D-3\n\n“이른 아침 가난한 여인이 굶어 죽은 자식의 시체를 안고 가난한 사람들의 동네를 울며 지나간다”\n\n2021.08.23.Mon. 12PM\n\n#이랑 #정규3집 #늑대가나타났다 #발매 #8월23일 #신곡 https://t.co/146Ox4K55o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이랑",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "정규3집",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "늑대가나타났다",
+					"indices": [
+						114,
+						122
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "8월23일",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "신곡",
+					"indices": [
+						134,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1428662083915108400,
+					"id_str": "1428662083915108359",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428662083915108359/pu/img/Eb3j1TbXUfLdfoKP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428662083915108359/pu/img/Eb3j1TbXUfLdfoKP.jpg",
+					"url": "https://t.co/146Ox4K55o",
+					"display_url": "pic.twitter.com/146Ox4K55o",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1428662265012572161/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428662083915108400,
+					"id_str": "1428662083915108359",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428662083915108359/pu/img/Eb3j1TbXUfLdfoKP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428662083915108359/pu/img/Eb3j1TbXUfLdfoKP.jpg",
+					"url": "https://t.co/146Ox4K55o",
+					"display_url": "pic.twitter.com/146Ox4K55o",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1428662265012572161/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28515,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1428662083915108359/pu/pl/pWJzf3E_F0df6w3l.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428662083915108359/pu/vid/480x270/J8-VPUVcZSYz2Ya5.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428662083915108359/pu/vid/640x360/J0OARfZIink8IE5I.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428662083915108359/pu/vid/1280x720/6PzSDQHnzvT6IiNa.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 (당신의여름)",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이하윤, 전기뱀장어, 최낙타와 함께합니다.",
+			"url": "https://t.co/oHXBW5kYJK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oHXBW5kYJK",
+							"expanded_url": "http://www.instagram.com/yoursummerkr",
+							"display_url": "instagram.com/yoursummerkr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2106,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[이랑] 정규 3집 ‘늑대가 나타났다’ D-3\n\n“이른 아침 가난한 여인이 굶어 죽은 자식의 시체를 안고 가난한 사람들의 동네를 울며 지나간다”\n\n2021.08.23.Mon. 12PM\n\n#이랑 #정규3집 #늑대가나타났다 #발매 #8월23일 #신곡 https://t.co/146Ox4K55o"
+	},
+	{
+		"created_at": "Fri Aug 20 10:29:35 +0000 2021",
+		"id": 1428658108373471200,
+		"id_str": "1428665508728131592",
+		"full_text": "[#권혁수] [#수사반찬]\n\n밥도둑 꼼짝 마 밥경찰 혁뚜 나가신다🚓\n\n박력 있게 자백까지 받아낸 후\n뱃속 징역 3년 구형까지!\n\n그 긴박한 현장, #권혁수감성 에서 확인하세요!\n\n👉 https://t.co/07OqUwlcwk\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #수사극 #실화주의 #밥도둑 #간장게장 #검거 https://t.co/ONH6XxamO8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "수사반찬",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "권혁수감성",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						127,
+						139
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						147,
+						161
+					]
+				},
+				{
+					"text": "수사극",
+					"indices": [
+						162,
+						166
+					]
+				},
+				{
+					"text": "실화주의",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "밥도둑",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "간장게장",
+					"indices": [
+						178,
+						183
+					]
+				},
+				{
+					"text": "검거",
+					"indices": [
+						184,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/07OqUwlcwk",
+					"expanded_url": "https://youtu.be/A22FugSHVCM",
+					"display_url": "youtu.be/A22FugSHVCM",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1428647361778094000,
+					"id_str": "1428647361778094081",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/E9OTNMwVEAEs5oK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9OTNMwVEAEs5oK.jpg",
+					"url": "https://t.co/ONH6XxamO8",
+					"display_url": "pic.twitter.com/ONH6XxamO8",
+					"expanded_url": "https://twitter.com/humap_official/status/1428658108373471236/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428647361778094000,
+					"id_str": "1428647361778094081",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/E9OTNMwVEAEs5oK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9OTNMwVEAEs5oK.jpg",
+					"url": "https://t.co/ONH6XxamO8",
+					"display_url": "pic.twitter.com/ONH6XxamO8",
+					"expanded_url": "https://twitter.com/humap_official/status/1428658108373471236/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 358,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 286,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#권혁수] [#수사반찬]\n\n밥도둑 꼼짝 마 밥경찰 혁뚜 나가신다🚓\n\n박력 있게 자백까지 받아낸 후\n뱃속 징역 3년 구형까지!\n\n그 긴박한 현장, #권혁수감성 에서 확인하세요!\n\n👉 https://t.co/07OqUwlcwk\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #수사극 #실화주의 #밥도둑 #간장게장 #검거 https://t.co/ONH6XxamO8"
+	},
+	{
+		"created_at": "Fri Aug 20 10:29:29 +0000 2021",
+		"id": 1428658066245886000,
+		"id_str": "1428665483050487808",
+		"full_text": "[Behind]\n⠀\nWH3N(웬)의 '부르고 싶은 노래가 있어' 라이브클립 촬영 현장 비하인드가 공개되었습니다! \n풀버전은 쇼파르엔터 유튜브에서 감상해주세요🤭💙\n⠀\nWH3N(웬) '부르고 싶은 노래가 있어' 비하인드\n▷ https://t.co/76J5U2QQrW\n\n#웬 #WH3N #부르고싶은노래가있어 #비하인드 https://t.co/428JVe13bM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웬",
+					"indices": [
+						148,
+						150
+					]
+				},
+				{
+					"text": "WH3N",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "부르고싶은노래가있어",
+					"indices": [
+						157,
+						168
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						169,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/76J5U2QQrW",
+					"expanded_url": "https://youtu.be/0dXG5Ws7d20",
+					"display_url": "youtu.be/0dXG5Ws7d20",
+					"indices": [
+						123,
+						146
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1428650404351406000,
+					"id_str": "1428650404351406093",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/E9OV-TOVcA0-VuJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9OV-TOVcA0-VuJ.jpg",
+					"url": "https://t.co/428JVe13bM",
+					"display_url": "pic.twitter.com/428JVe13bM",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1428658066245885962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428650404351406000,
+					"id_str": "1428650404351406093",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/E9OV-TOVcA0-VuJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9OV-TOVcA0-VuJ.jpg",
+					"url": "https://t.co/428JVe13bM",
+					"display_url": "pic.twitter.com/428JVe13bM",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1428658066245885962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/VtrzF3mRza",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VtrzF3mRza",
+							"expanded_url": "http://shofar-ent.com",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7758,
+			"friends_count": 4,
+			"listed_count": 66,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4454,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1628848580",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Behind]\n⠀\nWH3N(웬)의 '부르고 싶은 노래가 있어' 라이브클립 촬영 현장 비하인드가 공개되었습니다! \n풀버전은 쇼파르엔터 유튜브에서 감상해주세요🤭💙\n⠀\nWH3N(웬) '부르고 싶은 노래가 있어' 비하인드\n▷ https://t.co/76J5U2QQrW\n\n#웬 #WH3N #부르고싶은노래가있어 #비하인드 https://t.co/428JVe13bM"
+	},
+	{
 		"created_at": "Fri Aug 20 10:16:46 +0000 2021",
 		"id": 1428662283882930200,
 		"id_str": "1428662283882930184",
