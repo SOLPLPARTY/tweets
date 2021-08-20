@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 20 03:29:40 +0000 2021",
+		"id": 1428559715236155400,
+		"id_str": "1428559835520503819",
+		"full_text": "Melon ▶ https://t.co/qgHm3r1Pzq\nGenie ▶ https://t.co/1Ef6oXqyP2\nBugs ▶ https://t.co/VzZkOPD722\nFLO ▶ https://t.co/Yj0ugaIdGq\nVIBE ▶ https://t.co/6QpBOMnzRo\nApple Music ▶ https://t.co/Hy1YBuCJAw\nYT Music ▶ https://t.co/ZU3lqxEV7S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qgHm3r1Pzq",
+					"expanded_url": "https://bit.ly/380Ibdv",
+					"display_url": "bit.ly/380Ibdv",
+					"indices": [
+						8,
+						31
+					]
+				},
+				{
+					"url": "https://t.co/1Ef6oXqyP2",
+					"expanded_url": "https://bit.ly/3z53HcX",
+					"display_url": "bit.ly/3z53HcX",
+					"indices": [
+						40,
+						63
+					]
+				},
+				{
+					"url": "https://t.co/VzZkOPD722",
+					"expanded_url": "https://bit.ly/3D1BZjI",
+					"display_url": "bit.ly/3D1BZjI",
+					"indices": [
+						71,
+						94
+					]
+				},
+				{
+					"url": "https://t.co/Yj0ugaIdGq",
+					"expanded_url": "https://bit.ly/3kc6Tx9",
+					"display_url": "bit.ly/3kc6Tx9",
+					"indices": [
+						101,
+						124
+					]
+				},
+				{
+					"url": "https://t.co/6QpBOMnzRo",
+					"expanded_url": "https://bit.ly/3y8PD16",
+					"display_url": "bit.ly/3y8PD16",
+					"indices": [
+						132,
+						155
+					]
+				},
+				{
+					"url": "https://t.co/Hy1YBuCJAw",
+					"expanded_url": "https://apple.co/3D1CiuS",
+					"display_url": "apple.co/3D1CiuS",
+					"indices": [
+						170,
+						193
+					]
+				},
+				{
+					"url": "https://t.co/ZU3lqxEV7S",
+					"expanded_url": "https://bit.ly/3mjDwM3",
+					"display_url": "bit.ly/3mjDwM3",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": 1428557651529502700,
+		"in_reply_to_status_id_str": "1428557651529502720",
+		"in_reply_to_user_id": 602961088,
+		"in_reply_to_user_id_str": "602961088",
+		"in_reply_to_screen_name": "YOUNGGIFTEDWACK",
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3543,
+			"friends_count": 1203,
+			"listed_count": 51,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 627,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Melon ▶ https://t.co/qgHm3r1Pzq\nGenie ▶ https://t.co/1Ef6oXqyP2\nBugs ▶ https://t.co/VzZkOPD722\nFLO ▶ https://t.co/Yj0ugaIdGq\nVIBE ▶ https://t.co/6QpBOMnzRo\nApple Music ▶ https://t.co/Hy1YBuCJAw\nYT Music ▶ https://t.co/ZU3lqxEV7S"
+	},
+	{
+		"created_at": "Fri Aug 20 03:29:33 +0000 2021",
+		"id": 1428557956019220500,
+		"id_str": "1428559805623545858",
+		"full_text": "향성(向性) - 불완전 이니그마(Vocal. 악월) https://t.co/XzDnMP5Em2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XzDnMP5Em2",
+					"expanded_url": "http://blog.naver.com/chili7272/222477638837",
+					"display_url": "blog.naver.com/chili7272/2224…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.naver.com\" rel=\"nofollow\">Naver</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114111001,
+			"id_str": "114111001",
+			"name": "칠리뮤직코리아",
+			"screen_name": "chilimusickorea",
+			"location": "Seoul, Korea",
+			"description": "음반제작 및 배급전문/국내 및 해외사이트 음원유통/매니지먼트 담당//\n허클베리 핀/에이프릴 세컨드/트레봉봉/오드트리/Steve Barakett/LasseLindh/Sioen 등",
+			"url": "https://t.co/XzPUfDyGhf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XzPUfDyGhf",
+							"expanded_url": "http://www.facebook.com/chilimusickorea1",
+							"display_url": "facebook.com/chilimusickore…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2081,
+			"friends_count": 2367,
+			"listed_count": 64,
+			"created_at": "Sun Feb 14 05:12:40 +0000 2010",
+			"favourites_count": 699,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114111001/1427096436",
+			"profile_link_color": "FC420A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0B8C4",
+			"profile_text_color": "9FFEE3",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "향성(向性) - 불완전 이니그마(Vocal. 악월) https://t.co/XzDnMP5Em2"
+	},
+	{
 		"created_at": "Fri Aug 20 02:58:17 +0000 2021",
 		"id": 1428537426872463400,
 		"id_str": "1428551935062331395",
