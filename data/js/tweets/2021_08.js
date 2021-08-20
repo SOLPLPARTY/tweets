@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 20 00:58:14 +0000 2021",
+		"id": 1428517533238268000,
+		"id_str": "1428521726388940807",
+		"full_text": "Revealing KCON:TACT HI 5's 2nd line-up artists!\nKCON:TACT HI 5 두번째 라인업의 주인공 공개!\nKCON:TACT HI 5 2次ラインナップの主人公たちを公開！\n💘 Get linked with 👉 @Creker_THEBOYZ\n\n#KCONTACT #KCONTACTHI5 #THEBOYZ #더보이즈 https://t.co/nBJwScly9Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						151,
+						160
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						161,
+						173
+					]
+				},
+				{
+					"text": "THEBOYZ",
+					"indices": [
+						174,
+						182
+					]
+				},
+				{
+					"text": "더보이즈",
+					"indices": [
+						183,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Creker_THEBOYZ",
+					"name": "더보이즈(THE BOYZ)",
+					"id": 841676129245225000,
+					"id_str": "841676129245224961",
+					"indices": [
+						134,
+						149
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1428517450270724000,
+					"id_str": "1428517450270724099",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/E9MdDWrVUAMp0fE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9MdDWrVUAMp0fE.jpg",
+					"url": "https://t.co/nBJwScly9Y",
+					"display_url": "pic.twitter.com/nBJwScly9Y",
+					"expanded_url": "https://twitter.com/KCON_official/status/1428517533238267905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428517450270724000,
+					"id_str": "1428517450270724099",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/E9MdDWrVUAMp0fE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9MdDWrVUAMp0fE.jpg",
+					"url": "https://t.co/nBJwScly9Y",
+					"display_url": "pic.twitter.com/nBJwScly9Y",
+					"expanded_url": "https://twitter.com/KCON_official/status/1428517533238267905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 385513,
+			"friends_count": 75,
+			"listed_count": 2,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1540,
+		"favorite_count": 4332,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "Revealing KCON:TACT HI 5's 2nd line-up artists!\nKCON:TACT HI 5 두번째 라인업의 주인공 공개!\nKCON:TACT HI 5 2次ラインナップの主人公たちを公開！\n💘 Get linked with 👉 @Creker_THEBOYZ\n\n#KCONTACT #KCONTACTHI5 #THEBOYZ #더보이즈 https://t.co/nBJwScly9Y"
+	},
+	{
 		"created_at": "Thu Aug 19 23:58:53 +0000 2021",
 		"id": 1428503797249233000,
 		"id_str": "1428506789260234752",
