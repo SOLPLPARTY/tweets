@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 20 14:11:16 +0000 2021",
+		"id": 1428703369959547000,
+		"id_str": "1428721299971616771",
+		"full_text": "📢 8/21 공연 현장 안내\n\n&lt;wave to earth &amp; The Poles : Iife always goes on and on,&gt;\n· 티켓수령 : 4시 (현장구매 불가능)\n· 입장 : 4시 30분\n· 공연시작 : 5시\n· 출연 : wave to earth, The Poles\n\n#웨이브투어스 #wave_to_earth\n#ThePoles #더폴스\n#롤링홀 #ROLLINGHALL\n#홍대 #공연 #멜론티켓 https://t.co/Fv8jDMrpWo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "웨이브투어스",
+					"indices": [
+						167,
+						174
+					]
+				},
+				{
+					"text": "wave_to_earth",
+					"indices": [
+						175,
+						189
+					]
+				},
+				{
+					"text": "ThePoles",
+					"indices": [
+						190,
+						199
+					]
+				},
+				{
+					"text": "더폴스",
+					"indices": [
+						200,
+						204
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						205,
+						209
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						210,
+						222
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						223,
+						226
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						227,
+						230
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						231,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1428326505717768200,
+					"id_str": "1428326505717768200",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/E9JvY6yVIAgy2Mo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9JvY6yVIAgy2Mo.jpg",
+					"url": "https://t.co/Fv8jDMrpWo",
+					"display_url": "pic.twitter.com/Fv8jDMrpWo",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1428703369959546889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428326505717768200,
+					"id_str": "1428326505717768200",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/E9JvY6yVIAgy2Mo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9JvY6yVIAgy2Mo.jpg",
+					"url": "https://t.co/Fv8jDMrpWo",
+					"display_url": "pic.twitter.com/Fv8jDMrpWo",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1428703369959546889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1428326423224225800,
+					"id_str": "1428326423224225803",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/E9JvUHeVkAsCY9P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9JvUHeVkAsCY9P.jpg",
+					"url": "https://t.co/Fv8jDMrpWo",
+					"display_url": "pic.twitter.com/Fv8jDMrpWo",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1428703369959546889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1428326469642584000,
+					"id_str": "1428326469642584066",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/E9JvW0ZVgAIUI1B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9JvW0ZVgAIUI1B.jpg",
+					"url": "https://t.co/Fv8jDMrpWo",
+					"display_url": "pic.twitter.com/Fv8jDMrpWo",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1428703369959546889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1428326469789311000,
+					"id_str": "1428326469789310976",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/E9JvW08UYAALiBT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9JvW08UYAALiBT.jpg",
+					"url": "https://t.co/Fv8jDMrpWo",
+					"display_url": "pic.twitter.com/Fv8jDMrpWo",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1428703369959546889/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 198,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 8/21 공연 현장 안내\n\n&lt;wave to earth &amp; The Poles : Iife always goes on and on,&gt;\n· 티켓수령 : 4시 (현장구매 불가능)\n· 입장 : 4시 30분\n· 공연시작 : 5시\n· 출연 : wave to earth, The Poles\n\n#웨이브투어스 #wave_to_earth\n#ThePoles #더폴스\n#롤링홀 #ROLLINGHALL\n#홍대 #공연 #멜론티켓 https://t.co/Fv8jDMrpWo"
+	},
+	{
 		"created_at": "Fri Aug 20 12:29:25 +0000 2021",
 		"id": 1428686807084847000,
 		"id_str": "1428695664943316997",
