@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sat Aug 21 03:29:25 +0000 2021",
+		"id": 1428917271972434000,
+		"id_str": "1428922157418139648",
+		"full_text": "⠀\nDAILY MIRRORBALL MUSIC | 210821 SAT\n⠀\n🔸 우일 [우일; 스물두 번째 이야기]\n\n#우일 #미러볼뮤직 #인디음악 #음스타그램\n⠀ https://t.co/MtF3RjOf0e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우일",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "음스타그램",
+					"indices": [
+						80,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1428237881458319400,
+					"id_str": "1428237881458319362",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428237881458319362/pu/img/tyjBA0trckVw8vfO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428237881458319362/pu/img/tyjBA0trckVw8vfO.jpg",
+					"url": "https://t.co/MtF3RjOf0e",
+					"display_url": "pic.twitter.com/MtF3RjOf0e",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1428917271972433927/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428237881458319400,
+					"id_str": "1428237881458319362",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1428237881458319362/pu/img/tyjBA0trckVw8vfO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1428237881458319362/pu/img/tyjBA0trckVw8vfO.jpg",
+					"url": "https://t.co/MtF3RjOf0e",
+					"display_url": "pic.twitter.com/MtF3RjOf0e",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1428917271972433927/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 50050,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428237881458319362/pu/vid/320x320/tNB-VkeEzwjg0lS9.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428237881458319362/pu/vid/720x720/ETd4mvfyYeuh18Wl.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1428237881458319362/pu/vid/540x540/biwoWeixTiq6Shvq.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1428237881458319362/pu/pl/ABHL7LgAJJA-Hdq2.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9477,
+			"friends_count": 2671,
+			"listed_count": 247,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10726,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1627032310",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⠀\nDAILY MIRRORBALL MUSIC | 210821 SAT\n⠀\n🔸 우일 [우일; 스물두 번째 이야기]\n\n#우일 #미러볼뮤직 #인디음악 #음스타그램\n⠀ https://t.co/MtF3RjOf0e"
+	},
+	{
 		"created_at": "Sat Aug 21 03:08:57 +0000 2021",
 		"id": 1428917010285666300,
 		"id_str": "1428917010285666305",
