@@ -1,6 +1,290 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sat Aug 21 04:29:31 +0000 2021",
+		"id": 1428930306145280000,
+		"id_str": "1428937283181371401",
+		"full_text": "‘아티스츠카드’, K팝스타 시즌 5 우예린 온·오프라인 콘서트 티켓 오픈 (출처 : 텐아시아 | 네이버 TV연예) https://t.co/88iDJ4OTdN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/88iDJ4OTdN",
+					"expanded_url": "http://naver.me/5WcMMj5O",
+					"display_url": "naver.me/5WcMMj5O",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7688,
+			"friends_count": 8362,
+			"listed_count": 198,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "004f195522ecb5db",
+			"url": "https://api.twitter.com/1.1/geo/id/004f195522ecb5db.json",
+			"place_type": "city",
+			"name": "제주시",
+			"full_name": "대한민국 제주시",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.142203040431,
+							33.2786639709802
+						],
+						[
+							126.970968723312,
+							33.2786639709802
+						],
+						[
+							126.970968723312,
+							33.5662704134707
+						],
+						[
+							126.142203040431,
+							33.5662704134707
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘아티스츠카드’, K팝스타 시즌 5 우예린 온·오프라인 콘서트 티켓 오픈 (출처 : 텐아시아 | 네이버 TV연예) https://t.co/88iDJ4OTdN"
+	},
+	{
+		"created_at": "Sat Aug 21 04:29:29 +0000 2021",
+		"id": 1428923655069704200,
+		"id_str": "1428937274348212232",
+		"full_text": "[#사우스카니발] 서울여자 Live\n\n사우스카니발의 서울여자가 발매 되었습니다.\n현재 모든스트리밍 사이트에서 들어보실 수 있습니다✈️\nㅡ\n음원듣기 : https://t.co/WSnHMdLrcv\n라이브보기 : https://t.co/bW1F2AS9ON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사우스카니발",
+					"indices": [
+						1,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WSnHMdLrcv",
+					"expanded_url": "http://kko.to/LqsXYdffp",
+					"display_url": "kko.to/LqsXYdffp",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/bW1F2AS9ON",
+					"expanded_url": "https://youtu.be/HhlBIITUmKg",
+					"display_url": "youtu.be/HhlBIITUmKg",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7688,
+			"friends_count": 8362,
+			"listed_count": 198,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#사우스카니발] 서울여자 Live\n\n사우스카니발의 서울여자가 발매 되었습니다.\n현재 모든스트리밍 사이트에서 들어보실 수 있습니다✈️\nㅡ\n음원듣기 : https://t.co/WSnHMdLrcv\n라이브보기 : https://t.co/bW1F2AS9ON"
+	},
+	{
 		"created_at": "Sat Aug 21 03:29:25 +0000 2021",
 		"id": 1428917271972434000,
 		"id_str": "1428922157418139648",
