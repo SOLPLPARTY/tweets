@@ -1,6 +1,609 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sat Aug 21 09:29:41 +0000 2021",
+		"id": 1429009351843356700,
+		"id_str": "1429012822483210245",
+		"full_text": "💿NEW MUSIC TODAY💿\nJTBC드라마 &lt;알고있지만,&gt; OST Part.10\n\"리오(RIO)-알고있지만\" 을 지금 바로 음원 사이트에서 만나보세요!\n⠀\n🦋 https://t.co/NX5QnbLqgR\n⠀\n#warnerkpop #warnermusic #release #OST #JTBC #알고있지만 #송강 #한소희 #리오 #RIO https://t.co/myCHdBciqb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						123,
+						134
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						135,
+						147
+					]
+				},
+				{
+					"text": "release",
+					"indices": [
+						148,
+						156
+					]
+				},
+				{
+					"text": "OST",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "알고있지만",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "송강",
+					"indices": [
+						175,
+						178
+					]
+				},
+				{
+					"text": "한소희",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "리오",
+					"indices": [
+						184,
+						187
+					]
+				},
+				{
+					"text": "RIO",
+					"indices": [
+						188,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NX5QnbLqgR",
+					"expanded_url": "http://WMK.lnk.to/NeverthelssPart10",
+					"display_url": "WMK.lnk.to/NeverthelssPar…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1429008452974628900,
+					"id_str": "1429008452974628867",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1429008452974628867/pu/img/gsKkScKn-y9jfgX3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1429008452974628867/pu/img/gsKkScKn-y9jfgX3.jpg",
+					"url": "https://t.co/myCHdBciqb",
+					"display_url": "pic.twitter.com/myCHdBciqb",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1429009351843356672/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1429008452974628900,
+					"id_str": "1429008452974628867",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1429008452974628867/pu/img/gsKkScKn-y9jfgX3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1429008452974628867/pu/img/gsKkScKn-y9jfgX3.jpg",
+					"url": "https://t.co/myCHdBciqb",
+					"display_url": "pic.twitter.com/myCHdBciqb",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1429009351843356672/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 43576,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1429008452974628867/pu/pl/9mgusKE19yl4h1lE.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1429008452974628867/pu/vid/720x720/Ym7n_BCw8QqC2mez.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1429008452974628867/pu/vid/320x320/N7qvigEsf4ouMJoz.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1429008452974628867/pu/vid/540x540/Lr2oxT3m339KMVur.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51591,
+			"friends_count": 496,
+			"listed_count": 0,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\nJTBC드라마 &lt;알고있지만,&gt; OST Part.10\n\"리오(RIO)-알고있지만\" 을 지금 바로 음원 사이트에서 만나보세요!\n⠀\n🦋 https://t.co/NX5QnbLqgR\n⠀\n#warnerkpop #warnermusic #release #OST #JTBC #알고있지만 #송강 #한소희 #리오 #RIO https://t.co/myCHdBciqb"
+	},
+	{
+		"created_at": "Sat Aug 21 09:29:38 +0000 2021",
+		"id": 1429008486252220400,
+		"id_str": "1429012809363468295",
+		"full_text": "뮤즈온데이 #2\n윤새 - 최유리 - 정준일(Guest) - 위아영\n순서로 진행 됩니다\nhttps://t.co/WFhRbNL13X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WFhRbNL13X",
+					"expanded_url": "https://youtu.be/kRp6jy5ePQs",
+					"display_url": "youtu.be/kRp6jy5ePQs",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2647,
+			"friends_count": 336,
+			"listed_count": 32,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 19960,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5711,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "뮤즈온데이 #2\n윤새 - 최유리 - 정준일(Guest) - 위아영\n순서로 진행 됩니다\nhttps://t.co/WFhRbNL13X"
+	},
+	{
+		"created_at": "Sat Aug 21 09:29:33 +0000 2021",
+		"id": 1429005359763529700,
+		"id_str": "1429012791713751041",
+		"full_text": "권은비(KWON EUN BI) 'Door' M/V Teaser #1\n\n2021.08.24 6PM RELEASE\n\nhttps://t.co/2gv2XaM7v4\nhttps://t.co/AcTPL2uoJG\n\n#권은비 #KwonEunBi #OPEN #Door https://t.co/CKy2XmmLoj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권은비",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "KwonEunBi",
+					"indices": [
+						117,
+						127
+					]
+				},
+				{
+					"text": "OPEN",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "Door",
+					"indices": [
+						134,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2gv2XaM7v4",
+					"expanded_url": "https://youtu.be/hJw53SZU9LA",
+					"display_url": "youtu.be/hJw53SZU9LA",
+					"indices": [
+						63,
+						86
+					]
+				},
+				{
+					"url": "https://t.co/AcTPL2uoJG",
+					"expanded_url": "https://www.vlive.tv/post/1-24883037",
+					"display_url": "vlive.tv/post/1-24883037",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1428940585281331200,
+					"id_str": "1428940585281331200",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/E9Sd5DbVIAAh6yS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9Sd5DbVIAAh6yS.jpg",
+					"url": "https://t.co/CKy2XmmLoj",
+					"display_url": "pic.twitter.com/CKy2XmmLoj",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1429005359763529728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428940585281331200,
+					"id_str": "1428940585281331200",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/E9Sd5DbVIAAh6yS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9Sd5DbVIAAh6yS.jpg",
+					"url": "https://t.co/CKy2XmmLoj",
+					"display_url": "pic.twitter.com/CKy2XmmLoj",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1429005359763529728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTuZ29E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTuZ29E",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 431509,
+			"friends_count": 11,
+			"listed_count": 1921,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1628673097",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 556,
+		"favorite_count": 1277,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "권은비(KWON EUN BI) 'Door' M/V Teaser #1\n\n2021.08.24 6PM RELEASE\n\nhttps://t.co/2gv2XaM7v4\nhttps://t.co/AcTPL2uoJG\n\n#권은비 #KwonEunBi #OPEN #Door https://t.co/CKy2XmmLoj"
+	},
+	{
 		"created_at": "Sat Aug 21 09:08:20 +0000 2021",
 		"id": 1429007448363372500,
 		"id_str": "1429007448363372544",
