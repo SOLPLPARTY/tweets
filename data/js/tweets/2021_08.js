@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sun Aug 22 03:29:34 +0000 2021",
+		"id": 1429279785549648000,
+		"id_str": "1429284583867039744",
+		"full_text": "💿NEW MUSIC TODAY💿\n\"부끄뚱-은근히 낯가려요(feat.RAVI)(@RAVI_GTCK)\"를 지금 바로 음원 사이트에서 만나보세요!🤗\n⠀\n🦋 https://t.co/hLQ6TMlrJX\n⠀\n#warnerkpop #warnermusic #release #부끄뚱 #은근히낯가려요\n#문세윤 #라비 #RAVI #그루블린 @GROOVL1N_GTCK https://t.co/zC2MIGmUpE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						110,
+						121
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						122,
+						134
+					]
+				},
+				{
+					"text": "release",
+					"indices": [
+						135,
+						143
+					]
+				},
+				{
+					"text": "부끄뚱",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "은근히낯가려요",
+					"indices": [
+						149,
+						157
+					]
+				},
+				{
+					"text": "문세윤",
+					"indices": [
+						158,
+						162
+					]
+				},
+				{
+					"text": "라비",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "RAVI",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "그루블린",
+					"indices": [
+						173,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RAVI_GTCK",
+					"name": "RAVI",
+					"id": 524138951,
+					"id_str": "524138951",
+					"indices": [
+						43,
+						53
+					]
+				},
+				{
+					"screen_name": "GROOVL1N_GTCK",
+					"name": "GROOVL1N",
+					"id": 1136626296098680800,
+					"id_str": "1136626296098680837",
+					"indices": [
+						179,
+						193
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hLQ6TMlrJX",
+					"expanded_url": "http://WMK.lnk.to/SHY_DDOONG",
+					"display_url": "WMK.lnk.to/SHY_DDOONG",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1429278652894638000,
+					"id_str": "1429278652894638080",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1429278652894638080/pu/img/rS2Ruevlys-Nkdc2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1429278652894638080/pu/img/rS2Ruevlys-Nkdc2.jpg",
+					"url": "https://t.co/zC2MIGmUpE",
+					"display_url": "pic.twitter.com/zC2MIGmUpE",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1429279785549647874/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1429278652894638000,
+					"id_str": "1429278652894638080",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1429278652894638080/pu/img/rS2Ruevlys-Nkdc2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1429278652894638080/pu/img/rS2Ruevlys-Nkdc2.jpg",
+					"url": "https://t.co/zC2MIGmUpE",
+					"display_url": "pic.twitter.com/zC2MIGmUpE",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1429279785549647874/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 54187,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1429278652894638080/pu/vid/320x320/6JlRPzGrwc9giPXr.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1429278652894638080/pu/vid/720x720/ITjXKWhYrNdXouEG.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1429278652894638080/pu/pl/PpzI36Zl1OxmRQAu.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1429278652894638080/pu/vid/540x540/gVnoc2iDn7WBpP_U.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51590,
+			"friends_count": 496,
+			"listed_count": 191,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11236,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\n\"부끄뚱-은근히 낯가려요(feat.RAVI)(@RAVI_GTCK)\"를 지금 바로 음원 사이트에서 만나보세요!🤗\n⠀\n🦋 https://t.co/hLQ6TMlrJX\n⠀\n#warnerkpop #warnermusic #release #부끄뚱 #은근히낯가려요\n#문세윤 #라비 #RAVI #그루블린 @GROOVL1N_GTCK https://t.co/zC2MIGmUpE"
+	},
+	{
 		"created_at": "Sat Aug 21 14:29:24 +0000 2021",
 		"id": 1429074172278284300,
 		"id_str": "1429088251382583306",
