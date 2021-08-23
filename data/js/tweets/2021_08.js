@@ -1,6 +1,342 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 23 13:29:33 +0000 2021",
+		"id": 1429794938854596600,
+		"id_str": "1429797965460353025",
+		"full_text": "windrustlingtheleaves \n-트위터\n@_popbcorn_ \n\n당첨되신 분들은 @yoursummerkr DM으로 성함/ 연락처/ 주소(우편번호) 를 보내주세요!\n\n#너드커넥션 #너컨 #라이프댄싱 #스트리밍이벤트 #당첨자발표",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "너컨",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "라이프댄싱",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "스트리밍이벤트",
+					"indices": [
+						116,
+						124
+					]
+				},
+				{
+					"text": "당첨자발표",
+					"indices": [
+						125,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_popbcorn_",
+					"name": "펑",
+					"id": 988255517297459200,
+					"id_str": "988255517297459200",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "YoursummerKR",
+					"name": "유어썸머 Your Summer",
+					"id": 404720294,
+					"id_str": "404720294",
+					"indices": [
+						51,
+						64
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1429794863759859700,
+		"in_reply_to_status_id_str": "1429794863759859716",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2115,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "windrustlingtheleaves \n-트위터\n@_popbcorn_ \n\n당첨되신 분들은 @yoursummerkr DM으로 성함/ 연락처/ 주소(우편번호) 를 보내주세요!\n\n#너드커넥션 #너컨 #라이프댄싱 #스트리밍이벤트 #당첨자발표"
+	},
+	{
+		"created_at": "Mon Aug 23 13:29:29 +0000 2021",
+		"id": 1429794863759859700,
+		"id_str": "1429797947823333390",
+		"full_text": "[#너드커넥션] ‘Life Dancing’ 스트리밍 이벤트 당첨자 발표🎉\n\n‘Life Dancing’ 스트리밍 이벤트에 참여해주신 모든 분들께 감사드립니다.\n\n📍당첨자\n- 인스타그램\ntoobong2 \nnerdcountry_ \nkwonderland_tree \nji.young.oo \ndoublelifeofmay \nnerddy.h \ngooonnight_ \nkangeroo28 https://t.co/c7TSpCvssM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						1,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1429794855408980000,
+					"id_str": "1429794855408979982",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/E9em2HpVUA4SH-P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9em2HpVUA4SH-P.jpg",
+					"url": "https://t.co/c7TSpCvssM",
+					"display_url": "pic.twitter.com/c7TSpCvssM",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1429794863759859716/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1429794855408980000,
+					"id_str": "1429794855408979982",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/E9em2HpVUA4SH-P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9em2HpVUA4SH-P.jpg",
+					"url": "https://t.co/c7TSpCvssM",
+					"display_url": "pic.twitter.com/c7TSpCvssM",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1429794863759859716/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2115,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#너드커넥션] ‘Life Dancing’ 스트리밍 이벤트 당첨자 발표🎉\n\n‘Life Dancing’ 스트리밍 이벤트에 참여해주신 모든 분들께 감사드립니다.\n\n📍당첨자\n- 인스타그램\ntoobong2 \nnerdcountry_ \nkwonderland_tree \nji.young.oo \ndoublelifeofmay \nnerddy.h \ngooonnight_ \nkangeroo28 https://t.co/c7TSpCvssM"
+	},
+	{
 		"created_at": "Mon Aug 23 12:29:51 +0000 2021",
 		"id": 1429770446979825700,
 		"id_str": "1429782940217757696",
