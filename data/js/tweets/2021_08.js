@@ -1,6 +1,388 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 23 07:29:37 +0000 2021",
+		"id": 1429702881339330600,
+		"id_str": "1429707382402211840",
+		"full_text": "⚡#스크릴렉스 #저스틴비버 #돈톨리버⚡\n컬래버레이션 신곡 🚧𝐃𝐨𝐧'𝐭 𝐆𝐨🚧 공개!\n🔊 https://t.co/AmNEM9BIWe https://t.co/4UOEUmETgD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스크릴렉스",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "저스틴비버",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "돈톨리버",
+					"indices": [
+						15,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AmNEM9BIWe",
+					"expanded_url": "https://WMK.lnk.to/r9tQigE1",
+					"display_url": "WMK.lnk.to/r9tQigE1",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1429701922106138600,
+					"id_str": "1429701922106138627",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1429701922106138627/pu/img/pAOPFckScywBJJVU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1429701922106138627/pu/img/pAOPFckScywBJJVU.jpg",
+					"url": "https://t.co/4UOEUmETgD",
+					"display_url": "pic.twitter.com/4UOEUmETgD",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1429702881339330571/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1429701922106138600,
+					"id_str": "1429701922106138627",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1429701922106138627/pu/img/pAOPFckScywBJJVU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1429701922106138627/pu/img/pAOPFckScywBJJVU.jpg",
+					"url": "https://t.co/4UOEUmETgD",
+					"display_url": "pic.twitter.com/4UOEUmETgD",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1429702881339330571/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 25567,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1429701922106138627/pu/vid/720x720/zwM1SUHkhOOB4RYH.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1429701922106138627/pu/pl/vVS4y_jTvpGD3SKJ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1429701922106138627/pu/vid/540x540/IjfL1V5zLvU5ojE9.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1429701922106138627/pu/vid/320x320/6lFEiSeo4-1rdDNo.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51585,
+			"friends_count": 496,
+			"listed_count": 191,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⚡#스크릴렉스 #저스틴비버 #돈톨리버⚡\n컬래버레이션 신곡 🚧𝐃𝐨𝐧'𝐭 𝐆𝐨🚧 공개!\n🔊 https://t.co/AmNEM9BIWe https://t.co/4UOEUmETgD"
+	},
+	{
+		"created_at": "Mon Aug 23 07:29:33 +0000 2021",
+		"id": 1429702416262259000,
+		"id_str": "1429707365180444676",
+		"full_text": "[VIDEO] [#권혁수] #라디오스타\n\n[라디오스타 예고] 734회 ＜언금술사＞ 특집, MBC 210825 방송\n\n👉 https://t.co/ZGvXH91JOH\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #MBC #RadioStar",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "라디오스타",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						92,
+						104
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						112,
+						126
+					]
+				},
+				{
+					"text": "MBC",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "RadioStar",
+					"indices": [
+						132,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZGvXH91JOH",
+					"expanded_url": "https://youtu.be/M6RL4Oq96TQ",
+					"display_url": "youtu.be/M6RL4Oq96TQ",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 358,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#권혁수] #라디오스타\n\n[라디오스타 예고] 734회 ＜언금술사＞ 특집, MBC 210825 방송\n\n👉 https://t.co/ZGvXH91JOH\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #MBC #RadioStar"
+	},
+	{
 		"created_at": "Mon Aug 23 07:11:16 +0000 2021",
 		"id": 1429695162066686000,
 		"id_str": "1429702766327439364",
@@ -257,7 +639,7 @@ Grailbird.data.tweets_2021_08 =
 		"created_at": "Mon Aug 23 06:29:48 +0000 2021",
 		"id": 1429688915665948700,
 		"id_str": "1429692329653383170",
-		"full_text": "선우정아와 BUFFALO 타고 Next Level로💥\n\n선우정아의 ‘Next Level’ 라이브! 모두 잘 감상하셨나요?🎧눅눅한 월요일, 일전에 선보였던 선우정아의 ‘Buffalo’라이브까지 감상하며 이겨내보아요❤️‍🔥\n\n🔗https://t.co/Tlrg2t0Kqw\n🔗https://t.co/T09U4sYsrX\n\n#선우정아 #버팔로 #buffalo #nextlevel https://t.co/B7wV07I0OG",
+		"full_text": "선우정아와 BUFFALO 타고 Next Level로💥\n\n선우정아의 ‘Next Level’ 라이브! 모두 잘 감상하셨나요?🎧눅눅한 월요일, 일전에 선보였던 선우정아의 ‘Buffalo’라이브까지 감상하며 이겨내보아요❤️🔥\n\n🔗https://t.co/Tlrg2t0Kqw\n🔗https://t.co/T09U4sYsrX\n\n#선우정아 #버팔로 #buffalo #nextlevel https://t.co/B7wV07I0OG",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -505,7 +887,7 @@ Grailbird.data.tweets_2021_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "선우정아와 BUFFALO 타고 Next Level로💥\n\n선우정아의 ‘Next Level’ 라이브! 모두 잘 감상하셨나요?🎧눅눅한 월요일, 일전에 선보였던 선우정아의 ‘Buffalo’라이브까지 감상하며 이겨내보아요❤️‍🔥\n\n🔗https://t.co/Tlrg2t0Kqw\n🔗https://t.co/T09U4sYsrX\n\n#선우정아 #버팔로 #buffalo #nextlevel https://t.co/B7wV07I0OG"
+		"text": "선우정아와 BUFFALO 타고 Next Level로💥\n\n선우정아의 ‘Next Level’ 라이브! 모두 잘 감상하셨나요?🎧눅눅한 월요일, 일전에 선보였던 선우정아의 ‘Buffalo’라이브까지 감상하며 이겨내보아요❤️🔥\n\n🔗https://t.co/Tlrg2t0Kqw\n🔗https://t.co/T09U4sYsrX\n\n#선우정아 #버팔로 #buffalo #nextlevel https://t.co/B7wV07I0OG"
 	},
 	{
 		"created_at": "Mon Aug 23 06:29:40 +0000 2021",
