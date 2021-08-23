@@ -1,6 +1,1304 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 23 09:29:56 +0000 2021",
+		"id": 1429736915524219000,
+		"id_str": "1429737660474564611",
+		"full_text": "샌드박스 네트워크 어그로체 폰트 라이센스 \n▶️ https://t.co/e4MonFALFv\n\n#샌드박스네트워크 #어그로체 #무료폰트 #폰트 \n#디자인 #굿즈제작 #뮤직비즈니스 https://t.co/ty9Ts2d0UM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "샌드박스네트워크",
+					"indices": [
+						52,
+						61
+					]
+				},
+				{
+					"text": "어그로체",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "무료폰트",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "폰트",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "디자인",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "굿즈제작",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "뮤직비즈니스",
+					"indices": [
+						90,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e4MonFALFv",
+					"expanded_url": "https://bit.ly/SB_Aggro_Font_license",
+					"display_url": "bit.ly/SB_Aggro_Font_…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1429736526028501000,
+					"id_str": "1429736526028501001",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/E9dxy5xUcAkFKHe.png",
+					"media_url_https": "https://pbs.twimg.com/media/E9dxy5xUcAkFKHe.png",
+					"url": "https://t.co/ty9Ts2d0UM",
+					"display_url": "pic.twitter.com/ty9Ts2d0UM",
+					"expanded_url": "https://twitter.com/ArtManagementKR/status/1429736915524218883/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1429736526028501000,
+					"id_str": "1429736526028501001",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/E9dxy5xUcAkFKHe.png",
+					"media_url_https": "https://pbs.twimg.com/media/E9dxy5xUcAkFKHe.png",
+					"url": "https://t.co/ty9Ts2d0UM",
+					"display_url": "pic.twitter.com/ty9Ts2d0UM",
+					"expanded_url": "https://twitter.com/ArtManagementKR/status/1429736915524218883/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1429736911011074000,
+		"in_reply_to_status_id_str": "1429736911011074050",
+		"in_reply_to_user_id": 778313051929911300,
+		"in_reply_to_user_id_str": "778313051929911296",
+		"in_reply_to_screen_name": "ArtManagementKR",
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "문화예술과 관련된 정보를 제공해드립니다.\n\n#예술경영 #뮤직비즈니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업",
+			"url": "https://t.co/hGE8N4Kde4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hGE8N4Kde4",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 648,
+			"friends_count": 60,
+			"listed_count": 6,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1625201124",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "샌드박스 네트워크 어그로체 폰트 라이센스 \n▶️ https://t.co/e4MonFALFv\n\n#샌드박스네트워크 #어그로체 #무료폰트 #폰트 \n#디자인 #굿즈제작 #뮤직비즈니스 https://t.co/ty9Ts2d0UM"
+	},
+	{
+		"created_at": "Mon Aug 23 09:29:51 +0000 2021",
+		"id": 1429734951432298500,
+		"id_str": "1429737640618827779",
+		"full_text": "𝐼'𝓂 𝓈𝑜 𝓉𝒽𝒾𝓇𝓈𝓉𝓎\n\n2021.08.25 WED 12PM\n최첼로(Choi Cello), Single 'Thirsty'\n\n#최첼로 #ChoiCello #Thirsty https://t.co/07v1208rLm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최첼로",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "ChoiCello",
+					"indices": [
+						76,
+						86
+					]
+				},
+				{
+					"text": "Thirsty",
+					"indices": [
+						87,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1429734946734706700,
+					"id_str": "1429734946734706690",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/E9dwW-cVkAIJhcK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9dwW-cVkAIJhcK.jpg",
+					"url": "https://t.co/07v1208rLm",
+					"display_url": "pic.twitter.com/07v1208rLm",
+					"expanded_url": "https://twitter.com/inplanet/status/1429734951432298499/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1429734946734706700,
+					"id_str": "1429734946734706690",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/E9dwW-cVkAIJhcK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9dwW-cVkAIJhcK.jpg",
+					"url": "https://t.co/07v1208rLm",
+					"display_url": "pic.twitter.com/07v1208rLm",
+					"expanded_url": "https://twitter.com/inplanet/status/1429734951432298499/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1447,
+			"friends_count": 775,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "𝐼'𝓂 𝓈𝑜 𝓉𝒽𝒾𝓇𝓈𝓉𝓎\n\n2021.08.25 WED 12PM\n최첼로(Choi Cello), Single 'Thirsty'\n\n#최첼로 #ChoiCello #Thirsty https://t.co/07v1208rLm"
+	},
+	{
+		"created_at": "Mon Aug 23 09:29:45 +0000 2021",
+		"id": 1429734169500811300,
+		"id_str": "1429737614987431940",
+		"full_text": "매직스트로베리 사운드에 합류함으로써 서핑을 비롯해 스케이트 보드, 음악 등 다양한 분야에 관심을 두고 있는 아티스트인 조준희가 보여줄 새로운 모습에 많은 기대와 응원 부탁드립니다!🙏💙\n\n🔗https://t.co/y182s5oOQw\n#newartist #chojoonhee #매직스트로베리사운드 #조준희 #서핑",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "newartist",
+					"indices": [
+						129,
+						139
+					]
+				},
+				{
+					"text": "chojoonhee",
+					"indices": [
+						140,
+						151
+					]
+				},
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						152,
+						163
+					]
+				},
+				{
+					"text": "조준희",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "서핑",
+					"indices": [
+						169,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y182s5oOQw",
+					"expanded_url": "https://youtu.be/CsHuYWmIDNo",
+					"display_url": "youtu.be/CsHuYWmIDNo",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1429733866936279000,
+		"in_reply_to_status_id_str": "1429733866936279041",
+		"in_reply_to_user_id": 263751129,
+		"in_reply_to_user_id_str": "263751129",
+		"in_reply_to_screen_name": "msbsound",
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드 MAGIC STRAWBERRY SOUND / Music label based in Korea",
+			"url": "https://t.co/2ZpTkk9tMw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2ZpTkk9tMw",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8543,
+			"friends_count": 21,
+			"listed_count": 101,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 95,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6156,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1597394894",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "매직스트로베리 사운드에 합류함으로써 서핑을 비롯해 스케이트 보드, 음악 등 다양한 분야에 관심을 두고 있는 아티스트인 조준희가 보여줄 새로운 모습에 많은 기대와 응원 부탁드립니다!🙏💙\n\n🔗https://t.co/y182s5oOQw\n#newartist #chojoonhee #매직스트로베리사운드 #조준희 #서핑"
+	},
+	{
+		"created_at": "Mon Aug 23 09:29:44 +0000 2021",
+		"id": 1429736911011074000,
+		"id_str": "1429737609970950149",
+		"full_text": "샌드박스 네트워크 어그로체 무료 배포 \n▶️ https://t.co/VdVBIo9PnC \n\n- 영리, 비영리 사용 가능한 폰트. \n- 아티스트 굿즈 만드는데 활용할 수 있음. \n(슬로건, 포장지, 잡지 등) \n- 웹사이트, 자막, 포스터 가능. \n\n#샌드박스네트워크 #어그로체 #무료폰트 #폰트 \n#디자인 #굿즈제작 #뮤직비즈니스 https://t.co/3SeUKdFug2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "샌드박스네트워크",
+					"indices": [
+						139,
+						148
+					]
+				},
+				{
+					"text": "어그로체",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "무료폰트",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "폰트",
+					"indices": [
+						161,
+						164
+					]
+				},
+				{
+					"text": "디자인",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "굿즈제작",
+					"indices": [
+						171,
+						176
+					]
+				},
+				{
+					"text": "뮤직비즈니스",
+					"indices": [
+						177,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VdVBIo9PnC",
+					"expanded_url": "https://bit.ly/sandbox_aggro",
+					"display_url": "bit.ly/sandbox_aggro",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1429735421919916000,
+					"id_str": "1429735421919916037",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1429735421919916037/pu/img/aU-t_FkB9zHMBgB3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1429735421919916037/pu/img/aU-t_FkB9zHMBgB3.jpg",
+					"url": "https://t.co/3SeUKdFug2",
+					"display_url": "pic.twitter.com/3SeUKdFug2",
+					"expanded_url": "https://twitter.com/ArtManagementKR/status/1429736911011074050/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1429735421919916000,
+					"id_str": "1429735421919916037",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1429735421919916037/pu/img/aU-t_FkB9zHMBgB3.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1429735421919916037/pu/img/aU-t_FkB9zHMBgB3.jpg",
+					"url": "https://t.co/3SeUKdFug2",
+					"display_url": "pic.twitter.com/3SeUKdFug2",
+					"expanded_url": "https://twitter.com/ArtManagementKR/status/1429736911011074050/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 27067,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1429735421919916037/pu/vid/320x320/A9NT-ahsWfYEZv-5.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1429735421919916037/pu/pl/b2s1StNyVU1xGmgg.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1429735421919916037/pu/vid/640x640/1M3Re41CEE1nDLnj.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1429735421919916037/pu/vid/540x540/rrGB4OYCDVW2ziD2.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 778313051929911300,
+			"id_str": "778313051929911296",
+			"name": "문화공연예술 정보",
+			"screen_name": "ArtManagementKR",
+			"location": "문의: contact@solplparty.com",
+			"description": "문화예술과 관련된 정보를 제공해드립니다.\n\n#예술경영 #뮤직비즈니스 #엔터테인먼트\n#채용 #공모 #공고 #강좌 #창업 #스타트업",
+			"url": "https://t.co/hGE8N4Kde4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hGE8N4Kde4",
+							"expanded_url": "https://culture.solpl.party",
+							"display_url": "culture.solpl.party",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 648,
+			"friends_count": 60,
+			"listed_count": 6,
+			"created_at": "Tue Sep 20 19:21:06 +0000 2016",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244196086421413888/PWaTmYMQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/778313051929911296/1625201124",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "샌드박스 네트워크 어그로체 무료 배포 \n▶️ https://t.co/VdVBIo9PnC \n\n- 영리, 비영리 사용 가능한 폰트. \n- 아티스트 굿즈 만드는데 활용할 수 있음. \n(슬로건, 포장지, 잡지 등) \n- 웹사이트, 자막, 포스터 가능. \n\n#샌드박스네트워크 #어그로체 #무료폰트 #폰트 \n#디자인 #굿즈제작 #뮤직비즈니스 https://t.co/3SeUKdFug2"
+	},
+	{
+		"created_at": "Mon Aug 23 09:29:42 +0000 2021",
+		"id": 1429730131417866200,
+		"id_str": "1429737601964064771",
+		"full_text": "[Jade]\nJade New Single [우리]\n2021.08.24 12PM KST\n\n#Jade #음악 #인디 #music #인디음악 https://t.co/Gu7pD8BBok",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Jade",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "음악",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "music",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						70,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1427903438185111600,
+					"id_str": "1427903438185111559",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/E9DunJaVIAcyVtT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9DunJaVIAcyVtT.jpg",
+					"url": "https://t.co/Gu7pD8BBok",
+					"display_url": "pic.twitter.com/Gu7pD8BBok",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1429730131417866247/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427903438185111600,
+					"id_str": "1427903438185111559",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/E9DunJaVIAcyVtT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9DunJaVIAcyVtT.jpg",
+					"url": "https://t.co/Gu7pD8BBok",
+					"display_url": "pic.twitter.com/Gu7pD8BBok",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1429730131417866247/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1427903438176743400,
+					"id_str": "1427903438176743429",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/E9DunJYVcAUe7Uw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9DunJYVcAUe7Uw.jpg",
+					"url": "https://t.co/Gu7pD8BBok",
+					"display_url": "pic.twitter.com/Gu7pD8BBok",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1429730131417866247/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1370,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 803,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 455,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/에버루아/아일",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 812,
+			"friends_count": 7,
+			"listed_count": 0,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "[Jade]\nJade New Single [우리]\n2021.08.24 12PM KST\n\n#Jade #음악 #인디 #music #인디음악 https://t.co/Gu7pD8BBok"
+	},
+	{
+		"created_at": "Mon Aug 23 09:29:39 +0000 2021",
+		"id": 1429730128850980900,
+		"id_str": "1429737588907204610",
+		"full_text": "Yerin Baek - Covers Album [선물] \n2021.09.10 6PM (KST) Release\n\n#yerinbaek #선물 #loveyerin \n#백예린 #release https://t.co/6ZZdSli5gk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "yerinbaek",
+					"indices": [
+						62,
+						72
+					]
+				},
+				{
+					"text": "선물",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "loveyerin",
+					"indices": [
+						77,
+						87
+					]
+				},
+				{
+					"text": "백예린",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "release",
+					"indices": [
+						94,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1429705209811406800,
+					"id_str": "1429705209811406850",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/E9dVUDxVkAIBui1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9dVUDxVkAIBui1.jpg",
+					"url": "https://t.co/6ZZdSli5gk",
+					"display_url": "pic.twitter.com/6ZZdSli5gk",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1429730128850980864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1429705209811406800,
+					"id_str": "1429705209811406850",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/E9dVUDxVkAIBui1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9dVUDxVkAIBui1.jpg",
+					"url": "https://t.co/6ZZdSli5gk",
+					"display_url": "pic.twitter.com/6ZZdSli5gk",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1429730128850980864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29245,
+			"friends_count": 2,
+			"listed_count": 184,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1629709742",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3568,
+		"favorite_count": 3921,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yerin Baek - Covers Album [선물] \n2021.09.10 6PM (KST) Release\n\n#yerinbaek #선물 #loveyerin \n#백예린 #release https://t.co/6ZZdSli5gk"
+	},
+	{
 		"created_at": "Mon Aug 23 09:18:50 +0000 2021",
 		"id": 1429734869307953200,
 		"id_str": "1429734869307953152",
