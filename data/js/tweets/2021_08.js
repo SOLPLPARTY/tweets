@@ -1,6 +1,714 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 23 10:29:46 +0000 2021",
+		"id": 1429750686334419000,
+		"id_str": "1429752719305289731",
+		"full_text": "8/26 (목) 밤 11시\n[#너드커넥션] ONE hour loop STREAMING @실시간 채팅 with 너드커넥션\n-\n8/27 (금) 정오\n[#김사월] 싱글 &lt;너만큼&gt; 발매\n-\n*’너드커넥션’ ONE hour loop STREAMING 에 대한 자세한 내용은 추후 공지 예정입니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"text": "김사월",
+					"indices": [
+						82,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1429750414530936800,
+		"in_reply_to_status_id_str": "1429750414530936839",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2116,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "8/26 (목) 밤 11시\n[#너드커넥션] ONE hour loop STREAMING @실시간 채팅 with 너드커넥션\n-\n8/27 (금) 정오\n[#김사월] 싱글 &lt;너만큼&gt; 발매\n-\n*’너드커넥션’ ONE hour loop STREAMING 에 대한 자세한 내용은 추후 공지 예정입니다."
+	},
+	{
+		"created_at": "Mon Aug 23 10:29:40 +0000 2021",
+		"id": 1429750602125381600,
+		"id_str": "1429752693623508992",
+		"full_text": "8/25 (수) 저녁 8시\n[#우주왕복선싸이드미러] &lt;집콘&gt; @카카오톡 / 카카오티비 생중계\n-\n8/25 (수) 밤 9시\n[#박소은] ONE hour loop STREAMING @실시간 채팅 with 박소은\n-\n8/26 (목) \n[#오지은] 팟캐스트 &lt;이런 나라도 떠나고 싶다&gt;\n-\n8/26 (목)\n[#너드커넥션] 울산 열린예술무대 &lt;뒤란&gt; 녹화",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우주왕복선싸이드미러",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"text": "박소은",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "오지은",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "너드커넥션",
+					"indices": [
+						180,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1429750414530936800,
+		"in_reply_to_status_id_str": "1429750414530936839",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2116,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "8/25 (수) 저녁 8시\n[#우주왕복선싸이드미러] &lt;집콘&gt; @카카오톡 / 카카오티비 생중계\n-\n8/25 (수) 밤 9시\n[#박소은] ONE hour loop STREAMING @실시간 채팅 with 박소은\n-\n8/26 (목) \n[#오지은] 팟캐스트 &lt;이런 나라도 떠나고 싶다&gt;\n-\n8/26 (목)\n[#너드커넥션] 울산 열린예술무대 &lt;뒤란&gt; 녹화"
+	},
+	{
+		"created_at": "Mon Aug 23 10:29:37 +0000 2021",
+		"id": 1429750414530936800,
+		"id_str": "1429752680503816193",
+		"full_text": "[#유어썸머] 8월 넷째주 스케쥴💌\n\n8/24 (화) 저녁 8시\n[#김사월] 네이버 온스테이지 후원 라이브\n\n8/25 (수)\n[#랄라스윗] 벅스라디오 &lt;랄라스윗의 이중생활&gt;\n-\n8/25 (수) 저녁 7시 30분\n[#너드커넥션] 2021 중구 문화 이음 콘서트 @‘울산MBC_뮤직’ 유튜브 채널 온라인 생중계 https://t.co/rknngNGc4T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유어썸머",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "김사월",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "랄라스윗",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "너드커넥션",
+					"indices": [
+						125,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1429750404363874300,
+					"id_str": "1429750404363874305",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/E9d-aumUcAEbmMC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9d-aumUcAEbmMC.jpg",
+					"url": "https://t.co/rknngNGc4T",
+					"display_url": "pic.twitter.com/rknngNGc4T",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1429750414530936839/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1429750404363874300,
+					"id_str": "1429750404363874305",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/E9d-aumUcAEbmMC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9d-aumUcAEbmMC.jpg",
+					"url": "https://t.co/rknngNGc4T",
+					"display_url": "pic.twitter.com/rknngNGc4T",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1429750414530936839/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1429750404372320300,
+					"id_str": "1429750404372320259",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/E9d-auoVUAMQeiR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9d-auoVUAMQeiR.jpg",
+					"url": "https://t.co/rknngNGc4T",
+					"display_url": "pic.twitter.com/rknngNGc4T",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1429750414530936839/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1429750404376457200,
+					"id_str": "1429750404376457216",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/E9d-aupUcAAn7PN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9d-aupUcAAn7PN.jpg",
+					"url": "https://t.co/rknngNGc4T",
+					"display_url": "pic.twitter.com/rknngNGc4T",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1429750414530936839/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "당신의 여름(Your Summer)은 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2116,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#유어썸머] 8월 넷째주 스케쥴💌\n\n8/24 (화) 저녁 8시\n[#김사월] 네이버 온스테이지 후원 라이브\n\n8/25 (수)\n[#랄라스윗] 벅스라디오 &lt;랄라스윗의 이중생활&gt;\n-\n8/25 (수) 저녁 7시 30분\n[#너드커넥션] 2021 중구 문화 이음 콘서트 @‘울산MBC_뮤직’ 유튜브 채널 온라인 생중계 https://t.co/rknngNGc4T"
+	},
+	{
+		"created_at": "Mon Aug 23 10:29:34 +0000 2021",
+		"id": 1429744969556709400,
+		"id_str": "1429752667430133773",
+		"full_text": "잠시 후 9시 싱어송라이터 다정 Dajung의 Live At Gimbab Records가 @gimbabrecords 유튜브채널로 방송됩니다🙌\n\nhttps://t.co/XAkPyhLZpb\n(유튜브에서 “gimbab records” 검색 —&gt;구독) https://t.co/JYgiLNj0Fl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gimbabrecords",
+					"name": "gimbabrecords",
+					"id": 620758826,
+					"id_str": "620758826",
+					"indices": [
+						50,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XAkPyhLZpb",
+					"expanded_url": "http://Youtube.com/c/gimbabrecords",
+					"display_url": "Youtube.com/c/gimbabrecords",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1429744964527747000,
+					"id_str": "1429744964527747081",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/E9d5eFoUcAkOv36.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9d5eFoUcAkOv36.jpg",
+					"url": "https://t.co/JYgiLNj0Fl",
+					"display_url": "pic.twitter.com/JYgiLNj0Fl",
+					"expanded_url": "https://twitter.com/electric_muse/status/1429744969556709385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1429744964527747000,
+					"id_str": "1429744964527747081",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/E9d5eFoUcAkOv36.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9d5eFoUcAkOv36.jpg",
+					"url": "https://t.co/JYgiLNj0Fl",
+					"display_url": "pic.twitter.com/JYgiLNj0Fl",
+					"expanded_url": "https://twitter.com/electric_muse/status/1429744969556709385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3334,
+			"friends_count": 1300,
+			"listed_count": 107,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 6006,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25770,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시 후 9시 싱어송라이터 다정 Dajung의 Live At Gimbab Records가 @gimbabrecords 유튜브채널로 방송됩니다🙌\n\nhttps://t.co/XAkPyhLZpb\n(유튜브에서 “gimbab records” 검색 —&gt;구독) https://t.co/JYgiLNj0Fl"
+	},
+	{
 		"created_at": "Mon Aug 23 09:29:56 +0000 2021",
 		"id": 1429736915524219000,
 		"id_str": "1429737660474564611",
