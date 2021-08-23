@@ -1,6 +1,558 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 23 05:29:43 +0000 2021",
+		"id": 1429670449349226500,
+		"id_str": "1429677209166524417",
+		"full_text": "DJ 라이언 X 매직스트로베리 사운드\n\n카카오프렌즈 라이언이 추천하는 스페셜 트랙 두번째! 계획대로 흘러가는 완벽한 하루의 시작을 열어줄 노동요 플레이리스트가 공개되었습니다. 🎧\n\n🔗https://t.co/gS7HcjK2ZJ\n#매직스트로베리사운드 #카카오프렌즈\n#라이언 #DJ라이언 #춘식 #플레이리스트 https://t.co/cbDZPnJWCH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						126,
+						137
+					]
+				},
+				{
+					"text": "카카오프렌즈",
+					"indices": [
+						138,
+						145
+					]
+				},
+				{
+					"text": "라이언",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "DJ라이언",
+					"indices": [
+						151,
+						157
+					]
+				},
+				{
+					"text": "춘식",
+					"indices": [
+						158,
+						161
+					]
+				},
+				{
+					"text": "플레이리스트",
+					"indices": [
+						162,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gS7HcjK2ZJ",
+					"expanded_url": "https://youtu.be/Xl4Z1Uj1TR8",
+					"display_url": "youtu.be/Xl4Z1Uj1TR8",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1429670431816970200,
+					"id_str": "1429670431816970241",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/E9c1rtpUcAEWZ9h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9c1rtpUcAEWZ9h.jpg",
+					"url": "https://t.co/cbDZPnJWCH",
+					"display_url": "pic.twitter.com/cbDZPnJWCH",
+					"expanded_url": "https://twitter.com/msbsound/status/1429670449349226503/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1429670431816970200,
+					"id_str": "1429670431816970241",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/E9c1rtpUcAEWZ9h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9c1rtpUcAEWZ9h.jpg",
+					"url": "https://t.co/cbDZPnJWCH",
+					"display_url": "pic.twitter.com/cbDZPnJWCH",
+					"expanded_url": "https://twitter.com/msbsound/status/1429670449349226503/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 263751129,
+			"id_str": "263751129",
+			"name": "매직스트로베리사운드",
+			"screen_name": "msbsound",
+			"location": "Republic of Korea",
+			"description": "매직스트로베리사운드 MAGIC STRAWBERRY SOUND / Music label based in Korea",
+			"url": "https://t.co/2ZpTkk9tMw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2ZpTkk9tMw",
+							"expanded_url": "http://www.msbsound.com/",
+							"display_url": "msbsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8543,
+			"friends_count": 21,
+			"listed_count": 101,
+			"created_at": "Thu Mar 10 17:31:19 +0000 2011",
+			"favourites_count": 95,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235186718501785600/za88IR61_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/263751129/1597394894",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "DJ 라이언 X 매직스트로베리 사운드\n\n카카오프렌즈 라이언이 추천하는 스페셜 트랙 두번째! 계획대로 흘러가는 완벽한 하루의 시작을 열어줄 노동요 플레이리스트가 공개되었습니다. 🎧\n\n🔗https://t.co/gS7HcjK2ZJ\n#매직스트로베리사운드 #카카오프렌즈\n#라이언 #DJ라이언 #춘식 #플레이리스트 https://t.co/cbDZPnJWCH"
+	},
+	{
+		"created_at": "Mon Aug 23 05:29:36 +0000 2021",
+		"id": 1429668986115944400,
+		"id_str": "1429677179286216704",
+		"full_text": "Sep 3, @saysueme's second of 3 virtual tour shows on Bandcamp Live! Playing 3 different setlists at 3 different Busan venues on 3 different dates!\n🎟Ticket : https://t.co/AE2bWR7wVU\nStreams are available to access for 48 hours, but you do need to purchase tickets in advance.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SaySueMe",
+					"name": "세이수미 Say Sue Me",
+					"id": 1027038272,
+					"id_str": "1027038272",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AE2bWR7wVU",
+					"expanded_url": "https://music.saysue.me/merch",
+					"display_url": "music.saysue.me/merch",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1429668213931999200,
+		"in_reply_to_status_id_str": "1429668213931999233",
+		"in_reply_to_user_id": 49219598,
+		"in_reply_to_user_id_str": "49219598",
+		"in_reply_to_screen_name": "electric_muse",
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3334,
+			"friends_count": 1300,
+			"listed_count": 107,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 6004,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sep 3, @saysueme's second of 3 virtual tour shows on Bandcamp Live! Playing 3 different setlists at 3 different Busan venues on 3 different dates!\n🎟Ticket : https://t.co/AE2bWR7wVU\nStreams are available to access for 48 hours, but you do need to purchase tickets in advance."
+	},
+	{
+		"created_at": "Mon Aug 23 05:29:32 +0000 2021",
+		"id": 1429668213931999200,
+		"id_str": "1429677161925910534",
+		"full_text": "9월3일 @SaySueMe의 버추얼 투어 두 번째 온라인 공연이 열립니다. [The Between The Time] 투어 두 번째 공연은 부산의 에너자이저 펑크 밴드 소음발광이 오프닝으로 함께 합니다😎\n🎟Ticket : https://t.co/AE2bWR7wVU\n⏰ 8PM KST (UTC+9) Sep 3 \nwith @soumbalgwang https://t.co/agkUTkl6jY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SaySueMe",
+					"name": "세이수미 Say Sue Me",
+					"id": 1027038272,
+					"id_str": "1027038272",
+					"indices": [
+						5,
+						14
+					]
+				},
+				{
+					"screen_name": "soumbalgwang",
+					"name": "소음발광",
+					"id": 887929248131895300,
+					"id_str": "887929248131895300",
+					"indices": [
+						177,
+						190
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AE2bWR7wVU",
+					"expanded_url": "https://music.saysue.me/merch",
+					"display_url": "music.saysue.me/merch",
+					"indices": [
+						123,
+						146
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1429667242132709400,
+					"id_str": "1429667242132709381",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/E9cyyDJVIAU6juz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9cyyDJVIAU6juz.jpg",
+					"url": "https://t.co/agkUTkl6jY",
+					"display_url": "pic.twitter.com/agkUTkl6jY",
+					"expanded_url": "https://twitter.com/electric_muse/status/1429668213931999233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 842,
+							"h": 1193,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 842,
+							"h": 1193,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1429667242132709400,
+					"id_str": "1429667242132709381",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/E9cyyDJVIAU6juz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9cyyDJVIAU6juz.jpg",
+					"url": "https://t.co/agkUTkl6jY",
+					"display_url": "pic.twitter.com/agkUTkl6jY",
+					"expanded_url": "https://twitter.com/electric_muse/status/1429668213931999233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 842,
+							"h": 1193,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 842,
+							"h": 1193,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3334,
+			"friends_count": 1300,
+			"listed_count": 107,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 6004,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "9월3일 @SaySueMe의 버추얼 투어 두 번째 온라인 공연이 열립니다. [The Between The Time] 투어 두 번째 공연은 부산의 에너자이저 펑크 밴드 소음발광이 오프닝으로 함께 합니다😎\n🎟Ticket : https://t.co/AE2bWR7wVU\n⏰ 8PM KST (UTC+9) Sep 3 \nwith @soumbalgwang https://t.co/agkUTkl6jY"
+	},
+	{
 		"created_at": "Mon Aug 23 04:11:16 +0000 2021",
 		"id": 1429651420001628200,
 		"id_str": "1429657468595015680",
