@@ -1,6 +1,173 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 23 14:29:25 +0000 2021",
+		"id": 1429808462326911000,
+		"id_str": "1429813027830960139",
+		"full_text": "#강릉아트센터\n#소울소스meets김율희 \n7월 27일 토요일 7:30PM @강릉아트센터 https://t.co/0Wmf3TMwlJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강릉아트센터",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "소울소스meets김율희",
+					"indices": [
+						8,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0Wmf3TMwlJ",
+					"expanded_url": "https://www.instagram.com/p/CS63eJWFZUM/?utm_medium=twitter",
+					"display_url": "instagram.com/p/CS63eJWFZUM/…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2855837208,
+			"id_str": "2855837208",
+			"name": "동양 표준 음향사/ Eastern Standard Sounds",
+			"screen_name": "E_S_Sounds",
+			"location": "Seoul, Korea",
+			"description": "All Roots and Culture/ Label/ Agency/ Distribute/ Produce/",
+			"url": "https://t.co/4se6MgTecT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4se6MgTecT",
+							"expanded_url": "http://www.easternstandardsounds.com",
+							"display_url": "easternstandardsounds.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 622,
+			"friends_count": 1766,
+			"listed_count": 10,
+			"created_at": "Tue Oct 14 19:11:59 +0000 2014",
+			"favourites_count": 242,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377239775166431236/AbrYTQ1R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2855837208/1627380012",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.77205323,
+				128.89558362
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				128.89558362,
+				37.77205323
+			]
+		},
+		"place": {
+			"id": "006e1e465caf7dd2",
+			"url": "https://api.twitter.com/1.1/geo/id/006e1e465caf7dd2.json",
+			"place_type": "city",
+			"name": "강릉시",
+			"full_name": "대한민국 강릉시",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							128.582684321891,
+							37.5097508807537
+						],
+						[
+							129.057705579885,
+							37.5097508807537
+						],
+						[
+							129.057705579885,
+							37.9309034711177
+						],
+						[
+							128.582684321891,
+							37.9309034711177
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#강릉아트센터\n#소울소스meets김율희 \n7월 27일 토요일 7:30PM @강릉아트센터 https://t.co/0Wmf3TMwlJ"
+	},
+	{
 		"created_at": "Mon Aug 23 13:29:33 +0000 2021",
 		"id": 1429794938854596600,
 		"id_str": "1429797965460353025",
