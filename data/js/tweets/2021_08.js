@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 24 05:29:40 +0000 2021",
+		"id": 1430039415645085700,
+		"id_str": "1430039584059142162",
+		"full_text": "[Interview]\n\n선우정아와의 콜라보로 화제를 모았던 대만의 대표 가수 와 웨이(Waa Wei)를 소개합니다. 선우정아와 황소윤의 대만 콘서트 현장에서 이뤄진 두 사람의 만남과 콜라보 곡 '꽃을 파는 사람'에 숨은 이야기를 인터뷰를 통해 살펴봤습니다.\nhttps://t.co/yVrqcbbgig",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yVrqcbbgig",
+					"expanded_url": "https://www.highjinkxmm.com/features/waa-wei-have-a-nice-day",
+					"display_url": "highjinkxmm.com/features/waa-w…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/P2V4wFkAko",
+			"url": "https://t.co/oAPJfxeB46",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAPJfxeB46",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P2V4wFkAko",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 431,
+			"friends_count": 21,
+			"listed_count": 0,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 581,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Interview]\n\n선우정아와의 콜라보로 화제를 모았던 대만의 대표 가수 와 웨이(Waa Wei)를 소개합니다. 선우정아와 황소윤의 대만 콘서트 현장에서 이뤄진 두 사람의 만남과 콜라보 곡 '꽃을 파는 사람'에 숨은 이야기를 인터뷰를 통해 살펴봤습니다.\nhttps://t.co/yVrqcbbgig"
+	},
+	{
+		"created_at": "Tue Aug 24 05:29:34 +0000 2021",
+		"id": 1430036201986138000,
+		"id_str": "1430039558410973185",
+		"full_text": "Set List\n00:00 drama\n04:31 I'm Still Alive \n07:57 Do What Your Want \n09:56 Is There Any Way You Could Change (Take1 &amp;2)\n16:01 Bruce Springsteen- I'm On Fire (Cover) *exclusively for Live At Gimbab Records\n19:57 Pride \n23:56 Untitled 2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1430036200220356600,
+		"in_reply_to_status_id_str": "1430036200220356611",
+		"in_reply_to_user_id": 49219598,
+		"in_reply_to_user_id_str": "49219598",
+		"in_reply_to_screen_name": "electric_muse",
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3335,
+			"friends_count": 1300,
+			"listed_count": 107,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 6008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Set List\n00:00 drama\n04:31 I'm Still Alive \n07:57 Do What Your Want \n09:56 Is There Any Way You Could Change (Take1 &amp;2)\n16:01 Bruce Springsteen- I'm On Fire (Cover) *exclusively for Live At Gimbab Records\n19:57 Pride \n23:56 Untitled 2"
+	},
+	{
+		"created_at": "Tue Aug 24 05:29:32 +0000 2021",
+		"id": 1430036200220356600,
+		"id_str": "1430039549573574683",
+		"full_text": "🎤🎤Live At Gimbab Records 초소형 음반매장 라이브\n- @dajungjen \n\nJay Knife 사인CD 판매\n라이브 스트리밍 시작과 함께 \"Jay Knife\" CD 사인반을 선착순 구매하실 수 있습니다. (8월 23일 저녁 9시부터 8월 27일 금요일까지 선착순 판매)\n판매처: https://t.co/v5X0n748jo\n\nhttps://t.co/164KqO372V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dajungjen",
+					"name": "Dajung",
+					"id": 1341628352424104000,
+					"id_str": "1341628352424103936",
+					"indices": [
+						40,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/v5X0n748jo",
+					"expanded_url": "http://gimbabrecords.com",
+					"display_url": "gimbabrecords.com",
+					"indices": [
+						166,
+						189
+					]
+				},
+				{
+					"url": "https://t.co/164KqO372V",
+					"expanded_url": "https://youtu.be/C7BoQTmCxCY",
+					"display_url": "youtu.be/C7BoQTmCxCY",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3335,
+			"friends_count": 1300,
+			"listed_count": 107,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 6008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎤🎤Live At Gimbab Records 초소형 음반매장 라이브\n- @dajungjen \n\nJay Knife 사인CD 판매\n라이브 스트리밍 시작과 함께 \"Jay Knife\" CD 사인반을 선착순 구매하실 수 있습니다. (8월 23일 저녁 9시부터 8월 27일 금요일까지 선착순 판매)\n판매처: https://t.co/v5X0n748jo\n\nhttps://t.co/164KqO372V"
+	},
+	{
 		"created_at": "Tue Aug 24 04:29:25 +0000 2021",
 		"id": 1430014967411994600,
 		"id_str": "1430024422375702531",
