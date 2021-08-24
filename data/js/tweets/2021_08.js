@@ -1,6 +1,1137 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 24 09:29:57 +0000 2021",
+		"id": 1430098526667612200,
+		"id_str": "1430100054254231552",
+		"full_text": "[Concert] #정승환 #적재\n\n정승환, 적재가 2021 대구 &lt;일상으로의 초대&gt; 실내뮤직페스티벌 공연에 함께합니다💜\n\n- 일시: 2021년 9월 25일(토) 14:00\n- 장소: 대구 엑스코 서관 2홀\n- 티켓 오픈: 2021년 8월 26일(목) 20:00\n@ YES24 티켓, 인터파크 티켓\n\n#실내뮤직페스티벌 #일상으로의초대 https://t.co/CEgTGZX6sC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정승환",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						15,
+						18
+					]
+				},
+				{
+					"text": "실내뮤직페스티벌",
+					"indices": [
+						174,
+						183
+					]
+				},
+				{
+					"text": "일상으로의초대",
+					"indices": [
+						184,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1430098519382126600,
+					"id_str": "1430098519382126597",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/E9i7BsGVcAUpssy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9i7BsGVcAUpssy.jpg",
+					"url": "https://t.co/CEgTGZX6sC",
+					"display_url": "pic.twitter.com/CEgTGZX6sC",
+					"expanded_url": "https://twitter.com/antennamusic/status/1430098526667612161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430098519382126600,
+					"id_str": "1430098519382126597",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/E9i7BsGVcAUpssy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9i7BsGVcAUpssy.jpg",
+					"url": "https://t.co/CEgTGZX6sC",
+					"display_url": "pic.twitter.com/CEgTGZX6sC",
+					"expanded_url": "https://twitter.com/antennamusic/status/1430098526667612161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 권진아 Summer Single 'KNOCK (With 박문치)' 2021. 07. 27. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36920,
+			"friends_count": 10,
+			"listed_count": 373,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3869,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Concert] #정승환 #적재\n\n정승환, 적재가 2021 대구 &lt;일상으로의 초대&gt; 실내뮤직페스티벌 공연에 함께합니다💜\n\n- 일시: 2021년 9월 25일(토) 14:00\n- 장소: 대구 엑스코 서관 2홀\n- 티켓 오픈: 2021년 8월 26일(목) 20:00\n@ YES24 티켓, 인터파크 티켓\n\n#실내뮤직페스티벌 #일상으로의초대 https://t.co/CEgTGZX6sC"
+	},
+	{
+		"created_at": "Tue Aug 24 09:29:48 +0000 2021",
+		"id": 1430098459940384800,
+		"id_str": "1430100015905652736",
+		"full_text": "권은비 ‘OPEN’ Released!!\n❤️ https://t.co/AOy8exNJwU https://t.co/xaEoywb3Pd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AOy8exNJwU",
+					"expanded_url": "https://www.instagram.com/p/CS85iQ0n8Xm/?utm_medium=copy_link",
+					"display_url": "instagram.com/p/CS85iQ0n8Xm/…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1430098432736194600,
+					"id_str": "1430098432736194560",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/E9i68pUVcAAn4D1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9i68pUVcAAn4D1.jpg",
+					"url": "https://t.co/xaEoywb3Pd",
+					"display_url": "pic.twitter.com/xaEoywb3Pd",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1430098459940384768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 696,
+							"h": 694,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 696,
+							"h": 694,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430098432736194600,
+					"id_str": "1430098432736194560",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/E9i68pUVcAAn4D1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9i68pUVcAAn4D1.jpg",
+					"url": "https://t.co/xaEoywb3Pd",
+					"display_url": "pic.twitter.com/xaEoywb3Pd",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1430098459940384768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 696,
+							"h": 694,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 696,
+							"h": 694,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/75NNtZGos2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/75NNtZGos2",
+							"expanded_url": "https://www.monotree.shop",
+							"display_url": "monotree.shop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7163,
+			"friends_count": 0,
+			"listed_count": 53,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "권은비 ‘OPEN’ Released!!\n❤️ https://t.co/AOy8exNJwU https://t.co/xaEoywb3Pd"
+	},
+	{
+		"created_at": "Tue Aug 24 09:29:44 +0000 2021",
+		"id": 1430092553861230600,
+		"id_str": "1430099998671319070",
+		"full_text": "컴🌟비주얼 맛집🌟백\n과즙미 팡팡 넘치는\n바닐라코 곤듀님이 궁금한 사람🙋\n쓱크립트에서 만나요👋\n\n🗒 https://t.co/6m7AbsNj1v\n\n#신세경 #ShinSaeKyeong\n#쓱크립트 #SSKcript https://t.co/U82syIkhK7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신세경",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "ShinSaeKyeong",
+					"indices": [
+						85,
+						99
+					]
+				},
+				{
+					"text": "쓱크립트",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "SSKcript",
+					"indices": [
+						106,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6m7AbsNj1v",
+					"expanded_url": "https://youtu.be/-Bq2r5cYtUk",
+					"display_url": "youtu.be/-Bq2r5cYtUk",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1430084069459566600,
+					"id_str": "1430084069459566596",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/E9it4l8VIAQBqQk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9it4l8VIAQBqQk.jpg",
+					"url": "https://t.co/U82syIkhK7",
+					"display_url": "pic.twitter.com/U82syIkhK7",
+					"expanded_url": "https://twitter.com/edam_ent/status/1430092553861230598/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430084069459566600,
+					"id_str": "1430084069459566596",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/E9it4l8VIAQBqQk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9it4l8VIAQBqQk.jpg",
+					"url": "https://t.co/U82syIkhK7",
+					"display_url": "pic.twitter.com/U82syIkhK7",
+					"expanded_url": "https://twitter.com/edam_ent/status/1430092553861230598/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51598,
+			"friends_count": 2,
+			"listed_count": 188,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 132,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 289,
+		"favorite_count": 1023,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "컴🌟비주얼 맛집🌟백\n과즙미 팡팡 넘치는\n바닐라코 곤듀님이 궁금한 사람🙋\n쓱크립트에서 만나요👋\n\n🗒 https://t.co/6m7AbsNj1v\n\n#신세경 #ShinSaeKyeong\n#쓱크립트 #SSKcript https://t.co/U82syIkhK7"
+	},
+	{
+		"created_at": "Tue Aug 24 09:29:35 +0000 2021",
+		"id": 1430092526699098000,
+		"id_str": "1430099960306020369",
+		"full_text": "[Official Photo]\n⠀\n보라미유 - '단밤 (Danbam)' \n2021.08.25. 6PM Release 🌜\n\n#보라미유 #Boramiyu \n#단밤 #Danbam #따따따따라따따 https://t.co/QwtpjHgHbE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보라미유",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "Boramiyu",
+					"indices": [
+						74,
+						83
+					]
+				},
+				{
+					"text": "단밤",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "Danbam",
+					"indices": [
+						89,
+						96
+					]
+				},
+				{
+					"text": "따따따따라따따",
+					"indices": [
+						97,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1430070483043508200,
+					"id_str": "1430070483043508227",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/E9ihhwmUYAMACRG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9ihhwmUYAMACRG.jpg",
+					"url": "https://t.co/QwtpjHgHbE",
+					"display_url": "pic.twitter.com/QwtpjHgHbE",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1430092526699098168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1015,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1774,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 575,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430070483043508200,
+					"id_str": "1430070483043508227",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/E9ihhwmUYAMACRG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9ihhwmUYAMACRG.jpg",
+					"url": "https://t.co/QwtpjHgHbE",
+					"display_url": "pic.twitter.com/QwtpjHgHbE",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1430092526699098168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1015,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1774,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 575,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1430070483509080000,
+					"id_str": "1430070483509080068",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/E9ihhyVUcAQqTGw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9ihhyVUcAQqTGw.jpg",
+					"url": "https://t.co/QwtpjHgHbE",
+					"display_url": "pic.twitter.com/QwtpjHgHbE",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1430092526699098168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1015,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 575,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1774,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1430070483844624400,
+					"id_str": "1430070483844624388",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/E9ihhzlUcAQqZY-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9ihhzlUcAQqZY-.jpg",
+					"url": "https://t.co/QwtpjHgHbE",
+					"display_url": "pic.twitter.com/QwtpjHgHbE",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1430092526699098168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 575,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1015,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1774,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1430070484251467800,
+					"id_str": "1430070484251467778",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/E9ihh1GUYAIwC6E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9ihh1GUYAIwC6E.jpg",
+					"url": "https://t.co/QwtpjHgHbE",
+					"display_url": "pic.twitter.com/QwtpjHgHbE",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1430092526699098168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1015,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1774,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 575,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/VtrzF3mRza",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VtrzF3mRza",
+							"expanded_url": "http://shofar-ent.com",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7748,
+			"friends_count": 4,
+			"listed_count": 66,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1629789716",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Official Photo]\n⠀\n보라미유 - '단밤 (Danbam)' \n2021.08.25. 6PM Release 🌜\n\n#보라미유 #Boramiyu \n#단밤 #Danbam #따따따따라따따 https://t.co/QwtpjHgHbE"
+	},
+	{
+		"created_at": "Tue Aug 24 09:29:31 +0000 2021",
+		"id": 1430092522844471300,
+		"id_str": "1430099943033876511",
+		"full_text": "권은비(KWON EUN BI) 'Door' M/V\n\n2021.08.24 6PM RELEASE\n\nhttps://t.co/tBCoZLOvi9\nhttps://t.co/XaiYUTqpRl\n\n#권은비 #KwonEunBi #OPEN #Door https://t.co/aHqiZYL5Bu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권은비",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "KwonEunBi",
+					"indices": [
+						107,
+						117
+					]
+				},
+				{
+					"text": "OPEN",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "Door",
+					"indices": [
+						124,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tBCoZLOvi9",
+					"expanded_url": "https://youtu.be/RRizK5QYZeo",
+					"display_url": "youtu.be/RRizK5QYZeo",
+					"indices": [
+						53,
+						76
+					]
+				},
+				{
+					"url": "https://t.co/XaiYUTqpRl",
+					"expanded_url": "https://www.vlive.tv/post/0-24936837",
+					"display_url": "vlive.tv/post/0-24936837",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1430023322725617700,
+					"id_str": "1430023322725617673",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/E9h2oquVkAk_m2u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9h2oquVkAk_m2u.jpg",
+					"url": "https://t.co/aHqiZYL5Bu",
+					"display_url": "pic.twitter.com/aHqiZYL5Bu",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1430092522844471297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430023322725617700,
+					"id_str": "1430023322725617673",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/E9h2oquVkAk_m2u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9h2oquVkAk_m2u.jpg",
+					"url": "https://t.co/aHqiZYL5Bu",
+					"display_url": "pic.twitter.com/aHqiZYL5Bu",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1430092522844471297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTuZ29E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTuZ29E",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 431627,
+			"friends_count": 11,
+			"listed_count": 1,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1628673097",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1214,
+		"favorite_count": 2092,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "권은비(KWON EUN BI) 'Door' M/V\n\n2021.08.24 6PM RELEASE\n\nhttps://t.co/tBCoZLOvi9\nhttps://t.co/XaiYUTqpRl\n\n#권은비 #KwonEunBi #OPEN #Door https://t.co/aHqiZYL5Bu"
+	},
+	{
 		"created_at": "Tue Aug 24 09:09:44 +0000 2021",
 		"id": 1430094967649751000,
 		"id_str": "1430094967649751041",
