@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 25 15:29:25 +0000 2021",
+		"id": 1430545530359218200,
+		"id_str": "1430552902918098945",
+		"full_text": "😌IV Jay – Vibrate [Remix] (ft.GSoul(@Gsoullove))😌\n각 국의 천상계 목소리를 가진 두 아티스트의 Vibrate가 우리 곁에 찾아옵니다🥺\n오늘 오후 6시 바로 만나보아요💕 \n\nAugust 26th, 6:00PM KST (5:00AM EST)\n \n#warnermusic #워너뮤직 #IVJay #GSoul #지소울 #Vibrate https://t.co/mabluY7t9H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnermusic",
+					"indices": [
+						157,
+						169
+					]
+				},
+				{
+					"text": "워너뮤직",
+					"indices": [
+						170,
+						175
+					]
+				},
+				{
+					"text": "IVJay",
+					"indices": [
+						176,
+						182
+					]
+				},
+				{
+					"text": "GSoul",
+					"indices": [
+						183,
+						189
+					]
+				},
+				{
+					"text": "지소울",
+					"indices": [
+						190,
+						194
+					]
+				},
+				{
+					"text": "Vibrate",
+					"indices": [
+						195,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gsoullove",
+					"name": "G",
+					"id": 121589749,
+					"id_str": "121589749",
+					"indices": [
+						36,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1430545521639186400,
+					"id_str": "1430545521639186438",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/E9pRkpRUYAYamB1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9pRkpRUYAYamB1.jpg",
+					"url": "https://t.co/mabluY7t9H",
+					"display_url": "pic.twitter.com/mabluY7t9H",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1430545530359218183/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1425,
+							"h": 1425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430545521639186400,
+					"id_str": "1430545521639186438",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/E9pRkpRUYAYamB1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9pRkpRUYAYamB1.jpg",
+					"url": "https://t.co/mabluY7t9H",
+					"display_url": "pic.twitter.com/mabluY7t9H",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1430545530359218183/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1425,
+							"h": 1425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51481,
+			"friends_count": 496,
+			"listed_count": 190,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 94,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "😌IV Jay – Vibrate [Remix] (ft.GSoul(@Gsoullove))😌\n각 국의 천상계 목소리를 가진 두 아티스트의 Vibrate가 우리 곁에 찾아옵니다🥺\n오늘 오후 6시 바로 만나보아요💕 \n\nAugust 26th, 6:00PM KST (5:00AM EST)\n \n#warnermusic #워너뮤직 #IVJay #GSoul #지소울 #Vibrate https://t.co/mabluY7t9H"
+	},
+	{
 		"created_at": "Wed Aug 25 13:11:17 +0000 2021",
 		"id": 1430516983146164200,
 		"id_str": "1430518141239562244",
