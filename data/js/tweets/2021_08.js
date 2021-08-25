@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 25 06:29:32 +0000 2021",
+		"id": 1430413285900263400,
+		"id_str": "1430417037126422528",
+		"full_text": "로칼리카 펜타포트 언오피셜 ep 1.\n\n대한민국 최초의 록 페스티벌, 펜타포트!\n박현준, 배영수의 맛깔나는 진행과 CRASH의 안흥찬, 경인방송 DJ 성우진의 입담이 만났다.\n펜타포트 록 페스티벌의 알려지지 않은 이야기가 공개된다. \n록 페스티벌이 사라진 2021년 여름, 록페가 그리운 당신! 루비튜브로! https://t.co/ilTgAtrK2E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1430413281278128000,
+					"id_str": "1430413281278128128",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/E9nZTPiVcAAtrNU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9nZTPiVcAAtrNU.jpg",
+					"url": "https://t.co/ilTgAtrK2E",
+					"display_url": "pic.twitter.com/ilTgAtrK2E",
+					"expanded_url": "https://twitter.com/ruby_records/status/1430413285900263438/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 708,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 708,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430413281278128000,
+					"id_str": "1430413281278128128",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/E9nZTPiVcAAtrNU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9nZTPiVcAAtrNU.jpg",
+					"url": "https://t.co/ilTgAtrK2E",
+					"display_url": "pic.twitter.com/ilTgAtrK2E",
+					"expanded_url": "https://twitter.com/ruby_records/status/1430413285900263438/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 708,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 708,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7683,
+			"friends_count": 8359,
+			"listed_count": 198,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "로칼리카 펜타포트 언오피셜 ep 1.\n\n대한민국 최초의 록 페스티벌, 펜타포트!\n박현준, 배영수의 맛깔나는 진행과 CRASH의 안흥찬, 경인방송 DJ 성우진의 입담이 만났다.\n펜타포트 록 페스티벌의 알려지지 않은 이야기가 공개된다. \n록 페스티벌이 사라진 2021년 여름, 록페가 그리운 당신! 루비튜브로! https://t.co/ilTgAtrK2E"
+	},
+	{
 		"created_at": "Wed Aug 25 06:11:16 +0000 2021",
 		"id": 1430401509548716000,
 		"id_str": "1430412442929090722",
