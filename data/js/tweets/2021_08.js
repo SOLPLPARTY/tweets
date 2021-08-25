@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 25 01:29:40 +0000 2021",
+		"id": 1430337764805857300,
+		"id_str": "1430341573842284549",
+		"full_text": "Youtube: https://t.co/fLSNIBvwYe\nApple Music: https://t.co/9O3RrA8itr\nSpotify: https://t.co/iddGaXMQui",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fLSNIBvwYe",
+					"expanded_url": "https://www.youtube.com/playlist?list=PLv8vQiISLY7QzMA56EUw4h5bs6hA5vDdL",
+					"display_url": "youtube.com/playlist?list=…",
+					"indices": [
+						9,
+						32
+					]
+				},
+				{
+					"url": "https://t.co/9O3RrA8itr",
+					"expanded_url": "https://music.apple.com/kr/playlist/%E9%AD%8F%E5%A6%82%E8%90%B1-waa-wei-%EB%B9%84%EC%8A%A4%ED%82%B7%EC%9D%84-%EB%84%88%EB%AC%B4-%EB%A7%8E%EC%9D%B4-%EB%A8%B9%EC%97%88%EB%8A%94%EB%8D%B0-%EA%B3%A0%EC%9D%98%EB%8A%94-%EC%95%84%EB%8B%88%EC%97%88%EC%96%B4/pl.u-JPAZZNqsDRmyVV0",
+					"display_url": "music.apple.com/kr/playlist/%E…",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"url": "https://t.co/iddGaXMQui",
+					"expanded_url": "https://open.spotify.com/playlist/78q4MeTFahnoHZ8Dvxk7zC?si=7303f1b5689b4f40&nd=1",
+					"display_url": "open.spotify.com/playlist/78q4M…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1430337479320604700,
+		"in_reply_to_status_id_str": "1430337479320604672",
+		"in_reply_to_user_id": 985865748638650400,
+		"in_reply_to_user_id_str": "985865748638650368",
+		"in_reply_to_screen_name": "HIGHJINKXX",
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/P2V4wFkAko",
+			"url": "https://t.co/oAPJfxeB46",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAPJfxeB46",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P2V4wFkAko",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 431,
+			"friends_count": 21,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Youtube: https://t.co/fLSNIBvwYe\nApple Music: https://t.co/9O3RrA8itr\nSpotify: https://t.co/iddGaXMQui"
+	},
+	{
+		"created_at": "Wed Aug 25 01:29:34 +0000 2021",
+		"id": 1430337479320604700,
+		"id_str": "1430341547950755841",
+		"full_text": "[Playlist]\n\nwaa wei: 비스킷을 너무 많이 먹었는데, 고의는 아니었어\n\n대만을 대표하는 목소리, 와 웨이(waa wei)의 플레이리스트를 공개합니다. VOOID, 水源 Xueiyuan, 椅子樂團 The Chairs 등 대만의 인디 뮤지션들에 대한 애정이 묻어 나오는 선곡입니다.\n\nhttps://t.co/rkeRYsTOHL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rkeRYsTOHL",
+					"expanded_url": "http://highjinkxmm.com/playlist/waa-wei-playlist",
+					"display_url": "highjinkxmm.com/playlist/waa-w…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/P2V4wFkAko",
+			"url": "https://t.co/oAPJfxeB46",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAPJfxeB46",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P2V4wFkAko",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 431,
+			"friends_count": 21,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Playlist]\n\nwaa wei: 비스킷을 너무 많이 먹었는데, 고의는 아니었어\n\n대만을 대표하는 목소리, 와 웨이(waa wei)의 플레이리스트를 공개합니다. VOOID, 水源 Xueiyuan, 椅子樂團 The Chairs 등 대만의 인디 뮤지션들에 대한 애정이 묻어 나오는 선곡입니다.\n\nhttps://t.co/rkeRYsTOHL"
+	},
+	{
 		"created_at": "Tue Aug 24 23:58:40 +0000 2021",
 		"id": 1430315484872913000,
 		"id_str": "1430318674804715525",
