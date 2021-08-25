@@ -1,6 +1,938 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 25 09:42:54 +0000 2021",
+		"id": 1430465699126956000,
+		"id_str": "1430465699126956032",
+		"full_text": "#소니뮤직코리아 #Sony_Music_Korea\n[be loved] 한국인이 가장 사랑하는 팝 음악 ep.11\nhttps://t.co/Ej4dHVW0ix",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소니뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Sony_Music_Korea",
+					"indices": [
+						9,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ej4dHVW0ix",
+					"expanded_url": "https://youtu.be/Cg35lkhO46c",
+					"display_url": "youtu.be/Cg35lkhO46c",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#소니뮤직코리아 #Sony_Music_Korea\n[be loved] 한국인이 가장 사랑하는 팝 음악 ep.11\nhttps://t.co/Ej4dHVW0ix"
+	},
+	{
+		"created_at": "Wed Aug 25 09:29:51 +0000 2021",
+		"id": 1430459912522330000,
+		"id_str": "1430462416849154050",
+		"full_text": "[보라미유 - '단밤 (Danbam)' 바로듣기]\n⠀\n벅스 https://t.co/V2za7QFyCY\n멜론 https://t.co/Y47HV9NmPz\n지니 https://t.co/0639mXRPr5\n플로 https://t.co/TwZrhCl4BS\n바이브 https://t.co/8TuefwW8tZ\n스포티파이 https://t.co/nkMjZWoyGQ\n유튜브뮤직 https://t.co/XegnrNc1Q8\n⠀\n#보라미유 #Boramiyu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보라미유",
+					"indices": [
+						228,
+						233
+					]
+				},
+				{
+					"text": "Boramiyu",
+					"indices": [
+						234,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V2za7QFyCY",
+					"expanded_url": "https://bit.ly/3yfKyUC",
+					"display_url": "bit.ly/3yfKyUC",
+					"indices": [
+						33,
+						56
+					]
+				},
+				{
+					"url": "https://t.co/Y47HV9NmPz",
+					"expanded_url": "https://bit.ly/3B5fBEg",
+					"display_url": "bit.ly/3B5fBEg",
+					"indices": [
+						60,
+						83
+					]
+				},
+				{
+					"url": "https://t.co/0639mXRPr5",
+					"expanded_url": "https://bit.ly/3gvOpXC",
+					"display_url": "bit.ly/3gvOpXC",
+					"indices": [
+						87,
+						110
+					]
+				},
+				{
+					"url": "https://t.co/TwZrhCl4BS",
+					"expanded_url": "https://bit.ly/3Dcg4Xr",
+					"display_url": "bit.ly/3Dcg4Xr",
+					"indices": [
+						114,
+						137
+					]
+				},
+				{
+					"url": "https://t.co/8TuefwW8tZ",
+					"expanded_url": "https://bit.ly/2WnjWne",
+					"display_url": "bit.ly/2WnjWne",
+					"indices": [
+						142,
+						165
+					]
+				},
+				{
+					"url": "https://t.co/nkMjZWoyGQ",
+					"expanded_url": "https://spoti.fi/3yg91sM",
+					"display_url": "spoti.fi/3yg91sM",
+					"indices": [
+						172,
+						195
+					]
+				},
+				{
+					"url": "https://t.co/XegnrNc1Q8",
+					"expanded_url": "https://bit.ly/3jhKrnn",
+					"display_url": "bit.ly/3jhKrnn",
+					"indices": [
+						202,
+						225
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1430454907694239700,
+		"in_reply_to_status_id_str": "1430454907694239746",
+		"in_reply_to_user_id": 265792818,
+		"in_reply_to_user_id_str": "265792818",
+		"in_reply_to_screen_name": "shofar_ent",
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/VtrzF3mRza",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VtrzF3mRza",
+							"expanded_url": "http://shofar-ent.com",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7752,
+			"friends_count": 4,
+			"listed_count": 66,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1629789716",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[보라미유 - '단밤 (Danbam)' 바로듣기]\n⠀\n벅스 https://t.co/V2za7QFyCY\n멜론 https://t.co/Y47HV9NmPz\n지니 https://t.co/0639mXRPr5\n플로 https://t.co/TwZrhCl4BS\n바이브 https://t.co/8TuefwW8tZ\n스포티파이 https://t.co/nkMjZWoyGQ\n유튜브뮤직 https://t.co/XegnrNc1Q8\n⠀\n#보라미유 #Boramiyu"
+	},
+	{
+		"created_at": "Wed Aug 25 09:29:44 +0000 2021",
+		"id": 1430455277111812000,
+		"id_str": "1430462386981453826",
+		"full_text": "[Video] #적재\n\n&lt;EV6타고 간 '적재' 패밀리를 힐링 여행지로 이끌 몰래온 손님은 누구일까?&gt;\n\n적재가 함께한 'EV6씽씽트래블’ 티저 영상이 공개되었습니다🚗💨\n\n🖇https://t.co/jN4yp0JiIm\n\n#Jukjae #EV6씽씽트래블 https://t.co/rXRYi1fuho",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "적재",
+					"indices": [
+						8,
+						11
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						128,
+						135
+					]
+				},
+				{
+					"text": "EV6씽씽트래블",
+					"indices": [
+						136,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jN4yp0JiIm",
+					"expanded_url": "https://youtu.be/4l13wHgb-jg",
+					"display_url": "youtu.be/4l13wHgb-jg",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1430455273097875500,
+					"id_str": "1430455273097875456",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/E9n_ffQVUAA0wvn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9n_ffQVUAA0wvn.jpg",
+					"url": "https://t.co/rXRYi1fuho",
+					"display_url": "pic.twitter.com/rXRYi1fuho",
+					"expanded_url": "https://twitter.com/antennamusic/status/1430455277111812097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430455273097875500,
+					"id_str": "1430455273097875456",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/E9n_ffQVUAA0wvn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9n_ffQVUAA0wvn.jpg",
+					"url": "https://t.co/rXRYi1fuho",
+					"display_url": "pic.twitter.com/rXRYi1fuho",
+					"expanded_url": "https://twitter.com/antennamusic/status/1430455277111812097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 권진아 Summer Single 'KNOCK (With 박문치)' 2021. 07. 27. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36928,
+			"friends_count": 10,
+			"listed_count": 373,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Video] #적재\n\n&lt;EV6타고 간 '적재' 패밀리를 힐링 여행지로 이끌 몰래온 손님은 누구일까?&gt;\n\n적재가 함께한 'EV6씽씽트래블’ 티저 영상이 공개되었습니다🚗💨\n\n🖇https://t.co/jN4yp0JiIm\n\n#Jukjae #EV6씽씽트래블 https://t.co/rXRYi1fuho"
+	},
+	{
+		"created_at": "Wed Aug 25 09:29:39 +0000 2021",
+		"id": 1430454907694239700,
+		"id_str": "1430462365498216453",
+		"full_text": "[Release]\n⠀\n달달한 밤이 찾아왔어🌜\n⠀\n보라미유 - '단밤 (Danbam)' \n2021.08.25. 6PM Release\n\n#보라미유 #Boramiyu \n#단밤 #Danbam #따따따따라따따 https://t.co/1wxDRmPUEM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보라미유",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "Boramiyu",
+					"indices": [
+						80,
+						89
+					]
+				},
+				{
+					"text": "단밤",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "Danbam",
+					"indices": [
+						95,
+						102
+					]
+				},
+				{
+					"text": "따따따따라따따",
+					"indices": [
+						103,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1430436544897118200,
+					"id_str": "1430436544897118212",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/E9nudXRUcAQXxIE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9nudXRUcAQXxIE.jpg",
+					"url": "https://t.co/1wxDRmPUEM",
+					"display_url": "pic.twitter.com/1wxDRmPUEM",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1430454907694239746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430436544897118200,
+					"id_str": "1430436544897118212",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/E9nudXRUcAQXxIE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9nudXRUcAQXxIE.jpg",
+					"url": "https://t.co/1wxDRmPUEM",
+					"display_url": "pic.twitter.com/1wxDRmPUEM",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1430454907694239746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/VtrzF3mRza",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VtrzF3mRza",
+							"expanded_url": "http://shofar-ent.com",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7752,
+			"friends_count": 4,
+			"listed_count": 66,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1629789716",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release]\n⠀\n달달한 밤이 찾아왔어🌜\n⠀\n보라미유 - '단밤 (Danbam)' \n2021.08.25. 6PM Release\n\n#보라미유 #Boramiyu \n#단밤 #Danbam #따따따따라따따 https://t.co/1wxDRmPUEM"
+	},
+	{
+		"created_at": "Wed Aug 25 09:29:33 +0000 2021",
+		"id": 1430454905794285600,
+		"id_str": "1430462339669807104",
+		"full_text": "Yerin Baek - Covers Album [선물] \n2021.09.10 6PM (KST) Release\n\n#yerinbaek #선물 #백예린 https://t.co/0MYRwgmLia",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "yerinbaek",
+					"indices": [
+						62,
+						72
+					]
+				},
+				{
+					"text": "선물",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "백예린",
+					"indices": [
+						77,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1430414098454380500,
+					"id_str": "1430414098454380545",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/E9naCzwVgAE4Diu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9naCzwVgAE4Diu.jpg",
+					"url": "https://t.co/0MYRwgmLia",
+					"display_url": "pic.twitter.com/0MYRwgmLia",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1430454905794285568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430414098454380500,
+					"id_str": "1430414098454380545",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/E9naCzwVgAE4Diu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9naCzwVgAE4Diu.jpg",
+					"url": "https://t.co/0MYRwgmLia",
+					"display_url": "pic.twitter.com/0MYRwgmLia",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1430454905794285568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30253,
+			"friends_count": 2,
+			"listed_count": 187,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1629709742",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2059,
+		"favorite_count": 2369,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yerin Baek - Covers Album [선물] \n2021.09.10 6PM (KST) Release\n\n#yerinbaek #선물 #백예린 https://t.co/0MYRwgmLia"
+	},
+	{
 		"created_at": "Wed Aug 25 09:13:39 +0000 2021",
 		"id": 1430458337930449000,
 		"id_str": "1430458337930448902",
