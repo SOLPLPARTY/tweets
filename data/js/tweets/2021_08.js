@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 25 06:11:16 +0000 2021",
+		"id": 1430401509548716000,
+		"id_str": "1430412442929090722",
+		"full_text": "실용 음악의 현재와 미래를 이야기하는 포럼! \"Applied Music Forum 21\" \n\n상상마당 유튜브 생중계 중. 지금 바로 시청하세요 :)\n\nhttps://t.co/rSC4CGBccL https://t.co/BJg59qEqeI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rSC4CGBccL",
+					"expanded_url": "https://youtu.be/pb90dq4tz70",
+					"display_url": "youtu.be/pb90dq4tz70",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1430401494562472000,
+					"id_str": "1430401494562471940",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/E9nOlKmVgAQfV79.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9nOlKmVgAQfV79.jpg",
+					"url": "https://t.co/BJg59qEqeI",
+					"display_url": "pic.twitter.com/BJg59qEqeI",
+					"expanded_url": "https://twitter.com/SSmadang/status/1430401509548716034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 664,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1055,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1055,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430401494562472000,
+					"id_str": "1430401494562471940",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/E9nOlKmVgAQfV79.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9nOlKmVgAQfV79.jpg",
+					"url": "https://t.co/BJg59qEqeI",
+					"display_url": "pic.twitter.com/BJg59qEqeI",
+					"expanded_url": "https://twitter.com/SSmadang/status/1430401509548716034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 664,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1055,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1055,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1430401502686826500,
+					"id_str": "1430401502686826505",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/E9nOlo3VUAkg5TY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9nOlo3VUAkg5TY.jpg",
+					"url": "https://t.co/BJg59qEqeI",
+					"display_url": "pic.twitter.com/BJg59qEqeI",
+					"expanded_url": "https://twitter.com/SSmadang/status/1430401509548716034/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1073,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1073,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 676,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17819,
+			"friends_count": 1877,
+			"listed_count": 0,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "실용 음악의 현재와 미래를 이야기하는 포럼! \"Applied Music Forum 21\" \n\n상상마당 유튜브 생중계 중. 지금 바로 시청하세요 :)\n\nhttps://t.co/rSC4CGBccL https://t.co/BJg59qEqeI"
+	},
+	{
 		"created_at": "Wed Aug 25 05:11:16 +0000 2021",
 		"id": 1430396276403626000,
 		"id_str": "1430397343501795329",
