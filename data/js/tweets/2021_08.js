@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 25 03:29:25 +0000 2021",
+		"id": 1430364309335462000,
+		"id_str": "1430371708951801863",
+		"full_text": "[#이지원] 웨이브 오리지널 드라마 '유 레이즈 미 업' 캐스팅✔\n\n연애감별사 여동생 이루리 역을 맡아 톡톡 튀는 매력으로 시청자들을 사로잡을 예정😘\n\n#웨이브 #드라마 #유레이즈미업 #유미업 #이루리 https://t.co/VW9sXmK695",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이지원",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "웨이브",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "드라마",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "유레이즈미업",
+					"indices": [
+						95,
+						102
+					]
+				},
+				{
+					"text": "유미업",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "이루리",
+					"indices": [
+						108,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1430351717913088000,
+					"id_str": "1430351717913088000",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/E9mhTyIUUAAnUmt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9mhTyIUUAAnUmt.jpg",
+					"url": "https://t.co/VW9sXmK695",
+					"display_url": "pic.twitter.com/VW9sXmK695",
+					"expanded_url": "https://twitter.com/themysticstory/status/1430364309335461890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430351717913088000,
+					"id_str": "1430351717913088000",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/E9mhTyIUUAAnUmt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9mhTyIUUAAnUmt.jpg",
+					"url": "https://t.co/VW9sXmK695",
+					"display_url": "pic.twitter.com/VW9sXmK695",
+					"expanded_url": "https://twitter.com/themysticstory/status/1430364309335461890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21434,
+			"friends_count": 13,
+			"listed_count": 233,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#이지원] 웨이브 오리지널 드라마 '유 레이즈 미 업' 캐스팅✔\n\n연애감별사 여동생 이루리 역을 맡아 톡톡 튀는 매력으로 시청자들을 사로잡을 예정😘\n\n#웨이브 #드라마 #유레이즈미업 #유미업 #이루리 https://t.co/VW9sXmK695"
+	},
+	{
 		"created_at": "Wed Aug 25 03:15:08 +0000 2021",
 		"id": 1430368115993493500,
 		"id_str": "1430368115993493513",
