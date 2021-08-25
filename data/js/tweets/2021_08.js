@@ -1,6 +1,665 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 25 05:11:16 +0000 2021",
+		"id": 1430396276403626000,
+		"id_str": "1430397343501795329",
+		"full_text": "당신에게 만큼은 위로가 되길 바란다는 이가연 작가의 에세이 &lt; 사랑은 정신병 &gt; 이 공상온도 온라인스토어와 오프라인에 모두 입고되어있요! 공상온도 스토어에서 만나보세요!\n.\nhttps://t.co/d7i5lMqQTc\nhttps://t.co/XipgX8L2sV https://t.co/xAj4w6fIGh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7i5lMqQTc",
+					"expanded_url": "http://www.gongsangondo.com",
+					"display_url": "gongsangondo.com",
+					"indices": [
+						103,
+						126
+					]
+				},
+				{
+					"url": "https://t.co/XipgX8L2sV",
+					"expanded_url": "http://smartstore.naver.com/gongsangondo",
+					"display_url": "smartstore.naver.com/gongsangondo",
+					"indices": [
+						127,
+						150
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1430396271160791000,
+					"id_str": "1430396271160791042",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/E9nJ1H6VEAIeg9G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9nJ1H6VEAIeg9G.jpg",
+					"url": "https://t.co/xAj4w6fIGh",
+					"display_url": "pic.twitter.com/xAj4w6fIGh",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1430396276403625985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 497,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 497,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 497,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430396271160791000,
+					"id_str": "1430396271160791042",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/E9nJ1H6VEAIeg9G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9nJ1H6VEAIeg9G.jpg",
+					"url": "https://t.co/xAj4w6fIGh",
+					"display_url": "pic.twitter.com/xAj4w6fIGh",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1430396276403625985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 497,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 497,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 497,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 375,
+			"friends_count": 211,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "당신에게 만큼은 위로가 되길 바란다는 이가연 작가의 에세이 &lt; 사랑은 정신병 &gt; 이 공상온도 온라인스토어와 오프라인에 모두 입고되어있요! 공상온도 스토어에서 만나보세요!\n.\nhttps://t.co/d7i5lMqQTc\nhttps://t.co/XipgX8L2sV https://t.co/xAj4w6fIGh"
+	},
+	{
+		"created_at": "Wed Aug 25 04:29:43 +0000 2021",
+		"id": 1430384313619476500,
+		"id_str": "1430386884354756610",
+		"full_text": "윤대륜이 사운드 아티스트 송영남의 전시 &lt;Ensemble of Data&gt;에 몸 연주자로 참여했습니다. \n전시는 을지로 N/A @nslasha.kr 에서 8월 29일까지 열립니다.\n화~토 13:00~20:00, 무료 입장\n\nSong youngnam : Ensemble of Data(2021)\nwith Jeon Jin Hee, CIFIKA, Yoondaeryun, Kimhanjoo https://t.co/joG8gmXl3g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nSLASHa",
+					"name": "METROID BOOMIN’",
+					"id": 38711361,
+					"id_str": "38711361",
+					"indices": [
+						76,
+						84
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1430384278685114400,
+					"id_str": "1430384278685114372",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E9m-7EdUYAQprvA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9m-7EdUYAQprvA.jpg",
+					"url": "https://t.co/joG8gmXl3g",
+					"display_url": "pic.twitter.com/joG8gmXl3g",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1430384313619476480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430384278685114400,
+					"id_str": "1430384278685114372",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E9m-7EdUYAQprvA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9m-7EdUYAQprvA.jpg",
+					"url": "https://t.co/joG8gmXl3g",
+					"display_url": "pic.twitter.com/joG8gmXl3g",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1430384313619476480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1430384287887462400,
+					"id_str": "1430384287887462400",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E9m-7mvVEAAjXF7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9m-7mvVEAAjXF7.jpg",
+					"url": "https://t.co/joG8gmXl3g",
+					"display_url": "pic.twitter.com/joG8gmXl3g",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1430384313619476480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1430384298096431000,
+					"id_str": "1430384298096431110",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E9m-8MxVkAYRPPJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9m-8MxVkAYRPPJ.jpg",
+					"url": "https://t.co/joG8gmXl3g",
+					"display_url": "pic.twitter.com/joG8gmXl3g",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1430384313619476480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3906,
+			"friends_count": 8,
+			"listed_count": 0,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2768,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "윤대륜이 사운드 아티스트 송영남의 전시 &lt;Ensemble of Data&gt;에 몸 연주자로 참여했습니다. \n전시는 을지로 N/A @nslasha.kr 에서 8월 29일까지 열립니다.\n화~토 13:00~20:00, 무료 입장\n\nSong youngnam : Ensemble of Data(2021)\nwith Jeon Jin Hee, CIFIKA, Yoondaeryun, Kimhanjoo https://t.co/joG8gmXl3g"
+	},
+	{
+		"created_at": "Wed Aug 25 04:29:34 +0000 2021",
+		"id": 1430378280838844400,
+		"id_str": "1430386846136156160",
+		"full_text": "📌‘방준석’ 음악감독의 신보, 영화 ‘모가디슈’의 오리지널 사운드트랙이 오늘 발매되었습니다!!\n\n&lt;모가디슈 OST&gt; ⬇️⬇️\n\n🎧멜론 https://t.co/hs5T9bivzD\n🎧지니 https://t.co/riKuzoumyE\n🎧플로 https://t.co/QcGglDyGop\n🎧바이브 https://t.co/rmurzSxBep\n🎧벅스 https://t.co/TVXKvwAWM4 https://t.co/Q7xcp88GyP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hs5T9bivzD",
+					"expanded_url": "http://kko.to/Jr8_xBtfM",
+					"display_url": "kko.to/Jr8_xBtfM",
+					"indices": [
+						81,
+						104
+					]
+				},
+				{
+					"url": "https://t.co/riKuzoumyE",
+					"expanded_url": "http://genie.co.kr/NXGDA2",
+					"display_url": "genie.co.kr/NXGDA2",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/QcGglDyGop",
+					"expanded_url": "http://flomuz.io/s/a.BFEWg",
+					"display_url": "flomuz.io/s/a.BFEWg",
+					"indices": [
+						137,
+						160
+					]
+				},
+				{
+					"url": "https://t.co/rmurzSxBep",
+					"expanded_url": "http://naver.me/Ft8E7fuA",
+					"display_url": "naver.me/Ft8E7fuA",
+					"indices": [
+						166,
+						189
+					]
+				},
+				{
+					"url": "https://t.co/TVXKvwAWM4",
+					"expanded_url": "https://m.bugs.co.kr/album/20416550",
+					"display_url": "m.bugs.co.kr/album/20416550",
+					"indices": [
+						194,
+						217
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1430378275595976700,
+					"id_str": "1430378275595976706",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/E9m5dpNVgAIop0x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9m5dpNVgAIop0x.jpg",
+					"url": "https://t.co/Q7xcp88GyP",
+					"display_url": "pic.twitter.com/Q7xcp88GyP",
+					"expanded_url": "https://twitter.com/blueboy_kr/status/1430378280838844417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430378275595976700,
+					"id_str": "1430378275595976706",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/E9m5dpNVgAIop0x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9m5dpNVgAIop0x.jpg",
+					"url": "https://t.co/Q7xcp88GyP",
+					"display_url": "pic.twitter.com/Q7xcp88GyP",
+					"expanded_url": "https://twitter.com/blueboy_kr/status/1430378280838844417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 613235782,
+			"id_str": "613235782",
+			"name": "BLUE BOY",
+			"screen_name": "blueboy_kr",
+			"location": "",
+			"description": "언니네 이발관 / Wouter Hamel / 이자람 판소리 / 한승석&정재일 / [info.blueboy@gmail.com]",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1290,
+			"friends_count": 186,
+			"listed_count": 14,
+			"created_at": "Wed Jun 20 07:48:47 +0000 2012",
+			"favourites_count": 107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2341430994/loegdwbpnd5j4vueh8iz_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📌‘방준석’ 음악감독의 신보, 영화 ‘모가디슈’의 오리지널 사운드트랙이 오늘 발매되었습니다!!\n\n&lt;모가디슈 OST&gt; ⬇️⬇️\n\n🎧멜론 https://t.co/hs5T9bivzD\n🎧지니 https://t.co/riKuzoumyE\n🎧플로 https://t.co/QcGglDyGop\n🎧바이브 https://t.co/rmurzSxBep\n🎧벅스 https://t.co/TVXKvwAWM4 https://t.co/Q7xcp88GyP"
+	},
+	{
 		"created_at": "Wed Aug 25 03:29:25 +0000 2021",
 		"id": 1430364309335462000,
 		"id_str": "1430371708951801863",
