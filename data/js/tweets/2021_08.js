@@ -1,6 +1,1512 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 26 09:30:04 +0000 2021",
+		"id": 1430819935089954800,
+		"id_str": "1430824858984845315",
+		"full_text": "💿NEW MUSIC TODAY💿\n\"JAY B(@jaybnow_hr) 1st EP [SOMO:FUME] 를 지금 바로 음원 사이트에서 만나보세요!\n⠀\n🦋 https://t.co/n27ybpuD2O\n⠀\n#warnerkpop #warnermusic #release #JAYB #제이비 #SOMOFUME\n#H1GHRMUSIC #하이어뮤직 @H1GHRMUSIC https://t.co/Hiw2j6z2kP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						111,
+						122
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						123,
+						135
+					]
+				},
+				{
+					"text": "release",
+					"indices": [
+						136,
+						144
+					]
+				},
+				{
+					"text": "JAYB",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "제이비",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "SOMOFUME",
+					"indices": [
+						156,
+						165
+					]
+				},
+				{
+					"text": "H1GHRMUSIC",
+					"indices": [
+						166,
+						177
+					]
+				},
+				{
+					"text": "하이어뮤직",
+					"indices": [
+						178,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaybnow_hr",
+					"name": "JAY B",
+					"id": 1243264807840542700,
+					"id_str": "1243264807840542721",
+					"indices": [
+						25,
+						36
+					]
+				},
+				{
+					"screen_name": "H1GHRMUSIC",
+					"name": "H1GHR MUSIC",
+					"id": 858188064849412100,
+					"id_str": "858188064849412096",
+					"indices": [
+						185,
+						196
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n27ybpuD2O",
+					"expanded_url": "http://WMK.lnk.to/SOMO_FUME",
+					"display_url": "WMK.lnk.to/SOMO_FUME",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1430819662099456000,
+					"id_str": "1430819662099456001",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1430819662099456001/pu/img/1j4OCJ1U93Bj4toK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1430819662099456001/pu/img/1j4OCJ1U93Bj4toK.jpg",
+					"url": "https://t.co/Hiw2j6z2kP",
+					"display_url": "pic.twitter.com/Hiw2j6z2kP",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1430819935089954824/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430819662099456000,
+					"id_str": "1430819662099456001",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1430819662099456001/pu/img/1j4OCJ1U93Bj4toK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1430819662099456001/pu/img/1j4OCJ1U93Bj4toK.jpg",
+					"url": "https://t.co/Hiw2j6z2kP",
+					"display_url": "pic.twitter.com/Hiw2j6z2kP",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1430819935089954824/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 49482,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1430819662099456001/pu/vid/320x320/fW8cPKPZafsoZ9fn.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1430819662099456001/pu/vid/540x540/JGOucxl5DVw829MV.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1430819662099456001/pu/pl/q6n2eviQSm-ZUgvA.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1430819662099456001/pu/vid/720x720/IlLM7X7fm1csNXGH.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51521,
+			"friends_count": 496,
+			"listed_count": 189,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5324,
+		"favorite_count": 5161,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\n\"JAY B(@jaybnow_hr) 1st EP [SOMO:FUME] 를 지금 바로 음원 사이트에서 만나보세요!\n⠀\n🦋 https://t.co/n27ybpuD2O\n⠀\n#warnerkpop #warnermusic #release #JAYB #제이비 #SOMOFUME\n#H1GHRMUSIC #하이어뮤직 @H1GHRMUSIC https://t.co/Hiw2j6z2kP"
+	},
+	{
+		"created_at": "Thu Aug 26 09:29:55 +0000 2021",
+		"id": 1430819799668428800,
+		"id_str": "1430824820741230592",
+		"full_text": "😌IV Jay – Vibrate [Remix] (ft. GSoul(@Gsoullove))가 발매되었습니다😊\n지금 바로 각 음원 사이트에서 만나보세요! \n\n💕 https://t.co/6RXK9kJFHg\n \n#warnermusic #워너뮤직 #IVJay #GSoul #지소울 #Vibrate https://t.co/F4IGBPLTFL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnermusic",
+					"indices": [
+						114,
+						126
+					]
+				},
+				{
+					"text": "워너뮤직",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "IVJay",
+					"indices": [
+						133,
+						139
+					]
+				},
+				{
+					"text": "GSoul",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "지소울",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "Vibrate",
+					"indices": [
+						152,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gsoullove",
+					"name": "G",
+					"id": 121589749,
+					"id_str": "121589749",
+					"indices": [
+						37,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6RXK9kJFHg",
+					"expanded_url": "https://wmk.lnk.to/9JzaA2",
+					"display_url": "wmk.lnk.to/9JzaA2",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1430819558961471500,
+					"id_str": "1430819558961471490",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1430819558961471490/pu/img/0zex3zXYeyhl1z2b.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1430819558961471490/pu/img/0zex3zXYeyhl1z2b.jpg",
+					"url": "https://t.co/F4IGBPLTFL",
+					"display_url": "pic.twitter.com/F4IGBPLTFL",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1430819799668428805/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430819558961471500,
+					"id_str": "1430819558961471490",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1430819558961471490/pu/img/0zex3zXYeyhl1z2b.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1430819558961471490/pu/img/0zex3zXYeyhl1z2b.jpg",
+					"url": "https://t.co/F4IGBPLTFL",
+					"display_url": "pic.twitter.com/F4IGBPLTFL",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1430819799668428805/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 26292,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1430819558961471490/pu/pl/ZSIOg31fHte8OGWa.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1430819558961471490/pu/vid/480x480/WsWxSm1goAbhvjh6.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1430819558961471490/pu/vid/320x320/Gg02bjq_N3XNj3pG.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51521,
+			"friends_count": 496,
+			"listed_count": 189,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "😌IV Jay – Vibrate [Remix] (ft. GSoul(@Gsoullove))가 발매되었습니다😊\n지금 바로 각 음원 사이트에서 만나보세요! \n\n💕 https://t.co/6RXK9kJFHg\n \n#warnermusic #워너뮤직 #IVJay #GSoul #지소울 #Vibrate https://t.co/F4IGBPLTFL"
+	},
+	{
+		"created_at": "Thu Aug 26 09:29:47 +0000 2021",
+		"id": 1430819514615095300,
+		"id_str": "1430824786683367424",
+		"full_text": "정승환이 참여한 &lt;블레이드 &amp; 소울 2 - 기억의 조각&gt; OST '저 별에 바람 불어 - 유기 테마 (Acoustic Ver.)’는 지금 모든 음원 사이트에서 감상하실 수 있습니다💛💚💙\n\nMelon https://t.co/IEZR042Gwc\nGenie https://t.co/JLtmdrat2C\nBugs https://t.co/pR8oGyRwc9\nFLO https://t.co/jfBXj6AADu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IEZR042Gwc",
+					"expanded_url": "http://bit.ly/3my2RSC",
+					"display_url": "bit.ly/3my2RSC",
+					"indices": [
+						121,
+						144
+					]
+				},
+				{
+					"url": "https://t.co/JLtmdrat2C",
+					"expanded_url": "http://bit.ly/38cWYlF",
+					"display_url": "bit.ly/38cWYlF",
+					"indices": [
+						151,
+						174
+					]
+				},
+				{
+					"url": "https://t.co/pR8oGyRwc9",
+					"expanded_url": "http://bit.ly/38ftMKK",
+					"display_url": "bit.ly/38ftMKK",
+					"indices": [
+						180,
+						203
+					]
+				},
+				{
+					"url": "https://t.co/jfBXj6AADu",
+					"expanded_url": "http://bit.ly/2UUeJTO",
+					"display_url": "bit.ly/2UUeJTO",
+					"indices": [
+						208,
+						231
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1430819509464559600,
+		"in_reply_to_status_id_str": "1430819509464559620",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 권진아 Summer Single 'KNOCK (With 박문치)' 2021. 07. 27. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36932,
+			"friends_count": 10,
+			"listed_count": 0,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정승환이 참여한 &lt;블레이드 &amp; 소울 2 - 기억의 조각&gt; OST '저 별에 바람 불어 - 유기 테마 (Acoustic Ver.)’는 지금 모든 음원 사이트에서 감상하실 수 있습니다💛💚💙\n\nMelon https://t.co/IEZR042Gwc\nGenie https://t.co/JLtmdrat2C\nBugs https://t.co/pR8oGyRwc9\nFLO https://t.co/jfBXj6AADu"
+	},
+	{
+		"created_at": "Thu Aug 26 09:29:41 +0000 2021",
+		"id": 1430819509464559600,
+		"id_str": "1430824761077248000",
+		"full_text": "[Release] #정승환\n\n&lt;블레이드 &amp; 소울 2 - 기억의 조각&gt;\n정승환 '저 별에 바람 불어 - 유기 테마 (Acoustic Ver.)’\n\nLyrics by 오근혜, 김소연, 이차선\nComposed by 김소연\nArranged by 김소연, 황성제 (ButterFly)\n\n#정승환 #JungSeungHwan\n#저별에바람불어 #유기테마\n#NCSOUND #블레이드앤소울2 https://t.co/bAvmOp8CCH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정승환",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						170,
+						184
+					]
+				},
+				{
+					"text": "저별에바람불어",
+					"indices": [
+						185,
+						193
+					]
+				},
+				{
+					"text": "유기테마",
+					"indices": [
+						194,
+						199
+					]
+				},
+				{
+					"text": "NCSOUND",
+					"indices": [
+						200,
+						208
+					]
+				},
+				{
+					"text": "블레이드앤소울2",
+					"indices": [
+						209,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1430819110594646000,
+					"id_str": "1430819110594646018",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E9tKZnjVkAIDn4z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9tKZnjVkAIDn4z.jpg",
+					"url": "https://t.co/bAvmOp8CCH",
+					"display_url": "pic.twitter.com/bAvmOp8CCH",
+					"expanded_url": "https://twitter.com/antennamusic/status/1430819509464559620/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430819110594646000,
+					"id_str": "1430819110594646018",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E9tKZnjVkAIDn4z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9tKZnjVkAIDn4z.jpg",
+					"url": "https://t.co/bAvmOp8CCH",
+					"display_url": "pic.twitter.com/bAvmOp8CCH",
+					"expanded_url": "https://twitter.com/antennamusic/status/1430819509464559620/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 권진아 Summer Single 'KNOCK (With 박문치)' 2021. 07. 27. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36932,
+			"friends_count": 10,
+			"listed_count": 0,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release] #정승환\n\n&lt;블레이드 &amp; 소울 2 - 기억의 조각&gt;\n정승환 '저 별에 바람 불어 - 유기 테마 (Acoustic Ver.)’\n\nLyrics by 오근혜, 김소연, 이차선\nComposed by 김소연\nArranged by 김소연, 황성제 (ButterFly)\n\n#정승환 #JungSeungHwan\n#저별에바람불어 #유기테마\n#NCSOUND #블레이드앤소울2 https://t.co/bAvmOp8CCH"
+	},
+	{
+		"created_at": "Thu Aug 26 09:29:33 +0000 2021",
+		"id": 1430818273315020800,
+		"id_str": "1430824727031996419",
+		"full_text": "카더가든이 참여한 싱글 [가까운 듯 먼 그대여]가 발매되었습니다.\n이제 유튜브를 비롯한 모든 음원 사이트에서 들으실 수 있습니다.\n\nCar, the garden's new single [Closely Far Away] is OUT NOW! https://t.co/2rfgSiLyDR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1430818267505991700,
+					"id_str": "1430818267505991684",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/E9tJoizVoAQRPfG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9tJoizVoAQRPfG.jpg",
+					"url": "https://t.co/2rfgSiLyDR",
+					"display_url": "pic.twitter.com/2rfgSiLyDR",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1430818273315020806/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430818267505991700,
+					"id_str": "1430818267505991684",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/E9tJoizVoAQRPfG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9tJoizVoAQRPfG.jpg",
+					"url": "https://t.co/2rfgSiLyDR",
+					"display_url": "pic.twitter.com/2rfgSiLyDR",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1430818273315020806/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3906,
+			"friends_count": 8,
+			"listed_count": 84,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2775,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "카더가든이 참여한 싱글 [가까운 듯 먼 그대여]가 발매되었습니다.\n이제 유튜브를 비롯한 모든 음원 사이트에서 들으실 수 있습니다.\n\nCar, the garden's new single [Closely Far Away] is OUT NOW! https://t.co/2rfgSiLyDR"
+	},
+	{
+		"created_at": "Thu Aug 26 09:29:24 +0000 2021",
+		"id": 1430817292951109600,
+		"id_str": "1430824692978434048",
+		"full_text": "UNIVERSE MUSIC - 아스트로 (ASTRO) \nCONCEPT FILM : Into The Void\n\n🎞https://t.co/M7otmEaldp\n2021.09.02 (THU) 6PM (KST)\n\n@into__universe @ASTRO_Staff @offclASTRO\n\n#warnermusic #warnermusickpop #UNIVERSE #유니버스 #아스트로 #ASTRO #ALIVE https://t.co/vko9R3e8Nk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnermusic",
+					"indices": [
+						156,
+						168
+					]
+				},
+				{
+					"text": "warnermusickpop",
+					"indices": [
+						169,
+						185
+					]
+				},
+				{
+					"text": "UNIVERSE",
+					"indices": [
+						186,
+						195
+					]
+				},
+				{
+					"text": "유니버스",
+					"indices": [
+						196,
+						201
+					]
+				},
+				{
+					"text": "아스트로",
+					"indices": [
+						202,
+						207
+					]
+				},
+				{
+					"text": "ASTRO",
+					"indices": [
+						208,
+						214
+					]
+				},
+				{
+					"text": "ALIVE",
+					"indices": [
+						215,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "into__universe",
+					"name": "UNIVERSE_OFFICIAL",
+					"id": 1301330441786462200,
+					"id_str": "1301330441786462209",
+					"indices": [
+						114,
+						129
+					]
+				},
+				{
+					"screen_name": "ASTRO_Staff",
+					"name": "ASTRO OFFICIAL",
+					"id": 973866978090741800,
+					"id_str": "973866978090741761",
+					"indices": [
+						130,
+						142
+					]
+				},
+				{
+					"screen_name": "offclASTRO",
+					"name": "ASTRO 아스트로",
+					"id": 3314485566,
+					"id_str": "3314485566",
+					"indices": [
+						143,
+						154
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/M7otmEaldp",
+					"expanded_url": "https://youtu.be/YKWiAWZsSEM",
+					"display_url": "youtu.be/YKWiAWZsSEM",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1430806229371162600,
+					"id_str": "1430806229371162627",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1430806229371162627/pu/img/WJBCYqKa3dhGTbb9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1430806229371162627/pu/img/WJBCYqKa3dhGTbb9.jpg",
+					"url": "https://t.co/vko9R3e8Nk",
+					"display_url": "pic.twitter.com/vko9R3e8Nk",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1430817292951109636/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430806229371162600,
+					"id_str": "1430806229371162627",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1430806229371162627/pu/img/WJBCYqKa3dhGTbb9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1430806229371162627/pu/img/WJBCYqKa3dhGTbb9.jpg",
+					"url": "https://t.co/vko9R3e8Nk",
+					"display_url": "pic.twitter.com/vko9R3e8Nk",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1430817292951109636/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 22222,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1430806229371162627/pu/pl/bA-BWk1TYjg4CBMS.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1430806229371162627/pu/vid/720x720/g3twogma1i_e0u8w.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1430806229371162627/pu/vid/320x320/0Blgu7vsyDDPI69e.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1430806229371162627/pu/vid/540x540/jZGbVjPuFVKfDVsX.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51521,
+			"friends_count": 496,
+			"listed_count": 189,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "UNIVERSE MUSIC - 아스트로 (ASTRO) \nCONCEPT FILM : Into The Void\n\n🎞https://t.co/M7otmEaldp\n2021.09.02 (THU) 6PM (KST)\n\n@into__universe @ASTRO_Staff @offclASTRO\n\n#warnermusic #warnermusickpop #UNIVERSE #유니버스 #아스트로 #ASTRO #ALIVE https://t.co/vko9R3e8Nk"
+	},
+	{
+		"created_at": "Thu Aug 26 09:29:23 +0000 2021",
+		"id": 1430824687567782000,
+		"id_str": "1430824687567781889",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n샘 라이더 (Sam Ryder) - Tiny Riot 가사 번역 라이브 #샘목챌린지 #생목챌린지\nhttps://t.co/DPgPwWoH21",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				},
+				{
+					"text": "샘목챌린지",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "생목챌린지",
+					"indices": [
+						76,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DPgPwWoH21",
+					"expanded_url": "https://youtu.be/CJw3xRB-GYY",
+					"display_url": "youtu.be/CJw3xRB-GYY",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 465,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n샘 라이더 (Sam Ryder) - Tiny Riot 가사 번역 라이브 #샘목챌린지 #생목챌린지\nhttps://t.co/DPgPwWoH21"
+	},
+	{
 		"created_at": "Thu Aug 26 09:11:52 +0000 2021",
 		"id": 1430820277462700000,
 		"id_str": "1430820277462700039",
@@ -427,7 +1933,7 @@ Grailbird.data.tweets_2021_08 =
 		"created_at": "Thu Aug 26 08:58:41 +0000 2021",
 		"id": 1430806042913304600,
 		"id_str": "1430816962804953088",
-		"full_text": "[🕘 time table]\n\n🔉 21:00-21:50 QUIBBIE\n🔉 21:50-22:50 not a virus\n\n🏫 Episode 15 스쿨오브케이팝 : 모범생vs짱\n🧑‍🏫 토요일 저녁 9시 네이버 NOW에서\n\n▶️ 대기실은 토요일 8시 30분 부터 열립니다",
+		"full_text": "[🕘 time table]\n\n🔉 21:00-21:50 QUIBBIE\n🔉 21:50-22:50 not a virus\n\n🏫 Episode 15 스쿨오브케이팝 : 모범생vs짱\n🧑🏫 토요일 저녁 9시 네이버 NOW에서\n\n▶️ 대기실은 토요일 8시 30분 부터 열립니다",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -517,7 +2023,7 @@ Grailbird.data.tweets_2021_08 =
 		"favorited": false,
 		"retweeted": true,
 		"lang": "ko",
-		"text": "[🕘 time table]\n\n🔉 21:00-21:50 QUIBBIE\n🔉 21:50-22:50 not a virus\n\n🏫 Episode 15 스쿨오브케이팝 : 모범생vs짱\n🧑‍🏫 토요일 저녁 9시 네이버 NOW에서\n\n▶️ 대기실은 토요일 8시 30분 부터 열립니다"
+		"text": "[🕘 time table]\n\n🔉 21:00-21:50 QUIBBIE\n🔉 21:50-22:50 not a virus\n\n🏫 Episode 15 스쿨오브케이팝 : 모범생vs짱\n🧑🏫 토요일 저녁 9시 네이버 NOW에서\n\n▶️ 대기실은 토요일 8시 30분 부터 열립니다"
 	},
 	{
 		"created_at": "Thu Aug 26 08:58:32 +0000 2021",
