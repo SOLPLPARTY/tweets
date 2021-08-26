@@ -1,6 +1,1144 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 26 06:11:17 +0000 2021",
+		"id": 1430768094188765200,
+		"id_str": "1430774831570722816",
+		"full_text": "‘집: 하우스 컴플렉스’ 에 대한 &lt; TOYBOX VOL.6 &gt; 가 공상온도 온라인스토어와 오프라인에 모두 입고되어있요! 공상온도 스토어에서 만나보세요!\n.\nhttps://t.co/d7i5lMqQTc\nhttps://t.co/XipgX8L2sV\nㅡ \n#토이박스6호 #toybox #모순 #올라운드문예지 #집 #하우스컴플렉스 #공상온도스토어 https://t.co/sZ94WUfzbH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "토이박스6호",
+					"indices": [
+						145,
+						152
+					]
+				},
+				{
+					"text": "toybox",
+					"indices": [
+						153,
+						160
+					]
+				},
+				{
+					"text": "모순",
+					"indices": [
+						161,
+						164
+					]
+				},
+				{
+					"text": "올라운드문예지",
+					"indices": [
+						165,
+						173
+					]
+				},
+				{
+					"text": "집",
+					"indices": [
+						174,
+						176
+					]
+				},
+				{
+					"text": "하우스컴플렉스",
+					"indices": [
+						177,
+						185
+					]
+				},
+				{
+					"text": "공상온도스토어",
+					"indices": [
+						186,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d7i5lMqQTc",
+					"expanded_url": "http://www.gongsangondo.com",
+					"display_url": "gongsangondo.com",
+					"indices": [
+						94,
+						117
+					]
+				},
+				{
+					"url": "https://t.co/XipgX8L2sV",
+					"expanded_url": "http://smartstore.naver.com/gongsangondo",
+					"display_url": "smartstore.naver.com/gongsangondo",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1430768089327562800,
+					"id_str": "1430768089327562752",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/E9sb_yhVcAADco0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9sb_yhVcAADco0.jpg",
+					"url": "https://t.co/sZ94WUfzbH",
+					"display_url": "pic.twitter.com/sZ94WUfzbH",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1430768094188765185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430768089327562800,
+					"id_str": "1430768089327562752",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/E9sb_yhVcAADco0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9sb_yhVcAADco0.jpg",
+					"url": "https://t.co/sZ94WUfzbH",
+					"display_url": "pic.twitter.com/sZ94WUfzbH",
+					"expanded_url": "https://twitter.com/gongsangondo/status/1430768094188765185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 375,
+			"friends_count": 211,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘집: 하우스 컴플렉스’ 에 대한 &lt; TOYBOX VOL.6 &gt; 가 공상온도 온라인스토어와 오프라인에 모두 입고되어있요! 공상온도 스토어에서 만나보세요!\n.\nhttps://t.co/d7i5lMqQTc\nhttps://t.co/XipgX8L2sV\nㅡ \n#토이박스6호 #toybox #모순 #올라운드문예지 #집 #하우스컴플렉스 #공상온도스토어 https://t.co/sZ94WUfzbH"
+	},
+	{
+		"created_at": "Thu Aug 26 05:29:49 +0000 2021",
+		"id": 1430761160660328400,
+		"id_str": "1430764398382092291",
+		"full_text": "[News]\n\n트래비스 스캇이 딸에게 스쿨 버스를 선물했습니다. 한 트위터 이용자는 딸이 원한 것은 차량이 아니라 친구들과 보내는 일상이었을 것이라고 지적했습니다.\n\nhttps://t.co/wEQyVC4cpu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wEQyVC4cpu",
+					"expanded_url": "https://www.highjinkxmm.com/news/travis-scott-schoobus",
+					"display_url": "highjinkxmm.com/news/travis-sc…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/P2V4wFkAko",
+			"url": "https://t.co/oAPJfxeB46",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAPJfxeB46",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P2V4wFkAko",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 433,
+			"friends_count": 21,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 585,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[News]\n\n트래비스 스캇이 딸에게 스쿨 버스를 선물했습니다. 한 트위터 이용자는 딸이 원한 것은 차량이 아니라 친구들과 보내는 일상이었을 것이라고 지적했습니다.\n\nhttps://t.co/wEQyVC4cpu"
+	},
+	{
+		"created_at": "Thu Aug 26 05:29:41 +0000 2021",
+		"id": 1430760137480753200,
+		"id_str": "1430764364374724608",
+		"full_text": "지금 두루두루팩토리 웹사이트에서 정크야드(JNKYRD)의 EP 〈Dorm Stairs〉 피지컬 음반과 티셔츠 3종을 만나보실 수 있습니다 녹색 정사각형빨간색 정사각형노란색 정사각형 판매는 다음주 월요일까지 진행됩니다.\n✔︎ 정크야드 EP 〈Dorm Stairs〉 &amp; MD\n• 판매 기간: ~ 2021년 8월 30일 (월) https://t.co/mbVgVre4Za",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1430760096234041300,
+					"id_str": "1430760096234041347",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E9sUuh7VcAMN85Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9sUuh7VcAMN85Y.jpg",
+					"url": "https://t.co/mbVgVre4Za",
+					"display_url": "pic.twitter.com/mbVgVre4Za",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1430760137480753153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1126,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430760096234041300,
+					"id_str": "1430760096234041347",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E9sUuh7VcAMN85Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9sUuh7VcAMN85Y.jpg",
+					"url": "https://t.co/mbVgVre4Za",
+					"display_url": "pic.twitter.com/mbVgVre4Za",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1430760137480753153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1126,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1430760109097980000,
+					"id_str": "1430760109097979904",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E9sUvR2VkAAs9r9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9sUvR2VkAAs9r9.jpg",
+					"url": "https://t.co/mbVgVre4Za",
+					"display_url": "pic.twitter.com/mbVgVre4Za",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1430760137480753153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1126,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1430760118212186000,
+					"id_str": "1430760118212186118",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E9sUvzzVUAYN7Ez.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9sUvzzVUAYN7Ez.jpg",
+					"url": "https://t.co/mbVgVre4Za",
+					"display_url": "pic.twitter.com/mbVgVre4Za",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1430760137480753153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1126,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1430760128249155600,
+					"id_str": "1430760128249155584",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E9sUwZMVUAAE68N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9sUwZMVUAAE68N.jpg",
+					"url": "https://t.co/mbVgVre4Za",
+					"display_url": "pic.twitter.com/mbVgVre4Za",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1430760137480753153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1126,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3906,
+			"friends_count": 8,
+			"listed_count": 84,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지금 두루두루팩토리 웹사이트에서 정크야드(JNKYRD)의 EP 〈Dorm Stairs〉 피지컬 음반과 티셔츠 3종을 만나보실 수 있습니다 녹색 정사각형빨간색 정사각형노란색 정사각형 판매는 다음주 월요일까지 진행됩니다.\n✔︎ 정크야드 EP 〈Dorm Stairs〉 &amp; MD\n• 판매 기간: ~ 2021년 8월 30일 (월) https://t.co/mbVgVre4Za"
+	},
+	{
+		"created_at": "Thu Aug 26 05:29:39 +0000 2021",
+		"id": 1430760066211217400,
+		"id_str": "1430764355482701825",
+		"full_text": "지금 두루두루팩토리 웹사이트에서 정크야드(JNKYRD)의 EP 〈Dorm Stairs〉 피지컬 음반과 티셔츠 3종을 만나보실 수 있습니다 녹색 정사각형빨간색 정사각형노란색 정사각형 판매는 다음주 월요일까지 진행됩니다.\n✔︎ 정크야드 EP 〈Dorm Stairs〉 &amp; MD\n• 판매 기간: ~ 2021년 8월 30일 (월) https://t.co/EPDAVmJvnG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1430760051229163500,
+					"id_str": "1430760051229163521",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E9sUr6RVgAEFNHK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9sUr6RVgAEFNHK.jpg",
+					"url": "https://t.co/EPDAVmJvnG",
+					"display_url": "pic.twitter.com/EPDAVmJvnG",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1430760066211217409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1126,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430760051229163500,
+					"id_str": "1430760051229163521",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E9sUr6RVgAEFNHK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9sUr6RVgAEFNHK.jpg",
+					"url": "https://t.co/EPDAVmJvnG",
+					"display_url": "pic.twitter.com/EPDAVmJvnG",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1430760066211217409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1126,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1430760051518578700,
+					"id_str": "1430760051518578689",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E9sUr7WVoAEAWfs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9sUr7WVoAEAWfs.jpg",
+					"url": "https://t.co/EPDAVmJvnG",
+					"display_url": "pic.twitter.com/EPDAVmJvnG",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1430760066211217409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1126,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3906,
+			"friends_count": 8,
+			"listed_count": 84,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지금 두루두루팩토리 웹사이트에서 정크야드(JNKYRD)의 EP 〈Dorm Stairs〉 피지컬 음반과 티셔츠 3종을 만나보실 수 있습니다 녹색 정사각형빨간색 정사각형노란색 정사각형 판매는 다음주 월요일까지 진행됩니다.\n✔︎ 정크야드 EP 〈Dorm Stairs〉 &amp; MD\n• 판매 기간: ~ 2021년 8월 30일 (월) https://t.co/EPDAVmJvnG"
+	},
+	{
+		"created_at": "Thu Aug 26 05:29:30 +0000 2021",
+		"id": 1430759989468033000,
+		"id_str": "1430764317293662210",
+		"full_text": "지금 두루두루팩토리 웹사이트에서 정크야드(JNKYRD)의 EP 〈Dorm Stairs〉 피지컬 음반과 티셔츠 3종을 만나보실 수 있습니다 녹색 정사각형빨간색 정사각형노란색 정사각형 판매는 다음주 월요일까지 진행됩니다.\n✔︎ 정크야드 EP 〈Dorm Stairs〉 &amp; MD\n• 판매 기간: ~ 2021년 8월 30일 (월) https://t.co/wuQGcWIUWe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1430759832118694000,
+					"id_str": "1430759832118693891",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E9sUfKBVEAM_x-V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9sUfKBVEAM_x-V.jpg",
+					"url": "https://t.co/wuQGcWIUWe",
+					"display_url": "pic.twitter.com/wuQGcWIUWe",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1430759989468033025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430759832118694000,
+					"id_str": "1430759832118693891",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E9sUfKBVEAM_x-V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9sUfKBVEAM_x-V.jpg",
+					"url": "https://t.co/wuQGcWIUWe",
+					"display_url": "pic.twitter.com/wuQGcWIUWe",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1430759989468033025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1430759844001185800,
+					"id_str": "1430759844001185797",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E9sUf2SVgAUyUoD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9sUf2SVgAUyUoD.jpg",
+					"url": "https://t.co/wuQGcWIUWe",
+					"display_url": "pic.twitter.com/wuQGcWIUWe",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1430759989468033025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1535,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1430759864523886600,
+					"id_str": "1430759864523886594",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E9sUhCvVEAIrmf7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9sUhCvVEAIrmf7.jpg",
+					"url": "https://t.co/wuQGcWIUWe",
+					"display_url": "pic.twitter.com/wuQGcWIUWe",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1430759989468033025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2042,
+							"h": 1531,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1430759874682515500,
+					"id_str": "1430759874682515465",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/E9sUholVcAkVq8Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9sUholVcAkVq8Z.jpg",
+					"url": "https://t.co/wuQGcWIUWe",
+					"display_url": "pic.twitter.com/wuQGcWIUWe",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1430759989468033025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1706,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3906,
+			"friends_count": 8,
+			"listed_count": 84,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지금 두루두루팩토리 웹사이트에서 정크야드(JNKYRD)의 EP 〈Dorm Stairs〉 피지컬 음반과 티셔츠 3종을 만나보실 수 있습니다 녹색 정사각형빨간색 정사각형노란색 정사각형 판매는 다음주 월요일까지 진행됩니다.\n✔︎ 정크야드 EP 〈Dorm Stairs〉 &amp; MD\n• 판매 기간: ~ 2021년 8월 30일 (월) https://t.co/wuQGcWIUWe"
+	},
+	{
 		"created_at": "Thu Aug 26 05:11:16 +0000 2021",
 		"id": 1430746627023704000,
 		"id_str": "1430759731828776965",
