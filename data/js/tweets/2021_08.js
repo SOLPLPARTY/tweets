@@ -1,6 +1,881 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 26 10:29:52 +0000 2021",
+		"id": 1430836185803329500,
+		"id_str": "1430839908193685508",
+		"full_text": "[ad lib] Cartoon intervew : Car, the garden - cashmere journal https://t.co/dr5KZGmSPT https://t.co/Wtrb8tf6Od",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dr5KZGmSPT",
+					"expanded_url": "https://www.cashmerejournal.com/ad-lib-cartoon-intervew-car-the-garden/",
+					"display_url": "cashmerejournal.com/ad-lib-cartoon…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1430836181281828900,
+					"id_str": "1430836181281828869",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/E9tZ7Q0UcAUD6VD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9tZ7Q0UcAUD6VD.jpg",
+					"url": "https://t.co/Wtrb8tf6Od",
+					"display_url": "pic.twitter.com/Wtrb8tf6Od",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1430836185803329536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430836181281828900,
+					"id_str": "1430836181281828869",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/E9tZ7Q0UcAUD6VD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9tZ7Q0UcAUD6VD.jpg",
+					"url": "https://t.co/Wtrb8tf6Od",
+					"display_url": "pic.twitter.com/Wtrb8tf6Od",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1430836185803329536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3906,
+			"friends_count": 8,
+			"listed_count": 84,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2775,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[ad lib] Cartoon intervew : Car, the garden - cashmere journal https://t.co/dr5KZGmSPT https://t.co/Wtrb8tf6Od"
+	},
+	{
+		"created_at": "Thu Aug 26 10:29:43 +0000 2021",
+		"id": 1430835911491690500,
+		"id_str": "1430839869966856197",
+		"full_text": "오존 &amp; 카더가든 GQ X 한강주조 ‘직휴’ 막걸리 with 11번가\n\n2021. 09. 02 목요일 9PM\n\n@gq_korea\n@live11_official https://t.co/GT6HfLt8Sw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1430835799059169300,
+					"id_str": "1430835799059169285",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/E9tZlA7VgAU6krL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9tZlA7VgAU6krL.jpg",
+					"url": "https://t.co/GT6HfLt8Sw",
+					"display_url": "pic.twitter.com/GT6HfLt8Sw",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1430835911491690497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430835799059169300,
+					"id_str": "1430835799059169285",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/E9tZlA7VgAU6krL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9tZlA7VgAU6krL.jpg",
+					"url": "https://t.co/GT6HfLt8Sw",
+					"display_url": "pic.twitter.com/GT6HfLt8Sw",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1430835911491690497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1430835807149977600,
+					"id_str": "1430835807149977600",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/E9tZlfEVcAAEjGI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9tZlfEVcAAEjGI.jpg",
+					"url": "https://t.co/GT6HfLt8Sw",
+					"display_url": "pic.twitter.com/GT6HfLt8Sw",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1430835911491690497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1430835816058609700,
+					"id_str": "1430835816058609664",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/E9tZmAQUYAAHyFJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9tZmAQUYAAHyFJ.jpg",
+					"url": "https://t.co/GT6HfLt8Sw",
+					"display_url": "pic.twitter.com/GT6HfLt8Sw",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1430835911491690497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3906,
+			"friends_count": 8,
+			"listed_count": 84,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2775,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오존 &amp; 카더가든 GQ X 한강주조 ‘직휴’ 막걸리 with 11번가\n\n2021. 09. 02 목요일 9PM\n\n@gq_korea\n@live11_official https://t.co/GT6HfLt8Sw"
+	},
+	{
+		"created_at": "Thu Aug 26 10:29:39 +0000 2021",
+		"id": 1430825119371337700,
+		"id_str": "1430839852648607746",
+		"full_text": "Check out JAY B [SOMO:FUME] IG filter on Warner Music K-Pop instagram! 🤗\n\n🎞https://t.co/EScFTHirVJ\n\n#warnerkpop #warnermusic #release #JAYB #제이비 #SOMOFUME\n#H1GHRMUSIC #하이어뮤직 @H1GHRMUSIC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						100,
+						111
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						112,
+						124
+					]
+				},
+				{
+					"text": "release",
+					"indices": [
+						125,
+						133
+					]
+				},
+				{
+					"text": "JAYB",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "제이비",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "SOMOFUME",
+					"indices": [
+						145,
+						154
+					]
+				},
+				{
+					"text": "H1GHRMUSIC",
+					"indices": [
+						155,
+						166
+					]
+				},
+				{
+					"text": "하이어뮤직",
+					"indices": [
+						167,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "H1GHRMUSIC",
+					"name": "H1GHR MUSIC",
+					"id": 858188064849412100,
+					"id_str": "858188064849412096",
+					"indices": [
+						174,
+						185
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EScFTHirVJ",
+					"expanded_url": "https://www.instagram.com/warnermusic_kpop/",
+					"display_url": "instagram.com/warnermusic_kp…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1430824982926397400,
+		"in_reply_to_status_id_str": "1430824982926397442",
+		"in_reply_to_user_id": 206117108,
+		"in_reply_to_user_id_str": "206117108",
+		"in_reply_to_screen_name": "Warner_Music_Kr",
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51525,
+			"friends_count": 496,
+			"listed_count": 189,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 850,
+		"favorite_count": 1111,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out JAY B [SOMO:FUME] IG filter on Warner Music K-Pop instagram! 🤗\n\n🎞https://t.co/EScFTHirVJ\n\n#warnerkpop #warnermusic #release #JAYB #제이비 #SOMOFUME\n#H1GHRMUSIC #하이어뮤직 @H1GHRMUSIC"
+	},
+	{
+		"created_at": "Thu Aug 26 10:29:30 +0000 2021",
+		"id": 1430824982926397400,
+		"id_str": "1430839814375550979",
+		"full_text": "JAY B 1st EP [SOMO:FUME] 필터 오픈🎉\n아가새 여러분🙋지금 바로 워너뮤직 케이팝 채널에서 JAY B(@jaybnow_hr) 1st EP [SOMO:FUME]  필터를 사용해보세요! 🤗\n\n🎞https://t.co/EScFTHirVJ\n\n#warnerkpop #warnermusic #release #JAYB #제이비 #SOMOFUME\n#H1GHRMUSIC #하이어뮤직 @H1GHRMUSIC https://t.co/cawXkOw5uH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						140,
+						151
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						152,
+						164
+					]
+				},
+				{
+					"text": "release",
+					"indices": [
+						165,
+						173
+					]
+				},
+				{
+					"text": "JAYB",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "제이비",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "SOMOFUME",
+					"indices": [
+						185,
+						194
+					]
+				},
+				{
+					"text": "H1GHRMUSIC",
+					"indices": [
+						195,
+						206
+					]
+				},
+				{
+					"text": "하이어뮤직",
+					"indices": [
+						207,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaybnow_hr",
+					"name": "JAY B",
+					"id": 1243264807840542700,
+					"id_str": "1243264807840542721",
+					"indices": [
+						66,
+						77
+					]
+				},
+				{
+					"screen_name": "H1GHRMUSIC",
+					"name": "H1GHR MUSIC",
+					"id": 858188064849412100,
+					"id_str": "858188064849412096",
+					"indices": [
+						214,
+						225
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EScFTHirVJ",
+					"expanded_url": "https://www.instagram.com/warnermusic_kpop/",
+					"display_url": "instagram.com/warnermusic_kp…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1430824769159536600,
+					"id_str": "1430824769159536644",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1430824769159536644/pu/img/DcB5zIbzKHFRMSjP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1430824769159536644/pu/img/DcB5zIbzKHFRMSjP.jpg",
+					"url": "https://t.co/cawXkOw5uH",
+					"display_url": "pic.twitter.com/cawXkOw5uH",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1430824982926397442/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430824769159536600,
+					"id_str": "1430824769159536644",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1430824769159536644/pu/img/DcB5zIbzKHFRMSjP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1430824769159536644/pu/img/DcB5zIbzKHFRMSjP.jpg",
+					"url": "https://t.co/cawXkOw5uH",
+					"display_url": "pic.twitter.com/cawXkOw5uH",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1430824982926397442/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 12933,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1430824769159536644/pu/vid/320x568/PRj7yvWvZ32Uc7hs.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1430824769159536644/pu/pl/arDW-oDuqcMMPf3X.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1430824769159536644/pu/vid/720x1280/_BX-j7CALsB1Mgyw.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1430824769159536644/pu/vid/480x852/sa4livtTEk9O_Xv_.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51525,
+			"friends_count": 496,
+			"listed_count": 189,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2938,
+		"favorite_count": 3034,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "JAY B 1st EP [SOMO:FUME] 필터 오픈🎉\n아가새 여러분🙋지금 바로 워너뮤직 케이팝 채널에서 JAY B(@jaybnow_hr) 1st EP [SOMO:FUME]  필터를 사용해보세요! 🤗\n\n🎞https://t.co/EScFTHirVJ\n\n#warnerkpop #warnermusic #release #JAYB #제이비 #SOMOFUME\n#H1GHRMUSIC #하이어뮤직 @H1GHRMUSIC https://t.co/cawXkOw5uH"
+	},
+	{
 		"created_at": "Thu Aug 26 09:30:04 +0000 2021",
 		"id": 1430819935089954800,
 		"id_str": "1430824858984845315",
