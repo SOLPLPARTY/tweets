@@ -1,6 +1,520 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 27 07:29:46 +0000 2021",
+		"id": 1431156697418977300,
+		"id_str": "1431156972062130176",
+		"full_text": "[VIDEO] [#인순이] #레전드음악교실_랄라랜드\n\n[예고] 레전드는 멘붕(?) 랄라랜드 최초 레전드 포기사태?! | 랄라랜드 4 회\n\n👉 https://t.co/4rIatajupZ\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #랄라랜드",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "레전드음악교실_랄라랜드",
+					"indices": [
+						15,
+						28
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						104,
+						112
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						120,
+						134
+					]
+				},
+				{
+					"text": "랄라랜드",
+					"indices": [
+						135,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4rIatajupZ",
+					"expanded_url": "https://youtu.be/5SzUSYjOY-0",
+					"display_url": "youtu.be/5SzUSYjOY-0",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 358,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 295,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#인순이] #레전드음악교실_랄라랜드\n\n[예고] 레전드는 멘붕(?) 랄라랜드 최초 레전드 포기사태?! | 랄라랜드 4 회\n\n👉 https://t.co/4rIatajupZ\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #랄라랜드"
+	},
+	{
+		"created_at": "Fri Aug 27 07:29:37 +0000 2021",
+		"id": 1431156512362152000,
+		"id_str": "1431156933826916352",
+		"full_text": "[NEWS] #인순이, '거위의 꿈' 수업 중 \"너무 문제야\" 위기 (랄라랜드)\n\n👉 https://t.co/ZOqtQxFIWf \n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #레전드음악교실_랄라랜드 #랄라랜드",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						7,
+						11
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						83,
+						89
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						90,
+						104
+					]
+				},
+				{
+					"text": "레전드음악교실_랄라랜드",
+					"indices": [
+						105,
+						118
+					]
+				},
+				{
+					"text": "랄라랜드",
+					"indices": [
+						119,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZOqtQxFIWf",
+					"expanded_url": "http://naver.me/I5Fz29rz",
+					"display_url": "naver.me/I5Fz29rz",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 358,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 295,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEWS] #인순이, '거위의 꿈' 수업 중 \"너무 문제야\" 위기 (랄라랜드)\n\n👉 https://t.co/ZOqtQxFIWf \n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #레전드음악교실_랄라랜드 #랄라랜드"
+	},
+	{
+		"created_at": "Fri Aug 27 07:29:28 +0000 2021",
+		"id": 1431153047908995000,
+		"id_str": "1431156895541305345",
+		"full_text": "모트, 우예린, 레인보우노트의 슬희까지!\n처음으로 한 자리에 모인 현장 포토를 공개합니다✨\n과연 어떤 재밌는 작업을 했을까요! 많은 기대 부탁드려요💜\n#모트 #우예린 #레인보우노트 #슬희 https://t.co/L4AZHUv9CR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "모트",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "우예린",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "레인보우노트",
+					"indices": [
+						93,
+						100
+					]
+				},
+				{
+					"text": "슬희",
+					"indices": [
+						101,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1431153039541297200,
+					"id_str": "1431153039541297155",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/E9x6G10UYAMp14Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9x6G10UYAMp14Z.jpg",
+					"url": "https://t.co/L4AZHUv9CR",
+					"display_url": "pic.twitter.com/L4AZHUv9CR",
+					"expanded_url": "https://twitter.com/ruby_records/status/1431153047908995084/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1431153039541297200,
+					"id_str": "1431153039541297155",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/E9x6G10UYAMp14Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9x6G10UYAMp14Z.jpg",
+					"url": "https://t.co/L4AZHUv9CR",
+					"display_url": "pic.twitter.com/L4AZHUv9CR",
+					"expanded_url": "https://twitter.com/ruby_records/status/1431153047908995084/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7684,
+			"friends_count": 8360,
+			"listed_count": 198,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "모트, 우예린, 레인보우노트의 슬희까지!\n처음으로 한 자리에 모인 현장 포토를 공개합니다✨\n과연 어떤 재밌는 작업을 했을까요! 많은 기대 부탁드려요💜\n#모트 #우예린 #레인보우노트 #슬희 https://t.co/L4AZHUv9CR"
+	},
+	{
 		"created_at": "Fri Aug 27 07:02:17 +0000 2021",
 		"id": 1431150056019746800,
 		"id_str": "1431150056019746819",
