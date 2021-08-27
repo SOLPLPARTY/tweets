@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 27 15:29:25 +0000 2021",
+		"id": 1431270404459352000,
+		"id_str": "1431277678573891592",
+		"full_text": "[ABYSS_ㅊㅋㅊㅋ🎊]\n\n🎉HAPPY HYUNAH DAY🎉\n\n조현아의 생일을 진심으로 축하합니다!\nHappy Birthday to JO HYUN AH💐\n⠀\n#조현아 #JOHYUNAH\n#HAPPY_HYUNAH_DAY https://t.co/5ICogXAvyq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "조현아",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "JOHYUNAH",
+					"indices": [
+						93,
+						102
+					]
+				},
+				{
+					"text": "HAPPY_HYUNAH_DAY",
+					"indices": [
+						103,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5ICogXAvyq",
+					"expanded_url": "https://twitter.com/urbanzakapa/status/1431270281893515264",
+					"display_url": "twitter.com/urbanzakapa/st…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 748379922209583100,
+			"id_str": "748379922209583104",
+			"name": "ABYSS COMPANY",
+			"screen_name": "ABYSS_COMPANY",
+			"location": "",
+			"description": "ABYSS COMPANY Official Twitter",
+			"url": "https://t.co/FXx196IZXh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FXx196IZXh",
+							"expanded_url": "http://abysscompany.com/",
+							"display_url": "abysscompany.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102586,
+			"friends_count": 6,
+			"listed_count": 211,
+			"created_at": "Thu Jun 30 04:57:32 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/748379922209583104/1612752885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1431270281893515300,
+		"quoted_status_id_str": "1431270281893515264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5ICogXAvyq",
+			"expanded": "https://twitter.com/urbanzakapa/status/1431270281893515264",
+			"display": "twitter.com/urbanzakapa/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 27 15:00:01 +0000 2021",
+			"id": 1431270281893515300,
+			"id_str": "1431270281893515264",
+			"full_text": "🎉HAPPY HYUNAH DAY🎉\n\n조현아의 생일을 진심으로 축하합니다!\nHappy Birthday to JO HYUN AH💐\n\n#조현아 #JOHYUNAH\n#HAPPY_HYUNAH_DAY https://t.co/oq6eRKEM8x",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				104
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "조현아",
+						"indices": [
+							72,
+							76
+						]
+					},
+					{
+						"text": "JOHYUNAH",
+						"indices": [
+							77,
+							86
+						]
+					},
+					{
+						"text": "HAPPY_HYUNAH_DAY",
+						"indices": [
+							87,
+							104
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1431269696771297300,
+						"id_str": "1431269696771297288",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/E9zkNL3VkAgC6JB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E9zkNL3VkAgC6JB.jpg",
+						"url": "https://t.co/oq6eRKEM8x",
+						"display_url": "pic.twitter.com/oq6eRKEM8x",
+						"expanded_url": "https://twitter.com/UrbanZakapa/status/1431270281893515264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 804,
+								"h": 1199,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 456,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 804,
+								"h": 1199,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1431269696771297300,
+						"id_str": "1431269696771297288",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/media/E9zkNL3VkAgC6JB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E9zkNL3VkAgC6JB.jpg",
+						"url": "https://t.co/oq6eRKEM8x",
+						"display_url": "pic.twitter.com/oq6eRKEM8x",
+						"expanded_url": "https://twitter.com/UrbanZakapa/status/1431270281893515264/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 804,
+								"h": 1199,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 456,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 804,
+								"h": 1199,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 299727720,
+				"id_str": "299727720",
+				"name": "어반자카파 URBAN ZAKAPA",
+				"screen_name": "UrbanZakapa",
+				"location": "",
+				"description": "URBAN ZAKAPA Official Twitter",
+				"url": "https://t.co/d422Fr47cb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/d422Fr47cb",
+								"expanded_url": "https://www.youtube.com/c/urbanzakapa",
+								"display_url": "youtube.com/c/urbanzakapa",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14498,
+				"friends_count": 9,
+				"listed_count": 154,
+				"created_at": "Mon May 16 15:53:53 +0000 2011",
+				"favourites_count": 229,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2341,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1067342348546232320/WclzmzGs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067342348546232320/WclzmzGs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/299727720/1560132504",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 40,
+			"favorite_count": 48,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 139,
+		"favorite_count": 377,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ABYSS_ㅊㅋㅊㅋ🎊]\n\n🎉HAPPY HYUNAH DAY🎉\n\n조현아의 생일을 진심으로 축하합니다!\nHappy Birthday to JO HYUN AH💐\n⠀\n#조현아 #JOHYUNAH\n#HAPPY_HYUNAH_DAY https://t.co/5ICogXAvyq"
+	},
+	{
 		"created_at": "Fri Aug 27 14:29:51 +0000 2021",
 		"id": 1431248343657697300,
 		"id_str": "1431262688068448269",
