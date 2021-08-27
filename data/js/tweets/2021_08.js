@@ -1,6 +1,674 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 27 03:29:47 +0000 2021",
+		"id": 1431096467494555600,
+		"id_str": "1431096580141166595",
+		"full_text": "HeMeets - 화성침공 (Remix) https://t.co/80hzSNCLLT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/80hzSNCLLT",
+					"expanded_url": "http://blog.naver.com/chili7272/222485482105",
+					"display_url": "blog.naver.com/chili7272/2224…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.naver.com\" rel=\"nofollow\">Naver</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114111001,
+			"id_str": "114111001",
+			"name": "칠리뮤직코리아",
+			"screen_name": "chilimusickorea",
+			"location": "Seoul, Korea",
+			"description": "음반제작 및 배급전문/국내 및 해외사이트 음원유통/매니지먼트 담당//\n허클베리 핀/에이프릴 세컨드/트레봉봉/오드트리/Steve Barakett/LasseLindh/Sioen 등",
+			"url": "https://t.co/XzPUfDyGhf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XzPUfDyGhf",
+							"expanded_url": "http://www.facebook.com/chilimusickorea1",
+							"display_url": "facebook.com/chilimusickore…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2081,
+			"friends_count": 2368,
+			"listed_count": 64,
+			"created_at": "Sun Feb 14 05:12:40 +0000 2010",
+			"favourites_count": 699,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114111001/1427096436",
+			"profile_link_color": "FC420A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0B8C4",
+			"profile_text_color": "9FFEE3",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "HeMeets - 화성침공 (Remix) https://t.co/80hzSNCLLT"
+	},
+	{
+		"created_at": "Fri Aug 27 03:29:44 +0000 2021",
+		"id": 1431096193174573000,
+		"id_str": "1431096566895583233",
+		"full_text": "[EVENT_종료] \n보라미유 '단밤 (Danbam)' 스트리밍 이벤트에 참여해주신 모든 분들께 감사드립니다🤗 당첨되신 분들에게는 별도로 DM을 통해 연락드리겠습니다💜 https://t.co/9DWbiLHsNE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1431096141358059500,
+					"id_str": "1431096141358059523",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/E9xGW7kUUAMwkaP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9xGW7kUUAMwkaP.jpg",
+					"url": "https://t.co/9DWbiLHsNE",
+					"display_url": "pic.twitter.com/9DWbiLHsNE",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1431096193174573057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1431096141358059500,
+					"id_str": "1431096141358059523",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/E9xGW7kUUAMwkaP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9xGW7kUUAMwkaP.jpg",
+					"url": "https://t.co/9DWbiLHsNE",
+					"display_url": "pic.twitter.com/9DWbiLHsNE",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1431096193174573057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1430409608925958100,
+		"in_reply_to_status_id_str": "1430409608925958144",
+		"in_reply_to_user_id": 265792818,
+		"in_reply_to_user_id_str": "265792818",
+		"in_reply_to_screen_name": "shofar_ent",
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/VtrzF3mRza",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VtrzF3mRza",
+							"expanded_url": "http://shofar-ent.com",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7752,
+			"friends_count": 4,
+			"listed_count": 66,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1629789716",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EVENT_종료] \n보라미유 '단밤 (Danbam)' 스트리밍 이벤트에 참여해주신 모든 분들께 감사드립니다🤗 당첨되신 분들에게는 별도로 DM을 통해 연락드리겠습니다💜 https://t.co/9DWbiLHsNE"
+	},
+	{
+		"created_at": "Fri Aug 27 03:29:35 +0000 2021",
+		"id": 1431092302362001400,
+		"id_str": "1431096528668708867",
+		"full_text": "[#김사월] 싱글 &lt;너만큼&gt; 발매\n💿 김사월 (Kim Sawol) - 너만큼 (Someone Like You)\nMelon ▶ https://t.co/CxBKLWC3ie\nGenie ▶ https://t.co/4va1hYFAJN\nBugs ▶ https://t.co/tBL0sIlP5F\nFLO ▶ https://t.co/JUxGvOJ6mo\nVIBE ▶ https://t.co/SxLn8LFwix\nYoutube Music ▶ https://t.co/z9Ycl38jbA https://t.co/tdowqO8fF9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김사월",
+					"indices": [
+						1,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CxBKLWC3ie",
+					"expanded_url": "https://bit.ly/2WsCWRP",
+					"display_url": "bit.ly/2WsCWRP",
+					"indices": [
+						76,
+						99
+					]
+				},
+				{
+					"url": "https://t.co/4va1hYFAJN",
+					"expanded_url": "https://bit.ly/3kwNzLc",
+					"display_url": "bit.ly/3kwNzLc",
+					"indices": [
+						108,
+						131
+					]
+				},
+				{
+					"url": "https://t.co/tBL0sIlP5F",
+					"expanded_url": "https://bit.ly/38f074v",
+					"display_url": "bit.ly/38f074v",
+					"indices": [
+						139,
+						162
+					]
+				},
+				{
+					"url": "https://t.co/JUxGvOJ6mo",
+					"expanded_url": "https://bit.ly/3Bmk1Hj",
+					"display_url": "bit.ly/3Bmk1Hj",
+					"indices": [
+						169,
+						192
+					]
+				},
+				{
+					"url": "https://t.co/SxLn8LFwix",
+					"expanded_url": "https://bit.ly/3BftD6r",
+					"display_url": "bit.ly/3BftD6r",
+					"indices": [
+						200,
+						223
+					]
+				},
+				{
+					"url": "https://t.co/z9Ycl38jbA",
+					"expanded_url": "https://bit.ly/2Y0LSOO",
+					"display_url": "bit.ly/2Y0LSOO",
+					"indices": [
+						240,
+						263
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1431092250864349200,
+					"id_str": "1431092250864349189",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431092250864349189/pu/img/VHyrZ2Ra_oQ0tpT7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431092250864349189/pu/img/VHyrZ2Ra_oQ0tpT7.jpg",
+					"url": "https://t.co/tdowqO8fF9",
+					"display_url": "pic.twitter.com/tdowqO8fF9",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1431092302362001412/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1431092250864349200,
+					"id_str": "1431092250864349189",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431092250864349189/pu/img/VHyrZ2Ra_oQ0tpT7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431092250864349189/pu/img/VHyrZ2Ra_oQ0tpT7.jpg",
+					"url": "https://t.co/tdowqO8fF9",
+					"display_url": "pic.twitter.com/tdowqO8fF9",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1431092302362001412/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 23010,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431092250864349189/pu/vid/720x900/LViOQOXUA3VPcsq0.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431092250864349189/pu/vid/320x400/iowfGgNOg2hYTi23.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1431092250864349189/pu/pl/j_6fiA3np5eMC1tG.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431092250864349189/pu/vid/480x600/1Tp7mAAXu-DLrwHd.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2128,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#김사월] 싱글 &lt;너만큼&gt; 발매\n💿 김사월 (Kim Sawol) - 너만큼 (Someone Like You)\nMelon ▶ https://t.co/CxBKLWC3ie\nGenie ▶ https://t.co/4va1hYFAJN\nBugs ▶ https://t.co/tBL0sIlP5F\nFLO ▶ https://t.co/JUxGvOJ6mo\nVIBE ▶ https://t.co/SxLn8LFwix\nYoutube Music ▶ https://t.co/z9Ycl38jbA https://t.co/tdowqO8fF9"
+	},
+	{
+		"created_at": "Fri Aug 27 03:29:29 +0000 2021",
+		"id": 1431087196593737700,
+		"id_str": "1431096503028830208",
+		"full_text": "[News]\n\n미국 필라델피아의 슈게이징 밴드 NOTHING이 B 사이드 음반 발매를 예고하며 새로운 싱글을 공개했습니다.\n\"음반의 일부를 잘라내는 것은 소설책의 챕터 일부를 잘라내는 것과 같은 기분이었다.\"\nhttps://t.co/oNKcov7dwf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oNKcov7dwf",
+					"expanded_url": "https://www.highjinkxmm.com/news/nothing-b-sides",
+					"display_url": "highjinkxmm.com/news/nothing-b…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/P2V4wFkAko",
+			"url": "https://t.co/oAPJfxeB46",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAPJfxeB46",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P2V4wFkAko",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 436,
+			"friends_count": 21,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[News]\n\n미국 필라델피아의 슈게이징 밴드 NOTHING이 B 사이드 음반 발매를 예고하며 새로운 싱글을 공개했습니다.\n\"음반의 일부를 잘라내는 것은 소설책의 챕터 일부를 잘라내는 것과 같은 기분이었다.\"\nhttps://t.co/oNKcov7dwf"
+	},
+	{
 		"created_at": "Fri Aug 27 03:11:16 +0000 2021",
 		"id": 1431089364268769300,
 		"id_str": "1431091920583991296",
