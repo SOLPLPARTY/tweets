@@ -1,6 +1,1358 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 27 09:52:45 +0000 2021",
+		"id": 1431192955105206300,
+		"id_str": "1431192955105206273",
+		"full_text": "#문화가있는날 #블로그\n힐링을 보낼게요, from. &lt;청춘마이크&gt;\nhttps://t.co/z6gqxnnhbS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문화가있는날",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						8,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z6gqxnnhbS",
+					"expanded_url": "https://bit.ly/2WvWDaT",
+					"display_url": "bit.ly/2WvWDaT",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 466,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#문화가있는날 #블로그\n힐링을 보낼게요, from. &lt;청춘마이크&gt;\nhttps://t.co/z6gqxnnhbS"
+	},
+	{
+		"created_at": "Fri Aug 27 09:44:56 +0000 2021",
+		"id": 1431190988077375500,
+		"id_str": "1431190988077375496",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n#Team워너 Live : 에벤 (EBEN) - Jenny\nhttps://t.co/vXZ14XhtVK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				},
+				{
+					"text": "Team워너",
+					"indices": [
+						29,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vXZ14XhtVK",
+					"expanded_url": "https://youtu.be/dgzoUB4EOTM",
+					"display_url": "youtu.be/dgzoUB4EOTM",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 466,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n#Team워너 Live : 에벤 (EBEN) - Jenny\nhttps://t.co/vXZ14XhtVK"
+	},
+	{
+		"created_at": "Fri Aug 27 09:29:54 +0000 2021",
+		"id": 1431183594202927000,
+		"id_str": "1431187203925884932",
+		"full_text": "[#Teaser] #샘김\n\n샘김이 함께한 Imagine Your Korea ‘뮤지컬 트래블스’ in 춘천 Teaser 공개✨ 8월 30일(월) 오후 5시에 본편이 공개됩니다💚\n\n🔗https://t.co/D2ShrRC6jc\n\n@LeegitItsSam #Imagineyourkorea\n#Musicaltravels #Chuncheon https://t.co/xCL38d2DV8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Teaser",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "샘김",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "Imagineyourkorea",
+					"indices": [
+						139,
+						156
+					]
+				},
+				{
+					"text": "Musicaltravels",
+					"indices": [
+						157,
+						172
+					]
+				},
+				{
+					"text": "Chuncheon",
+					"indices": [
+						173,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeegitItsSam",
+					"name": "Sam Kim 샘김",
+					"id": 1202716135,
+					"id_str": "1202716135",
+					"indices": [
+						125,
+						138
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/D2ShrRC6jc",
+					"expanded_url": "https://youtu.be/DacFj6Rla7o",
+					"display_url": "youtu.be/DacFj6Rla7o",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1431183444734722000,
+					"id_str": "1431183444734722052",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431183444734722052/pu/img/84PsVBiAcSc_IPLI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431183444734722052/pu/img/84PsVBiAcSc_IPLI.jpg",
+					"url": "https://t.co/xCL38d2DV8",
+					"display_url": "pic.twitter.com/xCL38d2DV8",
+					"expanded_url": "https://twitter.com/antennamusic/status/1431183594202927106/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1431183444734722000,
+					"id_str": "1431183444734722052",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431183444734722052/pu/img/84PsVBiAcSc_IPLI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431183444734722052/pu/img/84PsVBiAcSc_IPLI.jpg",
+					"url": "https://t.co/xCL38d2DV8",
+					"display_url": "pic.twitter.com/xCL38d2DV8",
+					"expanded_url": "https://twitter.com/antennamusic/status/1431183594202927106/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 33813,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431183444734722052/pu/vid/1280x720/yVvuVmh_RVPMeZBh.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431183444734722052/pu/vid/640x360/qAJlqbdJufEVW724.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1431183444734722052/pu/pl/BC0tVhLojkwq3vW4.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431183444734722052/pu/vid/480x270/mMcvB6CjDD4dwnYQ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 권진아 Summer Single 'KNOCK (With 박문치)' 2021. 07. 27. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36931,
+			"friends_count": 10,
+			"listed_count": 373,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 85,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Teaser] #샘김\n\n샘김이 함께한 Imagine Your Korea ‘뮤지컬 트래블스’ in 춘천 Teaser 공개✨ 8월 30일(월) 오후 5시에 본편이 공개됩니다💚\n\n🔗https://t.co/D2ShrRC6jc\n\n@LeegitItsSam #Imagineyourkorea\n#Musicaltravels #Chuncheon https://t.co/xCL38d2DV8"
+	},
+	{
+		"created_at": "Fri Aug 27 09:29:51 +0000 2021",
+		"id": 1431181343820374000,
+		"id_str": "1431187192907436032",
+		"full_text": "💿NEW MUSIC TODAY💿\n루피(Loopy) (@thisloopy) 의 \"LIE (Feat.24hrs @2fourhrs) \" 를 지금 바로 음원 사이트에서 만나보세요!\n⠀\n🎶https://t.co/hFboR9nlUk\n⠀\n#warnerkpop #warnermusic #release #Loopy #루피 #LIE #UNCUTPOINT https://t.co/j7BpivLaRU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						126,
+						137
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						138,
+						150
+					]
+				},
+				{
+					"text": "release",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"text": "Loopy",
+					"indices": [
+						160,
+						166
+					]
+				},
+				{
+					"text": "루피",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "LIE",
+					"indices": [
+						171,
+						175
+					]
+				},
+				{
+					"text": "UNCUTPOINT",
+					"indices": [
+						176,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thisloopy",
+					"name": "LOOPY ⚡️",
+					"id": 2887348637,
+					"id_str": "2887348637",
+					"indices": [
+						29,
+						39
+					]
+				},
+				{
+					"screen_name": "2fourhrs",
+					"name": "24HRS",
+					"id": 4555337783,
+					"id_str": "4555337783",
+					"indices": [
+						60,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hFboR9nlUk",
+					"expanded_url": "http://WMK.lnk.to/LIE",
+					"display_url": "WMK.lnk.to/LIE",
+					"indices": [
+						100,
+						123
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1431180836980752400,
+					"id_str": "1431180836980752389",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431180836980752389/pu/img/KhAEMnJJ3bajWnIU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431180836980752389/pu/img/KhAEMnJJ3bajWnIU.jpg",
+					"url": "https://t.co/j7BpivLaRU",
+					"display_url": "pic.twitter.com/j7BpivLaRU",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1431181343820374020/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1431180836980752400,
+					"id_str": "1431180836980752389",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431180836980752389/pu/img/KhAEMnJJ3bajWnIU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431180836980752389/pu/img/KhAEMnJJ3bajWnIU.jpg",
+					"url": "https://t.co/j7BpivLaRU",
+					"display_url": "pic.twitter.com/j7BpivLaRU",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1431181343820374020/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 33433,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431180836980752389/pu/vid/720x720/Xynz_n2rtxhPTOjO.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1431180836980752389/pu/pl/HpGjnldPtTXeF8jW.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431180836980752389/pu/vid/540x540/gBlXltEdbkbjMHX2.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431180836980752389/pu/vid/320x320/XpyBel28N4usVD2N.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51626,
+			"friends_count": 496,
+			"listed_count": 189,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11246,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\n루피(Loopy) (@thisloopy) 의 \"LIE (Feat.24hrs @2fourhrs) \" 를 지금 바로 음원 사이트에서 만나보세요!\n⠀\n🎶https://t.co/hFboR9nlUk\n⠀\n#warnerkpop #warnermusic #release #Loopy #루피 #LIE #UNCUTPOINT https://t.co/j7BpivLaRU"
+	},
+	{
+		"created_at": "Fri Aug 27 09:29:49 +0000 2021",
+		"id": 1431179689540866000,
+		"id_str": "1431187183893897219",
+		"full_text": "⠀\nDAILY MIRRORBALL MUSIC | 210827 FRI\n⠀\n🔸 JIN, Dollarsignpark (스파크) [나아가야만 해]\n🔸 터치드 (Touched) [Love is Dangerous]\n🔸 레이지본 (Lazybone) [오예]\n🔸 Day of Mourning [Nord]\n\n#JIN #Dollarsignpark #터치드 #레이지본 #데이오브모닝 #미러볼뮤직 #인디음악 https://t.co/gW0bhrHTRa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JIN",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "Dollarsignpark",
+					"indices": [
+						168,
+						183
+					]
+				},
+				{
+					"text": "터치드",
+					"indices": [
+						184,
+						188
+					]
+				},
+				{
+					"text": "레이지본",
+					"indices": [
+						189,
+						194
+					]
+				},
+				{
+					"text": "데이오브모닝",
+					"indices": [
+						195,
+						202
+					]
+				},
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						203,
+						209
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						210,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1431170337673150500,
+					"id_str": "1431170337673150466",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431170337673150466/pu/img/VZxhsv9AhBFvRZu6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431170337673150466/pu/img/VZxhsv9AhBFvRZu6.jpg",
+					"url": "https://t.co/gW0bhrHTRa",
+					"display_url": "pic.twitter.com/gW0bhrHTRa",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1431179689540866052/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1431170337673150500,
+					"id_str": "1431170337673150466",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431170337673150466/pu/img/VZxhsv9AhBFvRZu6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431170337673150466/pu/img/VZxhsv9AhBFvRZu6.jpg",
+					"url": "https://t.co/gW0bhrHTRa",
+					"display_url": "pic.twitter.com/gW0bhrHTRa",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1431179689540866052/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 56056,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431170337673150466/pu/vid/720x720/aguB_AM2tZ4Zj04j.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431170337673150466/pu/vid/320x320/CzsdgqiMb9zYuFMR.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1431170337673150466/pu/pl/Qr9WsytwccG5iLuE.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431170337673150466/pu/vid/540x540/IJMhK2OhpRNZ8IeZ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9480,
+			"friends_count": 2621,
+			"listed_count": 246,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1627032310",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⠀\nDAILY MIRRORBALL MUSIC | 210827 FRI\n⠀\n🔸 JIN, Dollarsignpark (스파크) [나아가야만 해]\n🔸 터치드 (Touched) [Love is Dangerous]\n🔸 레이지본 (Lazybone) [오예]\n🔸 Day of Mourning [Nord]\n\n#JIN #Dollarsignpark #터치드 #레이지본 #데이오브모닝 #미러볼뮤직 #인디음악 https://t.co/gW0bhrHTRa"
+	},
+	{
+		"created_at": "Fri Aug 27 09:29:41 +0000 2021",
+		"id": 1431176944591143000,
+		"id_str": "1431187149865603074",
+		"full_text": "▶️https://t.co/nwJfOvt4fc\n\n#YouHeeYul #생활음악 #생활음악에피소드 #lifemusic #lifemusicepisode #ep_lifemusic #스페이스오디티 #에피소드",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YouHeeYul",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"text": "생활음악",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "생활음악에피소드",
+					"indices": [
+						44,
+						53
+					]
+				},
+				{
+					"text": "lifemusic",
+					"indices": [
+						54,
+						64
+					]
+				},
+				{
+					"text": "lifemusicepisode",
+					"indices": [
+						65,
+						82
+					]
+				},
+				{
+					"text": "ep_lifemusic",
+					"indices": [
+						83,
+						96
+					]
+				},
+				{
+					"text": "스페이스오디티",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "에피소드",
+					"indices": [
+						106,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nwJfOvt4fc",
+					"expanded_url": "https://www.epsd.co.kr/campaign/index.html",
+					"display_url": "epsd.co.kr/campaign/index…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1431176943118942200,
+		"in_reply_to_status_id_str": "1431176943118942213",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 권진아 Summer Single 'KNOCK (With 박문치)' 2021. 07. 27. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36931,
+			"friends_count": 10,
+			"listed_count": 373,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "▶️https://t.co/nwJfOvt4fc\n\n#YouHeeYul #생활음악 #생활음악에피소드 #lifemusic #lifemusicepisode #ep_lifemusic #스페이스오디티 #에피소드"
+	},
+	{
+		"created_at": "Fri Aug 27 09:29:34 +0000 2021",
+		"id": 1431176943118942200,
+		"id_str": "1431187119876280326",
+		"full_text": "Q3. 생활음악 프로젝트에 대해 소개해주세요.\n\nA3. 공간에 음악이 주는 힘이라는 것은 공기 같은 거라고 생각해요. 어떤 형태의 음악을 만들어볼까 생각 했었는데, 생활음악이라는 내 생활 속의 음악, 공기 같은 음악을 (대중에게) 선물해주고 싶다는 생각을 많이 했어요.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1431176941680222200,
+		"in_reply_to_status_id_str": "1431176941680222213",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 권진아 Summer Single 'KNOCK (With 박문치)' 2021. 07. 27. 6PM Release!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36931,
+			"friends_count": 10,
+			"listed_count": 373,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "Q3. 생활음악 프로젝트에 대해 소개해주세요.\n\nA3. 공간에 음악이 주는 힘이라는 것은 공기 같은 거라고 생각해요. 어떤 형태의 음악을 만들어볼까 생각 했었는데, 생활음악이라는 내 생활 속의 음악, 공기 같은 음악을 (대중에게) 선물해주고 싶다는 생각을 많이 했어요."
+	},
+	{
 		"created_at": "Fri Aug 27 09:14:23 +0000 2021",
 		"id": 1431183302006825000,
 		"id_str": "1431183302006824964",
