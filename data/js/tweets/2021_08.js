@@ -1,6 +1,429 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 27 10:29:35 +0000 2021",
+		"id": 1431196179971207200,
+		"id_str": "1431202223787233283",
+		"full_text": "[유라]\n유튜브 '아지트라이브' 채널에\n유라의 라이브가 업로드 되었습니다!\n놀이공원+세탁소 라이브..? 이건 못 참지\n\n➡️ https://t.co/xpq1pkTUKG\n\n#유라 #music #음악스타그램 #live https://t.co/9ZXAJfQC3Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유라",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "music",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "음악스타그램",
+					"indices": [
+						106,
+						113
+					]
+				},
+				{
+					"text": "live",
+					"indices": [
+						114,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xpq1pkTUKG",
+					"expanded_url": "https://youtu.be/sT6J1FQ6bMY",
+					"display_url": "youtu.be/sT6J1FQ6bMY",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1431196103223877600,
+					"id_str": "1431196103223877634",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431196103223877634/pu/img/FnweDG1yVI6eSbKG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431196103223877634/pu/img/FnweDG1yVI6eSbKG.jpg",
+					"url": "https://t.co/9ZXAJfQC3Q",
+					"display_url": "pic.twitter.com/9ZXAJfQC3Q",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1431196179971207175/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1431196103223877600,
+					"id_str": "1431196103223877634",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431196103223877634/pu/img/FnweDG1yVI6eSbKG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431196103223877634/pu/img/FnweDG1yVI6eSbKG.jpg",
+					"url": "https://t.co/9ZXAJfQC3Q",
+					"display_url": "pic.twitter.com/9ZXAJfQC3Q",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1431196179971207175/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 29709,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431196103223877634/pu/vid/478x270/9MC3Akp3MH8THcii.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431196103223877634/pu/vid/852x480/flZWBvEsylII-l9w.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1431196103223877634/pu/pl/Yr7EuKEal_Lh5f1A.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431196103223877634/pu/vid/638x360/9SJA2LkXJWYPSkkb.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/에버루아/아일",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 808,
+			"friends_count": 7,
+			"listed_count": 17,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유라]\n유튜브 '아지트라이브' 채널에\n유라의 라이브가 업로드 되었습니다!\n놀이공원+세탁소 라이브..? 이건 못 참지\n\n➡️ https://t.co/xpq1pkTUKG\n\n#유라 #music #음악스타그램 #live https://t.co/9ZXAJfQC3Q"
+	},
+	{
+		"created_at": "Fri Aug 27 10:29:29 +0000 2021",
+		"id": 1431194889878847500,
+		"id_str": "1431202198101401606",
+		"full_text": "[#권혁수] [#shorts]\n\n내 이름은 고난, 명탐정이죠  \n몸만 커지고 두뇌는 그대로 ∑(ﾟДﾟ)  \n명탐정 고난의 교통정리 Dance\n\n더 많은 영상은 #권혁수감성 에서 보러 오세용~❤\n\n👉 https://t.co/8Nm5eUyPwN\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #쇼츠 #코난춤 #교통정리댄스 #진실은언제나하나",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "권혁수감성",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						136,
+						148
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						156,
+						170
+					]
+				},
+				{
+					"text": "쇼츠",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "코난춤",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "교통정리댄스",
+					"indices": [
+						180,
+						187
+					]
+				},
+				{
+					"text": "진실은언제나하나",
+					"indices": [
+						188,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8Nm5eUyPwN",
+					"expanded_url": "https://youtu.be/KEFz9SeSjss",
+					"display_url": "youtu.be/KEFz9SeSjss",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 358,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#권혁수] [#shorts]\n\n내 이름은 고난, 명탐정이죠  \n몸만 커지고 두뇌는 그대로 ∑(ﾟДﾟ)  \n명탐정 고난의 교통정리 Dance\n\n더 많은 영상은 #권혁수감성 에서 보러 오세용~❤\n\n👉 https://t.co/8Nm5eUyPwN\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #쇼츠 #코난춤 #교통정리댄스 #진실은언제나하나"
+	},
+	{
 		"created_at": "Fri Aug 27 09:52:45 +0000 2021",
 		"id": 1431192955105206300,
 		"id_str": "1431192955105206273",
