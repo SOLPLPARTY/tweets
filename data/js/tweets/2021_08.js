@@ -1,10 +1,234 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sat Aug 28 11:58:23 +0000 2021",
+		"id": 1431586177493061600,
+		"id_str": "1431586958518722561",
+		"full_text": "띵-동-댕-동-\n\n아아, 안내 말씀 드립니다. 5분 뒤부터 슬픔의 케이팝 파티가 시작될 예정이므로 학생 여러분은 모두 NOW 접속하고 자리에 착석하길 바랍니다. 복도에 있는 애들 얼른 들어가고! 야! 빨랑 안 들어가!? #슬케파\n\n🎧TWICE - Headphone 써\n🏫https://t.co/T43gV7xOm1 https://t.co/r26H1Isgpp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬케파",
+					"indices": [
+						123,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T43gV7xOm1",
+					"expanded_url": "https://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						151,
+						174
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1431584820249829400,
+					"id_str": "1431584820249829381",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431584820249829381/pu/img/0aSlEebLlZya1fdT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431584820249829381/pu/img/0aSlEebLlZya1fdT.jpg",
+					"url": "https://t.co/r26H1Isgpp",
+					"display_url": "pic.twitter.com/r26H1Isgpp",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1431586177493061633/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1431584820249829400,
+					"id_str": "1431584820249829381",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431584820249829381/pu/img/0aSlEebLlZya1fdT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431584820249829381/pu/img/0aSlEebLlZya1fdT.jpg",
+					"url": "https://t.co/r26H1Isgpp",
+					"display_url": "pic.twitter.com/r26H1Isgpp",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1431586177493061633/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							2,
+							3
+						],
+						"duration_millis": 27754,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431584820249829381/pu/vid/720x1080/vv8yPv2BMFu3EHbC.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431584820249829381/pu/vid/480x720/2Tg8a9Z6iIkmJefY.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431584820249829381/pu/vid/320x480/5sZTKgi9YkHwE3fE.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1431584820249829381/pu/pl/X-e5zDW0YEJ9doK5.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/J4jpDKDhWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J4jpDKDhWh",
+							"expanded_url": "https://now.naver.com/player/10256",
+							"display_url": "now.naver.com/player/10256",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7743,
+			"friends_count": 33,
+			"listed_count": 19,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "띵-동-댕-동-\n\n아아, 안내 말씀 드립니다. 5분 뒤부터 슬픔의 케이팝 파티가 시작될 예정이므로 학생 여러분은 모두 NOW 접속하고 자리에 착석하길 바랍니다. 복도에 있는 애들 얼른 들어가고! 야! 빨랑 안 들어가!? #슬케파\n\n🎧TWICE - Headphone 써\n🏫https://t.co/T43gV7xOm1 https://t.co/r26H1Isgpp"
+	},
+	{
 		"created_at": "Sat Aug 28 10:41:07 +0000 2021",
 		"id": 1431567515763855400,
 		"id_str": "1431567515763855364",
-		"full_text": "#딩고뮤직 #dingo_music\n주호민&amp;김풍의 신명나는 굿판🎉 COMING SOON! [2021 필-굿판 라이브] (feat. 깜짝 게스트🧔🏻‍♂️)\nhttps://t.co/KIo1MeroTk",
+		"full_text": "#딩고뮤직 #dingo_music\n주호민&amp;김풍의 신명나는 굿판🎉 COMING SOON! [2021 필-굿판 라이브] (feat. 깜짝 게스트🧔🏻♂️)\nhttps://t.co/KIo1MeroTk",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -139,7 +363,7 @@ Grailbird.data.tweets_2021_08 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#딩고뮤직 #dingo_music\n주호민&amp;김풍의 신명나는 굿판🎉 COMING SOON! [2021 필-굿판 라이브] (feat. 깜짝 게스트🧔🏻‍♂️)\nhttps://t.co/KIo1MeroTk"
+		"text": "#딩고뮤직 #dingo_music\n주호민&amp;김풍의 신명나는 굿판🎉 COMING SOON! [2021 필-굿판 라이브] (feat. 깜짝 게스트🧔🏻♂️)\nhttps://t.co/KIo1MeroTk"
 	},
 	{
 		"created_at": "Sat Aug 28 09:29:25 +0000 2021",
