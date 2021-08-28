@@ -1,10 +1,1498 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sat Aug 28 13:58:50 +0000 2021",
+		"id": 1431614257980792800,
+		"id_str": "1431617273022894084",
+		"full_text": "감수성 풍부한 선도부 문학소년, QUIBBIE의 걸그룹 셋을 놓쳐서 아쉬우시다면! 지금 바로 슬케파 재방송과 함께해요❣️ #슬케파\n\n💘https://t.co/T43gV7xOm1 https://t.co/eL6agFL7D7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬케파",
+					"indices": [
+						68,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T43gV7xOm1",
+					"expanded_url": "https://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						75,
+						98
+					]
+				},
+				{
+					"url": "https://t.co/eL6agFL7D7",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1431597090191200264",
+					"display_url": "twitter.com/seulpeumkpop/s…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/J4jpDKDhWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J4jpDKDhWh",
+							"expanded_url": "https://now.naver.com/player/10256",
+							"display_url": "now.naver.com/player/10256",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7730,
+			"friends_count": 33,
+			"listed_count": 19,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1431597090191200300,
+		"quoted_status_id_str": "1431597090191200264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eL6agFL7D7",
+			"expanded": "https://twitter.com/seulpeumkpop/status/1431597090191200264",
+			"display": "twitter.com/seulpeumkpop/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 28 12:38:38 +0000 2021",
+			"id": 1431597090191200300,
+			"id_str": "1431597090191200264",
+			"full_text": "좀 다르게 느껴 좀 다르게 봐\n사람들 속에 겉도는 듯해도\n날 사랑해서 내가 나다워서\n이 시간들이 더 아름다운 거야\nCool World 🥺 #슬케파\n\n🎧#RedVelvet - Cool World\n👉https://t.co/T43gV7xOm1 https://t.co/YDTbd2fIxe",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				132
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "슬케파",
+						"indices": [
+							77,
+							81
+						]
+					},
+					{
+						"text": "RedVelvet",
+						"indices": [
+							84,
+							94
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/T43gV7xOm1",
+						"expanded_url": "https://now.naver.com/player/10255",
+						"display_url": "now.naver.com/player/10255",
+						"indices": [
+							109,
+							132
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1431596557099364400,
+						"id_str": "1431596557099364354",
+						"indices": [
+							133,
+							156
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431596557099364354/pu/img/U1DFoplibW41bP2F.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431596557099364354/pu/img/U1DFoplibW41bP2F.jpg",
+						"url": "https://t.co/YDTbd2fIxe",
+						"display_url": "pic.twitter.com/YDTbd2fIxe",
+						"expanded_url": "https://twitter.com/seulpeumkpop/status/1431597090191200264/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1431596557099364400,
+						"id_str": "1431596557099364354",
+						"indices": [
+							133,
+							156
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431596557099364354/pu/img/U1DFoplibW41bP2F.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431596557099364354/pu/img/U1DFoplibW41bP2F.jpg",
+						"url": "https://t.co/YDTbd2fIxe",
+						"display_url": "pic.twitter.com/YDTbd2fIxe",
+						"expanded_url": "https://twitter.com/seulpeumkpop/status/1431597090191200264/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								2,
+								3
+							],
+							"duration_millis": 30698,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1431596557099364354/pu/vid/320x480/TwXMy0x_yP3GydEb.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1431596557099364354/pu/vid/720x1080/yHAgy6717q8QHL5U.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1431596557099364354/pu/pl/QCMcgOSyZ-73UnNx.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1431596557099364354/pu/vid/480x720/a4mvhuS9Lp5eNAXV.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 729495493080809500,
+				"id_str": "729495493080809473",
+				"name": "슬케파",
+				"screen_name": "seulpeumkpop",
+				"location": "",
+				"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+				"url": "https://t.co/J4jpDKDhWh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J4jpDKDhWh",
+								"expanded_url": "https://now.naver.com/player/10256",
+								"display_url": "now.naver.com/player/10256",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7730,
+				"friends_count": 33,
+				"listed_count": 19,
+				"created_at": "Mon May 09 02:17:33 +0000 2016",
+				"favourites_count": 708,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1205,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "감수성 풍부한 선도부 문학소년, QUIBBIE의 걸그룹 셋을 놓쳐서 아쉬우시다면! 지금 바로 슬케파 재방송과 함께해요❣️ #슬케파\n\n💘https://t.co/T43gV7xOm1 https://t.co/eL6agFL7D7"
+	},
+	{
+		"created_at": "Sat Aug 28 13:58:46 +0000 2021",
+		"id": 1431613290245865500,
+		"id_str": "1431617255645892609",
+		"full_text": "마지막 곡과 함께 오늘의 슬케파도 끝이 났습니다! 온 학교를 찢어놓은 not a virus의 힙합 셋이 궁금하다면? 지금 바로 슬케파 재방송과 함께해요~ #슬케파\n\n🎧주헌 - PSYCHE➡️주헌, 매드클라운 - 털어\n🔥https://t.co/T43gV7xOm1 https://t.co/b4YXEfcSth",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬케파",
+					"indices": [
+						86,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T43gV7xOm1",
+					"expanded_url": "https://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1431612235361620000,
+					"id_str": "1431612235361619968",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431612235361619968/pu/img/O9RxbyZb8O5mTFAP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431612235361619968/pu/img/O9RxbyZb8O5mTFAP.jpg",
+					"url": "https://t.co/b4YXEfcSth",
+					"display_url": "pic.twitter.com/b4YXEfcSth",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1431613290245865476/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1431612235361620000,
+					"id_str": "1431612235361619968",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431612235361619968/pu/img/O9RxbyZb8O5mTFAP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431612235361619968/pu/img/O9RxbyZb8O5mTFAP.jpg",
+					"url": "https://t.co/b4YXEfcSth",
+					"display_url": "pic.twitter.com/b4YXEfcSth",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1431613290245865476/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							2,
+							3
+						],
+						"duration_millis": 23232,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1431612235361619968/pu/pl/zwFTl4BwrEsRWFsq.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431612235361619968/pu/vid/320x480/n2_3vXD0rRtz12iF.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431612235361619968/pu/vid/480x720/IgCis1wIXjywXQ54.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431612235361619968/pu/vid/720x1080/cHKEXkw5zn0cUiZc.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/J4jpDKDhWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J4jpDKDhWh",
+							"expanded_url": "https://now.naver.com/player/10256",
+							"display_url": "now.naver.com/player/10256",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7730,
+			"friends_count": 33,
+			"listed_count": 19,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마지막 곡과 함께 오늘의 슬케파도 끝이 났습니다! 온 학교를 찢어놓은 not a virus의 힙합 셋이 궁금하다면? 지금 바로 슬케파 재방송과 함께해요~ #슬케파\n\n🎧주헌 - PSYCHE➡️주헌, 매드클라운 - 털어\n🔥https://t.co/T43gV7xOm1 https://t.co/b4YXEfcSth"
+	},
+	{
+		"created_at": "Sat Aug 28 13:58:37 +0000 2021",
+		"id": 1431612104117686300,
+		"id_str": "1431617217402179586",
+		"full_text": "내게와 신. 속. 히.\n어 거기 잠깐만요, 스쿨존 안전속도 지키실게요.\n앗, 네 죄송합니다!!!\n내게와 신. 속. 히. (학교 앞 시속 30km 준수하며)\n우리 모두 스쿨존 속도 제한을 준수합시다!! #슬케파\n\n🎧몬스타엑스 - 신속히➡️갓세븐 - 하드 캐리\n⚠️https://t.co/T43gV7xOm1 https://t.co/5aQkE51Kkd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬케파",
+					"indices": [
+						112,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T43gV7xOm1",
+					"expanded_url": "https://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1431610901342273500,
+					"id_str": "1431610901342273539",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431610901342273539/pu/img/vI_KVoQ1v06CZ-Ok.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431610901342273539/pu/img/vI_KVoQ1v06CZ-Ok.jpg",
+					"url": "https://t.co/5aQkE51Kkd",
+					"display_url": "pic.twitter.com/5aQkE51Kkd",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1431612104117686276/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1431610901342273500,
+					"id_str": "1431610901342273539",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431610901342273539/pu/img/vI_KVoQ1v06CZ-Ok.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431610901342273539/pu/img/vI_KVoQ1v06CZ-Ok.jpg",
+					"url": "https://t.co/5aQkE51Kkd",
+					"display_url": "pic.twitter.com/5aQkE51Kkd",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1431612104117686276/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							2,
+							3
+						],
+						"duration_millis": 37525,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431610901342273539/pu/vid/480x720/AdRjJinetUuNHNjd.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431610901342273539/pu/vid/720x1080/ygeXqMy9gMFiop-m.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431610901342273539/pu/vid/320x480/SJFcn9PZw8ahCW4m.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1431610901342273539/pu/pl/gDug7-hXTl6W7-cJ.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/J4jpDKDhWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J4jpDKDhWh",
+							"expanded_url": "https://now.naver.com/player/10256",
+							"display_url": "now.naver.com/player/10256",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7730,
+			"friends_count": 33,
+			"listed_count": 19,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내게와 신. 속. 히.\n어 거기 잠깐만요, 스쿨존 안전속도 지키실게요.\n앗, 네 죄송합니다!!!\n내게와 신. 속. 히. (학교 앞 시속 30km 준수하며)\n우리 모두 스쿨존 속도 제한을 준수합시다!! #슬케파\n\n🎧몬스타엑스 - 신속히➡️갓세븐 - 하드 캐리\n⚠️https://t.co/T43gV7xOm1 https://t.co/5aQkE51Kkd"
+	},
+	{
+		"created_at": "Sat Aug 28 13:58:33 +0000 2021",
+		"id": 1431608900923527200,
+		"id_str": "1431617200067072003",
+		"full_text": "오늘의 슬케파 두번째 순서 not a virus의 저항 K-Pop 믹스도 어느새 열 곡 정도를 남겨두고 있습니다! 자유로운 K힙합 선곡으로 큰 재미를 선사하고 있는데요! 남은 시간도 즐겁게 리듬타며 즐겨볼까요😎 #슬케파\n\n🎧NCT 127 - Simon Says➡️SuperM - Super Car\n🚗https://t.co/T43gV7xOm1 https://t.co/k6IEjrNoON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬케파",
+					"indices": [
+						118,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T43gV7xOm1",
+					"expanded_url": "https://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						167,
+						190
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1431607144650969000,
+					"id_str": "1431607144650969096",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431607144650969096/pu/img/asEaDGB6ClZIt8wP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431607144650969096/pu/img/asEaDGB6ClZIt8wP.jpg",
+					"url": "https://t.co/k6IEjrNoON",
+					"display_url": "pic.twitter.com/k6IEjrNoON",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1431608900923527171/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1431607144650969000,
+					"id_str": "1431607144650969096",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431607144650969096/pu/img/asEaDGB6ClZIt8wP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431607144650969096/pu/img/asEaDGB6ClZIt8wP.jpg",
+					"url": "https://t.co/k6IEjrNoON",
+					"display_url": "pic.twitter.com/k6IEjrNoON",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1431608900923527171/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							2,
+							3
+						],
+						"duration_millis": 38166,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431607144650969096/pu/vid/480x720/KKF0ANBRUy2IILxh.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431607144650969096/pu/vid/720x1080/GDXMTKuKBmDWJeYK.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431607144650969096/pu/vid/320x480/-FDt3xIeW1d0TDNY.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1431607144650969096/pu/pl/8zgA0lSjKLGXyKLE.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/J4jpDKDhWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J4jpDKDhWh",
+							"expanded_url": "https://now.naver.com/player/10256",
+							"display_url": "now.naver.com/player/10256",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7730,
+			"friends_count": 33,
+			"listed_count": 19,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘의 슬케파 두번째 순서 not a virus의 저항 K-Pop 믹스도 어느새 열 곡 정도를 남겨두고 있습니다! 자유로운 K힙합 선곡으로 큰 재미를 선사하고 있는데요! 남은 시간도 즐겁게 리듬타며 즐겨볼까요😎 #슬케파\n\n🎧NCT 127 - Simon Says➡️SuperM - Super Car\n🚗https://t.co/T43gV7xOm1 https://t.co/k6IEjrNoON"
+	},
+	{
+		"created_at": "Sat Aug 28 13:58:24 +0000 2021",
+		"id": 1431606770758078500,
+		"id_str": "1431617161701773315",
+		"full_text": "야 우냐? ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 울어? ㅋㅋㅋㅋㅋㅋㅋㅋ 진짜 우네 ㅋㅋㅋㅋㅋㅋ 어 진짜 우네... 야 울지마... 아니 그 미안해 울지마;;; 그만 울어;;; #슬케파\n\n🎧BOBBY - 야 우냐(U MAD)\n👉https://t.co/T43gV7xOm1 https://t.co/YHtANnn2HZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬케파",
+					"indices": [
+						87,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T43gV7xOm1",
+					"expanded_url": "https://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1431606289541447700,
+					"id_str": "1431606289541447680",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431606289541447680/pu/img/S81zc0WZOEfpMXQC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431606289541447680/pu/img/S81zc0WZOEfpMXQC.jpg",
+					"url": "https://t.co/YHtANnn2HZ",
+					"display_url": "pic.twitter.com/YHtANnn2HZ",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1431606770758078465/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1431606289541447700,
+					"id_str": "1431606289541447680",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431606289541447680/pu/img/S81zc0WZOEfpMXQC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431606289541447680/pu/img/S81zc0WZOEfpMXQC.jpg",
+					"url": "https://t.co/YHtANnn2HZ",
+					"display_url": "pic.twitter.com/YHtANnn2HZ",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1431606770758078465/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							2,
+							3
+						],
+						"duration_millis": 19647,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431606289541447680/pu/vid/320x480/J-fj4TM5pCLQ3lcv.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431606289541447680/pu/vid/480x720/uqmPnHETNdWciPNQ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1431606289541447680/pu/pl/CV9RD5_kcd0rWRgG.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431606289541447680/pu/vid/720x1080/rfY7LkzEkgnrg5Uy.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/J4jpDKDhWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J4jpDKDhWh",
+							"expanded_url": "https://now.naver.com/player/10256",
+							"display_url": "now.naver.com/player/10256",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7730,
+			"friends_count": 33,
+			"listed_count": 19,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "야 우냐? ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 울어? ㅋㅋㅋㅋㅋㅋㅋㅋ 진짜 우네 ㅋㅋㅋㅋㅋㅋ 어 진짜 우네... 야 울지마... 아니 그 미안해 울지마;;; 그만 울어;;; #슬케파\n\n🎧BOBBY - 야 우냐(U MAD)\n👉https://t.co/T43gV7xOm1 https://t.co/YHtANnn2HZ"
+	},
+	{
+		"created_at": "Sat Aug 28 13:58:15 +0000 2021",
+		"id": 1431605790339600400,
+		"id_str": "1431617123432992768",
+		"full_text": "여러분은 다시 태어난다면 무엇이 되고 싶은가요? 저는 뭘로 태어나든 K팝이 있는 세계에서 태어날 거에요!! not a virus는 이것이 되고 싶다고 하네요! #슬케파\n\n🎧#StrayKids - ROCK (돌)\n🪨https://t.co/T43gV7xOm1 https://t.co/POl9PzDpQ6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬케파",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "StrayKids",
+					"indices": [
+						96,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T43gV7xOm1",
+					"expanded_url": "https://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						119,
+						142
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1431605118621741000,
+					"id_str": "1431605118621741060",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431605118621741060/pu/img/bFYiAqqEoZ0hghpp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431605118621741060/pu/img/bFYiAqqEoZ0hghpp.jpg",
+					"url": "https://t.co/POl9PzDpQ6",
+					"display_url": "pic.twitter.com/POl9PzDpQ6",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1431605790339600389/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1431605118621741000,
+					"id_str": "1431605118621741060",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431605118621741060/pu/img/bFYiAqqEoZ0hghpp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431605118621741060/pu/img/bFYiAqqEoZ0hghpp.jpg",
+					"url": "https://t.co/POl9PzDpQ6",
+					"display_url": "pic.twitter.com/POl9PzDpQ6",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1431605790339600389/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							2,
+							3
+						],
+						"duration_millis": 28565,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431605118621741060/pu/vid/720x1080/YOiCpNJQoLkYJXpC.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431605118621741060/pu/vid/480x720/cNMVALJz-LZXh2ju.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431605118621741060/pu/vid/320x480/0Wyvd8VhsbkzNY6_.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1431605118621741060/pu/pl/6A1SEXVsOTctpNd6.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/J4jpDKDhWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J4jpDKDhWh",
+							"expanded_url": "https://now.naver.com/player/10256",
+							"display_url": "now.naver.com/player/10256",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7730,
+			"friends_count": 33,
+			"listed_count": 19,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여러분은 다시 태어난다면 무엇이 되고 싶은가요? 저는 뭘로 태어나든 K팝이 있는 세계에서 태어날 거에요!! not a virus는 이것이 되고 싶다고 하네요! #슬케파\n\n🎧#StrayKids - ROCK (돌)\n🪨https://t.co/T43gV7xOm1 https://t.co/POl9PzDpQ6"
+	},
+	{
 		"created_at": "Sat Aug 28 12:58:33 +0000 2021",
 		"id": 1431600354215358500,
 		"id_str": "1431602101570965508",
-		"full_text": "벌써 몇 번째 세계인지 손가락으로 셀 수 없게 되었네...\n힘들지만 나는 마법소녀가 된 것을 후회하지 않아...\n퀴비 네가 날 기억하지 못한다고 해도 괜찮아...\n몇 번이고 반복되는 운명이라 해도 나는 너를 지킬게... #슬케파\n\n🎧우주소녀 - 르네상스\n🧙‍♀️https://t.co/T43gV7xOm1 https://t.co/Sj9UHaU7iS",
+		"full_text": "벌써 몇 번째 세계인지 손가락으로 셀 수 없게 되었네...\n힘들지만 나는 마법소녀가 된 것을 후회하지 않아...\n퀴비 네가 날 기억하지 못한다고 해도 괜찮아...\n몇 번이고 반복되는 운명이라 해도 나는 너를 지킬게... #슬케파\n\n🎧우주소녀 - 르네상스\n🧙♀️https://t.co/T43gV7xOm1 https://t.co/Sj9UHaU7iS",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -222,7 +1710,7 @@ Grailbird.data.tweets_2021_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "벌써 몇 번째 세계인지 손가락으로 셀 수 없게 되었네...\n힘들지만 나는 마법소녀가 된 것을 후회하지 않아...\n퀴비 네가 날 기억하지 못한다고 해도 괜찮아...\n몇 번이고 반복되는 운명이라 해도 나는 너를 지킬게... #슬케파\n\n🎧우주소녀 - 르네상스\n🧙‍♀️https://t.co/T43gV7xOm1 https://t.co/Sj9UHaU7iS"
+		"text": "벌써 몇 번째 세계인지 손가락으로 셀 수 없게 되었네...\n힘들지만 나는 마법소녀가 된 것을 후회하지 않아...\n퀴비 네가 날 기억하지 못한다고 해도 괜찮아...\n몇 번이고 반복되는 운명이라 해도 나는 너를 지킬게... #슬케파\n\n🎧우주소녀 - 르네상스\n🧙♀️https://t.co/T43gV7xOm1 https://t.co/Sj9UHaU7iS"
 	},
 	{
 		"created_at": "Sat Aug 28 12:58:27 +0000 2021",
@@ -907,7 +2395,7 @@ Grailbird.data.tweets_2021_08 =
 		"created_at": "Sat Aug 28 12:58:17 +0000 2021",
 		"id": 1431594435695952000,
 		"id_str": "1431602032335593473",
-		"full_text": "내 맘이 방심할 때마다 불쑥 나타난 뒤🤩\n헤엄치듯 멀어지는 너🏊‍♂️\n또 물보라를 일으켜🌊\nda da da da da da da da da da🐬 #슬케파\n\n🎧오마이걸 - Dolphin\n👉https://t.co/T43gV7xOm1 https://t.co/2lgaHGxUbQ",
+		"full_text": "내 맘이 방심할 때마다 불쑥 나타난 뒤🤩\n헤엄치듯 멀어지는 너🏊♂️\n또 물보라를 일으켜🌊\nda da da da da da da da da da🐬 #슬케파\n\n🎧오마이걸 - Dolphin\n👉https://t.co/T43gV7xOm1 https://t.co/2lgaHGxUbQ",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1125,7 +2613,7 @@ Grailbird.data.tweets_2021_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "내 맘이 방심할 때마다 불쑥 나타난 뒤🤩\n헤엄치듯 멀어지는 너🏊‍♂️\n또 물보라를 일으켜🌊\nda da da da da da da da da da🐬 #슬케파\n\n🎧오마이걸 - Dolphin\n👉https://t.co/T43gV7xOm1 https://t.co/2lgaHGxUbQ"
+		"text": "내 맘이 방심할 때마다 불쑥 나타난 뒤🤩\n헤엄치듯 멀어지는 너🏊♂️\n또 물보라를 일으켜🌊\nda da da da da da da da da da🐬 #슬케파\n\n🎧오마이걸 - Dolphin\n👉https://t.co/T43gV7xOm1 https://t.co/2lgaHGxUbQ"
 	},
 	{
 		"created_at": "Sat Aug 28 12:58:14 +0000 2021",
