@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sat Aug 28 09:29:25 +0000 2021",
+		"id": 1431543403687202800,
+		"id_str": "1431549469917683713",
+		"full_text": "💿NEW MUSIC TODAY💿\nJTBC 드라마 \"알고있지만,\" OST 컴필레이션 앨범이 발매되었습니다! \n유나비..박재언..못잃는 마음 컴필레이션 앨범으로 달래보아요🥺\n지금 바로 각 음원사이트에서 만나보세요! \n⠀\n🎶https://t.co/0MVKGzRMEi\n⠀\n#warnerkpop #warnermusic #OST #알고있지만 #송강 #한소희 https://t.co/Vax6z9tOmk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						148,
+						159
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						160,
+						172
+					]
+				},
+				{
+					"text": "OST",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "알고있지만",
+					"indices": [
+						178,
+						184
+					]
+				},
+				{
+					"text": "송강",
+					"indices": [
+						185,
+						188
+					]
+				},
+				{
+					"text": "한소희",
+					"indices": [
+						189,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0MVKGzRMEi",
+					"expanded_url": "http://WMK.lnk.to/Nevertheless",
+					"display_url": "WMK.lnk.to/Nevertheless",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1431543052670103600,
+					"id_str": "1431543052670103552",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431543052670103552/pu/img/sBSqspKcyP7sszjx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431543052670103552/pu/img/sBSqspKcyP7sszjx.jpg",
+					"url": "https://t.co/Vax6z9tOmk",
+					"display_url": "pic.twitter.com/Vax6z9tOmk",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1431543403687202817/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1431543052670103600,
+					"id_str": "1431543052670103552",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431543052670103552/pu/img/sBSqspKcyP7sszjx.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431543052670103552/pu/img/sBSqspKcyP7sszjx.jpg",
+					"url": "https://t.co/Vax6z9tOmk",
+					"display_url": "pic.twitter.com/Vax6z9tOmk",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1431543403687202817/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 36002,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431543052670103552/pu/vid/540x540/1vVM0socIp0wNK_b.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1431543052670103552/pu/pl/XHREBJpRuyC4Fzs_.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431543052670103552/pu/vid/720x720/7Fw24Z5_CZLPP3wV.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1431543052670103552/pu/vid/320x320/I2fU_-1pBsw5lGqm.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51653,
+			"friends_count": 496,
+			"listed_count": 189,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\nJTBC 드라마 \"알고있지만,\" OST 컴필레이션 앨범이 발매되었습니다! \n유나비..박재언..못잃는 마음 컴필레이션 앨범으로 달래보아요🥺\n지금 바로 각 음원사이트에서 만나보세요! \n⠀\n🎶https://t.co/0MVKGzRMEi\n⠀\n#warnerkpop #warnermusic #OST #알고있지만 #송강 #한소희 https://t.co/Vax6z9tOmk"
+	},
+	{
 		"created_at": "Sat Aug 28 09:12:49 +0000 2021",
 		"id": 1431545292848083000,
 		"id_str": "1431545292848082947",
