@@ -1,6 +1,959 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 01 10:58:31 +0000 2021",
+		"id": 1433007912016695300,
+		"id_str": "1433021444028522496",
+		"full_text": "💥LIVE PREMIERE with WOODZ視聴イベントオープン!💥\nWOODZと共にしたKCON:TACT HI 5 LIVE PREMIERE視聴画面を撮影し、\n#KCONTACTHI5 #LIVEPREMIERE #WOODZ_HIPARTY ハッシュタグ入りでtwitterにアップしてください。\n\n詳しいイベント内容はイメージをご確認ください！ https://t.co/DuQsMiZwhy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						86,
+						98
+					]
+				},
+				{
+					"text": "LIVEPREMIERE",
+					"indices": [
+						99,
+						112
+					]
+				},
+				{
+					"text": "WOODZ_HIPARTY",
+					"indices": [
+						113,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433007828994723800,
+					"id_str": "1433007828994723841",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/E-MRBy-VkAE6gSJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-MRBy-VkAE6gSJ.jpg",
+					"url": "https://t.co/DuQsMiZwhy",
+					"display_url": "pic.twitter.com/DuQsMiZwhy",
+					"expanded_url": "https://twitter.com/KCON_official/status/1433007912016695303/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433007828994723800,
+					"id_str": "1433007828994723841",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/E-MRBy-VkAE6gSJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-MRBy-VkAE6gSJ.jpg",
+					"url": "https://t.co/DuQsMiZwhy",
+					"display_url": "pic.twitter.com/DuQsMiZwhy",
+					"expanded_url": "https://twitter.com/KCON_official/status/1433007912016695303/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1433007901782675500,
+		"in_reply_to_status_id_str": "1433007901782675457",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 390776,
+			"friends_count": 75,
+			"listed_count": 1000,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "💥LIVE PREMIERE with WOODZ視聴イベントオープン!💥\nWOODZと共にしたKCON:TACT HI 5 LIVE PREMIERE視聴画面を撮影し、\n#KCONTACTHI5 #LIVEPREMIERE #WOODZ_HIPARTY ハッシュタグ入りでtwitterにアップしてください。\n\n詳しいイベント内容はイメージをご確認ください！ https://t.co/DuQsMiZwhy"
+	},
+	{
+		"created_at": "Wed Sep 01 10:58:24 +0000 2021",
+		"id": 1433007901782675500,
+		"id_str": "1433021414060220418",
+		"full_text": "💥LIVE PREMIERE with WOODZ 시청 인증 이벤트 오픈!💥\nWOODZ와 함께한 KCON:TACT HI 5 LIVE PREMIERE 시청 화면을 촬영,\n#KCONTACTHI5 #LIVEPREMIERE #WOODZ_HIPARTY 해시태그를 넣어 트위터에 올려주세요.\n\n자세한 이벤트 내용은 이미지를 확인해주세요! https://t.co/PuZGQlTy41",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						92,
+						104
+					]
+				},
+				{
+					"text": "LIVEPREMIERE",
+					"indices": [
+						105,
+						118
+					]
+				},
+				{
+					"text": "WOODZ_HIPARTY",
+					"indices": [
+						119,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433007790444855300,
+					"id_str": "1433007790444855297",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/E-MQ_jXVQAEj0PW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-MQ_jXVQAEj0PW.jpg",
+					"url": "https://t.co/PuZGQlTy41",
+					"display_url": "pic.twitter.com/PuZGQlTy41",
+					"expanded_url": "https://twitter.com/KCON_official/status/1433007901782675457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433007790444855300,
+					"id_str": "1433007790444855297",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/E-MQ_jXVQAEj0PW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-MQ_jXVQAEj0PW.jpg",
+					"url": "https://t.co/PuZGQlTy41",
+					"display_url": "pic.twitter.com/PuZGQlTy41",
+					"expanded_url": "https://twitter.com/KCON_official/status/1433007901782675457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1433007892685197300,
+		"in_reply_to_status_id_str": "1433007892685197321",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 390776,
+			"friends_count": 75,
+			"listed_count": 1000,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💥LIVE PREMIERE with WOODZ 시청 인증 이벤트 오픈!💥\nWOODZ와 함께한 KCON:TACT HI 5 LIVE PREMIERE 시청 화면을 촬영,\n#KCONTACTHI5 #LIVEPREMIERE #WOODZ_HIPARTY 해시태그를 넣어 트위터에 올려주세요.\n\n자세한 이벤트 내용은 이미지를 확인해주세요! https://t.co/PuZGQlTy41"
+	},
+	{
+		"created_at": "Wed Sep 01 10:58:14 +0000 2021",
+		"id": 1433007892685197300,
+		"id_str": "1433021375682387972",
+		"full_text": "💥LIVE PREMIERE with WOODZ Streaming Event Open!💥\nTake a photo of watching KCON:TACT HI 5 LIVE PREMIERE with WOODZ, and tweet it with the hashtags #KCONTACTHI5 #LIVEPREMIERE #WOODZ_HIPARTY\n\nPlease refer the image for more details! https://t.co/tYF8dsNtww",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						146,
+						158
+					]
+				},
+				{
+					"text": "LIVEPREMIERE",
+					"indices": [
+						159,
+						172
+					]
+				},
+				{
+					"text": "WOODZ_HIPARTY",
+					"indices": [
+						173,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433007679933276200,
+					"id_str": "1433007679933276163",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/E-MQ5HrUYAM__QP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-MQ5HrUYAM__QP.jpg",
+					"url": "https://t.co/tYF8dsNtww",
+					"display_url": "pic.twitter.com/tYF8dsNtww",
+					"expanded_url": "https://twitter.com/KCON_official/status/1433007892685197321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433007679933276200,
+					"id_str": "1433007679933276163",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/E-MQ5HrUYAM__QP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-MQ5HrUYAM__QP.jpg",
+					"url": "https://t.co/tYF8dsNtww",
+					"display_url": "pic.twitter.com/tYF8dsNtww",
+					"expanded_url": "https://twitter.com/KCON_official/status/1433007892685197321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 390776,
+			"friends_count": 75,
+			"listed_count": 1000,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 154,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💥LIVE PREMIERE with WOODZ Streaming Event Open!💥\nTake a photo of watching KCON:TACT HI 5 LIVE PREMIERE with WOODZ, and tweet it with the hashtags #KCONTACTHI5 #LIVEPREMIERE #WOODZ_HIPARTY\n\nPlease refer the image for more details! https://t.co/tYF8dsNtww"
+	},
+	{
+		"created_at": "Wed Sep 01 10:29:29 +0000 2021",
+		"id": 1433007144698220500,
+		"id_str": "1433014137911664641",
+		"full_text": "https://t.co/0vDPjteiu3\n\nhttps://t.co/uXVMqbAIiV https://t.co/FIH5GKQVfp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0vDPjteiu3",
+					"expanded_url": "http://monotree.shop",
+					"display_url": "monotree.shop",
+					"indices": [
+						0,
+						23
+					]
+				},
+				{
+					"url": "https://t.co/uXVMqbAIiV",
+					"expanded_url": "http://smartstore.naver.com/monotreestudio",
+					"display_url": "smartstore.naver.com/monotreestudio",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1433007134971629600,
+					"id_str": "1433007134971629573",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/E-MQZZiVkAUNKks.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-MQZZiVkAUNKks.jpg",
+					"url": "https://t.co/FIH5GKQVfp",
+					"display_url": "pic.twitter.com/FIH5GKQVfp",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1433007144698220548/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 394,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 695,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1430,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433007134971629600,
+					"id_str": "1433007134971629573",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/E-MQZZiVkAUNKks.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-MQZZiVkAUNKks.jpg",
+					"url": "https://t.co/FIH5GKQVfp",
+					"display_url": "pic.twitter.com/FIH5GKQVfp",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1433007144698220548/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 394,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 695,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1430,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1433007134988406800,
+					"id_str": "1433007134988406788",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/E-MQZZmVkAQx63t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-MQZZmVkAQx63t.jpg",
+					"url": "https://t.co/FIH5GKQVfp",
+					"display_url": "pic.twitter.com/FIH5GKQVfp",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1433007144698220548/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 735,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1351,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 417,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/75NNtZGos2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/75NNtZGos2",
+							"expanded_url": "https://www.monotree.shop",
+							"display_url": "monotree.shop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7185,
+			"friends_count": 0,
+			"listed_count": 53,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/0vDPjteiu3\n\nhttps://t.co/uXVMqbAIiV https://t.co/FIH5GKQVfp"
+	},
+	{
+		"created_at": "Wed Sep 01 10:29:25 +0000 2021",
+		"id": 1433001540059500500,
+		"id_str": "1433014120589275138",
+		"full_text": "2021 인디싸이퍼 비하인드 레인보우노트(슬희)X해달(HAEDAL) l 레이블픽 루비레코드X로드타운\n\n#레인보우노트 슬희의 수줍은 고백과\n#해달(HAEDAL)의 일상다반사 !\n\n한 영상엔 다 담을 수 없었던 그들만의 넘치는 매력\n지금 공개합니다 ! \n▶https://t.co/YGYgLszV8o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레인보우노트",
+					"indices": [
+						57,
+						64
+					]
+				},
+				{
+					"text": "해달",
+					"indices": [
+						77,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YGYgLszV8o",
+					"expanded_url": "https://youtu.be/7kfPPFIlzR8",
+					"display_url": "youtu.be/7kfPPFIlzR8",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7683,
+			"friends_count": 8362,
+			"listed_count": 198,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2021 인디싸이퍼 비하인드 레인보우노트(슬희)X해달(HAEDAL) l 레이블픽 루비레코드X로드타운\n\n#레인보우노트 슬희의 수줍은 고백과\n#해달(HAEDAL)의 일상다반사 !\n\n한 영상엔 다 담을 수 없었던 그들만의 넘치는 매력\n지금 공개합니다 ! \n▶https://t.co/YGYgLszV8o"
+	},
+	{
 		"created_at": "Wed Sep 01 10:09:35 +0000 2021",
 		"id": 1433009132701954000,
 		"id_str": "1433009132701954052",
