@@ -1,6 +1,751 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 01 03:29:42 +0000 2021",
+		"id": 1432902347160580000,
+		"id_str": "1432908496564015113",
+		"full_text": "WELCOME, SANDARA PARK\n\n🔗 https://t.co/VuloZNfzu1\n\n#산다라박 #SANDARAPARK\n#어비스컴퍼니 #ABYSSCOMPANY https://t.co/XXbJSHiEjJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "산다라박",
+					"indices": [
+						50,
+						55
+					]
+				},
+				{
+					"text": "SANDARAPARK",
+					"indices": [
+						56,
+						68
+					]
+				},
+				{
+					"text": "어비스컴퍼니",
+					"indices": [
+						69,
+						76
+					]
+				},
+				{
+					"text": "ABYSSCOMPANY",
+					"indices": [
+						77,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VuloZNfzu1",
+					"expanded_url": "http://abysscompany.com",
+					"display_url": "abysscompany.com",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1432894587702366200,
+					"id_str": "1432894587702366209",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/E-KqCSSUUAE81jx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-KqCSSUUAE81jx.jpg",
+					"url": "https://t.co/XXbJSHiEjJ",
+					"display_url": "pic.twitter.com/XXbJSHiEjJ",
+					"expanded_url": "https://twitter.com/ABYSS_COMPANY/status/1432902347160580105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1432894587702366200,
+					"id_str": "1432894587702366209",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/E-KqCSSUUAE81jx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-KqCSSUUAE81jx.jpg",
+					"url": "https://t.co/XXbJSHiEjJ",
+					"display_url": "pic.twitter.com/XXbJSHiEjJ",
+					"expanded_url": "https://twitter.com/ABYSS_COMPANY/status/1432902347160580105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1432894683747795000,
+					"id_str": "1432894683747794951",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/E-KqH4FVQAcwYfq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-KqH4FVQAcwYfq.jpg",
+					"url": "https://t.co/XXbJSHiEjJ",
+					"display_url": "pic.twitter.com/XXbJSHiEjJ",
+					"expanded_url": "https://twitter.com/ABYSS_COMPANY/status/1432902347160580105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1432894736914808800,
+					"id_str": "1432894736914808832",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/E-KqK-JVgAAQLqR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-KqK-JVgAAQLqR.jpg",
+					"url": "https://t.co/XXbJSHiEjJ",
+					"display_url": "pic.twitter.com/XXbJSHiEjJ",
+					"expanded_url": "https://twitter.com/ABYSS_COMPANY/status/1432902347160580105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1432894773380010000,
+					"id_str": "1432894773380009985",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/E-KqNF_UUAEz3x1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-KqNF_UUAEz3x1.jpg",
+					"url": "https://t.co/XXbJSHiEjJ",
+					"display_url": "pic.twitter.com/XXbJSHiEjJ",
+					"expanded_url": "https://twitter.com/ABYSS_COMPANY/status/1432902347160580105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 748379922209583100,
+			"id_str": "748379922209583104",
+			"name": "ABYSS COMPANY",
+			"screen_name": "ABYSS_COMPANY",
+			"location": "",
+			"description": "ABYSS COMPANY Official Twitter",
+			"url": "https://t.co/FXx196IZXh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FXx196IZXh",
+							"expanded_url": "http://abysscompany.com/",
+							"display_url": "abysscompany.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104783,
+			"friends_count": 7,
+			"listed_count": 215,
+			"created_at": "Thu Jun 30 04:57:32 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 424,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/748379922209583104/1612752885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4362,
+		"favorite_count": 7008,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "WELCOME, SANDARA PARK\n\n🔗 https://t.co/VuloZNfzu1\n\n#산다라박 #SANDARAPARK\n#어비스컴퍼니 #ABYSSCOMPANY https://t.co/XXbJSHiEjJ"
+	},
+	{
+		"created_at": "Wed Sep 01 03:29:36 +0000 2021",
+		"id": 1432902280324518000,
+		"id_str": "1432908470890733576",
+		"full_text": "WELCOME, SANDARA PARK\n\n🔗 https://t.co/VuloZMXYCt\n\n#산다라박 #SANDARAPARK\n#어비스컴퍼니 #ABYSSCOMPANY https://t.co/Gn7xMXu282",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "산다라박",
+					"indices": [
+						50,
+						55
+					]
+				},
+				{
+					"text": "SANDARAPARK",
+					"indices": [
+						56,
+						68
+					]
+				},
+				{
+					"text": "어비스컴퍼니",
+					"indices": [
+						69,
+						76
+					]
+				},
+				{
+					"text": "ABYSSCOMPANY",
+					"indices": [
+						77,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VuloZMXYCt",
+					"expanded_url": "http://abysscompany.com",
+					"display_url": "abysscompany.com",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1432701905558507500,
+					"id_str": "1432701905558507524",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/E-H6ytXXEAQ474U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-H6ytXXEAQ474U.jpg",
+					"url": "https://t.co/Gn7xMXu282",
+					"display_url": "pic.twitter.com/Gn7xMXu282",
+					"expanded_url": "https://twitter.com/ABYSS_COMPANY/status/1432902280324517892/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1432701905558507500,
+					"id_str": "1432701905558507524",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/E-H6ytXXEAQ474U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-H6ytXXEAQ474U.jpg",
+					"url": "https://t.co/Gn7xMXu282",
+					"display_url": "pic.twitter.com/Gn7xMXu282",
+					"expanded_url": "https://twitter.com/ABYSS_COMPANY/status/1432902280324517892/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 748379922209583100,
+			"id_str": "748379922209583104",
+			"name": "ABYSS COMPANY",
+			"screen_name": "ABYSS_COMPANY",
+			"location": "",
+			"description": "ABYSS COMPANY Official Twitter",
+			"url": "https://t.co/FXx196IZXh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FXx196IZXh",
+							"expanded_url": "http://abysscompany.com/",
+							"display_url": "abysscompany.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104783,
+			"friends_count": 7,
+			"listed_count": 215,
+			"created_at": "Thu Jun 30 04:57:32 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 424,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/748379922209583104/1612752885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5466,
+		"favorite_count": 8624,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "WELCOME, SANDARA PARK\n\n🔗 https://t.co/VuloZMXYCt\n\n#산다라박 #SANDARAPARK\n#어비스컴퍼니 #ABYSSCOMPANY https://t.co/Gn7xMXu282"
+	},
+	{
+		"created_at": "Wed Sep 01 03:29:31 +0000 2021",
+		"id": 1432901026122649600,
+		"id_str": "1432908449340329988",
+		"full_text": "SANDARA PARK x ABYSS\n\n🔗 https://t.co/FQ8jBUhjr8\n🔗 https://t.co/VuloZNfzu1\n\n#어비스컴퍼니 #ABYSSCOMPANY https://t.co/wdZtGoHGCo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "어비스컴퍼니",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"text": "ABYSSCOMPANY",
+					"indices": [
+						83,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FQ8jBUhjr8",
+					"expanded_url": "https://youtu.be/N3SZv9_f_HM",
+					"display_url": "youtu.be/N3SZv9_f_HM",
+					"indices": [
+						24,
+						47
+					]
+				},
+				{
+					"url": "https://t.co/VuloZNfzu1",
+					"expanded_url": "http://abysscompany.com",
+					"display_url": "abysscompany.com",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1432677368083091500,
+					"id_str": "1432677368083091458",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E-HkecJVkAInTSd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-HkecJVkAInTSd.jpg",
+					"url": "https://t.co/wdZtGoHGCo",
+					"display_url": "pic.twitter.com/wdZtGoHGCo",
+					"expanded_url": "https://twitter.com/ABYSS_COMPANY/status/1432901026122649610/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1432677368083091500,
+					"id_str": "1432677368083091458",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E-HkecJVkAInTSd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-HkecJVkAInTSd.jpg",
+					"url": "https://t.co/wdZtGoHGCo",
+					"display_url": "pic.twitter.com/wdZtGoHGCo",
+					"expanded_url": "https://twitter.com/ABYSS_COMPANY/status/1432901026122649610/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 748379922209583100,
+			"id_str": "748379922209583104",
+			"name": "ABYSS COMPANY",
+			"screen_name": "ABYSS_COMPANY",
+			"location": "",
+			"description": "ABYSS COMPANY Official Twitter",
+			"url": "https://t.co/FXx196IZXh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FXx196IZXh",
+							"expanded_url": "http://abysscompany.com/",
+							"display_url": "abysscompany.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104783,
+			"friends_count": 7,
+			"listed_count": 215,
+			"created_at": "Thu Jun 30 04:57:32 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 424,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/748379922209583104/1612752885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3282,
+		"favorite_count": 4760,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "SANDARA PARK x ABYSS\n\n🔗 https://t.co/FQ8jBUhjr8\n🔗 https://t.co/VuloZNfzu1\n\n#어비스컴퍼니 #ABYSSCOMPANY https://t.co/wdZtGoHGCo"
+	},
+	{
 		"created_at": "Wed Sep 01 03:06:56 +0000 2021",
 		"id": 1432902768864465000,
 		"id_str": "1432902768864464897",
