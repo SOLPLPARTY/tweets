@@ -1,6 +1,899 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 01 07:11:16 +0000 2021",
+		"id": 1432957213388128300,
+		"id_str": "1432964257277227009",
+		"full_text": "✔️본 공연은 \"2021 KT&amp;G 상상마당 홍대 음악지원사업-나의 첫 번째 콘서트\"의 후원으로 제작되는 공연입니다.\n\n[📢] 노디시카 1st Solo Concert [YOUTH] 티켓 오픈 안내\n\n✔ 공연일시 : 21년 9월 16일 (목) 오후 7시\n✔ 장소 : KT&amp;G 상상마당 라이브홀\n✔ 예매 : 21년 9월 1일(수) 오후 2시 멜론티켓 https://t.co/0aGnbzM0Hc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1432957174095904800,
+					"id_str": "1432957174095904782",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/E-Li9SxVgA40J5r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-Li9SxVgA40J5r.jpg",
+					"url": "https://t.co/0aGnbzM0Hc",
+					"display_url": "pic.twitter.com/0aGnbzM0Hc",
+					"expanded_url": "https://twitter.com/SSmadang/status/1432957213388128268/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1432957174095904800,
+					"id_str": "1432957174095904782",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/E-Li9SxVgA40J5r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-Li9SxVgA40J5r.jpg",
+					"url": "https://t.co/0aGnbzM0Hc",
+					"display_url": "pic.twitter.com/0aGnbzM0Hc",
+					"expanded_url": "https://twitter.com/SSmadang/status/1432957213388128268/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1432957174255218700,
+					"id_str": "1432957174255218700",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/E-Li9TXUcAwomjt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-Li9TXUcAwomjt.jpg",
+					"url": "https://t.co/0aGnbzM0Hc",
+					"display_url": "pic.twitter.com/0aGnbzM0Hc",
+					"expanded_url": "https://twitter.com/SSmadang/status/1432957213388128268/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1432957174427230200,
+					"id_str": "1432957174427230213",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/E-Li9UAVIAUC4jl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-Li9UAVIAUC4jl.jpg",
+					"url": "https://t.co/0aGnbzM0Hc",
+					"display_url": "pic.twitter.com/0aGnbzM0Hc",
+					"expanded_url": "https://twitter.com/SSmadang/status/1432957213388128268/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17814,
+			"friends_count": 1879,
+			"listed_count": 289,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✔️본 공연은 \"2021 KT&amp;G 상상마당 홍대 음악지원사업-나의 첫 번째 콘서트\"의 후원으로 제작되는 공연입니다.\n\n[📢] 노디시카 1st Solo Concert [YOUTH] 티켓 오픈 안내\n\n✔ 공연일시 : 21년 9월 16일 (목) 오후 7시\n✔ 장소 : KT&amp;G 상상마당 라이브홀\n✔ 예매 : 21년 9월 1일(수) 오후 2시 멜론티켓 https://t.co/0aGnbzM0Hc"
+	},
+	{
+		"created_at": "Wed Sep 01 06:29:42 +0000 2021",
+		"id": 1432946917554614300,
+		"id_str": "1432953795357683717",
+		"full_text": "[VIDEO] [#인순이] #레전드음악교실_랄라랜드\n\n랄라랜드 시청자에게 행복을 주세요!  인순이의 #행복 ♬\n👉 https://t.co/uyZX6GQTNV \n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #랄라랜드",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "레전드음악교실_랄라랜드",
+					"indices": [
+						15,
+						28
+					]
+				},
+				{
+					"text": "행복",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						90,
+						98
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						106,
+						120
+					]
+				},
+				{
+					"text": "랄라랜드",
+					"indices": [
+						121,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uyZX6GQTNV",
+					"expanded_url": "http://naver.me/GPr1QzeW",
+					"display_url": "naver.me/GPr1QzeW",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 359,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#인순이] #레전드음악교실_랄라랜드\n\n랄라랜드 시청자에게 행복을 주세요!  인순이의 #행복 ♬\n👉 https://t.co/uyZX6GQTNV \n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #랄라랜드"
+	},
+	{
+		"created_at": "Wed Sep 01 06:29:40 +0000 2021",
+		"id": 1432946833869852700,
+		"id_str": "1432953786478350337",
+		"full_text": "[VIDEO] [#인순이] #레전드음악교실_랄라랜드\n\n랄라랜드 4대 선생님, 세대 초월 가요계 영원한 디바! 인순이가 부르는 #거위의꿈\n👉 https://t.co/SkOg3jZmKv\n\n인순이의 또 다른 명곡 #아버지, 가사에 아버지라는 단어가 안나온다..?\n👉 https://t.co/gDt68sifrR\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "레전드음악교실_랄라랜드",
+					"indices": [
+						15,
+						28
+					]
+				},
+				{
+					"text": "거위의꿈",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "아버지",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						171,
+						179
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						180,
+						186
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						187,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SkOg3jZmKv",
+					"expanded_url": "http://naver.me/x0avSue7",
+					"display_url": "naver.me/x0avSue7",
+					"indices": [
+						78,
+						101
+					]
+				},
+				{
+					"url": "https://t.co/gDt68sifrR",
+					"expanded_url": "http://naver.me/FslBJThP",
+					"display_url": "naver.me/FslBJThP",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 359,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#인순이] #레전드음악교실_랄라랜드\n\n랄라랜드 4대 선생님, 세대 초월 가요계 영원한 디바! 인순이가 부르는 #거위의꿈\n👉 https://t.co/SkOg3jZmKv\n\n인순이의 또 다른 명곡 #아버지, 가사에 아버지라는 단어가 안나온다..?\n👉 https://t.co/gDt68sifrR\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS"
+	},
+	{
+		"created_at": "Wed Sep 01 06:29:35 +0000 2021",
+		"id": 1432946727393251300,
+		"id_str": "1432953765024391169",
+		"full_text": "[VIDEO] [#인순이] #레전드음악교실_랄라랜드\n\n음정&amp;박자 뭐가 중요하리! 신나게 부르면 그만?! 인순이의 #밤이면밤마다 ♬\n👉 https://t.co/JWLvaFabiP\n\n명곡은 계속 들어도, 처음 들어도 좋다! 인순이의 솔로 데뷔곡, #이별연습 ♬\n👉 https://t.co/LG1rDogiyO\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "레전드음악교실_랄라랜드",
+					"indices": [
+						15,
+						28
+					]
+				},
+				{
+					"text": "밤이면밤마다",
+					"indices": [
+						67,
+						74
+					]
+				},
+				{
+					"text": "이별연습",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						175,
+						183
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						184,
+						190
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						191,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JWLvaFabiP",
+					"expanded_url": "http://naver.me/FfMI1Zbj",
+					"display_url": "naver.me/FfMI1Zbj",
+					"indices": [
+						79,
+						102
+					]
+				},
+				{
+					"url": "https://t.co/LG1rDogiyO",
+					"expanded_url": "http://naver.me/GJrySwaw",
+					"display_url": "naver.me/GJrySwaw",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 359,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#인순이] #레전드음악교실_랄라랜드\n\n음정&amp;박자 뭐가 중요하리! 신나게 부르면 그만?! 인순이의 #밤이면밤마다 ♬\n👉 https://t.co/JWLvaFabiP\n\n명곡은 계속 들어도, 처음 들어도 좋다! 인순이의 솔로 데뷔곡, #이별연습 ♬\n👉 https://t.co/LG1rDogiyO\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS"
+	},
+	{
+		"created_at": "Wed Sep 01 06:29:32 +0000 2021",
+		"id": 1432946662629003300,
+		"id_str": "1432953751933960197",
+		"full_text": "[NEWS] \"날 안 불러주더라\"…'랄라랜드' #인순이, 과거 슬럼프→'거위의 꿈' 뭉클 일화 고백 [MD리뷰]\n\n👉 https://t.co/MjV9BGuHAd\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #레전드음악교실_랄라랜드 #랄라랜드 #거위의꿈",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						26,
+						30
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						107,
+						121
+					]
+				},
+				{
+					"text": "레전드음악교실_랄라랜드",
+					"indices": [
+						122,
+						135
+					]
+				},
+				{
+					"text": "랄라랜드",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "거위의꿈",
+					"indices": [
+						142,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MjV9BGuHAd",
+					"expanded_url": "http://naver.me/GlVQl8bv",
+					"display_url": "naver.me/GlVQl8bv",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 359,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEWS] \"날 안 불러주더라\"…'랄라랜드' #인순이, 과거 슬럼프→'거위의 꿈' 뭉클 일화 고백 [MD리뷰]\n\n👉 https://t.co/MjV9BGuHAd\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS #레전드음악교실_랄라랜드 #랄라랜드 #거위의꿈"
+	},
+	{
 		"created_at": "Wed Sep 01 05:58:25 +0000 2021",
 		"id": 1432931599004225500,
 		"id_str": "1432945921269145604",
