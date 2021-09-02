@@ -1,6 +1,757 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 02 10:58:14 +0000 2021",
+		"id": 1433369113242443800,
+		"id_str": "1433383763363434501",
+		"full_text": "[KCON:TACT HI 5 라인업 변경 공지]\n[KCON:TACT HI 5 CHANGES IN THE LINEUP]\n[KCON:TACT HI 5 ラインナップ変更のお知らせ] https://t.co/TIMgrWVS0r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433364227310321700,
+					"id_str": "1433364227310321665",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E-RVK6KVgAEWeUx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-RVK6KVgAEWeUx.jpg",
+					"url": "https://t.co/TIMgrWVS0r",
+					"display_url": "pic.twitter.com/TIMgrWVS0r",
+					"expanded_url": "https://twitter.com/KCON_official/status/1433369113242443776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433364227310321700,
+					"id_str": "1433364227310321665",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/E-RVK6KVgAEWeUx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-RVK6KVgAEWeUx.jpg",
+					"url": "https://t.co/TIMgrWVS0r",
+					"display_url": "pic.twitter.com/TIMgrWVS0r",
+					"expanded_url": "https://twitter.com/KCON_official/status/1433369113242443776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 391188,
+			"friends_count": 75,
+			"listed_count": 1000,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2474,
+		"favorite_count": 6022,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[KCON:TACT HI 5 라인업 변경 공지]\n[KCON:TACT HI 5 CHANGES IN THE LINEUP]\n[KCON:TACT HI 5 ラインナップ変更のお知らせ] https://t.co/TIMgrWVS0r"
+	},
+	{
+		"created_at": "Thu Sep 02 10:29:37 +0000 2021",
+		"id": 1433375482733469700,
+		"id_str": "1433376559847690241",
+		"full_text": "김일두의 앨범 I AM NOT I를 동시 발매했단 딩앤댄츠 레이블의 5주년과 35장의 발매 기록들을 축하 드립니다. 10월1일까지 모든 앨범을 반값으로 구매 가능하다니 딩앤댄츠 밴드캠프에 방문해보세요~ https://t.co/BShFWKJcwR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BShFWKJcwR",
+					"expanded_url": "https://twitter.com/dingndents/status/1433374912069079043",
+					"display_url": "twitter.com/dingndents/sta…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1302973592448036900,
+			"id_str": "1302973592448036869",
+			"name": "두루미 흥업",
+			"screen_name": "dooroomi_c",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/w0g5ZZkoX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w0g5ZZkoX6",
+							"expanded_url": "http://drmicp.com",
+							"display_url": "drmicp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 137,
+			"friends_count": 194,
+			"listed_count": 1,
+			"created_at": "Mon Sep 07 14:14:53 +0000 2020",
+			"favourites_count": 710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 403,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1302973592448036869/1628405842",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1433374912069079000,
+		"quoted_status_id_str": "1433374912069079043",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BShFWKJcwR",
+			"expanded": "https://twitter.com/dingndents/status/1433374912069079043",
+			"display": "twitter.com/dingndents/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 02 10:23:04 +0000 2021",
+			"id": 1433374912069079000,
+			"id_str": "1433374912069079043",
+			"full_text": "5 years and 35 releases #dingndents https://t.co/v76VWZFBh6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				35
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "dingndents",
+						"indices": [
+							24,
+							35
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1433374752823939000,
+						"id_str": "1433374752823939075",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1433374752823939075/pu/img/py9rR9-IiqNNjR2H.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1433374752823939075/pu/img/py9rR9-IiqNNjR2H.jpg",
+						"url": "https://t.co/v76VWZFBh6",
+						"display_url": "pic.twitter.com/v76VWZFBh6",
+						"expanded_url": "https://twitter.com/dingndents/status/1433374912069079043/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1433374752823939000,
+						"id_str": "1433374752823939075",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1433374752823939075/pu/img/py9rR9-IiqNNjR2H.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1433374752823939075/pu/img/py9rR9-IiqNNjR2H.jpg",
+						"url": "https://t.co/v76VWZFBh6",
+						"display_url": "pic.twitter.com/v76VWZFBh6",
+						"expanded_url": "https://twitter.com/dingndents/status/1433374912069079043/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 60154,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1433374752823939075/pu/vid/320x320/YglOqwE4aHRQIC6v.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1433374752823939075/pu/pl/_pMV31R8xGOdFy2f.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1433374752823939075/pu/vid/720x720/yEaTbQS7em8GV8qq.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1433374752823939075/pu/vid/540x540/ui6f5CDEpmF9Fobg.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 871604151095935000,
+				"id_str": "871604151095934976",
+				"name": "dingn\\dents",
+				"screen_name": "dingndents",
+				"location": "",
+				"description": "dingn\\dents is a collective and a record label    based in Seoul, South Korea.",
+				"url": "https://t.co/p9WPcxo0Mb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/p9WPcxo0Mb",
+								"expanded_url": "http://www.dingndents.com",
+								"display_url": "dingndents.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 221,
+				"friends_count": 389,
+				"listed_count": 2,
+				"created_at": "Mon Jun 05 05:46:38 +0000 2017",
+				"favourites_count": 2333,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 106,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/871606077359497217/vz7KQJkd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/871606077359497217/vz7KQJkd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/871604151095934976/1496642097",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "김일두의 앨범 I AM NOT I를 동시 발매했단 딩앤댄츠 레이블의 5주년과 35장의 발매 기록들을 축하 드립니다. 10월1일까지 모든 앨범을 반값으로 구매 가능하다니 딩앤댄츠 밴드캠프에 방문해보세요~ https://t.co/BShFWKJcwR"
+	},
+	{
+		"created_at": "Thu Sep 02 10:29:33 +0000 2021",
+		"id": 1433369140417347600,
+		"id_str": "1433376542575505409",
+		"full_text": "[#권혁수] [#대충극장]\n\n싸늘하다...코에 콧물이 맺힌다.🤧🤧\n하지만 걱정하지 마라, 손은 콧물보다 빠르니까...\n\n영상의 깜짝 놀랄 반전과 이벤트는\n#권혁수감성 에서 확인하고 가세요~!\n\n👉 https://t.co/HMMxryxjTt\n\n#광고 #KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #종근당건강 #락토바이옴노즈 https://t.co/vnBNTICoQJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "대충극장",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "권혁수감성",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "광고",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						139,
+						151
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						159,
+						173
+					]
+				},
+				{
+					"text": "종근당건강",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "락토바이옴노즈",
+					"indices": [
+						181,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HMMxryxjTt",
+					"expanded_url": "https://youtu.be/ljpaDDVxFUk",
+					"display_url": "youtu.be/ljpaDDVxFUk",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1433358698907201500,
+					"id_str": "1433358698907201539",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/E-RQJHQUcAMnWxs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-RQJHQUcAMnWxs.jpg",
+					"url": "https://t.co/vnBNTICoQJ",
+					"display_url": "pic.twitter.com/vnBNTICoQJ",
+					"expanded_url": "https://twitter.com/humap_official/status/1433369140417347590/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433358698907201500,
+					"id_str": "1433358698907201539",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/E-RQJHQUcAMnWxs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-RQJHQUcAMnWxs.jpg",
+					"url": "https://t.co/vnBNTICoQJ",
+					"display_url": "pic.twitter.com/vnBNTICoQJ",
+					"expanded_url": "https://twitter.com/humap_official/status/1433369140417347590/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 359,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#권혁수] [#대충극장]\n\n싸늘하다...코에 콧물이 맺힌다.🤧🤧\n하지만 걱정하지 마라, 손은 콧물보다 빠르니까...\n\n영상의 깜짝 놀랄 반전과 이벤트는\n#권혁수감성 에서 확인하고 가세요~!\n\n👉 https://t.co/HMMxryxjTt\n\n#광고 #KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #종근당건강 #락토바이옴노즈 https://t.co/vnBNTICoQJ"
+	},
+	{
 		"created_at": "Thu Sep 02 10:10:08 +0000 2021",
 		"id": 1433371656563708000,
 		"id_str": "1433371656563707905",
