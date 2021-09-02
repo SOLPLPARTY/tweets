@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 02 06:29:28 +0000 2021",
+		"id": 1433305434429948000,
+		"id_str": "1433316123555008512",
+		"full_text": "차별금지법 제정에 관한 9와 숫자들의 이야기를 인터뷰로 담았습니다.\n'Opening'의 라이브 영상과 함께 9와 숫자들의 이야기에 공감해 주세요.\n바로가기=&gt; https://t.co/Xu6bCsASBt https://t.co/zTHsVlNidW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Xu6bCsASBt",
+					"expanded_url": "https://m.ytn.co.kr/news_view.php?s_mcd=0134&key=202107231754154721",
+					"display_url": "m.ytn.co.kr/news_view.php?…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1433304874133774300,
+					"id_str": "1433304874133774338",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/E-QfMGWUYAIBv-D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-QfMGWUYAIBv-D.jpg",
+					"url": "https://t.co/zTHsVlNidW",
+					"display_url": "pic.twitter.com/zTHsVlNidW",
+					"expanded_url": "https://twitter.com/orm_ent/status/1433305434429947905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1043,
+							"h": 829,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1043,
+							"h": 829,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433304874133774300,
+					"id_str": "1433304874133774338",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/E-QfMGWUYAIBv-D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-QfMGWUYAIBv-D.jpg",
+					"url": "https://t.co/zTHsVlNidW",
+					"display_url": "pic.twitter.com/zTHsVlNidW",
+					"expanded_url": "https://twitter.com/orm_ent/status/1433305434429947905/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1043,
+							"h": 829,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1043,
+							"h": 829,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1433305429509951500,
+		"in_reply_to_status_id_str": "1433305429509951488",
+		"in_reply_to_user_id": 52109991,
+		"in_reply_to_user_id_str": "52109991",
+		"in_reply_to_screen_name": "orm_ent",
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 721,
+			"friends_count": 324,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1624418145",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "차별금지법 제정에 관한 9와 숫자들의 이야기를 인터뷰로 담았습니다.\n'Opening'의 라이브 영상과 함께 9와 숫자들의 이야기에 공감해 주세요.\n바로가기=&gt; https://t.co/Xu6bCsASBt https://t.co/zTHsVlNidW"
+	},
+	{
 		"created_at": "Thu Sep 02 05:58:03 +0000 2021",
 		"id": 1433308219875774500,
 		"id_str": "1433308219875774466",
