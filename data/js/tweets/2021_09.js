@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 02 15:29:34 +0000 2021",
+		"id": 1433450137150320600,
+		"id_str": "1433452044019437571",
+		"full_text": "https://t.co/qTWhq61P2t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433450128971473000,
+					"id_str": "1433450128971472901",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E-SjTCyVIAUH9Sy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-SjTCyVIAUH9Sy.jpg",
+					"url": "https://t.co/qTWhq61P2t",
+					"display_url": "pic.twitter.com/qTWhq61P2t",
+					"expanded_url": "https://twitter.com/dooroomi_c/status/1433450137150320641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433450128971473000,
+					"id_str": "1433450128971472901",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E-SjTCyVIAUH9Sy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-SjTCyVIAUH9Sy.jpg",
+					"url": "https://t.co/qTWhq61P2t",
+					"display_url": "pic.twitter.com/qTWhq61P2t",
+					"expanded_url": "https://twitter.com/dooroomi_c/status/1433450137150320641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1433450128971481000,
+					"id_str": "1433450128971481091",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E-SjTCyVQAMVkKX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-SjTCyVQAMVkKX.jpg",
+					"url": "https://t.co/qTWhq61P2t",
+					"display_url": "pic.twitter.com/qTWhq61P2t",
+					"expanded_url": "https://twitter.com/dooroomi_c/status/1433450137150320641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1433450129017610200,
+					"id_str": "1433450129017610246",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E-SjTC9VIAYy3rE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-SjTC9VIAYy3rE.jpg",
+					"url": "https://t.co/qTWhq61P2t",
+					"display_url": "pic.twitter.com/qTWhq61P2t",
+					"expanded_url": "https://twitter.com/dooroomi_c/status/1433450137150320641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1433450033848807400,
+		"in_reply_to_status_id_str": "1433450033848807425",
+		"in_reply_to_user_id": 1302973592448036900,
+		"in_reply_to_user_id_str": "1302973592448036869",
+		"in_reply_to_screen_name": "dooroomi_c",
+		"user": {
+			"id": 1302973592448036900,
+			"id_str": "1302973592448036869",
+			"name": "두루미 흥업",
+			"screen_name": "dooroomi_c",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/w0g5ZZkoX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w0g5ZZkoX6",
+							"expanded_url": "http://drmicp.com",
+							"display_url": "drmicp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 138,
+			"friends_count": 194,
+			"listed_count": 1,
+			"created_at": "Mon Sep 07 14:14:53 +0000 2020",
+			"favourites_count": 710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1302973592448036869/1628405842",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/qTWhq61P2t"
+	},
+	{
 		"created_at": "Thu Sep 02 13:11:17 +0000 2021",
 		"id": 1433410884747948000,
 		"id_str": "1433417243254198287",
