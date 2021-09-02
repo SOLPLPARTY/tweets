@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 02 13:11:17 +0000 2021",
+		"id": 1433410884747948000,
+		"id_str": "1433417243254198287",
+		"full_text": "🌞 푸른 하늘의 날이라서,,\n🗓 2021년 9월 7일 오후 5시\n📺 유튜브 채널 제비 온 에어 https://t.co/vVmO3vifEO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433410828942725000,
+					"id_str": "1433410828942725124",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1433410828942725124/pu/img/MlwIPhw-qA6tWdx0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1433410828942725124/pu/img/MlwIPhw-qA6tWdx0.jpg",
+					"url": "https://t.co/vVmO3vifEO",
+					"display_url": "pic.twitter.com/vVmO3vifEO",
+					"expanded_url": "https://twitter.com/ctrsound/status/1433410884747948039/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433410828942725000,
+					"id_str": "1433410828942725124",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1433410828942725124/pu/img/MlwIPhw-qA6tWdx0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1433410828942725124/pu/img/MlwIPhw-qA6tWdx0.jpg",
+					"url": "https://t.co/vVmO3vifEO",
+					"display_url": "pic.twitter.com/vVmO3vifEO",
+					"expanded_url": "https://twitter.com/ctrsound/status/1433410884747948039/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 16000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1433410828942725124/pu/pl/SfRD9C6gVx2ELSNB.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1433410828942725124/pu/vid/540x540/0TOGCde1i_AcHYaN.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1433410828942725124/pu/vid/720x720/T6iL4mKWBJPN0MEM.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1433410828942725124/pu/vid/320x320/cXw9yjH0oHb0L7PR.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 925630800,
+			"id_str": "925630800",
+			"name": "씨티알싸운드",
+			"screen_name": "ctrsound",
+			"location": "제비다방 2층",
+			"description": "원피스매거진과 제비다방, 씨티알폼(건축) 등을 운영하고 있는 ‘문화지형연구소 씨티알’ 에서 록큰롤의 부흥과 음주가무 문화의 정착을 위해 시작한 ‘씨티알싸운드'는 제비다방에서 인디 뮤지션들의 공연을 기획하고 있으며 뮤지션들과 함께 대한민국의 아름다운 음반문화 정착을 위해 노력하고 있다",
+			"url": "https://t.co/qBjJ0F3Nf5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qBjJ0F3Nf5",
+							"expanded_url": "http://www.ctrplus.com",
+							"display_url": "ctrplus.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 269,
+			"friends_count": 202,
+			"listed_count": 1,
+			"created_at": "Sun Nov 04 16:14:55 +0000 2012",
+			"favourites_count": 96,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/694932642605563905/6sfNnDNC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/694932642605563905/6sfNnDNC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌞 푸른 하늘의 날이라서,,\n🗓 2021년 9월 7일 오후 5시\n📺 유튜브 채널 제비 온 에어 https://t.co/vVmO3vifEO"
+	},
+	{
+		"created_at": "Thu Sep 02 12:58:17 +0000 2021",
+		"id": 1433401243972423700,
+		"id_str": "1433413972087160841",
+		"full_text": "[🕘 time table]\n\n🔉 21:00-21:50 QUIBBIE\n🔉 21:50-22:50 monday studio\n\n🏕 Episode 16 케이팝 수련회 그리고 노래방\n🎤 토요일 저녁 9시 네이버 NOW에서\n\n▶️ 대기실은 토요일 8시 30분 부터 열립니다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1433400129441046500,
+		"in_reply_to_status_id_str": "1433400129441046529",
+		"in_reply_to_user_id": 729495493080809500,
+		"in_reply_to_user_id_str": "729495493080809473",
+		"in_reply_to_screen_name": "seulpeumkpop",
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/J4jpDKDhWh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J4jpDKDhWh",
+							"expanded_url": "https://now.naver.com/player/10256",
+							"display_url": "now.naver.com/player/10256",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7715,
+			"friends_count": 33,
+			"listed_count": 0,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394899661387829250/rn5YcaYQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[🕘 time table]\n\n🔉 21:00-21:50 QUIBBIE\n🔉 21:50-22:50 monday studio\n\n🏕 Episode 16 케이팝 수련회 그리고 노래방\n🎤 토요일 저녁 9시 네이버 NOW에서\n\n▶️ 대기실은 토요일 8시 30분 부터 열립니다"
+	},
+	{
 		"created_at": "Thu Sep 02 10:58:14 +0000 2021",
 		"id": 1433369113242443800,
 		"id_str": "1433383763363434501",
