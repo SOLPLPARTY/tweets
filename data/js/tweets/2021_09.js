@@ -1,6 +1,1027 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 03 10:29:48 +0000 2021",
+		"id": 1433734103770091500,
+		"id_str": "1433738995897413655",
+		"full_text": "하성운 ‘Thank you’ Released!!\n❤️‍🔥 https://t.co/5NQu8PwQn3 https://t.co/G1j9UOHnrD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5NQu8PwQn3",
+					"expanded_url": "https://www.instagram.com/p/CTWv6tfHhNC/?utm_medium=copy_link",
+					"display_url": "instagram.com/p/CTWv6tfHhNC/…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1433734093888311300,
+					"id_str": "1433734093888311301",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/E-Wlj-iUUAUqZah.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-Wlj-iUUAUqZah.jpg",
+					"url": "https://t.co/G1j9UOHnrD",
+					"display_url": "pic.twitter.com/G1j9UOHnrD",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1433734103770091521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 817,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 671,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 817,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433734093888311300,
+					"id_str": "1433734093888311301",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/E-Wlj-iUUAUqZah.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-Wlj-iUUAUqZah.jpg",
+					"url": "https://t.co/G1j9UOHnrD",
+					"display_url": "pic.twitter.com/G1j9UOHnrD",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1433734103770091521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 817,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 671,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 817,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/75NNtZGos2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/75NNtZGos2",
+							"expanded_url": "https://www.monotree.shop",
+							"display_url": "monotree.shop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7195,
+			"friends_count": 0,
+			"listed_count": 53,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 102,
+		"favorite_count": 119,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "하성운 ‘Thank you’ Released!!\n❤️‍🔥 https://t.co/5NQu8PwQn3 https://t.co/G1j9UOHnrD"
+	},
+	{
+		"created_at": "Fri Sep 03 10:29:41 +0000 2021",
+		"id": 1433733217652150300,
+		"id_str": "1433738966025580572",
+		"full_text": "[#김사월]\n김사월이 2021 인천 펜타포트 락 페스티벌 10월 10일 공연에 함께 합니다!\n\n#IPRF21 #INCHEON #PENTAPORT #ROCK #FESTIVAL #PENTAPORT_ROCK_FESTIVAL #펜타포트락페스티벌 #인천 #펜타 #펜타포트 #락페스티벌 #록페스티벌 #2021인천펜타포트락페스티벌 #페스티벌 #april_sour https://t.co/ZxQ8xfVf2p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김사월",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "IPRF21",
+					"indices": [
+						53,
+						60
+					]
+				},
+				{
+					"text": "INCHEON",
+					"indices": [
+						61,
+						69
+					]
+				},
+				{
+					"text": "PENTAPORT",
+					"indices": [
+						70,
+						80
+					]
+				},
+				{
+					"text": "ROCK",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "FESTIVAL",
+					"indices": [
+						87,
+						96
+					]
+				},
+				{
+					"text": "PENTAPORT_ROCK_FESTIVAL",
+					"indices": [
+						97,
+						121
+					]
+				},
+				{
+					"text": "펜타포트락페스티벌",
+					"indices": [
+						122,
+						132
+					]
+				},
+				{
+					"text": "인천",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "펜타",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "펜타포트",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "락페스티벌",
+					"indices": [
+						147,
+						153
+					]
+				},
+				{
+					"text": "록페스티벌",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "2021인천펜타포트락페스티벌",
+					"indices": [
+						161,
+						177
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						178,
+						183
+					]
+				},
+				{
+					"text": "april_sour",
+					"indices": [
+						184,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433733202720350200,
+					"id_str": "1433733202720350208",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/E-WkwGrUYAAx_zp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-WkwGrUYAAx_zp.jpg",
+					"url": "https://t.co/ZxQ8xfVf2p",
+					"display_url": "pic.twitter.com/ZxQ8xfVf2p",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1433733217652150272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433733202720350200,
+					"id_str": "1433733202720350208",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/E-WkwGrUYAAx_zp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-WkwGrUYAAx_zp.jpg",
+					"url": "https://t.co/ZxQ8xfVf2p",
+					"display_url": "pic.twitter.com/ZxQ8xfVf2p",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1433733217652150272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2135,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#김사월]\n김사월이 2021 인천 펜타포트 락 페스티벌 10월 10일 공연에 함께 합니다!\n\n#IPRF21 #INCHEON #PENTAPORT #ROCK #FESTIVAL #PENTAPORT_ROCK_FESTIVAL #펜타포트락페스티벌 #인천 #펜타 #펜타포트 #락페스티벌 #록페스티벌 #2021인천펜타포트락페스티벌 #페스티벌 #april_sour https://t.co/ZxQ8xfVf2p"
+	},
+	{
+		"created_at": "Fri Sep 03 10:29:39 +0000 2021",
+		"id": 1433727822003007500,
+		"id_str": "1433738956559036433",
+		"full_text": "⠀\nDAILY MIRRORBALL MUSIC | 210903 FRI\n⠀\n🔸 마미손X효자손 [노브레인 25주년 Part.1]\n🔸 김세영 [Homework]\n🔸 혜성 [혜성]\n🔸 버틀러 (Butler) [H.O.T (Hope of Tom)]\n⠀\n#마미손X효자손 #김세영 #혜성 #버틀러 #미러볼뮤직 #인디음악 \n⠀ https://t.co/a1P6OgxaN7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "마미손X효자손",
+					"indices": [
+						135,
+						143
+					]
+				},
+				{
+					"text": "김세영",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "혜성",
+					"indices": [
+						149,
+						152
+					]
+				},
+				{
+					"text": "버틀러",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						165,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433727669321961500,
+					"id_str": "1433727669321961475",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1433727669321961475/pu/img/s_T_KC50Y2GbLo2d.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1433727669321961475/pu/img/s_T_KC50Y2GbLo2d.jpg",
+					"url": "https://t.co/a1P6OgxaN7",
+					"display_url": "pic.twitter.com/a1P6OgxaN7",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1433727822003007490/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433727669321961500,
+					"id_str": "1433727669321961475",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1433727669321961475/pu/img/s_T_KC50Y2GbLo2d.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1433727669321961475/pu/img/s_T_KC50Y2GbLo2d.jpg",
+					"url": "https://t.co/a1P6OgxaN7",
+					"display_url": "pic.twitter.com/a1P6OgxaN7",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1433727822003007490/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 56056,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1433727669321961475/pu/vid/320x320/0aMWo9DHoyHEknJl.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1433727669321961475/pu/pl/IZJu4J_Q49I6af9k.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1433727669321961475/pu/vid/720x720/1jqy8ygTL2jUe0mN.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1433727669321961475/pu/vid/540x540/HUdv2j3ExY_MOCQI.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9475,
+			"friends_count": 2620,
+			"listed_count": 246,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10738,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1627032310",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⠀\nDAILY MIRRORBALL MUSIC | 210903 FRI\n⠀\n🔸 마미손X효자손 [노브레인 25주년 Part.1]\n🔸 김세영 [Homework]\n🔸 혜성 [혜성]\n🔸 버틀러 (Butler) [H.O.T (Hope of Tom)]\n⠀\n#마미손X효자손 #김세영 #혜성 #버틀러 #미러볼뮤직 #인디음악 \n⠀ https://t.co/a1P6OgxaN7"
+	},
+	{
+		"created_at": "Fri Sep 03 10:29:35 +0000 2021",
+		"id": 1433723989738745900,
+		"id_str": "1433738939261673472",
+		"full_text": "#박손님 #박손장 #우같음듣 #조제호랑이그리고물고기들 #손원들사연과함께 #유튜브라이브 #스트리밍 #생방송 #유어썸머",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박손님",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "박손장",
+					"indices": [
+						5,
+						9
+					]
+				},
+				{
+					"text": "우같음듣",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "조제호랑이그리고물고기들",
+					"indices": [
+						16,
+						29
+					]
+				},
+				{
+					"text": "손원들사연과함께",
+					"indices": [
+						30,
+						39
+					]
+				},
+				{
+					"text": "유튜브라이브",
+					"indices": [
+						40,
+						47
+					]
+				},
+				{
+					"text": "스트리밍",
+					"indices": [
+						48,
+						53
+					]
+				},
+				{
+					"text": "생방송",
+					"indices": [
+						54,
+						58
+					]
+				},
+				{
+					"text": "유어썸머",
+					"indices": [
+						59,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1433723987289247700,
+		"in_reply_to_status_id_str": "1433723987289247747",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2135,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#박손님 #박손장 #우같음듣 #조제호랑이그리고물고기들 #손원들사연과함께 #유튜브라이브 #스트리밍 #생방송 #유어썸머"
+	},
+	{
+		"created_at": "Fri Sep 03 10:29:28 +0000 2021",
+		"id": 1433723987289247700,
+		"id_str": "1433738909381505083",
+		"full_text": "📍1회(9/15): #우리는같은음악을듣고 + #영화 '#조제, 호랑이 그리고 물고기들'\n📍신청 기간: 9월 3일 (금) ~ 9월 14일 (화)\n📍신청 방법: your_summer_@naver.com 메일과 @yoursummerkr 인스타그램 DM으로 노래와 영화에 대한 생각들을 보내주세요.\n\n사연은 9월 15일 손님포차에서 함께 나눠요❤",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우리는같은음악을듣고",
+					"indices": [
+						11,
+						22
+					]
+				},
+				{
+					"text": "영화",
+					"indices": [
+						25,
+						28
+					]
+				},
+				{
+					"text": "조제",
+					"indices": [
+						30,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YoursummerKR",
+					"name": "유어썸머 Your Summer",
+					"id": 404720294,
+					"id_str": "404720294",
+					"indices": [
+						115,
+						128
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1433723984458092500,
+		"in_reply_to_status_id_str": "1433723984458092546",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2135,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "📍1회(9/15): #우리는같은음악을듣고 + #영화 '#조제, 호랑이 그리고 물고기들'\n📍신청 기간: 9월 3일 (금) ~ 9월 14일 (화)\n📍신청 방법: your_summer_@naver.com 메일과 @yoursummerkr 인스타그램 DM으로 노래와 영화에 대한 생각들을 보내주세요.\n\n사연은 9월 15일 손님포차에서 함께 나눠요❤"
+	},
+	{
 		"created_at": "Fri Sep 03 09:29:42 +0000 2021",
 		"id": 1433716888203190300,
 		"id_str": "1433723870142517251",
