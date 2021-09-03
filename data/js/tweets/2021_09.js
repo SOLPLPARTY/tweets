@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 03 08:29:25 +0000 2021",
+		"id": 1433704248919748600,
+		"id_str": "1433708697163812865",
+		"full_text": "눈 풀린 채 찍힌 너의 사진이 좋아!📸\n\n2021.09.06 MON 12PM (KST)\n담예, 싱글 '찰칵! (snap snap snap) (#001_side a)'\n\n#담예 #찰칵 #snapsnapsnap https://t.co/havmOTMx0a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "001_side",
+					"indices": [
+						79,
+						88
+					]
+				},
+				{
+					"text": "담예",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "찰칵",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "snapsnapsnap",
+					"indices": [
+						102,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433704135086334000,
+					"id_str": "1433704135086333955",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1433704135086333955/pu/img/hiMwwcFHJk1EwrpR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1433704135086333955/pu/img/hiMwwcFHJk1EwrpR.jpg",
+					"url": "https://t.co/havmOTMx0a",
+					"display_url": "pic.twitter.com/havmOTMx0a",
+					"expanded_url": "https://twitter.com/inplanet/status/1433704248919748612/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433704135086334000,
+					"id_str": "1433704135086333955",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1433704135086333955/pu/img/hiMwwcFHJk1EwrpR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1433704135086333955/pu/img/hiMwwcFHJk1EwrpR.jpg",
+					"url": "https://t.co/havmOTMx0a",
+					"display_url": "pic.twitter.com/havmOTMx0a",
+					"expanded_url": "https://twitter.com/inplanet/status/1433704248919748612/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26860,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1433704135086333955/pu/vid/480x270/61jMVCwz85hd2TK4.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1433704135086333955/pu/vid/640x360/qVFOaBOQbHnm73D3.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1433704135086333955/pu/vid/1280x720/Oe3ohiBmb08Np8v-.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1433704135086333955/pu/pl/19vmpUsMmXVkeE_a.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1446,
+			"friends_count": 776,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "눈 풀린 채 찍힌 너의 사진이 좋아!📸\n\n2021.09.06 MON 12PM (KST)\n담예, 싱글 '찰칵! (snap snap snap) (#001_side a)'\n\n#담예 #찰칵 #snapsnapsnap https://t.co/havmOTMx0a"
+	},
+	{
 		"created_at": "Fri Sep 03 07:58:26 +0000 2021",
 		"id": 1433686356216070100,
 		"id_str": "1433700901148053527",
