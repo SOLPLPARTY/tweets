@@ -1,10 +1,377 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 03 11:29:54 +0000 2021",
+		"id": 1433746671511376000,
+		"id_str": "1433754120704479240",
+		"full_text": "- 트위터\n\n@Doby_93\n\n@mummoozi\n\n당첨되신 분들은 @yoursummerkr DM으로 성함/ 연락처/ 주소(우편번호) 를 보내주세요!\n\n#김사월 #너만큼 #스트리밍이벤트 #당첨자발표",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김사월",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "너만큼",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "스트리밍이벤트",
+					"indices": [
+						94,
+						102
+					]
+				},
+				{
+					"text": "당첨자발표",
+					"indices": [
+						103,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Doby_93",
+					"name": "도비93",
+					"id": 1379652117355319300,
+					"id_str": "1379652117355319299",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"screen_name": "mummoozi",
+					"name": "멈무",
+					"id": 1352585255669047300,
+					"id_str": "1352585255669047297",
+					"indices": [
+						17,
+						26
+					]
+				},
+				{
+					"screen_name": "YoursummerKR",
+					"name": "유어썸머 Your Summer",
+					"id": 404720294,
+					"id_str": "404720294",
+					"indices": [
+						37,
+						50
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1433746628481990700,
+		"in_reply_to_status_id_str": "1433746628481990659",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2135,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "- 트위터\n\n@Doby_93\n\n@mummoozi\n\n당첨되신 분들은 @yoursummerkr DM으로 성함/ 연락처/ 주소(우편번호) 를 보내주세요!\n\n#김사월 #너만큼 #스트리밍이벤트 #당첨자발표"
+	},
+	{
+		"created_at": "Fri Sep 03 11:29:50 +0000 2021",
+		"id": 1433746628481990700,
+		"id_str": "1433754102257836039",
+		"full_text": "[김사월] ‘너만큼’ 스트리밍 이벤트 당첨자 발표🎉\n\n‘너만큼’ 스트리밍 이벤트에 참여해주신 모든 분들께 감사드립니다.\n\n📍당첨자\n\n- 인스타그램\n\nhpnsisabutterfly\n\nyeonjoo.pic\n\ntoomuch__tmi https://t.co/8qkPgWN1G9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433746623557881900,
+					"id_str": "1433746623557881862",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/E-Ww9TMVUAYlAkW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-Ww9TMVUAYlAkW.jpg",
+					"url": "https://t.co/8qkPgWN1G9",
+					"display_url": "pic.twitter.com/8qkPgWN1G9",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1433746628481990659/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 1079,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433746623557881900,
+					"id_str": "1433746623557881862",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/E-Ww9TMVUAYlAkW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-Ww9TMVUAYlAkW.jpg",
+					"url": "https://t.co/8qkPgWN1G9",
+					"display_url": "pic.twitter.com/8qkPgWN1G9",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1433746628481990659/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 1079,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1433746623834648600,
+					"id_str": "1433746623834648576",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/E-Ww9UOUcAAOl0O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-Ww9UOUcAAOl0O.jpg",
+					"url": "https://t.co/8qkPgWN1G9",
+					"display_url": "pic.twitter.com/8qkPgWN1G9",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1433746628481990659/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2135,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[김사월] ‘너만큼’ 스트리밍 이벤트 당첨자 발표🎉\n\n‘너만큼’ 스트리밍 이벤트에 참여해주신 모든 분들께 감사드립니다.\n\n📍당첨자\n\n- 인스타그램\n\nhpnsisabutterfly\n\nyeonjoo.pic\n\ntoomuch__tmi https://t.co/8qkPgWN1G9"
+	},
+	{
 		"created_at": "Fri Sep 03 10:29:48 +0000 2021",
 		"id": 1433734103770091500,
 		"id_str": "1433738995897413655",
-		"full_text": "하성운 ‘Thank you’ Released!!\n❤️‍🔥 https://t.co/5NQu8PwQn3 https://t.co/G1j9UOHnrD",
+		"full_text": "하성운 ‘Thank you’ Released!!\n❤️🔥 https://t.co/5NQu8PwQn3 https://t.co/G1j9UOHnrD",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -183,7 +550,7 @@ Grailbird.data.tweets_2021_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "하성운 ‘Thank you’ Released!!\n❤️‍🔥 https://t.co/5NQu8PwQn3 https://t.co/G1j9UOHnrD"
+		"text": "하성운 ‘Thank you’ Released!!\n❤️🔥 https://t.co/5NQu8PwQn3 https://t.co/G1j9UOHnrD"
 	},
 	{
 		"created_at": "Fri Sep 03 10:29:41 +0000 2021",
