@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 03 03:29:47 +0000 2021",
+		"id": 1433630047445815300,
+		"id_str": "1433633294776688644",
+		"full_text": "[Release]\n존박 - ‘그냥’ (원곡 : Zion.T &amp; Crush) \n\n비긴어게인 오픈마이크 EPISODE. 20을 통해 발매된 ‘그냥’을 지금 바로 각종 음원사이트에서 만나보세요🎧\n\n#존박 #JohnPark #그냥 #비긴어게인오픈마이크 https://t.co/tfWAMiXMRL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "존박",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "JohnPark",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"text": "그냥",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "비긴어게인오픈마이크",
+					"indices": [
+						129,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433629186162266000,
+					"id_str": "1433629186162266119",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/E-VGJizVkAcom5N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-VGJizVkAcom5N.jpg",
+					"url": "https://t.co/tfWAMiXMRL",
+					"display_url": "pic.twitter.com/tfWAMiXMRL",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1433630047445815311/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433629186162266000,
+					"id_str": "1433629186162266119",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/E-VGJizVkAcom5N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-VGJizVkAcom5N.jpg",
+					"url": "https://t.co/tfWAMiXMRL",
+					"display_url": "pic.twitter.com/tfWAMiXMRL",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1433630047445815311/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/eGHxiArKQw",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eGHxiArKQw",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9041,
+			"friends_count": 5,
+			"listed_count": 108,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1625475697",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release]\n존박 - ‘그냥’ (원곡 : Zion.T &amp; Crush) \n\n비긴어게인 오픈마이크 EPISODE. 20을 통해 발매된 ‘그냥’을 지금 바로 각종 음원사이트에서 만나보세요🎧\n\n#존박 #JohnPark #그냥 #비긴어게인오픈마이크 https://t.co/tfWAMiXMRL"
+	},
+	{
 		"created_at": "Fri Sep 03 03:13:35 +0000 2021",
 		"id": 1433629215576965000,
 		"id_str": "1433629215576965120",
