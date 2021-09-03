@@ -1,6 +1,414 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 03 05:58:20 +0000 2021",
+		"id": 1433656032249540600,
+		"id_str": "1433670676452454420",
+		"full_text": "💌KCON:TACT HI 5 Twitterスペースの1番目のエピソード募集💌\n1番目のスペースの主人公THE BOYZに\n伝えたいTHE Bのメッセージを送ってください！\n9月 9日(木)に会いましょう🖐\n\n#KCONTACT #KCONTACTHI5 #THEBOYZ #더보이즈 https://t.co/a0PQm5w59t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						106,
+						115
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						116,
+						128
+					]
+				},
+				{
+					"text": "THEBOYZ",
+					"indices": [
+						129,
+						137
+					]
+				},
+				{
+					"text": "더보이즈",
+					"indices": [
+						138,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433654911384752000,
+					"id_str": "1433654911384752129",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/E-Vdi8uVEAETg3z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-Vdi8uVEAETg3z.jpg",
+					"url": "https://t.co/a0PQm5w59t",
+					"display_url": "pic.twitter.com/a0PQm5w59t",
+					"expanded_url": "https://twitter.com/KCON_official/status/1433656032249540609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433654911384752000,
+					"id_str": "1433654911384752129",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/E-Vdi8uVEAETg3z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-Vdi8uVEAETg3z.jpg",
+					"url": "https://t.co/a0PQm5w59t",
+					"display_url": "pic.twitter.com/a0PQm5w59t",
+					"expanded_url": "https://twitter.com/KCON_official/status/1433656032249540609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1433656026767626200,
+		"in_reply_to_status_id_str": "1433656026767626244",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 391580,
+			"friends_count": 75,
+			"listed_count": 1001,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 194,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "💌KCON:TACT HI 5 Twitterスペースの1番目のエピソード募集💌\n1番目のスペースの主人公THE BOYZに\n伝えたいTHE Bのメッセージを送ってください！\n9月 9日(木)に会いましょう🖐\n\n#KCONTACT #KCONTACTHI5 #THEBOYZ #더보이즈 https://t.co/a0PQm5w59t"
+	},
+	{
+		"created_at": "Fri Sep 03 05:58:17 +0000 2021",
+		"id": 1433656026767626200,
+		"id_str": "1433670663320088583",
+		"full_text": "💌KCON:TACT HI 5 트위터 스페이스 첫 번째 사연 모집💌\n첫 번째 스페이스의 주인공 THE BOYZ에게\n전하고 싶은 더비의 메시지를 보내주세요!\n9월 9일 목요일에 만나요🖐\n\n#KCONTACT #KCONTACTHI5 #THEBOYZ #더보이즈 https://t.co/0E8VIMBXRv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						103,
+						112
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						113,
+						125
+					]
+				},
+				{
+					"text": "THEBOYZ",
+					"indices": [
+						126,
+						134
+					]
+				},
+				{
+					"text": "더보이즈",
+					"indices": [
+						135,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433654816987701200,
+					"id_str": "1433654816987701248",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/E-VdddEUYAAQjbV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-VdddEUYAAQjbV.jpg",
+					"url": "https://t.co/0E8VIMBXRv",
+					"display_url": "pic.twitter.com/0E8VIMBXRv",
+					"expanded_url": "https://twitter.com/KCON_official/status/1433656026767626244/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433654816987701200,
+					"id_str": "1433654816987701248",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/E-VdddEUYAAQjbV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-VdddEUYAAQjbV.jpg",
+					"url": "https://t.co/0E8VIMBXRv",
+					"display_url": "pic.twitter.com/0E8VIMBXRv",
+					"expanded_url": "https://twitter.com/KCON_official/status/1433656026767626244/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1433656021025579000,
+		"in_reply_to_status_id_str": "1433656021025579013",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 391580,
+			"friends_count": 75,
+			"listed_count": 1001,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 475,
+		"favorite_count": 392,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💌KCON:TACT HI 5 트위터 스페이스 첫 번째 사연 모집💌\n첫 번째 스페이스의 주인공 THE BOYZ에게\n전하고 싶은 더비의 메시지를 보내주세요!\n9월 9일 목요일에 만나요🖐\n\n#KCONTACT #KCONTACTHI5 #THEBOYZ #더보이즈 https://t.co/0E8VIMBXRv"
+	},
+	{
 		"created_at": "Fri Sep 03 05:11:25 +0000 2021",
 		"id": 1433652279987486700,
 		"id_str": "1433658868773662757",
