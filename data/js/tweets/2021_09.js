@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 03 05:11:25 +0000 2021",
+		"id": 1433652279987486700,
+		"id_str": "1433658868773662757",
+		"full_text": "📢 9/3 공연 현장 안내\n\n&lt;프롬 소극장 단독 콘서트 : Sunset panorama&gt;\n· 티켓수령 : 6시 30분 (현장구매 극소량 가능)\n· 입장 : 7시 \n· 공연시작 : 7시 30분\n· 출연 : 프롬⠀\n\n#프롬 #단독콘서트 #Sunset_panorama\n#롤링홀 #ROLLINGHALL\n#홍대 #공연 #인디 #멜론티켓 https://t.co/X67N76H1pg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프롬",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "Sunset_panorama",
+					"indices": [
+						136,
+						152
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						158,
+						170
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						175,
+						178
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						179,
+						182
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						183,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433652168192450600,
+					"id_str": "1433652168192450564",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/E-VbDRiUYAQuQrs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-VbDRiUYAQuQrs.jpg",
+					"url": "https://t.co/X67N76H1pg",
+					"display_url": "pic.twitter.com/X67N76H1pg",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1433652279987486721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433652168192450600,
+					"id_str": "1433652168192450564",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/E-VbDRiUYAQuQrs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-VbDRiUYAQuQrs.jpg",
+					"url": "https://t.co/X67N76H1pg",
+					"display_url": "pic.twitter.com/X67N76H1pg",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1433652279987486721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1433652192964067300,
+					"id_str": "1433652192964067334",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/E-VbEt0VQAYPqFN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-VbEt0VQAYPqFN.jpg",
+					"url": "https://t.co/X67N76H1pg",
+					"display_url": "pic.twitter.com/X67N76H1pg",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1433652279987486721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1433652229831942100,
+					"id_str": "1433652229831942155",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/E-VbG3KUYAsYrrM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-VbG3KUYAsYrrM.jpg",
+					"url": "https://t.co/X67N76H1pg",
+					"display_url": "pic.twitter.com/X67N76H1pg",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1433652279987486721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1433652230024949800,
+					"id_str": "1433652230024949762",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/E-VbG34VcAIiPpo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-VbG34VcAIiPpo.jpg",
+					"url": "https://t.co/X67N76H1pg",
+					"display_url": "pic.twitter.com/X67N76H1pg",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1433652279987486721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 201,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 258,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 9/3 공연 현장 안내\n\n&lt;프롬 소극장 단독 콘서트 : Sunset panorama&gt;\n· 티켓수령 : 6시 30분 (현장구매 극소량 가능)\n· 입장 : 7시 \n· 공연시작 : 7시 30분\n· 출연 : 프롬⠀\n\n#프롬 #단독콘서트 #Sunset_panorama\n#롤링홀 #ROLLINGHALL\n#홍대 #공연 #인디 #멜론티켓 https://t.co/X67N76H1pg"
+	},
+	{
 		"created_at": "Fri Sep 03 03:29:47 +0000 2021",
 		"id": 1433630047445815300,
 		"id_str": "1433633294776688644",
