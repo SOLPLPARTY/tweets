@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 03 07:58:26 +0000 2021",
+		"id": 1433686356216070100,
+		"id_str": "1433700901148053527",
+		"full_text": "[WEi CHECK IN] RUiを思いながらWEiが準備した\nBYE BYE BYEのハイタッチチャレンジバージョン✋ どうでしたか？\nもっと見たいWEiの姿があれば、コメントしてください！\n\n#KCONTACT #KCONTACTHI5 \n#HI5CHALLENGE #WEi #위아이 @WEi__Official",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						109,
+						121
+					]
+				},
+				{
+					"text": "HI5CHALLENGE",
+					"indices": [
+						123,
+						136
+					]
+				},
+				{
+					"text": "WEi",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "위아이",
+					"indices": [
+						142,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WEi__Official",
+					"name": "위아이(WEi)_OFFICIAL",
+					"id": 1281170510429094000,
+					"id_str": "1281170510429093890",
+					"indices": [
+						147,
+						161
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1433686271105196000,
+		"in_reply_to_status_id_str": "1433686271105196040",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 391641,
+			"friends_count": 75,
+			"listed_count": 1001,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10637,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "[WEi CHECK IN] RUiを思いながらWEiが準備した\nBYE BYE BYEのハイタッチチャレンジバージョン✋ どうでしたか？\nもっと見たいWEiの姿があれば、コメントしてください！\n\n#KCONTACT #KCONTACTHI5 \n#HI5CHALLENGE #WEi #위아이 @WEi__Official"
+	},
+	{
+		"created_at": "Fri Sep 03 07:58:17 +0000 2021",
+		"id": 1433686271105196000,
+		"id_str": "1433700862896001031",
+		"full_text": "[WEi CHECK IN] RUi들을 생각하며 WEi가 준비한\nBYE BYE BYE 하이파이브 챌린지 버전✋ 어떠셨나요?\n더 보고 싶은 WEi의 모습이 있다면 댓글로 남겨주세요!\n\n#KCONTACT #KCONTACTHI5 \n#HI5CHALLENGE #WEi #위아이 @WEi__Official",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						101,
+						110
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						111,
+						123
+					]
+				},
+				{
+					"text": "HI5CHALLENGE",
+					"indices": [
+						125,
+						138
+					]
+				},
+				{
+					"text": "WEi",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "위아이",
+					"indices": [
+						144,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WEi__Official",
+					"name": "위아이(WEi)_OFFICIAL",
+					"id": 1281170510429094000,
+					"id_str": "1281170510429093890",
+					"indices": [
+						149,
+						163
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1433686195695878100,
+		"in_reply_to_status_id_str": "1433686195695878148",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 391641,
+			"friends_count": 75,
+			"listed_count": 1001,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10637,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 104,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[WEi CHECK IN] RUi들을 생각하며 WEi가 준비한\nBYE BYE BYE 하이파이브 챌린지 버전✋ 어떠셨나요?\n더 보고 싶은 WEi의 모습이 있다면 댓글로 남겨주세요!\n\n#KCONTACT #KCONTACTHI5 \n#HI5CHALLENGE #WEi #위아이 @WEi__Official"
+	},
+	{
 		"created_at": "Fri Sep 03 06:57:35 +0000 2021",
 		"id": 1433685588050329600,
 		"id_str": "1433685588050329600",
