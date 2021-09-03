@@ -1,6 +1,837 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 03 09:29:42 +0000 2021",
+		"id": 1433716888203190300,
+		"id_str": "1433723870142517251",
+		"full_text": "[POST] [#마르코]\n\n광고 찍으랬더니 드라마 찍고 온 오늘의 주인공\n'마르코'란 장르에 함께 빠져보시겠어요?\n#휴맵컨텐츠 네이버 포스트에서 확인해주세용😘\n\n👉 https://t.co/vSIG1Lo5Pf\n\n#MARCO #HUMAPCONTENTS #광고 #비하인드 #behind #배우 #많관부",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "마르코",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "MARCO",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						124,
+						138
+					]
+				},
+				{
+					"text": "광고",
+					"indices": [
+						139,
+						142
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "behind",
+					"indices": [
+						149,
+						156
+					]
+				},
+				{
+					"text": "배우",
+					"indices": [
+						157,
+						160
+					]
+				},
+				{
+					"text": "많관부",
+					"indices": [
+						161,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vSIG1Lo5Pf",
+					"expanded_url": "http://naver.me/xKQTC9za",
+					"display_url": "naver.me/xKQTC9za",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 359,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[POST] [#마르코]\n\n광고 찍으랬더니 드라마 찍고 온 오늘의 주인공\n'마르코'란 장르에 함께 빠져보시겠어요?\n#휴맵컨텐츠 네이버 포스트에서 확인해주세용😘\n\n👉 https://t.co/vSIG1Lo5Pf\n\n#MARCO #HUMAPCONTENTS #광고 #비하인드 #behind #배우 #많관부"
+	},
+	{
+		"created_at": "Fri Sep 03 09:29:39 +0000 2021",
+		"id": 1433716528092889000,
+		"id_str": "1433723857031008257",
+		"full_text": "HAPPY 1 YEAR \"Numbers\" ANNIVERSARY!... and coming soon❗️🤭\n\n#JAMIE #제이미 #Numbers #COMINGSOON 🥰 https://t.co/CAa5xaBEXY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JAMIE",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "제이미",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "Numbers",
+					"indices": [
+						71,
+						79
+					]
+				},
+				{
+					"text": "COMINGSOON",
+					"indices": [
+						80,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433716519565885400,
+					"id_str": "1433716519565885440",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/E-WVlBFVgAA5lz-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-WVlBFVgAA5lz-.jpg",
+					"url": "https://t.co/CAa5xaBEXY",
+					"display_url": "pic.twitter.com/CAa5xaBEXY",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1433716528092889091/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433716519565885400,
+					"id_str": "1433716519565885440",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/E-WVlBFVgAA5lz-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-WVlBFVgAA5lz-.jpg",
+					"url": "https://t.co/CAa5xaBEXY",
+					"display_url": "pic.twitter.com/CAa5xaBEXY",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1433716528092889091/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51750,
+			"friends_count": 496,
+			"listed_count": 190,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HAPPY 1 YEAR \"Numbers\" ANNIVERSARY!... and coming soon❗️🤭\n\n#JAMIE #제이미 #Numbers #COMINGSOON 🥰 https://t.co/CAa5xaBEXY"
+	},
+	{
+		"created_at": "Fri Sep 03 09:29:37 +0000 2021",
+		"id": 1433716490792890400,
+		"id_str": "1433723848189415426",
+		"full_text": "[#마르코] #광고 #비하인드\n\n휴맵컨텐츠와 함께하는 첫 광고 촬영 현장\n두번째 이야기🎥\n\n재밌게 활기차게~!! ٩(๑˃̵ᴗ˂̵)و\n\n👉 유튜브 : https://t.co/K9X6PBeQb6\n👉 V LIVE : https://t.co/jHuxvRmjdk\n\n#MARCO #휴맵컨텐츠 #HUMAPCONTENTS #광고 #behind #배우 #많관부 https://t.co/1VP6iJLume",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "마르코",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "광고",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "MARCO",
+					"indices": [
+						143,
+						149
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						157,
+						171
+					]
+				},
+				{
+					"text": "광고",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "behind",
+					"indices": [
+						176,
+						183
+					]
+				},
+				{
+					"text": "배우",
+					"indices": [
+						184,
+						187
+					]
+				},
+				{
+					"text": "많관부",
+					"indices": [
+						188,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K9X6PBeQb6",
+					"expanded_url": "https://youtu.be/-b-qr9-FBGY",
+					"display_url": "youtu.be/-b-qr9-FBGY",
+					"indices": [
+						83,
+						106
+					]
+				},
+				{
+					"url": "https://t.co/jHuxvRmjdk",
+					"expanded_url": "https://www.vlive.tv/post/0-25162864",
+					"display_url": "vlive.tv/post/0-25162864",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1433715937551663000,
+					"id_str": "1433715937551663108",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/E-WVDI6VQAQ0stC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-WVDI6VQAQ0stC.jpg",
+					"url": "https://t.co/1VP6iJLume",
+					"display_url": "pic.twitter.com/1VP6iJLume",
+					"expanded_url": "https://twitter.com/humap_official/status/1433716490792890368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433715937551663000,
+					"id_str": "1433715937551663108",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/E-WVDI6VQAQ0stC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-WVDI6VQAQ0stC.jpg",
+					"url": "https://t.co/1VP6iJLume",
+					"display_url": "pic.twitter.com/1VP6iJLume",
+					"expanded_url": "https://twitter.com/humap_official/status/1433716490792890368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 359,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#마르코] #광고 #비하인드\n\n휴맵컨텐츠와 함께하는 첫 광고 촬영 현장\n두번째 이야기🎥\n\n재밌게 활기차게~!! ٩(๑˃̵ᴗ˂̵)و\n\n👉 유튜브 : https://t.co/K9X6PBeQb6\n👉 V LIVE : https://t.co/jHuxvRmjdk\n\n#MARCO #휴맵컨텐츠 #HUMAPCONTENTS #광고 #behind #배우 #많관부 https://t.co/1VP6iJLume"
+	},
+	{
+		"created_at": "Fri Sep 03 09:29:33 +0000 2021",
+		"id": 1433716401001410600,
+		"id_str": "1433723830892179481",
+		"full_text": "[Release D-4]\n⠀\n스무살 - '사랑은 특별하고, 이별은 평범하고 (Feat. 서유주)' Lyric Image\n\n2021.09.07. 6PM Release\n\n#스무살 #사랑은특별하고이별은평범하고\n#서유주 #20YearsofAge https://t.co/86euRZLBlV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스무살",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "사랑은특별하고이별은평범하고",
+					"indices": [
+						98,
+						113
+					]
+				},
+				{
+					"text": "서유주",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "20YearsofAge",
+					"indices": [
+						119,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433712450415652900,
+					"id_str": "1433712450415652864",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/E-WR4KUUcAAmrph.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-WR4KUUcAAmrph.jpg",
+					"url": "https://t.co/86euRZLBlV",
+					"display_url": "pic.twitter.com/86euRZLBlV",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1433716401001410587/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433712450415652900,
+					"id_str": "1433712450415652864",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/E-WR4KUUcAAmrph.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-WR4KUUcAAmrph.jpg",
+					"url": "https://t.co/86euRZLBlV",
+					"display_url": "pic.twitter.com/86euRZLBlV",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1433716401001410587/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/VtrzF3mRza",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VtrzF3mRza",
+							"expanded_url": "http://shofar-ent.com",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7737,
+			"friends_count": 4,
+			"listed_count": 0,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1629789716",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Release D-4]\n⠀\n스무살 - '사랑은 특별하고, 이별은 평범하고 (Feat. 서유주)' Lyric Image\n\n2021.09.07. 6PM Release\n\n#스무살 #사랑은특별하고이별은평범하고\n#서유주 #20YearsofAge https://t.co/86euRZLBlV"
+	},
+	{
 		"created_at": "Fri Sep 03 08:29:25 +0000 2021",
 		"id": 1433704248919748600,
 		"id_str": "1433708697163812865",
