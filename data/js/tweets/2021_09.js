@@ -1,6 +1,585 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 03 06:57:35 +0000 2021",
+		"id": 1433685588050329600,
+		"id_str": "1433685588050329600",
+		"full_text": "#문화가있는날 #블로그\n문화가 있는 날, 우리 함께 걸어볼까요? - 성북동 힐링 투어\nhttps://t.co/AMYA3Ne1Mg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문화가있는날",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						8,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AMYA3Ne1Mg",
+					"expanded_url": "https://bit.ly/3gYvsgs",
+					"display_url": "bit.ly/3gYvsgs",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 255,
+			"friends_count": 466,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#문화가있는날 #블로그\n문화가 있는 날, 우리 함께 걸어볼까요? - 성북동 힐링 투어\nhttps://t.co/AMYA3Ne1Mg"
+	},
+	{
+		"created_at": "Fri Sep 03 06:29:32 +0000 2021",
+		"id": 1433674746902630400,
+		"id_str": "1433678528353120276",
+		"full_text": "[Things You Missed]\n\n테일러 스위프트는 ‘August’에서 8월은 ‘내 것인 적이 없고 와인병처럼 미끄러져 잃어버리는 달’이라는 가사를 썼습니다. 눈부시게 반짝였지만 쉴 새 없이 빠르게 지나간 8월입니다. 8월에 놓치기 아쉬웠던 것들을 소개하는 Things You Missed입니다.\nhttps://t.co/bHX0lc7UIV https://t.co/ojyozHpm5Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bHX0lc7UIV",
+					"expanded_url": "https://www.highjinkxmm.com/features/tym-august",
+					"display_url": "highjinkxmm.com/features/tym-a…",
+					"indices": [
+						168,
+						191
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1433674692758409200,
+					"id_str": "1433674692758409222",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/E-VviYFVEAYs1Pk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-VviYFVEAYs1Pk.jpg",
+					"url": "https://t.co/ojyozHpm5Q",
+					"display_url": "pic.twitter.com/ojyozHpm5Q",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1433674746902630402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433674692758409200,
+					"id_str": "1433674692758409222",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/E-VviYFVEAYs1Pk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-VviYFVEAYs1Pk.jpg",
+					"url": "https://t.co/ojyozHpm5Q",
+					"display_url": "pic.twitter.com/ojyozHpm5Q",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1433674746902630402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1433674692754231300,
+					"id_str": "1433674692754231299",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/E-VviYEVUAM0F87.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-VviYEVUAM0F87.jpg",
+					"url": "https://t.co/ojyozHpm5Q",
+					"display_url": "pic.twitter.com/ojyozHpm5Q",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1433674746902630402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1433674692750033000,
+					"id_str": "1433674692750032900",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/E-VviYDVQAQcWWe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-VviYDVQAQcWWe.jpg",
+					"url": "https://t.co/ojyozHpm5Q",
+					"display_url": "pic.twitter.com/ojyozHpm5Q",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1433674746902630402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1433674692758433800,
+					"id_str": "1433674692758433793",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/E-VviYFVcAEpnVb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-VviYFVcAEpnVb.jpg",
+					"url": "https://t.co/ojyozHpm5Q",
+					"display_url": "pic.twitter.com/ojyozHpm5Q",
+					"expanded_url": "https://twitter.com/HIGHJINKXX/status/1433674746902630402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/P2V4wFkAko",
+			"url": "https://t.co/oAPJfxeB46",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAPJfxeB46",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P2V4wFkAko",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 439,
+			"friends_count": 21,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 604,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Things You Missed]\n\n테일러 스위프트는 ‘August’에서 8월은 ‘내 것인 적이 없고 와인병처럼 미끄러져 잃어버리는 달’이라는 가사를 썼습니다. 눈부시게 반짝였지만 쉴 새 없이 빠르게 지나간 8월입니다. 8월에 놓치기 아쉬웠던 것들을 소개하는 Things You Missed입니다.\nhttps://t.co/bHX0lc7UIV https://t.co/ojyozHpm5Q"
+	},
+	{
+		"created_at": "Fri Sep 03 06:29:28 +0000 2021",
+		"id": 1433666915143065600,
+		"id_str": "1433678511131308032",
+		"full_text": "Youtube: https://t.co/ZZrYlq5mBy\nApple Music: https://t.co/yNOalwjx5u\nSpotify: https://t.co/i3oaIPY4wL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZZrYlq5mBy",
+					"expanded_url": "https://youtube.com/playlist?list=PLv8vQiISLY7RdqubTRRqTm0lmm9ySlm5U",
+					"display_url": "youtube.com/playlist?list=…",
+					"indices": [
+						9,
+						32
+					]
+				},
+				{
+					"url": "https://t.co/yNOalwjx5u",
+					"expanded_url": "https://music.apple.com/kr/playlist/%EA%B9%80%EC%82%AC%EC%9B%94-%EB%82%98%EB%A5%BC-%EA%B9%A8%EC%96%B4%EC%9E%88%EA%B2%8C-%ED%95%98%EB%8A%94-%EC%9D%8C%EC%95%85/pl.u-11zBBg3c8kArllX",
+					"display_url": "music.apple.com/kr/playlist/%E…",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"url": "https://t.co/i3oaIPY4wL",
+					"expanded_url": "https://open.spotify.com/playlist/0LETwGGIqfOF0qsmQbNmv9?si=191cd9afcc29449e&nd=1",
+					"display_url": "open.spotify.com/playlist/0LETw…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1433666340103987200,
+		"in_reply_to_status_id_str": "1433666340103987204",
+		"in_reply_to_user_id": 985865748638650400,
+		"in_reply_to_user_id_str": "985865748638650368",
+		"in_reply_to_screen_name": "HIGHJINKXX",
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/P2V4wFkAko",
+			"url": "https://t.co/oAPJfxeB46",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAPJfxeB46",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P2V4wFkAko",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 439,
+			"friends_count": 21,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 604,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Youtube: https://t.co/ZZrYlq5mBy\nApple Music: https://t.co/yNOalwjx5u\nSpotify: https://t.co/i3oaIPY4wL"
+	},
+	{
 		"created_at": "Fri Sep 03 05:58:20 +0000 2021",
 		"id": 1433656032249540600,
 		"id_str": "1433670676452454420",
