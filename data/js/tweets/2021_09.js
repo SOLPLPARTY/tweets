@@ -1,6 +1,443 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 04 06:58:33 +0000 2021",
+		"id": 1434033606104469500,
+		"id_str": "1434048217847668736",
+		"full_text": "LIVE PREMIERE with #WOODZ\n[速報]WOODZを見たMOODZが胸キュンして救急車を呼んだという噂が...🚨\nWOODZと共にしたLIVE PREMIERE!その現場写真を公開します💛\n\n#KCONTACTHI5WOODZ #LIVEPREMIERE #KCONTACTHI5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WOODZ",
+					"indices": [
+						19,
+						25
+					]
+				},
+				{
+					"text": "KCONTACTHI5WOODZ",
+					"indices": [
+						106,
+						123
+					]
+				},
+				{
+					"text": "LIVEPREMIERE",
+					"indices": [
+						124,
+						137
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						138,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1434033566334140400,
+		"in_reply_to_status_id_str": "1434033566334140418",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 391880,
+			"friends_count": 75,
+			"listed_count": 1,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10640,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 136,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "LIVE PREMIERE with #WOODZ\n[速報]WOODZを見たMOODZが胸キュンして救急車を呼んだという噂が...🚨\nWOODZと共にしたLIVE PREMIERE!その現場写真を公開します💛\n\n#KCONTACTHI5WOODZ #LIVEPREMIERE #KCONTACTHI5"
+	},
+	{
+		"created_at": "Sat Sep 04 06:58:23 +0000 2021",
+		"id": 1434033566334140400,
+		"id_str": "1434048179591331844",
+		"full_text": "LIVE PREMIERE with #WOODZ\n[속보]WOODZ 용달로 들고 가려는 MOODZ 속출해 이곳저곳 용달회사 전화가 끊이질 않아...🚨\nWOODZ와 함께한 우당탕탕 LIVE PREMIERE! 그 현장 사진을 공개합니다! 💛\n\n#KCONTACTHI5WOODZ #LIVEPREMIERE #KCONTACTHI5 https://t.co/GGLtaIrAry",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WOODZ",
+					"indices": [
+						19,
+						25
+					]
+				},
+				{
+					"text": "KCONTACTHI5WOODZ",
+					"indices": [
+						132,
+						149
+					]
+				},
+				{
+					"text": "LIVEPREMIERE",
+					"indices": [
+						150,
+						163
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						164,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1434033545152917500,
+					"id_str": "1434033545152917504",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E-a16VbVcAA2iQH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-a16VbVcAA2iQH.jpg",
+					"url": "https://t.co/GGLtaIrAry",
+					"display_url": "pic.twitter.com/GGLtaIrAry",
+					"expanded_url": "https://twitter.com/KCON_official/status/1434033566334140418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434033545152917500,
+					"id_str": "1434033545152917504",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E-a16VbVcAA2iQH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-a16VbVcAA2iQH.jpg",
+					"url": "https://t.co/GGLtaIrAry",
+					"display_url": "pic.twitter.com/GGLtaIrAry",
+					"expanded_url": "https://twitter.com/KCON_official/status/1434033566334140418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1434033545144459300,
+					"id_str": "1434033545144459266",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E-a16VZUYAI3N0K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-a16VZUYAI3N0K.jpg",
+					"url": "https://t.co/GGLtaIrAry",
+					"display_url": "pic.twitter.com/GGLtaIrAry",
+					"expanded_url": "https://twitter.com/KCON_official/status/1434033566334140418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1434033545157099500,
+					"id_str": "1434033545157099526",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E-a16VcVQAY8_Zg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-a16VcVQAY8_Zg.jpg",
+					"url": "https://t.co/GGLtaIrAry",
+					"display_url": "pic.twitter.com/GGLtaIrAry",
+					"expanded_url": "https://twitter.com/KCON_official/status/1434033566334140418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1434033545173893000,
+					"id_str": "1434033545173893123",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E-a16VgVgAMv9nU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-a16VgVgAMv9nU.jpg",
+					"url": "https://t.co/GGLtaIrAry",
+					"display_url": "pic.twitter.com/GGLtaIrAry",
+					"expanded_url": "https://twitter.com/KCON_official/status/1434033566334140418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1434033484796997600,
+		"in_reply_to_status_id_str": "1434033484796997638",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 391880,
+			"friends_count": 75,
+			"listed_count": 1,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10640,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 403,
+		"favorite_count": 546,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "LIVE PREMIERE with #WOODZ\n[속보]WOODZ 용달로 들고 가려는 MOODZ 속출해 이곳저곳 용달회사 전화가 끊이질 않아...🚨\nWOODZ와 함께한 우당탕탕 LIVE PREMIERE! 그 현장 사진을 공개합니다! 💛\n\n#KCONTACTHI5WOODZ #LIVEPREMIERE #KCONTACTHI5 https://t.co/GGLtaIrAry"
+	},
+	{
 		"created_at": "Sat Sep 04 06:11:17 +0000 2021",
 		"id": 1434022734443520000,
 		"id_str": "1434036323824947200",
