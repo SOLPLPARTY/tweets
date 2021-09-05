@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 05 05:29:25 +0000 2021",
+		"id": 1434384217459212300,
+		"id_str": "1434388174323781634",
+		"full_text": "🍋Beautiful Sunshine🍋으로 돌아온 이은상(@LES_BNM)의 인터뷰를 지금 바로 워너뮤직 케이팝 인스타그램에서 확인하세요!😗🍋 \n\n▶️https://t.co/4xaGoXUo9A\n\n#warnermusic #warnermusickpop #워너뮤직케이팝 #이은상 #LeeEunSang #BeautifulSunshine #Lemonade https://t.co/nfGtLAwGa1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnermusic",
+					"indices": [
+						108,
+						120
+					]
+				},
+				{
+					"text": "warnermusickpop",
+					"indices": [
+						121,
+						137
+					]
+				},
+				{
+					"text": "워너뮤직케이팝",
+					"indices": [
+						138,
+						146
+					]
+				},
+				{
+					"text": "이은상",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "LeeEunSang",
+					"indices": [
+						152,
+						163
+					]
+				},
+				{
+					"text": "BeautifulSunshine",
+					"indices": [
+						164,
+						182
+					]
+				},
+				{
+					"text": "Lemonade",
+					"indices": [
+						183,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LES_BNM",
+					"name": "이은상 (Lee Eun Sang)",
+					"id": 1290944644033867800,
+					"id_str": "1290944644033867776",
+					"indices": [
+						31,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4xaGoXUo9A",
+					"expanded_url": "https://www.instagram.com/tv/CTbX0-Ons4v/?utm_medium=copy_link",
+					"display_url": "instagram.com/tv/CTbX0-Ons4v…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1434384208672133000,
+					"id_str": "1434384208672133120",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/E-f01o1VEAAWPS6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-f01o1VEAAWPS6.jpg",
+					"url": "https://t.co/nfGtLAwGa1",
+					"display_url": "pic.twitter.com/nfGtLAwGa1",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1434384217459212291/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434384208672133000,
+					"id_str": "1434384208672133120",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/E-f01o1VEAAWPS6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-f01o1VEAAWPS6.jpg",
+					"url": "https://t.co/nfGtLAwGa1",
+					"display_url": "pic.twitter.com/nfGtLAwGa1",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1434384217459212291/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1242,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51742,
+			"friends_count": 496,
+			"listed_count": 190,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 240,
+		"favorite_count": 527,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🍋Beautiful Sunshine🍋으로 돌아온 이은상(@LES_BNM)의 인터뷰를 지금 바로 워너뮤직 케이팝 인스타그램에서 확인하세요!😗🍋 \n\n▶️https://t.co/4xaGoXUo9A\n\n#warnermusic #warnermusickpop #워너뮤직케이팝 #이은상 #LeeEunSang #BeautifulSunshine #Lemonade https://t.co/nfGtLAwGa1"
+	},
+	{
 		"created_at": "Sun Sep 05 03:29:25 +0000 2021",
 		"id": 1434350581263437800,
 		"id_str": "1434357975431499777",
