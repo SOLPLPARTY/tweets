@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 05 07:58:15 +0000 2021",
+		"id": 1434410973083865000,
+		"id_str": "1434425629844381697",
+		"full_text": "[JO1 CHECK IN] How was JO1's high five challenge version of REAL for JAM?\nIf there's something else you want to see from JO1, please leave a comment!\n\n#KCONTACT #KCONTACTHI5 #HI5CHALLENGE #JO1 #제이오원 @official_jo1 https://t.co/mQBOSnLou3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						151,
+						160
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						161,
+						173
+					]
+				},
+				{
+					"text": "HI5CHALLENGE",
+					"indices": [
+						174,
+						187
+					]
+				},
+				{
+					"text": "JO1",
+					"indices": [
+						188,
+						192
+					]
+				},
+				{
+					"text": "제이오원",
+					"indices": [
+						193,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "official_jo1",
+					"name": "JO1",
+					"id": 1204439457073488000,
+					"id_str": "1204439457073487872",
+					"indices": [
+						199,
+						212
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1433605742745907200,
+					"id_str": "1433605742745907200",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1433605742745907200/img/bQO56RlVcZuEyVhJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1433605742745907200/img/bQO56RlVcZuEyVhJ.jpg",
+					"url": "https://t.co/mQBOSnLou3",
+					"display_url": "pic.twitter.com/mQBOSnLou3",
+					"expanded_url": "https://twitter.com/KCON_official/status/1434410973083865088/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433605742745907200,
+					"id_str": "1433605742745907200",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1433605742745907200/img/bQO56RlVcZuEyVhJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1433605742745907200/img/bQO56RlVcZuEyVhJ.jpg",
+					"url": "https://t.co/mQBOSnLou3",
+					"display_url": "pic.twitter.com/mQBOSnLou3",
+					"expanded_url": "https://twitter.com/KCON_official/status/1434410973083865088/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 150450,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1433605742745907200/vid/720x1280/tS5KgCUwyKIl9bwW.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1433605742745907200/vid/480x852/_QSVMutSV2VmQMTl.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1433605742745907200/pl/krWsCMHrJfUBw1uY.m3u8?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1433605742745907200/vid/320x568/QejwJSQkoofrK7a_.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 392083,
+			"friends_count": 75,
+			"listed_count": 1002,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10641,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1816,
+		"favorite_count": 3989,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[JO1 CHECK IN] How was JO1's high five challenge version of REAL for JAM?\nIf there's something else you want to see from JO1, please leave a comment!\n\n#KCONTACT #KCONTACTHI5 #HI5CHALLENGE #JO1 #제이오원 @official_jo1 https://t.co/mQBOSnLou3"
+	},
+	{
 		"created_at": "Sun Sep 05 06:29:24 +0000 2021",
 		"id": 1434398647009964000,
 		"id_str": "1434403273461612547",
