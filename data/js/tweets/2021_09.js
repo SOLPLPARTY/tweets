@@ -1,6 +1,1510 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 06 09:14:52 +0000 2021",
+		"id": 1434807300783489000,
+		"id_str": "1434807300783489025",
+		"full_text": "#쇼파르뮤직 #Shofar_Music\n[Lyric Video] 스무살 - '사랑은 특별하고, 이별은 평범하고 (Feat. 서유주)'\nhttps://t.co/ddDVaKFwjV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼파르뮤직",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Shofar_Music",
+					"indices": [
+						7,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ddDVaKFwjV",
+					"expanded_url": "https://youtu.be/-j39dqDDWgM",
+					"display_url": "youtu.be/-j39dqDDWgM",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 466,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#쇼파르뮤직 #Shofar_Music\n[Lyric Video] 스무살 - '사랑은 특별하고, 이별은 평범하고 (Feat. 서유주)'\nhttps://t.co/ddDVaKFwjV"
+	},
+	{
+		"created_at": "Mon Sep 06 08:58:25 +0000 2021",
+		"id": 1434788620741660700,
+		"id_str": "1434803158845374468",
+		"full_text": "[WOODZ CHECK IN] MOODZを考えながらWOODZが準備した\nFEEL LIKEのハイタッチチャレンジバージョン！どうでしたか？\nもっと見たいWOODZの姿があれば、コメントしてください！\n\n#KCONTACT #KCONTACTHI5 \n#HI5CHALLENGE #WOODZ #조승연 #CHOSEUNGYOUN @c_woodzofficial",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						104,
+						113
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						114,
+						126
+					]
+				},
+				{
+					"text": "HI5CHALLENGE",
+					"indices": [
+						128,
+						141
+					]
+				},
+				{
+					"text": "WOODZ",
+					"indices": [
+						142,
+						148
+					]
+				},
+				{
+					"text": "조승연",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "CHOSEUNGYOUN",
+					"indices": [
+						154,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "c_woodzofficial",
+					"name": "WOODZ(조승연)",
+					"id": 1219213114895302700,
+					"id_str": "1219213114895302656",
+					"indices": [
+						168,
+						184
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1434788544506040300,
+		"in_reply_to_status_id_str": "1434788544506040320",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 392294,
+			"friends_count": 75,
+			"listed_count": 1001,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "[WOODZ CHECK IN] MOODZを考えながらWOODZが準備した\nFEEL LIKEのハイタッチチャレンジバージョン！どうでしたか？\nもっと見たいWOODZの姿があれば、コメントしてください！\n\n#KCONTACT #KCONTACTHI5 \n#HI5CHALLENGE #WOODZ #조승연 #CHOSEUNGYOUN @c_woodzofficial"
+	},
+	{
+		"created_at": "Mon Sep 06 08:58:16 +0000 2021",
+		"id": 1434788544506040300,
+		"id_str": "1434803124833853442",
+		"full_text": "[WOODZ CHECK IN] MOODZ들을 생각하며 WOODZ가 준비한\n FEEL LIKE 하이파이브 챌린지 버전! 어떠셨나요?\n더 보고 싶은 WOODZ의 모습이 있다면 댓글로 남겨주세요!\n\n#KCONTACT #KCONTACTHI5 \n#HI5CHALLENGE #WOODZ #조승연 #CHOSEUNGYOUN @c_woodzofficial",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						108,
+						117
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						118,
+						130
+					]
+				},
+				{
+					"text": "HI5CHALLENGE",
+					"indices": [
+						132,
+						145
+					]
+				},
+				{
+					"text": "WOODZ",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "조승연",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "CHOSEUNGYOUN",
+					"indices": [
+						158,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "c_woodzofficial",
+					"name": "WOODZ(조승연)",
+					"id": 1219213114895302700,
+					"id_str": "1219213114895302656",
+					"indices": [
+						172,
+						188
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1434788465254695000,
+		"in_reply_to_status_id_str": "1434788465254694920",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 392294,
+			"friends_count": 75,
+			"listed_count": 1001,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[WOODZ CHECK IN] MOODZ들을 생각하며 WOODZ가 준비한\n FEEL LIKE 하이파이브 챌린지 버전! 어떠셨나요?\n더 보고 싶은 WOODZ의 모습이 있다면 댓글로 남겨주세요!\n\n#KCONTACT #KCONTACTHI5 \n#HI5CHALLENGE #WOODZ #조승연 #CHOSEUNGYOUN @c_woodzofficial"
+	},
+	{
+		"created_at": "Mon Sep 06 08:58:14 +0000 2021",
+		"id": 1434788465254695000,
+		"id_str": "1434803115908272130",
+		"full_text": "[WOODZ CHECK IN] How was WOODZ's high five challenge version of FEEL LIKE for MOODZ?\nIf there's something else you want to see from WOODZ, please leave a comment!\n\n#KCONTACT #KCONTACTHI5 \n#HI5CHALLENGE #WOODZ #조승연 #CHOSEUNGYOUN @c_woodzofficial https://t.co/lUDQP8p6ud",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						164,
+						173
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						174,
+						186
+					]
+				},
+				{
+					"text": "HI5CHALLENGE",
+					"indices": [
+						188,
+						201
+					]
+				},
+				{
+					"text": "WOODZ",
+					"indices": [
+						202,
+						208
+					]
+				},
+				{
+					"text": "조승연",
+					"indices": [
+						209,
+						213
+					]
+				},
+				{
+					"text": "CHOSEUNGYOUN",
+					"indices": [
+						214,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "c_woodzofficial",
+					"name": "WOODZ(조승연)",
+					"id": 1219213114895302700,
+					"id_str": "1219213114895302656",
+					"indices": [
+						228,
+						244
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1434748978759815200,
+					"id_str": "1434748978759815170",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1434748978759815170/pu/img/MLdrryCpWYcFPLTO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1434748978759815170/pu/img/MLdrryCpWYcFPLTO.jpg",
+					"url": "https://t.co/lUDQP8p6ud",
+					"display_url": "pic.twitter.com/lUDQP8p6ud",
+					"expanded_url": "https://twitter.com/KCON_official/status/1434788465254694920/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434748978759815200,
+					"id_str": "1434748978759815170",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1434748978759815170/pu/img/MLdrryCpWYcFPLTO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1434748978759815170/pu/img/MLdrryCpWYcFPLTO.jpg",
+					"url": "https://t.co/lUDQP8p6ud",
+					"display_url": "pic.twitter.com/lUDQP8p6ud",
+					"expanded_url": "https://twitter.com/KCON_official/status/1434788465254694920/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 97597,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1434748978759815170/pu/vid/320x568/Sb3bmgmYxocAlUev.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1434748978759815170/pu/vid/480x852/m-UwDcz1jAEKQXFd.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1434748978759815170/pu/vid/720x1280/G5ptbjodSrbwMzhW.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1434748978759815170/pu/pl/k4TTyzz3UlmPFzmf.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 392294,
+			"friends_count": 75,
+			"listed_count": 1001,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 757,
+		"favorite_count": 1379,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[WOODZ CHECK IN] How was WOODZ's high five challenge version of FEEL LIKE for MOODZ?\nIf there's something else you want to see from WOODZ, please leave a comment!\n\n#KCONTACT #KCONTACTHI5 \n#HI5CHALLENGE #WOODZ #조승연 #CHOSEUNGYOUN @c_woodzofficial https://t.co/lUDQP8p6ud"
+	},
+	{
+		"created_at": "Mon Sep 06 08:29:47 +0000 2021",
+		"id": 1434794823341396000,
+		"id_str": "1434795955161812993",
+		"full_text": "[Video] #이장원\n\n이장원이 함께한 카카오TV '거침마당' 15회 '미스터리, 그것 좀 알고싶다! (ft. 이장원)'이 공개되었습니다. 지금 바로 카카오TV에서 만나보실 수 있습니다💛\n\n🔗 https://t.co/ROQUPZAmsw\n\n#페퍼톤스 #Peppertones #LeeJangWon \n#카카오TV #거침마당 https://t.co/inzWUt7BXz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이장원",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "Peppertones",
+					"indices": [
+						140,
+						152
+					]
+				},
+				{
+					"text": "LeeJangWon",
+					"indices": [
+						153,
+						164
+					]
+				},
+				{
+					"text": "카카오TV",
+					"indices": [
+						166,
+						172
+					]
+				},
+				{
+					"text": "거침마당",
+					"indices": [
+						173,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ROQUPZAmsw",
+					"expanded_url": "https://tv.kakao.com/v/422084650",
+					"display_url": "tv.kakao.com/v/422084650",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1434794817368703000,
+					"id_str": "1434794817368702982",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E-lqSNbVQAY4OBb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-lqSNbVQAY4OBb.jpg",
+					"url": "https://t.co/inzWUt7BXz",
+					"display_url": "pic.twitter.com/inzWUt7BXz",
+					"expanded_url": "https://twitter.com/antennamusic/status/1434794823341395971/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 629,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1074,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434794817368703000,
+					"id_str": "1434794817368702982",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E-lqSNbVQAY4OBb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-lqSNbVQAY4OBb.jpg",
+					"url": "https://t.co/inzWUt7BXz",
+					"display_url": "pic.twitter.com/inzWUt7BXz",
+					"expanded_url": "https://twitter.com/antennamusic/status/1434794823341395971/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 629,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1074,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1434794817364525000,
+					"id_str": "1434794817364525060",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E-lqSNaVgAQ8pMl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-lqSNaVgAQ8pMl.jpg",
+					"url": "https://t.co/inzWUt7BXz",
+					"display_url": "pic.twitter.com/inzWUt7BXz",
+					"expanded_url": "https://twitter.com/antennamusic/status/1434794823341395971/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 630,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1076,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1434794817372885000,
+					"id_str": "1434794817372885004",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E-lqSNcVEAwQSZA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-lqSNcVEAwQSZA.jpg",
+					"url": "https://t.co/inzWUt7BXz",
+					"display_url": "pic.twitter.com/inzWUt7BXz",
+					"expanded_url": "https://twitter.com/antennamusic/status/1434794823341395971/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 629,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1074,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 유희열 '생활음악' EP1. 일요일 오후 - 안테나 유튜브 채널에서 만나보세요!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36997,
+			"friends_count": 10,
+			"listed_count": 0,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Video] #이장원\n\n이장원이 함께한 카카오TV '거침마당' 15회 '미스터리, 그것 좀 알고싶다! (ft. 이장원)'이 공개되었습니다. 지금 바로 카카오TV에서 만나보실 수 있습니다💛\n\n🔗 https://t.co/ROQUPZAmsw\n\n#페퍼톤스 #Peppertones #LeeJangWon \n#카카오TV #거침마당 https://t.co/inzWUt7BXz"
+	},
+	{
+		"created_at": "Mon Sep 06 08:29:42 +0000 2021",
+		"id": 1434791014313574400,
+		"id_str": "1434795933703802880",
+		"full_text": "[#NEWS] 정진운 액션 스릴러 ‘나는 여기에 있다’ 크랭크인\n▶️ https://t.co/pzA8LVVm9a\n\n#정진운 @2AMjinwoon #나는여기에있다",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "정진운",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "나는여기에있다",
+					"indices": [
+						81,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "2AMjinwoon",
+					"name": "JIN WOON JEONG",
+					"id": 52012019,
+					"id_str": "52012019",
+					"indices": [
+						69,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pzA8LVVm9a",
+					"expanded_url": "https://bit.ly/3BLZLPy",
+					"display_url": "bit.ly/3BLZLPy",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21553,
+			"friends_count": 13,
+			"listed_count": 236,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 정진운 액션 스릴러 ‘나는 여기에 있다’ 크랭크인\n▶️ https://t.co/pzA8LVVm9a\n\n#정진운 @2AMjinwoon #나는여기에있다"
+	},
+	{
+		"created_at": "Mon Sep 06 08:29:37 +0000 2021",
+		"id": 1434784701068107800,
+		"id_str": "1434795912258326528",
+		"full_text": "⠀\nDAILY MIRRORBALL MUSIC | 210906 MON\n⠀\n🔸 ANTIK [1≠1]\n🔸 HEESU, bAd entity [Honey Eyes - bAd entity Remix]\n🔸 Achii (에이치) [Breeze!]\n\n#ANTIK #HEESU #bAdentity #Achii #미러볼뮤직 #인디음악 \n⠀ https://t.co/r0rwU6fccf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ANTIK",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "HEESU",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "bAdentity",
+					"indices": [
+						145,
+						155
+					]
+				},
+				{
+					"text": "Achii",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						170,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1434784583032053800,
+					"id_str": "1434784583032053764",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1434784583032053764/pu/img/wRtBZiylH6gDRGiG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1434784583032053764/pu/img/wRtBZiylH6gDRGiG.jpg",
+					"url": "https://t.co/r0rwU6fccf",
+					"display_url": "pic.twitter.com/r0rwU6fccf",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1434784701068107777/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434784583032053800,
+					"id_str": "1434784583032053764",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1434784583032053764/pu/img/wRtBZiylH6gDRGiG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1434784583032053764/pu/img/wRtBZiylH6gDRGiG.jpg",
+					"url": "https://t.co/r0rwU6fccf",
+					"display_url": "pic.twitter.com/r0rwU6fccf",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1434784701068107777/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 56056,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1434784583032053764/pu/vid/720x720/BkUjlSMIztGV7eck.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1434784583032053764/pu/vid/320x320/q9TXhVMqXCLDmm4-.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1434784583032053764/pu/vid/540x540/tz0xLfagBVotlOxQ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1434784583032053764/pu/pl/wPuT8Uv-N3uyyv_a.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9474,
+			"friends_count": 2619,
+			"listed_count": 246,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1627032310",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "⠀\nDAILY MIRRORBALL MUSIC | 210906 MON\n⠀\n🔸 ANTIK [1≠1]\n🔸 HEESU, bAd entity [Honey Eyes - bAd entity Remix]\n🔸 Achii (에이치) [Breeze!]\n\n#ANTIK #HEESU #bAdentity #Achii #미러볼뮤직 #인디음악 \n⠀ https://t.co/r0rwU6fccf"
+	},
+	{
+		"created_at": "Mon Sep 06 08:29:29 +0000 2021",
+		"id": 1434781332630950000,
+		"id_str": "1434795878183809027",
+		"full_text": "9/13 (월)\n[#너드커넥션] MUSE ON 2021 &lt;MUSE ON LIVE CLIP&gt;",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						10,
+						16
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1434781330399641600,
+		"in_reply_to_status_id_str": "1434781330399641601",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2135,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "9/13 (월)\n[#너드커넥션] MUSE ON 2021 &lt;MUSE ON LIVE CLIP&gt;"
+	},
+	{
 		"created_at": "Mon Sep 06 07:58:21 +0000 2021",
 		"id": 1434773484979122200,
 		"id_str": "1434788042980605953",
