@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 06 13:29:32 +0000 2021",
+		"id": 1434858937904287700,
+		"id_str": "1434871388003831811",
+		"full_text": "온라인 콘서트 #라운더바웃 티켓오픈!!\n#김범룡 #모트 #윌콕스 #펀시티 https://t.co/VoePslfOUL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라운더바웃",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "김범룡",
+					"indices": [
+						22,
+						26
+					]
+				},
+				{
+					"text": "모트",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "윌콕스",
+					"indices": [
+						31,
+						35
+					]
+				},
+				{
+					"text": "펀시티",
+					"indices": [
+						36,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1434858924474187800,
+					"id_str": "1434858924474187776",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/E-mklvAVQAAttgy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-mklvAVQAAttgy.jpg",
+					"url": "https://t.co/VoePslfOUL",
+					"display_url": "pic.twitter.com/VoePslfOUL",
+					"expanded_url": "https://twitter.com/ruby_records/status/1434858937904287746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434858924474187800,
+					"id_str": "1434858924474187776",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/E-mklvAVQAAttgy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-mklvAVQAAttgy.jpg",
+					"url": "https://t.co/VoePslfOUL",
+					"display_url": "pic.twitter.com/VoePslfOUL",
+					"expanded_url": "https://twitter.com/ruby_records/status/1434858937904287746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1434858928379076600,
+					"id_str": "1434858928379076613",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/E-mkl9jVIAUX84f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-mkl9jVIAUX84f.jpg",
+					"url": "https://t.co/VoePslfOUL",
+					"display_url": "pic.twitter.com/VoePslfOUL",
+					"expanded_url": "https://twitter.com/ruby_records/status/1434858937904287746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1434858931910701000,
+					"id_str": "1434858931910701058",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/E-mkmKtVcAIpKHU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-mkmKtVcAIpKHU.jpg",
+					"url": "https://t.co/VoePslfOUL",
+					"display_url": "pic.twitter.com/VoePslfOUL",
+					"expanded_url": "https://twitter.com/ruby_records/status/1434858937904287746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1434858935542902800,
+					"id_str": "1434858935542902790",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/E-mkmYPUcAYOH9p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-mkmYPUcAYOH9p.jpg",
+					"url": "https://t.co/VoePslfOUL",
+					"display_url": "pic.twitter.com/VoePslfOUL",
+					"expanded_url": "https://twitter.com/ruby_records/status/1434858937904287746/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7688,
+			"friends_count": 8363,
+			"listed_count": 198,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "온라인 콘서트 #라운더바웃 티켓오픈!!\n#김범룡 #모트 #윌콕스 #펀시티 https://t.co/VoePslfOUL"
+	},
+	{
 		"created_at": "Mon Sep 06 10:30:06 +0000 2021",
 		"id": 1434822707485425700,
 		"id_str": "1434826235155292161",
