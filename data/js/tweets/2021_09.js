@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 06 03:29:31 +0000 2021",
+		"id": 1434713011411828700,
+		"id_str": "1434720389175943176",
+		"full_text": "담예(DAMYE), NEW RELEASE📢\n\n\"눈 풀린 채 찍힌 너의 사진이 좋아~!”\n\n담예의 새 싱글 '찰칵! (snap snap snap) (#001_side a)'가 모든 음원사이트를 통해서 발매되었습니다.\n\n#담예 #찰칵 #snapsnapsnap https://t.co/NLH2y2Exy7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "001_side",
+					"indices": [
+						82,
+						91
+					]
+				},
+				{
+					"text": "담예",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "찰칵",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "snapsnapsnap",
+					"indices": [
+						129,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1434713005275578400,
+					"id_str": "1434713005275578372",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/E-kf4HoVgAQbPwM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-kf4HoVgAQbPwM.jpg",
+					"url": "https://t.co/NLH2y2Exy7",
+					"display_url": "pic.twitter.com/NLH2y2Exy7",
+					"expanded_url": "https://twitter.com/inplanet/status/1434713011411828737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434713005275578400,
+					"id_str": "1434713005275578372",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/E-kf4HoVgAQbPwM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-kf4HoVgAQbPwM.jpg",
+					"url": "https://t.co/NLH2y2Exy7",
+					"display_url": "pic.twitter.com/NLH2y2Exy7",
+					"expanded_url": "https://twitter.com/inplanet/status/1434713011411828737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1446,
+			"friends_count": 776,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "담예(DAMYE), NEW RELEASE📢\n\n\"눈 풀린 채 찍힌 너의 사진이 좋아~!”\n\n담예의 새 싱글 '찰칵! (snap snap snap) (#001_side a)'가 모든 음원사이트를 통해서 발매되었습니다.\n\n#담예 #찰칵 #snapsnapsnap https://t.co/NLH2y2Exy7"
+	},
+	{
 		"created_at": "Mon Sep 06 02:29:28 +0000 2021",
 		"id": 1434703723259785200,
 		"id_str": "1434705276519714818",
