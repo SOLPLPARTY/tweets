@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 06 15:29:24 +0000 2021",
+		"id": 1434894225435349000,
+		"id_str": "1434901556793679872",
+		"full_text": "[ABYSS_ㅊㅋㅊㅋ🎊]\n\n🎉HAPPY YONGIN DAY🎉\n\n박용인의 생일을 진심으로 축하합니다!\nHappy Birthday to PARK YONG IN🍊\n⠀\n#박용인 #PARKYONGIN\n#HAPPY_YONGIN_DAY https://t.co/kRjfE123do",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박용인",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "PARKYONGIN",
+					"indices": [
+						95,
+						106
+					]
+				},
+				{
+					"text": "HAPPY_YONGIN_DAY",
+					"indices": [
+						107,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kRjfE123do",
+					"expanded_url": "https://twitter.com/urbanzakapa/status/1434894163665821697",
+					"display_url": "twitter.com/urbanzakapa/st…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 748379922209583100,
+			"id_str": "748379922209583104",
+			"name": "ABYSS COMPANY",
+			"screen_name": "ABYSS_COMPANY",
+			"location": "",
+			"description": "ABYSS COMPANY Official Twitter",
+			"url": "https://t.co/FXx196IZXh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FXx196IZXh",
+							"expanded_url": "http://abysscompany.com/",
+							"display_url": "abysscompany.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108513,
+			"friends_count": 7,
+			"listed_count": 217,
+			"created_at": "Thu Jun 30 04:57:32 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/748379922209583104/1612752885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1434894163665821700,
+		"quoted_status_id_str": "1434894163665821697",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kRjfE123do",
+			"expanded": "https://twitter.com/urbanzakapa/status/1434894163665821697",
+			"display": "twitter.com/urbanzakapa/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 06 15:00:02 +0000 2021",
+			"id": 1434894163665821700,
+			"id_str": "1434894163665821697",
+			"full_text": "🎉HAPPY YONGIN DAY🎉\n\n박용인의 생일을 진심으로 축하합니다!\nHappy Birthday to PARK YONG IN🍊\n\n#박용인 #PARKYONGIN\n#HAPPY_YONGIN_DAY https://t.co/tFXDIIRGgh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				108
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "박용인",
+						"indices": [
+							74,
+							78
+						]
+					},
+					{
+						"text": "PARKYONGIN",
+						"indices": [
+							79,
+							90
+						]
+					},
+					{
+						"text": "HAPPY_YONGIN_DAY",
+						"indices": [
+							91,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1434847936379191300,
+						"id_str": "1434847936379191297",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/E-mamJKVgAEPDzZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E-mamJKVgAEPDzZ.jpg",
+						"url": "https://t.co/tFXDIIRGgh",
+						"display_url": "pic.twitter.com/tFXDIIRGgh",
+						"expanded_url": "https://twitter.com/UrbanZakapa/status/1434894163665821697/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1434847936379191300,
+						"id_str": "1434847936379191297",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/E-mamJKVgAEPDzZ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E-mamJKVgAEPDzZ.jpg",
+						"url": "https://t.co/tFXDIIRGgh",
+						"display_url": "pic.twitter.com/tFXDIIRGgh",
+						"expanded_url": "https://twitter.com/UrbanZakapa/status/1434894163665821697/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 299727720,
+				"id_str": "299727720",
+				"name": "어반자카파 URBAN ZAKAPA",
+				"screen_name": "UrbanZakapa",
+				"location": "",
+				"description": "URBAN ZAKAPA Official Twitter",
+				"url": "https://t.co/d422Fr47cb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/d422Fr47cb",
+								"expanded_url": "https://www.youtube.com/c/urbanzakapa",
+								"display_url": "youtube.com/c/urbanzakapa",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14558,
+				"friends_count": 9,
+				"listed_count": 155,
+				"created_at": "Mon May 16 15:53:53 +0000 2011",
+				"favourites_count": 229,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2342,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1067342348546232320/WclzmzGs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067342348546232320/WclzmzGs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/299727720/1560132504",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 45,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 157,
+		"favorite_count": 496,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ABYSS_ㅊㅋㅊㅋ🎊]\n\n🎉HAPPY YONGIN DAY🎉\n\n박용인의 생일을 진심으로 축하합니다!\nHappy Birthday to PARK YONG IN🍊\n⠀\n#박용인 #PARKYONGIN\n#HAPPY_YONGIN_DAY https://t.co/kRjfE123do"
+	},
+	{
 		"created_at": "Mon Sep 06 14:34:41 +0000 2021",
 		"id": 1434887785547288600,
 		"id_str": "1434887785547288578",
