@@ -1,6 +1,353 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 07 11:29:24 +0000 2021",
+		"id": 1435189838081183700,
+		"id_str": "1435203546715238404",
+		"full_text": "[#Video] #안테나\n\n&lt;더듬이 TV, 우당탕탕 안테나&gt;\ncoming soon📡✨\n\n#더듬이TV #우당탕탕안테나 #카카오TV\n#유희열 #정재형 #루시드폴 #페퍼톤스 #신재평 #이장원 #박새별 #권진아 #샘김 #정승환 #이진아 #윤석철 #적재 #서동환 #유재석 https://t.co/9MxjTSpS5R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "안테나",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "더듬이TV",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "우당탕탕안테나",
+					"indices": [
+						62,
+						70
+					]
+				},
+				{
+					"text": "카카오TV",
+					"indices": [
+						71,
+						77
+					]
+				},
+				{
+					"text": "유희열",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "정재형",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "루시드폴",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "페퍼톤스",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "신재평",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "이장원",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "박새별",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "샘김",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "정승환",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "이진아",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "윤석철",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						139,
+						142
+					]
+				},
+				{
+					"text": "서동환",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "유재석",
+					"indices": [
+						148,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435189767143002000,
+					"id_str": "1435189767143002118",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435189767143002118/pu/img/caKc2qUKkpurddLj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435189767143002118/pu/img/caKc2qUKkpurddLj.jpg",
+					"url": "https://t.co/9MxjTSpS5R",
+					"display_url": "pic.twitter.com/9MxjTSpS5R",
+					"expanded_url": "https://twitter.com/antennamusic/status/1435189838081183748/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435189767143002000,
+					"id_str": "1435189767143002118",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435189767143002118/pu/img/caKc2qUKkpurddLj.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435189767143002118/pu/img/caKc2qUKkpurddLj.jpg",
+					"url": "https://t.co/9MxjTSpS5R",
+					"display_url": "pic.twitter.com/9MxjTSpS5R",
+					"expanded_url": "https://twitter.com/antennamusic/status/1435189838081183748/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 14699,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1435189767143002118/pu/vid/1280x720/pgd73KQUxmtrDk4t.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1435189767143002118/pu/pl/tBcoyYEaebi8P2bC.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1435189767143002118/pu/vid/480x270/tKr4_xBveNP4GXOc.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1435189767143002118/pu/vid/640x360/M0o4YmGtiqkI_lNd.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 유희열 '생활음악' EP1. 일요일 오후 - 안테나 유튜브 채널에서 만나보세요!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37045,
+			"friends_count": 10,
+			"listed_count": 374,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 208,
+		"favorite_count": 244,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #안테나\n\n&lt;더듬이 TV, 우당탕탕 안테나&gt;\ncoming soon📡✨\n\n#더듬이TV #우당탕탕안테나 #카카오TV\n#유희열 #정재형 #루시드폴 #페퍼톤스 #신재평 #이장원 #박새별 #권진아 #샘김 #정승환 #이진아 #윤석철 #적재 #서동환 #유재석 https://t.co/9MxjTSpS5R"
+	},
+	{
 		"created_at": "Tue Sep 07 11:07:43 +0000 2021",
 		"id": 1435198089296494600,
 		"id_str": "1435198089296494595",
