@@ -1,6 +1,612 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 08 12:58:29 +0000 2021",
+		"id": 1435581385905873000,
+		"id_str": "1435588349843152900",
+		"full_text": "[LIVE KCON-ers 募集締切 お知らせ] \nアーティストと共に時間を過ごせるLIVE KCON-ers募集が\nまもなく締切になるので早めに申し込んでください！\n\nYOUTUBE : https://t.co/GGcI96oNKq\nTVING : https://t.co/6hzHfdI8jc\nPIA : https://t.co/EjHsqtDBYV\n\n#KCONTACT #KCONTACTHI5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						183,
+						192
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						193,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GGcI96oNKq",
+					"expanded_url": "https://bit.ly/3zzbxfn",
+					"display_url": "bit.ly/3zzbxfn",
+					"indices": [
+						96,
+						119
+					]
+				},
+				{
+					"url": "https://t.co/6hzHfdI8jc",
+					"expanded_url": "https://bit.ly/38rpkZh",
+					"display_url": "bit.ly/38rpkZh",
+					"indices": [
+						128,
+						151
+					]
+				},
+				{
+					"url": "https://t.co/EjHsqtDBYV",
+					"expanded_url": "https://bit.ly/3mPnDNL",
+					"display_url": "bit.ly/3mPnDNL",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1435581334194299000,
+		"in_reply_to_status_id_str": "1435581334194298892",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 392966,
+			"friends_count": 75,
+			"listed_count": 1001,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[LIVE KCON-ers 募集締切 お知らせ] \nアーティストと共に時間を過ごせるLIVE KCON-ers募集が\nまもなく締切になるので早めに申し込んでください！\n\nYOUTUBE : https://t.co/GGcI96oNKq\nTVING : https://t.co/6hzHfdI8jc\nPIA : https://t.co/EjHsqtDBYV\n\n#KCONTACT #KCONTACTHI5"
+	},
+	{
+		"created_at": "Wed Sep 08 12:58:24 +0000 2021",
+		"id": 1435581334194299000,
+		"id_str": "1435588328083107844",
+		"full_text": "[LIVE KCON-ers 모집 마감 알림] \n아티스트와 함께할 수 있는 LIVE KCON-ers 모집이\n곧 마감되니 얼른 신청해주세요!\n\nYOUTUBE : https://t.co/GGcI96oNKq\nTVING : https://t.co/6hzHfdI8jc\nPIA : https://t.co/EjHsqtDBYV\n\n#KCONTACT #KCONTACTHI5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						175,
+						184
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						185,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GGcI96oNKq",
+					"expanded_url": "https://bit.ly/3zzbxfn",
+					"display_url": "bit.ly/3zzbxfn",
+					"indices": [
+						88,
+						111
+					]
+				},
+				{
+					"url": "https://t.co/6hzHfdI8jc",
+					"expanded_url": "https://bit.ly/38rpkZh",
+					"display_url": "bit.ly/38rpkZh",
+					"indices": [
+						120,
+						143
+					]
+				},
+				{
+					"url": "https://t.co/EjHsqtDBYV",
+					"expanded_url": "https://bit.ly/3mPnDNL",
+					"display_url": "bit.ly/3mPnDNL",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1435581183358800000,
+		"in_reply_to_status_id_str": "1435581183358799872",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 392966,
+			"friends_count": 75,
+			"listed_count": 1001,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[LIVE KCON-ers 모집 마감 알림] \n아티스트와 함께할 수 있는 LIVE KCON-ers 모집이\n곧 마감되니 얼른 신청해주세요!\n\nYOUTUBE : https://t.co/GGcI96oNKq\nTVING : https://t.co/6hzHfdI8jc\nPIA : https://t.co/EjHsqtDBYV\n\n#KCONTACT #KCONTACTHI5"
+	},
+	{
+		"created_at": "Wed Sep 08 12:58:14 +0000 2021",
+		"id": 1435581183358800000,
+		"id_str": "1435588289768079362",
+		"full_text": "[LIVE KCON-ers Application Closing Soon]\nBecome LIVE KCON-ers to interact with your artists!\nThe application closes soon, so apply now!\n\nYOUTUBE : https://t.co/GGcI96Gp90\nTVING : https://t.co/6hzHfdqxrE\nPIA : https://t.co/EjHsqtm17n\n\n#KCONTACT #KCONTACTHI5 https://t.co/3InzM44ORU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						234,
+						243
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						244,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GGcI96Gp90",
+					"expanded_url": "https://bit.ly/3zzbxfn",
+					"display_url": "bit.ly/3zzbxfn",
+					"indices": [
+						147,
+						170
+					]
+				},
+				{
+					"url": "https://t.co/6hzHfdqxrE",
+					"expanded_url": "https://bit.ly/38rpkZh",
+					"display_url": "bit.ly/38rpkZh",
+					"indices": [
+						179,
+						202
+					]
+				},
+				{
+					"url": "https://t.co/EjHsqtm17n",
+					"expanded_url": "https://bit.ly/3mPnDNL",
+					"display_url": "bit.ly/3mPnDNL",
+					"indices": [
+						209,
+						232
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1435560167563612200,
+					"id_str": "1435560167563612172",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/E-wiXdFUUAw7KNr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-wiXdFUUAw7KNr.jpg",
+					"url": "https://t.co/3InzM44ORU",
+					"display_url": "pic.twitter.com/3InzM44ORU",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435581183358799872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435560167563612200,
+					"id_str": "1435560167563612172",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/E-wiXdFUUAw7KNr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-wiXdFUUAw7KNr.jpg",
+					"url": "https://t.co/3InzM44ORU",
+					"display_url": "pic.twitter.com/3InzM44ORU",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435581183358799872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435560167555301400,
+					"id_str": "1435560167555301376",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/E-wiXdDVgAA9-v1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-wiXdDVgAA9-v1.jpg",
+					"url": "https://t.co/3InzM44ORU",
+					"display_url": "pic.twitter.com/3InzM44ORU",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435581183358799872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435560167551111200,
+					"id_str": "1435560167551111174",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/E-wiXdCVkAYy21m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-wiXdCVkAYy21m.jpg",
+					"url": "https://t.co/3InzM44ORU",
+					"display_url": "pic.twitter.com/3InzM44ORU",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435581183358799872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435560167588782000,
+					"id_str": "1435560167588782084",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/E-wiXdLUYAQZ88q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-wiXdLUYAQZ88q.jpg",
+					"url": "https://t.co/3InzM44ORU",
+					"display_url": "pic.twitter.com/3InzM44ORU",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435581183358799872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 392966,
+			"friends_count": 75,
+			"listed_count": 1001,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 270,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[LIVE KCON-ers Application Closing Soon]\nBecome LIVE KCON-ers to interact with your artists!\nThe application closes soon, so apply now!\n\nYOUTUBE : https://t.co/GGcI96Gp90\nTVING : https://t.co/6hzHfdqxrE\nPIA : https://t.co/EjHsqtm17n\n\n#KCONTACT #KCONTACTHI5 https://t.co/3InzM44ORU"
+	},
+	{
 		"created_at": "Wed Sep 08 11:58:15 +0000 2021",
 		"id": 1435569857374965800,
 		"id_str": "1435573191238369284",
