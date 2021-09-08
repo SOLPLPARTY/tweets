@@ -1,6 +1,456 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 08 11:58:15 +0000 2021",
+		"id": 1435569857374965800,
+		"id_str": "1435573191238369284",
+		"full_text": "Announcement regarding KCON official YouTube channel.\nKCON official Youtube 관련 안내 말씀드립니다.\nKCON official YouTubeに関するご案内を申し上げます。 https://t.co/sk3drDmsn3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435568708924043300,
+					"id_str": "1435568708924043268",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/E-wqIoIVcAQ1KEn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-wqIoIVcAQ1KEn.jpg",
+					"url": "https://t.co/sk3drDmsn3",
+					"display_url": "pic.twitter.com/sk3drDmsn3",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435569857374965760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435568708924043300,
+					"id_str": "1435568708924043268",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/E-wqIoIVcAQ1KEn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-wqIoIVcAQ1KEn.jpg",
+					"url": "https://t.co/sk3drDmsn3",
+					"display_url": "pic.twitter.com/sk3drDmsn3",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435569857374965760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 392958,
+			"friends_count": 75,
+			"listed_count": 1001,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 138,
+		"favorite_count": 352,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "Announcement regarding KCON official YouTube channel.\nKCON official Youtube 관련 안내 말씀드립니다.\nKCON official YouTubeに関するご案内を申し上げます。 https://t.co/sk3drDmsn3"
+	},
+	{
+		"created_at": "Wed Sep 08 11:29:32 +0000 2021",
+		"id": 1435564517409181700,
+		"id_str": "1435565964788121603",
+		"full_text": "[#Release] #권진아\n\nAntenna LAB ▸\n\n권진아 ‘꿈꾸는 대로’\n✔️ https://t.co/oiMZXFbE0i\n\n#KwonJinAh #꿈꾸는대로 #AsIdream\n#AntennaLAB #안테나LAB #Antenna  #안테나 https://t.co/pZb7S1IY5i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Release",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						73,
+						83
+					]
+				},
+				{
+					"text": "꿈꾸는대로",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "AsIdream",
+					"indices": [
+						91,
+						100
+					]
+				},
+				{
+					"text": "AntennaLAB",
+					"indices": [
+						101,
+						112
+					]
+				},
+				{
+					"text": "안테나LAB",
+					"indices": [
+						113,
+						120
+					]
+				},
+				{
+					"text": "Antenna",
+					"indices": [
+						121,
+						129
+					]
+				},
+				{
+					"text": "안테나",
+					"indices": [
+						131,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oiMZXFbE0i",
+					"expanded_url": "http://youtu.be/RAyZC-aOY2E",
+					"display_url": "youtu.be/RAyZC-aOY2E",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1435564460379304000,
+					"id_str": "1435564460379303938",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435564460379303938/pu/img/qxZ16yUhO3qHFHcQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435564460379303938/pu/img/qxZ16yUhO3qHFHcQ.jpg",
+					"url": "https://t.co/pZb7S1IY5i",
+					"display_url": "pic.twitter.com/pZb7S1IY5i",
+					"expanded_url": "https://twitter.com/antennamusic/status/1435564517409181701/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435564460379304000,
+					"id_str": "1435564460379303938",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435564460379303938/pu/img/qxZ16yUhO3qHFHcQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435564460379303938/pu/img/qxZ16yUhO3qHFHcQ.jpg",
+					"url": "https://t.co/pZb7S1IY5i",
+					"display_url": "pic.twitter.com/pZb7S1IY5i",
+					"expanded_url": "https://twitter.com/antennamusic/status/1435564517409181701/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 60000,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1435564460379303938/pu/vid/478x270/_K5Z5vQTjq1jmFR7.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1435564460379303938/pu/pl/voE2ifiqcKxzOGh-.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1435564460379303938/pu/vid/720x406/jXgCjlg8Ej-u9xuY.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 유희열 '생활음악' EP1. 일요일 오후 - 안테나 유튜브 채널에서 만나보세요!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37057,
+			"friends_count": 10,
+			"listed_count": 374,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3923,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Release] #권진아\n\nAntenna LAB ▸\n\n권진아 ‘꿈꾸는 대로’\n✔️ https://t.co/oiMZXFbE0i\n\n#KwonJinAh #꿈꾸는대로 #AsIdream\n#AntennaLAB #안테나LAB #Antenna  #안테나 https://t.co/pZb7S1IY5i"
+	},
+	{
 		"created_at": "Wed Sep 08 11:01:16 +0000 2021",
 		"id": 1435558854289469400,
 		"id_str": "1435558854289469441",
