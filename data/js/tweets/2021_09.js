@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 09 15:29:25 +0000 2021",
+		"id": 1435983436120932400,
+		"id_str": "1435988720696676356",
+		"full_text": "💿NEW MUSIC TODAY💿\nMONSTA X(몬스타엑스)(@OfficialMonstaX)의 \"ONE DAY\"를 지금 바로 음원 사이트에서 만나보세요!\n⠀\n🎶https://t.co/Gefxs0Vumd\n🎶https://t.co/mk8dlOml94\n⠀\n#MONSTAX #MONSTA_X #몬스타엑스 #ONEDAY https://t.co/RDf9K9J4Qh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MONSTAX",
+					"indices": [
+						140,
+						148
+					]
+				},
+				{
+					"text": "MONSTA_X",
+					"indices": [
+						149,
+						158
+					]
+				},
+				{
+					"text": "몬스타엑스",
+					"indices": [
+						159,
+						165
+					]
+				},
+				{
+					"text": "ONEDAY",
+					"indices": [
+						166,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OfficialMonstaX",
+					"name": "몬스타엑스_MONSTA X",
+					"id": 3030158859,
+					"id_str": "3030158859",
+					"indices": [
+						34,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Gefxs0Vumd",
+					"expanded_url": "https://spoti.fi/2YIdCrO",
+					"display_url": "spoti.fi/2YIdCrO",
+					"indices": [
+						89,
+						112
+					]
+				},
+				{
+					"url": "https://t.co/mk8dlOml94",
+					"expanded_url": "http://kko.to/h0i3nrz4p",
+					"display_url": "kko.to/h0i3nrz4p",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1435982729334517800,
+					"id_str": "1435982729334517767",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435982729334517767/pu/img/oStALE_Juq1vsCps.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435982729334517767/pu/img/oStALE_Juq1vsCps.jpg",
+					"url": "https://t.co/RDf9K9J4Qh",
+					"display_url": "pic.twitter.com/RDf9K9J4Qh",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1435983436120932354/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435982729334517800,
+					"id_str": "1435982729334517767",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435982729334517767/pu/img/oStALE_Juq1vsCps.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435982729334517767/pu/img/oStALE_Juq1vsCps.jpg",
+					"url": "https://t.co/RDf9K9J4Qh",
+					"display_url": "pic.twitter.com/RDf9K9J4Qh",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1435983436120932354/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 52085,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1435982729334517767/pu/vid/540x540/-yO1w9gRA2ueVgYK.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1435982729334517767/pu/vid/320x320/2sk_bnBb3EKIMxql.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1435982729334517767/pu/vid/720x720/AvAOPzO_tT75iO62.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1435982729334517767/pu/pl/n268lDnFVjBCi7zj.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51734,
+			"friends_count": 496,
+			"listed_count": 191,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11260,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1280,
+		"favorite_count": 1676,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\nMONSTA X(몬스타엑스)(@OfficialMonstaX)의 \"ONE DAY\"를 지금 바로 음원 사이트에서 만나보세요!\n⠀\n🎶https://t.co/Gefxs0Vumd\n🎶https://t.co/mk8dlOml94\n⠀\n#MONSTAX #MONSTA_X #몬스타엑스 #ONEDAY https://t.co/RDf9K9J4Qh"
+	},
+	{
 		"created_at": "Thu Sep 09 13:11:16 +0000 2021",
 		"id": 1435951128177479700,
 		"id_str": "1435953957835264011",
