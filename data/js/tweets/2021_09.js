@@ -1,6 +1,852 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 09 04:11:24 +0000 2021",
+		"id": 1435817712824033300,
+		"id_str": "1435818092727242752",
+		"full_text": "2021년 9월 9일 목요일~10월 3일 일요일\n스틸페이스 바 영업시간:\n목/금/토/일요일 오후 5시~10시\n\n9 SEP - 3 OCT 2021\nSTEEL FACE BAR - Opening Hours:\nThursday, Friday, Saturday &amp; Sunday 5PM~10PM\n\n💜\n\n#clubsteelface #steelface #musiclovers #seoul https://t.co/0VSia7xx4W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "clubsteelface",
+					"indices": [
+						166,
+						180
+					]
+				},
+				{
+					"text": "steelface",
+					"indices": [
+						181,
+						191
+					]
+				},
+				{
+					"text": "musiclovers",
+					"indices": [
+						192,
+						204
+					]
+				},
+				{
+					"text": "seoul",
+					"indices": [
+						205,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0VSia7xx4W",
+					"expanded_url": "https://www.instagram.com/p/CTlkKc9lfXY/?utm_medium=twitter",
+					"display_url": "instagram.com/p/CTlkKc9lfXY/…",
+					"indices": [
+						212,
+						235
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144667354,
+			"id_str": "4144667354",
+			"name": "CLUB STEEL FACE",
+			"screen_name": "clubsteelface",
+			"location": "10, Jandari-ro, Mapo-gu, Seoul",
+			"description": "Since 2015, Live Music Venue & Bar in Seoul, Korea(south)",
+			"url": "https://t.co/qNZdtjMBbN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qNZdtjMBbN",
+							"expanded_url": "http://steelface.com",
+							"display_url": "steelface.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 223,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Nov 06 09:37:46 +0000 2015",
+			"favourites_count": 482,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144667354/1453393563",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2021년 9월 9일 목요일~10월 3일 일요일\n스틸페이스 바 영업시간:\n목/금/토/일요일 오후 5시~10시\n\n9 SEP - 3 OCT 2021\nSTEEL FACE BAR - Opening Hours:\nThursday, Friday, Saturday &amp; Sunday 5PM~10PM\n\n💜\n\n#clubsteelface #steelface #musiclovers #seoul https://t.co/0VSia7xx4W"
+	},
+	{
+		"created_at": "Thu Sep 09 04:11:17 +0000 2021",
+		"id": 1435817292755968000,
+		"id_str": "1435818062884790272",
+		"full_text": "2021년 9월 9일 목요일~10월 3일 일요일\n스틸페이스 바 영업시간:\n목/금/토/일요일 오후 5시~10시\n\n9 SEP - 3 OCT 2021\nSTEEL FACE BAR - Opening Hours:\nThursday, Friday, Saturday &amp; Sunday 5PM~10PM\n\n💜\n\n#clubsteelface #steelface #musiclovers #seoul https://t.co/NiOEz1qEJW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "clubsteelface",
+					"indices": [
+						166,
+						180
+					]
+				},
+				{
+					"text": "steelface",
+					"indices": [
+						181,
+						191
+					]
+				},
+				{
+					"text": "musiclovers",
+					"indices": [
+						192,
+						204
+					]
+				},
+				{
+					"text": "seoul",
+					"indices": [
+						205,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NiOEz1qEJW",
+					"expanded_url": "https://www.instagram.com/p/CTlj-KYFFj9/?utm_medium=twitter",
+					"display_url": "instagram.com/p/CTlj-KYFFj9/…",
+					"indices": [
+						212,
+						235
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144667354,
+			"id_str": "4144667354",
+			"name": "CLUB STEEL FACE",
+			"screen_name": "clubsteelface",
+			"location": "10, Jandari-ro, Mapo-gu, Seoul",
+			"description": "Since 2015, Live Music Venue & Bar in Seoul, Korea(south)",
+			"url": "https://t.co/qNZdtjMBbN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qNZdtjMBbN",
+							"expanded_url": "http://steelface.com",
+							"display_url": "steelface.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 223,
+			"friends_count": 1,
+			"listed_count": 0,
+			"created_at": "Fri Nov 06 09:37:46 +0000 2015",
+			"favourites_count": 482,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/662565134255063044/GlG4R5IZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144667354/1453393563",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2021년 9월 9일 목요일~10월 3일 일요일\n스틸페이스 바 영업시간:\n목/금/토/일요일 오후 5시~10시\n\n9 SEP - 3 OCT 2021\nSTEEL FACE BAR - Opening Hours:\nThursday, Friday, Saturday &amp; Sunday 5PM~10PM\n\n💜\n\n#clubsteelface #steelface #musiclovers #seoul https://t.co/NiOEz1qEJW"
+	},
+	{
+		"created_at": "Thu Sep 09 03:29:27 +0000 2021",
+		"id": 1435804930766377000,
+		"id_str": "1435807535534116869",
+		"full_text": "푸르렀던 신록의 계절을 기억하며..\n유정목 [신록의 계절] 발매 되었습니다.\n많은 사랑 부탁드려요.🍃🍃\n\n신록의 계절 바로 듣기=&gt;\n멜론: https://t.co/hA8PzN8A7m\n벅스: https://t.co/9sWiUAC8Tz\n지니: https://t.co/i8KJjjIOSE\n바이브: https://t.co/TCvi7iEXLi\n플로: https://t.co/BxkbQdkUac https://t.co/Z4mtK4YQCo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hA8PzN8A7m",
+					"expanded_url": "https://www.melon.com/album/detail.htm?albumId=10708125",
+					"display_url": "melon.com/album/detail.h…",
+					"indices": [
+						81,
+						104
+					]
+				},
+				{
+					"url": "https://t.co/9sWiUAC8Tz",
+					"expanded_url": "https://music.bugs.co.kr/album/16146328?wl_ref=M_contents_01_04",
+					"display_url": "music.bugs.co.kr/album/16146328…",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/i8KJjjIOSE",
+					"expanded_url": "https://www.genie.co.kr/detail/albumInfo?axnm=82250478",
+					"display_url": "genie.co.kr/detail/albumIn…",
+					"indices": [
+						137,
+						160
+					]
+				},
+				{
+					"url": "https://t.co/TCvi7iEXLi",
+					"expanded_url": "https://vibe.naver.com/track/50614423",
+					"display_url": "vibe.naver.com/track/50614423",
+					"indices": [
+						166,
+						189
+					]
+				},
+				{
+					"url": "https://t.co/BxkbQdkUac",
+					"expanded_url": "https://www.music-flo.com/detail/album/edzlnzdzd/albumtrack",
+					"display_url": "music-flo.com/detail/album/e…",
+					"indices": [
+						194,
+						217
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1435804574774792200,
+					"id_str": "1435804574774792200",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0Ap05VEAg_Ov2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0Ap05VEAg_Ov2.jpg",
+					"url": "https://t.co/Z4mtK4YQCo",
+					"display_url": "pic.twitter.com/Z4mtK4YQCo",
+					"expanded_url": "https://twitter.com/orm_ent/status/1435804930766376968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435804574774792200,
+					"id_str": "1435804574774792200",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0Ap05VEAg_Ov2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0Ap05VEAg_Ov2.jpg",
+					"url": "https://t.co/Z4mtK4YQCo",
+					"display_url": "pic.twitter.com/Z4mtK4YQCo",
+					"expanded_url": "https://twitter.com/orm_ent/status/1435804930766376968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435804574778998800,
+					"id_str": "1435804574778998784",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0Ap06VQAA6vhe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0Ap06VQAA6vhe.jpg",
+					"url": "https://t.co/Z4mtK4YQCo",
+					"display_url": "pic.twitter.com/Z4mtK4YQCo",
+					"expanded_url": "https://twitter.com/orm_ent/status/1435804930766376968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435804574967758800,
+					"id_str": "1435804574967758850",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0Ap1nVgAIQFIy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0Ap1nVgAIQFIy.jpg",
+					"url": "https://t.co/Z4mtK4YQCo",
+					"display_url": "pic.twitter.com/Z4mtK4YQCo",
+					"expanded_url": "https://twitter.com/orm_ent/status/1435804930766376968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435804575307423700,
+					"id_str": "1435804575307423745",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0Ap24UYAERXcZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0Ap24UYAERXcZ.jpg",
+					"url": "https://t.co/Z4mtK4YQCo",
+					"display_url": "pic.twitter.com/Z4mtK4YQCo",
+					"expanded_url": "https://twitter.com/orm_ent/status/1435804930766376968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 721,
+			"friends_count": 324,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1631157600",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "푸르렀던 신록의 계절을 기억하며..\n유정목 [신록의 계절] 발매 되었습니다.\n많은 사랑 부탁드려요.🍃🍃\n\n신록의 계절 바로 듣기=&gt;\n멜론: https://t.co/hA8PzN8A7m\n벅스: https://t.co/9sWiUAC8Tz\n지니: https://t.co/i8KJjjIOSE\n바이브: https://t.co/TCvi7iEXLi\n플로: https://t.co/BxkbQdkUac https://t.co/Z4mtK4YQCo"
+	},
+	{
+		"created_at": "Thu Sep 09 03:29:25 +0000 2021",
+		"id": 1435800130767110100,
+		"id_str": "1435807526604398595",
+		"full_text": "⠀\nDAILY MIRRORBALL MUSIC | 210909 THU\n⠀\n🔸 로우 하이 로우 (Low High Low) [Singer Layla]\n🔸 일루 (illoo) [있는 그대로의 날]\n\n#로우하이로우 #일루 #미러볼뮤직 #인디음악 https://t.co/DUspufGR4i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로우하이로우",
+					"indices": [
+						107,
+						114
+					]
+				},
+				{
+					"text": "일루",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						126,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435125899158950000,
+					"id_str": "1435125899158949893",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435125899158949893/pu/img/jzAnC_EtOSCmBlvA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435125899158949893/pu/img/jzAnC_EtOSCmBlvA.jpg",
+					"url": "https://t.co/DUspufGR4i",
+					"display_url": "pic.twitter.com/DUspufGR4i",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1435800130767110145/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435125899158950000,
+					"id_str": "1435125899158949893",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435125899158949893/pu/img/jzAnC_EtOSCmBlvA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435125899158949893/pu/img/jzAnC_EtOSCmBlvA.jpg",
+					"url": "https://t.co/DUspufGR4i",
+					"display_url": "pic.twitter.com/DUspufGR4i",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1435800130767110145/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 56056,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1435125899158949893/pu/pl/n_68FQ78NwAeFwBv.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1435125899158949893/pu/vid/320x320/Sgt2BiwqKTrsRJAr.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1435125899158949893/pu/vid/540x540/oS2nBMM3amzd4rZb.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1435125899158949893/pu/vid/720x720/_om-XzzyTXv3O-oh.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9477,
+			"friends_count": 2619,
+			"listed_count": 245,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10744,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1627032310",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⠀\nDAILY MIRRORBALL MUSIC | 210909 THU\n⠀\n🔸 로우 하이 로우 (Low High Low) [Singer Layla]\n🔸 일루 (illoo) [있는 그대로의 날]\n\n#로우하이로우 #일루 #미러볼뮤직 #인디음악 https://t.co/DUspufGR4i"
+	},
+	{
 		"created_at": "Thu Sep 09 03:09:52 +0000 2021",
 		"id": 1435802608627748900,
 		"id_str": "1435802608627748867",
