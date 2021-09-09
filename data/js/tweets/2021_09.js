@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 09 00:29:25 +0000 2021",
+		"id": 1435754829406634000,
+		"id_str": "1435762228431622145",
+		"full_text": "[구만 | 구구절절]\n9월 9일! 오늘은 구구절'절'\n아침 9시부터 저녁 9시까지 구만의 9곡을 스트리밍 해주세요!\n인스타그램에서 구피셜 태그와 함께 인증을 해주시면 추첨을 통해 선물을 드려요!\n+오늘 저녁 9시 인스타그램 마무리 라이브 방송도 놓치지 마세요💚\n@qman_official \n#구만 #qman #구구절절 https://t.co/V1r0qGFq8w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "구만",
+					"indices": [
+						162,
+						165
+					]
+				},
+				{
+					"text": "qman",
+					"indices": [
+						166,
+						171
+					]
+				},
+				{
+					"text": "구구절절",
+					"indices": [
+						172,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "qman_official",
+					"name": "구만(9.10000)",
+					"id": 1253683153455050800,
+					"id_str": "1253683153455050753",
+					"indices": [
+						146,
+						160
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435561759608238000,
+					"id_str": "1435561759608238082",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/E-wj0H6VcAI94Zk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-wj0H6VcAI94Zk.jpg",
+					"url": "https://t.co/V1r0qGFq8w",
+					"display_url": "pic.twitter.com/V1r0qGFq8w",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1435754829406633984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435561759608238000,
+					"id_str": "1435561759608238082",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/E-wj0H6VcAI94Zk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-wj0H6VcAI94Zk.jpg",
+					"url": "https://t.co/V1r0qGFq8w",
+					"display_url": "pic.twitter.com/V1r0qGFq8w",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1435754829406633984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), LambC(램씨), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbKMln",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbKMln",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13019,
+			"friends_count": 1941,
+			"listed_count": 253,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[구만 | 구구절절]\n9월 9일! 오늘은 구구절'절'\n아침 9시부터 저녁 9시까지 구만의 9곡을 스트리밍 해주세요!\n인스타그램에서 구피셜 태그와 함께 인증을 해주시면 추첨을 통해 선물을 드려요!\n+오늘 저녁 9시 인스타그램 마무리 라이브 방송도 놓치지 마세요💚\n@qman_official \n#구만 #qman #구구절절 https://t.co/V1r0qGFq8w"
+	},
+	{
 		"created_at": "Wed Sep 08 13:58:28 +0000 2021",
 		"id": 1435588833735626800,
 		"id_str": "1435603445168459784",
