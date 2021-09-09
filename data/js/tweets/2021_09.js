@@ -1,6 +1,1425 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 09 11:58:41 +0000 2021",
+		"id": 1435934339443818500,
+		"id_str": "1435935690311798792",
+		"full_text": "슬픔의케이팝파티 episode.17\n&lt;케이팝 동화: 얼음여왕과 개구리 왕자&gt;\n\n얼음여왕이 된 DJ m3iji은 차가운 얼음 속에 갇힌 해체한 걸그룹의 노래들을 소환하고, 케이팝을 좋아하던 개구리 DJ UN은 마법에 걸려 왕자가 되는데...\n\n동화 혹은 로맨스 판타지 속 케이팝 파티!\n토요일 밤 아홉시 NOW에서! https://t.co/lK3SjF85jx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435934333756313600,
+					"id_str": "1435934333756313607",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/E-12qyxVEAcBr4y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-12qyxVEAcBr4y.jpg",
+					"url": "https://t.co/lK3SjF85jx",
+					"display_url": "pic.twitter.com/lK3SjF85jx",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1435934339443818498/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435934333756313600,
+					"id_str": "1435934333756313607",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/E-12qyxVEAcBr4y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-12qyxVEAcBr4y.jpg",
+					"url": "https://t.co/lK3SjF85jx",
+					"display_url": "pic.twitter.com/lK3SjF85jx",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1435934339443818498/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 745,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 634,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/kho8Mn53lC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kho8Mn53lC",
+							"expanded_url": "https://now.naver.com/player/10255",
+							"display_url": "now.naver.com/player/10255",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7689,
+			"friends_count": 32,
+			"listed_count": 19,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "슬픔의케이팝파티 episode.17\n&lt;케이팝 동화: 얼음여왕과 개구리 왕자&gt;\n\n얼음여왕이 된 DJ m3iji은 차가운 얼음 속에 갇힌 해체한 걸그룹의 노래들을 소환하고, 케이팝을 좋아하던 개구리 DJ UN은 마법에 걸려 왕자가 되는데...\n\n동화 혹은 로맨스 판타지 속 케이팝 파티!\n토요일 밤 아홉시 NOW에서! https://t.co/lK3SjF85jx"
+	},
+	{
+		"created_at": "Thu Sep 09 11:58:34 +0000 2021",
+		"id": 1435921621269680000,
+		"id_str": "1435935660414754817",
+		"full_text": "https://t.co/L905afJyfG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435921543838646300,
+					"id_str": "1435921543838646276",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E-1rCUnVQAQk-Df.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-1rCUnVQAQk-Df.jpg",
+					"url": "https://t.co/L905afJyfG",
+					"display_url": "pic.twitter.com/L905afJyfG",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435921621269680129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435921543838646300,
+					"id_str": "1435921543838646276",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E-1rCUnVQAQk-Df.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-1rCUnVQAQk-Df.jpg",
+					"url": "https://t.co/L905afJyfG",
+					"display_url": "pic.twitter.com/L905afJyfG",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435921621269680129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1435921424238194700,
+		"in_reply_to_status_id_str": "1435921424238194690",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394281,
+			"friends_count": 75,
+			"listed_count": 1002,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10749,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/L905afJyfG"
+	},
+	{
+		"created_at": "Thu Sep 09 11:58:29 +0000 2021",
+		"id": 1435921424238194700,
+		"id_str": "1435935638793113601",
+		"full_text": "[KCON STUDIO MY FIRST KCON &amp; COOKING BATTLE GUIDE]\n\nHI 5 with K-Culture!\nCheck out online on YouTube and Twitter\n\nK-culture와 하이파이브!\n유튜브와 트위터에서 온라인으로 만나보세요.\n\nK-Cultureとハイタッチ！\nYouTubeとTwitterでオンラインでご覧ください\n\n#KCONTACT #KCONTACTHI5 https://t.co/IHQh7m8NLl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						208,
+						217
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						218,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435911036087849000,
+					"id_str": "1435911036087848960",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/E-1hesMUUAA_VPw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-1hesMUUAA_VPw.jpg",
+					"url": "https://t.co/IHQh7m8NLl",
+					"display_url": "pic.twitter.com/IHQh7m8NLl",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435921424238194690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435911036087849000,
+					"id_str": "1435911036087848960",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/E-1hesMUUAA_VPw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-1hesMUUAA_VPw.jpg",
+					"url": "https://t.co/IHQh7m8NLl",
+					"display_url": "pic.twitter.com/IHQh7m8NLl",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435921424238194690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435911036092092400,
+					"id_str": "1435911036092092423",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/E-1hesNVEAcA23g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-1hesNVEAcA23g.jpg",
+					"url": "https://t.co/IHQh7m8NLl",
+					"display_url": "pic.twitter.com/IHQh7m8NLl",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435921424238194690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435911036104700000,
+					"id_str": "1435911036104699907",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/E-1hesQVcAMjstc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-1hesQVcAMjstc.jpg",
+					"url": "https://t.co/IHQh7m8NLl",
+					"display_url": "pic.twitter.com/IHQh7m8NLl",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435921424238194690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435911036104687600,
+					"id_str": "1435911036104687627",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/E-1hesQVQAs4RCX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-1hesQVQAs4RCX.jpg",
+					"url": "https://t.co/IHQh7m8NLl",
+					"display_url": "pic.twitter.com/IHQh7m8NLl",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435921424238194690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394281,
+			"friends_count": 75,
+			"listed_count": 1002,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10749,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 506,
+		"favorite_count": 1313,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[KCON STUDIO MY FIRST KCON &amp; COOKING BATTLE GUIDE]\n\nHI 5 with K-Culture!\nCheck out online on YouTube and Twitter\n\nK-culture와 하이파이브!\n유튜브와 트위터에서 온라인으로 만나보세요.\n\nK-Cultureとハイタッチ！\nYouTubeとTwitterでオンラインでご覧ください\n\n#KCONTACT #KCONTACTHI5 https://t.co/IHQh7m8NLl"
+	},
+	{
+		"created_at": "Thu Sep 09 11:58:24 +0000 2021",
+		"id": 1435921344600756200,
+		"id_str": "1435935617305743366",
+		"full_text": "[KCON STUDIO LIVE from JAPAN GUIDE]\n\nHI 5 with K-Culture!\nCheck out online on YouTube and Twitter\n\nK-culture와 하이파이브!\n유튜브와 트위터에서 온라인으로 만나보세요.\n\nK-Cultureとハイタッチ！\nYouTubeとTwitterでオンラインでご覧ください https://t.co/WycBqtesc0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435921328398237700,
+					"id_str": "1435921328398237699",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/E-1q1yCVgAMY-Ry.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-1q1yCVgAMY-Ry.jpg",
+					"url": "https://t.co/WycBqtesc0",
+					"display_url": "pic.twitter.com/WycBqtesc0",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435921344600756228/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435921328398237700,
+					"id_str": "1435921328398237699",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/E-1q1yCVgAMY-Ry.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-1q1yCVgAMY-Ry.jpg",
+					"url": "https://t.co/WycBqtesc0",
+					"display_url": "pic.twitter.com/WycBqtesc0",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435921344600756228/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435921327941054500,
+					"id_str": "1435921327941054471",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/E-1q1wVVcAcrPUO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-1q1wVVcAcrPUO.jpg",
+					"url": "https://t.co/WycBqtesc0",
+					"display_url": "pic.twitter.com/WycBqtesc0",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435921344600756228/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1435921172550537200,
+		"in_reply_to_status_id_str": "1435921172550537217",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394281,
+			"friends_count": 75,
+			"listed_count": 1002,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10749,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 247,
+		"favorite_count": 548,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[KCON STUDIO LIVE from JAPAN GUIDE]\n\nHI 5 with K-Culture!\nCheck out online on YouTube and Twitter\n\nK-culture와 하이파이브!\n유튜브와 트위터에서 온라인으로 만나보세요.\n\nK-Cultureとハイタッチ！\nYouTubeとTwitterでオンラインでご覧ください https://t.co/WycBqtesc0"
+	},
+	{
+		"created_at": "Thu Sep 09 11:58:18 +0000 2021",
+		"id": 1435921172550537200,
+		"id_str": "1435935591510822920",
+		"full_text": "[KCON STUDIO LIVE from JAPAN GUIDE]\n\nHI 5 with K-Culture!\nCheck out online on YouTube and Twitter\n\nK-culture와 하이파이브!\n유튜브와 트위터에서 온라인으로 만나보세요.\n\nK-Cultureとハイタッチ！\nYouTubeとTwitterでオンラインでご覧ください\n\n#KCONTACT #KCONTACTHI5 https://t.co/R9LHhL2P7X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						189,
+						198
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						199,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435910969788559400,
+					"id_str": "1435910969788559360",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/E-1ha1NVcAALuoW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-1ha1NVcAALuoW.jpg",
+					"url": "https://t.co/R9LHhL2P7X",
+					"display_url": "pic.twitter.com/R9LHhL2P7X",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435921172550537217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435910969788559400,
+					"id_str": "1435910969788559360",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/E-1ha1NVcAALuoW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-1ha1NVcAALuoW.jpg",
+					"url": "https://t.co/R9LHhL2P7X",
+					"display_url": "pic.twitter.com/R9LHhL2P7X",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435921172550537217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435910969792745500,
+					"id_str": "1435910969792745478",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/E-1ha1OVUAYhv5j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-1ha1OVUAYhv5j.jpg",
+					"url": "https://t.co/R9LHhL2P7X",
+					"display_url": "pic.twitter.com/R9LHhL2P7X",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435921172550537217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435910969801072600,
+					"id_str": "1435910969801072642",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/E-1ha1QUYAIzpfu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-1ha1QUYAIzpfu.jpg",
+					"url": "https://t.co/R9LHhL2P7X",
+					"display_url": "pic.twitter.com/R9LHhL2P7X",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435921172550537217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435910969809522700,
+					"id_str": "1435910969809522694",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/E-1ha1SVUAYRBuJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-1ha1SVUAYRBuJ.jpg",
+					"url": "https://t.co/R9LHhL2P7X",
+					"display_url": "pic.twitter.com/R9LHhL2P7X",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435921172550537217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394281,
+			"friends_count": 75,
+			"listed_count": 1002,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10749,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 104,
+		"favorite_count": 238,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[KCON STUDIO LIVE from JAPAN GUIDE]\n\nHI 5 with K-Culture!\nCheck out online on YouTube and Twitter\n\nK-culture와 하이파이브!\n유튜브와 트위터에서 온라인으로 만나보세요.\n\nK-Cultureとハイタッチ！\nYouTubeとTwitterでオンラインでご覧ください\n\n#KCONTACT #KCONTACTHI5 https://t.co/R9LHhL2P7X"
+	},
+	{
+		"created_at": "Thu Sep 09 11:58:14 +0000 2021",
+		"id": 1435921101436059600,
+		"id_str": "1435935578361679875",
+		"full_text": "[KCON STUDIO LIVE from the USA GUIDE]\nHI 5 with K-Culture!\nCheck out online on YouTube and Twitter\n\nK-culture와 하이파이브!\n유튜브와 트위터에서 온라인으로 만나보세요.\n\nK-Cultureとハイタッチ！\nYouTubeとTwitterでオンラインでご覧ください\n\n#KCONTACT #KCONTACTHI5 https://t.co/yaHCAiMEIe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						190,
+						199
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						200,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435921032397815800,
+					"id_str": "1435921032397815811",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/E-1qkjWVgAMJxxZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-1qkjWVgAMJxxZ.jpg",
+					"url": "https://t.co/yaHCAiMEIe",
+					"display_url": "pic.twitter.com/yaHCAiMEIe",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435921101436059653/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435921032397815800,
+					"id_str": "1435921032397815811",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/E-1qkjWVgAMJxxZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-1qkjWVgAMJxxZ.jpg",
+					"url": "https://t.co/yaHCAiMEIe",
+					"display_url": "pic.twitter.com/yaHCAiMEIe",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435921101436059653/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435921032389353500,
+					"id_str": "1435921032389353473",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/E-1qkjUUYAEJHI4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-1qkjUUYAEJHI4.jpg",
+					"url": "https://t.co/yaHCAiMEIe",
+					"display_url": "pic.twitter.com/yaHCAiMEIe",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435921101436059653/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 936,
+							"h": 936,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435921032385233000,
+					"id_str": "1435921032385232904",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/E-1qkjTVgAgyCoq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-1qkjTVgAgyCoq.jpg",
+					"url": "https://t.co/yaHCAiMEIe",
+					"display_url": "pic.twitter.com/yaHCAiMEIe",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435921101436059653/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1435920921706045400,
+		"in_reply_to_status_id_str": "1435920921706045443",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394281,
+			"friends_count": 75,
+			"listed_count": 1002,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10749,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[KCON STUDIO LIVE from the USA GUIDE]\nHI 5 with K-Culture!\nCheck out online on YouTube and Twitter\n\nK-culture와 하이파이브!\n유튜브와 트위터에서 온라인으로 만나보세요.\n\nK-Cultureとハイタッチ！\nYouTubeとTwitterでオンラインでご覧ください\n\n#KCONTACT #KCONTACTHI5 https://t.co/yaHCAiMEIe"
+	},
+	{
 		"created_at": "Thu Sep 09 10:29:25 +0000 2021",
 		"id": 1435910217888190500,
 		"id_str": "1435913223178424325",
