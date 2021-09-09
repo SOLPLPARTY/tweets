@@ -1,6 +1,1521 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 09 06:58:47 +0000 2021",
+		"id": 1435847002009395200,
+		"id_str": "1435860217623896067",
+		"full_text": "[KCON:TACT HI 5 MD]\n\n#WOODZ のKCON:TACT HI 5公式MDイメージ大公開！\nMOODZ！ぜひ見逃さないで~ ❤\n\n▶EVERLINE (KOR/Global) : https://t.co/AAApsDfTau \n▶TVINGMALL (KOR) : https://t.co/csp3o4iTYB\n\n#KCONTACT #KCONTACTHI5  #WOODZ #조승연 #CHOSEUNGYOUN @c_woodzofficial",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WOODZ",
+					"indices": [
+						21,
+						27
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						169,
+						178
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						179,
+						191
+					]
+				},
+				{
+					"text": "WOODZ",
+					"indices": [
+						193,
+						199
+					]
+				},
+				{
+					"text": "조승연",
+					"indices": [
+						200,
+						204
+					]
+				},
+				{
+					"text": "CHOSEUNGYOUN",
+					"indices": [
+						205,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "c_woodzofficial",
+					"name": "WOODZ(조승연)",
+					"id": 1219213114895302700,
+					"id_str": "1219213114895302656",
+					"indices": [
+						219,
+						235
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AAApsDfTau",
+					"expanded_url": "http://www.elinepark.com",
+					"display_url": "elinepark.com",
+					"indices": [
+						100,
+						123
+					]
+				},
+				{
+					"url": "https://t.co/csp3o4iTYB",
+					"expanded_url": "http://mall.tving.com",
+					"display_url": "mall.tving.com",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1435847000205893600,
+		"in_reply_to_status_id_str": "1435847000205893633",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394157,
+			"friends_count": 75,
+			"listed_count": 1003,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[KCON:TACT HI 5 MD]\n\n#WOODZ のKCON:TACT HI 5公式MDイメージ大公開！\nMOODZ！ぜひ見逃さないで~ ❤\n\n▶EVERLINE (KOR/Global) : https://t.co/AAApsDfTau \n▶TVINGMALL (KOR) : https://t.co/csp3o4iTYB\n\n#KCONTACT #KCONTACTHI5  #WOODZ #조승연 #CHOSEUNGYOUN @c_woodzofficial"
+	},
+	{
+		"created_at": "Thu Sep 09 06:58:38 +0000 2021",
+		"id": 1435847000205893600,
+		"id_str": "1435860179287953411",
+		"full_text": "[KCON:TACT HI 5 MD]\n\n#WOODZ 의 KCON:TACT HI 5 공식 MD 이미지 대.공.개 !\n우리 MOODZ들 놓치지 말라고~ ❤\n\n▶EVERLINE (KOR/Global) : https://t.co/AAApsDfTau \n▶TVINGMALL (KOR) : https://t.co/csp3o4iTYB\n\n#KCONTACT #KCONTACTHI5 #WOODZ #조승연 #CHOSEUNGYOUN @c_woodzofficial",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WOODZ",
+					"indices": [
+						21,
+						27
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						179,
+						188
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						189,
+						201
+					]
+				},
+				{
+					"text": "WOODZ",
+					"indices": [
+						202,
+						208
+					]
+				},
+				{
+					"text": "조승연",
+					"indices": [
+						209,
+						213
+					]
+				},
+				{
+					"text": "CHOSEUNGYOUN",
+					"indices": [
+						214,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "c_woodzofficial",
+					"name": "WOODZ(조승연)",
+					"id": 1219213114895302700,
+					"id_str": "1219213114895302656",
+					"indices": [
+						228,
+						244
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AAApsDfTau",
+					"expanded_url": "http://www.elinepark.com",
+					"display_url": "elinepark.com",
+					"indices": [
+						110,
+						133
+					]
+				},
+				{
+					"url": "https://t.co/csp3o4iTYB",
+					"expanded_url": "http://mall.tving.com",
+					"display_url": "mall.tving.com",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1435846933147369500,
+		"in_reply_to_status_id_str": "1435846933147369476",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394157,
+			"friends_count": 75,
+			"listed_count": 1003,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[KCON:TACT HI 5 MD]\n\n#WOODZ 의 KCON:TACT HI 5 공식 MD 이미지 대.공.개 !\n우리 MOODZ들 놓치지 말라고~ ❤\n\n▶EVERLINE (KOR/Global) : https://t.co/AAApsDfTau \n▶TVINGMALL (KOR) : https://t.co/csp3o4iTYB\n\n#KCONTACT #KCONTACTHI5 #WOODZ #조승연 #CHOSEUNGYOUN @c_woodzofficial"
+	},
+	{
+		"created_at": "Thu Sep 09 06:58:35 +0000 2021",
+		"id": 1435846933147369500,
+		"id_str": "1435860166176563201",
+		"full_text": "[KCON:TACT HI 5 MD]\n\nRevealing #WOODZ 's KCON:TACT HI 5 Official MD Image !\nMOODZ, don't miss out~ ❤\n\n▶EVERLINE (KOR/Global) : https://t.co/AAApsDfTau \n▶TVINGMALL (KOR) : https://t.co/csp3o4iTYB\n\n#KCONTACT #KCONTACTHI5 #WOODZ #조승연 #CHOSEUNGYOUN @c_woodzofficial https://t.co/0UUFIk8FGb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WOODZ",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						196,
+						205
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						206,
+						218
+					]
+				},
+				{
+					"text": "WOODZ",
+					"indices": [
+						219,
+						225
+					]
+				},
+				{
+					"text": "조승연",
+					"indices": [
+						226,
+						230
+					]
+				},
+				{
+					"text": "CHOSEUNGYOUN",
+					"indices": [
+						231,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "c_woodzofficial",
+					"name": "WOODZ(조승연)",
+					"id": 1219213114895302700,
+					"id_str": "1219213114895302656",
+					"indices": [
+						245,
+						261
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AAApsDfTau",
+					"expanded_url": "http://www.elinepark.com",
+					"display_url": "elinepark.com",
+					"indices": [
+						127,
+						150
+					]
+				},
+				{
+					"url": "https://t.co/csp3o4iTYB",
+					"expanded_url": "http://mall.tving.com",
+					"display_url": "mall.tving.com",
+					"indices": [
+						171,
+						194
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1435833788840353800,
+					"id_str": "1435833788840353794",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0bOTxVIAI5ZyP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0bOTxVIAI5ZyP.jpg",
+					"url": "https://t.co/0UUFIk8FGb",
+					"display_url": "pic.twitter.com/0UUFIk8FGb",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435846933147369476/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435833788840353800,
+					"id_str": "1435833788840353794",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0bOTxVIAI5ZyP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0bOTxVIAI5ZyP.jpg",
+					"url": "https://t.co/0UUFIk8FGb",
+					"display_url": "pic.twitter.com/0UUFIk8FGb",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435846933147369476/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435833807672799200,
+					"id_str": "1435833807672799236",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0bPZ7VcAQlWFC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0bPZ7VcAQlWFC.jpg",
+					"url": "https://t.co/0UUFIk8FGb",
+					"display_url": "pic.twitter.com/0UUFIk8FGb",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435846933147369476/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394157,
+			"friends_count": 75,
+			"listed_count": 1003,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 434,
+		"favorite_count": 897,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT HI 5 MD]\n\nRevealing #WOODZ 's KCON:TACT HI 5 Official MD Image !\nMOODZ, don't miss out~ ❤\n\n▶EVERLINE (KOR/Global) : https://t.co/AAApsDfTau \n▶TVINGMALL (KOR) : https://t.co/csp3o4iTYB\n\n#KCONTACT #KCONTACTHI5 #WOODZ #조승연 #CHOSEUNGYOUN @c_woodzofficial https://t.co/0UUFIk8FGb"
+	},
+	{
+		"created_at": "Thu Sep 09 06:58:33 +0000 2021",
+		"id": 1435846778310434800,
+		"id_str": "1435860157267861504",
+		"full_text": "[KCON:TACT HI 5 MD]\n\n#Weeekly のKCON:TACT HI 5公式MDイメージ大公開！\nDaileee！ぜひ見逃さないで~ ❤\n\n▶EVERLINE (KOR/Global) : https://t.co/AAApsDfTau \n▶TVINGMALL (KOR) : https://t.co/csp3o4iTYB\n\n#KCONTACT #KCONTACTHI5 #Weeekly #위클리 @_Weeekly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Weeekly",
+					"indices": [
+						21,
+						29
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						173,
+						182
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						183,
+						195
+					]
+				},
+				{
+					"text": "Weeekly",
+					"indices": [
+						196,
+						204
+					]
+				},
+				{
+					"text": "위클리",
+					"indices": [
+						205,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_Weeekly",
+					"name": "Weeekly (위클리)",
+					"id": 874918428825485300,
+					"id_str": "874918428825485312",
+					"indices": [
+						210,
+						219
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AAApsDfTau",
+					"expanded_url": "http://www.elinepark.com",
+					"display_url": "elinepark.com",
+					"indices": [
+						104,
+						127
+					]
+				},
+				{
+					"url": "https://t.co/csp3o4iTYB",
+					"expanded_url": "http://mall.tving.com",
+					"display_url": "mall.tving.com",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1435846776460697600,
+		"in_reply_to_status_id_str": "1435846776460697600",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394157,
+			"friends_count": 75,
+			"listed_count": 1003,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "[KCON:TACT HI 5 MD]\n\n#Weeekly のKCON:TACT HI 5公式MDイメージ大公開！\nDaileee！ぜひ見逃さないで~ ❤\n\n▶EVERLINE (KOR/Global) : https://t.co/AAApsDfTau \n▶TVINGMALL (KOR) : https://t.co/csp3o4iTYB\n\n#KCONTACT #KCONTACTHI5 #Weeekly #위클리 @_Weeekly"
+	},
+	{
+		"created_at": "Thu Sep 09 06:58:23 +0000 2021",
+		"id": 1435846776460697600,
+		"id_str": "1435860118785101824",
+		"full_text": "[KCON:TACT HI 5 MD]\n\n#Weeekly 의 KCON:TACT HI 5 공식 MD 이미지 대.공.개 !\n우리 Daileee들 놓치지 말라고~ ❤\n\n▶EVERLINE (KOR/Global) : https://t.co/AAApsDfTau \n▶TVINGMALL (KOR) : https://t.co/csp3o4iTYB\n\n#KCONTACT #KCONTACTHI5 #Weeekly #위클리 @_Weeekly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Weeekly",
+					"indices": [
+						21,
+						29
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						183,
+						192
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						193,
+						205
+					]
+				},
+				{
+					"text": "Weeekly",
+					"indices": [
+						206,
+						214
+					]
+				},
+				{
+					"text": "위클리",
+					"indices": [
+						215,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_Weeekly",
+					"name": "Weeekly (위클리)",
+					"id": 874918428825485300,
+					"id_str": "874918428825485312",
+					"indices": [
+						220,
+						229
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AAApsDfTau",
+					"expanded_url": "http://www.elinepark.com",
+					"display_url": "elinepark.com",
+					"indices": [
+						114,
+						137
+					]
+				},
+				{
+					"url": "https://t.co/csp3o4iTYB",
+					"expanded_url": "http://mall.tving.com",
+					"display_url": "mall.tving.com",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1435846681614979000,
+		"in_reply_to_status_id_str": "1435846681614979075",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394157,
+			"friends_count": 75,
+			"listed_count": 1003,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[KCON:TACT HI 5 MD]\n\n#Weeekly 의 KCON:TACT HI 5 공식 MD 이미지 대.공.개 !\n우리 Daileee들 놓치지 말라고~ ❤\n\n▶EVERLINE (KOR/Global) : https://t.co/AAApsDfTau \n▶TVINGMALL (KOR) : https://t.co/csp3o4iTYB\n\n#KCONTACT #KCONTACTHI5 #Weeekly #위클리 @_Weeekly"
+	},
+	{
+		"created_at": "Thu Sep 09 06:58:14 +0000 2021",
+		"id": 1435846681614979000,
+		"id_str": "1435860080537255937",
+		"full_text": "[KCON:TACT HI 5 MD]\n\nRevealing #Weeekly 's KCON:TACT HI 5 Official MD Image !\nDaileee, don't miss out~ ❤\n\n▶EVERLINE (KOR/Global) : https://t.co/AAApsDfTau \n▶TVINGMALL (KOR) : https://t.co/csp3o4iTYB\n\n#KCONTACT #KCONTACTHI5 #Weeekly #위클리 @_Weeekly https://t.co/OqpDSaIQRD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Weeekly",
+					"indices": [
+						31,
+						39
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						200,
+						209
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						210,
+						222
+					]
+				},
+				{
+					"text": "Weeekly",
+					"indices": [
+						223,
+						231
+					]
+				},
+				{
+					"text": "위클리",
+					"indices": [
+						232,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_Weeekly",
+					"name": "Weeekly (위클리)",
+					"id": 874918428825485300,
+					"id_str": "874918428825485312",
+					"indices": [
+						237,
+						246
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AAApsDfTau",
+					"expanded_url": "http://www.elinepark.com",
+					"display_url": "elinepark.com",
+					"indices": [
+						131,
+						154
+					]
+				},
+				{
+					"url": "https://t.co/csp3o4iTYB",
+					"expanded_url": "http://mall.tving.com",
+					"display_url": "mall.tving.com",
+					"indices": [
+						175,
+						198
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1435833154472853500,
+					"id_str": "1435833154472853508",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0apYkVQAQA6IC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0apYkVQAQA6IC.jpg",
+					"url": "https://t.co/OqpDSaIQRD",
+					"display_url": "pic.twitter.com/OqpDSaIQRD",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435846681614979075/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435833154472853500,
+					"id_str": "1435833154472853508",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0apYkVQAQA6IC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0apYkVQAQA6IC.jpg",
+					"url": "https://t.co/OqpDSaIQRD",
+					"display_url": "pic.twitter.com/OqpDSaIQRD",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435846681614979075/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435833170285367300,
+					"id_str": "1435833170285367304",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0aqTeVEAgEcVr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0aqTeVEAgEcVr.jpg",
+					"url": "https://t.co/OqpDSaIQRD",
+					"display_url": "pic.twitter.com/OqpDSaIQRD",
+					"expanded_url": "https://twitter.com/KCON_official/status/1435846681614979075/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394157,
+			"friends_count": 75,
+			"listed_count": 1003,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 163,
+		"favorite_count": 651,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[KCON:TACT HI 5 MD]\n\nRevealing #Weeekly 's KCON:TACT HI 5 Official MD Image !\nDaileee, don't miss out~ ❤\n\n▶EVERLINE (KOR/Global) : https://t.co/AAApsDfTau \n▶TVINGMALL (KOR) : https://t.co/csp3o4iTYB\n\n#KCONTACT #KCONTACTHI5 #Weeekly #위클리 @_Weeekly https://t.co/OqpDSaIQRD"
+	},
+	{
+		"created_at": "Thu Sep 09 06:29:35 +0000 2021",
+		"id": 1435840442914861000,
+		"id_str": "1435852867584278528",
+		"full_text": "[#News] #루시드폴\n\n루시드폴, 통증 환자 위한 앰비언트 뮤직 발매..직접 채집→제작\n\n(출처: OSEN | 네이버 TV연예)\n\n✔️ https://t.co/pL52bkjpMT\n\n#ListentoPain #앰비언트뮤직 #RED캠페인",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "News",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "루시드폴",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "ListentoPain",
+					"indices": [
+						103,
+						116
+					]
+				},
+				{
+					"text": "앰비언트뮤직",
+					"indices": [
+						117,
+						124
+					]
+				},
+				{
+					"text": "RED캠페인",
+					"indices": [
+						125,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pL52bkjpMT",
+					"expanded_url": "http://naver.me/FMA5xQsX",
+					"display_url": "naver.me/FMA5xQsX",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 유희열 '생활음악' EP1. 일요일 오후 - 안테나 유튜브 채널에서 만나보세요!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37059,
+			"friends_count": 10,
+			"listed_count": 374,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#News] #루시드폴\n\n루시드폴, 통증 환자 위한 앰비언트 뮤직 발매..직접 채집→제작\n\n(출처: OSEN | 네이버 TV연예)\n\n✔️ https://t.co/pL52bkjpMT\n\n#ListentoPain #앰비언트뮤직 #RED캠페인"
+	},
+	{
+		"created_at": "Thu Sep 09 06:29:32 +0000 2021",
+		"id": 1435838798672187400,
+		"id_str": "1435852854548484102",
+		"full_text": "자세한 내용은 예매사이트를 확인 부탁드립니다.\n\n▶️YES24 티켓: https://t.co/NDE4bUhMTL\n▶️인터파크 티켓: https://t.co/cVQteVILTm\n\n#JungSeungHwan #Jukjae #실내뮤직페스티벌 #일상으로의초대",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JungSeungHwan",
+					"indices": [
+						99,
+						113
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						114,
+						121
+					]
+				},
+				{
+					"text": "실내뮤직페스티벌",
+					"indices": [
+						122,
+						131
+					]
+				},
+				{
+					"text": "일상으로의초대",
+					"indices": [
+						132,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NDE4bUhMTL",
+					"expanded_url": "http://url.kr/qnzb2l",
+					"display_url": "url.kr/qnzb2l",
+					"indices": [
+						39,
+						62
+					]
+				},
+				{
+					"url": "https://t.co/cVQteVILTm",
+					"expanded_url": "http://url.kr/v1uyj5",
+					"display_url": "url.kr/v1uyj5",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1435838795937575000,
+		"in_reply_to_status_id_str": "1435838795937574912",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 유희열 '생활음악' EP1. 일요일 오후 - 안테나 유튜브 채널에서 만나보세요!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37059,
+			"friends_count": 10,
+			"listed_count": 374,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자세한 내용은 예매사이트를 확인 부탁드립니다.\n\n▶️YES24 티켓: https://t.co/NDE4bUhMTL\n▶️인터파크 티켓: https://t.co/cVQteVILTm\n\n#JungSeungHwan #Jukjae #실내뮤직페스티벌 #일상으로의초대"
+	},
+	{
 		"created_at": "Thu Sep 09 06:11:30 +0000 2021",
 		"id": 1435838494446735400,
 		"id_str": "1435848317863403521",
