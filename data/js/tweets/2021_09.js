@@ -1,6 +1,135 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 09 10:29:25 +0000 2021",
+		"id": 1435910217888190500,
+		"id_str": "1435913223178424325",
+		"full_text": "최유리가 출연한 MBC 웹예능 &lt;대부님&gt;을 지금 바로 만나보세요!\n⠀\nM드로메다 스튜디오 - 대부님 EP. 02\n▷ https://t.co/EeDyRXS1nc\n\n#최유리 #대부님 #M드로메다스튜디오",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최유리",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "대부님",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "M드로메다스튜디오",
+					"indices": [
+						106,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EeDyRXS1nc",
+					"expanded_url": "https://youtu.be/xRa2JC4D_Zw",
+					"display_url": "youtu.be/xRa2JC4D_Zw",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/VtrzF3mRza",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VtrzF3mRza",
+							"expanded_url": "http://shofar-ent.com",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7733,
+			"friends_count": 4,
+			"listed_count": 66,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1631001017",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "최유리가 출연한 MBC 웹예능 &lt;대부님&gt;을 지금 바로 만나보세요!\n⠀\nM드로메다 스튜디오 - 대부님 EP. 02\n▷ https://t.co/EeDyRXS1nc\n\n#최유리 #대부님 #M드로메다스튜디오"
+	},
+	{
 		"created_at": "Thu Sep 09 10:13:43 +0000 2021",
 		"id": 1435909272890658800,
 		"id_str": "1435909272890658818",
