@@ -1,6 +1,793 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 09 06:11:30 +0000 2021",
+		"id": 1435838494446735400,
+		"id_str": "1435848317863403521",
+		"full_text": "- 곧 공지될 이벤트 플레이리스트 참여도\n모두 준비해두시라요 ( •͈ᴗ-)ᓂ- - -ෆ\n\n-\n\n✿ 우소연, 싱글 &lt;되는 대로 삽니다&gt;\n✿ 키디비, 싱글 &lt;WE-YOU&gt;\n✿ 재주소년, 싱글 &lt;Remake Part2 어린시절의 노래 : 들장미&gt; https://t.co/chy2GZ9AMI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435838466806354000,
+					"id_str": "1435838466806353922",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0femjVkAIFZ6p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0femjVkAIFZ6p.jpg",
+					"url": "https://t.co/chy2GZ9AMI",
+					"display_url": "pic.twitter.com/chy2GZ9AMI",
+					"expanded_url": "https://twitter.com/xindieticket/status/1435838494446735363/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435838466806354000,
+					"id_str": "1435838466806353922",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0femjVkAIFZ6p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0femjVkAIFZ6p.jpg",
+					"url": "https://t.co/chy2GZ9AMI",
+					"display_url": "pic.twitter.com/chy2GZ9AMI",
+					"expanded_url": "https://twitter.com/xindieticket/status/1435838494446735363/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435838466814734300,
+					"id_str": "1435838466814734342",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0femlVcAYaIvB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0femlVcAYaIvB.jpg",
+					"url": "https://t.co/chy2GZ9AMI",
+					"display_url": "pic.twitter.com/chy2GZ9AMI",
+					"expanded_url": "https://twitter.com/xindieticket/status/1435838494446735363/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435838466969858000,
+					"id_str": "1435838466969858051",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0fenKUcAMU3oo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0fenKUcAMU3oo.jpg",
+					"url": "https://t.co/chy2GZ9AMI",
+					"display_url": "pic.twitter.com/chy2GZ9AMI",
+					"expanded_url": "https://twitter.com/xindieticket/status/1435838494446735363/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1435838489564569600,
+		"in_reply_to_status_id_str": "1435838489564569601",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2772,
+			"friends_count": 2599,
+			"listed_count": 21,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "- 곧 공지될 이벤트 플레이리스트 참여도\n모두 준비해두시라요 ( •͈ᴗ-)ᓂ- - -ෆ\n\n-\n\n✿ 우소연, 싱글 &lt;되는 대로 삽니다&gt;\n✿ 키디비, 싱글 &lt;WE-YOU&gt;\n✿ 재주소년, 싱글 &lt;Remake Part2 어린시절의 노래 : 들장미&gt; https://t.co/chy2GZ9AMI"
+	},
+	{
+		"created_at": "Thu Sep 09 06:11:23 +0000 2021",
+		"id": 1435838489564569600,
+		"id_str": "1435848288008351744",
+		"full_text": "이번달도 다양한 장르의 고품격 곡들이 가득하니\n이 플레이리스트와 함께 다가오는 가을을 준비해 보아요 (•ө•)♡\n\n🔗Youtube에서 바로듣기: https://t.co/CriXj82LQv\n-\n✿ 오소영, 싱글 &lt;조용한 돌&gt;\n✿ 원다희, 싱글 &lt;Dog Waltz&gt;\n✿ Together In Hope, EP 앨범 &lt;Against The Wind&gt; https://t.co/ycqnpWQgGr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CriXj82LQv",
+					"expanded_url": "https://youtube.com/playlist?list=PLYAswCaenHgWO8KSH0cwL0zkvy0zhDSfM",
+					"display_url": "youtube.com/playlist?list=…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1435838294458187800,
+					"id_str": "1435838294458187776",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0fUkgVQAAEkF3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0fUkgVQAAEkF3.jpg",
+					"url": "https://t.co/ycqnpWQgGr",
+					"display_url": "pic.twitter.com/ycqnpWQgGr",
+					"expanded_url": "https://twitter.com/xindieticket/status/1435838489564569601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435838294458187800,
+					"id_str": "1435838294458187776",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0fUkgVQAAEkF3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0fUkgVQAAEkF3.jpg",
+					"url": "https://t.co/ycqnpWQgGr",
+					"display_url": "pic.twitter.com/ycqnpWQgGr",
+					"expanded_url": "https://twitter.com/xindieticket/status/1435838489564569601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435838294571380700,
+					"id_str": "1435838294571380743",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0fUk7UcAcqS99.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0fUk7UcAcqS99.jpg",
+					"url": "https://t.co/ycqnpWQgGr",
+					"display_url": "pic.twitter.com/ycqnpWQgGr",
+					"expanded_url": "https://twitter.com/xindieticket/status/1435838489564569601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435838294730838000,
+					"id_str": "1435838294730838021",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0fUlhVkAU3DKW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0fUlhVkAU3DKW.jpg",
+					"url": "https://t.co/ycqnpWQgGr",
+					"display_url": "pic.twitter.com/ycqnpWQgGr",
+					"expanded_url": "https://twitter.com/xindieticket/status/1435838489564569601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1435838484908949500,
+		"in_reply_to_status_id_str": "1435838484908949505",
+		"in_reply_to_user_id": 1220731080,
+		"in_reply_to_user_id_str": "1220731080",
+		"in_reply_to_screen_name": "xindieticket",
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2772,
+			"friends_count": 2599,
+			"listed_count": 21,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번달도 다양한 장르의 고품격 곡들이 가득하니\n이 플레이리스트와 함께 다가오는 가을을 준비해 보아요 (•ө•)♡\n\n🔗Youtube에서 바로듣기: https://t.co/CriXj82LQv\n-\n✿ 오소영, 싱글 &lt;조용한 돌&gt;\n✿ 원다희, 싱글 &lt;Dog Waltz&gt;\n✿ Together In Hope, EP 앨범 &lt;Against The Wind&gt; https://t.co/ycqnpWQgGr"
+	},
+	{
+		"created_at": "Thu Sep 09 06:11:21 +0000 2021",
+		"id": 1435838484908949500,
+		"id_str": "1435848279154114562",
+		"full_text": "[2021년 9월 XINDIE'S 인디 신보 PLAYLIST]\n\n이번주에도 新SONG生SONG에 실린 8&amp;9월 신보소식들을 포함해서\n゜❤︎씬디 플레이리스트❤︎ ゜가\n&lt;9월 인디 신보소식&gt;으로 돌아왔습니다!\n-\n✿ Vlinds, 싱글 &lt;내가 말하고 있잖아(with 정선기)&gt;\n✿ 송용창, EP 앨범 &lt;향연&gt;\n✿ 홍혜림, 정규앨범 &lt;March&gt; https://t.co/elMmkYwbXI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435837962349023200,
+					"id_str": "1435837962349023234",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0fBPTVkAIxCWA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0fBPTVkAIxCWA.jpg",
+					"url": "https://t.co/elMmkYwbXI",
+					"display_url": "pic.twitter.com/elMmkYwbXI",
+					"expanded_url": "https://twitter.com/xindieticket/status/1435838484908949505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435837962349023200,
+					"id_str": "1435837962349023234",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0fBPTVkAIxCWA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0fBPTVkAIxCWA.jpg",
+					"url": "https://t.co/elMmkYwbXI",
+					"display_url": "pic.twitter.com/elMmkYwbXI",
+					"expanded_url": "https://twitter.com/xindieticket/status/1435838484908949505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435837962336362500,
+					"id_str": "1435837962336362501",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0fBPQUYAUV4sG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0fBPQUYAUV4sG.jpg",
+					"url": "https://t.co/elMmkYwbXI",
+					"display_url": "pic.twitter.com/elMmkYwbXI",
+					"expanded_url": "https://twitter.com/xindieticket/status/1435838484908949505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435837962319630300,
+					"id_str": "1435837962319630340",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0fBPMVEAQgHoC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0fBPMVEAQgHoC.jpg",
+					"url": "https://t.co/elMmkYwbXI",
+					"display_url": "pic.twitter.com/elMmkYwbXI",
+					"expanded_url": "https://twitter.com/xindieticket/status/1435838484908949505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435837962328051700,
+					"id_str": "1435837962328051724",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E-0fBPOVkAwzt2O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-0fBPOVkAwzt2O.jpg",
+					"url": "https://t.co/elMmkYwbXI",
+					"display_url": "pic.twitter.com/elMmkYwbXI",
+					"expanded_url": "https://twitter.com/xindieticket/status/1435838484908949505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1220731080,
+			"id_str": "1220731080",
+			"name": "씬디 티켓라운지",
+			"screen_name": "xindieticket",
+			"location": "서울 마포구 어울마당로 41-1 (홍대주차장길)",
+			"description": "홍대 공연정보를 한눈에 확인할 수 있는 온오프라인 티켓판매처\n(운영시간 : 10-19시, 점심시간: 13~14시, 주말 휴무)\n☎ 02-322-2218",
+			"url": "https://t.co/dqX6O3D21p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dqX6O3D21p",
+							"expanded_url": "http://xindieticket.kr",
+							"display_url": "xindieticket.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2772,
+			"friends_count": 2599,
+			"listed_count": 21,
+			"created_at": "Tue Feb 26 07:24:04 +0000 2013",
+			"favourites_count": 5407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1200342617373827073/a1vB9pyg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1220731080/1575026135",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[2021년 9월 XINDIE'S 인디 신보 PLAYLIST]\n\n이번주에도 新SONG生SONG에 실린 8&amp;9월 신보소식들을 포함해서\n゜❤︎씬디 플레이리스트❤︎ ゜가\n&lt;9월 인디 신보소식&gt;으로 돌아왔습니다!\n-\n✿ Vlinds, 싱글 &lt;내가 말하고 있잖아(with 정선기)&gt;\n✿ 송용창, EP 앨범 &lt;향연&gt;\n✿ 홍혜림, 정규앨범 &lt;March&gt; https://t.co/elMmkYwbXI"
+	},
+	{
 		"created_at": "Thu Sep 09 04:58:28 +0000 2021",
 		"id": 1435821032783298600,
 		"id_str": "1435829937034911744",
