@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 10 13:29:25 +0000 2021",
+		"id": 1436320097396670500,
+		"id_str": "1436320909418274817",
+		"full_text": "[#Media] #루시드폴\n\n“똑같이 반복되는 것처럼 들리지만 세상의 소리라는건 똑같지 않고 반복되지 않기 때문이죠.”\n\n루시드폴 인터뷰가 공개되었습니다. FLO ‘루시드폴의 사운드 제주’ 작업 비하인드 스토리를 만나보실 수 있어요✨\n\n🔗https://t.co/0KMRl1MWwE\n\n@lucid_fall_jo #루시드폴의사운드제주 https://t.co/5od61Nyr4i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Media",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "루시드폴",
+					"indices": [
+						9,
+						14
+					]
+				},
+				{
+					"text": "루시드폴의사운드제주",
+					"indices": [
+						173,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lucid_fall_jo",
+					"name": "Lucid Fall",
+					"id": 115856799,
+					"id_str": "115856799",
+					"indices": [
+						158,
+						172
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0KMRl1MWwE",
+					"expanded_url": "http://bit.ly/3E74blO",
+					"display_url": "bit.ly/3E74blO",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1436320091818266600,
+					"id_str": "1436320091818266625",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/E-7Vg3iVkAElPoV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-7Vg3iVkAElPoV.jpg",
+					"url": "https://t.co/5od61Nyr4i",
+					"display_url": "pic.twitter.com/5od61Nyr4i",
+					"expanded_url": "https://twitter.com/antennamusic/status/1436320097396670472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436320091818266600,
+					"id_str": "1436320091818266625",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/E-7Vg3iVkAElPoV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-7Vg3iVkAElPoV.jpg",
+					"url": "https://t.co/5od61Nyr4i",
+					"display_url": "pic.twitter.com/5od61Nyr4i",
+					"expanded_url": "https://twitter.com/antennamusic/status/1436320097396670472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 유희열 '생활음악' EP1. 일요일 오후 - 안테나 유튜브 채널에서 만나보세요!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37076,
+			"friends_count": 10,
+			"listed_count": 374,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Media] #루시드폴\n\n“똑같이 반복되는 것처럼 들리지만 세상의 소리라는건 똑같지 않고 반복되지 않기 때문이죠.”\n\n루시드폴 인터뷰가 공개되었습니다. FLO ‘루시드폴의 사운드 제주’ 작업 비하인드 스토리를 만나보실 수 있어요✨\n\n🔗https://t.co/0KMRl1MWwE\n\n@lucid_fall_jo #루시드폴의사운드제주 https://t.co/5od61Nyr4i"
+	},
+	{
 		"created_at": "Fri Sep 10 13:11:16 +0000 2021",
 		"id": 1436313513870438400,
 		"id_str": "1436316345445101578",
