@@ -1,6 +1,1489 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 10 03:58:25 +0000 2021",
+		"id": 1436177150898368500,
+		"id_str": "1436177213452398593",
+		"full_text": "📍 KCON official : https://t.co/bEOyZ5kF8C\n📍 TVING : https://t.co/t1Vh1MvXJC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bEOyZ5kF8C",
+					"expanded_url": "https://youtu.be/I-__C3qMd4o",
+					"display_url": "youtu.be/I-__C3qMd4o",
+					"indices": [
+						18,
+						41
+					]
+				},
+				{
+					"url": "https://t.co/t1Vh1MvXJC",
+					"expanded_url": "https://www.tving.com/vod/player/E003602784",
+					"display_url": "tving.com/vod/player/E00…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1436162613075873800,
+		"in_reply_to_status_id_str": "1436162613075873794",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394505,
+			"friends_count": 75,
+			"listed_count": 1003,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "da",
+		"text": "📍 KCON official : https://t.co/bEOyZ5kF8C\n📍 TVING : https://t.co/t1Vh1MvXJC"
+	},
+	{
+		"created_at": "Fri Sep 10 03:58:23 +0000 2021",
+		"id": 1436162613075873800,
+		"id_str": "1436177204585639941",
+		"full_text": "[DANCE PRATICE] THE BOYZの練習室公開！\nTHE BOYZのDANCE PRATICEにハマって～しまった～❤🖤\n\n* DANCE PRACTICE FULL映像はYouTube KCON officialチャンネルPREMIUM等級と TVING利用券をお持ちの方に公開されます。\n\n#KCONTACT #KCONTACTHI5 #THEBOYZ #더보이즈 @Creker_THEBOYZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						154,
+						163
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						164,
+						176
+					]
+				},
+				{
+					"text": "THEBOYZ",
+					"indices": [
+						177,
+						185
+					]
+				},
+				{
+					"text": "더보이즈",
+					"indices": [
+						186,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Creker_THEBOYZ",
+					"name": "더보이즈(THE BOYZ)",
+					"id": 841676129245225000,
+					"id_str": "841676129245224961",
+					"indices": [
+						192,
+						207
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1436162610836033500,
+		"in_reply_to_status_id_str": "1436162610836033538",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394505,
+			"friends_count": 75,
+			"listed_count": 1003,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 101,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "[DANCE PRATICE] THE BOYZの練習室公開！\nTHE BOYZのDANCE PRATICEにハマって～しまった～❤🖤\n\n* DANCE PRACTICE FULL映像はYouTube KCON officialチャンネルPREMIUM等級と TVING利用券をお持ちの方に公開されます。\n\n#KCONTACT #KCONTACTHI5 #THEBOYZ #더보이즈 @Creker_THEBOYZ"
+	},
+	{
+		"created_at": "Fri Sep 10 03:58:19 +0000 2021",
+		"id": 1436162610836033500,
+		"id_str": "1436177191528714240",
+		"full_text": "[DANCE PRATICE] THE BOYZ의 연습실 공개!\nTHE BOYZ 댄프에 중독된~듯~해~❤🖤\n\n* DANCE PRACTICE FULL영상은 유튜브 KCON official 채널 PREMIUM 등급과 TVING 이용권 보유자에게 공개됩니다.\n\n#KCONTACT #KCONTACTHI5 #THEBOYZ #더보이즈 @Creker_THEBOYZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						141,
+						150
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						151,
+						163
+					]
+				},
+				{
+					"text": "THEBOYZ",
+					"indices": [
+						164,
+						172
+					]
+				},
+				{
+					"text": "더보이즈",
+					"indices": [
+						173,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Creker_THEBOYZ",
+					"name": "더보이즈(THE BOYZ)",
+					"id": 841676129245225000,
+					"id_str": "841676129245224961",
+					"indices": [
+						179,
+						194
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1436162519580676000,
+		"in_reply_to_status_id_str": "1436162519580676098",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394505,
+			"friends_count": 75,
+			"listed_count": 1003,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 91,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[DANCE PRATICE] THE BOYZ의 연습실 공개!\nTHE BOYZ 댄프에 중독된~듯~해~❤🖤\n\n* DANCE PRACTICE FULL영상은 유튜브 KCON official 채널 PREMIUM 등급과 TVING 이용권 보유자에게 공개됩니다.\n\n#KCONTACT #KCONTACTHI5 #THEBOYZ #더보이즈 @Creker_THEBOYZ"
+	},
+	{
+		"created_at": "Fri Sep 10 03:58:14 +0000 2021",
+		"id": 1436162519580676000,
+		"id_str": "1436177170074853376",
+		"full_text": "[DANCE PRATICE] THE BOYZ's Practice Room Revealed!\nWe're~ addicted~ to THE BOYZ's dance practice❤🖤\n\n* The full version of DANCE PRACTICE will be available to KCON:TACT PREMIUM members or TVING members.\n\n#KCONTACT #KCONTACTHI5 #THEBOYZ #더보이즈 @Creker_THEBOYZ https://t.co/rUjcVNNvpZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						203,
+						212
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						213,
+						225
+					]
+				},
+				{
+					"text": "THEBOYZ",
+					"indices": [
+						226,
+						234
+					]
+				},
+				{
+					"text": "더보이즈",
+					"indices": [
+						235,
+						240
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Creker_THEBOYZ",
+					"name": "더보이즈(THE BOYZ)",
+					"id": 841676129245225000,
+					"id_str": "841676129245224961",
+					"indices": [
+						241,
+						256
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435920604666871800,
+					"id_str": "1435920604666871823",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435920604666871823/pu/img/m_J-KBstgKaIxZwv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435920604666871823/pu/img/m_J-KBstgKaIxZwv.jpg",
+					"url": "https://t.co/rUjcVNNvpZ",
+					"display_url": "pic.twitter.com/rUjcVNNvpZ",
+					"expanded_url": "https://twitter.com/KCON_official/status/1436162519580676098/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435920604666871800,
+					"id_str": "1435920604666871823",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435920604666871823/pu/img/m_J-KBstgKaIxZwv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435920604666871823/pu/img/m_J-KBstgKaIxZwv.jpg",
+					"url": "https://t.co/rUjcVNNvpZ",
+					"display_url": "pic.twitter.com/rUjcVNNvpZ",
+					"expanded_url": "https://twitter.com/KCON_official/status/1436162519580676098/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 40407,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1435920604666871823/pu/vid/640x360/YHiyMqxPe4ZBCqtm.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1435920604666871823/pu/vid/1280x720/3R7iOn3go6VeMPZt.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1435920604666871823/pu/pl/rn-wRvWUyZsBD2Kj.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1435920604666871823/pu/vid/480x270/tPRURp9F5X4k7IGe.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394505,
+			"friends_count": 75,
+			"listed_count": 1003,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1744,
+		"favorite_count": 2781,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[DANCE PRATICE] THE BOYZ's Practice Room Revealed!\nWe're~ addicted~ to THE BOYZ's dance practice❤🖤\n\n* The full version of DANCE PRACTICE will be available to KCON:TACT PREMIUM members or TVING members.\n\n#KCONTACT #KCONTACTHI5 #THEBOYZ #더보이즈 @Creker_THEBOYZ https://t.co/rUjcVNNvpZ"
+	},
+	{
+		"created_at": "Fri Sep 10 03:30:04 +0000 2021",
+		"id": 1436165289075380200,
+		"id_str": "1436170080241557505",
+		"full_text": "너를 위해 - 위아영(WeAreYoung)\n많이 들어주세요 plz^^\n\nhttps://t.co/QCnjQ5Vlaq\nby Melon https://t.co/7yzxi8nwdZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QCnjQ5Vlaq",
+					"expanded_url": "http://kko.to/1fFT7nz40",
+					"display_url": "kko.to/1fFT7nz40",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1436165288114851800,
+					"id_str": "1436165288114851847",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/E-5IuGzVEAcasyk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-5IuGzVEAcasyk.jpg",
+					"url": "https://t.co/7yzxi8nwdZ",
+					"display_url": "pic.twitter.com/7yzxi8nwdZ",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1436165289075380224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436165288114851800,
+					"id_str": "1436165288114851847",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/E-5IuGzVEAcasyk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-5IuGzVEAcasyk.jpg",
+					"url": "https://t.co/7yzxi8nwdZ",
+					"display_url": "pic.twitter.com/7yzxi8nwdZ",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1436165289075380224/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.melon.com\" rel=\"nofollow\">MelonMusic</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2647,
+			"friends_count": 336,
+			"listed_count": 32,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 20110,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "너를 위해 - 위아영(WeAreYoung)\n많이 들어주세요 plz^^\n\nhttps://t.co/QCnjQ5Vlaq\nby Melon https://t.co/7yzxi8nwdZ"
+	},
+	{
+		"created_at": "Fri Sep 10 03:29:48 +0000 2021",
+		"id": 1436162521199624200,
+		"id_str": "1436170012218253316",
+		"full_text": "[김우주]\n부서진 모래성처럼 덩그러니 남은 힘없는 미련, [TEDDY DOG] 발매\n\n오늘 12시 싱어송라이터 김우주의 새로운 싱글 앨범\n[TEDDY DOG]가 발매되었습니다.\n\n헤어진 연인의 애착인형을 떠올리다 시작된 그리움이 담긴 노래입니다.\n\n각 온라인 음원사이트를 통해서\n감상하실 수 있습니다 https://t.co/ts5XbCAgEZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435905118742855700,
+					"id_str": "1435905118742855680",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/E-1cGQXVQAAp3Y3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-1cGQXVQAAp3Y3.jpg",
+					"url": "https://t.co/ts5XbCAgEZ",
+					"display_url": "pic.twitter.com/ts5XbCAgEZ",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1436162521199624245/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435905118742855700,
+					"id_str": "1435905118742855680",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/E-1cGQXVQAAp3Y3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-1cGQXVQAAp3Y3.jpg",
+					"url": "https://t.co/ts5XbCAgEZ",
+					"display_url": "pic.twitter.com/ts5XbCAgEZ",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1436162521199624245/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/에버루아/아일",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 811,
+			"friends_count": 8,
+			"listed_count": 17,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 952,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[김우주]\n부서진 모래성처럼 덩그러니 남은 힘없는 미련, [TEDDY DOG] 발매\n\n오늘 12시 싱어송라이터 김우주의 새로운 싱글 앨범\n[TEDDY DOG]가 발매되었습니다.\n\n헤어진 연인의 애착인형을 떠올리다 시작된 그리움이 담긴 노래입니다.\n\n각 온라인 음원사이트를 통해서\n감상하실 수 있습니다 https://t.co/ts5XbCAgEZ"
+	},
+	{
+		"created_at": "Fri Sep 10 03:29:39 +0000 2021",
+		"id": 1436162520750833700,
+		"id_str": "1436169973953597442",
+		"full_text": "[Grand Mint Festival 2021 l 페스티벌]\n\n10월 16-17일 / 10월 23-24일 총 4일 간 올림픽공원에서 개최되는 GMF2021에 데이브레이크(@Band_Daybreak), 솔루션스(@The_solutions1), SURL(@SURLofficial), 소란(@band_SORAN)이 출연합니다 🚀\n\n#그랜드민트페스티벌 #GMF2021 #가을엔GMF https://t.co/6XlfT1koD5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "그랜드민트페스티벌",
+					"indices": [
+						182,
+						192
+					]
+				},
+				{
+					"text": "GMF2021",
+					"indices": [
+						193,
+						201
+					]
+				},
+				{
+					"text": "가을엔GMF",
+					"indices": [
+						202,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Band_Daybreak",
+					"name": "데이브레이크(daybreak)",
+					"id": 475596670,
+					"id_str": "475596670",
+					"indices": [
+						95,
+						109
+					]
+				},
+				{
+					"screen_name": "The_solutions1",
+					"name": "솔루션스 THE SOLUTIONS",
+					"id": 530989602,
+					"id_str": "530989602",
+					"indices": [
+						117,
+						132
+					]
+				},
+				{
+					"screen_name": "SURLofficial",
+					"name": "SURL",
+					"id": 1007177110077632500,
+					"id_str": "1007177110077632512",
+					"indices": [
+						140,
+						153
+					]
+				},
+				{
+					"screen_name": "band_SORAN",
+					"name": "소란(SORAN)_오피셜",
+					"id": 3235980565,
+					"id_str": "3235980565",
+					"indices": [
+						159,
+						170
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1436156938144792600,
+					"id_str": "1436156938144792583",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/E-5BIEvVQAcq61j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-5BIEvVQAcq61j.jpg",
+					"url": "https://t.co/6XlfT1koD5",
+					"display_url": "pic.twitter.com/6XlfT1koD5",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1436162520750833683/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436156938144792600,
+					"id_str": "1436156938144792583",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/E-5BIEvVQAcq61j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-5BIEvVQAcq61j.jpg",
+					"url": "https://t.co/6XlfT1koD5",
+					"display_url": "pic.twitter.com/6XlfT1koD5",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1436162520750833683/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), LambC(램씨), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbKMln",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbKMln",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13018,
+			"friends_count": 1941,
+			"listed_count": 253,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Grand Mint Festival 2021 l 페스티벌]\n\n10월 16-17일 / 10월 23-24일 총 4일 간 올림픽공원에서 개최되는 GMF2021에 데이브레이크(@Band_Daybreak), 솔루션스(@The_solutions1), SURL(@SURLofficial), 소란(@band_SORAN)이 출연합니다 🚀\n\n#그랜드민트페스티벌 #GMF2021 #가을엔GMF https://t.co/6XlfT1koD5"
+	},
+	{
+		"created_at": "Fri Sep 10 03:29:30 +0000 2021",
+		"id": 1436162514077696000,
+		"id_str": "1436169935735173122",
+		"full_text": "⠀\nDAILY MIRRORBALL MUSIC | 210910 FRI\n⠀\n🔸 김우주 [TEDDY DOG]\n🔸 김진 [Down]\n🔸 여일 [호수 (in no man's island)]\n\n#김우주 #김진 #여일 #미러볼뮤직 #인디음악 https://t.co/YdGBzByIYC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김우주",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "김진",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "여일",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						122,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435763286071382000,
+					"id_str": "1435763286071382016",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435763286071382016/pu/img/bNokCn3lEOBGNoQ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435763286071382016/pu/img/bNokCn3lEOBGNoQ5.jpg",
+					"url": "https://t.co/YdGBzByIYC",
+					"display_url": "pic.twitter.com/YdGBzByIYC",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1436162514077696019/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435763286071382000,
+					"id_str": "1435763286071382016",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435763286071382016/pu/img/bNokCn3lEOBGNoQ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435763286071382016/pu/img/bNokCn3lEOBGNoQ5.jpg",
+					"url": "https://t.co/YdGBzByIYC",
+					"display_url": "pic.twitter.com/YdGBzByIYC",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1436162514077696019/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 56056,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1435763286071382016/pu/pl/4927kbCdfoR9XmBF.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1435763286071382016/pu/vid/720x720/LVBLBeem2SWI6GeO.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1435763286071382016/pu/vid/540x540/_Be-wMp9UPq77OZO.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1435763286071382016/pu/vid/320x320/EP1HCCdNus8gFTXU.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9478,
+			"friends_count": 2619,
+			"listed_count": 245,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10746,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1627032310",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⠀\nDAILY MIRRORBALL MUSIC | 210910 FRI\n⠀\n🔸 김우주 [TEDDY DOG]\n🔸 김진 [Down]\n🔸 여일 [호수 (in no man's island)]\n\n#김우주 #김진 #여일 #미러볼뮤직 #인디음악 https://t.co/YdGBzByIYC"
+	},
+	{
 		"created_at": "Fri Sep 10 02:58:23 +0000 2021",
 		"id": 1436147530442543000,
 		"id_str": "1436162104831221760",
