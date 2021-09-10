@@ -1,6 +1,1284 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 10 09:02:43 +0000 2021",
+		"id": 1436253794447372300,
+		"id_str": "1436253794447372310",
+		"full_text": "#문화가있는날 #블로그\n세월 간직한 재생공간, '문화 옷'을 입다\nhttps://t.co/NMhbiivXT7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문화가있는날",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						8,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NMhbiivXT7",
+					"expanded_url": "https://bit.ly/3A0RAhI",
+					"display_url": "bit.ly/3A0RAhI",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 466,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72873,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#문화가있는날 #블로그\n세월 간직한 재생공간, '문화 옷'을 입다\nhttps://t.co/NMhbiivXT7"
+	},
+	{
+		"created_at": "Fri Sep 10 08:58:41 +0000 2021",
+		"id": 1436245882853204000,
+		"id_str": "1436252777328652314",
+		"full_text": "今まで溜まってきたMAYの些細な悩みから人生の最大の悩みまで！\n全部JIHOONに打ち明けてください～\n皆さんの空ろな心をJIHOONがヒーリングしてあげます！\nMAYの悩みをコメントで教えてください\n\n9月18日&lt;KCON:TACT HI 5&gt;で会いましょう！\n#KCONTACT #KCONTACTHI5 #PARKJIHOON #박지훈 @Park_Jihoon_twt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						138,
+						147
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						148,
+						160
+					]
+				},
+				{
+					"text": "PARKJIHOON",
+					"indices": [
+						161,
+						172
+					]
+				},
+				{
+					"text": "박지훈",
+					"indices": [
+						173,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Park_Jihoon_twt",
+					"name": "박지훈 (ParkJihoon)",
+					"id": 1078164530843115500,
+					"id_str": "1078164530843115520",
+					"indices": [
+						178,
+						194
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1436245829623316500,
+		"in_reply_to_status_id_str": "1436245829623316485",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394574,
+			"friends_count": 75,
+			"listed_count": 1002,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 179,
+		"favorite_count": 500,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "今まで溜まってきたMAYの些細な悩みから人生の最大の悩みまで！\n全部JIHOONに打ち明けてください～\n皆さんの空ろな心をJIHOONがヒーリングしてあげます！\nMAYの悩みをコメントで教えてください\n\n9月18日&lt;KCON:TACT HI 5&gt;で会いましょう！\n#KCONTACT #KCONTACTHI5 #PARKJIHOON #박지훈 @Park_Jihoon_twt"
+	},
+	{
+		"created_at": "Fri Sep 10 08:58:33 +0000 2021",
+		"id": 1436245829623316500,
+		"id_str": "1436252747087720483",
+		"full_text": "그동안 쌓여왔던 메이의 사소한 고민부터 인생 최대 고민까지! \n전부 지훈이에게 털어놓아보세요~\n여러분의 텅 빈 마음을 지훈이가 힐링해드릴게요!\n메이의 고민을 댓글로 남겨주세요!\n\n 9월 18일 &lt;KCON:TACT HI 5&gt;에서 만나요!\n#KCONTACT #KCONTACTHI5 #PARKJIHOON #박지훈 @Park_Jihoon_twt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						138,
+						147
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						148,
+						160
+					]
+				},
+				{
+					"text": "PARKJIHOON",
+					"indices": [
+						161,
+						172
+					]
+				},
+				{
+					"text": "박지훈",
+					"indices": [
+						173,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Park_Jihoon_twt",
+					"name": "박지훈 (ParkJihoon)",
+					"id": 1078164530843115500,
+					"id_str": "1078164530843115520",
+					"indices": [
+						178,
+						194
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1436245561200554000,
+		"in_reply_to_status_id_str": "1436245561200553985",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394574,
+			"friends_count": 75,
+			"listed_count": 1002,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 237,
+		"favorite_count": 537,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "그동안 쌓여왔던 메이의 사소한 고민부터 인생 최대 고민까지! \n전부 지훈이에게 털어놓아보세요~\n여러분의 텅 빈 마음을 지훈이가 힐링해드릴게요!\n메이의 고민을 댓글로 남겨주세요!\n\n 9월 18일 &lt;KCON:TACT HI 5&gt;에서 만나요!\n#KCONTACT #KCONTACTHI5 #PARKJIHOON #박지훈 @Park_Jihoon_twt"
+	},
+	{
+		"created_at": "Fri Sep 10 08:58:27 +0000 2021",
+		"id": 1436245561200554000,
+		"id_str": "1436252721418575873",
+		"full_text": "From minor concerns to MAY's ongoing life stress!\nShare with JIHOON all your concerns~\nJIHOON will be the healing counselor for everyone!\nLeave MAY's concerns in the comments!\n\nSee you on 9/18 &lt;KCON:TACT HI 5&gt;!\n#KCONTACT #KCONTACTHI5 #PARKJIHOON #박지훈 @Park_Jihoon_twt https://t.co/KHJns31U2m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						217,
+						226
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						227,
+						239
+					]
+				},
+				{
+					"text": "PARKJIHOON",
+					"indices": [
+						240,
+						251
+					]
+				},
+				{
+					"text": "박지훈",
+					"indices": [
+						252,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Park_Jihoon_twt",
+					"name": "박지훈 (ParkJihoon)",
+					"id": 1078164530843115500,
+					"id_str": "1078164530843115520",
+					"indices": [
+						257,
+						273
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1436194536900817000,
+					"id_str": "1436194536900816902",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E-5jUnBUcAYcbci.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-5jUnBUcAYcbci.jpg",
+					"url": "https://t.co/KHJns31U2m",
+					"display_url": "pic.twitter.com/KHJns31U2m",
+					"expanded_url": "https://twitter.com/KCON_official/status/1436245561200553985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436194536900817000,
+					"id_str": "1436194536900816902",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E-5jUnBUcAYcbci.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-5jUnBUcAYcbci.jpg",
+					"url": "https://t.co/KHJns31U2m",
+					"display_url": "pic.twitter.com/KHJns31U2m",
+					"expanded_url": "https://twitter.com/KCON_official/status/1436245561200553985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1436194536896622600,
+					"id_str": "1436194536896622610",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E-5jUnAUcBItTaw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-5jUnAUcBItTaw.jpg",
+					"url": "https://t.co/KHJns31U2m",
+					"display_url": "pic.twitter.com/KHJns31U2m",
+					"expanded_url": "https://twitter.com/KCON_official/status/1436245561200553985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1436194536896622600,
+					"id_str": "1436194536896622611",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E-5jUnAUcBMEQei.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-5jUnAUcBMEQei.jpg",
+					"url": "https://t.co/KHJns31U2m",
+					"display_url": "pic.twitter.com/KHJns31U2m",
+					"expanded_url": "https://twitter.com/KCON_official/status/1436245561200553985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1436194620694622200,
+					"id_str": "1436194620694622214",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E-5jZfLUcAYMJ1K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-5jZfLUcAYMJ1K.jpg",
+					"url": "https://t.co/KHJns31U2m",
+					"display_url": "pic.twitter.com/KHJns31U2m",
+					"expanded_url": "https://twitter.com/KCON_official/status/1436245561200553985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394574,
+			"friends_count": 75,
+			"listed_count": 1002,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 313,
+		"favorite_count": 696,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "From minor concerns to MAY's ongoing life stress!\nShare with JIHOON all your concerns~\nJIHOON will be the healing counselor for everyone!\nLeave MAY's concerns in the comments!\n\nSee you on 9/18 &lt;KCON:TACT HI 5&gt;!\n#KCONTACT #KCONTACTHI5 #PARKJIHOON #박지훈 @Park_Jihoon_twt https://t.co/KHJns31U2m"
+	},
+	{
+		"created_at": "Fri Sep 10 08:58:23 +0000 2021",
+		"id": 1436238128893759500,
+		"id_str": "1436252703739588608",
+		"full_text": "[PARKJIHOON CHECK IN] MAYを思いながら\nPARKJIHOONが準備したGalleryのHI 5チャレンジバージョン！どうでしたか？\nもっと見たいPARKJIHOONの姿があれば、コメントしてください！\n\n#KCONTACT #KCONTACTHI5 #HI5CHALLENGE #PARKJIHOON #박지훈 @Park_Jihoon_twt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						124,
+						136
+					]
+				},
+				{
+					"text": "HI5CHALLENGE",
+					"indices": [
+						137,
+						150
+					]
+				},
+				{
+					"text": "PARKJIHOON",
+					"indices": [
+						151,
+						162
+					]
+				},
+				{
+					"text": "박지훈",
+					"indices": [
+						163,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Park_Jihoon_twt",
+					"name": "박지훈 (ParkJihoon)",
+					"id": 1078164530843115500,
+					"id_str": "1078164530843115520",
+					"indices": [
+						168,
+						184
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1436238126985269200,
+		"in_reply_to_status_id_str": "1436238126985269250",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394574,
+			"friends_count": 75,
+			"listed_count": 1002,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 184,
+		"favorite_count": 556,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "[PARKJIHOON CHECK IN] MAYを思いながら\nPARKJIHOONが準備したGalleryのHI 5チャレンジバージョン！どうでしたか？\nもっと見たいPARKJIHOONの姿があれば、コメントしてください！\n\n#KCONTACT #KCONTACTHI5 #HI5CHALLENGE #PARKJIHOON #박지훈 @Park_Jihoon_twt"
+	},
+	{
+		"created_at": "Fri Sep 10 08:58:17 +0000 2021",
+		"id": 1436238126985269200,
+		"id_str": "1436252677760069662",
+		"full_text": "[PARKJIHOON CHECK IN] 메이를 생각하며 박지훈이 준비한\n Gallery 하이파이브 챌린지 버전 어떠셨나요?\n더 보고 싶은 박지훈의 모습이 있다면 댓글로 남겨주세요!\n\n#KCONTACT #KCONTACTHI5 #HI5CHALLENGE #PARKJIHOON #박지훈 @Park_Jihoon_twt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						102,
+						111
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						112,
+						124
+					]
+				},
+				{
+					"text": "HI5CHALLENGE",
+					"indices": [
+						125,
+						138
+					]
+				},
+				{
+					"text": "PARKJIHOON",
+					"indices": [
+						139,
+						150
+					]
+				},
+				{
+					"text": "박지훈",
+					"indices": [
+						151,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Park_Jihoon_twt",
+					"name": "박지훈 (ParkJihoon)",
+					"id": 1078164530843115500,
+					"id_str": "1078164530843115520",
+					"indices": [
+						156,
+						172
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1436238018948436000,
+		"in_reply_to_status_id_str": "1436238018948435968",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394574,
+			"friends_count": 75,
+			"listed_count": 1002,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 221,
+		"favorite_count": 538,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[PARKJIHOON CHECK IN] 메이를 생각하며 박지훈이 준비한\n Gallery 하이파이브 챌린지 버전 어떠셨나요?\n더 보고 싶은 박지훈의 모습이 있다면 댓글로 남겨주세요!\n\n#KCONTACT #KCONTACTHI5 #HI5CHALLENGE #PARKJIHOON #박지훈 @Park_Jihoon_twt"
+	},
+	{
+		"created_at": "Fri Sep 10 08:58:15 +0000 2021",
+		"id": 1436238018948436000,
+		"id_str": "1436252668482269197",
+		"full_text": "[PARKJIHOON CHECK IN] How was PARKJIHOON's high five challenge version of Gallery for MAY?\nIf there's something else you want to see from PARKJIHOON, please leave a comment!\n\n#KCONTACT #KCONTACTHI5 #HI5CHALLENGE #PARKJIHOON #박지훈 @Park_Jihoon_twt https://t.co/1phgVwTKOq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						175,
+						184
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						185,
+						197
+					]
+				},
+				{
+					"text": "HI5CHALLENGE",
+					"indices": [
+						198,
+						211
+					]
+				},
+				{
+					"text": "PARKJIHOON",
+					"indices": [
+						212,
+						223
+					]
+				},
+				{
+					"text": "박지훈",
+					"indices": [
+						224,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Park_Jihoon_twt",
+					"name": "박지훈 (ParkJihoon)",
+					"id": 1078164530843115500,
+					"id_str": "1078164530843115520",
+					"indices": [
+						229,
+						245
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1436209812811911200,
+					"id_str": "1436209812811911176",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/E-5yHPLUcAIeLfd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-5yHPLUcAIeLfd.jpg",
+					"url": "https://t.co/1phgVwTKOq",
+					"display_url": "pic.twitter.com/1phgVwTKOq",
+					"expanded_url": "https://twitter.com/KCON_official/status/1436238018948435968/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436209812811911200,
+					"id_str": "1436209812811911176",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/E-5yHPLUcAIeLfd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-5yHPLUcAIeLfd.jpg",
+					"url": "https://t.co/1phgVwTKOq",
+					"display_url": "pic.twitter.com/1phgVwTKOq",
+					"expanded_url": "https://twitter.com/KCON_official/status/1436238018948435968/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 122289,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1436209812811911176/vid/720x1280/qXMADXJbv0uGlEpd.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1436209812811911176/pl/U3_InYo741NIqJ2H.m3u8?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1436209812811911176/vid/320x568/cwkxHNYAYarEZVwP.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1436209812811911176/vid/480x852/E4WkKEXeeY1w7rOh.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394574,
+			"friends_count": 75,
+			"listed_count": 1002,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 578,
+		"favorite_count": 984,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[PARKJIHOON CHECK IN] How was PARKJIHOON's high five challenge version of Gallery for MAY?\nIf there's something else you want to see from PARKJIHOON, please leave a comment!\n\n#KCONTACT #KCONTACTHI5 #HI5CHALLENGE #PARKJIHOON #박지훈 @Park_Jihoon_twt https://t.co/1phgVwTKOq"
+	},
+	{
 		"created_at": "Fri Sep 10 08:08:32 +0000 2021",
 		"id": 1436240156512727000,
 		"id_str": "1436240156512727045",
