@@ -1,6 +1,651 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 10 10:29:43 +0000 2021",
+		"id": 1436268422346674200,
+		"id_str": "1436275687883739139",
+		"full_text": "[#Post] #권진아\n\n8월의 권진아를 모아서 – 빅이슈 화보, bnt 화보, Playlist 비하인드🖼\nft.폴라로이드 이벤트✨\n\n🤍https://t.co/tGK7mQbxxE\n\n#KwonJinAh #빅이슈 #bnt #Playlist #비하인드 https://t.co/Ry73fRh65h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Post",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						101,
+						111
+					]
+				},
+				{
+					"text": "빅이슈",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "bnt",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "Playlist",
+					"indices": [
+						122,
+						131
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						132,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tGK7mQbxxE",
+					"expanded_url": "http://naver.me/x50EYiGD",
+					"display_url": "naver.me/x50EYiGD",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1436268414696181800,
+					"id_str": "1436268414696181766",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/E-6mg3QUUAYNME8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-6mg3QUUAYNME8.jpg",
+					"url": "https://t.co/Ry73fRh65h",
+					"display_url": "pic.twitter.com/Ry73fRh65h",
+					"expanded_url": "https://twitter.com/antennamusic/status/1436268422346674179/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436268414696181800,
+					"id_str": "1436268414696181766",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/E-6mg3QUUAYNME8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-6mg3QUUAYNME8.jpg",
+					"url": "https://t.co/Ry73fRh65h",
+					"display_url": "pic.twitter.com/Ry73fRh65h",
+					"expanded_url": "https://twitter.com/antennamusic/status/1436268422346674179/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 유희열 '생활음악' EP1. 일요일 오후 - 안테나 유튜브 채널에서 만나보세요!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37071,
+			"friends_count": 10,
+			"listed_count": 374,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3931,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Post] #권진아\n\n8월의 권진아를 모아서 – 빅이슈 화보, bnt 화보, Playlist 비하인드🖼\nft.폴라로이드 이벤트✨\n\n🤍https://t.co/tGK7mQbxxE\n\n#KwonJinAh #빅이슈 #bnt #Playlist #비하인드 https://t.co/Ry73fRh65h"
+	},
+	{
+		"created_at": "Fri Sep 10 10:29:39 +0000 2021",
+		"id": 1436268296093925400,
+		"id_str": "1436275670502494215",
+		"full_text": "[#권혁수] [#shorts]\n\n완벽한 피치의 하이 F를 보여준 서지니🎵\n이번엔 추억의 노래 커버 모음집까지?!\n\n#권혁수감성 에서 같이 불러봐요~💘\n\n👉 https://t.co/fkJdsJXn3c\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #쇼츠 #추억의노래 #커버 #cover",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "권혁수감성",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						112,
+						124
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						132,
+						146
+					]
+				},
+				{
+					"text": "쇼츠",
+					"indices": [
+						147,
+						150
+					]
+				},
+				{
+					"text": "추억의노래",
+					"indices": [
+						151,
+						157
+					]
+				},
+				{
+					"text": "커버",
+					"indices": [
+						158,
+						161
+					]
+				},
+				{
+					"text": "cover",
+					"indices": [
+						162,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fkJdsJXn3c",
+					"expanded_url": "https://youtu.be/z0twM6049lA",
+					"display_url": "youtu.be/z0twM6049lA",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 361,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#권혁수] [#shorts]\n\n완벽한 피치의 하이 F를 보여준 서지니🎵\n이번엔 추억의 노래 커버 모음집까지?!\n\n#권혁수감성 에서 같이 불러봐요~💘\n\n👉 https://t.co/fkJdsJXn3c\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #쇼츠 #추억의노래 #커버 #cover"
+	},
+	{
+		"created_at": "Fri Sep 10 10:29:31 +0000 2021",
+		"id": 1436268212438642700,
+		"id_str": "1436275636402855939",
+		"full_text": "💌 ғʀᴏᴍ ✨#에드시런✨\n새 싱글 💎𝐒𝐡𝐢𝐯𝐞𝐫𝐬💎 발매٩(♡ε♡ )۶\n🎧 https://t.co/biUOqdBLHr\n\n#EdSheeran #Equals #Shivers https://t.co/sfslOHLozq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에드시런",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"text": "EdSheeran",
+					"indices": [
+						68,
+						78
+					]
+				},
+				{
+					"text": "Equals",
+					"indices": [
+						79,
+						86
+					]
+				},
+				{
+					"text": "Shivers",
+					"indices": [
+						87,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/biUOqdBLHr",
+					"expanded_url": "https://WMK.lnk.to/dS4jWoyuFC",
+					"display_url": "WMK.lnk.to/dS4jWoyuFC",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1436218154213019600,
+					"id_str": "1436218154213019676",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1436218154213019676/pu/img/lo77Yhw3OECR7VhA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1436218154213019676/pu/img/lo77Yhw3OECR7VhA.jpg",
+					"url": "https://t.co/sfslOHLozq",
+					"display_url": "pic.twitter.com/sfslOHLozq",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1436268212438642689/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436218154213019600,
+					"id_str": "1436218154213019676",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1436218154213019676/pu/img/lo77Yhw3OECR7VhA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1436218154213019676/pu/img/lo77Yhw3OECR7VhA.jpg",
+					"url": "https://t.co/sfslOHLozq",
+					"display_url": "pic.twitter.com/sfslOHLozq",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1436268212438642689/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 24149,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1436218154213019676/pu/pl/HIqU3SQ0HXY6X6kC.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1436218154213019676/pu/vid/540x540/gEt1AR2Y8Vu68kTc.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1436218154213019676/pu/vid/720x720/tVnECxQdJ3dz5mVG.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1436218154213019676/pu/vid/320x320/VV-6AOIu_nIqJECe.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51737,
+			"friends_count": 496,
+			"listed_count": 191,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💌 ғʀᴏᴍ ✨#에드시런✨\n새 싱글 💎𝐒𝐡𝐢𝐯𝐞𝐫𝐬💎 발매٩(♡ε♡ )۶\n🎧 https://t.co/biUOqdBLHr\n\n#EdSheeran #Equals #Shivers https://t.co/sfslOHLozq"
+	},
+	{
 		"created_at": "Fri Sep 10 10:13:33 +0000 2021",
 		"id": 1436271621971583000,
 		"id_str": "1436271621971582976",
