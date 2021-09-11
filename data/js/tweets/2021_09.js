@@ -1,6 +1,1391 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 11 03:58:46 +0000 2021",
+		"id": 1436537483081273300,
+		"id_str": "1436539690610532357",
+		"full_text": "FUSE 준비 됐어요?\nFUSE are you ready?\nFUSE、準備できましたか？\n\n📍 KCON official - https://t.co/mNUBv52prN\n📍 Mnet - https://t.co/KZf9dNx78C\n📍 TVING - https://t.co/kzrLiff1Li\n\n#KCONTACTHI5 #LIVEPREMIERE #ONF #온앤오프 https://t.co/UYMJIejrP1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						159,
+						171
+					]
+				},
+				{
+					"text": "LIVEPREMIERE",
+					"indices": [
+						172,
+						185
+					]
+				},
+				{
+					"text": "ONF",
+					"indices": [
+						186,
+						190
+					]
+				},
+				{
+					"text": "온앤오프",
+					"indices": [
+						191,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mNUBv52prN",
+					"expanded_url": "https://bit.ly/3E80uwu",
+					"display_url": "bit.ly/3E80uwu",
+					"indices": [
+						67,
+						90
+					]
+				},
+				{
+					"url": "https://t.co/KZf9dNx78C",
+					"expanded_url": "https://bit.ly/3jY2KOE",
+					"display_url": "bit.ly/3jY2KOE",
+					"indices": [
+						100,
+						123
+					]
+				},
+				{
+					"url": "https://t.co/kzrLiff1Li",
+					"expanded_url": "https://bit.ly/2V6Rt52",
+					"display_url": "bit.ly/2V6Rt52",
+					"indices": [
+						134,
+						157
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1436531302774182000,
+					"id_str": "1436531302774181889",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/E--Vm9qVkAEM-5G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E--Vm9qVkAEM-5G.jpg",
+					"url": "https://t.co/UYMJIejrP1",
+					"display_url": "pic.twitter.com/UYMJIejrP1",
+					"expanded_url": "https://twitter.com/KCON_official/status/1436537483081273351/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436531302774182000,
+					"id_str": "1436531302774181889",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/E--Vm9qVkAEM-5G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E--Vm9qVkAEM-5G.jpg",
+					"url": "https://t.co/UYMJIejrP1",
+					"display_url": "pic.twitter.com/UYMJIejrP1",
+					"expanded_url": "https://twitter.com/KCON_official/status/1436537483081273351/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1436531302870646800,
+					"id_str": "1436531302870646785",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/E--Vm-BVgAEIrQb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E--Vm-BVgAEIrQb.jpg",
+					"url": "https://t.co/UYMJIejrP1",
+					"display_url": "pic.twitter.com/UYMJIejrP1",
+					"expanded_url": "https://twitter.com/KCON_official/status/1436537483081273351/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1436531303000596500,
+					"id_str": "1436531303000596481",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/E--Vm-gUYAEgeYs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E--Vm-gUYAEgeYs.jpg",
+					"url": "https://t.co/UYMJIejrP1",
+					"display_url": "pic.twitter.com/UYMJIejrP1",
+					"expanded_url": "https://twitter.com/KCON_official/status/1436537483081273351/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1436531303143198700,
+					"id_str": "1436531303143198725",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/E--Vm_CUUAUVmBv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E--Vm_CUUAUVmBv.jpg",
+					"url": "https://t.co/UYMJIejrP1",
+					"display_url": "pic.twitter.com/UYMJIejrP1",
+					"expanded_url": "https://twitter.com/KCON_official/status/1436537483081273351/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394777,
+			"friends_count": 75,
+			"listed_count": 1002,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 384,
+		"favorite_count": 643,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "FUSE 준비 됐어요?\nFUSE are you ready?\nFUSE、準備できましたか？\n\n📍 KCON official - https://t.co/mNUBv52prN\n📍 Mnet - https://t.co/KZf9dNx78C\n📍 TVING - https://t.co/kzrLiff1Li\n\n#KCONTACTHI5 #LIVEPREMIERE #ONF #온앤오프 https://t.co/UYMJIejrP1"
+	},
+	{
+		"created_at": "Sat Sep 11 03:58:37 +0000 2021",
+		"id": 1436532647291879400,
+		"id_str": "1436539652350042113",
+		"full_text": "ONFの練習室にKCON:TACT HI 5が訪ねてきました！\nまもなく1時にあるLIVE PREMIEREで会いましょう！📺💨\n\n📍 KCON official - https://t.co/mNUBv4KO3d\n📍 Mnet - https://t.co/KZf9dNfvK2\n📍 TVING - https://t.co/kzrLieXqmI\n\n#KCONTACTHI5 #온앤오프 #ONF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						176,
+						188
+					]
+				},
+				{
+					"text": "온앤오프",
+					"indices": [
+						189,
+						194
+					]
+				},
+				{
+					"text": "ONF",
+					"indices": [
+						195,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mNUBv4KO3d",
+					"expanded_url": "https://bit.ly/3E80uwu",
+					"display_url": "bit.ly/3E80uwu",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/KZf9dNfvK2",
+					"expanded_url": "https://bit.ly/3jY2KOE",
+					"display_url": "bit.ly/3jY2KOE",
+					"indices": [
+						117,
+						140
+					]
+				},
+				{
+					"url": "https://t.co/kzrLieXqmI",
+					"expanded_url": "https://bit.ly/2V6Rt52",
+					"display_url": "bit.ly/2V6Rt52",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1436532613477396500,
+		"in_reply_to_status_id_str": "1436532613477396480",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394777,
+			"friends_count": 75,
+			"listed_count": 1002,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "ONFの練習室にKCON:TACT HI 5が訪ねてきました！\nまもなく1時にあるLIVE PREMIEREで会いましょう！📺💨\n\n📍 KCON official - https://t.co/mNUBv4KO3d\n📍 Mnet - https://t.co/KZf9dNfvK2\n📍 TVING - https://t.co/kzrLieXqmI\n\n#KCONTACTHI5 #온앤오프 #ONF"
+	},
+	{
+		"created_at": "Sat Sep 11 03:58:33 +0000 2021",
+		"id": 1436532613477396500,
+		"id_str": "1436539635065409540",
+		"full_text": "ONF의 연습실에 KCON:TACT HI 5가 찾아왔습니다!\n잠시후 1시에 있을 LIVE PREMIERE에서 만나요!📺💨\n\n📍 KCON official - https://t.co/mNUBv4KO3d\n📍 Mnet - https://t.co/KZf9dNfvK2\n📍 TVING - https://t.co/kzrLieXqmI\n\n#KCONTACTHI5 #온앤오프 #ONF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						179,
+						191
+					]
+				},
+				{
+					"text": "온앤오프",
+					"indices": [
+						192,
+						197
+					]
+				},
+				{
+					"text": "ONF",
+					"indices": [
+						198,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mNUBv4KO3d",
+					"expanded_url": "https://bit.ly/3E80uwu",
+					"display_url": "bit.ly/3E80uwu",
+					"indices": [
+						87,
+						110
+					]
+				},
+				{
+					"url": "https://t.co/KZf9dNfvK2",
+					"expanded_url": "https://bit.ly/3jY2KOE",
+					"display_url": "bit.ly/3jY2KOE",
+					"indices": [
+						120,
+						143
+					]
+				},
+				{
+					"url": "https://t.co/kzrLieXqmI",
+					"expanded_url": "https://bit.ly/2V6Rt52",
+					"display_url": "bit.ly/2V6Rt52",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1436532450692378600,
+		"in_reply_to_status_id_str": "1436532450692378625",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394777,
+			"friends_count": 75,
+			"listed_count": 1002,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ONF의 연습실에 KCON:TACT HI 5가 찾아왔습니다!\n잠시후 1시에 있을 LIVE PREMIERE에서 만나요!📺💨\n\n📍 KCON official - https://t.co/mNUBv4KO3d\n📍 Mnet - https://t.co/KZf9dNfvK2\n📍 TVING - https://t.co/kzrLieXqmI\n\n#KCONTACTHI5 #온앤오프 #ONF"
+	},
+	{
+		"created_at": "Sat Sep 11 03:58:27 +0000 2021",
+		"id": 1436532450692378600,
+		"id_str": "1436539609392074752",
+		"full_text": "KCON:TACT HI 5 is here at ONF's practice room!\nSee you soon at 1pm on LIVE PREMIERE!📺💨\n\n📍 KCON official - https://t.co/mNUBv52prN\n📍 Mnet - https://t.co/KZf9dNx78C\n📍 TVING - https://t.co/kzrLiff1Li\n\n#KCONTACTHI5 #온앤오프 #ONF https://t.co/kUty5yiy8i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						198,
+						210
+					]
+				},
+				{
+					"text": "온앤오프",
+					"indices": [
+						211,
+						216
+					]
+				},
+				{
+					"text": "ONF",
+					"indices": [
+						217,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mNUBv52prN",
+					"expanded_url": "https://bit.ly/3E80uwu",
+					"display_url": "bit.ly/3E80uwu",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/KZf9dNx78C",
+					"expanded_url": "https://bit.ly/3jY2KOE",
+					"display_url": "bit.ly/3jY2KOE",
+					"indices": [
+						139,
+						162
+					]
+				},
+				{
+					"url": "https://t.co/kzrLiff1Li",
+					"expanded_url": "https://bit.ly/2V6Rt52",
+					"display_url": "bit.ly/2V6Rt52",
+					"indices": [
+						173,
+						196
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1436531162998919200,
+					"id_str": "1436531162998919172",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/E--Ve09UUAQ7k6T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E--Ve09UUAQ7k6T.jpg",
+					"url": "https://t.co/kUty5yiy8i",
+					"display_url": "pic.twitter.com/kUty5yiy8i",
+					"expanded_url": "https://twitter.com/KCON_official/status/1436532450692378625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436531162998919200,
+					"id_str": "1436531162998919172",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/E--Ve09UUAQ7k6T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E--Ve09UUAQ7k6T.jpg",
+					"url": "https://t.co/kUty5yiy8i",
+					"display_url": "pic.twitter.com/kUty5yiy8i",
+					"expanded_url": "https://twitter.com/KCON_official/status/1436532450692378625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1436531163003195400,
+					"id_str": "1436531163003195393",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/E--Ve0-VkAEwdrb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E--Ve0-VkAEwdrb.jpg",
+					"url": "https://t.co/kUty5yiy8i",
+					"display_url": "pic.twitter.com/kUty5yiy8i",
+					"expanded_url": "https://twitter.com/KCON_official/status/1436532450692378625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394777,
+			"friends_count": 75,
+			"listed_count": 1002,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 508,
+		"favorite_count": 921,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KCON:TACT HI 5 is here at ONF's practice room!\nSee you soon at 1pm on LIVE PREMIERE!📺💨\n\n📍 KCON official - https://t.co/mNUBv52prN\n📍 Mnet - https://t.co/KZf9dNx78C\n📍 TVING - https://t.co/kzrLiff1Li\n\n#KCONTACTHI5 #온앤오프 #ONF https://t.co/kUty5yiy8i"
+	},
+	{
+		"created_at": "Sat Sep 11 03:58:21 +0000 2021",
+		"id": 1436525008507916300,
+		"id_str": "1436539583727030274",
+		"full_text": "📍 KCON official Full ver. : https://t.co/2QC6aQg9FO\n📍 TVING : https://t.co/t1Vh1MvXJC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2QC6aQg9FO",
+					"expanded_url": "https://youtu.be/HJCfgOODPfs",
+					"display_url": "youtu.be/HJCfgOODPfs",
+					"indices": [
+						28,
+						51
+					]
+				},
+				{
+					"url": "https://t.co/t1Vh1MvXJC",
+					"expanded_url": "https://www.tving.com/vod/player/E003602784",
+					"display_url": "tving.com/vod/player/E00…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1436525006603751400,
+		"in_reply_to_status_id_str": "1436525006603751425",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394777,
+			"friends_count": 75,
+			"listed_count": 1002,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📍 KCON official Full ver. : https://t.co/2QC6aQg9FO\n📍 TVING : https://t.co/t1Vh1MvXJC"
+	},
+	{
+		"created_at": "Sat Sep 11 03:58:14 +0000 2021",
+		"id": 1436525006603751400,
+		"id_str": "1436539557974102016",
+		"full_text": "[DANCE PRACTICE] Weeeklyの練習室公開!\nWeeeklyのDANCE PRATICE見にくる人~?✨\nシークレットなDANCE PRATICEを楽しむChance~\n\n* DANCE PRACTICE FULL映像はYouTube KCON officialチャンネルPREMIUM等級と TVING利用券をお持ちの方に公開されます\n\n#KCONTACT #KCONTACTHI5 #Weeekly #위클리 @_Weeekly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						179,
+						188
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						189,
+						201
+					]
+				},
+				{
+					"text": "Weeekly",
+					"indices": [
+						202,
+						210
+					]
+				},
+				{
+					"text": "위클리",
+					"indices": [
+						211,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_Weeekly",
+					"name": "Weeekly (위클리)",
+					"id": 874918428825485300,
+					"id_str": "874918428825485312",
+					"indices": [
+						216,
+						225
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1436525004540104700,
+		"in_reply_to_status_id_str": "1436525004540104708",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394777,
+			"friends_count": 75,
+			"listed_count": 1002,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "[DANCE PRACTICE] Weeeklyの練習室公開!\nWeeeklyのDANCE PRATICE見にくる人~?✨\nシークレットなDANCE PRATICEを楽しむChance~\n\n* DANCE PRACTICE FULL映像はYouTube KCON officialチャンネルPREMIUM等級と TVING利用券をお持ちの方に公開されます\n\n#KCONTACT #KCONTACTHI5 #Weeekly #위클리 @_Weeekly"
+	},
+	{
+		"created_at": "Sat Sep 11 03:29:29 +0000 2021",
+		"id": 1436524904875114500,
+		"id_str": "1436532319779708928",
+		"full_text": "DAILY MIRRORBALL MUSIC | 210911 SAT\n⠀\n🔸 손후 [내 평생 단 하나의]\n⠀\n#손후 #미러볼뮤직 #인디음악 https://t.co/4Pf7uBd9ZY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "손후",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						69,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1436208667989217300,
+					"id_str": "1436208667989217292",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1436208667989217292/pu/img/p1R4LLaFjZ5QGyLC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1436208667989217292/pu/img/p1R4LLaFjZ5QGyLC.jpg",
+					"url": "https://t.co/4Pf7uBd9ZY",
+					"display_url": "pic.twitter.com/4Pf7uBd9ZY",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1436524904875114501/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436208667989217300,
+					"id_str": "1436208667989217292",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1436208667989217292/pu/img/p1R4LLaFjZ5QGyLC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1436208667989217292/pu/img/p1R4LLaFjZ5QGyLC.jpg",
+					"url": "https://t.co/4Pf7uBd9ZY",
+					"display_url": "pic.twitter.com/4Pf7uBd9ZY",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1436524904875114501/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 56056,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1436208667989217292/pu/vid/540x540/5K8tBYmEvrMER72l.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1436208667989217292/pu/vid/720x720/NVgglP4e3g5RZhlO.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1436208667989217292/pu/vid/320x320/xk9YnEABCDUt61Cg.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1436208667989217292/pu/pl/KwX0y0IyH5X5y3rT.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9479,
+			"friends_count": 2619,
+			"listed_count": 245,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10746,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1627032310",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "DAILY MIRRORBALL MUSIC | 210911 SAT\n⠀\n🔸 손후 [내 평생 단 하나의]\n⠀\n#손후 #미러볼뮤직 #인디음악 https://t.co/4Pf7uBd9ZY"
+	},
+	{
 		"created_at": "Fri Sep 10 13:29:25 +0000 2021",
 		"id": 1436320097396670500,
 		"id_str": "1436320909418274817",
