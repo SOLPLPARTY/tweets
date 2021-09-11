@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 11 07:58:56 +0000 2021",
+		"id": 1436585410524713000,
+		"id_str": "1436600130665426945",
+		"full_text": "[T1419 CHECK IN] EDELWEISSを思いながら\nT1419が準備したFLEXのHI 5チャレンジバージョン！どうでしたか？\nもっと見たいT1419の姿があれば、コメントしてください！\n\n#KCONTACT #KCONTACTHI5 #HI5CHALLENGE #T1419 #티일사일구 @T1419_official",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						102,
+						111
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						112,
+						124
+					]
+				},
+				{
+					"text": "HI5CHALLENGE",
+					"indices": [
+						125,
+						138
+					]
+				},
+				{
+					"text": "T1419",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "티일사일구",
+					"indices": [
+						146,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "T1419_official",
+					"name": "T1419_official",
+					"id": 1282862827477168000,
+					"id_str": "1282862827477168128",
+					"indices": [
+						153,
+						168
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1436585407613837300,
+		"in_reply_to_status_id_str": "1436585407613837315",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394800,
+			"friends_count": 75,
+			"listed_count": 1004,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "[T1419 CHECK IN] EDELWEISSを思いながら\nT1419が準備したFLEXのHI 5チャレンジバージョン！どうでしたか？\nもっと見たいT1419の姿があれば、コメントしてください！\n\n#KCONTACT #KCONTACTHI5 #HI5CHALLENGE #T1419 #티일사일구 @T1419_official"
+	},
+	{
+		"created_at": "Sat Sep 11 07:58:50 +0000 2021",
+		"id": 1436585407613837300,
+		"id_str": "1436600105889566721",
+		"full_text": "[T1419 CHECK IN] EDELWEISS를 생각하며 T1419가 준비한\nFLEX 하이파이브 챌린지 버전 어떠셨나요?\n더 보고 싶은 T1419의 모습이 있다면 댓글로 남겨주세요!\n\n#KCONTACT #KCONTACTHI5 #HI5CHALLENGE #T1419 #티일사일구 @T1419_official",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						104,
+						113
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						114,
+						126
+					]
+				},
+				{
+					"text": "HI5CHALLENGE",
+					"indices": [
+						127,
+						140
+					]
+				},
+				{
+					"text": "T1419",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"text": "티일사일구",
+					"indices": [
+						148,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "T1419_official",
+					"name": "T1419_official",
+					"id": 1282862827477168000,
+					"id_str": "1282862827477168128",
+					"indices": [
+						155,
+						170
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1436585299367190500,
+		"in_reply_to_status_id_str": "1436585299367190536",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 394800,
+			"friends_count": 75,
+			"listed_count": 1004,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[T1419 CHECK IN] EDELWEISS를 생각하며 T1419가 준비한\nFLEX 하이파이브 챌린지 버전 어떠셨나요?\n더 보고 싶은 T1419의 모습이 있다면 댓글로 남겨주세요!\n\n#KCONTACT #KCONTACTHI5 #HI5CHALLENGE #T1419 #티일사일구 @T1419_official"
+	},
+	{
 		"created_at": "Sat Sep 11 05:58:41 +0000 2021",
 		"id": 1436558417062097000,
 		"id_str": "1436569868623560705",
