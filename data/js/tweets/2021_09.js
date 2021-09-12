@@ -1,6 +1,400 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 12 04:58:21 +0000 2021",
+		"id": 1436904263121178600,
+		"id_str": "1436917071015731200",
+		"full_text": "💥LIVE PREMIERE with Dreamcatcher 視聴イベントオープン!💥\nDreamcatcherと共にしたKCON:TACT HI 5 LIVE PREMIERE視聴画面を撮影し、\n#KCONTACTHI5 #LIVEPREMIERE #Dreamcatcher_HIPARTY ハッシュタグ入りでTwitterにアップしてください。\n\n詳しいイベント内容はイメージをご確認ください！ https://t.co/eMyJFx6UYR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						101,
+						113
+					]
+				},
+				{
+					"text": "LIVEPREMIERE",
+					"indices": [
+						114,
+						127
+					]
+				},
+				{
+					"text": "Dreamcatcher_HIPARTY",
+					"indices": [
+						128,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1436891640661090300,
+					"id_str": "1436891640661090307",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/E_DdVY5VIAMP1lp.png",
+					"media_url_https": "https://pbs.twimg.com/media/E_DdVY5VIAMP1lp.png",
+					"url": "https://t.co/eMyJFx6UYR",
+					"display_url": "pic.twitter.com/eMyJFx6UYR",
+					"expanded_url": "https://twitter.com/KCON_official/status/1436904263121178627/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 597,
+							"h": 893,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 597,
+							"h": 893,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436891640661090300,
+					"id_str": "1436891640661090307",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/E_DdVY5VIAMP1lp.png",
+					"media_url_https": "https://pbs.twimg.com/media/E_DdVY5VIAMP1lp.png",
+					"url": "https://t.co/eMyJFx6UYR",
+					"display_url": "pic.twitter.com/eMyJFx6UYR",
+					"expanded_url": "https://twitter.com/KCON_official/status/1436904263121178627/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 597,
+							"h": 893,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 597,
+							"h": 893,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1436904255651139600,
+		"in_reply_to_status_id_str": "1436904255651139584",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395162,
+			"friends_count": 75,
+			"listed_count": 1004,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 98,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "💥LIVE PREMIERE with Dreamcatcher 視聴イベントオープン!💥\nDreamcatcherと共にしたKCON:TACT HI 5 LIVE PREMIERE視聴画面を撮影し、\n#KCONTACTHI5 #LIVEPREMIERE #Dreamcatcher_HIPARTY ハッシュタグ入りでTwitterにアップしてください。\n\n詳しいイベント内容はイメージをご確認ください！ https://t.co/eMyJFx6UYR"
+	},
+	{
+		"created_at": "Sun Sep 12 04:58:18 +0000 2021",
+		"id": 1436904255651139600,
+		"id_str": "1436917062157414403",
+		"full_text": "💥LIVE PREMIERE with Dreamcatcher 시청 인증 이벤트 오픈!💥\nDreamcatcher와 함께한 KCON:TACT HI 5 LIVE PREMIERE 시청 화면을 촬영,\n#KCONTACTHI5 #LIVEPREMIERE #Dreamcatcher_HIPARTY 해시태그를 넣어 트위터에 올려주세요.\n\n자세한 이벤트 내용은 이미지를 확인해주세요! https://t.co/JMG3PPrKhs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						106,
+						118
+					]
+				},
+				{
+					"text": "LIVEPREMIERE",
+					"indices": [
+						119,
+						132
+					]
+				},
+				{
+					"text": "Dreamcatcher_HIPARTY",
+					"indices": [
+						133,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1436891596763525000,
+					"id_str": "1436891596763525121",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/E_DdS1XVcAECRzr.png",
+					"media_url_https": "https://pbs.twimg.com/media/E_DdS1XVcAECRzr.png",
+					"url": "https://t.co/JMG3PPrKhs",
+					"display_url": "pic.twitter.com/JMG3PPrKhs",
+					"expanded_url": "https://twitter.com/KCON_official/status/1436904255651139584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 596,
+							"h": 893,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 596,
+							"h": 893,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436891596763525000,
+					"id_str": "1436891596763525121",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/E_DdS1XVcAECRzr.png",
+					"media_url_https": "https://pbs.twimg.com/media/E_DdS1XVcAECRzr.png",
+					"url": "https://t.co/JMG3PPrKhs",
+					"display_url": "pic.twitter.com/JMG3PPrKhs",
+					"expanded_url": "https://twitter.com/KCON_official/status/1436904255651139584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 596,
+							"h": 893,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 596,
+							"h": 893,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1436904247564509200,
+		"in_reply_to_status_id_str": "1436904247564509188",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395162,
+			"friends_count": 75,
+			"listed_count": 1004,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 126,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💥LIVE PREMIERE with Dreamcatcher 시청 인증 이벤트 오픈!💥\nDreamcatcher와 함께한 KCON:TACT HI 5 LIVE PREMIERE 시청 화면을 촬영,\n#KCONTACTHI5 #LIVEPREMIERE #Dreamcatcher_HIPARTY 해시태그를 넣어 트위터에 올려주세요.\n\n자세한 이벤트 내용은 이미지를 확인해주세요! https://t.co/JMG3PPrKhs"
+	},
+	{
 		"created_at": "Sun Sep 12 03:58:14 +0000 2021",
 		"id": 1436887325812801500,
 		"id_str": "1436901945546002432",
