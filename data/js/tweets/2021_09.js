@@ -1,6 +1,354 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 12 09:58:29 +0000 2021",
+		"id": 1436979345805824000,
+		"id_str": "1436992603279474696",
+		"full_text": "📍 KCON official Full ver. : https://t.co/M4VVOJRhaQ\n📍 TVING : https://t.co/3amTzPxfnU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M4VVOJRhaQ",
+					"expanded_url": "https://youtu.be/YBOa-zcFkkM",
+					"display_url": "youtu.be/YBOa-zcFkkM",
+					"indices": [
+						28,
+						51
+					]
+				},
+				{
+					"url": "https://t.co/3amTzPxfnU",
+					"expanded_url": "http://www.tving.com/vod/player/E003604027",
+					"display_url": "tving.com/vod/player/E00…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1436977983378444300,
+		"in_reply_to_status_id_str": "1436977983378444292",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395245,
+			"friends_count": 75,
+			"listed_count": 1005,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10817,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📍 KCON official Full ver. : https://t.co/M4VVOJRhaQ\n📍 TVING : https://t.co/3amTzPxfnU"
+	},
+	{
+		"created_at": "Sun Sep 12 09:58:21 +0000 2021",
+		"id": 1436977983378444300,
+		"id_str": "1436992569184071687",
+		"full_text": "[DANCE PRACTICE] ONFの練習室公開！\nOK! ONFのDANCE PRATICEが降り注ぐ~🎵\nDANCE PRATICEにグッとハマった君！\n\n* DANCE PRACTICE FULL映像はYouTube KCON officialチャンネルPREMIUM等級と TVING利用券をお持ちの方に公開されます。",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1436977981298077700,
+		"in_reply_to_status_id_str": "1436977981298077703",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395245,
+			"friends_count": 75,
+			"listed_count": 1005,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10817,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "[DANCE PRACTICE] ONFの練習室公開！\nOK! ONFのDANCE PRATICEが降り注ぐ~🎵\nDANCE PRATICEにグッとハマった君！\n\n* DANCE PRACTICE FULL映像はYouTube KCON officialチャンネルPREMIUM等級と TVING利用券をお持ちの方に公開されます。"
+	},
+	{
+		"created_at": "Sun Sep 12 09:58:18 +0000 2021",
+		"id": 1436977981298077700,
+		"id_str": "1436992555883839490",
+		"full_text": "[DANCE PRACTICE] ONF의 연습실 공개!\nOK! 온앤오프 댄프가 쏟아진다~🎵\n나나나나나나나 댄프에 쏙 빠진 너\n\n* DANCE PRACTICE FULL영상은 유튜브 KCON official 채널 PREMIUM 등급과 TVING 이용권 보유자에게 공개됩니다.\n\n#KCONTACT #KCONTACTHI5 #ONF #온앤오프 @wm_on7off",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						152,
+						161
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						162,
+						174
+					]
+				},
+				{
+					"text": "ONF",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "온앤오프",
+					"indices": [
+						180,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wm_on7off",
+					"name": "온앤오프 (ONF) Official",
+					"id": 893085958119211000,
+					"id_str": "893085958119211011",
+					"indices": [
+						186,
+						196
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1436977885026259000,
+		"in_reply_to_status_id_str": "1436977885026258944",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395245,
+			"friends_count": 75,
+			"listed_count": 1005,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10817,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[DANCE PRACTICE] ONF의 연습실 공개!\nOK! 온앤오프 댄프가 쏟아진다~🎵\n나나나나나나나 댄프에 쏙 빠진 너\n\n* DANCE PRACTICE FULL영상은 유튜브 KCON official 채널 PREMIUM 등급과 TVING 이용권 보유자에게 공개됩니다.\n\n#KCONTACT #KCONTACTHI5 #ONF #온앤오프 @wm_on7off"
+	},
+	{
 		"created_at": "Sun Sep 12 08:11:16 +0000 2021",
 		"id": 1436955785217470500,
 		"id_str": "1436965623637192705",
