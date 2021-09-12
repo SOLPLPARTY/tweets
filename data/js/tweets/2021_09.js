@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 12 02:58:26 +0000 2021",
+		"id": 1436883830837694500,
+		"id_str": "1436886894198075403",
+		"full_text": "Dreamcatcherの練習室にKCON:TACT HI 5が訪ねてきました！\nまもなく12時にあるLIVE PREMIEREで会いましょう！📺💨\n\n📍 KCON official - https://t.co/wv6ilNXVwH\n📍 Mnet - https://t.co/PwTJLL12Ts\n📍 TVING - https://t.co/kzrLieXqmI\n\n#KCONTACTHI5 #드림캐쳐 #Dreamcatcher",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						186,
+						198
+					]
+				},
+				{
+					"text": "드림캐쳐",
+					"indices": [
+						199,
+						204
+					]
+				},
+				{
+					"text": "Dreamcatcher",
+					"indices": [
+						205,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wv6ilNXVwH",
+					"expanded_url": "https://bit.ly/2X99sIv",
+					"display_url": "bit.ly/2X99sIv",
+					"indices": [
+						94,
+						117
+					]
+				},
+				{
+					"url": "https://t.co/PwTJLL12Ts",
+					"expanded_url": "https://bit.ly/2X4ecQj",
+					"display_url": "bit.ly/2X4ecQj",
+					"indices": [
+						127,
+						150
+					]
+				},
+				{
+					"url": "https://t.co/kzrLieXqmI",
+					"expanded_url": "https://bit.ly/2V6Rt52",
+					"display_url": "bit.ly/2V6Rt52",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1436883828438569000,
+		"in_reply_to_status_id_str": "1436883828438568965",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395169,
+			"friends_count": 75,
+			"listed_count": 1004,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 620,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "Dreamcatcherの練習室にKCON:TACT HI 5が訪ねてきました！\nまもなく12時にあるLIVE PREMIEREで会いましょう！📺💨\n\n📍 KCON official - https://t.co/wv6ilNXVwH\n📍 Mnet - https://t.co/PwTJLL12Ts\n📍 TVING - https://t.co/kzrLieXqmI\n\n#KCONTACTHI5 #드림캐쳐 #Dreamcatcher"
+	},
+	{
+		"created_at": "Sun Sep 12 02:58:20 +0000 2021",
+		"id": 1436883828438569000,
+		"id_str": "1436886867950063622",
+		"full_text": "Dreamcatcher의 연습실에 KCON:TACT HI 5가 찾아왔습니다!\n잠시후 12시에 있을 LIVE PREMIERE에서 만나요!📺💨\n\n📍 KCON official - https://t.co/wv6ilNXVwH\n📍 Mnet - https://t.co/PwTJLL12Ts\n📍 TVING - https://t.co/kzrLieXqmI\n\n#KCONTACTHI5 #드림캐쳐 #Dreamcatcher",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						189,
+						201
+					]
+				},
+				{
+					"text": "드림캐쳐",
+					"indices": [
+						202,
+						207
+					]
+				},
+				{
+					"text": "Dreamcatcher",
+					"indices": [
+						208,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wv6ilNXVwH",
+					"expanded_url": "https://bit.ly/2X99sIv",
+					"display_url": "bit.ly/2X99sIv",
+					"indices": [
+						97,
+						120
+					]
+				},
+				{
+					"url": "https://t.co/PwTJLL12Ts",
+					"expanded_url": "https://bit.ly/2X4ecQj",
+					"display_url": "bit.ly/2X4ecQj",
+					"indices": [
+						130,
+						153
+					]
+				},
+				{
+					"url": "https://t.co/kzrLieXqmI",
+					"expanded_url": "https://bit.ly/2V6Rt52",
+					"display_url": "bit.ly/2V6Rt52",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1436883824315490300,
+		"in_reply_to_status_id_str": "1436883824315490308",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395169,
+			"friends_count": 75,
+			"listed_count": 1004,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 558,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Dreamcatcher의 연습실에 KCON:TACT HI 5가 찾아왔습니다!\n잠시후 12시에 있을 LIVE PREMIERE에서 만나요!📺💨\n\n📍 KCON official - https://t.co/wv6ilNXVwH\n📍 Mnet - https://t.co/PwTJLL12Ts\n📍 TVING - https://t.co/kzrLieXqmI\n\n#KCONTACTHI5 #드림캐쳐 #Dreamcatcher"
+	},
+	{
 		"created_at": "Sun Sep 12 00:58:31 +0000 2021",
 		"id": 1436843519784599600,
 		"id_str": "1436856715459366913",
