@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 12 03:58:14 +0000 2021",
+		"id": 1436887325812801500,
+		"id_str": "1436901945546002432",
+		"full_text": "InSomnia 준비 됐어요?\nInSomnia are you ready?\nInSomnia、準備できましたか？\n\n📍 KCON official - https://t.co/wv6ilNXVwH\n📍 Mnet - https://t.co/PwTJLL12Ts\n📍 TVING - https://t.co/kzrLieXqmI\n\n#KCONTACTHI5 #LIVEPREMIERE  #드림캐쳐 #Dreamcatcher https://t.co/JVF7UPQ0U2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						171,
+						183
+					]
+				},
+				{
+					"text": "LIVEPREMIERE",
+					"indices": [
+						184,
+						197
+					]
+				},
+				{
+					"text": "드림캐쳐",
+					"indices": [
+						199,
+						204
+					]
+				},
+				{
+					"text": "Dreamcatcher",
+					"indices": [
+						205,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wv6ilNXVwH",
+					"expanded_url": "https://bit.ly/2X99sIv",
+					"display_url": "bit.ly/2X99sIv",
+					"indices": [
+						79,
+						102
+					]
+				},
+				{
+					"url": "https://t.co/PwTJLL12Ts",
+					"expanded_url": "https://bit.ly/2X4ecQj",
+					"display_url": "bit.ly/2X4ecQj",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/kzrLieXqmI",
+					"expanded_url": "https://bit.ly/2V6Rt52",
+					"display_url": "bit.ly/2V6Rt52",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1436887193289576400,
+					"id_str": "1436887193289576454",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E_DZShJVUAYbPnR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_DZShJVUAYbPnR.jpg",
+					"url": "https://t.co/JVF7UPQ0U2",
+					"display_url": "pic.twitter.com/JVF7UPQ0U2",
+					"expanded_url": "https://twitter.com/KCON_official/status/1436887325812801540/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436887193289576400,
+					"id_str": "1436887193289576454",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E_DZShJVUAYbPnR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_DZShJVUAYbPnR.jpg",
+					"url": "https://t.co/JVF7UPQ0U2",
+					"display_url": "pic.twitter.com/JVF7UPQ0U2",
+					"expanded_url": "https://twitter.com/KCON_official/status/1436887325812801540/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1436887193272742000,
+					"id_str": "1436887193272741893",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E_DZShFUcAU3csR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_DZShFUcAU3csR.jpg",
+					"url": "https://t.co/JVF7UPQ0U2",
+					"display_url": "pic.twitter.com/JVF7UPQ0U2",
+					"expanded_url": "https://twitter.com/KCON_official/status/1436887325812801540/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395165,
+			"friends_count": 75,
+			"listed_count": 1004,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 579,
+		"favorite_count": 2180,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "InSomnia 준비 됐어요?\nInSomnia are you ready?\nInSomnia、準備できましたか？\n\n📍 KCON official - https://t.co/wv6ilNXVwH\n📍 Mnet - https://t.co/PwTJLL12Ts\n📍 TVING - https://t.co/kzrLieXqmI\n\n#KCONTACTHI5 #LIVEPREMIERE  #드림캐쳐 #Dreamcatcher https://t.co/JVF7UPQ0U2"
+	},
+	{
 		"created_at": "Sun Sep 12 02:58:26 +0000 2021",
 		"id": 1436883830837694500,
 		"id_str": "1436886894198075403",
