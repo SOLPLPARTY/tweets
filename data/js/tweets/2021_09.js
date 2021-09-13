@@ -1,6 +1,567 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 13 02:29:43 +0000 2021",
+		"id": 1437237200198910000,
+		"id_str": "1437242054946480131",
+		"full_text": "[스케줄 안내] 9/13(월) ~ 9/19(일) 스케줄  📬\n◾ https://t.co/kAniNJ6zfR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kAniNJ6zfR",
+					"expanded_url": "https://bit.ly/2VzQcDF",
+					"display_url": "bit.ly/2VzQcDF",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), LambC(램씨), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbKMln",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbKMln",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13021,
+			"friends_count": 1941,
+			"listed_count": 0,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13284,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[스케줄 안내] 9/13(월) ~ 9/19(일) 스케줄  📬\n◾ https://t.co/kAniNJ6zfR"
+	},
+	{
+		"created_at": "Mon Sep 13 02:29:34 +0000 2021",
+		"id": 1437229900092432400,
+		"id_str": "1437242016581177345",
+		"full_text": "#KIMYERIM successfully wraps up her first time playing the lead role for ‘Blue Birthday’, proving her potential as an actress with rich portrayal of emotions!\n“I learned a lot, and I’m happy to have played ‘Harin’”\n\n#김예림\n#블루버스데이 #BLUEBIRTHDAY \n#레드벨벳 #RedVelvet https://t.co/qhl5faNLrh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KIMYERIM",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "김예림",
+					"indices": [
+						216,
+						220
+					]
+				},
+				{
+					"text": "블루버스데이",
+					"indices": [
+						221,
+						228
+					]
+				},
+				{
+					"text": "BLUEBIRTHDAY",
+					"indices": [
+						229,
+						242
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						244,
+						249
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						250,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1437229035424080000,
+					"id_str": "1437229035424079876",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/E_IQMWVUYAQBgRq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_IQMWVUYAQBgRq.jpg",
+					"url": "https://t.co/qhl5faNLrh",
+					"display_url": "pic.twitter.com/qhl5faNLrh",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1437229900092432384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437229035424080000,
+					"id_str": "1437229035424079876",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/E_IQMWVUYAQBgRq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_IQMWVUYAQBgRq.jpg",
+					"url": "https://t.co/qhl5faNLrh",
+					"display_url": "pic.twitter.com/qhl5faNLrh",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1437229900092432384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1437229035424137200,
+					"id_str": "1437229035424137217",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/E_IQMWVVQAEH1pj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_IQMWVVQAEH1pj.jpg",
+					"url": "https://t.co/qhl5faNLrh",
+					"display_url": "pic.twitter.com/qhl5faNLrh",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1437229900092432384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1437229035415695400,
+					"id_str": "1437229035415695363",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/E_IQMWTUcAM_C82.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_IQMWTUcAM_C82.jpg",
+					"url": "https://t.co/qhl5faNLrh",
+					"display_url": "pic.twitter.com/qhl5faNLrh",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1437229900092432384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9890438,
+			"friends_count": 55,
+			"listed_count": 10587,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10771,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4702,
+		"favorite_count": 15538,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#KIMYERIM successfully wraps up her first time playing the lead role for ‘Blue Birthday’, proving her potential as an actress with rich portrayal of emotions!\n“I learned a lot, and I’m happy to have played ‘Harin’”\n\n#김예림\n#블루버스데이 #BLUEBIRTHDAY \n#레드벨벳 #RedVelvet https://t.co/qhl5faNLrh"
+	},
+	{
+		"created_at": "Mon Sep 13 02:29:24 +0000 2021",
+		"id": 1437227785064358000,
+		"id_str": "1437241978299760648",
+		"full_text": "[NEWS] 하지원, #권혁수 와 엇갈린 커플…펜싱 김준호 특별출연 \"같은 회사\" (#SNL코리아)[종합]\n\n👉 https://t.co/NYvjUeQP4c \n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #SNLKOREA #쿠팡플레이 #CoupangPlay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						12,
+						16
+					]
+				},
+				{
+					"text": "SNL코리아",
+					"indices": [
+						47,
+						54
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						89,
+						101
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						109,
+						123
+					]
+				},
+				{
+					"text": "SNLKOREA",
+					"indices": [
+						124,
+						133
+					]
+				},
+				{
+					"text": "쿠팡플레이",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "CoupangPlay",
+					"indices": [
+						141,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NYvjUeQP4c",
+					"expanded_url": "http://naver.me/xAto2n9y",
+					"display_url": "naver.me/xAto2n9y",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 361,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 317,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEWS] 하지원, #권혁수 와 엇갈린 커플…펜싱 김준호 특별출연 \"같은 회사\" (#SNL코리아)[종합]\n\n👉 https://t.co/NYvjUeQP4c \n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #SNLKOREA #쿠팡플레이 #CoupangPlay"
+	},
+	{
 		"created_at": "Mon Sep 13 01:29:34 +0000 2021",
 		"id": 1437226840590934000,
 		"id_str": "1437226917363597320",
