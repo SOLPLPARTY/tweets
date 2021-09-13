@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 13 13:29:25 +0000 2021",
+		"id": 1437400860636561400,
+		"id_str": "1437408076068499462",
+		"full_text": "#콜드플레이 #BTS #MyUniverse #9월24일발매 https://t.co/cBifZtcJhe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "콜드플레이",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						7,
+						11
+					]
+				},
+				{
+					"text": "MyUniverse",
+					"indices": [
+						12,
+						23
+					]
+				},
+				{
+					"text": "9월24일발매",
+					"indices": [
+						24,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cBifZtcJhe",
+					"expanded_url": "https://twitter.com/coldplay/status/1437400774678614018",
+					"display_url": "twitter.com/coldplay/statu…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51749,
+			"friends_count": 495,
+			"listed_count": 190,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1437400774678614000,
+		"quoted_status_id_str": "1437400774678614018",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cBifZtcJhe",
+			"expanded": "https://twitter.com/coldplay/status/1437400774678614018",
+			"display": "twitter.com/coldplay/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 13 13:00:24 +0000 2021",
+			"id": 1437400774678614000,
+			"id_str": "1437400774678614018",
+			"full_text": "#MyUniverse // Coldplay X BTS // September 24th // Pre-order &amp; pre-save now // https://t.co/yAcfYX0gER ❤️♾⭕️ @bts_bighit  @BTS_twt https://t.co/J91ZVQIRf7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				134
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MyUniverse",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bts_bighit",
+						"name": "BTS_official",
+						"id": 1409798257,
+						"id_str": "1409798257",
+						"indices": [
+							113,
+							124
+						]
+					},
+					{
+						"screen_name": "BTS_twt",
+						"name": "방탄소년단",
+						"id": 335141638,
+						"id_str": "335141638",
+						"indices": [
+							126,
+							134
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/yAcfYX0gER",
+						"expanded_url": "https://coldplay.lnk.to/MyUniverse",
+						"display_url": "coldplay.lnk.to/MyUniverse",
+						"indices": [
+							83,
+							106
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1437400024103653400,
+						"id_str": "1437400024103653377",
+						"indices": [
+							135,
+							158
+						],
+						"media_url": "http://pbs.twimg.com/media/E_KrtMzWEAEH5UT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_KrtMzWEAEH5UT.jpg",
+						"url": "https://t.co/J91ZVQIRf7",
+						"display_url": "pic.twitter.com/J91ZVQIRf7",
+						"expanded_url": "https://twitter.com/coldplay/status/1437400774678614018/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1437400024103653400,
+						"id_str": "1437400024103653377",
+						"indices": [
+							135,
+							158
+						],
+						"media_url": "http://pbs.twimg.com/media/E_KrtMzWEAEH5UT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_KrtMzWEAEH5UT.jpg",
+						"url": "https://t.co/J91ZVQIRf7",
+						"display_url": "pic.twitter.com/J91ZVQIRf7",
+						"expanded_url": "https://twitter.com/coldplay/status/1437400774678614018/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18863815,
+				"id_str": "18863815",
+				"name": "Coldplay",
+				"screen_name": "coldplay",
+				"location": "Coloratura",
+				"description": "The official Twitter of the band Coldplay. New album, Music Of The Spheres, out October 15th, 2021.",
+				"url": "https://t.co/zVkAnvGWS0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zVkAnvGWS0",
+								"expanded_url": "https://linktr.ee/coldplay",
+								"display_url": "linktr.ee/coldplay",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23014012,
+				"friends_count": 769,
+				"listed_count": 42679,
+				"created_at": "Sun Jan 11 11:04:45 +0000 2009",
+				"favourites_count": 1332,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8648,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417506973877211138/YIm7dOQH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18863815/1626794531",
+				"profile_link_color": "11518C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 105818,
+			"favorite_count": 193718,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1933,
+		"favorite_count": 4478,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#콜드플레이 #BTS #MyUniverse #9월24일발매 https://t.co/cBifZtcJhe"
+	},
+	{
 		"created_at": "Mon Sep 13 12:29:24 +0000 2021",
 		"id": 1437380266964631600,
 		"id_str": "1437392973302575105",
