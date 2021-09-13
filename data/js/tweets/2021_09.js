@@ -1,6 +1,776 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 13 07:58:23 +0000 2021",
+		"id": 1437310162776191000,
+		"id_str": "1437324766642413568",
+		"full_text": "[TO1 CHECK IN] TOgetherともっと親しくなりたいTO1が準備した\nオンラインHI 5とあいうえお作文！どうでしたか？\nTOgetherのあいうえお作文もコメントで書いてください！\n\n#KCONTACT #KCONTACTHI5 #TO1 #티오원 @TO1_offcl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						101,
+						110
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						111,
+						123
+					]
+				},
+				{
+					"text": "TO1",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "티오원",
+					"indices": [
+						129,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TO1_offcl",
+					"name": "TO1",
+					"id": 1120217350848958500,
+					"id_str": "1120217350848958465",
+					"indices": [
+						134,
+						144
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1437310160943214600,
+		"in_reply_to_status_id_str": "1437310160943214592",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395503,
+			"friends_count": 75,
+			"listed_count": 1005,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10829,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "[TO1 CHECK IN] TOgetherともっと親しくなりたいTO1が準備した\nオンラインHI 5とあいうえお作文！どうでしたか？\nTOgetherのあいうえお作文もコメントで書いてください！\n\n#KCONTACT #KCONTACTHI5 #TO1 #티오원 @TO1_offcl"
+	},
+	{
+		"created_at": "Mon Sep 13 07:58:15 +0000 2021",
+		"id": 1437310160943214600,
+		"id_str": "1437324732618219521",
+		"full_text": "[TO1 CHECK IN] TOgether와 더욱 가까워지고 싶은 TO1이 준비한\n랜선 하이파이브회와 N행시 어떠셨나요?\nTOgether의 N행시도 댓글로 마구 남겨주세요!\n\n#KCONTACT #KCONTACTHI5 #TO1 #티오원 @TO1_offcl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						98,
+						107
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						108,
+						120
+					]
+				},
+				{
+					"text": "TO1",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "티오원",
+					"indices": [
+						126,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TO1_offcl",
+					"name": "TO1",
+					"id": 1120217350848958500,
+					"id_str": "1120217350848958465",
+					"indices": [
+						131,
+						141
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1437310075316551700,
+		"in_reply_to_status_id_str": "1437310075316551680",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395503,
+			"friends_count": 75,
+			"listed_count": 1005,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10829,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[TO1 CHECK IN] TOgether와 더욱 가까워지고 싶은 TO1이 준비한\n랜선 하이파이브회와 N행시 어떠셨나요?\nTOgether의 N행시도 댓글로 마구 남겨주세요!\n\n#KCONTACT #KCONTACTHI5 #TO1 #티오원 @TO1_offcl"
+	},
+	{
+		"created_at": "Mon Sep 13 07:29:37 +0000 2021",
+		"id": 1437316156721819600,
+		"id_str": "1437317528137699330",
+		"full_text": "🌇먼데이프로젝트 시즌4 : \n음악여행, 쉼 #3🌇\n\n[홍크 단독 콘서트]\n\n📢현매 안내📢\n• 공연일시: 2021.9.13(월) 8:00 PM\n• 티켓부스 오픈 : 6:30 PM\n• 장소: 홍대 구름아래소극장\n• 예매처: 멜론티켓\n• 티켓: 44,000원 https://t.co/BfPzJJylSp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1437316149016887300,
+					"id_str": "1437316149016887301",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/E_JfbBwVgAUPPId.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_JfbBwVgAUPPId.jpg",
+					"url": "https://t.co/BfPzJJylSp",
+					"display_url": "pic.twitter.com/BfPzJJylSp",
+					"expanded_url": "https://twitter.com/orm_ent/status/1437316156721819649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1237,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1091,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 618,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437316149016887300,
+					"id_str": "1437316149016887301",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/E_JfbBwVgAUPPId.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_JfbBwVgAUPPId.jpg",
+					"url": "https://t.co/BfPzJJylSp",
+					"display_url": "pic.twitter.com/BfPzJJylSp",
+					"expanded_url": "https://twitter.com/orm_ent/status/1437316156721819649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1237,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1091,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 618,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 721,
+			"friends_count": 324,
+			"listed_count": 0,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1631157600",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌇먼데이프로젝트 시즌4 : \n음악여행, 쉼 #3🌇\n\n[홍크 단독 콘서트]\n\n📢현매 안내📢\n• 공연일시: 2021.9.13(월) 8:00 PM\n• 티켓부스 오픈 : 6:30 PM\n• 장소: 홍대 구름아래소극장\n• 예매처: 멜론티켓\n• 티켓: 44,000원 https://t.co/BfPzJJylSp"
+	},
+	{
+		"created_at": "Mon Sep 13 07:29:32 +0000 2021",
+		"id": 1437311048344764400,
+		"id_str": "1437317506662797314",
+		"full_text": "[Feature]\n\n재난지원금으로 생필품을 모두 구매했다면 남는 돈으로 음반을 구매하는 것은 어떨까요? 5차 재난지원금을 사용할 수 있는 서울의 음반 매장 10곳을 추렸습니다.\nhttps://t.co/1kACvNsKoQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1kACvNsKoQ",
+					"expanded_url": "https://www.highjinkxmm.com/features/seoulshops",
+					"display_url": "highjinkxmm.com/features/seoul…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/P2V4wFkAko",
+			"url": "https://t.co/oAPJfxeB46",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAPJfxeB46",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P2V4wFkAko",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 451,
+			"friends_count": 23,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Feature]\n\n재난지원금으로 생필품을 모두 구매했다면 남는 돈으로 음반을 구매하는 것은 어떨까요? 5차 재난지원금을 사용할 수 있는 서울의 음반 매장 10곳을 추렸습니다.\nhttps://t.co/1kACvNsKoQ"
+	},
+	{
+		"created_at": "Mon Sep 13 07:29:28 +0000 2021",
+		"id": 1437303406343819300,
+		"id_str": "1437317489231282177",
+		"full_text": "@aprilsour #IPRF21 #INCHEON #PENTAPORT #ROCK #FESTIVAL #PENTAPORT_ROCK_FESTIVAL #펜타포트락페스티벌 #인천 #펜타 #펜타포트 #락페스티벌 #록페스티벌 #2021인천펜타포트락페스티벌 #페스티벌",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IPRF21",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"text": "INCHEON",
+					"indices": [
+						19,
+						27
+					]
+				},
+				{
+					"text": "PENTAPORT",
+					"indices": [
+						28,
+						38
+					]
+				},
+				{
+					"text": "ROCK",
+					"indices": [
+						39,
+						44
+					]
+				},
+				{
+					"text": "FESTIVAL",
+					"indices": [
+						45,
+						54
+					]
+				},
+				{
+					"text": "PENTAPORT_ROCK_FESTIVAL",
+					"indices": [
+						55,
+						79
+					]
+				},
+				{
+					"text": "펜타포트락페스티벌",
+					"indices": [
+						80,
+						90
+					]
+				},
+				{
+					"text": "인천",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "펜타",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "펜타포트",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "락페스티벌",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "록페스티벌",
+					"indices": [
+						112,
+						118
+					]
+				},
+				{
+					"text": "2021인천펜타포트락페스티벌",
+					"indices": [
+						119,
+						135
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						136,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aprilsour",
+					"name": "김사월",
+					"id": 568866057,
+					"id_str": "568866057",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1437303377772224500,
+		"in_reply_to_status_id_str": "1437303377772224519",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2137,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "@aprilsour #IPRF21 #INCHEON #PENTAPORT #ROCK #FESTIVAL #PENTAPORT_ROCK_FESTIVAL #펜타포트락페스티벌 #인천 #펜타 #펜타포트 #락페스티벌 #록페스티벌 #2021인천펜타포트락페스티벌 #페스티벌"
+	},
+	{
 		"created_at": "Mon Sep 13 06:29:39 +0000 2021",
 		"id": 1437295945452900400,
 		"id_str": "1437302436742549509",
