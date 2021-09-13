@@ -1,6 +1,657 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 13 06:29:39 +0000 2021",
+		"id": 1437295945452900400,
+		"id_str": "1437302436742549509",
+		"full_text": "9/15 (수) 밤 9시\n[#박소은] 손님포차 @유어썸머 유튜브 채널\n-\n9/16 (목) 밤 10시\n[#너드커넥션(#서영주)] BBS FM &lt;밤의 창가에서&gt;",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박소은",
+					"indices": [
+						15,
+						19
+					]
+				},
+				{
+					"text": "너드커넥션",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "서영주",
+					"indices": [
+						64,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1437295943007629300,
+		"in_reply_to_status_id_str": "1437295943007629314",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2137,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "9/15 (수) 밤 9시\n[#박소은] 손님포차 @유어썸머 유튜브 채널\n-\n9/16 (목) 밤 10시\n[#너드커넥션(#서영주)] BBS FM &lt;밤의 창가에서&gt;"
+	},
+	{
+		"created_at": "Mon Sep 13 06:29:34 +0000 2021",
+		"id": 1437295943007629300,
+		"id_str": "1437302415179517952",
+		"full_text": "[#유어썸머] 9월 셋째 주 스케줄💌\n\n9/13 (월)\n[#너드커넥션] MUSE ON 2021 &lt;MUSE ON LIVE CLIP&gt;\n-\n9/15 (수)\n[#랄라스윗] 벅스라디오 &lt;랄라스윗의 이중생활&gt;\n-\n9/15 (수) 오후 4시\n[#너드커넥션] &lt;2021 변신술&gt; 티켓 오픈\n-\n9/15 (수) 오후 6시\n[#박소은] &lt;All Live - Playlist&gt; 티켓 오픈 https://t.co/kwEcs6mlxw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유어썸머",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "너드커넥션",
+					"indices": [
+						32,
+						38
+					]
+				},
+				{
+					"text": "랄라스윗",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "너드커넥션",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"text": "박소은",
+					"indices": [
+						190,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1437295608692240400,
+					"id_str": "1437295608692240385",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/E_JMvbFUcAEmOo9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_JMvbFUcAEmOo9.jpg",
+					"url": "https://t.co/kwEcs6mlxw",
+					"display_url": "pic.twitter.com/kwEcs6mlxw",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1437295943007629314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437295608692240400,
+					"id_str": "1437295608692240385",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/E_JMvbFUcAEmOo9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_JMvbFUcAEmOo9.jpg",
+					"url": "https://t.co/kwEcs6mlxw",
+					"display_url": "pic.twitter.com/kwEcs6mlxw",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1437295943007629314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1437295608688115700,
+					"id_str": "1437295608688115715",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/E_JMvbEVgAMUOrM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_JMvbEVgAMUOrM.jpg",
+					"url": "https://t.co/kwEcs6mlxw",
+					"display_url": "pic.twitter.com/kwEcs6mlxw",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1437295943007629314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2137,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#유어썸머] 9월 셋째 주 스케줄💌\n\n9/13 (월)\n[#너드커넥션] MUSE ON 2021 &lt;MUSE ON LIVE CLIP&gt;\n-\n9/15 (수)\n[#랄라스윗] 벅스라디오 &lt;랄라스윗의 이중생활&gt;\n-\n9/15 (수) 오후 4시\n[#너드커넥션] &lt;2021 변신술&gt; 티켓 오픈\n-\n9/15 (수) 오후 6시\n[#박소은] &lt;All Live - Playlist&gt; 티켓 오픈 https://t.co/kwEcs6mlxw"
+	},
+	{
+		"created_at": "Mon Sep 13 06:29:27 +0000 2021",
+		"id": 1437295745254625300,
+		"id_str": "1437302385047711744",
+		"full_text": "[선물] Behind \n\n'선물' 앨범의 미공개 포토와 비하인드 스토리를 지금 블루바이닐 네이버포스트에서 만나보세요 💭 \nRead behind stories and check out unreleased photos from '선물' on Blue Vinyl's Naver post\n\n🔗 https://t.co/YNPEihRaV5\n\n#백예린 #yerinbaek #선물 #loveyerin https://t.co/m13iSfO8bd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "백예린",
+					"indices": [
+						185,
+						189
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						190,
+						200
+					]
+				},
+				{
+					"text": "선물",
+					"indices": [
+						201,
+						204
+					]
+				},
+				{
+					"text": "loveyerin",
+					"indices": [
+						205,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YNPEihRaV5",
+					"expanded_url": "https://bit.ly/3C2TQFK",
+					"display_url": "bit.ly/3C2TQFK",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1437295420925829000,
+					"id_str": "1437295420925829121",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/E_JMkfmUYAEv_ks.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_JMkfmUYAEv_ks.jpg",
+					"url": "https://t.co/m13iSfO8bd",
+					"display_url": "pic.twitter.com/m13iSfO8bd",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1437295745254625288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437295420925829000,
+					"id_str": "1437295420925829121",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/E_JMkfmUYAEv_ks.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_JMkfmUYAEv_ks.jpg",
+					"url": "https://t.co/m13iSfO8bd",
+					"display_url": "pic.twitter.com/m13iSfO8bd",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1437295745254625288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1437295420355448800,
+					"id_str": "1437295420355448836",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/E_JMkdeVEAQ_9On.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_JMkdeVEAQ_9On.jpg",
+					"url": "https://t.co/m13iSfO8bd",
+					"display_url": "pic.twitter.com/m13iSfO8bd",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1437295745254625288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1437295421055852500,
+					"id_str": "1437295421055852546",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/E_JMkgFUYAI-iC1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_JMkgFUYAI-iC1.jpg",
+					"url": "https://t.co/m13iSfO8bd",
+					"display_url": "pic.twitter.com/m13iSfO8bd",
+					"expanded_url": "https://twitter.com/yerinbaek/status/1437295745254625288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1185935579168424000,
+			"id_str": "1185935579168423936",
+			"name": "Yerin Baek",
+			"screen_name": "yerinbaek",
+			"location": "",
+			"description": "#YerinBaek Official Twitter",
+			"url": "https://t.co/4CtaJYJ2N0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4CtaJYJ2N0",
+							"expanded_url": "https://www.youtube.com/YerinBaekOfficial",
+							"display_url": "youtube.com/YerinBaekOffic…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34288,
+			"friends_count": 2,
+			"listed_count": 1,
+			"created_at": "Sun Oct 20 15:07:39 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 161,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429732393246597123/VlYYBdKY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185935579168423936/1629709742",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 713,
+		"favorite_count": 1081,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[선물] Behind \n\n'선물' 앨범의 미공개 포토와 비하인드 스토리를 지금 블루바이닐 네이버포스트에서 만나보세요 💭 \nRead behind stories and check out unreleased photos from '선물' on Blue Vinyl's Naver post\n\n🔗 https://t.co/YNPEihRaV5\n\n#백예린 #yerinbaek #선물 #loveyerin https://t.co/m13iSfO8bd"
+	},
+	{
 		"created_at": "Mon Sep 13 05:29:25 +0000 2021",
 		"id": 1437277520290742300,
 		"id_str": "1437287277110169603",
