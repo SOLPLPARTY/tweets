@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 13 12:29:24 +0000 2021",
+		"id": 1437380266964631600,
+		"id_str": "1437392973302575105",
+		"full_text": "[D-5]\n2021.9.18 12:00 pm\nRoom306 3rd Album &lt;술과 꽃&gt; 🥃🥀\n\nTracklist\n1.외면\n2.소음\n3.위안\n4.보존 🥃\n5.조금\n6.미덕\n7.부양\n8.모래\n9.이해 🥀\n10.침식\n\n#룸306 #room306 #술과꽃 #룸306술과꽃 #이히읗 #퍼스트에이드 #채지수 #유덕연 #영기획 #YOUNGGIFTEDWACK https://t.co/TB0Eb7AB01",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "룸306",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "room306",
+					"indices": [
+						132,
+						140
+					]
+				},
+				{
+					"text": "술과꽃",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "룸306술과꽃",
+					"indices": [
+						146,
+						154
+					]
+				},
+				{
+					"text": "이히읗",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "퍼스트에이드",
+					"indices": [
+						160,
+						167
+					]
+				},
+				{
+					"text": "채지수",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "유덕연",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "영기획",
+					"indices": [
+						178,
+						182
+					]
+				},
+				{
+					"text": "YOUNGGIFTEDWACK",
+					"indices": [
+						183,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1437380260601884700,
+					"id_str": "1437380260601884687",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/E_KZu0BVcA8Ie10.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_KZu0BVcA8Ie10.jpg",
+					"url": "https://t.co/TB0Eb7AB01",
+					"display_url": "pic.twitter.com/TB0Eb7AB01",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1437380266964631552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437380260601884700,
+					"id_str": "1437380260601884687",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/E_KZu0BVcA8Ie10.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_KZu0BVcA8Ie10.jpg",
+					"url": "https://t.co/TB0Eb7AB01",
+					"display_url": "pic.twitter.com/TB0Eb7AB01",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1437380266964631552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3546,
+			"friends_count": 1202,
+			"listed_count": 52,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[D-5]\n2021.9.18 12:00 pm\nRoom306 3rd Album &lt;술과 꽃&gt; 🥃🥀\n\nTracklist\n1.외면\n2.소음\n3.위안\n4.보존 🥃\n5.조금\n6.미덕\n7.부양\n8.모래\n9.이해 🥀\n10.침식\n\n#룸306 #room306 #술과꽃 #룸306술과꽃 #이히읗 #퍼스트에이드 #채지수 #유덕연 #영기획 #YOUNGGIFTEDWACK https://t.co/TB0Eb7AB01"
+	},
+	{
 		"created_at": "Mon Sep 13 12:14:07 +0000 2021",
 		"id": 1437389125926203400,
 		"id_str": "1437389125926203399",
