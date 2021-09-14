@@ -1,6 +1,667 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 14 05:29:46 +0000 2021",
+		"id": 1437649079224258600,
+		"id_str": "1437649755379838979",
+		"full_text": "JAY B [SOMO:FUME] Instagram 필터 사용 이벤트💚\n자세한 사항은 워너뮤직케이팝 IG 게시글을 확인해주세요! \n\n🐥https://t.co/KOBdPZdCxN\n\n#warnermusic #warnermusickpop #JAYB #제이비 #SOMOFUME \n#H1GHRMUSIC #하이어뮤직 https://t.co/LQ7KByb8JN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnermusic",
+					"indices": [
+						99,
+						111
+					]
+				},
+				{
+					"text": "warnermusickpop",
+					"indices": [
+						112,
+						128
+					]
+				},
+				{
+					"text": "JAYB",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "제이비",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "SOMOFUME",
+					"indices": [
+						140,
+						149
+					]
+				},
+				{
+					"text": "H1GHRMUSIC",
+					"indices": [
+						151,
+						162
+					]
+				},
+				{
+					"text": "하이어뮤직",
+					"indices": [
+						163,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KOBdPZdCxN",
+					"expanded_url": "https://www.instagram.com/p/CTykqbzF0Ta/?utm_medium=copy_link",
+					"display_url": "instagram.com/p/CTykqbzF0Ta/…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1437649070831530000,
+					"id_str": "1437649070831529989",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/E_OONoKVcAUJnYw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_OONoKVcAUJnYw.jpg",
+					"url": "https://t.co/LQ7KByb8JN",
+					"display_url": "pic.twitter.com/LQ7KByb8JN",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1437649079224258566/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437649070831530000,
+					"id_str": "1437649070831529989",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/E_OONoKVcAUJnYw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_OONoKVcAUJnYw.jpg",
+					"url": "https://t.co/LQ7KByb8JN",
+					"display_url": "pic.twitter.com/LQ7KByb8JN",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1437649079224258566/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51777,
+			"friends_count": 495,
+			"listed_count": 191,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1626,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 623,
+		"favorite_count": 752,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "JAY B [SOMO:FUME] Instagram 필터 사용 이벤트💚\n자세한 사항은 워너뮤직케이팝 IG 게시글을 확인해주세요! \n\n🐥https://t.co/KOBdPZdCxN\n\n#warnermusic #warnermusickpop #JAYB #제이비 #SOMOFUME \n#H1GHRMUSIC #하이어뮤직 https://t.co/LQ7KByb8JN"
+	},
+	{
+		"created_at": "Tue Sep 14 05:29:42 +0000 2021",
+		"id": 1437645304933748700,
+		"id_str": "1437649738191491073",
+		"full_text": "🎟Ticket : https://t.co/AE2bWR7wVU\nSep 24, @saysueme's third of 3 virtual tour shows on Bandcamp Live! Streams are available to access for 48 hours, but you do need to purchase tickets in advance.\n🗓 Sep 24(Fri) - Busan Basement\n⏰ 8PM PDT (UTC-7)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "saysueme",
+					"name": "세이수미 Say Sue Me",
+					"id": 1027038272,
+					"id_str": "1027038272",
+					"indices": [
+						42,
+						51
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AE2bWR7wVU",
+					"expanded_url": "https://music.saysue.me/merch",
+					"display_url": "music.saysue.me/merch",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1437645299980271600,
+		"in_reply_to_status_id_str": "1437645299980271618",
+		"in_reply_to_user_id": 49219598,
+		"in_reply_to_user_id_str": "49219598",
+		"in_reply_to_screen_name": "electric_muse",
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3342,
+			"friends_count": 1300,
+			"listed_count": 107,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 6085,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25832,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎟Ticket : https://t.co/AE2bWR7wVU\nSep 24, @saysueme's third of 3 virtual tour shows on Bandcamp Live! Streams are available to access for 48 hours, but you do need to purchase tickets in advance.\n🗓 Sep 24(Fri) - Busan Basement\n⏰ 8PM PDT (UTC-7)"
+	},
+	{
+		"created_at": "Tue Sep 14 05:29:37 +0000 2021",
+		"id": 1437645284566192000,
+		"id_str": "1437649716775378944",
+		"full_text": "목요일 밤 10시에 &lt;밤의 창가에서&gt; 만나요!\n#FM101_9 #BBS불교방송 #밤의창가에서김명석입니다 #너드커넥션 #너컨 #라디오 #서영주",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FM101_9",
+					"indices": [
+						32,
+						40
+					]
+				},
+				{
+					"text": "BBS불교방송",
+					"indices": [
+						41,
+						49
+					]
+				},
+				{
+					"text": "밤의창가에서김명석입니다",
+					"indices": [
+						50,
+						63
+					]
+				},
+				{
+					"text": "너드커넥션",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "너컨",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "라디오",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "서영주",
+					"indices": [
+						80,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1437645260239163400,
+		"in_reply_to_status_id_str": "1437645260239163396",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2137,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5432,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "목요일 밤 10시에 &lt;밤의 창가에서&gt; 만나요!\n#FM101_9 #BBS불교방송 #밤의창가에서김명석입니다 #너드커넥션 #너컨 #라디오 #서영주"
+	},
+	{
+		"created_at": "Tue Sep 14 05:29:28 +0000 2021",
+		"id": 1437645260239163400,
+		"id_str": "1437649678586327045",
+		"full_text": "[너드커넥션] BBS FM &lt;밤의 창가에서&gt;에 서영주가 함께합니다.\n\n📻 9월 16일 목요일 밤 10시\nbbsfm_nightwindow /  공식 홈페이지\n수도권101.9MHz 지역별 주파수를 확인해주세요.\n\n&lt;밤의 창가에서&gt;는 유튜브 BBS 불교방송 채널에서 생중계되며, BBS 라디오 어플 \"보리\"를 통해 소통할 수 있답니다! https://t.co/zvonzwvCnf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1437640700967874600,
+					"id_str": "1437640700967874560",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/E_OGmb_VcAAEGGH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_OGmb_VcAAEGGH.jpg",
+					"url": "https://t.co/zvonzwvCnf",
+					"display_url": "pic.twitter.com/zvonzwvCnf",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1437645260239163396/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1812,
+							"h": 1810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437640700967874600,
+					"id_str": "1437640700967874560",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/E_OGmb_VcAAEGGH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_OGmb_VcAAEGGH.jpg",
+					"url": "https://t.co/zvonzwvCnf",
+					"display_url": "pic.twitter.com/zvonzwvCnf",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1437645260239163396/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1812,
+							"h": 1810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2137,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5432,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[너드커넥션] BBS FM &lt;밤의 창가에서&gt;에 서영주가 함께합니다.\n\n📻 9월 16일 목요일 밤 10시\nbbsfm_nightwindow /  공식 홈페이지\n수도권101.9MHz 지역별 주파수를 확인해주세요.\n\n&lt;밤의 창가에서&gt;는 유튜브 BBS 불교방송 채널에서 생중계되며, BBS 라디오 어플 \"보리\"를 통해 소통할 수 있답니다! https://t.co/zvonzwvCnf"
+	},
+	{
 		"created_at": "Tue Sep 14 04:58:26 +0000 2021",
 		"id": 1437628091623379000,
 		"id_str": "1437641869085880327",
