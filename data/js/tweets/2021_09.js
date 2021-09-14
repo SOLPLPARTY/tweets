@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 14 07:58:26 +0000 2021",
+		"id": 1437672636402729000,
+		"id_str": "1437687166575038464",
+		"full_text": "[KWON EUN BI CHECK IN] ファンの皆さんともっと親しくなりたいKWON EUN BIが準備した\nDoorのHI 5チャレンジバージョン！どうでしたか？\nもっと見たいKWON EUN BIの姿があれば、コメントしてください！\n\n#KCONTACT #KCONTACTHI5 #HI5CHALLENGE #KWONEUNBI #권은비 @KWONEUNBI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						123,
+						132
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						133,
+						145
+					]
+				},
+				{
+					"text": "HI5CHALLENGE",
+					"indices": [
+						146,
+						159
+					]
+				},
+				{
+					"text": "KWONEUNBI",
+					"indices": [
+						160,
+						170
+					]
+				},
+				{
+					"text": "권은비",
+					"indices": [
+						171,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KWONEUNBI",
+					"name": "권은비 (KWON EUN BI)",
+					"id": 1369848247007682600,
+					"id_str": "1369848247007682560",
+					"indices": [
+						176,
+						186
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1437672634917920800,
+		"in_reply_to_status_id_str": "1437672634917920771",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395764,
+			"friends_count": 75,
+			"listed_count": 1003,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "[KWON EUN BI CHECK IN] ファンの皆さんともっと親しくなりたいKWON EUN BIが準備した\nDoorのHI 5チャレンジバージョン！どうでしたか？\nもっと見たいKWON EUN BIの姿があれば、コメントしてください！\n\n#KCONTACT #KCONTACTHI5 #HI5CHALLENGE #KWONEUNBI #권은비 @KWONEUNBI"
+	},
+	{
+		"created_at": "Tue Sep 14 07:58:18 +0000 2021",
+		"id": 1437672634917920800,
+		"id_str": "1437687136514232320",
+		"full_text": "[KWON EUN BI CHECK IN] 팬들과 더욱 가까워지고싶은 권은비가 준비한\nDoor 하이파이브 챌린지 버전 어떠셨나요?\n더 보고 싶은 권은비의 모습이 있다면 댓글로 남겨주세요!\n\n#KCONTACT #KCONTACTHI5 #HI5CHALLENGE #KWONEUNBI #권은비 @KWONEUNBI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						105,
+						114
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						115,
+						127
+					]
+				},
+				{
+					"text": "HI5CHALLENGE",
+					"indices": [
+						128,
+						141
+					]
+				},
+				{
+					"text": "KWONEUNBI",
+					"indices": [
+						142,
+						152
+					]
+				},
+				{
+					"text": "권은비",
+					"indices": [
+						153,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KWONEUNBI",
+					"name": "권은비 (KWON EUN BI)",
+					"id": 1369848247007682600,
+					"id_str": "1369848247007682560",
+					"indices": [
+						158,
+						168
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1437672465531084800,
+		"in_reply_to_status_id_str": "1437672465531084804",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395764,
+			"friends_count": 75,
+			"listed_count": 1003,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[KWON EUN BI CHECK IN] 팬들과 더욱 가까워지고싶은 권은비가 준비한\nDoor 하이파이브 챌린지 버전 어떠셨나요?\n더 보고 싶은 권은비의 모습이 있다면 댓글로 남겨주세요!\n\n#KCONTACT #KCONTACTHI5 #HI5CHALLENGE #KWONEUNBI #권은비 @KWONEUNBI"
+	},
+	{
 		"created_at": "Tue Sep 14 06:29:25 +0000 2021",
 		"id": 1437664641983737900,
 		"id_str": "1437664764365139973",
