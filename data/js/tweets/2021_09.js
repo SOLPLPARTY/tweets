@@ -1,6 +1,1168 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 14 11:15:03 +0000 2021",
+		"id": 1437736647047647200,
+		"id_str": "1437736647047647235",
+		"full_text": "#루비레코드 #Ruby_Records\nINFJ가 그렇게 공감을 잘해? 어 잘하네. [루비라디오 시즌1 - 2화]\nhttps://t.co/HvHU0Yw98j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "루비레코드",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Ruby_Records",
+					"indices": [
+						7,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HvHU0Yw98j",
+					"expanded_url": "https://youtu.be/T4Y8PqkYJjE",
+					"display_url": "youtu.be/T4Y8PqkYJjE",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#루비레코드 #Ruby_Records\nINFJ가 그렇게 공감을 잘해? 어 잘하네. [루비라디오 시즌1 - 2화]\nhttps://t.co/HvHU0Yw98j"
+	},
+	{
+		"created_at": "Tue Sep 14 11:09:29 +0000 2021",
+		"id": 1437735247265902600,
+		"id_str": "1437735247265902592",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n마크툽 (MAKTUB) - Red Moon : Beyond The Light [Teaser]\nhttps://t.co/OHn6blBTSb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OHn6blBTSb",
+					"expanded_url": "https://youtu.be/S25acxIWheQ",
+					"display_url": "youtu.be/S25acxIWheQ",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n마크툽 (MAKTUB) - Red Moon : Beyond The Light [Teaser]\nhttps://t.co/OHn6blBTSb"
+	},
+	{
+		"created_at": "Tue Sep 14 10:58:26 +0000 2021",
+		"id": 1437719481489391600,
+		"id_str": "1437732466480013315",
+		"full_text": "夜のパジャマパーティーだと思いましたが\n逆にDreamcatcherのLIVE PREMIERE見て\n面白すぎて目が覚めました👀\nLIVE PREMIERE FULL VODが公開されました！\n\n#KCONTACTHI5Dreamcatcher #LIVEPREMIERE #KCONTACTHI5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACTHI5Dreamcatcher",
+					"indices": [
+						98,
+						122
+					]
+				},
+				{
+					"text": "LIVEPREMIERE",
+					"indices": [
+						123,
+						136
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						137,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1437719423515725800,
+		"in_reply_to_status_id_str": "1437719423515725833",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395790,
+			"friends_count": 75,
+			"listed_count": 1002,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 123,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "夜のパジャマパーティーだと思いましたが\n逆にDreamcatcherのLIVE PREMIERE見て\n面白すぎて目が覚めました👀\nLIVE PREMIERE FULL VODが公開されました！\n\n#KCONTACTHI5Dreamcatcher #LIVEPREMIERE #KCONTACTHI5"
+	},
+	{
+		"created_at": "Tue Sep 14 10:58:22 +0000 2021",
+		"id": 1437719423515725800,
+		"id_str": "1437732449014980619",
+		"full_text": "누구인가? 누가 라프 드림캐쳐 보고 잘 생각을 하였는가👀\n지붕도 뚫어버리는 텐션의 소유자 드림캐쳐의\nLIVE PREMIERE FULL VOD가 공개되었습니다!\n\n#KCONTACTHI5Dreamcatcher #LIVEPREMIERE #KCONTACTHI5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACTHI5Dreamcatcher",
+					"indices": [
+						90,
+						114
+					]
+				},
+				{
+					"text": "LIVEPREMIERE",
+					"indices": [
+						115,
+						128
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						129,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1437717761916952600,
+		"in_reply_to_status_id_str": "1437717761916952577",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395790,
+			"friends_count": 75,
+			"listed_count": 1002,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 177,
+		"favorite_count": 954,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "누구인가? 누가 라프 드림캐쳐 보고 잘 생각을 하였는가👀\n지붕도 뚫어버리는 텐션의 소유자 드림캐쳐의\nLIVE PREMIERE FULL VOD가 공개되었습니다!\n\n#KCONTACTHI5Dreamcatcher #LIVEPREMIERE #KCONTACTHI5"
+	},
+	{
+		"created_at": "Tue Sep 14 10:58:15 +0000 2021",
+		"id": 1437717761916952600,
+		"id_str": "1437732419113734153",
+		"full_text": "Come on! Who decides to go to sleep when Dreamcatcher's LIVE PREMIERE is here?👀\nCheck out Dreamcatcher's lively and energetic LIVE PREMIERE FULL VOD!\n\n#KCONTACTHI5Dreamcatcher #LIVEPREMIERE #KCONTACTHI5 https://t.co/PzBl9Yn4Ke",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACTHI5Dreamcatcher",
+					"indices": [
+						151,
+						175
+					]
+				},
+				{
+					"text": "LIVEPREMIERE",
+					"indices": [
+						176,
+						189
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						190,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1437686569519878100,
+					"id_str": "1437686569519878152",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1437686569519878152/pu/img/sJOG_7s_2MThkp7_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1437686569519878152/pu/img/sJOG_7s_2MThkp7_.jpg",
+					"url": "https://t.co/PzBl9Yn4Ke",
+					"display_url": "pic.twitter.com/PzBl9Yn4Ke",
+					"expanded_url": "https://twitter.com/KCON_official/status/1437717761916952577/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437686569519878100,
+					"id_str": "1437686569519878152",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1437686569519878152/pu/img/sJOG_7s_2MThkp7_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1437686569519878152/pu/img/sJOG_7s_2MThkp7_.jpg",
+					"url": "https://t.co/PzBl9Yn4Ke",
+					"display_url": "pic.twitter.com/PzBl9Yn4Ke",
+					"expanded_url": "https://twitter.com/KCON_official/status/1437717761916952577/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 82515,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1437686569519878152/pu/vid/1280x720/jTLYqZTZO5XJiwYH.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1437686569519878152/pu/vid/640x360/nNdGypgdeRiRk-KQ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1437686569519878152/pu/pl/d_QJznnSxCkyWrNN.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1437686569519878152/pu/vid/480x270/rvdsr7xbFFyMKcJH.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395790,
+			"friends_count": 75,
+			"listed_count": 1002,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 474,
+		"favorite_count": 1706,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Come on! Who decides to go to sleep when Dreamcatcher's LIVE PREMIERE is here?👀\nCheck out Dreamcatcher's lively and energetic LIVE PREMIERE FULL VOD!\n\n#KCONTACTHI5Dreamcatcher #LIVEPREMIERE #KCONTACTHI5 https://t.co/PzBl9Yn4Ke"
+	},
+	{
+		"created_at": "Tue Sep 14 10:29:34 +0000 2021",
+		"id": 1437718143233785900,
+		"id_str": "1437725201349988352",
+		"full_text": "[ T Factory 인스타그램\n루시드폴 사운드제주 특별체험전 안내 ]\n\n🔗 https://t.co/D54szLUj2g\n\n@lucid_fall_jo #LucidFall\n#루시드폴의사운드제주 #FLO\n#T팩토리 #티팩토리",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LucidFall",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"text": "루시드폴의사운드제주",
+					"indices": [
+						94,
+						105
+					]
+				},
+				{
+					"text": "FLO",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "T팩토리",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "티팩토리",
+					"indices": [
+						117,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lucid_fall_jo",
+					"name": "Lucid Fall",
+					"id": 115856799,
+					"id_str": "115856799",
+					"indices": [
+						68,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/D54szLUj2g",
+					"expanded_url": "http://bit.ly/3tF7RX5",
+					"display_url": "bit.ly/3tF7RX5",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1437718140415209500,
+		"in_reply_to_status_id_str": "1437718140415209477",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 유희열 '생활음악' EP1. 일요일 오후 - 안테나 유튜브 채널에서 만나보세요!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37073,
+			"friends_count": 10,
+			"listed_count": 375,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ T Factory 인스타그램\n루시드폴 사운드제주 특별체험전 안내 ]\n\n🔗 https://t.co/D54szLUj2g\n\n@lucid_fall_jo #LucidFall\n#루시드폴의사운드제주 #FLO\n#T팩토리 #티팩토리"
+	},
+	{
+		"created_at": "Tue Sep 14 10:29:29 +0000 2021",
+		"id": 1437718140415209500,
+		"id_str": "1437725179795410944",
+		"full_text": "[#Notice] #루시드폴\n\n홍대 T Factory에 FLO ‘루시드폴의 사운드제주’ 특별 체험전이 오픈 되었습니다. 도심 속 힐링 사운드를 감상 하실 수 있는 ‘루시드폴의 사운드제주’ 특별 체험전 오픈 소식, 이벤트 등 자세한 사항은 T Factory 공식 인스타그램에서 확인하실 수 있습니다🏝 https://t.co/T2DythcMMb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "루시드폴",
+					"indices": [
+						10,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1437718130432696300,
+					"id_str": "1437718130432696324",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/E_PNBbOUYAQnEYQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_PNBbOUYAQnEYQ.jpg",
+					"url": "https://t.co/T2DythcMMb",
+					"display_url": "pic.twitter.com/T2DythcMMb",
+					"expanded_url": "https://twitter.com/antennamusic/status/1437718140415209477/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437718130432696300,
+					"id_str": "1437718130432696324",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/E_PNBbOUYAQnEYQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_PNBbOUYAQnEYQ.jpg",
+					"url": "https://t.co/T2DythcMMb",
+					"display_url": "pic.twitter.com/T2DythcMMb",
+					"expanded_url": "https://twitter.com/antennamusic/status/1437718140415209477/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1437718130436964400,
+					"id_str": "1437718130436964356",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/E_PNBbPVgAQl56o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_PNBbPVgAQl56o.jpg",
+					"url": "https://t.co/T2DythcMMb",
+					"display_url": "pic.twitter.com/T2DythcMMb",
+					"expanded_url": "https://twitter.com/antennamusic/status/1437718140415209477/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1437718130436939800,
+					"id_str": "1437718130436939778",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/E_PNBbPVIAIhfVU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_PNBbPVIAIhfVU.jpg",
+					"url": "https://t.co/T2DythcMMb",
+					"display_url": "pic.twitter.com/T2DythcMMb",
+					"expanded_url": "https://twitter.com/antennamusic/status/1437718140415209477/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 유희열 '생활음악' EP1. 일요일 오후 - 안테나 유튜브 채널에서 만나보세요!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37073,
+			"friends_count": 10,
+			"listed_count": 375,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Notice] #루시드폴\n\n홍대 T Factory에 FLO ‘루시드폴의 사운드제주’ 특별 체험전이 오픈 되었습니다. 도심 속 힐링 사운드를 감상 하실 수 있는 ‘루시드폴의 사운드제주’ 특별 체험전 오픈 소식, 이벤트 등 자세한 사항은 T Factory 공식 인스타그램에서 확인하실 수 있습니다🏝 https://t.co/T2DythcMMb"
+	},
+	{
 		"created_at": "Tue Sep 14 10:10:56 +0000 2021",
 		"id": 1437720513376399400,
 		"id_str": "1437720513376399362",
@@ -286,7 +1448,7 @@ Grailbird.data.tweets_2021_09 =
 		"created_at": "Tue Sep 14 09:58:27 +0000 2021",
 		"id": 1437703779940376600,
 		"id_str": "1437717372840943619",
-		"full_text": "[KCON:TACT 4 U OFFICIAL MD REVIEW]\n\nシーズン4 MD UNBOXING映像を公開します🎁\n今回のHI 5 MDも凄いという噂が!🏃‍♀️🏃‍♂️💨\n\n▶EVERLINE (KOR/Global) : https://t.co/AAApsDfTau\n▶TVINGMALL (KOR) : https://t.co/csp3o4iTYB\n▶Mwave(KOR/WORLDWIDE) : https://t.co/ebiW3W2Uu0 \n\n#KCONTACT #KCONTACTHI",
+		"full_text": "[KCON:TACT 4 U OFFICIAL MD REVIEW]\n\nシーズン4 MD UNBOXING映像を公開します🎁\n今回のHI 5 MDも凄いという噂が!🏃♀️🏃♂️💨\n\n▶EVERLINE (KOR/Global) : https://t.co/AAApsDfTau\n▶TVINGMALL (KOR) : https://t.co/csp3o4iTYB\n▶Mwave(KOR/WORLDWIDE) : https://t.co/ebiW3W2Uu0 \n\n#KCONTACT #KCONTACTHI",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -420,13 +1582,13 @@ Grailbird.data.tweets_2021_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ja",
-		"text": "[KCON:TACT 4 U OFFICIAL MD REVIEW]\n\nシーズン4 MD UNBOXING映像を公開します🎁\n今回のHI 5 MDも凄いという噂が!🏃‍♀️🏃‍♂️💨\n\n▶EVERLINE (KOR/Global) : https://t.co/AAApsDfTau\n▶TVINGMALL (KOR) : https://t.co/csp3o4iTYB\n▶Mwave(KOR/WORLDWIDE) : https://t.co/ebiW3W2Uu0 \n\n#KCONTACT #KCONTACTHI"
+		"text": "[KCON:TACT 4 U OFFICIAL MD REVIEW]\n\nシーズン4 MD UNBOXING映像を公開します🎁\n今回のHI 5 MDも凄いという噂が!🏃♀️🏃♂️💨\n\n▶EVERLINE (KOR/Global) : https://t.co/AAApsDfTau\n▶TVINGMALL (KOR) : https://t.co/csp3o4iTYB\n▶Mwave(KOR/WORLDWIDE) : https://t.co/ebiW3W2Uu0 \n\n#KCONTACT #KCONTACTHI"
 	},
 	{
 		"created_at": "Tue Sep 14 09:58:18 +0000 2021",
 		"id": 1437703778094833700,
 		"id_str": "1437717334609825794",
-		"full_text": "[KCON:TACT 4 U OFFICIAL MD REVIEW]\n\n시즌4 MD 언박싱 영상을 공개합니다🎁\n이번 HI 5 MD도 엄청나다던데🏃‍♀️🏃‍♂️💨\n\n▶EVERLINE (KOR/Global) : https://t.co/AAApsDfTau\n▶TVINGMALL (KOR) : https://t.co/csp3o4iTYB\n▶Mwave(KOR/WORLDWIDE) : https://t.co/ebiW3W2Uu0\n\n#KCONTACT #KCONTACTHI5",
+		"full_text": "[KCON:TACT 4 U OFFICIAL MD REVIEW]\n\n시즌4 MD 언박싱 영상을 공개합니다🎁\n이번 HI 5 MD도 엄청나다던데🏃♀️🏃♂️💨\n\n▶EVERLINE (KOR/Global) : https://t.co/AAApsDfTau\n▶TVINGMALL (KOR) : https://t.co/csp3o4iTYB\n▶Mwave(KOR/WORLDWIDE) : https://t.co/ebiW3W2Uu0\n\n#KCONTACT #KCONTACTHI5",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -560,7 +1722,7 @@ Grailbird.data.tweets_2021_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[KCON:TACT 4 U OFFICIAL MD REVIEW]\n\n시즌4 MD 언박싱 영상을 공개합니다🎁\n이번 HI 5 MD도 엄청나다던데🏃‍♀️🏃‍♂️💨\n\n▶EVERLINE (KOR/Global) : https://t.co/AAApsDfTau\n▶TVINGMALL (KOR) : https://t.co/csp3o4iTYB\n▶Mwave(KOR/WORLDWIDE) : https://t.co/ebiW3W2Uu0\n\n#KCONTACT #KCONTACTHI5"
+		"text": "[KCON:TACT 4 U OFFICIAL MD REVIEW]\n\n시즌4 MD 언박싱 영상을 공개합니다🎁\n이번 HI 5 MD도 엄청나다던데🏃♀️🏃♂️💨\n\n▶EVERLINE (KOR/Global) : https://t.co/AAApsDfTau\n▶TVINGMALL (KOR) : https://t.co/csp3o4iTYB\n▶Mwave(KOR/WORLDWIDE) : https://t.co/ebiW3W2Uu0\n\n#KCONTACT #KCONTACTHI5"
 	},
 	{
 		"created_at": "Tue Sep 14 09:58:15 +0000 2021",
