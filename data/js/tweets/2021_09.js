@@ -1,6 +1,581 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 14 12:29:42 +0000 2021",
+		"id": 1437752342078640000,
+		"id_str": "1437755432957890561",
+		"full_text": "[#계피] EBS 팟캐스트 &lt;무루와 계피의 이로운 이야기&gt;📻\n\n계피가 EBS 팟캐스트 &lt;무루와 계피의 이로운 이야기&gt;에 격주로 함께하게 되었습니다.\n\n매주 목요일에 팟빵과 아이튠즈 팟캐스트에 업로드 되니 많은 사랑 부탁드립니다💕\n\n#계피 #무루와계피의이로운이야기 #계피의이로운셋리스트 #팟캐스트 https://t.co/0JNuiy8MR1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "계피",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "계피",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "무루와계피의이로운이야기",
+					"indices": [
+						145,
+						158
+					]
+				},
+				{
+					"text": "계피의이로운셋리스트",
+					"indices": [
+						159,
+						170
+					]
+				},
+				{
+					"text": "팟캐스트",
+					"indices": [
+						171,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1437752334944141300,
+					"id_str": "1437752334944141312",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E_PsIY9VgAAfDE7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_PsIY9VgAAfDE7.jpg",
+					"url": "https://t.co/0JNuiy8MR1",
+					"display_url": "pic.twitter.com/0JNuiy8MR1",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1437752342078640131/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437752334944141300,
+					"id_str": "1437752334944141312",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E_PsIY9VgAAfDE7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_PsIY9VgAAfDE7.jpg",
+					"url": "https://t.co/0JNuiy8MR1",
+					"display_url": "pic.twitter.com/0JNuiy8MR1",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1437752342078640131/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2137,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5437,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#계피] EBS 팟캐스트 &lt;무루와 계피의 이로운 이야기&gt;📻\n\n계피가 EBS 팟캐스트 &lt;무루와 계피의 이로운 이야기&gt;에 격주로 함께하게 되었습니다.\n\n매주 목요일에 팟빵과 아이튠즈 팟캐스트에 업로드 되니 많은 사랑 부탁드립니다💕\n\n#계피 #무루와계피의이로운이야기 #계피의이로운셋리스트 #팟캐스트 https://t.co/0JNuiy8MR1"
+	},
+	{
+		"created_at": "Tue Sep 14 12:29:32 +0000 2021",
+		"id": 1437747971345506300,
+		"id_str": "1437755394689011717",
+		"full_text": "[#이찬형] #슬기로운의사생활2 #최성영 쌤의 #이중생활 전격 공개👀\n이찬형의 #푸마 가을🍂 화보 비하인드📸\n(feat. 신흥 남친짤 제조기)\n \n▶https://t.co/SbjkXiU2AT\n \n#Leechanhyeong #푸마 #화보 #비하인드 #네이버포스트 https://t.co/yArZMeh4h0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이찬형",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "슬기로운의사생활2",
+					"indices": [
+						7,
+						17
+					]
+				},
+				{
+					"text": "최성영",
+					"indices": [
+						18,
+						22
+					]
+				},
+				{
+					"text": "이중생활",
+					"indices": [
+						26,
+						31
+					]
+				},
+				{
+					"text": "푸마",
+					"indices": [
+						44,
+						47
+					]
+				},
+				{
+					"text": "Leechanhyeong",
+					"indices": [
+						109,
+						123
+					]
+				},
+				{
+					"text": "푸마",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "화보",
+					"indices": [
+						128,
+						131
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						138,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SbjkXiU2AT",
+					"expanded_url": "http://naver.me/5zJE0Vf6",
+					"display_url": "naver.me/5zJE0Vf6",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1437742374369652700,
+					"id_str": "1437742374369652736",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/E_PjEm7UcAAxtYa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_PjEm7UcAAxtYa.jpg",
+					"url": "https://t.co/yArZMeh4h0",
+					"display_url": "pic.twitter.com/yArZMeh4h0",
+					"expanded_url": "https://twitter.com/themysticstory/status/1437747971345506313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437742374369652700,
+					"id_str": "1437742374369652736",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/E_PjEm7UcAAxtYa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_PjEm7UcAAxtYa.jpg",
+					"url": "https://t.co/yArZMeh4h0",
+					"display_url": "pic.twitter.com/yArZMeh4h0",
+					"expanded_url": "https://twitter.com/themysticstory/status/1437747971345506313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1437742374499668000,
+					"id_str": "1437742374499667973",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/E_PjEnaUUAUuByE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_PjEnaUUAUuByE.jpg",
+					"url": "https://t.co/yArZMeh4h0",
+					"display_url": "pic.twitter.com/yArZMeh4h0",
+					"expanded_url": "https://twitter.com/themysticstory/status/1437747971345506313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1437742374570975200,
+					"id_str": "1437742374570975232",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/E_PjEnrUYAAKOFx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_PjEnrUYAAKOFx.jpg",
+					"url": "https://t.co/yArZMeh4h0",
+					"display_url": "pic.twitter.com/yArZMeh4h0",
+					"expanded_url": "https://twitter.com/themysticstory/status/1437747971345506313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1437742374667444200,
+					"id_str": "1437742374667444225",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/E_PjEoCUYAEgEWs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_PjEoCUYAEgEWs.jpg",
+					"url": "https://t.co/yArZMeh4h0",
+					"display_url": "pic.twitter.com/yArZMeh4h0",
+					"expanded_url": "https://twitter.com/themysticstory/status/1437747971345506313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21819,
+			"friends_count": 13,
+			"listed_count": 235,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#이찬형] #슬기로운의사생활2 #최성영 쌤의 #이중생활 전격 공개👀\n이찬형의 #푸마 가을🍂 화보 비하인드📸\n(feat. 신흥 남친짤 제조기)\n \n▶https://t.co/SbjkXiU2AT\n \n#Leechanhyeong #푸마 #화보 #비하인드 #네이버포스트 https://t.co/yArZMeh4h0"
+	},
+	{
 		"created_at": "Tue Sep 14 11:15:03 +0000 2021",
 		"id": 1437736647047647200,
 		"id_str": "1437736647047647235",
