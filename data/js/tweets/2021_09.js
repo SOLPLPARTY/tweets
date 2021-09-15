@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 15 04:58:16 +0000 2021",
+		"id": 1437989815572578300,
+		"id_str": "1438004217688506370",
+		"full_text": "[Ciipher CHECK IN] Clueのために\nCiipherが準備したオンラインHI 5会！どうでしたか？\nもっと見たいCiipherの姿があれば、コメントしてください！\n\n#KCONTACT #KCONTACTHI5 #Ciipher #싸이퍼 @RAIN_Ciipher",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						92,
+						101
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						102,
+						114
+					]
+				},
+				{
+					"text": "Ciipher",
+					"indices": [
+						115,
+						123
+					]
+				},
+				{
+					"text": "싸이퍼",
+					"indices": [
+						124,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RAIN_Ciipher",
+					"name": "Ciipher 싸이퍼",
+					"id": 1327279193789350000,
+					"id_str": "1327279193789349888",
+					"indices": [
+						129,
+						142
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1437989765404508200,
+		"in_reply_to_status_id_str": "1437989765404508167",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396143,
+			"friends_count": 75,
+			"listed_count": 1002,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "[Ciipher CHECK IN] Clueのために\nCiipherが準備したオンラインHI 5会！どうでしたか？\nもっと見たいCiipherの姿があれば、コメントしてください！\n\n#KCONTACT #KCONTACTHI5 #Ciipher #싸이퍼 @RAIN_Ciipher"
+	},
+	{
+		"created_at": "Wed Sep 15 04:58:14 +0000 2021",
+		"id": 1437989765404508200,
+		"id_str": "1438004208662454282",
+		"full_text": "[Ciipher CHECK IN] 클루를 위해 싸이퍼가 준비한\n랜선 하이파이브회 어떠셨나요?\n더 보고 싶은 싸이퍼의 모습이 있다면 댓글로 남겨주세요!\n\n#KCONTACT #KCONTACTHI5 #Ciipher #싸이퍼 @RAIN_Ciipher",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						85,
+						94
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						95,
+						107
+					]
+				},
+				{
+					"text": "Ciipher",
+					"indices": [
+						108,
+						116
+					]
+				},
+				{
+					"text": "싸이퍼",
+					"indices": [
+						117,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RAIN_Ciipher",
+					"name": "Ciipher 싸이퍼",
+					"id": 1327279193789350000,
+					"id_str": "1327279193789349888",
+					"indices": [
+						122,
+						135
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1437989554775105500,
+		"in_reply_to_status_id_str": "1437989554775105538",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396143,
+			"friends_count": 75,
+			"listed_count": 1002,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[Ciipher CHECK IN] 클루를 위해 싸이퍼가 준비한\n랜선 하이파이브회 어떠셨나요?\n더 보고 싶은 싸이퍼의 모습이 있다면 댓글로 남겨주세요!\n\n#KCONTACT #KCONTACTHI5 #Ciipher #싸이퍼 @RAIN_Ciipher"
+	},
+	{
 		"created_at": "Wed Sep 15 04:11:26 +0000 2021",
 		"id": 1437973198276948000,
 		"id_str": "1437992428435349509",
