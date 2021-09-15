@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 15 01:58:14 +0000 2021",
+		"id": 1437944256300130300,
+		"id_str": "1437958910435110912",
+		"full_text": "KCON:TACT HI 5🖐D-4🖐\nThere are lots of performances prepared for KCON-ers\nPlease look forward to them!\n\nKCON-ers들을 위한 다양한 무대들이 준비되어있으니\n많은 기대 부탁드립니다 !\n\nKCON-ersのために色んなステージが準備されているので\nどうぞお楽しみください ! \n\n#KCONTACT #KCONTACTHI5 https://t.co/t9lHL9QlmQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						196,
+						205
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						206,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1437716226294222800,
+					"id_str": "1437716226294222852",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E_PLSlwVEAQg8F1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_PLSlwVEAQg8F1.jpg",
+					"url": "https://t.co/t9lHL9QlmQ",
+					"display_url": "pic.twitter.com/t9lHL9QlmQ",
+					"expanded_url": "https://twitter.com/KCON_official/status/1437944256300130304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437716226294222800,
+					"id_str": "1437716226294222852",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E_PLSlwVEAQg8F1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_PLSlwVEAQg8F1.jpg",
+					"url": "https://t.co/t9lHL9QlmQ",
+					"display_url": "pic.twitter.com/t9lHL9QlmQ",
+					"expanded_url": "https://twitter.com/KCON_official/status/1437944256300130304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1437716226298450000,
+					"id_str": "1437716226298449927",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E_PLSlxVkAck4G7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_PLSlxVkAck4G7.jpg",
+					"url": "https://t.co/t9lHL9QlmQ",
+					"display_url": "pic.twitter.com/t9lHL9QlmQ",
+					"expanded_url": "https://twitter.com/KCON_official/status/1437944256300130304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 395941,
+			"friends_count": 75,
+			"listed_count": 1003,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 119,
+		"favorite_count": 333,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "KCON:TACT HI 5🖐D-4🖐\nThere are lots of performances prepared for KCON-ers\nPlease look forward to them!\n\nKCON-ers들을 위한 다양한 무대들이 준비되어있으니\n많은 기대 부탁드립니다 !\n\nKCON-ersのために色んなステージが準備されているので\nどうぞお楽しみください ! \n\n#KCONTACT #KCONTACTHI5 https://t.co/t9lHL9QlmQ"
+	},
+	{
 		"created_at": "Wed Sep 15 00:58:15 +0000 2021",
 		"id": 1437935149774094300,
 		"id_str": "1437943811557167104",
