@@ -1,6 +1,704 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 15 10:58:14 +0000 2021",
+		"id": 1438080156480860200,
+		"id_str": "1438094805905596416",
+		"full_text": "KCON:TACT HI 5 🖐D-3🖐\nThere are lots of performances prepared for KCON-ers\nPlease look forward to them!\n\nKCON-ers들을 위한 다양한 무대들이 준비되어있으니\n많은 기대 부탁드립니다 !\n\nKCON-ersのために色んなステージが準備されているのでどうぞお楽しみください ! \n\n#KCONTACT #KCONTACTHI5 https://t.co/MRxGygwLu5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						196,
+						205
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						206,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438050444060758000,
+					"id_str": "1438050444060758019",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E_T7Qn9VkAM9YMI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_T7Qn9VkAM9YMI.jpg",
+					"url": "https://t.co/MRxGygwLu5",
+					"display_url": "pic.twitter.com/MRxGygwLu5",
+					"expanded_url": "https://twitter.com/KCON_official/status/1438080156480860164/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438050444060758000,
+					"id_str": "1438050444060758019",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E_T7Qn9VkAM9YMI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_T7Qn9VkAM9YMI.jpg",
+					"url": "https://t.co/MRxGygwLu5",
+					"display_url": "pic.twitter.com/MRxGygwLu5",
+					"expanded_url": "https://twitter.com/KCON_official/status/1438080156480860164/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438050444048175000,
+					"id_str": "1438050444048175106",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E_T7Qn6VkAI-r-p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_T7Qn6VkAI-r-p.jpg",
+					"url": "https://t.co/MRxGygwLu5",
+					"display_url": "pic.twitter.com/MRxGygwLu5",
+					"expanded_url": "https://twitter.com/KCON_official/status/1438080156480860164/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438050458371694600,
+					"id_str": "1438050458371694593",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E_T7RdRVIAE8zFq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_T7RdRVIAE8zFq.jpg",
+					"url": "https://t.co/MRxGygwLu5",
+					"display_url": "pic.twitter.com/MRxGygwLu5",
+					"expanded_url": "https://twitter.com/KCON_official/status/1438080156480860164/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396236,
+			"friends_count": 75,
+			"listed_count": 1005,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 153,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "KCON:TACT HI 5 🖐D-3🖐\nThere are lots of performances prepared for KCON-ers\nPlease look forward to them!\n\nKCON-ers들을 위한 다양한 무대들이 준비되어있으니\n많은 기대 부탁드립니다 !\n\nKCON-ersのために色んなステージが準備されているのでどうぞお楽しみください ! \n\n#KCONTACT #KCONTACTHI5 https://t.co/MRxGygwLu5"
+	},
+	{
+		"created_at": "Wed Sep 15 10:29:33 +0000 2021",
+		"id": 1438080196167409700,
+		"id_str": "1438087584316592137",
+		"full_text": "[PHOTO]\n\n[SANDARA PARK] 어비스컴퍼니의 새로운 아티스트, 산다라박!\n🔗 https://t.co/ZaHiKc9BI4\n\n#산다라박 #SANDARAPARK\n#어비스컴퍼니 #ABYSSCOMPANY https://t.co/KHkWVCGdAW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "산다라박",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "SANDARAPARK",
+					"indices": [
+						81,
+						93
+					]
+				},
+				{
+					"text": "어비스컴퍼니",
+					"indices": [
+						94,
+						101
+					]
+				},
+				{
+					"text": "ABYSSCOMPANY",
+					"indices": [
+						102,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZaHiKc9BI4",
+					"expanded_url": "http://naver.me/5lZhfBHK",
+					"display_url": "naver.me/5lZhfBHK",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438080171714613200,
+					"id_str": "1438080171714613251",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/E_UWTAGVEAMzKDV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_UWTAGVEAMzKDV.jpg",
+					"url": "https://t.co/KHkWVCGdAW",
+					"display_url": "pic.twitter.com/KHkWVCGdAW",
+					"expanded_url": "https://twitter.com/ABYSS_COMPANY/status/1438080196167409667/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438080171714613200,
+					"id_str": "1438080171714613251",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/E_UWTAGVEAMzKDV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_UWTAGVEAMzKDV.jpg",
+					"url": "https://t.co/KHkWVCGdAW",
+					"display_url": "pic.twitter.com/KHkWVCGdAW",
+					"expanded_url": "https://twitter.com/ABYSS_COMPANY/status/1438080196167409667/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 748379922209583100,
+			"id_str": "748379922209583104",
+			"name": "ABYSS COMPANY",
+			"screen_name": "ABYSS_COMPANY",
+			"location": "",
+			"description": "ABYSS COMPANY Official Twitter",
+			"url": "https://t.co/FXx196IZXh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FXx196IZXh",
+							"expanded_url": "http://abysscompany.com/",
+							"display_url": "abysscompany.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 110727,
+			"friends_count": 7,
+			"listed_count": 219,
+			"created_at": "Thu Jun 30 04:57:32 +0000 2016",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358610179030306818/g8xwAYsj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/748379922209583104/1612752885",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 714,
+		"favorite_count": 1672,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[PHOTO]\n\n[SANDARA PARK] 어비스컴퍼니의 새로운 아티스트, 산다라박!\n🔗 https://t.co/ZaHiKc9BI4\n\n#산다라박 #SANDARAPARK\n#어비스컴퍼니 #ABYSSCOMPANY https://t.co/KHkWVCGdAW"
+	},
+	{
+		"created_at": "Wed Sep 15 10:29:24 +0000 2021",
+		"id": 1438072933188923400,
+		"id_str": "1438087550124625924",
+		"full_text": "[#김사월] EP &lt;드라이브&gt;\n2021.09.24.Fri. 6pm\n\n@aprilsour \n#EP #드라이브 #9월24일 #발매 https://t.co/s3I8VNjB4a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김사월",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "EP",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "드라이브",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "9월24일",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						73,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aprilsour",
+					"name": "김사월",
+					"id": 568866057,
+					"id_str": "568866057",
+					"indices": [
+						44,
+						54
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438072920543092700,
+					"id_str": "1438072920543092736",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/E_UPs7YUYAAnWt8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_UPs7YUYAAnWt8.jpg",
+					"url": "https://t.co/s3I8VNjB4a",
+					"display_url": "pic.twitter.com/s3I8VNjB4a",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1438072933188923392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1566,
+							"h": 1566,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438072920543092700,
+					"id_str": "1438072920543092736",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/E_UPs7YUYAAnWt8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_UPs7YUYAAnWt8.jpg",
+					"url": "https://t.co/s3I8VNjB4a",
+					"display_url": "pic.twitter.com/s3I8VNjB4a",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1438072933188923392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1566,
+							"h": 1566,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2136,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5442,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#김사월] EP &lt;드라이브&gt;\n2021.09.24.Fri. 6pm\n\n@aprilsour \n#EP #드라이브 #9월24일 #발매 https://t.co/s3I8VNjB4a"
+	},
+	{
 		"created_at": "Wed Sep 15 10:10:30 +0000 2021",
 		"id": 1438082792953467000,
 		"id_str": "1438082792953466883",
