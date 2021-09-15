@@ -1,6 +1,781 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 15 10:10:30 +0000 2021",
+		"id": 1438082792953467000,
+		"id_str": "1438082792953466883",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n우리 사귄 적 없잖아. 쿨하지 못하게 왜 이래~😅 | 레이니 (LANY) - ex i never had (가사/한글/해석/lyrics)\nhttps://t.co/wkrL1FlNwf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wkrL1FlNwf",
+					"expanded_url": "https://youtu.be/AjtNyeqbG7c",
+					"display_url": "youtu.be/AjtNyeqbG7c",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73132,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n우리 사귄 적 없잖아. 쿨하지 못하게 왜 이래~😅 | 레이니 (LANY) - ex i never had (가사/한글/해석/lyrics)\nhttps://t.co/wkrL1FlNwf"
+	},
+	{
+		"created_at": "Wed Sep 15 09:35:29 +0000 2021",
+		"id": 1438073980368396300,
+		"id_str": "1438073980368396293",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n누가 내 편이 돼줄래?😢 외로운 사람들에게 위로를 건네요 | sEODo (서도밴드) 편 (자막)\nhttps://t.co/nydCtVmV7m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nydCtVmV7m",
+					"expanded_url": "https://youtu.be/p5pVarwux_k",
+					"display_url": "youtu.be/p5pVarwux_k",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73132,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n누가 내 편이 돼줄래?😢 외로운 사람들에게 위로를 건네요 | sEODo (서도밴드) 편 (자막)\nhttps://t.co/nydCtVmV7m"
+	},
+	{
+		"created_at": "Wed Sep 15 09:29:51 +0000 2021",
+		"id": 1438065182463316000,
+		"id_str": "1438072561854828545",
+		"full_text": "https://t.co/UiaO1FsOqy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438065171939795000,
+					"id_str": "1438065171939794944",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E_UIp5lVIAADzda.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_UIp5lVIAADzda.jpg",
+					"url": "https://t.co/UiaO1FsOqy",
+					"display_url": "pic.twitter.com/UiaO1FsOqy",
+					"expanded_url": "https://twitter.com/edam_ent/status/1438065182463315969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 198,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 349,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 596,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438065171939795000,
+					"id_str": "1438065171939794944",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E_UIp5lVIAADzda.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_UIp5lVIAADzda.jpg",
+					"url": "https://t.co/UiaO1FsOqy",
+					"display_url": "pic.twitter.com/UiaO1FsOqy",
+					"expanded_url": "https://twitter.com/edam_ent/status/1438065182463315969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 198,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 349,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 596,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438065132991443000,
+		"in_reply_to_status_id_str": "1438065132991442945",
+		"in_reply_to_user_id": 1214016219889553400,
+		"in_reply_to_user_id_str": "1214016219889553409",
+		"in_reply_to_screen_name": "edam_ent",
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52730,
+			"friends_count": 2,
+			"listed_count": 196,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 537,
+		"favorite_count": 2544,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/UiaO1FsOqy"
+	},
+	{
+		"created_at": "Wed Sep 15 09:29:48 +0000 2021",
+		"id": 1438065132991443000,
+		"id_str": "1438072548818886656",
+		"full_text": "https://t.co/ewfzY52LnU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438065121310380000,
+					"id_str": "1438065121310380033",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E_UIm8-VkAEJYn5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_UIm8-VkAEJYn5.jpg",
+					"url": "https://t.co/ewfzY52LnU",
+					"display_url": "pic.twitter.com/ewfzY52LnU",
+					"expanded_url": "https://twitter.com/edam_ent/status/1438065132991442945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 198,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 349,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 596,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438065121310380000,
+					"id_str": "1438065121310380033",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E_UIm8-VkAEJYn5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_UIm8-VkAEJYn5.jpg",
+					"url": "https://t.co/ewfzY52LnU",
+					"display_url": "pic.twitter.com/ewfzY52LnU",
+					"expanded_url": "https://twitter.com/edam_ent/status/1438065132991442945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 198,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 349,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 596,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438065077895139300,
+		"in_reply_to_status_id_str": "1438065077895139328",
+		"in_reply_to_user_id": 1214016219889553400,
+		"in_reply_to_user_id_str": "1214016219889553409",
+		"in_reply_to_screen_name": "edam_ent",
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52730,
+			"friends_count": 2,
+			"listed_count": 196,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 483,
+		"favorite_count": 2352,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/ewfzY52LnU"
+	},
+	{
+		"created_at": "Wed Sep 15 09:29:39 +0000 2021",
+		"id": 1438065077895139300,
+		"id_str": "1438072510541598722",
+		"full_text": "아이유 데뷔 13주년 기념 MD\nfor UAENA 4th 예약 판매 안내\n\n아이유애나의 13번째 생일🎉을\n축하하기 위해 찾아온\n유애나 4기를 위한 새로운 MD🎁\nEDAM 공식 온라인 쇼핑몰에서\n만나보아요👋\n\n📍 오픈 : 2021. 09. 16(목) 2PM (KST)\n📍 madeEDAM : https://t.co/VifWSV4BrM https://t.co/s4S45hRnlL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VifWSV4BrM",
+					"expanded_url": "http://madeedam.com",
+					"display_url": "madeedam.com",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438057655180742700,
+					"id_str": "1438057655180742657",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/E_UB0XeUUAEFDO-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_UB0XeUUAEFDO-.jpg",
+					"url": "https://t.co/s4S45hRnlL",
+					"display_url": "pic.twitter.com/s4S45hRnlL",
+					"expanded_url": "https://twitter.com/edam_ent/status/1438065077895139328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 198,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 349,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 596,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438057655180742700,
+					"id_str": "1438057655180742657",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/E_UB0XeUUAEFDO-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_UB0XeUUAEFDO-.jpg",
+					"url": "https://t.co/s4S45hRnlL",
+					"display_url": "pic.twitter.com/s4S45hRnlL",
+					"expanded_url": "https://twitter.com/edam_ent/status/1438065077895139328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 198,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 349,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 596,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52730,
+			"friends_count": 2,
+			"listed_count": 196,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1224,
+		"favorite_count": 3160,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "아이유 데뷔 13주년 기념 MD\nfor UAENA 4th 예약 판매 안내\n\n아이유애나의 13번째 생일🎉을\n축하하기 위해 찾아온\n유애나 4기를 위한 새로운 MD🎁\nEDAM 공식 온라인 쇼핑몰에서\n만나보아요👋\n\n📍 오픈 : 2021. 09. 16(목) 2PM (KST)\n📍 madeEDAM : https://t.co/VifWSV4BrM https://t.co/s4S45hRnlL"
+	},
+	{
 		"created_at": "Wed Sep 15 09:08:22 +0000 2021",
 		"id": 1438067157330546700,
 		"id_str": "1438067157330546693",
