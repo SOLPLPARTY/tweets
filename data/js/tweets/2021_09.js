@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 16 17:46:42 +0000 2021",
+		"id": 1438518935221985300,
+		"id_str": "1438559986037100546",
+		"full_text": "키라라\n디지털 싱글\n4-2\n2021년 10월 1일 금요일 정오 발매\n\nKIRARA\nDigital Single\n4-2\n1st October 2021 release\n\n1. Pulling Off the Stars\n2. 예우\n3. Pulling Off the Stars (Flash Flood Darlings Remix)\n4. Pulling Off the Stars (Kirara Remix)\n5. Pulling Off the Stars (Ondea Remix) https://t.co/9cxNFJTpXX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438518879286747100,
+					"id_str": "1438518879286747159",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438518879286747159/pu/img/_JB4Mxu2N3yTnKJT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438518879286747159/pu/img/_JB4Mxu2N3yTnKJT.jpg",
+					"url": "https://t.co/9cxNFJTpXX",
+					"display_url": "pic.twitter.com/9cxNFJTpXX",
+					"expanded_url": "https://twitter.com/stqpkiraradj/status/1438518935221985289/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438518879286747100,
+					"id_str": "1438518879286747159",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438518879286747159/pu/img/_JB4Mxu2N3yTnKJT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438518879286747159/pu/img/_JB4Mxu2N3yTnKJT.jpg",
+					"url": "https://t.co/9cxNFJTpXX",
+					"display_url": "pic.twitter.com/9cxNFJTpXX",
+					"expanded_url": "https://twitter.com/stqpkiraradj/status/1438518935221985289/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 30100,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438518879286747159/pu/vid/320x320/ecE4JPtx689eUypY.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1438518879286747159/pu/pl/ubI-JowQIu6VJC__.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438518879286747159/pu/vid/540x540/jJYB_xhirEi0EHWH.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438518879286747159/pu/vid/720x720/4k0WyPKz_JzYLdzb.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1417147997977137200,
+			"id_str": "1417147997977137158",
+			"name": "키라라 KIRARA",
+			"screen_name": "stqpkiraradj",
+			"location": "",
+			"description": "이쁘고 강합니다 / official / electronic music producer based on south korea / contact & booking : stqproject@gmail.com",
+			"url": "https://t.co/aaWBFJRvZh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aaWBFJRvZh",
+							"expanded_url": "http://kirararararararara.com",
+							"display_url": "kirararararararara.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 232,
+			"friends_count": 0,
+			"listed_count": 2,
+			"created_at": "Mon Jul 19 15:43:22 +0000 2021",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 68,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1438519727312162831/S7tNOlGc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1438519727312162831/S7tNOlGc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1417147997977137158/1626713159",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "키라라\n디지털 싱글\n4-2\n2021년 10월 1일 금요일 정오 발매\n\nKIRARA\nDigital Single\n4-2\n1st October 2021 release\n\n1. Pulling Off the Stars\n2. 예우\n3. Pulling Off the Stars (Flash Flood Darlings Remix)\n4. Pulling Off the Stars (Kirara Remix)\n5. Pulling Off the Stars (Ondea Remix) https://t.co/9cxNFJTpXX"
+	},
+	{
 		"created_at": "Thu Sep 16 12:29:25 +0000 2021",
 		"id": 1438472740181213200,
 		"id_str": "1438480137180352527",
