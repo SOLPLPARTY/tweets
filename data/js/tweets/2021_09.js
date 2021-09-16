@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 16 06:58:27 +0000 2021",
+		"id": 1438382329416732700,
+		"id_str": "1438396847597494274",
+		"full_text": "AB6IXのスペシャルな &lt;クッキングバトル&gt;\n9月18日土曜日KCON official YouTubeチャンネルで無料で公開されます。\nABNEWは見逃さないで ~ 👨 🍳\n\n#KCONTACT #KCONTACTHI5 #KCONSTUDIO #AB6IX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						96,
+						105
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						106,
+						118
+					]
+				},
+				{
+					"text": "KCONSTUDIO",
+					"indices": [
+						119,
+						130
+					]
+				},
+				{
+					"text": "AB6IX",
+					"indices": [
+						131,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1438382327541866500,
+		"in_reply_to_status_id_str": "1438382327541866496",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396393,
+			"friends_count": 75,
+			"listed_count": 1005,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "AB6IXのスペシャルな &lt;クッキングバトル&gt;\n9月18日土曜日KCON official YouTubeチャンネルで無料で公開されます。\nABNEWは見逃さないで ~ 👨 🍳\n\n#KCONTACT #KCONTACTHI5 #KCONSTUDIO #AB6IX"
+	},
+	{
+		"created_at": "Thu Sep 16 06:58:24 +0000 2021",
+		"id": 1438382327541866500,
+		"id_str": "1438396834498682883",
+		"full_text": "AB6IX의 특별한 &lt;쿠킹배틀&gt;\n9월 18일 토요일 KCON official 유튜브 채널에서 무료 공개됩니다.\n에비뉴들 놓치지 말기 ~ 👨 🍳\n\n#KCONTACT #KCONTACTHI5 #KCONSTUDIO #AB6IX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						87,
+						96
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						97,
+						109
+					]
+				},
+				{
+					"text": "KCONSTUDIO",
+					"indices": [
+						110,
+						121
+					]
+				},
+				{
+					"text": "AB6IX",
+					"indices": [
+						122,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1438382141692203000,
+		"in_reply_to_status_id_str": "1438382141692203009",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396393,
+			"friends_count": 75,
+			"listed_count": 1005,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 101,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "AB6IX의 특별한 &lt;쿠킹배틀&gt;\n9월 18일 토요일 KCON official 유튜브 채널에서 무료 공개됩니다.\n에비뉴들 놓치지 말기 ~ 👨 🍳\n\n#KCONTACT #KCONTACTHI5 #KCONSTUDIO #AB6IX"
+	},
+	{
 		"created_at": "Thu Sep 16 05:58:44 +0000 2021",
 		"id": 1438379528108212200,
 		"id_str": "1438381820622553096",
