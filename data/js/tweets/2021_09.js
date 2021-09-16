@@ -1,6 +1,524 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 16 07:58:23 +0000 2021",
+		"id": 1438397690442698800,
+		"id_str": "1438411930645975051",
+		"full_text": "[HIGHLIGHT CHECK IN]  HIGHLIGHTとLIGHTが一つになる日を待ちながら\nもっと親しくなれる時間を作って上げるKCON:TACT HI 5!\n9月18日 土曜日に会いましょう~🖐\n\n#KCONTACT #KCONTACTHI5 #HIGHLIGHT #하이라이트 @Highlight_AUent",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						105,
+						114
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						115,
+						127
+					]
+				},
+				{
+					"text": "HIGHLIGHT",
+					"indices": [
+						128,
+						138
+					]
+				},
+				{
+					"text": "하이라이트",
+					"indices": [
+						139,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Highlight_AUent",
+					"name": "하이라이트 (Highlight)",
+					"id": 810768862572462100,
+					"id_str": "810768862572462080",
+					"indices": [
+						146,
+						162
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1438397688756650000,
+		"in_reply_to_status_id_str": "1438397688756649984",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396401,
+			"friends_count": 75,
+			"listed_count": 1005,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "[HIGHLIGHT CHECK IN]  HIGHLIGHTとLIGHTが一つになる日を待ちながら\nもっと親しくなれる時間を作って上げるKCON:TACT HI 5!\n9月18日 土曜日に会いましょう~🖐\n\n#KCONTACT #KCONTACTHI5 #HIGHLIGHT #하이라이트 @Highlight_AUent"
+	},
+	{
+		"created_at": "Thu Sep 16 07:58:21 +0000 2021",
+		"id": 1438397688756650000,
+		"id_str": "1438411921762529282",
+		"full_text": "[HIGHLIGHT CHECK IN]  하이라이트와 라이트가 하나되는 날을 기다리며\n더 가까워질 수 있는 시간을 만들어주는 KCON:TACT HI 5!\n9월 18일 토요일에 만나요~🖐\n\n#KCONTACT #KCONTACTHI5 #HIGHLIGHT #하이라이트 @Highlight_AUent",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						104,
+						113
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						114,
+						126
+					]
+				},
+				{
+					"text": "HIGHLIGHT",
+					"indices": [
+						127,
+						137
+					]
+				},
+				{
+					"text": "하이라이트",
+					"indices": [
+						138,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Highlight_AUent",
+					"name": "하이라이트 (Highlight)",
+					"id": 810768862572462100,
+					"id_str": "810768862572462080",
+					"indices": [
+						145,
+						161
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1438397241782374400,
+		"in_reply_to_status_id_str": "1438397241782374404",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396401,
+			"friends_count": 75,
+			"listed_count": 1005,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 86,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[HIGHLIGHT CHECK IN]  하이라이트와 라이트가 하나되는 날을 기다리며\n더 가까워질 수 있는 시간을 만들어주는 KCON:TACT HI 5!\n9월 18일 토요일에 만나요~🖐\n\n#KCONTACT #KCONTACTHI5 #HIGHLIGHT #하이라이트 @Highlight_AUent"
+	},
+	{
+		"created_at": "Thu Sep 16 07:58:15 +0000 2021",
+		"id": 1438397241782374400,
+		"id_str": "1438411896143728640",
+		"full_text": "[HIGHLIGHT CHECK IN] LIGHT, spend the most memorable time with HIGHLIGHT on KCON:TACT HI 5!\nSee you on September 18, (SAT) KST~🖐\n\n#KCONTACT #KCONTACTHI5 #HIGHLIGHT #하이라이트 @Highlight_AUent https://t.co/xv2AMgb6Nl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						130,
+						139
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						140,
+						152
+					]
+				},
+				{
+					"text": "HIGHLIGHT",
+					"indices": [
+						153,
+						163
+					]
+				},
+				{
+					"text": "하이라이트",
+					"indices": [
+						164,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Highlight_AUent",
+					"name": "하이라이트 (Highlight)",
+					"id": 810768862572462100,
+					"id_str": "810768862572462080",
+					"indices": [
+						171,
+						187
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438076316465578000,
+					"id_str": "1438076316465577993",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438076316465577993/pu/img/x1GEQlMuO8nZ9F-v.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438076316465577993/pu/img/x1GEQlMuO8nZ9F-v.jpg",
+					"url": "https://t.co/xv2AMgb6Nl",
+					"display_url": "pic.twitter.com/xv2AMgb6Nl",
+					"expanded_url": "https://twitter.com/KCON_official/status/1438397241782374404/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438076316465578000,
+					"id_str": "1438076316465577993",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438076316465577993/pu/img/x1GEQlMuO8nZ9F-v.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438076316465577993/pu/img/x1GEQlMuO8nZ9F-v.jpg",
+					"url": "https://t.co/xv2AMgb6Nl",
+					"display_url": "pic.twitter.com/xv2AMgb6Nl",
+					"expanded_url": "https://twitter.com/KCON_official/status/1438397241782374404/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 97197,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1438076316465577993/pu/pl/b3riZhch3eG-R9mg.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438076316465577993/pu/vid/480x270/B3wo6GHWxLlWipQr.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438076316465577993/pu/vid/640x360/-iTv0mcd3A6CWc0y.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438076316465577993/pu/vid/1280x720/28BqolQvNp6BC8Wq.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396401,
+			"friends_count": 75,
+			"listed_count": 1005,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 557,
+		"favorite_count": 563,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[HIGHLIGHT CHECK IN] LIGHT, spend the most memorable time with HIGHLIGHT on KCON:TACT HI 5!\nSee you on September 18, (SAT) KST~🖐\n\n#KCONTACT #KCONTACTHI5 #HIGHLIGHT #하이라이트 @Highlight_AUent https://t.co/xv2AMgb6Nl"
+	},
+	{
 		"created_at": "Thu Sep 16 06:58:27 +0000 2021",
 		"id": 1438382329416732700,
 		"id_str": "1438396847597494274",
