@@ -1,6 +1,1255 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 16 10:58:47 +0000 2021",
+		"id": 1438453145055547400,
+		"id_str": "1438457331789058048",
+		"full_text": "📍 KCON official - https://t.co/hw3971zV1B\n📍 Mnet - https://t.co/QjxQqWJNUx\n📍 TVING - https://t.co/pURD240oie\n\n#KCONTACTHI5 #LIVEPREMIERE #에이티즈 #ATEEZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						110,
+						122
+					]
+				},
+				{
+					"text": "LIVEPREMIERE",
+					"indices": [
+						123,
+						136
+					]
+				},
+				{
+					"text": "에이티즈",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "ATEEZ",
+					"indices": [
+						143,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hw3971zV1B",
+					"expanded_url": "https://youtu.be/3ZkHCee9qXE",
+					"display_url": "youtu.be/3ZkHCee9qXE",
+					"indices": [
+						18,
+						41
+					]
+				},
+				{
+					"url": "https://t.co/QjxQqWJNUx",
+					"expanded_url": "https://youtu.be/PhQ3O2kWWdI",
+					"display_url": "youtu.be/PhQ3O2kWWdI",
+					"indices": [
+						51,
+						74
+					]
+				},
+				{
+					"url": "https://t.co/pURD240oie",
+					"expanded_url": "https://www.tving.com/live/player/C51247",
+					"display_url": "tving.com/live/player/C5…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438453140395737000,
+		"in_reply_to_status_id_str": "1438453140395737096",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396458,
+			"friends_count": 75,
+			"listed_count": 1006,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 96,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "da",
+		"text": "📍 KCON official - https://t.co/hw3971zV1B\n📍 Mnet - https://t.co/QjxQqWJNUx\n📍 TVING - https://t.co/pURD240oie\n\n#KCONTACTHI5 #LIVEPREMIERE #에이티즈 #ATEEZ"
+	},
+	{
+		"created_at": "Thu Sep 16 10:58:38 +0000 2021",
+		"id": 1438453140395737000,
+		"id_str": "1438457292547035140",
+		"full_text": "ATEEZ is here for everyone before KCON:TACT HI 5 begins! See you at 8PM KST on LIVE PREMIERE!\n\nATEEZ가 한 발 빨리 KCON:TACT HI 5에 찾아왔습니다!\n잠시후 8시에 있을 LIVE PREMIERE에서 만나요!\n\nATEEZが一歩早くKCON:TACT HI 5に訪ねてきました！まもなく8時あるLIVE PREMIEREで会いましょう https://t.co/48QmePXz0W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438452410708480000,
+					"id_str": "1438452410708480006",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Zo2KaVUAYkCMf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Zo2KaVUAYkCMf.jpg",
+					"url": "https://t.co/48QmePXz0W",
+					"display_url": "pic.twitter.com/48QmePXz0W",
+					"expanded_url": "https://twitter.com/KCON_official/status/1438453140395737096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438452410708480000,
+					"id_str": "1438452410708480006",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Zo2KaVUAYkCMf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Zo2KaVUAYkCMf.jpg",
+					"url": "https://t.co/48QmePXz0W",
+					"display_url": "pic.twitter.com/48QmePXz0W",
+					"expanded_url": "https://twitter.com/KCON_official/status/1438453140395737096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396458,
+			"friends_count": 75,
+			"listed_count": 1006,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 538,
+		"favorite_count": 1274,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "ATEEZ is here for everyone before KCON:TACT HI 5 begins! See you at 8PM KST on LIVE PREMIERE!\n\nATEEZ가 한 발 빨리 KCON:TACT HI 5에 찾아왔습니다!\n잠시후 8시에 있을 LIVE PREMIERE에서 만나요!\n\nATEEZが一歩早くKCON:TACT HI 5に訪ねてきました！まもなく8時あるLIVE PREMIEREで会いましょう https://t.co/48QmePXz0W"
+	},
+	{
+		"created_at": "Thu Sep 16 10:58:29 +0000 2021",
+		"id": 1438443524823732200,
+		"id_str": "1438457254177558529",
+		"full_text": "#부산국제록페스티벌 #부산록페 #부산락페 #부락 #록페스티벌 #페스티벌  #부산축제 #BusanRockFestival #BusanRock #BuRock #Festival #Busan #박수 #함성 #챌린지 #박수함성챌린지 #이벤트 #event",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "부산국제록페스티벌",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "부산록페",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "부산락페",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "부락",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "록페스티벌",
+					"indices": [
+						27,
+						33
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "부산축제",
+					"indices": [
+						41,
+						46
+					]
+				},
+				{
+					"text": "BusanRockFestival",
+					"indices": [
+						47,
+						65
+					]
+				},
+				{
+					"text": "BusanRock",
+					"indices": [
+						66,
+						76
+					]
+				},
+				{
+					"text": "BuRock",
+					"indices": [
+						77,
+						84
+					]
+				},
+				{
+					"text": "Festival",
+					"indices": [
+						85,
+						94
+					]
+				},
+				{
+					"text": "Busan",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "박수",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "함성",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "챌린지",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "박수함성챌린지",
+					"indices": [
+						115,
+						123
+					]
+				},
+				{
+					"text": "이벤트",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "event",
+					"indices": [
+						129,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1438443418980552700,
+		"in_reply_to_status_id_str": "1438443418980552704",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/eAlfyJep2j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eAlfyJep2j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1037,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1624518084",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#부산국제록페스티벌 #부산록페 #부산락페 #부락 #록페스티벌 #페스티벌  #부산축제 #BusanRockFestival #BusanRock #BuRock #Festival #Busan #박수 #함성 #챌린지 #박수함성챌린지 #이벤트 #event"
+	},
+	{
+		"created_at": "Thu Sep 16 10:58:23 +0000 2021",
+		"id": 1438443418980552700,
+		"id_str": "1438457228474859524",
+		"full_text": "ㆍ참여기간\n2021. 9. 16(목) ~ 24(금)\n\nㆍ참여보상\n- 박수 및 함성 소리를 믹싱하여 생중계 현장 내 송출\n- 참여자분 이름으로 엔딩 크레딧을 제작하여 생방송 영상 송출\n\n📷 인스탁스 미니11 폴라로이드 카메라(1명)\n🔊 오아 더블아이브릭 블루투스 스피커(2명)\n☕ 스타벅스 1만원 상품권 증정(10명)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1438443417155948500,
+		"in_reply_to_status_id_str": "1438443417155948546",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/eAlfyJep2j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eAlfyJep2j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1037,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1624518084",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "ㆍ참여기간\n2021. 9. 16(목) ~ 24(금)\n\nㆍ참여보상\n- 박수 및 함성 소리를 믹싱하여 생중계 현장 내 송출\n- 참여자분 이름으로 엔딩 크레딧을 제작하여 생방송 영상 송출\n\n📷 인스탁스 미니11 폴라로이드 카메라(1명)\n🔊 오아 더블아이브릭 블루투스 스피커(2명)\n☕ 스타벅스 1만원 상품권 증정(10명)"
+	},
+	{
+		"created_at": "Thu Sep 16 10:58:20 +0000 2021",
+		"id": 1438443417155948500,
+		"id_str": "1438457215262892032",
+		"full_text": "🤘 박수&amp;함성 챌린지 👏\n\n당신의 목소리를\n부산국제록페스티벌에 들려주세요!🗣\n\nㆍ참여대상\n부락을 즐기고 싶은 누구나\n\nㆍ참여방법\n박수 및 함성 소리를 녹음하여 온라인 설문 폼에 첨부하여 제출\nhttps://t.co/qW2XeKTCnc\n\nㆍ참여기간\n2021. 9. 16(목) ~ 9. 24(금) https://t.co/GBjRDOvvOW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qW2XeKTCnc",
+					"expanded_url": "http://naver.me/xrPmeWgT",
+					"display_url": "naver.me/xrPmeWgT",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438443409648218000,
+					"id_str": "1438443409648218119",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/E_ZgqO2VcAcZySe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_ZgqO2VcAcZySe.jpg",
+					"url": "https://t.co/GBjRDOvvOW",
+					"display_url": "pic.twitter.com/GBjRDOvvOW",
+					"expanded_url": "https://twitter.com/busan_rock/status/1438443417155948546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438443409648218000,
+					"id_str": "1438443409648218119",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/E_ZgqO2VcAcZySe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_ZgqO2VcAcZySe.jpg",
+					"url": "https://t.co/GBjRDOvvOW",
+					"display_url": "pic.twitter.com/GBjRDOvvOW",
+					"expanded_url": "https://twitter.com/busan_rock/status/1438443417155948546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/eAlfyJep2j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eAlfyJep2j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1037,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1624518084",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🤘 박수&amp;함성 챌린지 👏\n\n당신의 목소리를\n부산국제록페스티벌에 들려주세요!🗣\n\nㆍ참여대상\n부락을 즐기고 싶은 누구나\n\nㆍ참여방법\n박수 및 함성 소리를 녹음하여 온라인 설문 폼에 첨부하여 제출\nhttps://t.co/qW2XeKTCnc\n\nㆍ참여기간\n2021. 9. 16(목) ~ 9. 24(금) https://t.co/GBjRDOvvOW"
+	},
+	{
+		"created_at": "Thu Sep 16 10:58:14 +0000 2021",
+		"id": 1438442682309746700,
+		"id_str": "1438457193779666946",
+		"full_text": "KCON:TACT HI 5 D-2! \n\n待っている間、皆さんを楽しませてくれる\nLIVE PREMIERE、KCON STUDIO、LIVE FAN GATHERINGを紹介します\n\n📍 https://t.co/IKRhgV1Fqa\n\n#KCONTACT #KCONTACTHI5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						121,
+						130
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						131,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IKRhgV1Fqa",
+					"expanded_url": "https://youtube.com/playlist?list=PLZ3FkAH-jI6JZat1k0U5r0TXhcJrRUhDf",
+					"display_url": "youtube.com/playlist?list=…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438442679809896400,
+		"in_reply_to_status_id_str": "1438442679809896448",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396458,
+			"friends_count": 75,
+			"listed_count": 1006,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "KCON:TACT HI 5 D-2! \n\n待っている間、皆さんを楽しませてくれる\nLIVE PREMIERE、KCON STUDIO、LIVE FAN GATHERINGを紹介します\n\n📍 https://t.co/IKRhgV1Fqa\n\n#KCONTACT #KCONTACTHI5"
+	},
+	{
+		"created_at": "Thu Sep 16 10:29:25 +0000 2021",
+		"id": 1438437748537319400,
+		"id_str": "1438449938120253448",
+		"full_text": "[#MUSIC_ON] 천고마비의 계절🍁 듣기만 해도 배불러지는 가을 푸드송🌰\n추석에 들으면 딱! 좋은 맛있는 Playlist  오픈🎧\n\n🎨 DRAWING BY 조연호\n🔗 https://t.co/HfsHN6wE0J\n\n#가을 #추석 #천고마비 #푸드 #플레이리스트 #미스틱스토리 #뮤직온 #PLAYLIST #MYSTICSTORY #MUSICON https://t.co/EkWlz9h1gj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MUSIC_ON",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "가을",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "추석",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "천고마비",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "푸드",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "플레이리스트",
+					"indices": [
+						138,
+						145
+					]
+				},
+				{
+					"text": "미스틱스토리",
+					"indices": [
+						146,
+						153
+					]
+				},
+				{
+					"text": "뮤직온",
+					"indices": [
+						154,
+						158
+					]
+				},
+				{
+					"text": "PLAYLIST",
+					"indices": [
+						159,
+						168
+					]
+				},
+				{
+					"text": "MYSTICSTORY",
+					"indices": [
+						169,
+						181
+					]
+				},
+				{
+					"text": "MUSICON",
+					"indices": [
+						182,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HfsHN6wE0J",
+					"expanded_url": "https://bit.ly/3ClwyLB",
+					"display_url": "bit.ly/3ClwyLB",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438437249989808000,
+					"id_str": "1438437249989808130",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438437249989808130/pu/img/AJ8cXwZkfLdscDea.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438437249989808130/pu/img/AJ8cXwZkfLdscDea.jpg",
+					"url": "https://t.co/EkWlz9h1gj",
+					"display_url": "pic.twitter.com/EkWlz9h1gj",
+					"expanded_url": "https://twitter.com/themysticstory/status/1438437748537319424/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438437249989808000,
+					"id_str": "1438437249989808130",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438437249989808130/pu/img/AJ8cXwZkfLdscDea.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438437249989808130/pu/img/AJ8cXwZkfLdscDea.jpg",
+					"url": "https://t.co/EkWlz9h1gj",
+					"display_url": "pic.twitter.com/EkWlz9h1gj",
+					"expanded_url": "https://twitter.com/themysticstory/status/1438437748537319424/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 54933,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438437249989808130/pu/vid/1280x720/F1EUbu3tMiKOTeZD.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438437249989808130/pu/vid/640x360/rJIGYvIaD_Fbhaui.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1438437249989808130/pu/pl/vFc35t3kPPlCGyhb.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438437249989808130/pu/vid/480x270/mF8Oq90Ss1hS33_x.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21970,
+			"friends_count": 13,
+			"listed_count": 0,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6222,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#MUSIC_ON] 천고마비의 계절🍁 듣기만 해도 배불러지는 가을 푸드송🌰\n추석에 들으면 딱! 좋은 맛있는 Playlist  오픈🎧\n\n🎨 DRAWING BY 조연호\n🔗 https://t.co/HfsHN6wE0J\n\n#가을 #추석 #천고마비 #푸드 #플레이리스트 #미스틱스토리 #뮤직온 #PLAYLIST #MYSTICSTORY #MUSICON https://t.co/EkWlz9h1gj"
+	},
+	{
 		"created_at": "Thu Sep 16 10:01:43 +0000 2021",
 		"id": 1438442969774891000,
 		"id_str": "1438442969774891008",
