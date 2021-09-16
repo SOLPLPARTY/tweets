@@ -1,6 +1,1394 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 16 04:58:32 +0000 2021",
+		"id": 1438353636556304400,
+		"id_str": "1438366670976868352",
+		"full_text": "Full VOD 📺🎁 \n📍 KCON official - https://t.co/3Wmy0qU5so\n📍 TVING -https://t.co/kKfTjUi3ry",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3Wmy0qU5so",
+					"expanded_url": "https://youtu.be/QskKr634CeA",
+					"display_url": "youtu.be/QskKr634CeA",
+					"indices": [
+						31,
+						54
+					]
+				},
+				{
+					"url": "https://t.co/kKfTjUi3ry",
+					"expanded_url": "https://www.tving.com/vod/player/E003606786",
+					"display_url": "tving.com/vod/player/E00…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438353634832445400,
+		"in_reply_to_status_id_str": "1438353634832445442",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396375,
+			"friends_count": 75,
+			"listed_count": 1006,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 275,
+		"favorite_count": 1183,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Full VOD 📺🎁 \n📍 KCON official - https://t.co/3Wmy0qU5so\n📍 TVING -https://t.co/kKfTjUi3ry"
+	},
+	{
+		"created_at": "Thu Sep 16 04:58:29 +0000 2021",
+		"id": 1438353634832445400,
+		"id_str": "1438366657903202308",
+		"full_text": "[DANCE PRACTICE] Dreamcatcherの練習室公開！\n天使のようなDreamcatcherの\nDANCE PRACTICEを見る人～？😇\n\n* DANCE PRACTICE FULL映像はYouTube KCON officialチャンネルPREMIUM等級とTVING利用券をお持ちの方に公開されます。\n\n#KCONTACT #KCONTACTHI5 #Dreamcatcher #드림캐쳐 @hf_dreamcatcher",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						164,
+						173
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						174,
+						186
+					]
+				},
+				{
+					"text": "Dreamcatcher",
+					"indices": [
+						187,
+						200
+					]
+				},
+				{
+					"text": "드림캐쳐",
+					"indices": [
+						201,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hf_dreamcatcher",
+					"name": "드림캐쳐 Dreamcatcher",
+					"id": 729935154290925600,
+					"id_str": "729935154290925570",
+					"indices": [
+						207,
+						223
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438353632974360600,
+		"in_reply_to_status_id_str": "1438353632974360576",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396375,
+			"friends_count": 75,
+			"listed_count": 1006,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 134,
+		"favorite_count": 808,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "[DANCE PRACTICE] Dreamcatcherの練習室公開！\n天使のようなDreamcatcherの\nDANCE PRACTICEを見る人～？😇\n\n* DANCE PRACTICE FULL映像はYouTube KCON officialチャンネルPREMIUM等級とTVING利用券をお持ちの方に公開されます。\n\n#KCONTACT #KCONTACTHI5 #Dreamcatcher #드림캐쳐 @hf_dreamcatcher"
+	},
+	{
+		"created_at": "Thu Sep 16 04:58:21 +0000 2021",
+		"id": 1438353632974360600,
+		"id_str": "1438366623912665092",
+		"full_text": "[DANCE PRACTICE] Dreamcatcher의 연습실 공개!\n 천사같은 얼굴로 드림캐쳐 댄프본다 말해 ~ 😇\n\n* DANCE PRACTICE FULL영상은 유튜브 KCON official 채널 PREMIUM 등급과 TVING 이용권 보유자에게 공개됩니다.\n\n#KCONTACT #KCONTACTHI5 #Dreamcatcher #드림캐쳐 @hf_dreamcatcher",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						149,
+						158
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						159,
+						171
+					]
+				},
+				{
+					"text": "Dreamcatcher",
+					"indices": [
+						172,
+						185
+					]
+				},
+				{
+					"text": "드림캐쳐",
+					"indices": [
+						186,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hf_dreamcatcher",
+					"name": "드림캐쳐 Dreamcatcher",
+					"id": 729935154290925600,
+					"id_str": "729935154290925570",
+					"indices": [
+						192,
+						208
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438351940124123100,
+		"in_reply_to_status_id_str": "1438351940124123138",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396375,
+			"friends_count": 75,
+			"listed_count": 1006,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 114,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[DANCE PRACTICE] Dreamcatcher의 연습실 공개!\n 천사같은 얼굴로 드림캐쳐 댄프본다 말해 ~ 😇\n\n* DANCE PRACTICE FULL영상은 유튜브 KCON official 채널 PREMIUM 등급과 TVING 이용권 보유자에게 공개됩니다.\n\n#KCONTACT #KCONTACTHI5 #Dreamcatcher #드림캐쳐 @hf_dreamcatcher"
+	},
+	{
+		"created_at": "Thu Sep 16 04:58:15 +0000 2021",
+		"id": 1438351940124123100,
+		"id_str": "1438366598105083904",
+		"full_text": "[DANCE PRACTICE] Dreamcatcher's Practice Room Revealed!\nWith a face of an angel, tell us you'll watch Dreamcatcher's Dance Practice\n* Only KCON:TACT PREMIUM or TVING members can access the full ver. of DANCE PRACTICE\n#KCONTACT #KCONTACTHI5 #Dreamcatcher #드림캐쳐 @hf_dreamcatcher https://t.co/uKUlWz1rvR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						217,
+						226
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						227,
+						239
+					]
+				},
+				{
+					"text": "Dreamcatcher",
+					"indices": [
+						240,
+						253
+					]
+				},
+				{
+					"text": "드림캐쳐",
+					"indices": [
+						254,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hf_dreamcatcher",
+					"name": "드림캐쳐 Dreamcatcher",
+					"id": 729935154290925600,
+					"id_str": "729935154290925570",
+					"indices": [
+						260,
+						276
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438078005490819000,
+					"id_str": "1438078005490819074",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438078005490819074/pu/img/5Vxx62h4W8WIenfD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438078005490819074/pu/img/5Vxx62h4W8WIenfD.jpg",
+					"url": "https://t.co/uKUlWz1rvR",
+					"display_url": "pic.twitter.com/uKUlWz1rvR",
+					"expanded_url": "https://twitter.com/KCON_official/status/1438351940124123138/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438078005490819000,
+					"id_str": "1438078005490819074",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438078005490819074/pu/img/5Vxx62h4W8WIenfD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438078005490819074/pu/img/5Vxx62h4W8WIenfD.jpg",
+					"url": "https://t.co/uKUlWz1rvR",
+					"display_url": "pic.twitter.com/uKUlWz1rvR",
+					"expanded_url": "https://twitter.com/KCON_official/status/1438351940124123138/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 44044,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1438078005490819074/pu/pl/SdzPMqhfVy3h91P6.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438078005490819074/pu/vid/480x270/aw0vwNlFR78cLmyv.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438078005490819074/pu/vid/640x360/cLJ3e-b2n0zylTEx.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438078005490819074/pu/vid/1280x720/xuy2AlW5rwAxaAa0.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396375,
+			"friends_count": 75,
+			"listed_count": 1006,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 442,
+		"favorite_count": 1525,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[DANCE PRACTICE] Dreamcatcher's Practice Room Revealed!\nWith a face of an angel, tell us you'll watch Dreamcatcher's Dance Practice\n* Only KCON:TACT PREMIUM or TVING members can access the full ver. of DANCE PRACTICE\n#KCONTACT #KCONTACTHI5 #Dreamcatcher #드림캐쳐 @hf_dreamcatcher https://t.co/uKUlWz1rvR"
+	},
+	{
+		"created_at": "Thu Sep 16 04:29:39 +0000 2021",
+		"id": 1438358090940706800,
+		"id_str": "1438359401891520512",
+		"full_text": "[VIDEO] [#인순이] #윤태진의9회말앵콜_음악편\n\n[특별기획]지친 하루를 보낸 여러분에게 드리는 선물 / 오프닝부터 춘코노 / #밤이면밤마다 / 국민디바 인순이 님과 함께한 제대로 힐링타임 / 다이애나로스 비공개 소장품 까지?!\n\n👉 https://t.co/jmIRzJxkDM\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인순이",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "윤태진의9회말앵콜_음악편",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"text": "밤이면밤마다",
+					"indices": [
+						74,
+						81
+					]
+				},
+				{
+					"text": "INSOONI",
+					"indices": [
+						159,
+						167
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						175,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jmIRzJxkDM",
+					"expanded_url": "https://youtu.be/X5pKK_qOhtY",
+					"display_url": "youtu.be/X5pKK_qOhtY",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 361,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#인순이] #윤태진의9회말앵콜_음악편\n\n[특별기획]지친 하루를 보낸 여러분에게 드리는 선물 / 오프닝부터 춘코노 / #밤이면밤마다 / 국민디바 인순이 님과 함께한 제대로 힐링타임 / 다이애나로스 비공개 소장품 까지?!\n\n👉 https://t.co/jmIRzJxkDM\n\n#INSOONI #휴맵컨텐츠 #HUMAPCONTENTS"
+	},
+	{
+		"created_at": "Thu Sep 16 04:29:37 +0000 2021",
+		"id": 1438352406882906000,
+		"id_str": "1438359392995381256",
+		"full_text": "aimy moon과 제페터들이 함께한 첫번째 앨범\n[Aimy Moon at ZEPETO] 가 발매되었습니다🔥🔥❤️\n이번 앨범은 타이틀곡, 수록곡 2곡으로 이루어져있습니다✨\n\nhttps://t.co/7Z7LvRNbGQ\n\nhttps://t.co/HstYk7rDIJ\n\n#enterarts #aim #aimymoon #newalbum #zepeto #zepetomusicvideo #많관부 https://t.co/pK0JyROPJW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "enterarts",
+					"indices": [
+						147,
+						157
+					]
+				},
+				{
+					"text": "aim",
+					"indices": [
+						158,
+						162
+					]
+				},
+				{
+					"text": "aimymoon",
+					"indices": [
+						163,
+						172
+					]
+				},
+				{
+					"text": "newalbum",
+					"indices": [
+						173,
+						182
+					]
+				},
+				{
+					"text": "zepeto",
+					"indices": [
+						183,
+						190
+					]
+				},
+				{
+					"text": "zepetomusicvideo",
+					"indices": [
+						191,
+						208
+					]
+				},
+				{
+					"text": "많관부",
+					"indices": [
+						209,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7Z7LvRNbGQ",
+					"expanded_url": "https://youtu.be/ugD4nrLjIfM",
+					"display_url": "youtu.be/ugD4nrLjIfM",
+					"indices": [
+						97,
+						120
+					]
+				},
+				{
+					"url": "https://t.co/HstYk7rDIJ",
+					"expanded_url": "https://youtu.be/CTrisdaBKZA",
+					"display_url": "youtu.be/CTrisdaBKZA",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438352400704626700,
+					"id_str": "1438352400704626694",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/E_YN40HUYAYivOe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_YN40HUYAYivOe.jpg",
+					"url": "https://t.co/pK0JyROPJW",
+					"display_url": "pic.twitter.com/pK0JyROPJW",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1438352406882906113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438352400704626700,
+					"id_str": "1438352400704626694",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/E_YN40HUYAYivOe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_YN40HUYAYivOe.jpg",
+					"url": "https://t.co/pK0JyROPJW",
+					"display_url": "pic.twitter.com/pK0JyROPJW",
+					"expanded_url": "https://twitter.com/aimbyenterarts/status/1438352406882906113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 964372210436591600,
+			"id_str": "964372210436591616",
+			"name": "Enterarts - A.I.M",
+			"screen_name": "aimbyenterarts",
+			"location": "",
+			"description": "The World's First AI Music Production Company & Record Label / Artist Agency 세계 최초 인공지능 음반 제작 레이블",
+			"url": "https://t.co/j360f0m0bn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j360f0m0bn",
+							"expanded_url": "http://www.enterarts.net",
+							"display_url": "enterarts.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 380,
+			"friends_count": 2,
+			"listed_count": 6,
+			"created_at": "Fri Feb 16 05:33:46 +0000 2018",
+			"favourites_count": 1195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1347144010217918468/W5fn6jTa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/964372210436591616/1518759589",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "aimy moon과 제페터들이 함께한 첫번째 앨범\n[Aimy Moon at ZEPETO] 가 발매되었습니다🔥🔥❤️\n이번 앨범은 타이틀곡, 수록곡 2곡으로 이루어져있습니다✨\n\nhttps://t.co/7Z7LvRNbGQ\n\nhttps://t.co/HstYk7rDIJ\n\n#enterarts #aim #aimymoon #newalbum #zepeto #zepetomusicvideo #많관부 https://t.co/pK0JyROPJW"
+	},
+	{
+		"created_at": "Thu Sep 16 04:29:34 +0000 2021",
+		"id": 1438350920840933400,
+		"id_str": "1438359379913347072",
+		"full_text": "📣공연 관련 자세한 사항은 예매 상세페이지를 꼭! 확인해주세요📣\n예매 페이지-&gt; https://t.co/SsznY0XEhG\n\n#노들섬 #원더윅스\n#두 #이츠미 #치즈\n#드쿤지오 #밴드데일 #아도이\n#홍크 #검은잎들 #9와숫자들",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "노들섬",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "원더윅스",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "두",
+					"indices": [
+						84,
+						86
+					]
+				},
+				{
+					"text": "이츠미",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "치즈",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "드쿤지오",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "밴드데일",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "아도이",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "홍크",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "검은잎들",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "9와숫자들",
+					"indices": [
+						123,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SsznY0XEhG",
+					"expanded_url": "http://m.ticket.yes24.com/Perf/40057",
+					"display_url": "m.ticket.yes24.com/Perf/40057",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1438350918571888600,
+		"in_reply_to_status_id_str": "1438350918571888655",
+		"in_reply_to_user_id": 52109991,
+		"in_reply_to_user_id_str": "52109991",
+		"in_reply_to_screen_name": "orm_ent",
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 719,
+			"friends_count": 324,
+			"listed_count": 0,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1631157600",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📣공연 관련 자세한 사항은 예매 상세페이지를 꼭! 확인해주세요📣\n예매 페이지-&gt; https://t.co/SsznY0XEhG\n\n#노들섬 #원더윅스\n#두 #이츠미 #치즈\n#드쿤지오 #밴드데일 #아도이\n#홍크 #검은잎들 #9와숫자들"
+	},
+	{
+		"created_at": "Thu Sep 16 04:29:31 +0000 2021",
+		"id": 1438350918571888600,
+		"id_str": "1438359366835580931",
+		"full_text": "📍티켓가격\n-오프라인 : 전석 33,000원\n-온라인 : 1회권 5,500원\n             1주권 11,000원 (1주단위로 3회 공연 시청 가능)\n             전회권 33,000원 (12회 모든 공연 시청 가능)\n*온라인 1주권과 전회권은 &lt;단추TV&gt;에서 예매 가능합니다. https://t.co/ThSmD5cxDU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438350910921474000,
+					"id_str": "1438350910921474051",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/E_YMiGPVgAMc3Bu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_YMiGPVgAMc3Bu.jpg",
+					"url": "https://t.co/ThSmD5cxDU",
+					"display_url": "pic.twitter.com/ThSmD5cxDU",
+					"expanded_url": "https://twitter.com/orm_ent/status/1438350918571888655/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1459,
+							"h": 1459,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438350910921474000,
+					"id_str": "1438350910921474051",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/E_YMiGPVgAMc3Bu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_YMiGPVgAMc3Bu.jpg",
+					"url": "https://t.co/ThSmD5cxDU",
+					"display_url": "pic.twitter.com/ThSmD5cxDU",
+					"expanded_url": "https://twitter.com/orm_ent/status/1438350918571888655/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1459,
+							"h": 1459,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1438350907914145800,
+		"in_reply_to_status_id_str": "1438350907914145792",
+		"in_reply_to_user_id": 52109991,
+		"in_reply_to_user_id_str": "52109991",
+		"in_reply_to_screen_name": "orm_ent",
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 719,
+			"friends_count": 324,
+			"listed_count": 0,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1631157600",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📍티켓가격\n-오프라인 : 전석 33,000원\n-온라인 : 1회권 5,500원\n             1주권 11,000원 (1주단위로 3회 공연 시청 가능)\n             전회권 33,000원 (12회 모든 공연 시청 가능)\n*온라인 1주권과 전회권은 &lt;단추TV&gt;에서 예매 가능합니다. https://t.co/ThSmD5cxDU"
+	},
+	{
 		"created_at": "Thu Sep 16 04:00:59 +0000 2021",
 		"id": 1438352186589728800,
 		"id_str": "1438352186589728772",
