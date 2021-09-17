@@ -1,6 +1,640 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 17 04:58:33 +0000 2021",
+		"id": 1438714893897584600,
+		"id_str": "1438729063166840834",
+		"full_text": "Full VOD 📺🎁 \n📍 KCON official -  https://t.co/Swz4DiuXWx\n📍 TVING - https://t.co/OnfB6oVn6n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Swz4DiuXWx",
+					"expanded_url": "https://youtu.be/muZxYMNSlBg",
+					"display_url": "youtu.be/muZxYMNSlBg",
+					"indices": [
+						32,
+						55
+					]
+				},
+				{
+					"url": "https://t.co/OnfB6oVn6n",
+					"expanded_url": "http://www.tving.com/vod/player/E003607628",
+					"display_url": "tving.com/vod/player/E00…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1438714486253228000,
+		"in_reply_to_status_id_str": "1438714486253228033",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396636,
+			"friends_count": 75,
+			"listed_count": 1007,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 265,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Full VOD 📺🎁 \n📍 KCON official -  https://t.co/Swz4DiuXWx\n📍 TVING - https://t.co/OnfB6oVn6n"
+	},
+	{
+		"created_at": "Fri Sep 17 04:58:31 +0000 2021",
+		"id": 1438714486253228000,
+		"id_str": "1438729054325182467",
+		"full_text": "[DANCE PRACTICE] GHOST9の練習室公開！\n何回もGHOST9のDANCE PRACTICE見て徹夜してしまった🌙\n\n* DANCE PRACTICE FULL映像はYouTube KCON officialチャンネルPREMIUM等級とTVING利用券をお持ちの方に公開されます。\n\n#KCONTACT #KCONTACTHI5 #GHOST9 #고스트나인 @GHOST9OFFICIAL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						152,
+						161
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						162,
+						174
+					]
+				},
+				{
+					"text": "GHOST9",
+					"indices": [
+						175,
+						182
+					]
+				},
+				{
+					"text": "고스트나인",
+					"indices": [
+						183,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GHOST9OFFICIAL",
+					"name": "GHOST9 (고스트나인)",
+					"id": 1295242234988617700,
+					"id_str": "1295242234988617729",
+					"indices": [
+						190,
+						205
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1438714386848235500,
+		"in_reply_to_status_id_str": "1438714386848235525",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396636,
+			"friends_count": 75,
+			"listed_count": 1007,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 214,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "[DANCE PRACTICE] GHOST9の練習室公開！\n何回もGHOST9のDANCE PRACTICE見て徹夜してしまった🌙\n\n* DANCE PRACTICE FULL映像はYouTube KCON officialチャンネルPREMIUM等級とTVING利用券をお持ちの方に公開されます。\n\n#KCONTACT #KCONTACTHI5 #GHOST9 #고스트나인 @GHOST9OFFICIAL"
+	},
+	{
+		"created_at": "Fri Sep 17 04:58:22 +0000 2021",
+		"id": 1438714386848235500,
+		"id_str": "1438729015695654913",
+		"full_text": "[DANCE PRACTICE] GHOST9의 연습실 공개!\n고스트나인 댄프 반복재생하느라 나 밤샜다🌙\n\n* DANCE PRACTICE FULL영상은 유튜브 KCON official 채널 PREMIUM 등급과 TVING 이용권 보유자에게 공개됩니다.\n\n#KCONTACT #KCONTACTHI5 #GHOST9 #고스트나인 @GHOST9OFFICIAL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						140,
+						149
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						150,
+						162
+					]
+				},
+				{
+					"text": "GHOST9",
+					"indices": [
+						163,
+						170
+					]
+				},
+				{
+					"text": "고스트나인",
+					"indices": [
+						171,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GHOST9OFFICIAL",
+					"name": "GHOST9 (고스트나인)",
+					"id": 1295242234988617700,
+					"id_str": "1295242234988617729",
+					"indices": [
+						178,
+						193
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1438714331764568000,
+		"in_reply_to_status_id_str": "1438714331764568064",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396636,
+			"friends_count": 75,
+			"listed_count": 1007,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 204,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[DANCE PRACTICE] GHOST9의 연습실 공개!\n고스트나인 댄프 반복재생하느라 나 밤샜다🌙\n\n* DANCE PRACTICE FULL영상은 유튜브 KCON official 채널 PREMIUM 등급과 TVING 이용권 보유자에게 공개됩니다.\n\n#KCONTACT #KCONTACTHI5 #GHOST9 #고스트나인 @GHOST9OFFICIAL"
+	},
+	{
+		"created_at": "Fri Sep 17 04:58:15 +0000 2021",
+		"id": 1438714331764568000,
+		"id_str": "1438728985853239296",
+		"full_text": "[DANCE PRACTICE] GHOST9's Practice Room Revealed!\nI was up all night watching GHOST9's Dance Practice over and over🌙\n\n* Only KCON:TACT PREMIUM or TVING members can access the full version of DANCE PRACTICE.\n\n#KCONTACT #KCONTACTHI5 #GHOST9 #고스트나인 @GHOST9OFFICIAL https://t.co/9aPkX2fIdA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						208,
+						217
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						218,
+						230
+					]
+				},
+				{
+					"text": "GHOST9",
+					"indices": [
+						231,
+						238
+					]
+				},
+				{
+					"text": "고스트나인",
+					"indices": [
+						239,
+						245
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GHOST9OFFICIAL",
+					"name": "GHOST9 (고스트나인)",
+					"id": 1295242234988617700,
+					"id_str": "1295242234988617729",
+					"indices": [
+						246,
+						261
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438681350106583000,
+					"id_str": "1438681350106583043",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438681350106583043/pu/img/QN1Fu6gxep2cPk8Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438681350106583043/pu/img/QN1Fu6gxep2cPk8Q.jpg",
+					"url": "https://t.co/9aPkX2fIdA",
+					"display_url": "pic.twitter.com/9aPkX2fIdA",
+					"expanded_url": "https://twitter.com/KCON_official/status/1438714331764568064/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438681350106583000,
+					"id_str": "1438681350106583043",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438681350106583043/pu/img/QN1Fu6gxep2cPk8Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438681350106583043/pu/img/QN1Fu6gxep2cPk8Q.jpg",
+					"url": "https://t.co/9aPkX2fIdA",
+					"display_url": "pic.twitter.com/9aPkX2fIdA",
+					"expanded_url": "https://twitter.com/KCON_official/status/1438714331764568064/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 43109,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1438681350106583043/pu/pl/e7qkWbj0Kgo50B0i.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438681350106583043/pu/vid/480x270/KDZPeZbjCitmdFrg.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438681350106583043/pu/vid/640x360/yd_Co75Qevq4Gcjf.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438681350106583043/pu/vid/1280x720/AfI7hKi22Hl41P4N.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396636,
+			"friends_count": 75,
+			"listed_count": 1007,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 118,
+		"favorite_count": 376,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[DANCE PRACTICE] GHOST9's Practice Room Revealed!\nI was up all night watching GHOST9's Dance Practice over and over🌙\n\n* Only KCON:TACT PREMIUM or TVING members can access the full version of DANCE PRACTICE.\n\n#KCONTACT #KCONTACTHI5 #GHOST9 #고스트나인 @GHOST9OFFICIAL https://t.co/9aPkX2fIdA"
+	},
+	{
 		"created_at": "Fri Sep 17 04:10:26 +0000 2021",
 		"id": 1438716951954612200,
 		"id_str": "1438716951954612224",
