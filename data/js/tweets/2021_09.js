@@ -1,6 +1,974 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 17 09:58:20 +0000 2021",
+		"id": 1438791236492546000,
+		"id_str": "1438804504313540611",
+		"full_text": "Full VOD 📺🎁 \n📍 KCON official - https://t.co/h3qIKv0OWQ\n📍 TVING - https://t.co/gTyPED1niK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h3qIKv0OWQ",
+					"expanded_url": "https://youtu.be/mk-dAd9X9GE",
+					"display_url": "youtu.be/mk-dAd9X9GE",
+					"indices": [
+						31,
+						54
+					]
+				},
+				{
+					"url": "https://t.co/gTyPED1niK",
+					"expanded_url": "https://www.tving.com/vod/player/E003598445",
+					"display_url": "tving.com/vod/player/E00…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438790838260101000,
+		"in_reply_to_status_id_str": "1438790838260101122",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396676,
+			"friends_count": 75,
+			"listed_count": 1007,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Full VOD 📺🎁 \n📍 KCON official - https://t.co/h3qIKv0OWQ\n📍 TVING - https://t.co/gTyPED1niK"
+	},
+	{
+		"created_at": "Fri Sep 17 09:58:17 +0000 2021",
+		"id": 1438790838260101000,
+		"id_str": "1438804495077675008",
+		"full_text": "Trick or Treat~ 世界の飴を全部あげたいATEEZ🍭\nKCON:TACTを胸キュンさせたATEEZのLIVE PREMIERE \nFULL VODが公開されました！\n\n#KCONTACTHI5ATEEZ #LIVEPREMIERE #KCONTACTHI5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACTHI5ATEEZ",
+					"indices": [
+						91,
+						108
+					]
+				},
+				{
+					"text": "LIVEPREMIERE",
+					"indices": [
+						109,
+						122
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						123,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438790836502761500,
+		"in_reply_to_status_id_str": "1438790836502761479",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396676,
+			"friends_count": 75,
+			"listed_count": 1007,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "Trick or Treat~ 世界の飴を全部あげたいATEEZ🍭\nKCON:TACTを胸キュンさせたATEEZのLIVE PREMIERE \nFULL VODが公開されました！\n\n#KCONTACTHI5ATEEZ #LIVEPREMIERE #KCONTACTHI5"
+	},
+	{
+		"created_at": "Fri Sep 17 09:58:14 +0000 2021",
+		"id": 1438790836502761500,
+		"id_str": "1438804481903374337",
+		"full_text": "Trick or Treat~ 사탕 백만개 주고 싶은 ATEEZ🍭\nKCON:TACT를 들었다 놓는 에이티즈의 LIVE PREMIERE \nFULL VOD가 공개되었습니다!\n\n#KCONTACTHI5ATEEZ #LIVEPREMIERE #KCONTACTHI5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACTHI5ATEEZ",
+					"indices": [
+						95,
+						112
+					]
+				},
+				{
+					"text": "LIVEPREMIERE",
+					"indices": [
+						113,
+						126
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						127,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438789825486807000,
+		"in_reply_to_status_id_str": "1438789825486807040",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396676,
+			"friends_count": 75,
+			"listed_count": 1007,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "Trick or Treat~ 사탕 백만개 주고 싶은 ATEEZ🍭\nKCON:TACT를 들었다 놓는 에이티즈의 LIVE PREMIERE \nFULL VOD가 공개되었습니다!\n\n#KCONTACTHI5ATEEZ #LIVEPREMIERE #KCONTACTHI5"
+	},
+	{
+		"created_at": "Fri Sep 17 09:37:19 +0000 2021",
+		"id": 1438799217166803000,
+		"id_str": "1438799217166802944",
+		"full_text": "#문화가있는날 #블로그\n뻔한 놀이는 그만! FUN한 우리놀이터에서 놀자\nhttps://t.co/Cj24gGoWwU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "문화가있는날",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						8,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Cj24gGoWwU",
+					"expanded_url": "https://bit.ly/3hHfpE6",
+					"display_url": "bit.ly/3hHfpE6",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#문화가있는날 #블로그\n뻔한 놀이는 그만! FUN한 우리놀이터에서 놀자\nhttps://t.co/Cj24gGoWwU"
+	},
+	{
+		"created_at": "Fri Sep 17 09:29:44 +0000 2021",
+		"id": 1438796047245975600,
+		"id_str": "1438797307416297476",
+		"full_text": "[Teaser #2]\n⠀\n보라미유, ASTER, NEO - 'On &amp; On'\n2021.09.20. 6PM Release\n⠀\n▷ https://t.co/8bc5Xen0B5\n\n#보라미유 #아스터 #네오 #이니셜뮤직 #쇼파르엔터테인먼트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보라미유",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "아스터",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "네오",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "이니셜뮤직",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "쇼파르엔터테인먼트",
+					"indices": [
+						122,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8bc5Xen0B5",
+					"expanded_url": "https://youtu.be/69mq9MN216s",
+					"display_url": "youtu.be/69mq9MN216s",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/VtrzF3mRza",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VtrzF3mRza",
+							"expanded_url": "http://shofar-ent.com",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7725,
+			"friends_count": 4,
+			"listed_count": 66,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4485,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1631001017",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Teaser #2]\n⠀\n보라미유, ASTER, NEO - 'On &amp; On'\n2021.09.20. 6PM Release\n⠀\n▷ https://t.co/8bc5Xen0B5\n\n#보라미유 #아스터 #네오 #이니셜뮤직 #쇼파르엔터테인먼트"
+	},
+	{
+		"created_at": "Fri Sep 17 09:29:38 +0000 2021",
+		"id": 1438795062742110200,
+		"id_str": "1438797281734574080",
+		"full_text": "[#Video] #샘김\n\n샘김 비긴어게인 오픈마이크 세 번째 영상 'Where were you in the morning'이 공개되었습니다🎤 추석 연휴를 앞둔 금요일, 샘김 목소리와 함께 더욱 행복한 저녁 보내세요🌕✨\n\n🔗https://t.co/5j30IsKb6C\n\n@leegititssam\n#SamKim #비긴어게인 #오픈마이크 #Wherewereyouinthemorning https://t.co/Izt2QxwWb9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "샘김",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "SamKim",
+					"indices": [
+						163,
+						170
+					]
+				},
+				{
+					"text": "비긴어게인",
+					"indices": [
+						171,
+						177
+					]
+				},
+				{
+					"text": "오픈마이크",
+					"indices": [
+						178,
+						184
+					]
+				},
+				{
+					"text": "Wherewereyouinthemorning",
+					"indices": [
+						185,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeegitItsSam",
+					"name": "Sam Kim 샘김",
+					"id": 1202716135,
+					"id_str": "1202716135",
+					"indices": [
+						149,
+						162
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5j30IsKb6C",
+					"expanded_url": "https://youtu.be/7ZdB5rgCjEE",
+					"display_url": "youtu.be/7ZdB5rgCjEE",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438795057138585600,
+					"id_str": "1438795057138585605",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/E_egez1VUAUluK_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_egez1VUAUluK_.jpg",
+					"url": "https://t.co/Izt2QxwWb9",
+					"display_url": "pic.twitter.com/Izt2QxwWb9",
+					"expanded_url": "https://twitter.com/antennamusic/status/1438795062742110210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1150,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438795057138585600,
+					"id_str": "1438795057138585605",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/E_egez1VUAUluK_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_egez1VUAUluK_.jpg",
+					"url": "https://t.co/Izt2QxwWb9",
+					"display_url": "pic.twitter.com/Izt2QxwWb9",
+					"expanded_url": "https://twitter.com/antennamusic/status/1438795062742110210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1150,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 유희열 '생활음악' EP1. 일요일 오후 - 안테나 유튜브 채널에서 만나보세요!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37084,
+			"friends_count": 10,
+			"listed_count": 375,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3945,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #샘김\n\n샘김 비긴어게인 오픈마이크 세 번째 영상 'Where were you in the morning'이 공개되었습니다🎤 추석 연휴를 앞둔 금요일, 샘김 목소리와 함께 더욱 행복한 저녁 보내세요🌕✨\n\n🔗https://t.co/5j30IsKb6C\n\n@leegititssam\n#SamKim #비긴어게인 #오픈마이크 #Wherewereyouinthemorning https://t.co/Izt2QxwWb9"
+	},
+	{
+		"created_at": "Fri Sep 17 09:29:32 +0000 2021",
+		"id": 1438791003800944600,
+		"id_str": "1438797256107466756",
+		"full_text": "⭐️PAKTORY PLAYLIST⭐️\n\"Thanksgiving Day\"\n\nYoutube : https://t.co/1TmYiaG1pN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1TmYiaG1pN",
+					"expanded_url": "https://youtu.be/g8NMDk4e_8Q",
+					"display_url": "youtu.be/g8NMDk4e_8Q",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1189041084971634700,
+			"id_str": "1189041084971634688",
+			"name": "PAKTORY COMPANY",
+			"screen_name": "paktoryofficial",
+			"location": "seoul",
+			"description": "contact@paktory.net",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Tue Oct 29 04:47:52 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253215294585094144/nBxxYJVX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "⭐️PAKTORY PLAYLIST⭐️\n\"Thanksgiving Day\"\n\nYoutube : https://t.co/1TmYiaG1pN"
+	},
+	{
 		"created_at": "Fri Sep 17 09:15:33 +0000 2021",
 		"id": 1438793738990628900,
 		"id_str": "1438793738990628865",
@@ -286,7 +1254,7 @@ Grailbird.data.tweets_2021_09 =
 		"created_at": "Fri Sep 17 08:58:46 +0000 2021",
 		"id": 1438788479635247000,
 		"id_str": "1438789515053867011",
-		"full_text": "코시국에 어디 갈데도 없는데 집콕하며 달려볼까요??🏃🏃‍♀\n\n자세한 라인업은 상세 이미지를 참고해주시기 바랍니다! \n(*명단순서와 공연순서는 다릅니다!!)\n\n#방구석콘서트 #JUMF #전주얼티밋뮤직페스티벌\n\nhttps://t.co/0QIa3iHeMa",
+		"full_text": "코시국에 어디 갈데도 없는데 집콕하며 달려볼까요??🏃🏃♀\n\n자세한 라인업은 상세 이미지를 참고해주시기 바랍니다! \n(*명단순서와 공연순서는 다릅니다!!)\n\n#방구석콘서트 #JUMF #전주얼티밋뮤직페스티벌\n\nhttps://t.co/0QIa3iHeMa",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -409,7 +1377,7 @@ Grailbird.data.tweets_2021_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "코시국에 어디 갈데도 없는데 집콕하며 달려볼까요??🏃🏃‍♀\n\n자세한 라인업은 상세 이미지를 참고해주시기 바랍니다! \n(*명단순서와 공연순서는 다릅니다!!)\n\n#방구석콘서트 #JUMF #전주얼티밋뮤직페스티벌\n\nhttps://t.co/0QIa3iHeMa"
+		"text": "코시국에 어디 갈데도 없는데 집콕하며 달려볼까요??🏃🏃♀\n\n자세한 라인업은 상세 이미지를 참고해주시기 바랍니다! \n(*명단순서와 공연순서는 다릅니다!!)\n\n#방구석콘서트 #JUMF #전주얼티밋뮤직페스티벌\n\nhttps://t.co/0QIa3iHeMa"
 	},
 	{
 		"created_at": "Fri Sep 17 08:58:38 +0000 2021",
