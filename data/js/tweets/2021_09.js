@@ -1,6 +1,554 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 17 00:29:43 +0000 2021",
+		"id": 1438653976036069400,
+		"id_str": "1438661409160708096",
+		"full_text": "* ‘세상의 바람에 흔들리지 않도록’ \nwith 블랙야크 : 키즈용 후리스 및 패딩 2천 벌 기부\n* ‘사랑의 이불’ \nwith 이브자리 : 향균 차렵이불 300개 기부\n* ‘맑은 물 한모금이 휴식이 될 수 있도록’ \nwith 제주삼다수 : 생수 약 3만 개 기부 https://t.co/OUhAKHYI14",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438651563027746800,
+					"id_str": "1438651563027746819",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/E_cd-WnUUAMhRNJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_cd-WnUUAMhRNJ.jpg",
+					"url": "https://t.co/OUhAKHYI14",
+					"display_url": "pic.twitter.com/OUhAKHYI14",
+					"expanded_url": "https://twitter.com/edam_ent/status/1438653976036069376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438651563027746800,
+					"id_str": "1438651563027746819",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/E_cd-WnUUAMhRNJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_cd-WnUUAMhRNJ.jpg",
+					"url": "https://t.co/OUhAKHYI14",
+					"display_url": "pic.twitter.com/OUhAKHYI14",
+					"expanded_url": "https://twitter.com/edam_ent/status/1438653976036069376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438651616173772800,
+					"id_str": "1438651616173772802",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/E_ceBcmUUAIgA5Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_ceBcmUUAIgA5Q.jpg",
+					"url": "https://t.co/OUhAKHYI14",
+					"display_url": "pic.twitter.com/OUhAKHYI14",
+					"expanded_url": "https://twitter.com/edam_ent/status/1438653976036069376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438651655990304800,
+					"id_str": "1438651655990304771",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/E_ceDw7UYAMt5Lp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_ceDw7UYAMt5Lp.jpg",
+					"url": "https://t.co/OUhAKHYI14",
+					"display_url": "pic.twitter.com/OUhAKHYI14",
+					"expanded_url": "https://twitter.com/edam_ent/status/1438653976036069376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438653967647473700,
+		"in_reply_to_status_id_str": "1438653967647473664",
+		"in_reply_to_user_id": 1214016219889553400,
+		"in_reply_to_user_id_str": "1214016219889553409",
+		"in_reply_to_screen_name": "edam_ent",
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53001,
+			"friends_count": 2,
+			"listed_count": 196,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 591,
+		"favorite_count": 1038,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "* ‘세상의 바람에 흔들리지 않도록’ \nwith 블랙야크 : 키즈용 후리스 및 패딩 2천 벌 기부\n* ‘사랑의 이불’ \nwith 이브자리 : 향균 차렵이불 300개 기부\n* ‘맑은 물 한모금이 휴식이 될 수 있도록’ \nwith 제주삼다수 : 생수 약 3만 개 기부 https://t.co/OUhAKHYI14"
+	},
+	{
+		"created_at": "Fri Sep 17 00:29:36 +0000 2021",
+		"id": 1438653967647473700,
+		"id_str": "1438661379242840065",
+		"full_text": "* ‘누구도 아프지 않도록 구급상자’ \nwith 경동제약 그날엔 : 구급상자 세트 2천 개 기부\n* ‘너의 첫걸음을 응원해’ \nwith 뉴발란스 : 운동화 약 1천 켤레 기부\n* ‘행복을 반올림’ \nwith 반올림피자샵 : 피자 약 2천 판 기부 https://t.co/DXbIOEynKw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438651233871433700,
+					"id_str": "1438651233871433728",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/E_cdrMaVkAAB0dI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_cdrMaVkAAB0dI.jpg",
+					"url": "https://t.co/DXbIOEynKw",
+					"display_url": "pic.twitter.com/DXbIOEynKw",
+					"expanded_url": "https://twitter.com/edam_ent/status/1438653967647473664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438651233871433700,
+					"id_str": "1438651233871433728",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/E_cdrMaVkAAB0dI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_cdrMaVkAAB0dI.jpg",
+					"url": "https://t.co/DXbIOEynKw",
+					"display_url": "pic.twitter.com/DXbIOEynKw",
+					"expanded_url": "https://twitter.com/edam_ent/status/1438653967647473664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438651280398819300,
+					"id_str": "1438651280398819329",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/E_cdt5vVIAEBcs4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_cdt5vVIAEBcs4.jpg",
+					"url": "https://t.co/DXbIOEynKw",
+					"display_url": "pic.twitter.com/DXbIOEynKw",
+					"expanded_url": "https://twitter.com/edam_ent/status/1438653967647473664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438651319921774600,
+					"id_str": "1438651319921774594",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/E_cdwM-VkAIycPT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_cdwM-VkAIycPT.jpg",
+					"url": "https://t.co/DXbIOEynKw",
+					"display_url": "pic.twitter.com/DXbIOEynKw",
+					"expanded_url": "https://twitter.com/edam_ent/status/1438653967647473664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438653959049154600,
+		"in_reply_to_status_id_str": "1438653959049154562",
+		"in_reply_to_user_id": 1214016219889553400,
+		"in_reply_to_user_id_str": "1214016219889553409",
+		"in_reply_to_screen_name": "edam_ent",
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53001,
+			"friends_count": 2,
+			"listed_count": 196,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 607,
+		"favorite_count": 1059,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "* ‘누구도 아프지 않도록 구급상자’ \nwith 경동제약 그날엔 : 구급상자 세트 2천 개 기부\n* ‘너의 첫걸음을 응원해’ \nwith 뉴발란스 : 운동화 약 1천 켤레 기부\n* ‘행복을 반올림’ \nwith 반올림피자샵 : 피자 약 2천 판 기부 https://t.co/DXbIOEynKw"
+	},
+	{
+		"created_at": "Fri Sep 17 00:29:31 +0000 2021",
+		"id": 1438653959049154600,
+		"id_str": "1438661357583454208",
+		"full_text": "매해 9월에 돌아오는 데뷔 기념일을\n올해에는 조금 더 의미 있게 보내고자\n많은 분들과 함께 도움이 필요한 곳에\n따스한 온기를 전하게 되었습니다.\n\n13년 동안 아이유의 모든 질문들에\n“그렇다”라고 답해준 유애나가 있었기에\n의미 있는 마음을 나눌 수 있었습니다.\n\n오늘을 만들어주어서 고마워요💜",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1214016219889553400,
+			"id_str": "1214016219889553409",
+			"name": "EDAM Ent.",
+			"screen_name": "edam_ent",
+			"location": "",
+			"description": "EDAM Entertainment Official",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53001,
+			"friends_count": 2,
+			"listed_count": 196,
+			"created_at": "Mon Jan 06 02:50:04 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229315447058653184/paC9xrhE_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 941,
+		"favorite_count": 1586,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "매해 9월에 돌아오는 데뷔 기념일을\n올해에는 조금 더 의미 있게 보내고자\n많은 분들과 함께 도움이 필요한 곳에\n따스한 온기를 전하게 되었습니다.\n\n13년 동안 아이유의 모든 질문들에\n“그렇다”라고 답해준 유애나가 있었기에\n의미 있는 마음을 나눌 수 있었습니다.\n\n오늘을 만들어주어서 고마워요💜"
+	},
+	{
 		"created_at": "Thu Sep 16 23:58:27 +0000 2021",
 		"id": 1438647811659079700,
 		"id_str": "1438653539610464260",
