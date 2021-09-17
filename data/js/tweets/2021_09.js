@@ -1,6 +1,1350 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 17 04:10:26 +0000 2021",
+		"id": 1438716951954612200,
+		"id_str": "1438716951954612224",
+		"full_text": "#SMTOWN\nNCT 127 엔시티 127 'Sticker' MV\nhttps://t.co/627dVFiv40",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/627dVFiv40",
+					"expanded_url": "https://youtu.be/1oYWnbTSang",
+					"display_url": "youtu.be/1oYWnbTSang",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN\nNCT 127 엔시티 127 'Sticker' MV\nhttps://t.co/627dVFiv40"
+	},
+	{
+		"created_at": "Fri Sep 17 03:58:33 +0000 2021",
+		"id": 1438699398205112300,
+		"id_str": "1438713962263203840",
+		"full_text": "Full VOD 📺🎁  📍 KCON official - https://t.co/gFZxT6kgOr\n📍 TVING -https://t.co/N9kKq4qaFn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gFZxT6kgOr",
+					"expanded_url": "https://youtu.be/jYqeJpEH3L0",
+					"display_url": "youtu.be/jYqeJpEH3L0",
+					"indices": [
+						31,
+						54
+					]
+				},
+				{
+					"url": "https://t.co/N9kKq4qaFn",
+					"expanded_url": "https://www.tving.com/vod/player/E003607629",
+					"display_url": "tving.com/vod/player/E00…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438699395906617300,
+		"in_reply_to_status_id_str": "1438699395906617350",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396619,
+			"friends_count": 75,
+			"listed_count": 1007,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 253,
+		"favorite_count": 462,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Full VOD 📺🎁  📍 KCON official - https://t.co/gFZxT6kgOr\n📍 TVING -https://t.co/N9kKq4qaFn"
+	},
+	{
+		"created_at": "Fri Sep 17 03:58:26 +0000 2021",
+		"id": 1438699395906617300,
+		"id_str": "1438713932374544386",
+		"full_text": "[DANCE PRACTICE] PARKJIHOONの練習室公開！\nJIHOONのDANCE PRACTICEに焦点を合わせて～\nその視線を離さないで~❣\n\n* DANCE PRACTICE FULL映像はYouTube KCON officialチャンネルPREMIUM等級とTVING利用券をお持ちの方に公開されます。\n\n#KCONTACT #KCONTACTHI5 #PARKJIHOON #박지훈 @Park_Jihoon_twt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						164,
+						173
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						174,
+						186
+					]
+				},
+				{
+					"text": "PARKJIHOON",
+					"indices": [
+						187,
+						198
+					]
+				},
+				{
+					"text": "박지훈",
+					"indices": [
+						199,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Park_Jihoon_twt",
+					"name": "박지훈 (ParkJihoon)",
+					"id": 1078164530843115500,
+					"id_str": "1078164530843115520",
+					"indices": [
+						204,
+						220
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438699393553629200,
+		"in_reply_to_status_id_str": "1438699393553629187",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396619,
+			"friends_count": 75,
+			"listed_count": 1007,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129,
+		"favorite_count": 316,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "[DANCE PRACTICE] PARKJIHOONの練習室公開！\nJIHOONのDANCE PRACTICEに焦点を合わせて～\nその視線を離さないで~❣\n\n* DANCE PRACTICE FULL映像はYouTube KCON officialチャンネルPREMIUM等級とTVING利用券をお持ちの方に公開されます。\n\n#KCONTACT #KCONTACTHI5 #PARKJIHOON #박지훈 @Park_Jihoon_twt"
+	},
+	{
+		"created_at": "Fri Sep 17 03:58:20 +0000 2021",
+		"id": 1438699393553629200,
+		"id_str": "1438713906676051970",
+		"full_text": "[DANCE PRACTICE] PARKJIHOON의 연습실 공개!\n박지훈 댄프에 초점을 맞춰~\n그 시!선을 떼지마~❣\n\n* DANCE PRACTICE FULL영상은 유튜브 KCON official 채널 PREMIUM 등급과 TVING 이용권 보유자에게 공개됩니다.\n\n#KCONTACT #KCONTACTHI5 #PARKJIHOON #박지훈 @Park_Jihoon_twt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						149,
+						158
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						159,
+						171
+					]
+				},
+				{
+					"text": "PARKJIHOON",
+					"indices": [
+						172,
+						183
+					]
+				},
+				{
+					"text": "박지훈",
+					"indices": [
+						184,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Park_Jihoon_twt",
+					"name": "박지훈 (ParkJihoon)",
+					"id": 1078164530843115500,
+					"id_str": "1078164530843115520",
+					"indices": [
+						189,
+						205
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438699233989775400,
+		"in_reply_to_status_id_str": "1438699233989775366",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396619,
+			"friends_count": 75,
+			"listed_count": 1007,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 179,
+		"favorite_count": 362,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[DANCE PRACTICE] PARKJIHOON의 연습실 공개!\n박지훈 댄프에 초점을 맞춰~\n그 시!선을 떼지마~❣\n\n* DANCE PRACTICE FULL영상은 유튜브 KCON official 채널 PREMIUM 등급과 TVING 이용권 보유자에게 공개됩니다.\n\n#KCONTACT #KCONTACTHI5 #PARKJIHOON #박지훈 @Park_Jihoon_twt"
+	},
+	{
+		"created_at": "Fri Sep 17 03:58:14 +0000 2021",
+		"id": 1438699233989775400,
+		"id_str": "1438713885234712579",
+		"full_text": "[DANCE PRACTICE] PARKJIHOON's Practice Room Revealed!\nFocus on PARKJIHOON's Dance Practice~\nDon't! take your eyes off❣\n\n* Only KCON:TACT PREMIUM or TVING members can access the full version of DANCE PRACTICE.\n\n#KCONTACT #KCONTACTHI5 #PARKJIHOON #박지훈 @Park_Jihoon_twt https://t.co/MCu4QGVw7q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						210,
+						219
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						220,
+						232
+					]
+				},
+				{
+					"text": "PARKJIHOON",
+					"indices": [
+						233,
+						244
+					]
+				},
+				{
+					"text": "박지훈",
+					"indices": [
+						245,
+						249
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Park_Jihoon_twt",
+					"name": "박지훈 (ParkJihoon)",
+					"id": 1078164530843115500,
+					"id_str": "1078164530843115520",
+					"indices": [
+						250,
+						266
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438680352566833200,
+					"id_str": "1438680352566833152",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438680352566833152/pu/img/q5ay0uPJVwck_ePT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438680352566833152/pu/img/q5ay0uPJVwck_ePT.jpg",
+					"url": "https://t.co/MCu4QGVw7q",
+					"display_url": "pic.twitter.com/MCu4QGVw7q",
+					"expanded_url": "https://twitter.com/KCON_official/status/1438699233989775366/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438680352566833200,
+					"id_str": "1438680352566833152",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438680352566833152/pu/img/q5ay0uPJVwck_ePT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438680352566833152/pu/img/q5ay0uPJVwck_ePT.jpg",
+					"url": "https://t.co/MCu4QGVw7q",
+					"display_url": "pic.twitter.com/MCu4QGVw7q",
+					"expanded_url": "https://twitter.com/KCON_official/status/1438699233989775366/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 35668,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438680352566833152/pu/vid/480x270/27sxFfSQyQCcb-DZ.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438680352566833152/pu/vid/640x360/aDkoY2z80zxzYcZh.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438680352566833152/pu/vid/1280x720/KYHumBcsYO3bbk1N.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1438680352566833152/pu/pl/d6RapzbPbENgXGD0.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396619,
+			"friends_count": 75,
+			"listed_count": 1007,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10920,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 438,
+		"favorite_count": 685,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[DANCE PRACTICE] PARKJIHOON's Practice Room Revealed!\nFocus on PARKJIHOON's Dance Practice~\nDon't! take your eyes off❣\n\n* Only KCON:TACT PREMIUM or TVING members can access the full version of DANCE PRACTICE.\n\n#KCONTACT #KCONTACTHI5 #PARKJIHOON #박지훈 @Park_Jihoon_twt https://t.co/MCu4QGVw7q"
+	},
+	{
+		"created_at": "Fri Sep 17 03:29:40 +0000 2021",
+		"id": 1438705821043486700,
+		"id_str": "1438706694431838211",
+		"full_text": "Tuys - Muddy Beach https://t.co/u73EKrUXnH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u73EKrUXnH",
+					"expanded_url": "http://blog.naver.com/chili7272/222508849455",
+					"display_url": "blog.naver.com/chili7272/2225…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.naver.com\" rel=\"nofollow\">Naver</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114111001,
+			"id_str": "114111001",
+			"name": "칠리뮤직코리아",
+			"screen_name": "chilimusickorea",
+			"location": "Seoul, Korea",
+			"description": "음반제작 및 배급전문/국내 및 해외사이트 음원유통/매니지먼트 담당//\n허클베리 핀/에이프릴 세컨드/트레봉봉/오드트리/Steve Barakett/LasseLindh/Sioen 등",
+			"url": "https://t.co/XzPUfDyGhf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XzPUfDyGhf",
+							"expanded_url": "http://www.facebook.com/chilimusickorea1",
+							"display_url": "facebook.com/chilimusickore…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2078,
+			"friends_count": 2367,
+			"listed_count": 64,
+			"created_at": "Sun Feb 14 05:12:40 +0000 2010",
+			"favourites_count": 698,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5295,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114111001/1427096436",
+			"profile_link_color": "FC420A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0B8C4",
+			"profile_text_color": "9FFEE3",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tuys - Muddy Beach https://t.co/u73EKrUXnH"
+	},
+	{
+		"created_at": "Fri Sep 17 03:29:34 +0000 2021",
+		"id": 1438705722359902200,
+		"id_str": "1438706668662108161",
+		"full_text": "CHOI MINHO 'Yumi's Cells' to air its first episode on TVING and tvN today at 10:50 PM KST!\nStill images of the Webtoon to real life visual revealed!\nTo cause 'Woogi Holic' with his kind charm! \n\n#CHOIMINHO #최민호\n#SHINee #샤이니\n#유미의세포들\n#YumisCells https://t.co/RjLDg3wx4m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CHOIMINHO",
+					"indices": [
+						195,
+						205
+					]
+				},
+				{
+					"text": "최민호",
+					"indices": [
+						206,
+						210
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						211,
+						218
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						219,
+						223
+					]
+				},
+				{
+					"text": "유미의세포들",
+					"indices": [
+						224,
+						231
+					]
+				},
+				{
+					"text": "YumisCells",
+					"indices": [
+						232,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438705717649625000,
+					"id_str": "1438705717649625092",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/E_dPOkTUUAQVP9H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_dPOkTUUAQVP9H.jpg",
+					"url": "https://t.co/RjLDg3wx4m",
+					"display_url": "pic.twitter.com/RjLDg3wx4m",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1438705722359902211/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438705717649625000,
+					"id_str": "1438705717649625092",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/E_dPOkTUUAQVP9H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_dPOkTUUAQVP9H.jpg",
+					"url": "https://t.co/RjLDg3wx4m",
+					"display_url": "pic.twitter.com/RjLDg3wx4m",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1438705722359902211/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438705717658017800,
+					"id_str": "1438705717658017798",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/E_dPOkVUYAYx7W3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_dPOkVUYAYx7W3.jpg",
+					"url": "https://t.co/RjLDg3wx4m",
+					"display_url": "pic.twitter.com/RjLDg3wx4m",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1438705722359902211/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438705717645439000,
+					"id_str": "1438705717645438982",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/E_dPOkSUcAYuwAc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_dPOkSUcAYuwAc.jpg",
+					"url": "https://t.co/RjLDg3wx4m",
+					"display_url": "pic.twitter.com/RjLDg3wx4m",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1438705722359902211/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438705717653868500,
+					"id_str": "1438705717653868546",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/E_dPOkUVEAISBEe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_dPOkUVEAISBEe.jpg",
+					"url": "https://t.co/RjLDg3wx4m",
+					"display_url": "pic.twitter.com/RjLDg3wx4m",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1438705722359902211/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9901948,
+			"friends_count": 55,
+			"listed_count": 10609,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10815,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2150,
+		"favorite_count": 6630,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CHOI MINHO 'Yumi's Cells' to air its first episode on TVING and tvN today at 10:50 PM KST!\nStill images of the Webtoon to real life visual revealed!\nTo cause 'Woogi Holic' with his kind charm! \n\n#CHOIMINHO #최민호\n#SHINee #샤이니\n#유미의세포들\n#YumisCells https://t.co/RjLDg3wx4m"
+	},
+	{
+		"created_at": "Fri Sep 17 03:29:30 +0000 2021",
+		"id": 1438701122911277000,
+		"id_str": "1438706651356352513",
+		"full_text": "보라미유와 함께 떠나는 거제 다대어촌체험휴양마을! 그리고 그날의 감성을 담은 보라미유의 달콤한 노래까지😚💜 &lt;감성숙박&gt; 첫 번째 에피소드를 바다여행 TV 유튜브 채널에서 감상해주세요!\n⠀\n▷ https://t.co/7w5JBNJc5A\n\n#보라미유 #감성숙박 #바다여행\n#Boramiyu #거제다대어촌체험휴양마을",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보라미유",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "감성숙박",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "바다여행",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "Boramiyu",
+					"indices": [
+						156,
+						165
+					]
+				},
+				{
+					"text": "거제다대어촌체험휴양마을",
+					"indices": [
+						166,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7w5JBNJc5A",
+					"expanded_url": "https://youtu.be/vyzX62VNVPM",
+					"display_url": "youtu.be/vyzX62VNVPM",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/VtrzF3mRza",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VtrzF3mRza",
+							"expanded_url": "http://shofar-ent.com",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7721,
+			"friends_count": 4,
+			"listed_count": 66,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1631001017",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보라미유와 함께 떠나는 거제 다대어촌체험휴양마을! 그리고 그날의 감성을 담은 보라미유의 달콤한 노래까지😚💜 &lt;감성숙박&gt; 첫 번째 에피소드를 바다여행 TV 유튜브 채널에서 감상해주세요!\n⠀\n▷ https://t.co/7w5JBNJc5A\n\n#보라미유 #감성숙박 #바다여행\n#Boramiyu #거제다대어촌체험휴양마을"
+	},
+	{
 		"created_at": "Fri Sep 17 03:11:32 +0000 2021",
 		"id": 1438699731287298000,
 		"id_str": "1438702130211196933",
@@ -1307,7 +2651,7 @@ Grailbird.data.tweets_2021_09 =
 		"created_at": "Fri Sep 17 02:58:32 +0000 2021",
 		"id": 1438695458214322200,
 		"id_str": "1438698859258056706",
-		"full_text": "🎁BUROCK ON-TACT KIT the back of the T-shirt OPEN👕\n\nCelebrating the opening of the lineup 🎉\nLet me show you the back of the T-shirt with the artist logo.👏👏\n\n🤸‍♀️\"Saving money\", \"Oh my!\" \"I'm having fun\"🤸‍♂️\nThe package worth 88,000 won for 33,000 won...!",
+		"full_text": "🎁BUROCK ON-TACT KIT the back of the T-shirt OPEN👕\n\nCelebrating the opening of the lineup 🎉\nLet me show you the back of the T-shirt with the artist logo.👏👏\n\n🤸♀️\"Saving money\", \"Oh my!\" \"I'm having fun\"🤸♂️\nThe package worth 88,000 won for 33,000 won...!",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1397,7 +2741,7 @@ Grailbird.data.tweets_2021_09 =
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
-		"text": "🎁BUROCK ON-TACT KIT the back of the T-shirt OPEN👕\n\nCelebrating the opening of the lineup 🎉\nLet me show you the back of the T-shirt with the artist logo.👏👏\n\n🤸‍♀️\"Saving money\", \"Oh my!\" \"I'm having fun\"🤸‍♂️\nThe package worth 88,000 won for 33,000 won...!"
+		"text": "🎁BUROCK ON-TACT KIT the back of the T-shirt OPEN👕\n\nCelebrating the opening of the lineup 🎉\nLet me show you the back of the T-shirt with the artist logo.👏👏\n\n🤸♀️\"Saving money\", \"Oh my!\" \"I'm having fun\"🤸♂️\nThe package worth 88,000 won for 33,000 won...!"
 	},
 	{
 		"created_at": "Fri Sep 17 02:58:29 +0000 2021",
@@ -1510,7 +2854,7 @@ Grailbird.data.tweets_2021_09 =
 		"created_at": "Fri Sep 17 02:58:24 +0000 2021",
 		"id": 1438695452669464600,
 		"id_str": "1438698824546062338",
-		"full_text": "🎁부락-온택트 키트 티샤-츠 뒷면 공개👕\n\n라인업 오픈 기념🎉\n아티스트 로고가 담긴 티셔츠 뒷면을 공개합니다👏👏\n\n🤸‍♂️\"비용절약\" \"마참내!\" \"즐겁다\"🤸‍♀️\n88,000원 상당의 키트를 33,000원에...! https://t.co/rRAZ2UWx1Z",
+		"full_text": "🎁부락-온택트 키트 티샤-츠 뒷면 공개👕\n\n라인업 오픈 기념🎉\n아티스트 로고가 담긴 티셔츠 뒷면을 공개합니다👏👏\n\n🤸♂️\"비용절약\" \"마참내!\" \"즐겁다\"🤸♀️\n88,000원 상당의 키트를 33,000원에...! https://t.co/rRAZ2UWx1Z",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1751,7 +3095,7 @@ Grailbird.data.tweets_2021_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "🎁부락-온택트 키트 티샤-츠 뒷면 공개👕\n\n라인업 오픈 기념🎉\n아티스트 로고가 담긴 티셔츠 뒷면을 공개합니다👏👏\n\n🤸‍♂️\"비용절약\" \"마참내!\" \"즐겁다\"🤸‍♀️\n88,000원 상당의 키트를 33,000원에...! https://t.co/rRAZ2UWx1Z"
+		"text": "🎁부락-온택트 키트 티샤-츠 뒷면 공개👕\n\n라인업 오픈 기념🎉\n아티스트 로고가 담긴 티셔츠 뒷면을 공개합니다👏👏\n\n🤸♂️\"비용절약\" \"마참내!\" \"즐겁다\"🤸♀️\n88,000원 상당의 키트를 33,000원에...! https://t.co/rRAZ2UWx1Z"
 	},
 	{
 		"created_at": "Fri Sep 17 02:58:14 +0000 2021",
