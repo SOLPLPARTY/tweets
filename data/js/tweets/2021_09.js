@@ -1,6 +1,1506 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 17 09:15:33 +0000 2021",
+		"id": 1438793738990628900,
+		"id_str": "1438793738990628865",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n[Music Video] 한결(BAE173) - Melody (내 모든 밤을 수놓던 네가) (러브 인 블랙홀 OST Part.1)\nhttps://t.co/aNP6YGAgFN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aNP6YGAgFN",
+					"expanded_url": "https://youtu.be/aRTUUJkIndA",
+					"display_url": "youtu.be/aRTUUJkIndA",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n[Music Video] 한결(BAE173) - Melody (내 모든 밤을 수놓던 네가) (러브 인 블랙홀 OST Part.1)\nhttps://t.co/aNP6YGAgFN"
+	},
+	{
+		"created_at": "Fri Sep 17 09:09:48 +0000 2021",
+		"id": 1438792290693222400,
+		"id_str": "1438792290693222400",
+		"full_text": "#딩고뮤직 #dingo_music\n[4K] BAADA&amp;서문탁 - 펜타킬ㅣBGM LIVEㅣLeague of Legends Pentakillㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/DvYxGaylu5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "dingo_music",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DvYxGaylu5",
+					"expanded_url": "https://youtu.be/2WLV3tjirbM",
+					"display_url": "youtu.be/2WLV3tjirbM",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#딩고뮤직 #dingo_music\n[4K] BAADA&amp;서문탁 - 펜타킬ㅣBGM LIVEㅣLeague of Legends Pentakillㅣ딩고뮤직ㅣDingo Music\nhttps://t.co/DvYxGaylu5"
+	},
+	{
+		"created_at": "Fri Sep 17 08:58:46 +0000 2021",
+		"id": 1438788479635247000,
+		"id_str": "1438789515053867011",
+		"full_text": "코시국에 어디 갈데도 없는데 집콕하며 달려볼까요??🏃🏃‍♀\n\n자세한 라인업은 상세 이미지를 참고해주시기 바랍니다! \n(*명단순서와 공연순서는 다릅니다!!)\n\n#방구석콘서트 #JUMF #전주얼티밋뮤직페스티벌\n\nhttps://t.co/0QIa3iHeMa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방구석콘서트",
+					"indices": [
+						88,
+						95
+					]
+				},
+				{
+					"text": "JUMF",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "전주얼티밋뮤직페스티벌",
+					"indices": [
+						102,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0QIa3iHeMa",
+					"expanded_url": "https://youtube.com/channel/UCcMrSGpNrKbM-2Oyf80p6rw",
+					"display_url": "youtube.com/channel/UCcMrS…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1438788477361877000,
+		"in_reply_to_status_id_str": "1438788477361876994",
+		"in_reply_to_user_id": 702764019308867600,
+		"in_reply_to_user_id_str": "702764019308867585",
+		"in_reply_to_screen_name": "JUMF_2021",
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2021(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2021",
+			"location": "대한민국 전주시",
+			"description": "JUMF2021 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2021년 10월 15(금), 16(토), 17(일) 한국소리문화의전당 야외공연장에서 펼쳐집니다!",
+			"url": "https://t.co/d1vvaslpQh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d1vvaslpQh",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 376,
+			"friends_count": 1196,
+			"listed_count": 0,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1631496699",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "코시국에 어디 갈데도 없는데 집콕하며 달려볼까요??🏃🏃‍♀\n\n자세한 라인업은 상세 이미지를 참고해주시기 바랍니다! \n(*명단순서와 공연순서는 다릅니다!!)\n\n#방구석콘서트 #JUMF #전주얼티밋뮤직페스티벌\n\nhttps://t.co/0QIa3iHeMa"
+	},
+	{
+		"created_at": "Fri Sep 17 08:58:38 +0000 2021",
+		"id": 1438788477361877000,
+		"id_str": "1438789480958287872",
+		"full_text": "📺 전주얼티밋뮤직페스티벌 레전드 무대 다시보기 '방구석 JUMF' 유튜브 스트리밍 안내📺\n\n2021년 10월 15일(金) ~17일(日)에 '2021 전주얼티밋뮤직페스티벌'이 열리는데요~\n\n그 전에 명절을 맞아 여러분께 특별한 선물을 들고 왔습니다😃\n\n🎤유튜브 '전주MBC Original' 라이브 스트리밍 예정!! https://t.co/zjOHmplk3q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438788468373549000,
+					"id_str": "1438788468373549056",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/E_eafSxVcAAnz2a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_eafSxVcAAnz2a.jpg",
+					"url": "https://t.co/zjOHmplk3q",
+					"display_url": "pic.twitter.com/zjOHmplk3q",
+					"expanded_url": "https://twitter.com/JUMF_2021/status/1438788477361876994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438788468373549000,
+					"id_str": "1438788468373549056",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/E_eafSxVcAAnz2a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_eafSxVcAAnz2a.jpg",
+					"url": "https://t.co/zjOHmplk3q",
+					"display_url": "pic.twitter.com/zjOHmplk3q",
+					"expanded_url": "https://twitter.com/JUMF_2021/status/1438788477361876994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2021(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2021",
+			"location": "대한민국 전주시",
+			"description": "JUMF2021 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2021년 10월 15(금), 16(토), 17(일) 한국소리문화의전당 야외공연장에서 펼쳐집니다!",
+			"url": "https://t.co/d1vvaslpQh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d1vvaslpQh",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 376,
+			"friends_count": 1196,
+			"listed_count": 0,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1631496699",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📺 전주얼티밋뮤직페스티벌 레전드 무대 다시보기 '방구석 JUMF' 유튜브 스트리밍 안내📺\n\n2021년 10월 15일(金) ~17일(日)에 '2021 전주얼티밋뮤직페스티벌'이 열리는데요~\n\n그 전에 명절을 맞아 여러분께 특별한 선물을 들고 왔습니다😃\n\n🎤유튜브 '전주MBC Original' 라이브 스트리밍 예정!! https://t.co/zjOHmplk3q"
+	},
+	{
+		"created_at": "Fri Sep 17 08:58:29 +0000 2021",
+		"id": 1438774827536425000,
+		"id_str": "1438789442727288833",
+		"full_text": "[MAMAMOO CHECK IN]  MAMAMOOとMOOMOOが一つになる日を待ちながら\nもっと親しくなれる時間を作って上げるKCON:TACT HI 5！\n9月24日 金曜日に会いましょう~🖐\n\n#KCONTACT #KCONTACTHI5 #MAMAMOO #마마무 @RBW_MAMAMOO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						102,
+						111
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						112,
+						124
+					]
+				},
+				{
+					"text": "MAMAMOO",
+					"indices": [
+						125,
+						133
+					]
+				},
+				{
+					"text": "마마무",
+					"indices": [
+						134,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RBW_MAMAMOO",
+					"name": "마마무(MAMAMOO)",
+					"id": 2295631308,
+					"id_str": "2295631308",
+					"indices": [
+						139,
+						151
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438774825669968000,
+		"in_reply_to_status_id_str": "1438774825669967876",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396667,
+			"friends_count": 75,
+			"listed_count": 1007,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 111,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "[MAMAMOO CHECK IN]  MAMAMOOとMOOMOOが一つになる日を待ちながら\nもっと親しくなれる時間を作って上げるKCON:TACT HI 5！\n9月24日 金曜日に会いましょう~🖐\n\n#KCONTACT #KCONTACTHI5 #MAMAMOO #마마무 @RBW_MAMAMOO"
+	},
+	{
+		"created_at": "Fri Sep 17 08:58:20 +0000 2021",
+		"id": 1438774825669968000,
+		"id_str": "1438789404399648772",
+		"full_text": "[MAMAMOO CHECK IN]  마마무와 무무가 하나되는 날을 기다리며\n더 가까워질 수 있는 시간을 만들어주는 KCON:TACT HI 5!\n9월 24일 금요일에 만나요~🖐\n\n#KCONTACT #KCONTACTHI5 #MAMAMOO #마마무 @RBW_MAMAMOO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						109,
+						121
+					]
+				},
+				{
+					"text": "MAMAMOO",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"text": "마마무",
+					"indices": [
+						131,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RBW_MAMAMOO",
+					"name": "마마무(MAMAMOO)",
+					"id": 2295631308,
+					"id_str": "2295631308",
+					"indices": [
+						136,
+						148
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438774733244338200,
+		"in_reply_to_status_id_str": "1438774733244338178",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396667,
+			"friends_count": 75,
+			"listed_count": 1007,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 142,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[MAMAMOO CHECK IN]  마마무와 무무가 하나되는 날을 기다리며\n더 가까워질 수 있는 시간을 만들어주는 KCON:TACT HI 5!\n9월 24일 금요일에 만나요~🖐\n\n#KCONTACT #KCONTACTHI5 #MAMAMOO #마마무 @RBW_MAMAMOO"
+	},
+	{
+		"created_at": "Fri Sep 17 08:58:14 +0000 2021",
+		"id": 1438774733244338200,
+		"id_str": "1438789382845222914",
+		"full_text": "[MAMAMOO CHECK IN] MOOMOO, spend the most memorable time with MAMAMOO on KCON:TACT HI 5!\nSee you on September 24, (FRI) KST~🖐\n\n#KCONTACT #KCONTACTHI5 #MAMAMOO #마마무 @RBW_MAMAMOO https://t.co/YjNTSvlJ41",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						137,
+						149
+					]
+				},
+				{
+					"text": "MAMAMOO",
+					"indices": [
+						150,
+						158
+					]
+				},
+				{
+					"text": "마마무",
+					"indices": [
+						159,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RBW_MAMAMOO",
+					"name": "마마무(MAMAMOO)",
+					"id": 2295631308,
+					"id_str": "2295631308",
+					"indices": [
+						164,
+						176
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438688113837031400,
+					"id_str": "1438688113837031432",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E_dAIBDVEAMXCdA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_dAIBDVEAMXCdA.jpg",
+					"url": "https://t.co/YjNTSvlJ41",
+					"display_url": "pic.twitter.com/YjNTSvlJ41",
+					"expanded_url": "https://twitter.com/KCON_official/status/1438774733244338178/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438688113837031400,
+					"id_str": "1438688113837031432",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E_dAIBDVEAMXCdA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_dAIBDVEAMXCdA.jpg",
+					"url": "https://t.co/YjNTSvlJ41",
+					"display_url": "pic.twitter.com/YjNTSvlJ41",
+					"expanded_url": "https://twitter.com/KCON_official/status/1438774733244338178/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1081,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 55055,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1438688113837031432/vid/640x360/y6R9F7FsNrbceVwn.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1438688113837031432/vid/1280x720/POZJn9-twN-gKA0O.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1438688113837031432/vid/480x270/T1oD4AKTOEP4M1cV.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1438688113837031432/pl/tLrKeXIQyyncg8un.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396667,
+			"friends_count": 75,
+			"listed_count": 1007,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1096,
+		"favorite_count": 1715,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[MAMAMOO CHECK IN] MOOMOO, spend the most memorable time with MAMAMOO on KCON:TACT HI 5!\nSee you on September 24, (FRI) KST~🖐\n\n#KCONTACT #KCONTACTHI5 #MAMAMOO #마마무 @RBW_MAMAMOO https://t.co/YjNTSvlJ41"
+	},
+	{
+		"created_at": "Fri Sep 17 08:29:31 +0000 2021",
+		"id": 1438776547796603000,
+		"id_str": "1438782152922083330",
+		"full_text": "[#Notice] #권진아\n\n권진아 'Playlist' 폴라로이드 이벤트 당첨자 발표❣️\n\n포스트 내 당첨자 명단을 확인하시고, 네이버폼을 제출해주세요!\n✔️제출기간 : ~21.09.23 (목)\n\n참여해주신 모든 분들께 감사드립니다☺️💝\n🔗 https://t.co/tGK7mQbxxE\n\n#KwonJinAh #Playlist #이벤트 https://t.co/2X4jcOsXMU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "권진아",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "KwonJinAh",
+					"indices": [
+						160,
+						170
+					]
+				},
+				{
+					"text": "Playlist",
+					"indices": [
+						171,
+						180
+					]
+				},
+				{
+					"text": "이벤트",
+					"indices": [
+						181,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tGK7mQbxxE",
+					"expanded_url": "http://naver.me/x50EYiGD",
+					"display_url": "naver.me/x50EYiGD",
+					"indices": [
+						135,
+						158
+					]
+				},
+				{
+					"url": "https://t.co/2X4jcOsXMU",
+					"expanded_url": "https://twitter.com/antennamusic/status/1436268422346674179",
+					"display_url": "twitter.com/antennamusic/s…",
+					"indices": [
+						186,
+						209
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 유희열 '생활음악' EP1. 일요일 오후 - 안테나 유튜브 채널에서 만나보세요!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37084,
+			"friends_count": 10,
+			"listed_count": 375,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3944,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1436268422346674200,
+		"quoted_status_id_str": "1436268422346674179",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2X4jcOsXMU",
+			"expanded": "https://twitter.com/antennamusic/status/1436268422346674179",
+			"display": "twitter.com/antennamusic/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 10 10:00:51 +0000 2021",
+			"id": 1436268422346674200,
+			"id_str": "1436268422346674179",
+			"full_text": "[#Post] #권진아\n\n8월의 권진아를 모아서 – 빅이슈 화보, bnt 화보, Playlist 비하인드🖼\nft.폴라로이드 이벤트✨\n\n🤍https://t.co/tGK7mQbxxE\n\n#KwonJinAh #빅이슈 #bnt #Playlist #비하인드 https://t.co/Ry73fRh65h",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				137
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Post",
+						"indices": [
+							1,
+							6
+						]
+					},
+					{
+						"text": "권진아",
+						"indices": [
+							8,
+							12
+						]
+					},
+					{
+						"text": "KwonJinAh",
+						"indices": [
+							101,
+							111
+						]
+					},
+					{
+						"text": "빅이슈",
+						"indices": [
+							112,
+							116
+						]
+					},
+					{
+						"text": "bnt",
+						"indices": [
+							117,
+							121
+						]
+					},
+					{
+						"text": "Playlist",
+						"indices": [
+							122,
+							131
+						]
+					},
+					{
+						"text": "비하인드",
+						"indices": [
+							132,
+							137
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tGK7mQbxxE",
+						"expanded_url": "http://naver.me/x50EYiGD",
+						"display_url": "naver.me/x50EYiGD",
+						"indices": [
+							76,
+							99
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1436268414696181800,
+						"id_str": "1436268414696181766",
+						"indices": [
+							138,
+							161
+						],
+						"media_url": "http://pbs.twimg.com/media/E-6mg3QUUAYNME8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E-6mg3QUUAYNME8.jpg",
+						"url": "https://t.co/Ry73fRh65h",
+						"display_url": "pic.twitter.com/Ry73fRh65h",
+						"expanded_url": "https://twitter.com/antennamusic/status/1436268422346674179/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1436268414696181800,
+						"id_str": "1436268414696181766",
+						"indices": [
+							138,
+							161
+						],
+						"media_url": "http://pbs.twimg.com/media/E-6mg3QUUAYNME8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E-6mg3QUUAYNME8.jpg",
+						"url": "https://t.co/Ry73fRh65h",
+						"display_url": "pic.twitter.com/Ry73fRh65h",
+						"expanded_url": "https://twitter.com/antennamusic/status/1436268422346674179/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 266004552,
+				"id_str": "266004552",
+				"name": "안테나 Antenna",
+				"screen_name": "antennamusic",
+				"location": "대한민국 서울",
+				"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 유희열 '생활음악' EP1. 일요일 오후 - 안테나 유튜브 채널에서 만나보세요!",
+				"url": "https://t.co/XSWWwEx210",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XSWWwEx210",
+								"expanded_url": "http://www.antenna.co.kr",
+								"display_url": "antenna.co.kr",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37084,
+				"friends_count": 10,
+				"listed_count": 375,
+				"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+				"favourites_count": 14,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3944,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 53,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 4,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Notice] #권진아\n\n권진아 'Playlist' 폴라로이드 이벤트 당첨자 발표❣️\n\n포스트 내 당첨자 명단을 확인하시고, 네이버폼을 제출해주세요!\n✔️제출기간 : ~21.09.23 (목)\n\n참여해주신 모든 분들께 감사드립니다☺️💝\n🔗 https://t.co/tGK7mQbxxE\n\n#KwonJinAh #Playlist #이벤트 https://t.co/2X4jcOsXMU"
+	},
+	{
 		"created_at": "Fri Sep 17 07:58:28 +0000 2021",
 		"id": 1438760067277357000,
 		"id_str": "1438774339747336192",
