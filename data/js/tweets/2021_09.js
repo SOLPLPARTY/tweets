@@ -1,6 +1,505 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 17 12:58:15 +0000 2021",
+		"id": 1438835133159821300,
+		"id_str": "1438849781216972802",
+		"full_text": "Time for the artists and fans to connect,\nKCON:TACT HI 5 🖐D-1🖐\n\n아티스트와 팬의 마음이 이어지는 시간, \nKCON:TACT HI 5 🖐D-1🖐\n\nアーティストとファンの心が繋がる時間、\nKCON:TACT HI 5 🖐D-1🖐\n\n#KCONTACT #KCONTACTHI5 https://t.co/yli8cgFo2V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						151,
+						160
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						161,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438802313674584000,
+					"id_str": "1438802313674584065",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/E_enFMiVcAE887s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_enFMiVcAE887s.jpg",
+					"url": "https://t.co/yli8cgFo2V",
+					"display_url": "pic.twitter.com/yli8cgFo2V",
+					"expanded_url": "https://twitter.com/KCON_official/status/1438835133159821312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438802313674584000,
+					"id_str": "1438802313674584065",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/E_enFMiVcAE887s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_enFMiVcAE887s.jpg",
+					"url": "https://t.co/yli8cgFo2V",
+					"display_url": "pic.twitter.com/yli8cgFo2V",
+					"expanded_url": "https://twitter.com/KCON_official/status/1438835133159821312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438802313754280000,
+					"id_str": "1438802313754279943",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/E_enFM1VgAclusx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_enFM1VgAclusx.jpg",
+					"url": "https://t.co/yli8cgFo2V",
+					"display_url": "pic.twitter.com/yli8cgFo2V",
+					"expanded_url": "https://twitter.com/KCON_official/status/1438835133159821312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396725,
+			"friends_count": 75,
+			"listed_count": 1008,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 120,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "Time for the artists and fans to connect,\nKCON:TACT HI 5 🖐D-1🖐\n\n아티스트와 팬의 마음이 이어지는 시간, \nKCON:TACT HI 5 🖐D-1🖐\n\nアーティストとファンの心が繋がる時間、\nKCON:TACT HI 5 🖐D-1🖐\n\n#KCONTACT #KCONTACTHI5 https://t.co/yli8cgFo2V"
+	},
+	{
+		"created_at": "Fri Sep 17 12:29:33 +0000 2021",
+		"id": 1438839474968883200,
+		"id_str": "1438842559535648768",
+		"full_text": "[#Video] #적재\n\n적재와 Day6 Young K가 함께한 ‘잘 자라 내 사람아’ 라이브 클립이 공개되었습니다. 두 사람의 꿀같은 케미로 달달한 밤 보내세요😴🌙\n\n🔗https://t.co/2gqxJDlVef\n\n#Jukjae #DAY6 #데이식스 #YoungK\n#Eternal #잘_자라_내_사람아 https://t.co/Pf9yAT3det",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						120,
+						127
+					]
+				},
+				{
+					"text": "DAY6",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "데이식스",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "YoungK",
+					"indices": [
+						140,
+						147
+					]
+				},
+				{
+					"text": "Eternal",
+					"indices": [
+						148,
+						156
+					]
+				},
+				{
+					"text": "잘_자라_내_사람아",
+					"indices": [
+						157,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2gqxJDlVef",
+					"expanded_url": "https://youtu.be/QYCuVkHePmc",
+					"display_url": "youtu.be/QYCuVkHePmc",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438838703963529200,
+					"id_str": "1438838703963529222",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438838703963529222/pu/img/8PHF-gTmNhICpwV7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438838703963529222/pu/img/8PHF-gTmNhICpwV7.jpg",
+					"url": "https://t.co/Pf9yAT3det",
+					"display_url": "pic.twitter.com/Pf9yAT3det",
+					"expanded_url": "https://twitter.com/antennamusic/status/1438839474968883208/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 491,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 524,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438838703963529200,
+					"id_str": "1438838703963529222",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438838703963529222/pu/img/8PHF-gTmNhICpwV7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438838703963529222/pu/img/8PHF-gTmNhICpwV7.jpg",
+					"url": "https://t.co/Pf9yAT3det",
+					"display_url": "pic.twitter.com/Pf9yAT3det",
+					"expanded_url": "https://twitter.com/antennamusic/status/1438839474968883208/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 278,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 491,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 524,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							131
+						],
+						"duration_millis": 140015,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438838703963529222/pu/vid/878x360/b2omg8ylDaFV5a2K.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438838703963529222/pu/vid/658x270/CGYJy-QFzvduLQzt.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1438838703963529222/pu/pl/89Fd2ycXFpcjlCIv.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438838703963529222/pu/vid/1280x524/JvIzDkmjVFhCgBdr.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 유희열 '생활음악' EP1. 일요일 오후 - 안테나 유튜브 채널에서 만나보세요!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37087,
+			"friends_count": 10,
+			"listed_count": 375,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 425,
+		"favorite_count": 651,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #적재\n\n적재와 Day6 Young K가 함께한 ‘잘 자라 내 사람아’ 라이브 클립이 공개되었습니다. 두 사람의 꿀같은 케미로 달달한 밤 보내세요😴🌙\n\n🔗https://t.co/2gqxJDlVef\n\n#Jukjae #DAY6 #데이식스 #YoungK\n#Eternal #잘_자라_내_사람아 https://t.co/Pf9yAT3det"
+	},
+	{
 		"created_at": "Fri Sep 17 11:58:36 +0000 2021",
 		"id": 1438821270817153000,
 		"id_str": "1438834772109893634",
