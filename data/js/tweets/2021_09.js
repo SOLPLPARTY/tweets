@@ -1,6 +1,1983 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 17 03:11:32 +0000 2021",
+		"id": 1438699731287298000,
+		"id_str": "1438702130211196933",
+		"full_text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁\n\n&lt;블루파프리카 : Talks On Music #11&gt;\n· 일시 : 2021년 10월 01일 (금) 오후 7시 30분\n· 장소 : 롤링홀\n· 출연 : 블루파프리카\n· 예매 :🍈멜론티켓 https://t.co/HLICRCr1rz\n\n#블루파프리카 #토크온뮤직\n#롤링홀 #멜론티켓 https://t.co/tK4xbuG1xE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블루파프리카",
+					"indices": [
+						168,
+						175
+					]
+				},
+				{
+					"text": "토크온뮤직",
+					"indices": [
+						176,
+						182
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						183,
+						187
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						188,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HLICRCr1rz",
+					"expanded_url": "https://bit.ly/3z6AIos",
+					"display_url": "bit.ly/3z6AIos",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438019565678588000,
+					"id_str": "1438019565678587911",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438019565678587911/pu/img/q_JkVAtRMqLyeFxW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438019565678587911/pu/img/q_JkVAtRMqLyeFxW.jpg",
+					"url": "https://t.co/tK4xbuG1xE",
+					"display_url": "pic.twitter.com/tK4xbuG1xE",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1438699731287298053/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438019565678588000,
+					"id_str": "1438019565678587911",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438019565678587911/pu/img/q_JkVAtRMqLyeFxW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438019565678587911/pu/img/q_JkVAtRMqLyeFxW.jpg",
+					"url": "https://t.co/tK4xbuG1xE",
+					"display_url": "pic.twitter.com/tK4xbuG1xE",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1438699731287298053/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3010,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438019565678587911/pu/vid/720x720/rLUlKQqzyR3_ID3x.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438019565678587911/pu/vid/320x320/X3QAlD1A5sQPtvm0.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438019565678587911/pu/vid/540x540/OAUjwVZutNgikHzC.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1438019565678587911/pu/pl/4NoeAdOQSsJRJERu.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 203,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁\n\n&lt;블루파프리카 : Talks On Music #11&gt;\n· 일시 : 2021년 10월 01일 (금) 오후 7시 30분\n· 장소 : 롤링홀\n· 출연 : 블루파프리카\n· 예매 :🍈멜론티켓 https://t.co/HLICRCr1rz\n\n#블루파프리카 #토크온뮤직\n#롤링홀 #멜론티켓 https://t.co/tK4xbuG1xE"
+	},
+	{
+		"created_at": "Fri Sep 17 03:11:24 +0000 2021",
+		"id": 1438699731044409300,
+		"id_str": "1438702096094842882",
+		"full_text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁\n\n&lt;블루파프리카 : Talks On Music #11&gt;\n· 일시 : 2021년 10월 01일 (금) 오후 7시 30분\n· 장소 : 롤링홀\n· 출연 : 블루파프리카\n· 예매 :🍈멜론티켓 https://t.co/HLICRC9Ypz\n\n#블루파프리카 #토크온뮤직\n#롤링홀 #멜론티켓 https://t.co/kDS07B85Z3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "블루파프리카",
+					"indices": [
+						168,
+						175
+					]
+				},
+				{
+					"text": "토크온뮤직",
+					"indices": [
+						176,
+						182
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						183,
+						187
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						188,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HLICRC9Ypz",
+					"expanded_url": "https://bit.ly/3z6AIos",
+					"display_url": "bit.ly/3z6AIos",
+					"indices": [
+						143,
+						166
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438019565678588000,
+					"id_str": "1438019565678587911",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438019565678587911/pu/img/q_JkVAtRMqLyeFxW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438019565678587911/pu/img/q_JkVAtRMqLyeFxW.jpg",
+					"url": "https://t.co/kDS07B85Z3",
+					"display_url": "pic.twitter.com/kDS07B85Z3",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1438699731044409345/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438019565678588000,
+					"id_str": "1438019565678587911",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1438019565678587911/pu/img/q_JkVAtRMqLyeFxW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1438019565678587911/pu/img/q_JkVAtRMqLyeFxW.jpg",
+					"url": "https://t.co/kDS07B85Z3",
+					"display_url": "pic.twitter.com/kDS07B85Z3",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1438699731044409345/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3010,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438019565678587911/pu/vid/720x720/rLUlKQqzyR3_ID3x.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438019565678587911/pu/vid/320x320/X3QAlD1A5sQPtvm0.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1438019565678587911/pu/vid/540x540/OAUjwVZutNgikHzC.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1438019565678587911/pu/pl/4NoeAdOQSsJRJERu.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 203,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁\n\n&lt;블루파프리카 : Talks On Music #11&gt;\n· 일시 : 2021년 10월 01일 (금) 오후 7시 30분\n· 장소 : 롤링홀\n· 출연 : 블루파프리카\n· 예매 :🍈멜론티켓 https://t.co/HLICRC9Ypz\n\n#블루파프리카 #토크온뮤직\n#롤링홀 #멜론티켓 https://t.co/kDS07B85Z3"
+	},
+	{
+		"created_at": "Fri Sep 17 03:11:20 +0000 2021",
+		"id": 1438699227421425700,
+		"id_str": "1438702078801727494",
+		"full_text": "&lt;상자루 소극장 두시간 공연 'You made it!'&gt;\n⠀\n· 일시 : 2021년 10월 08일 (금) 오후 7시 30분\n· 장소 : 롤링홀\n· 출연 : 상자루\n· 예매 : 멜론티켓 2021년 09월 24일 (금) 오후 8시 예매오픈\n⠀\n#상자루 #SANGJARU #You_make_it\n#롤링홀 #ROLLINGHALL\n#홍대 #공연 #멜론티켓 https://t.co/ZAfpN4RMq0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상자루",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "SANGJARU",
+					"indices": [
+						145,
+						154
+					]
+				},
+				{
+					"text": "You_make_it",
+					"indices": [
+						155,
+						167
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						173,
+						185
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						186,
+						189
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						190,
+						193
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						194,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438128164790624300,
+					"id_str": "1438128164790624267",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/E_VB8kPUYAsKGB8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_VB8kPUYAsKGB8.jpg",
+					"url": "https://t.co/ZAfpN4RMq0",
+					"display_url": "pic.twitter.com/ZAfpN4RMq0",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1438699227421425673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438128164790624300,
+					"id_str": "1438128164790624267",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/E_VB8kPUYAsKGB8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_VB8kPUYAsKGB8.jpg",
+					"url": "https://t.co/ZAfpN4RMq0",
+					"display_url": "pic.twitter.com/ZAfpN4RMq0",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1438699227421425673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 203,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;상자루 소극장 두시간 공연 'You made it!'&gt;\n⠀\n· 일시 : 2021년 10월 08일 (금) 오후 7시 30분\n· 장소 : 롤링홀\n· 출연 : 상자루\n· 예매 : 멜론티켓 2021년 09월 24일 (금) 오후 8시 예매오픈\n⠀\n#상자루 #SANGJARU #You_make_it\n#롤링홀 #ROLLINGHALL\n#홍대 #공연 #멜론티켓 https://t.co/ZAfpN4RMq0"
+	},
+	{
+		"created_at": "Fri Sep 17 03:11:16 +0000 2021",
+		"id": 1438699227295932400,
+		"id_str": "1438702065631571968",
+		"full_text": "&lt;상자루 소극장 두시간 공연 'You made it!'&gt;\n⠀\n· 일시 : 2021년 10월 08일 (금) 오후 7시 30분\n· 장소 : 롤링홀\n· 출연 : 상자루\n· 예매 : 멜론티켓 2021년 09월 24일 (금) 오후 8시 예매오픈\n⠀\n#상자루 #SANGJARU #You_make_it\n#롤링홀 #ROLLINGHALL\n#홍대 #공연 #멜론티켓 https://t.co/jgB6V22Mga",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상자루",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "SANGJARU",
+					"indices": [
+						145,
+						154
+					]
+				},
+				{
+					"text": "You_make_it",
+					"indices": [
+						155,
+						167
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						173,
+						185
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						186,
+						189
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						190,
+						193
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						194,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438128164790624300,
+					"id_str": "1438128164790624267",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/E_VB8kPUYAsKGB8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_VB8kPUYAsKGB8.jpg",
+					"url": "https://t.co/jgB6V22Mga",
+					"display_url": "pic.twitter.com/jgB6V22Mga",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1438699227295932416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438128164790624300,
+					"id_str": "1438128164790624267",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/E_VB8kPUYAsKGB8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_VB8kPUYAsKGB8.jpg",
+					"url": "https://t.co/jgB6V22Mga",
+					"display_url": "pic.twitter.com/jgB6V22Mga",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1438699227295932416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 203,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;상자루 소극장 두시간 공연 'You made it!'&gt;\n⠀\n· 일시 : 2021년 10월 08일 (금) 오후 7시 30분\n· 장소 : 롤링홀\n· 출연 : 상자루\n· 예매 : 멜론티켓 2021년 09월 24일 (금) 오후 8시 예매오픈\n⠀\n#상자루 #SANGJARU #You_make_it\n#롤링홀 #ROLLINGHALL\n#홍대 #공연 #멜론티켓 https://t.co/jgB6V22Mga"
+	},
+	{
+		"created_at": "Fri Sep 17 02:58:44 +0000 2021",
+		"id": 1438695461209075700,
+		"id_str": "1438698910554497025",
+		"full_text": "#부산국제록페스티벌 #부산록페 #부산락페 #부락 #록페스티벌 #페스티벌 #부산축제 #BusanRockFestival #BusanRock #BuRock #Festival #Busan #굿즈 #md #부락온택트키트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "부산국제록페스티벌",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "부산록페",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "부산락페",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "부락",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "록페스티벌",
+					"indices": [
+						27,
+						33
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "부산축제",
+					"indices": [
+						40,
+						45
+					]
+				},
+				{
+					"text": "BusanRockFestival",
+					"indices": [
+						46,
+						64
+					]
+				},
+				{
+					"text": "BusanRock",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"text": "BuRock",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"text": "Festival",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"text": "Busan",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "굿즈",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "md",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "부락온택트키트",
+					"indices": [
+						109,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1438695459581612000,
+		"in_reply_to_status_id_str": "1438695459581612045",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/eAlfyJep2j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eAlfyJep2j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1065,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1624518084",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#부산국제록페스티벌 #부산록페 #부산락페 #부락 #록페스티벌 #페스티벌 #부산축제 #BusanRockFestival #BusanRock #BuRock #Festival #Busan #굿즈 #md #부락온택트키트"
+	},
+	{
+		"created_at": "Fri Sep 17 02:58:38 +0000 2021",
+		"id": 1438695459581612000,
+		"id_str": "1438698884902100993",
+		"full_text": "Three components in one set!\nㆍ🍜Meal kit like taste of Busan\nㆍ🎁Goods box where you can feel the Samnak park\nㆍ👕Rock Festival's signature T-shirt\n\nㆍWebsite\nAfreeca TV Shop\nhttps://t.co/HlAUWdg7gL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HlAUWdg7gL",
+					"expanded_url": "https://url.kr/65uozq",
+					"display_url": "url.kr/65uozq",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1438695458214322200,
+		"in_reply_to_status_id_str": "1438695458214322185",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/eAlfyJep2j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eAlfyJep2j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1065,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1624518084",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Three components in one set!\nㆍ🍜Meal kit like taste of Busan\nㆍ🎁Goods box where you can feel the Samnak park\nㆍ👕Rock Festival's signature T-shirt\n\nㆍWebsite\nAfreeca TV Shop\nhttps://t.co/HlAUWdg7gL"
+	},
+	{
+		"created_at": "Fri Sep 17 02:58:32 +0000 2021",
+		"id": 1438695458214322200,
+		"id_str": "1438698859258056706",
+		"full_text": "🎁BUROCK ON-TACT KIT the back of the T-shirt OPEN👕\n\nCelebrating the opening of the lineup 🎉\nLet me show you the back of the T-shirt with the artist logo.👏👏\n\n🤸‍♀️\"Saving money\", \"Oh my!\" \"I'm having fun\"🤸‍♂️\nThe package worth 88,000 won for 33,000 won...!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1438695455420936200,
+		"in_reply_to_status_id_str": "1438695455420936194",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/eAlfyJep2j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eAlfyJep2j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1065,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1624518084",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "🎁BUROCK ON-TACT KIT the back of the T-shirt OPEN👕\n\nCelebrating the opening of the lineup 🎉\nLet me show you the back of the T-shirt with the artist logo.👏👏\n\n🤸‍♀️\"Saving money\", \"Oh my!\" \"I'm having fun\"🤸‍♂️\nThe package worth 88,000 won for 33,000 won...!"
+	},
+	{
+		"created_at": "Fri Sep 17 02:58:29 +0000 2021",
+		"id": 1438695455420936200,
+		"id_str": "1438698846159310854",
+		"full_text": "세 가지 구성이 한 세트로!\nㆍ🍜부산의 맛을 느낄 수 있는 밀키트\nㆍ🎁삼락의 현장감을 느낄 수 있는 굿즈박스\nㆍ👕락페스티벌의 시그니처 티셔츠\n\nㆍ구매처\n아프리카tv 샵\nhttps://t.co/HlAUWdg7gL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HlAUWdg7gL",
+					"expanded_url": "https://url.kr/65uozq",
+					"display_url": "url.kr/65uozq",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1438695452669464600,
+		"in_reply_to_status_id_str": "1438695452669464579",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/eAlfyJep2j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eAlfyJep2j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1065,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1624518084",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "세 가지 구성이 한 세트로!\nㆍ🍜부산의 맛을 느낄 수 있는 밀키트\nㆍ🎁삼락의 현장감을 느낄 수 있는 굿즈박스\nㆍ👕락페스티벌의 시그니처 티셔츠\n\nㆍ구매처\n아프리카tv 샵\nhttps://t.co/HlAUWdg7gL"
+	},
+	{
+		"created_at": "Fri Sep 17 02:58:24 +0000 2021",
+		"id": 1438695452669464600,
+		"id_str": "1438698824546062338",
+		"full_text": "🎁부락-온택트 키트 티샤-츠 뒷면 공개👕\n\n라인업 오픈 기념🎉\n아티스트 로고가 담긴 티셔츠 뒷면을 공개합니다👏👏\n\n🤸‍♂️\"비용절약\" \"마참내!\" \"즐겁다\"🤸‍♀️\n88,000원 상당의 키트를 33,000원에...! https://t.co/rRAZ2UWx1Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438695426148888600,
+					"id_str": "1438695426148888579",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/E_dF3heVcAM5-7C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_dF3heVcAM5-7C.jpg",
+					"url": "https://t.co/rRAZ2UWx1Z",
+					"display_url": "pic.twitter.com/rRAZ2UWx1Z",
+					"expanded_url": "https://twitter.com/busan_rock/status/1438695452669464579/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438695426148888600,
+					"id_str": "1438695426148888579",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/E_dF3heVcAM5-7C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_dF3heVcAM5-7C.jpg",
+					"url": "https://t.co/rRAZ2UWx1Z",
+					"display_url": "pic.twitter.com/rRAZ2UWx1Z",
+					"expanded_url": "https://twitter.com/busan_rock/status/1438695452669464579/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438695435401511000,
+					"id_str": "1438695435401510912",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/E_dF4D8VQAAcY81.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_dF4D8VQAAcY81.jpg",
+					"url": "https://t.co/rRAZ2UWx1Z",
+					"display_url": "pic.twitter.com/rRAZ2UWx1Z",
+					"expanded_url": "https://twitter.com/busan_rock/status/1438695452669464579/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1438695443488075800,
+					"id_str": "1438695443488075780",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/E_dF4iEUcAQVB_Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_dF4iEUcAQVB_Y.jpg",
+					"url": "https://t.co/rRAZ2UWx1Z",
+					"display_url": "pic.twitter.com/rRAZ2UWx1Z",
+					"expanded_url": "https://twitter.com/busan_rock/status/1438695452669464579/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/eAlfyJep2j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eAlfyJep2j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1065,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1624518084",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎁부락-온택트 키트 티샤-츠 뒷면 공개👕\n\n라인업 오픈 기념🎉\n아티스트 로고가 담긴 티셔츠 뒷면을 공개합니다👏👏\n\n🤸‍♂️\"비용절약\" \"마참내!\" \"즐겁다\"🤸‍♀️\n88,000원 상당의 키트를 33,000원에...! https://t.co/rRAZ2UWx1Z"
+	},
+	{
+		"created_at": "Fri Sep 17 02:58:14 +0000 2021",
+		"id": 1438684774244049000,
+		"id_str": "1438698785924915202",
+		"full_text": "Join now!\nhttps://t.co/3htPBHA6xK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3htPBHA6xK",
+					"expanded_url": "http://youtube.com/KCON/join",
+					"display_url": "youtube.com/KCON/join",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438684772369191000,
+		"in_reply_to_status_id_str": "1438684772369190913",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 396622,
+			"friends_count": 75,
+			"listed_count": 1007,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join now!\nhttps://t.co/3htPBHA6xK"
+	},
+	{
+		"created_at": "Fri Sep 17 02:29:32 +0000 2021",
+		"id": 1438683839350509600,
+		"id_str": "1438691559877263361",
+		"full_text": "싱어송라이터 우예린, 첫 EP 20일 정오 발매 (출처 : 스포츠월드 | 네이버 TV연예) https://t.co/zt7cMEIk3d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zt7cMEIk3d",
+					"expanded_url": "http://naver.me/GGhvFzct",
+					"display_url": "naver.me/GGhvFzct",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7672,
+			"friends_count": 8358,
+			"listed_count": 198,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 961,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "싱어송라이터 우예린, 첫 EP 20일 정오 발매 (출처 : 스포츠월드 | 네이버 TV연예) https://t.co/zt7cMEIk3d"
+	},
+	{
 		"created_at": "Fri Sep 17 01:29:25 +0000 2021",
 		"id": 1438662331790073900,
 		"id_str": "1438676431840714758",
