@@ -1,6 +1,906 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 18 03:05:50 +0000 2021",
+		"id": 1439063084593725400,
+		"id_str": "1439063084593725443",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\nbluewoods (블루우즈) - 흠집(Scratch) - (Feat. 수연이(Soo-Yeony)) [Lyric Video]\nhttps://t.co/N6W1BBx6xQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N6W1BBx6xQ",
+					"expanded_url": "https://youtu.be/b5rdPkDa5TA",
+					"display_url": "youtu.be/b5rdPkDa5TA",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 73299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\nbluewoods (블루우즈) - 흠집(Scratch) - (Feat. 수연이(Soo-Yeony)) [Lyric Video]\nhttps://t.co/N6W1BBx6xQ"
+	},
+	{
+		"created_at": "Sat Sep 18 02:58:35 +0000 2021",
+		"id": 1439052448920850400,
+		"id_str": "1439061260369375235",
+		"full_text": "#부산국제록페스티벌 #부산록페 #부산락페 #부락 #록페스티벌 #페스티벌 #부산축제 #BusanRockFestival #BusanRock #BuRock #Festival #Busan #굿즈 #md #부락온택트키트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "부산국제록페스티벌",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "부산록페",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "부산락페",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "부락",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "록페스티벌",
+					"indices": [
+						27,
+						33
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "부산축제",
+					"indices": [
+						40,
+						45
+					]
+				},
+				{
+					"text": "BusanRockFestival",
+					"indices": [
+						46,
+						64
+					]
+				},
+				{
+					"text": "BusanRock",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"text": "BuRock",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"text": "Festival",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"text": "Busan",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "굿즈",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "md",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "부락온택트키트",
+					"indices": [
+						109,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1439052447587070000,
+		"in_reply_to_status_id_str": "1439052447587069954",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/eAlfyJep2j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eAlfyJep2j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1106,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1624518084",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#부산국제록페스티벌 #부산록페 #부산락페 #부락 #록페스티벌 #페스티벌 #부산축제 #BusanRockFestival #BusanRock #BuRock #Festival #Busan #굿즈 #md #부락온택트키트"
+	},
+	{
+		"created_at": "Sat Sep 18 02:58:31 +0000 2021",
+		"id": 1439052447587070000,
+		"id_str": "1439061242954407941",
+		"full_text": "The only way to have 2021 BUROCK goods and T-shirts 👍\nWe'll give you the realism of the BUROCK!\n\nㆍ🍜Meal kit like taste of Busan\nㆍ🎁Goods box where you can feel the Samnak park\nㆍ👕Rock Festival's signature T-shirt\n\nㆍWebsite\nAfreeca TV Shop\nhttps://t.co/HlAUWdg7gL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HlAUWdg7gL",
+					"expanded_url": "https://url.kr/65uozq",
+					"display_url": "url.kr/65uozq",
+					"indices": [
+						237,
+						260
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1439052446291034000,
+		"in_reply_to_status_id_str": "1439052446291034115",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/eAlfyJep2j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eAlfyJep2j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1106,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1624518084",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The only way to have 2021 BUROCK goods and T-shirts 👍\nWe'll give you the realism of the BUROCK!\n\nㆍ🍜Meal kit like taste of Busan\nㆍ🎁Goods box where you can feel the Samnak park\nㆍ👕Rock Festival's signature T-shirt\n\nㆍWebsite\nAfreeca TV Shop\nhttps://t.co/HlAUWdg7gL"
+	},
+	{
+		"created_at": "Sat Sep 18 02:58:27 +0000 2021",
+		"id": 1439052446291034000,
+		"id_str": "1439061225544036355",
+		"full_text": "The actual pictures of the T-shirt/slogan/pin button release 📷\n\nFor those who are thinking about the size of the t-shirt, Here are the pictures of the staff wearing it.\n\n📌The T-shirts on sale are white. Please refer to it for your information.\n📌 KIT will not be sold offline.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1439052444969750500,
+		"in_reply_to_status_id_str": "1439052444969750530",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/eAlfyJep2j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eAlfyJep2j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1106,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1624518084",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The actual pictures of the T-shirt/slogan/pin button release 📷\n\nFor those who are thinking about the size of the t-shirt, Here are the pictures of the staff wearing it.\n\n📌The T-shirts on sale are white. Please refer to it for your information.\n📌 KIT will not be sold offline."
+	},
+	{
+		"created_at": "Sat Sep 18 02:58:22 +0000 2021",
+		"id": 1439052444969750500,
+		"id_str": "1439061204077621252",
+		"full_text": "2021 부락의 굿즈와 티셔츠를 가질 수 있는 유일한 방법👍\n\n정가보다 훨씬 낮은 가격으로\n부락의 현장감을 전달드립니다!\n\nㆍ🍜부산의 맛을 느낄 수 있는 밀키트\nㆍ🎁삼락의 현장감을 느낄 수 있는 굿즈박스\nㆍ👕락페스티벌의 시그니처 티셔츠\n\nㆍ구매처\n아프리카tv 샵\nhttps://t.co/HlAUWdg7gL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HlAUWdg7gL",
+					"expanded_url": "https://url.kr/65uozq",
+					"display_url": "url.kr/65uozq",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1439052442188992500,
+		"in_reply_to_status_id_str": "1439052442188992512",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/eAlfyJep2j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eAlfyJep2j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1106,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1624518084",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2021 부락의 굿즈와 티셔츠를 가질 수 있는 유일한 방법👍\n\n정가보다 훨씬 낮은 가격으로\n부락의 현장감을 전달드립니다!\n\nㆍ🍜부산의 맛을 느낄 수 있는 밀키트\nㆍ🎁삼락의 현장감을 느낄 수 있는 굿즈박스\nㆍ👕락페스티벌의 시그니처 티셔츠\n\nㆍ구매처\n아프리카tv 샵\nhttps://t.co/HlAUWdg7gL"
+	},
+	{
+		"created_at": "Sat Sep 18 02:58:19 +0000 2021",
+		"id": 1439052442188992500,
+		"id_str": "1439061191020646404",
+		"full_text": "[BUROCK ON-TACT KIT ON SALE]\n티셔츠 / 슬로건 / 핀버튼의 실제 사진을 공개합니다.📷\n\n티셔츠 사이즈로\n고민 중이실 여러분들을 위한\n스탭들의 실착용 사진까지! 💃🕺\n\n📌판매 티셔츠 색상은 흰색입니다. 참고용으로 봐주시길 바랍니다\n📌 오프라인 현장에서는 구매하실 수 없습니다. https://t.co/AMAvMJghH5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1439052418835050500,
+					"id_str": "1439052418835050497",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/E_iKjO3UcAEkLiP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_iKjO3UcAEkLiP.jpg",
+					"url": "https://t.co/AMAvMJghH5",
+					"display_url": "pic.twitter.com/AMAvMJghH5",
+					"expanded_url": "https://twitter.com/busan_rock/status/1439052442188992512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439052418835050500,
+					"id_str": "1439052418835050497",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/E_iKjO3UcAEkLiP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_iKjO3UcAEkLiP.jpg",
+					"url": "https://t.co/AMAvMJghH5",
+					"display_url": "pic.twitter.com/AMAvMJghH5",
+					"expanded_url": "https://twitter.com/busan_rock/status/1439052442188992512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1439052426456166400,
+					"id_str": "1439052426456166407",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/E_iKjrQVcAcfPWg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_iKjrQVcAcfPWg.jpg",
+					"url": "https://t.co/AMAvMJghH5",
+					"display_url": "pic.twitter.com/AMAvMJghH5",
+					"expanded_url": "https://twitter.com/busan_rock/status/1439052442188992512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1439052435142545400,
+					"id_str": "1439052435142545411",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/E_iKkLnVEAMkFse.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_iKkLnVEAMkFse.jpg",
+					"url": "https://t.co/AMAvMJghH5",
+					"display_url": "pic.twitter.com/AMAvMJghH5",
+					"expanded_url": "https://twitter.com/busan_rock/status/1439052442188992512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/eAlfyJep2j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eAlfyJep2j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1106,
+			"friends_count": 0,
+			"listed_count": 6,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1624518084",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[BUROCK ON-TACT KIT ON SALE]\n티셔츠 / 슬로건 / 핀버튼의 실제 사진을 공개합니다.📷\n\n티셔츠 사이즈로\n고민 중이실 여러분들을 위한\n스탭들의 실착용 사진까지! 💃🕺\n\n📌판매 티셔츠 색상은 흰색입니다. 참고용으로 봐주시길 바랍니다\n📌 오프라인 현장에서는 구매하실 수 없습니다. https://t.co/AMAvMJghH5"
+	},
+	{
 		"created_at": "Sat Sep 18 01:58:44 +0000 2021",
 		"id": 1439043261184688000,
 		"id_str": "1439046199403745280",
