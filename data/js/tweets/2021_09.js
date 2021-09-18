@@ -1,6 +1,1069 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 18 12:58:38 +0000 2021",
+		"id": 1439210480816443400,
+		"id_str": "1439212267690659851",
+		"full_text": "판빙빙 할머니의 가보를 차지하기 위한 디제잉 대결이 계속됩니다! 다음 순서는 말수가 적은 삼촌 콩부! 콩부는 밀레니얼 K팝 셋을 준비했습니다!\n\n한마디: 초초야 사랑해.\n\n🎧Red Velvet - Body Talk\nCOMING UP NEXT - 인O니O, 엄O화, 에O엑O\n👉https://t.co/T43gV7xOm1 https://t.co/kL8LPe3DEx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T43gV7xOm1",
+					"expanded_url": "https://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						154,
+						177
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1439209090173923300,
+					"id_str": "1439209090173923334",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1439209090173923334/pu/img/NwQlz7Om20O7F6Wq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1439209090173923334/pu/img/NwQlz7Om20O7F6Wq.jpg",
+					"url": "https://t.co/kL8LPe3DEx",
+					"display_url": "pic.twitter.com/kL8LPe3DEx",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1439210480816443397/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439209090173923300,
+					"id_str": "1439209090173923334",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1439209090173923334/pu/img/NwQlz7Om20O7F6Wq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1439209090173923334/pu/img/NwQlz7Om20O7F6Wq.jpg",
+					"url": "https://t.co/kL8LPe3DEx",
+					"display_url": "pic.twitter.com/kL8LPe3DEx",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1439210480816443397/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							2,
+							3
+						],
+						"duration_millis": 41876,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439209090173923334/pu/vid/720x1080/j0Hf7QmNvXgnUcaG.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1439209090173923334/pu/pl/_Gm9zJhRHmYmDDg0.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439209090173923334/pu/vid/320x480/N-cOBcsXVFWoxzvh.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439209090173923334/pu/vid/480x720/TBKi9R53Hjbr5zg-.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/kho8Mn53lC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kho8Mn53lC",
+							"expanded_url": "https://now.naver.com/player/10255",
+							"display_url": "now.naver.com/player/10255",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7683,
+			"friends_count": 34,
+			"listed_count": 18,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "판빙빙 할머니의 가보를 차지하기 위한 디제잉 대결이 계속됩니다! 다음 순서는 말수가 적은 삼촌 콩부! 콩부는 밀레니얼 K팝 셋을 준비했습니다!\n\n한마디: 초초야 사랑해.\n\n🎧Red Velvet - Body Talk\nCOMING UP NEXT - 인O니O, 엄O화, 에O엑O\n👉https://t.co/T43gV7xOm1 https://t.co/kL8LPe3DEx"
+	},
+	{
+		"created_at": "Sat Sep 18 12:58:36 +0000 2021",
+		"id": 1439206963385036800,
+		"id_str": "1439212258752712706",
+		"full_text": "COMING UP NEXT! #AB6IX M&amp;G https://t.co/IESmKysKm7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AB6IX",
+					"indices": [
+						16,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1439200074479779800,
+					"id_str": "1439200074479779844",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/E_kQ17AVQAQECGY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_kQ17AVQAQECGY.jpg",
+					"url": "https://t.co/IESmKysKm7",
+					"display_url": "pic.twitter.com/IESmKysKm7",
+					"expanded_url": "https://twitter.com/KCON_official/status/1439206963385036801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439200074479779800,
+					"id_str": "1439200074479779844",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/E_kQ17AVQAQECGY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_kQ17AVQAQECGY.jpg",
+					"url": "https://t.co/IESmKysKm7",
+					"display_url": "pic.twitter.com/IESmKysKm7",
+					"expanded_url": "https://twitter.com/KCON_official/status/1439206963385036801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 397768,
+			"friends_count": 75,
+			"listed_count": 1010,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 533,
+		"favorite_count": 1361,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "COMING UP NEXT! #AB6IX M&amp;G https://t.co/IESmKysKm7"
+	},
+	{
+		"created_at": "Sat Sep 18 12:58:32 +0000 2021",
+		"id": 1439205454358335500,
+		"id_str": "1439212241417560065",
+		"full_text": "마티의 주무기는 바로 특유의 에딧!! 동네 어르신들 전부 마티 에딧에 맞춰 트월킹한다🤣 #슬케파\n\n🎧DDU DU VOLUME (MATI '추석' Rework) - BLACKPINK &amp; Ben Nicky\nCOMING UP NEXT - 엔OO픈, 오O이O, 있O\n👉https://t.co/T43gV7xOm1 https://t.co/Vp36pb3tZz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬케파",
+					"indices": [
+						49,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T43gV7xOm1",
+					"expanded_url": "https://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1439204347775053800,
+					"id_str": "1439204347775053831",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1439204347775053831/pu/img/vtiYfrk0qjTagnjD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1439204347775053831/pu/img/vtiYfrk0qjTagnjD.jpg",
+					"url": "https://t.co/Vp36pb3tZz",
+					"display_url": "pic.twitter.com/Vp36pb3tZz",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1439205454358335489/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439204347775053800,
+					"id_str": "1439204347775053831",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1439204347775053831/pu/img/vtiYfrk0qjTagnjD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1439204347775053831/pu/img/vtiYfrk0qjTagnjD.jpg",
+					"url": "https://t.co/Vp36pb3tZz",
+					"display_url": "pic.twitter.com/Vp36pb3tZz",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1439205454358335489/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							2,
+							3
+						],
+						"duration_millis": 44138,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439204347775053831/pu/vid/320x480/4c3Wjd2_jgOnCjiD.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439204347775053831/pu/vid/720x1080/81k7vZH2NCOVRJOW.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1439204347775053831/pu/pl/5Fhz_sAp8QITZ-_L.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439204347775053831/pu/vid/480x720/pYRy3SSY15OS-oLQ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/kho8Mn53lC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kho8Mn53lC",
+							"expanded_url": "https://now.naver.com/player/10255",
+							"display_url": "now.naver.com/player/10255",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7683,
+			"friends_count": 34,
+			"listed_count": 18,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마티의 주무기는 바로 특유의 에딧!! 동네 어르신들 전부 마티 에딧에 맞춰 트월킹한다🤣 #슬케파\n\n🎧DDU DU VOLUME (MATI '추석' Rework) - BLACKPINK &amp; Ben Nicky\nCOMING UP NEXT - 엔OO픈, 오O이O, 있O\n👉https://t.co/T43gV7xOm1 https://t.co/Vp36pb3tZz"
+	},
+	{
+		"created_at": "Sat Sep 18 12:58:24 +0000 2021",
+		"id": 1439202524389527600,
+		"id_str": "1439212207317954564",
+		"full_text": "덤씨 가문은 판씨 가문을 대적할 수 있는 유일한 경쟁 가문입니다... 하지만 70년원조판빙빙할머니국밥이아니라 디제잉이 최고지 #슬케파\n\n🎧전소미 - Dumb Dumb➡️Red Velvet - Dumb Dumb (MATI Edit)\nCOMING UP NEXT - 씨O, 블O핑O, 트O이O, 위O리\n👉https://t.co/T43gV7xOm1 https://t.co/XNZKtyTVKW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬케파",
+					"indices": [
+						70,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T43gV7xOm1",
+					"expanded_url": "https://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						167,
+						190
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1439201741937930200,
+					"id_str": "1439201741937930244",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1439201741937930244/pu/img/ePK6WAzKk-JKdffN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1439201741937930244/pu/img/ePK6WAzKk-JKdffN.jpg",
+					"url": "https://t.co/XNZKtyTVKW",
+					"display_url": "pic.twitter.com/XNZKtyTVKW",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1439202524389527557/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439201741937930200,
+					"id_str": "1439201741937930244",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1439201741937930244/pu/img/ePK6WAzKk-JKdffN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1439201741937930244/pu/img/ePK6WAzKk-JKdffN.jpg",
+					"url": "https://t.co/XNZKtyTVKW",
+					"display_url": "pic.twitter.com/XNZKtyTVKW",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1439202524389527557/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							2,
+							3
+						],
+						"duration_millis": 64266,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1439201741937930244/pu/pl/zGhTT8bu5SVQP6GK.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439201741937930244/pu/vid/480x720/MMi0CXfG_2sJe-me.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439201741937930244/pu/vid/320x480/86oqZ9hDvO5PWKzM.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439201741937930244/pu/vid/720x1080/_lKo9BB4qkcyQh-j.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/kho8Mn53lC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kho8Mn53lC",
+							"expanded_url": "https://now.naver.com/player/10255",
+							"display_url": "now.naver.com/player/10255",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7683,
+			"friends_count": 34,
+			"listed_count": 18,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "덤씨 가문은 판씨 가문을 대적할 수 있는 유일한 경쟁 가문입니다... 하지만 70년원조판빙빙할머니국밥이아니라 디제잉이 최고지 #슬케파\n\n🎧전소미 - Dumb Dumb➡️Red Velvet - Dumb Dumb (MATI Edit)\nCOMING UP NEXT - 씨O, 블O핑O, 트O이O, 위O리\n👉https://t.co/T43gV7xOm1 https://t.co/XNZKtyTVKW"
+	},
+	{
+		"created_at": "Sat Sep 18 12:58:20 +0000 2021",
+		"id": 1439201105896886300,
+		"id_str": "1439212190045720579",
+		"full_text": "광야 정말 가고 싶은데 갈 수 있을지 모르겠어요.\n일단 스펙 적어보자면\n\n1. 디귿자 잘 만듦\n2. 인생곡: 블랙맘바\n3. 취미는 유영진 모창이고 나비스 들을 때 좀 흥분? 돼요.\n\nㅇㄸ? 가능성 봐주세요 ㅜㅜ\n\n🎧aespa - Next Level X Skrillex - Bangarang (MATI Edit)\n👉https://t.co/T43gV7xOm1 https://t.co/R0xJBdVBMg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T43gV7xOm1",
+					"expanded_url": "https://now.naver.com/player/10255",
+					"display_url": "now.naver.com/player/10255",
+					"indices": [
+						175,
+						198
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1439200486364631000,
+					"id_str": "1439200486364631051",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1439200486364631051/pu/img/95QndMD4DGVZnHJo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1439200486364631051/pu/img/95QndMD4DGVZnHJo.jpg",
+					"url": "https://t.co/R0xJBdVBMg",
+					"display_url": "pic.twitter.com/R0xJBdVBMg",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1439201105896886280/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439200486364631000,
+					"id_str": "1439200486364631051",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1439200486364631051/pu/img/95QndMD4DGVZnHJo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1439200486364631051/pu/img/95QndMD4DGVZnHJo.jpg",
+					"url": "https://t.co/R0xJBdVBMg",
+					"display_url": "pic.twitter.com/R0xJBdVBMg",
+					"expanded_url": "https://twitter.com/seulpeumkpop/status/1439201105896886280/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							2,
+							3
+						],
+						"duration_millis": 39874,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439200486364631051/pu/vid/720x1080/86LohJg5rSPuXRvl.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439200486364631051/pu/vid/480x720/2kHz8AWvIROi7Wle.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1439200486364631051/pu/pl/y_sQnoiNwvtjmu0k.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439200486364631051/pu/vid/320x480/4wkQ3No-KLGTs72U.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 729495493080809500,
+			"id_str": "729495493080809473",
+			"name": "슬케파",
+			"screen_name": "seulpeumkpop",
+			"location": "",
+			"description": "본방송 매주 토요일 저녁 9시 NAVER NOW / 재방송 화요일~토요일 NAVER NOW 24H / 지난회차 다시보기 VIBE",
+			"url": "https://t.co/kho8Mn53lC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kho8Mn53lC",
+							"expanded_url": "https://now.naver.com/player/10255",
+							"display_url": "now.naver.com/player/10255",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7683,
+			"friends_count": 34,
+			"listed_count": 18,
+			"created_at": "Mon May 09 02:17:33 +0000 2016",
+			"favourites_count": 719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434539405981536256/7d7DZF6f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/729495493080809473/1621333964",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "광야 정말 가고 싶은데 갈 수 있을지 모르겠어요.\n일단 스펙 적어보자면\n\n1. 디귿자 잘 만듦\n2. 인생곡: 블랙맘바\n3. 취미는 유영진 모창이고 나비스 들을 때 좀 흥분? 돼요.\n\nㅇㄸ? 가능성 봐주세요 ㅜㅜ\n\n🎧aespa - Next Level X Skrillex - Bangarang (MATI Edit)\n👉https://t.co/T43gV7xOm1 https://t.co/R0xJBdVBMg"
+	},
+	{
 		"created_at": "Sat Sep 18 11:58:31 +0000 2021",
 		"id": 1439196252479049700,
 		"id_str": "1439197138819371008",
