@@ -1,6 +1,441 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 18 04:58:14 +0000 2021",
+		"id": 1439085951448354800,
+		"id_str": "1439091372489850886",
+		"full_text": "AB6IX'S BREAKING LIVE WILL START SHORTLY\nAB6IX의 BREAKING LIVE가 잠시후 찾아옵니다!\nAB6IXのBREAKING LIVEがまもなく訪ねてきます！\n\n▶ KCON official:https://t.co/U3EDqpICfx\n▶ Mnet K-POP: https://t.co/6r2cEXcq8l https://t.co/btmYoQl037",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U3EDqpICfx",
+					"expanded_url": "https://youtu.be/EZ2Xkc6WinE",
+					"display_url": "youtu.be/EZ2Xkc6WinE",
+					"indices": [
+						123,
+						146
+					]
+				},
+				{
+					"url": "https://t.co/6r2cEXcq8l",
+					"expanded_url": "https://youtu.be/UCZ3E_E_2GA",
+					"display_url": "youtu.be/UCZ3E_E_2GA",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1439085944460562400,
+					"id_str": "1439085944460562435",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/E_ipCrjUUAMasPE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_ipCrjUUAMasPE.jpg",
+					"url": "https://t.co/btmYoQl037",
+					"display_url": "pic.twitter.com/btmYoQl037",
+					"expanded_url": "https://twitter.com/KCON_official/status/1439085951448354817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439085944460562400,
+					"id_str": "1439085944460562435",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/E_ipCrjUUAMasPE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_ipCrjUUAMasPE.jpg",
+					"url": "https://t.co/btmYoQl037",
+					"display_url": "pic.twitter.com/btmYoQl037",
+					"expanded_url": "https://twitter.com/KCON_official/status/1439085951448354817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 397365,
+			"friends_count": 75,
+			"listed_count": 1010,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10954,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 464,
+		"favorite_count": 982,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "AB6IX'S BREAKING LIVE WILL START SHORTLY\nAB6IX의 BREAKING LIVE가 잠시후 찾아옵니다!\nAB6IXのBREAKING LIVEがまもなく訪ねてきます！\n\n▶ KCON official:https://t.co/U3EDqpICfx\n▶ Mnet K-POP: https://t.co/6r2cEXcq8l https://t.co/btmYoQl037"
+	},
+	{
+		"created_at": "Sat Sep 18 04:29:31 +0000 2021",
+		"id": 1439082044751900700,
+		"id_str": "1439084143221092353",
+		"full_text": "“심연에 감춰두었던 커다란 감정 덩어리들이 음악에 맞춰 조금씩 기지개를 켠다. 그들을 다시 외면해 잠재울 것인지, 앞으로도 한참 남은 고단한 삶의 새로운 친구로 삼을지는 당신이 결정할 일이다. 취하거나, 취하지 않거나. 술과 꽃의 나날이 이어진다. 이토록 무심하게.” by @romanflare",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "romanflare",
+					"name": "김윤하 kim yoonha",
+					"id": 113674917,
+					"id_str": "113674917",
+					"indices": [
+						153,
+						164
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": 1439081411844001800,
+		"in_reply_to_status_id_str": "1439081411844001792",
+		"in_reply_to_user_id": 602961088,
+		"in_reply_to_user_id_str": "602961088",
+		"in_reply_to_screen_name": "YOUNGGIFTEDWACK",
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3546,
+			"friends_count": 1202,
+			"listed_count": 52,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "“심연에 감춰두었던 커다란 감정 덩어리들이 음악에 맞춰 조금씩 기지개를 켠다. 그들을 다시 외면해 잠재울 것인지, 앞으로도 한참 남은 고단한 삶의 새로운 친구로 삼을지는 당신이 결정할 일이다. 취하거나, 취하지 않거나. 술과 꽃의 나날이 이어진다. 이토록 무심하게.” by @romanflare"
+	},
+	{
+		"created_at": "Sat Sep 18 04:29:29 +0000 2021",
+		"id": 1439081411844001800,
+		"id_str": "1439084134325002244",
+		"full_text": "VIBE https://t.co/pcHsBpN2XP\n애플뮤직 https://t.co/OI5vkwBtFt\n스포티파이 https://t.co/vPtiCOpSPd\n밴드캠프 https://t.co/9CauNfuQwb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pcHsBpN2XP",
+					"expanded_url": "https://bit.ly/rm3063vibe",
+					"display_url": "bit.ly/rm3063vibe",
+					"indices": [
+						5,
+						28
+					]
+				},
+				{
+					"url": "https://t.co/OI5vkwBtFt",
+					"expanded_url": "https://bit.ly/rm3063apple",
+					"display_url": "bit.ly/rm3063apple",
+					"indices": [
+						34,
+						57
+					]
+				},
+				{
+					"url": "https://t.co/vPtiCOpSPd",
+					"expanded_url": "https://bit.ly/room3063spotify",
+					"display_url": "bit.ly/room3063spotify",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/9CauNfuQwb",
+					"expanded_url": "https://bit.ly/rm3063bandcamp",
+					"display_url": "bit.ly/rm3063bandcamp",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": 1439081409365176300,
+		"in_reply_to_status_id_str": "1439081409365176322",
+		"in_reply_to_user_id": 602961088,
+		"in_reply_to_user_id_str": "602961088",
+		"in_reply_to_screen_name": "YOUNGGIFTEDWACK",
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3546,
+			"friends_count": 1202,
+			"listed_count": 52,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "VIBE https://t.co/pcHsBpN2XP\n애플뮤직 https://t.co/OI5vkwBtFt\n스포티파이 https://t.co/vPtiCOpSPd\n밴드캠프 https://t.co/9CauNfuQwb"
+	},
+	{
 		"created_at": "Sat Sep 18 03:29:27 +0000 2021",
 		"id": 1439063267280703500,
 		"id_str": "1439069026572021761",
