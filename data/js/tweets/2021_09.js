@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 18 23:29:25 +0000 2021",
+		"id": 1439361817118064600,
+		"id_str": "1439371007417069572",
+		"full_text": "이 앨범의 곡에 적용되는 노이즈들은 청각 정보가 누적된 음악의 역사가 암시의 기능을 수행하는 것을 넘어 충분히 경험되어 인식하는 단계에 아직 다다르지 못한 새로운 이질감이고 이 이질감이 바로 우리의 음악 경험을 다른 가능성으로 바꾸어 나가는 원료이다. https://t.co/evUlRY3Lbh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/evUlRY3Lbh",
+					"expanded_url": "https://drmicp.com/21402054",
+					"display_url": "drmicp.com/21402054",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1302973592448036900,
+			"id_str": "1302973592448036869",
+			"name": "두루미 흥업",
+			"screen_name": "dooroomi_c",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/w0g5ZZkoX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w0g5ZZkoX6",
+							"expanded_url": "http://drmicp.com",
+							"display_url": "drmicp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 137,
+			"friends_count": 193,
+			"listed_count": 1,
+			"created_at": "Mon Sep 07 14:14:53 +0000 2020",
+			"favourites_count": 720,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349789670326951938/3GJe96y5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1302973592448036869/1628405842",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 앨범의 곡에 적용되는 노이즈들은 청각 정보가 누적된 음악의 역사가 암시의 기능을 수행하는 것을 넘어 충분히 경험되어 인식하는 단계에 아직 다다르지 못한 새로운 이질감이고 이 이질감이 바로 우리의 음악 경험을 다른 가능성으로 바꾸어 나가는 원료이다. https://t.co/evUlRY3Lbh"
+	},
+	{
 		"created_at": "Sat Sep 18 16:58:23 +0000 2021",
 		"id": 1439271072293998600,
 		"id_str": "1439272601701036035",
