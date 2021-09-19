@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 19 01:58:31 +0000 2021",
+		"id": 1439401998755917800,
+		"id_str": "1439408530180743168",
+		"full_text": "今日ゲリラで行われる #GHOST9, #KWONEUNBI, #StrayKidsのBreaking Live\n直前お知らせします。見逃さないで\n\n*現場状況により、変動及びキャンセルされる可能性があります\n*YouTube無料ストリーミングで行われ、全ての方がご視聴できます\n*各チームごと、違う時間に行われます\n\n#KCONTACT #KCONTACTHI5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GHOST9",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"text": "KWONEUNBI",
+					"indices": [
+						20,
+						30
+					]
+				},
+				{
+					"text": "StrayKidsのBreaking",
+					"indices": [
+						32,
+						51
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						160,
+						169
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						170,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1439401997002686500,
+		"in_reply_to_status_id_str": "1439401997002686469",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 398092,
+			"friends_count": 75,
+			"listed_count": 1009,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10991,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 86,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "今日ゲリラで行われる #GHOST9, #KWONEUNBI, #StrayKidsのBreaking Live\n直前お知らせします。見逃さないで\n\n*現場状況により、変動及びキャンセルされる可能性があります\n*YouTube無料ストリーミングで行われ、全ての方がご視聴できます\n*各チームごと、違う時間に行われます\n\n#KCONTACT #KCONTACTHI5"
+	},
+	{
+		"created_at": "Sun Sep 19 01:58:24 +0000 2021",
+		"id": 1439401997002686500,
+		"id_str": "1439408500283686913",
+		"full_text": "오늘 게릴라로 진행되는 #GHOST9, #KWONEUNBI, #StrayKids의 Breaking Live!\n직전에 고지됩니다. 놓치지 마세요!\n\n*현장 상황에 따라 변동 및 취소될 수 있습니다.\n*유튜브 무료 스트리밍으로 진행되며 모든 분들이 시청하실 수 있습니다.\n*각 팀별로 다른 시간에 진행됩니다.\n\n#KCONTACT #KCONTACTHI5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GHOST9",
+					"indices": [
+						13,
+						20
+					]
+				},
+				{
+					"text": "KWONEUNBI",
+					"indices": [
+						22,
+						32
+					]
+				},
+				{
+					"text": "StrayKids의",
+					"indices": [
+						34,
+						45
+					]
+				},
+				{
+					"text": "KCONTACT",
+					"indices": [
+						172,
+						181
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						182,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1439401354037022700,
+		"in_reply_to_status_id_str": "1439401354037022722",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 398092,
+			"friends_count": 75,
+			"listed_count": 1009,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10991,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "오늘 게릴라로 진행되는 #GHOST9, #KWONEUNBI, #StrayKids의 Breaking Live!\n직전에 고지됩니다. 놓치지 마세요!\n\n*현장 상황에 따라 변동 및 취소될 수 있습니다.\n*유튜브 무료 스트리밍으로 진행되며 모든 분들이 시청하실 수 있습니다.\n*각 팀별로 다른 시간에 진행됩니다.\n\n#KCONTACT #KCONTACTHI5"
+	},
+	{
 		"created_at": "Sat Sep 18 23:29:25 +0000 2021",
 		"id": 1439361817118064600,
 		"id_str": "1439371007417069572",
