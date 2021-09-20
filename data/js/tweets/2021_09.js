@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 20 09:29:32 +0000 2021",
+		"id": 1439882173809447000,
+		"id_str": "1439884422191386624",
+		"full_text": "[#곽진언]\n비긴어게인 오픈마이크\n곽진언 &amp; 헤이즈의 '기다린 만큼, 더' (원곡 : 검정치마)🎤\n🔗 https://t.co/54HtBinQrj\n\n📍매주 월요일 6시 비긴어게인 유튜브 공개 \n\n#곽진언 #kwakjineon #헤이즈\n#비긴어게인오픈마이크 #기다린만큼더 https://t.co/BNZZwgNE8M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "곽진언",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "곽진언",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "kwakjineon",
+					"indices": [
+						117,
+						128
+					]
+				},
+				{
+					"text": "헤이즈",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "비긴어게인오픈마이크",
+					"indices": [
+						134,
+						145
+					]
+				},
+				{
+					"text": "기다린만큼더",
+					"indices": [
+						146,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/54HtBinQrj",
+					"expanded_url": "http://youtu.be/AhyQhMwbl-Q",
+					"display_url": "youtu.be/AhyQhMwbl-Q",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1439882092758782000,
+					"id_str": "1439882092758781957",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1439882092758781957/pu/img/I_y29ROxd8q6Kd0l.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1439882092758781957/pu/img/I_y29ROxd8q6Kd0l.jpg",
+					"url": "https://t.co/BNZZwgNE8M",
+					"display_url": "pic.twitter.com/BNZZwgNE8M",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1439882173809446917/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439882092758782000,
+					"id_str": "1439882092758781957",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1439882092758781957/pu/img/I_y29ROxd8q6Kd0l.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1439882092758781957/pu/img/I_y29ROxd8q6Kd0l.jpg",
+					"url": "https://t.co/BNZZwgNE8M",
+					"display_url": "pic.twitter.com/BNZZwgNE8M",
+					"expanded_url": "https://twitter.com/musicfarmkorea/status/1439882173809446917/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30033,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439882092758781957/pu/vid/480x270/eisXAOcOl53wJ-Y3.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439882092758781957/pu/vid/640x360/dRRZE60KwKzrZh0Y.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1439882092758781957/pu/pl/2YnNMAQOL041Ztid.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1439882092758781957/pu/vid/1280x720/DYVHz6NK7hgFh_eS.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 387577661,
+			"id_str": "387577661",
+			"name": "뮤직팜 Music Farm",
+			"screen_name": "musicfarmkorea",
+			"location": "",
+			"description": "이적, 김동률, 존박, 곽진언, 이른 / Official YouTube Channel https://t.co/eGHxiArKQw",
+			"url": "https://t.co/P8S0qXo9Ud",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P8S0qXo9Ud",
+							"expanded_url": "http://www.musicfarm.co.kr",
+							"display_url": "musicfarm.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eGHxiArKQw",
+							"expanded_url": "https://www.youtube.com/user/musicfarmkorea",
+							"display_url": "youtube.com/user/musicfarm…",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9034,
+			"friends_count": 5,
+			"listed_count": 108,
+			"created_at": "Sun Oct 09 09:25:49 +0000 2011",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "86B577",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402947092859867142/vPyyn-39_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/387577661/1625475697",
+			"profile_link_color": "136785",
+			"profile_sidebar_border_color": "46555C",
+			"profile_sidebar_fill_color": "B9BDBF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#곽진언]\n비긴어게인 오픈마이크\n곽진언 &amp; 헤이즈의 '기다린 만큼, 더' (원곡 : 검정치마)🎤\n🔗 https://t.co/54HtBinQrj\n\n📍매주 월요일 6시 비긴어게인 유튜브 공개 \n\n#곽진언 #kwakjineon #헤이즈\n#비긴어게인오픈마이크 #기다린만큼더 https://t.co/BNZZwgNE8M"
+	},
+	{
 		"created_at": "Mon Sep 20 09:01:36 +0000 2021",
 		"id": 1439877390881198000,
 		"id_str": "1439877390881198083",
