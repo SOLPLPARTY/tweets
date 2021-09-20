@@ -1,6 +1,1154 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 20 06:11:16 +0000 2021",
+		"id": 1439824130677878800,
+		"id_str": "1439834527829012481",
+		"full_text": "날이 좋은 추석연휴 첫날 공상온도는 무사히 오픈했습니다! ☺️\n.\n.\n#공상온도 #공상온도일정 @공상온도 https://t.co/n93mqkuyDB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "공상온도",
+					"indices": [
+						39,
+						44
+					]
+				},
+				{
+					"text": "공상온도일정",
+					"indices": [
+						45,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n93mqkuyDB",
+					"expanded_url": "https://www.instagram.com/p/CUCCEbNp7-Q/?utm_medium=twitter",
+					"display_url": "instagram.com/p/CUCCEbNp7-Q/…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720862057243914200,
+			"id_str": "720862057243914240",
+			"name": "공상온도",
+			"screen_name": "gongsangondo",
+			"location": "대한민국 마포구 동교로23길 40",
+			"description": "카페를 기반으로 한 대안공간,갤러리,공연장,아트마켓의 복합문화공간! 서울시 마포구 동교로23길 40 아트마켓 입점,대관 : gongsangondo@gmail.com {ARTIST지원} 아티스트 증명시, 제조음료 30%할인",
+			"url": "https://t.co/nDAiuVnllp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nDAiuVnllp",
+							"expanded_url": "http://www.gongsangondo.com",
+							"display_url": "gongsangondo.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 378,
+			"friends_count": 212,
+			"listed_count": 7,
+			"created_at": "Fri Apr 15 06:31:22 +0000 2016",
+			"favourites_count": 1137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3007,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720863690283622400/Rh9cF7Fa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720862057243914240/1460702295",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				37.55764455,
+				126.91971391
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				126.91971391,
+				37.55764455
+			]
+		},
+		"place": {
+			"id": "019fba1c5ac23f79",
+			"url": "https://api.twitter.com/1.1/geo/id/019fba1c5ac23f79.json",
+			"place_type": "city",
+			"name": "마포구",
+			"full_name": "대한민국 마포구",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.855912576725,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.523438844739
+						],
+						[
+							126.967013374467,
+							37.5893965817644
+						],
+						[
+							126.855912576725,
+							37.5893965817644
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "날이 좋은 추석연휴 첫날 공상온도는 무사히 오픈했습니다! ☺️\n.\n.\n#공상온도 #공상온도일정 @공상온도 https://t.co/n93mqkuyDB"
+	},
+	{
+		"created_at": "Mon Sep 20 05:58:25 +0000 2021",
+		"id": 1439817798713163800,
+		"id_str": "1439831290287738881",
+		"full_text": "AB6IXのクッキングバトルを見たら料理も学べるし、ずっと微笑まれる...☺一石二鳥できるイェッピたちの顔、見に行く人(1/190522) https://t.co/KF0yqeKJAz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1439817769566949400,
+					"id_str": "1439817769566949377",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/E_tCoghVUAEKhyd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_tCoghVUAEKhyd.jpg",
+					"url": "https://t.co/KF0yqeKJAz",
+					"display_url": "pic.twitter.com/KF0yqeKJAz",
+					"expanded_url": "https://twitter.com/KCON_official/status/1439817798713163778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439817769566949400,
+					"id_str": "1439817769566949377",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/E_tCoghVUAEKhyd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_tCoghVUAEKhyd.jpg",
+					"url": "https://t.co/KF0yqeKJAz",
+					"display_url": "pic.twitter.com/KF0yqeKJAz",
+					"expanded_url": "https://twitter.com/KCON_official/status/1439817798713163778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1439817769936035800,
+					"id_str": "1439817769936035843",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/E_tCoh5VIAMwrXl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_tCoh5VIAMwrXl.jpg",
+					"url": "https://t.co/KF0yqeKJAz",
+					"display_url": "pic.twitter.com/KF0yqeKJAz",
+					"expanded_url": "https://twitter.com/KCON_official/status/1439817798713163778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1439816983709507600,
+		"in_reply_to_status_id_str": "1439816983709507587",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 401297,
+			"friends_count": 75,
+			"listed_count": 1016,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11044,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 284,
+		"favorite_count": 479,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "AB6IXのクッキングバトルを見たら料理も学べるし、ずっと微笑まれる...☺一石二鳥できるイェッピたちの顔、見に行く人(1/190522) https://t.co/KF0yqeKJAz"
+	},
+	{
+		"created_at": "Mon Sep 20 05:58:19 +0000 2021",
+		"id": 1439816983709507600,
+		"id_str": "1439831268796080128",
+		"full_text": "AB6IX 쿠킹배틀보면 요리도 배우고 절로 미소지어지는데...☺\n일석이조할 수 있는 예삐 얼굴 보러 갈 사람 구함 (1/190522) https://t.co/Hia6gJP5i2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1439816918945316900,
+					"id_str": "1439816918945316865",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/E_tB2_tVQAEbj7-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_tB2_tVQAEbj7-.jpg",
+					"url": "https://t.co/Hia6gJP5i2",
+					"display_url": "pic.twitter.com/Hia6gJP5i2",
+					"expanded_url": "https://twitter.com/KCON_official/status/1439816983709507587/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439816918945316900,
+					"id_str": "1439816918945316865",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/E_tB2_tVQAEbj7-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_tB2_tVQAEbj7-.jpg",
+					"url": "https://t.co/Hia6gJP5i2",
+					"display_url": "pic.twitter.com/Hia6gJP5i2",
+					"expanded_url": "https://twitter.com/KCON_official/status/1439816983709507587/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1439816918941114400,
+					"id_str": "1439816918941114372",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/E_tB2_sVIAQVYZ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_tB2_sVIAQVYZ1.jpg",
+					"url": "https://t.co/Hia6gJP5i2",
+					"display_url": "pic.twitter.com/Hia6gJP5i2",
+					"expanded_url": "https://twitter.com/KCON_official/status/1439816983709507587/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1439816918945255400,
+					"id_str": "1439816918945255435",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/E_tB2_tUUAsnlBJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_tB2_tUUAsnlBJ.jpg",
+					"url": "https://t.co/Hia6gJP5i2",
+					"display_url": "pic.twitter.com/Hia6gJP5i2",
+					"expanded_url": "https://twitter.com/KCON_official/status/1439816983709507587/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1439816918945321000,
+					"id_str": "1439816918945320969",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/E_tB2_tVUAkoBxL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_tB2_tVUAkoBxL.jpg",
+					"url": "https://t.co/Hia6gJP5i2",
+					"display_url": "pic.twitter.com/Hia6gJP5i2",
+					"expanded_url": "https://twitter.com/KCON_official/status/1439816983709507587/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1439816590770401300,
+		"in_reply_to_status_id_str": "1439816590770401285",
+		"in_reply_to_user_id": 135447868,
+		"in_reply_to_user_id_str": "135447868",
+		"in_reply_to_screen_name": "KCON_official",
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 401297,
+			"friends_count": 75,
+			"listed_count": 1016,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11044,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 330,
+		"favorite_count": 619,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "AB6IX 쿠킹배틀보면 요리도 배우고 절로 미소지어지는데...☺\n일석이조할 수 있는 예삐 얼굴 보러 갈 사람 구함 (1/190522) https://t.co/Hia6gJP5i2"
+	},
+	{
+		"created_at": "Mon Sep 20 05:58:14 +0000 2021",
+		"id": 1439816590770401300,
+		"id_str": "1439831247342157828",
+		"full_text": "Anyone wants to learn how to cook? Or anyone wants to smile all day...? \nI'm looking for friends who wants to go see Yeppi's beautiful faces on AB6IX's Cooking Battle (1/190522)\n\n#KCONTACT #KCONTACTHI5 #KCONSTUDIO #AB6IX https://t.co/rh7WNcz9wQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KCONTACT",
+					"indices": [
+						179,
+						188
+					]
+				},
+				{
+					"text": "KCONTACTHI5",
+					"indices": [
+						189,
+						201
+					]
+				},
+				{
+					"text": "KCONSTUDIO",
+					"indices": [
+						202,
+						213
+					]
+				},
+				{
+					"text": "AB6IX",
+					"indices": [
+						214,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1439591015233380400,
+					"id_str": "1439591015233380354",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/E_p0ZqzUYAII7wd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_p0ZqzUYAII7wd.jpg",
+					"url": "https://t.co/rh7WNcz9wQ",
+					"display_url": "pic.twitter.com/rh7WNcz9wQ",
+					"expanded_url": "https://twitter.com/KCON_official/status/1439816590770401285/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439591015233380400,
+					"id_str": "1439591015233380354",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/E_p0ZqzUYAII7wd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_p0ZqzUYAII7wd.jpg",
+					"url": "https://t.co/rh7WNcz9wQ",
+					"display_url": "pic.twitter.com/rh7WNcz9wQ",
+					"expanded_url": "https://twitter.com/KCON_official/status/1439816590770401285/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1439591015220871200,
+					"id_str": "1439591015220871178",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/E_p0ZqwVgAocjlc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_p0ZqwVgAocjlc.jpg",
+					"url": "https://t.co/rh7WNcz9wQ",
+					"display_url": "pic.twitter.com/rh7WNcz9wQ",
+					"expanded_url": "https://twitter.com/KCON_official/status/1439816590770401285/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1439591015229190100,
+					"id_str": "1439591015229190152",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/E_p0ZqyUcAg2aIH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_p0ZqyUcAg2aIH.jpg",
+					"url": "https://t.co/rh7WNcz9wQ",
+					"display_url": "pic.twitter.com/rh7WNcz9wQ",
+					"expanded_url": "https://twitter.com/KCON_official/status/1439816590770401285/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1439591015229259800,
+					"id_str": "1439591015229259776",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/E_p0ZqyVgAAFHzL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_p0ZqyVgAAFHzL.jpg",
+					"url": "https://t.co/rh7WNcz9wQ",
+					"display_url": "pic.twitter.com/rh7WNcz9wQ",
+					"expanded_url": "https://twitter.com/KCON_official/status/1439816590770401285/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter / SEP 18-26",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 401297,
+			"friends_count": 75,
+			"listed_count": 1016,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11044,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 378,
+		"favorite_count": 753,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Anyone wants to learn how to cook? Or anyone wants to smile all day...? \nI'm looking for friends who wants to go see Yeppi's beautiful faces on AB6IX's Cooking Battle (1/190522)\n\n#KCONTACT #KCONTACTHI5 #KCONSTUDIO #AB6IX https://t.co/rh7WNcz9wQ"
+	},
+	{
+		"created_at": "Mon Sep 20 05:29:33 +0000 2021",
+		"id": 1439816590409678800,
+		"id_str": "1439824026369773569",
+		"full_text": "https://t.co/o7osNwg86w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438108719217201200,
+					"id_str": "1438108719217201153",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E_UwQr1VUAE50r0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_UwQr1VUAE50r0.jpg",
+					"url": "https://t.co/o7osNwg86w",
+					"display_url": "pic.twitter.com/o7osNwg86w",
+					"expanded_url": "https://twitter.com/RCultureone/status/1439816590409678850/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438108719217201200,
+					"id_str": "1438108719217201153",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E_UwQr1VUAE50r0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_UwQr1VUAE50r0.jpg",
+					"url": "https://t.co/o7osNwg86w",
+					"display_url": "pic.twitter.com/o7osNwg86w",
+					"expanded_url": "https://twitter.com/RCultureone/status/1439816590409678850/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1232510182682267600,
+			"id_str": "1232510182682267653",
+			"name": "ROLLING CULTUREONE (롤링컬쳐원)",
+			"screen_name": "RCultureone",
+			"location": "",
+			"description": "ROLLING CULTUREONE (롤링컬쳐원) Official Twitter\n\n- 조문근밴드(THE MOON)\n- D.COY(디코이)\n- 프루던스(Prudence)\n- 락킷걸(Rockitgirl)\n- 피콕(Peacock)",
+			"url": "https://t.co/e3JqDNKrBf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e3JqDNKrBf",
+							"expanded_url": "http://therolling.co.kr",
+							"display_url": "therolling.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 113,
+			"friends_count": 28,
+			"listed_count": 2,
+			"created_at": "Wed Feb 26 03:38:36 +0000 2020",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422434195805073414/WGRYivIA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422434195805073414/WGRYivIA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1232510182682267653/1627969715",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/o7osNwg86w"
+	},
+	{
 		"created_at": "Mon Sep 20 03:58:45 +0000 2021",
 		"id": 1439787901206896600,
 		"id_str": "1439801176262856704",
