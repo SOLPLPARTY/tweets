@@ -1,6 +1,726 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 01 13:15:41 +0000 2021",
+		"id": 1443927601534447600,
+		"id_str": "1443927601534447618",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n에드 시런 (Ed Sheeran) – Shivers [Official Acoustic Video] 가사번역 by 영화번역가 황석희\nhttps://t.co/McBAOf4L74",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/McBAOf4L74",
+					"expanded_url": "https://youtu.be/vbyfY1tdC34",
+					"display_url": "youtu.be/vbyfY1tdC34",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74089,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n에드 시런 (Ed Sheeran) – Shivers [Official Acoustic Video] 가사번역 by 영화번역가 황석희\nhttps://t.co/McBAOf4L74"
+	},
+	{
+		"created_at": "Fri Oct 01 12:58:41 +0000 2021",
+		"id": 1443911676412063700,
+		"id_str": "1443923321037414401",
+		"full_text": "#부산국제록페스티벌 #부산록페 #부산락페 #부락 #록페스티벌 #페스티벌 #부산축제 #BusanRockFestival #BusanRock #BuRock #Festival #Busan #2030엑스포 #부산엑스포",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "부산국제록페스티벌",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "부산록페",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "부산락페",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "부락",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "록페스티벌",
+					"indices": [
+						27,
+						33
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "부산축제",
+					"indices": [
+						40,
+						45
+					]
+				},
+				{
+					"text": "BusanRockFestival",
+					"indices": [
+						46,
+						64
+					]
+				},
+				{
+					"text": "BusanRock",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"text": "BuRock",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"text": "Festival",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"text": "Busan",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "2030엑스포",
+					"indices": [
+						101,
+						109
+					]
+				},
+				{
+					"text": "부산엑스포",
+					"indices": [
+						110,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1443911674453364700,
+		"in_reply_to_status_id_str": "1443911674453364737",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/eAlfyJep2j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eAlfyJep2j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1126,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1624518084",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#부산국제록페스티벌 #부산록페 #부산락페 #부락 #록페스티벌 #페스티벌 #부산축제 #BusanRockFestival #BusanRock #BuRock #Festival #Busan #2030엑스포 #부산엑스포"
+	},
+	{
+		"created_at": "Fri Oct 01 12:58:36 +0000 2021",
+		"id": 1443911674453364700,
+		"id_str": "1443923299533266973",
+		"full_text": "where the future of the country and Busan depends. I believe that citizens will be with us until the end on this great journey of being the owner of the \"great change of the world, sailing toward a better future.\" Thank you for your support and active participation.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1443911672708546600,
+		"in_reply_to_status_id_str": "1443911672708546564",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/eAlfyJep2j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eAlfyJep2j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1126,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1624518084",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "where the future of the country and Busan depends. I believe that citizens will be with us until the end on this great journey of being the owner of the \"great change of the world, sailing toward a better future.\" Thank you for your support and active participation."
+	},
+	{
+		"created_at": "Fri Oct 01 12:58:30 +0000 2021",
+		"id": 1443911672708546600,
+		"id_str": "1443923278041653263",
+		"full_text": "The World Expo is the world's largest international event with people from all over the world along with the Olympics and the World Cup.\nWe will do our best to become one with the government and Busan Metropolitan City so that we can host the 2030 World Expo in Busan,",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1443911670921785300,
+		"in_reply_to_status_id_str": "1443911670921785359",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/eAlfyJep2j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eAlfyJep2j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1126,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1624518084",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The World Expo is the world's largest international event with people from all over the world along with the Olympics and the World Cup.\nWe will do our best to become one with the government and Busan Metropolitan City so that we can host the 2030 World Expo in Busan,"
+	},
+	{
+		"created_at": "Fri Oct 01 12:58:28 +0000 2021",
+		"id": 1443911670921785300,
+		"id_str": "1443923269091004418",
+		"full_text": "많은 성원과 적극적인 참여에 감사드립니다. \n.\n.\n.\n[The world's largest historical expo, 2030 in Busan!]\n\nThe Busan International Rock Festival supports the hosting of the 2030 Busan World Expo!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1443911668971364400,
+		"in_reply_to_status_id_str": "1443911668971364358",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/eAlfyJep2j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eAlfyJep2j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1126,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1624518084",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "많은 성원과 적극적인 참여에 감사드립니다. \n.\n.\n.\n[The world's largest historical expo, 2030 in Busan!]\n\nThe Busan International Rock Festival supports the hosting of the 2030 Busan World Expo!"
+	},
+	{
+		"created_at": "Fri Oct 01 12:58:23 +0000 2021",
+		"id": 1443911668971364400,
+		"id_str": "1443923247658115072",
+		"full_text": "국가와 부산의 미래가 달린 2030년 세계박람회를 반드시 부산에 유치할 수 있도록 정부, 부산광역시와 하나가 되어 최선을 다하겠습니다. 시민 여러분께서도 ‘세계의 대전환, 더 나은 미래를 향한 항해’의 주인이 되는 이 위대한 여정에 끝까지 함께 하여 주실 걸로 믿습니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1443911665922150400,
+		"in_reply_to_status_id_str": "1443911665922150401",
+		"in_reply_to_user_id": 3116631529,
+		"in_reply_to_user_id_str": "3116631529",
+		"in_reply_to_screen_name": "busan_rock",
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/eAlfyJep2j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eAlfyJep2j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1126,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1624518084",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "국가와 부산의 미래가 달린 2030년 세계박람회를 반드시 부산에 유치할 수 있도록 정부, 부산광역시와 하나가 되어 최선을 다하겠습니다. 시민 여러분께서도 ‘세계의 대전환, 더 나은 미래를 향한 항해’의 주인이 되는 이 위대한 여정에 끝까지 함께 하여 주실 걸로 믿습니다."
+	},
+	{
 		"created_at": "Fri Oct 01 12:11:17 +0000 2021",
 		"id": 1443907985814659000,
 		"id_str": "1443911392453664774",
