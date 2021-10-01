@@ -1,6 +1,1079 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 01 09:41:28 +0000 2021",
+		"id": 1443873692640071700,
+		"id_str": "1443873692640071700",
+		"full_text": "#해피로봇레코드 #Happy_Robot_Records\n손글씨 배경화면 시즌3 #2, 장희원_사랑하지 않았을 거야\nhttps://t.co/8h4qbTUGX1\n#블로그 #레이블 #기획사 #인디 #인디음악",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "해피로봇레코드",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Happy_Robot_Records",
+					"indices": [
+						9,
+						29
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "레이블",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "기획사",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						106,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8h4qbTUGX1",
+					"expanded_url": "https://bit.ly/3D4goq2",
+					"display_url": "bit.ly/3D4goq2",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#해피로봇레코드 #Happy_Robot_Records\n손글씨 배경화면 시즌3 #2, 장희원_사랑하지 않았을 거야\nhttps://t.co/8h4qbTUGX1\n#블로그 #레이블 #기획사 #인디 #인디음악"
+	},
+	{
+		"created_at": "Fri Oct 01 09:29:52 +0000 2021",
+		"id": 1443864150241734700,
+		"id_str": "1443870771986812939",
+		"full_text": "#OuiOui\n\n߮߰💛߮߬ ⃕\nOuiOui \"Same or Different\"\n2021.10.05.6PM(KST)\n\n#위위 #SameorDifferent #SoD https://t.co/aOTy8D5BF6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OuiOui",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "위위",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "SameorDifferent",
+					"indices": [
+						69,
+						85
+					]
+				},
+				{
+					"text": "SoD",
+					"indices": [
+						86,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1443864142994047000,
+					"id_str": "1443864142994046982",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FAmiycMVgAYMkIb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAmiycMVgAYMkIb.jpg",
+					"url": "https://t.co/aOTy8D5BF6",
+					"display_url": "pic.twitter.com/aOTy8D5BF6",
+					"expanded_url": "https://twitter.com/inplanet/status/1443864150241734659/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1443864142994047000,
+					"id_str": "1443864142994046982",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FAmiycMVgAYMkIb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAmiycMVgAYMkIb.jpg",
+					"url": "https://t.co/aOTy8D5BF6",
+					"display_url": "pic.twitter.com/aOTy8D5BF6",
+					"expanded_url": "https://twitter.com/inplanet/status/1443864150241734659/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1448,
+			"friends_count": 776,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5403,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#OuiOui\n\n߮߰💛߮߬ ⃕\nOuiOui \"Same or Different\"\n2021.10.05.6PM(KST)\n\n#위위 #SameorDifferent #SoD https://t.co/aOTy8D5BF6"
+	},
+	{
+		"created_at": "Fri Oct 01 09:29:47 +0000 2021",
+		"id": 1443863852710391800,
+		"id_str": "1443870750377758726",
+		"full_text": "AB6IX 'MO'COMPLETE' 필터사용 이벤트🍒\n자세한 사항은 워너뮤직 케이팝 IG 게시글을 확인해주세요! \n\n🍒https://t.co/3PsSrlh6WE\n\n#warnerkpop #warnermusic #AB6IX #에이비식스 #전웅 #김동현 #박우진 #이대휘 #MO_COMPLETE #CHERRY #브랜뉴뮤직 #BRANDNEWMUSIC https://t.co/4mmQgnlHlT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						91,
+						102
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						103,
+						115
+					]
+				},
+				{
+					"text": "AB6IX",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "에이비식스",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "전웅",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "김동현",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "박우진",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "이대휘",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "MO_COMPLETE",
+					"indices": [
+						149,
+						161
+					]
+				},
+				{
+					"text": "CHERRY",
+					"indices": [
+						162,
+						169
+					]
+				},
+				{
+					"text": "브랜뉴뮤직",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "BRANDNEWMUSIC",
+					"indices": [
+						177,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3PsSrlh6WE",
+					"expanded_url": "https://www.instagram.com/p/CUeu7yzpxlA/?utm_source=ig_web_copy_link",
+					"display_url": "instagram.com/p/CUeu7yzpxlA/…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1443863644895252500,
+					"id_str": "1443863644895252484",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FAmiVcoVEAQ3Xeq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAmiVcoVEAQ3Xeq.jpg",
+					"url": "https://t.co/4mmQgnlHlT",
+					"display_url": "pic.twitter.com/4mmQgnlHlT",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1443863852710391808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1443863644895252500,
+					"id_str": "1443863644895252484",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FAmiVcoVEAQ3Xeq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAmiVcoVEAQ3Xeq.jpg",
+					"url": "https://t.co/4mmQgnlHlT",
+					"display_url": "pic.twitter.com/4mmQgnlHlT",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1443863852710391808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52052,
+			"friends_count": 496,
+			"listed_count": 194,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1625,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11285,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129,
+		"favorite_count": 174,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "AB6IX 'MO'COMPLETE' 필터사용 이벤트🍒\n자세한 사항은 워너뮤직 케이팝 IG 게시글을 확인해주세요! \n\n🍒https://t.co/3PsSrlh6WE\n\n#warnerkpop #warnermusic #AB6IX #에이비식스 #전웅 #김동현 #박우진 #이대휘 #MO_COMPLETE #CHERRY #브랜뉴뮤직 #BRANDNEWMUSIC https://t.co/4mmQgnlHlT"
+	},
+	{
+		"created_at": "Fri Oct 01 09:29:39 +0000 2021",
+		"id": 1443863264635637800,
+		"id_str": "1443870716269678617",
+		"full_text": "[Teaser]\n⠀\n최유리 - '살아간다'\n▷https://t.co/rf6SF9fyA4\n⠀\n/\n최유리 EP &lt;여정&gt;\n2021.10.05. 6PM Release\n\n#최유리 #살아간다 #Teaser\n#ChoiYuRee #여정 https://t.co/b1pIlOY3IG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최유리",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "살아간다",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "Teaser",
+					"indices": [
+						107,
+						114
+					]
+				},
+				{
+					"text": "ChoiYuRee",
+					"indices": [
+						115,
+						125
+					]
+				},
+				{
+					"text": "여정",
+					"indices": [
+						126,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rf6SF9fyA4",
+					"expanded_url": "https://youtu.be/9vwvzh53GPI",
+					"display_url": "youtu.be/9vwvzh53GPI",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1443846910188535800,
+					"id_str": "1443846910188535817",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FAmTHW_VQAkKmnU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAmTHW_VQAkKmnU.jpg",
+					"url": "https://t.co/b1pIlOY3IG",
+					"display_url": "pic.twitter.com/b1pIlOY3IG",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1443863264635637784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1443846910188535800,
+					"id_str": "1443846910188535817",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FAmTHW_VQAkKmnU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAmTHW_VQAkKmnU.jpg",
+					"url": "https://t.co/b1pIlOY3IG",
+					"display_url": "pic.twitter.com/b1pIlOY3IG",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1443863264635637784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/VtrzF3mRza",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VtrzF3mRza",
+							"expanded_url": "http://shofar-ent.com",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7733,
+			"friends_count": 4,
+			"listed_count": 0,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1631001017",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Teaser]\n⠀\n최유리 - '살아간다'\n▷https://t.co/rf6SF9fyA4\n⠀\n/\n최유리 EP &lt;여정&gt;\n2021.10.05. 6PM Release\n\n#최유리 #살아간다 #Teaser\n#ChoiYuRee #여정 https://t.co/b1pIlOY3IG"
+	},
+	{
+		"created_at": "Fri Oct 01 09:29:32 +0000 2021",
+		"id": 1443863263213674500,
+		"id_str": "1443870686402039820",
+		"full_text": "골든차일드(Golden Child)\n2nd Album Repackage [DDARA] | Special track video\n\n2021.10.05 6PM RELEASE\n\nhttps://t.co/kjdHGF2lYj\nhttps://t.co/qU28DwCvm6\n\n#GoldenChild #골든차일드 #DDARA https://t.co/8yikAkkQbX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoldenChild",
+					"indices": [
+						144,
+						156
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "DDARA",
+					"indices": [
+						164,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kjdHGF2lYj",
+					"expanded_url": "https://youtu.be/1pWLVQoai_g",
+					"display_url": "youtu.be/1pWLVQoai_g",
+					"indices": [
+						95,
+						118
+					]
+				},
+				{
+					"url": "https://t.co/qU28DwCvm6",
+					"expanded_url": "https://www.vlive.tv/post/1-25723209",
+					"display_url": "vlive.tv/post/1-25723209",
+					"indices": [
+						119,
+						142
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1443811884939890700,
+					"id_str": "1443811884939890690",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FAlzQnxUUAIHGMz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAlzQnxUUAIHGMz.jpg",
+					"url": "https://t.co/8yikAkkQbX",
+					"display_url": "pic.twitter.com/8yikAkkQbX",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1443863263213674496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1443811884939890700,
+					"id_str": "1443811884939890690",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FAlzQnxUUAIHGMz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAlzQnxUUAIHGMz.jpg",
+					"url": "https://t.co/8yikAkkQbX",
+					"display_url": "pic.twitter.com/8yikAkkQbX",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1443863263213674496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTuZ29E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTuZ29E",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 430686,
+			"friends_count": 11,
+			"listed_count": 1920,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1632474486",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 289,
+		"favorite_count": 621,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "골든차일드(Golden Child)\n2nd Album Repackage [DDARA] | Special track video\n\n2021.10.05 6PM RELEASE\n\nhttps://t.co/kjdHGF2lYj\nhttps://t.co/qU28DwCvm6\n\n#GoldenChild #골든차일드 #DDARA https://t.co/8yikAkkQbX"
+	},
+	{
 		"created_at": "Fri Oct 01 09:10:37 +0000 2021",
 		"id": 1443865927691522000,
 		"id_str": "1443865927691522087",
