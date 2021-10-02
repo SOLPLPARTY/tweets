@@ -1,6 +1,918 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 02 04:11:16 +0000 2021",
+		"id": 1444144107023069200,
+		"id_str": "1444152982749257729",
+		"full_text": "흐름 流 flow : 가을\n2021.10.29.FRI 19:30\nhttps://t.co/amIXKylSwo\n\n#프리즘홀 #prismhall #공중그늘 #까데호 #양반들 #홍대공연 #공연추천 https://t.co/kfaLqzfZcn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "프리즘홀",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "prismhall",
+					"indices": [
+						67,
+						77
+					]
+				},
+				{
+					"text": "공중그늘",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "까데호",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "양반들",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "홍대공연",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "공연추천",
+					"indices": [
+						100,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/amIXKylSwo",
+					"expanded_url": "https://ticket.melon.com/performance/index.htm?prodId=206230",
+					"display_url": "ticket.melon.com/performance/in…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1444144102174453800,
+					"id_str": "1444144102174453766",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FAqhaNaVcAYeII0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAqhaNaVcAYeII0.jpg",
+					"url": "https://t.co/kfaLqzfZcn",
+					"display_url": "pic.twitter.com/kfaLqzfZcn",
+					"expanded_url": "https://twitter.com/prismhall/status/1444144107023069187/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1444144102174453800,
+					"id_str": "1444144102174453766",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FAqhaNaVcAYeII0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAqhaNaVcAYeII0.jpg",
+					"url": "https://t.co/kfaLqzfZcn",
+					"display_url": "pic.twitter.com/kfaLqzfZcn",
+					"expanded_url": "https://twitter.com/prismhall/status/1444144107023069187/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 491231175,
+			"id_str": "491231175",
+			"name": "PrismHall",
+			"screen_name": "prismhall",
+			"location": "Mapo Seokyo-Dong",
+			"description": "최상급 무대장비와 시설. 엄청난 높이의 천고와 광활한 객석. 각종 파티,힙합,댄스,밴드 등 all_round concert, 실내페스티벌 등 모든 게 가능한 공연장입니다!",
+			"url": "https://t.co/VTKFWeLxvh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VTKFWeLxvh",
+							"expanded_url": "http://www.prismhall.com",
+							"display_url": "prismhall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2047,
+			"friends_count": 1126,
+			"listed_count": 28,
+			"created_at": "Mon Feb 13 12:03:08 +0000 2012",
+			"favourites_count": 71,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942698829089869824/bkVw2sYC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/491231175/1513591891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1104338421d4e001",
+			"url": "https://api.twitter.com/1.1/geo/id/1104338421d4e001.json",
+			"place_type": "poi",
+			"name": "프리즘홀",
+			"full_name": "프리즘홀",
+			"country_code": "KR",
+			"country": "대한민국",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						],
+						[
+							126.917463,
+							37.551686
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "흐름 流 flow : 가을\n2021.10.29.FRI 19:30\nhttps://t.co/amIXKylSwo\n\n#프리즘홀 #prismhall #공중그늘 #까데호 #양반들 #홍대공연 #공연추천 https://t.co/kfaLqzfZcn"
+	},
+	{
+		"created_at": "Sat Oct 02 03:29:44 +0000 2021",
+		"id": 1444135419730292700,
+		"id_str": "1444142529323184129",
+		"full_text": "[#Video] #샘김\n\n유튜브 ‘ReacttotheK’ 채널에 샘김 ‘The Juice’가 소개되었습니다🧃✨\n\n🔗 https://t.co/kTfW57mcN9\n\n@LeegitItsSam @reacttothek \n#SamKim #The_Juice\n#ReacttotheK #reactionvideo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "샘김",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "SamKim",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "The_Juice",
+					"indices": [
+						126,
+						136
+					]
+				},
+				{
+					"text": "ReacttotheK",
+					"indices": [
+						137,
+						149
+					]
+				},
+				{
+					"text": "reactionvideo",
+					"indices": [
+						150,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeegitItsSam",
+					"name": "Sam Kim 샘김",
+					"id": 1202716135,
+					"id_str": "1202716135",
+					"indices": [
+						90,
+						103
+					]
+				},
+				{
+					"screen_name": "reacttothek",
+					"name": "ReacttotheK",
+					"id": 772801511818666000,
+					"id_str": "772801511818665985",
+					"indices": [
+						104,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kTfW57mcN9",
+					"expanded_url": "https://youtu.be/ZR8EZv4Qy7E",
+					"display_url": "youtu.be/ZR8EZv4Qy7E",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 2021 권진아 단독 공연 '우리의 방식' 2021. 10. 01. 8PM Ticket Open!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37139,
+			"friends_count": 10,
+			"listed_count": 376,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3994,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #샘김\n\n유튜브 ‘ReacttotheK’ 채널에 샘김 ‘The Juice’가 소개되었습니다🧃✨\n\n🔗 https://t.co/kTfW57mcN9\n\n@LeegitItsSam @reacttothek \n#SamKim #The_Juice\n#ReacttotheK #reactionvideo"
+	},
+	{
+		"created_at": "Sat Oct 02 03:29:36 +0000 2021",
+		"id": 1444135053601116200,
+		"id_str": "1444142494707601412",
+		"full_text": "💌 ғʀᴏᴍ ✨#마할리아✨\n신곡 💫𝑹𝒐𝒂𝒅𝒔𝒊𝒅𝒆 (𝑭𝒆𝒂𝒕. 𝑨𝑱 𝑻𝒓𝒂𝒄𝒆𝒚)💫 공개!\n🎧 https://t.co/FdGW7kIjyx https://t.co/xdzSdFBPg1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "마할리아",
+					"indices": [
+						8,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FdGW7kIjyx",
+					"expanded_url": "https://WMK.lnk.to/3Um0Safe",
+					"display_url": "WMK.lnk.to/3Um0Safe",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1443858702864244700,
+					"id_str": "1443858702864244737",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1443858702864244737/pu/img/7HChIAAmLDshIIbr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1443858702864244737/pu/img/7HChIAAmLDshIIbr.jpg",
+					"url": "https://t.co/xdzSdFBPg1",
+					"display_url": "pic.twitter.com/xdzSdFBPg1",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1444135053601116163/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1443858702864244700,
+					"id_str": "1443858702864244737",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1443858702864244737/pu/img/7HChIAAmLDshIIbr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1443858702864244737/pu/img/7HChIAAmLDshIIbr.jpg",
+					"url": "https://t.co/xdzSdFBPg1",
+					"display_url": "pic.twitter.com/xdzSdFBPg1",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1444135053601116163/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 27527,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1443858702864244737/pu/pl/EygxP0outDLbikOo.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1443858702864244737/pu/vid/320x320/zuXH05jsI9U84EUy.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1443858702864244737/pu/vid/720x720/YbgNLKZNPACH39t0.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1443858702864244737/pu/vid/540x540/R30CMZ6UHT5jLD7r.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52063,
+			"friends_count": 496,
+			"listed_count": 194,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1625,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11286,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💌 ғʀᴏᴍ ✨#마할리아✨\n신곡 💫𝑹𝒐𝒂𝒅𝒔𝒊𝒅𝒆 (𝑭𝒆𝒂𝒕. 𝑨𝑱 𝑻𝒓𝒂𝒄𝒆𝒚)💫 공개!\n🎧 https://t.co/FdGW7kIjyx https://t.co/xdzSdFBPg1"
+	},
+	{
+		"created_at": "Sat Oct 02 03:29:32 +0000 2021",
+		"id": 1444135050304376800,
+		"id_str": "1444142477422772224",
+		"full_text": "[구만 | 딩구 킬링보이스]\n구만 명곡 이어듣기 ❣\n딩구뮤직의 구만 킬링보이스 감상하시면서,\n구만의 새 싱글 [나 혼자 남은 지구] 발매 많이 기대해주세요 🌏\n▶https://t.co/mascdzJ1uB\n\n21.10.03 12PM Release\n\n#레트로포크싱어송라이터 #구만 #나혼자남은지구 #이불에감춘모습 #딩구 #킬링보이스 https://t.co/RaU2DhBscF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레트로포크싱어송라이터",
+					"indices": [
+						138,
+						150
+					]
+				},
+				{
+					"text": "구만",
+					"indices": [
+						151,
+						154
+					]
+				},
+				{
+					"text": "나혼자남은지구",
+					"indices": [
+						155,
+						163
+					]
+				},
+				{
+					"text": "이불에감춘모습",
+					"indices": [
+						164,
+						172
+					]
+				},
+				{
+					"text": "딩구",
+					"indices": [
+						173,
+						176
+					]
+				},
+				{
+					"text": "킬링보이스",
+					"indices": [
+						177,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mascdzJ1uB",
+					"expanded_url": "https://bit.ly/3BfBdyB",
+					"display_url": "bit.ly/3BfBdyB",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1443964266734764000,
+					"id_str": "1443964266734764036",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FAn-EUqVIAMkMBs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAn-EUqVIAMkMBs.jpg",
+					"url": "https://t.co/RaU2DhBscF",
+					"display_url": "pic.twitter.com/RaU2DhBscF",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1444135050304376833/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1443964266734764000,
+					"id_str": "1443964266734764036",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FAn-EUqVIAMkMBs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAn-EUqVIAMkMBs.jpg",
+					"url": "https://t.co/RaU2DhBscF",
+					"display_url": "pic.twitter.com/RaU2DhBscF",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1444135050304376833/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 22957,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1443964266734764036/pl/ZSbJGi7ETYVInQLk.m3u8?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1443964266734764036/vid/480x270/gvnFWE9snNhhh6Lt.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1443964266734764036/vid/640x360/5RCYi-Fe_IJqn8ju.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1443964266734764036/vid/1280x720/g9GuA4bChKvLGmh6.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), LambC(램씨), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbKMln",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbKMln",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13008,
+			"friends_count": 1937,
+			"listed_count": 254,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[구만 | 딩구 킬링보이스]\n구만 명곡 이어듣기 ❣\n딩구뮤직의 구만 킬링보이스 감상하시면서,\n구만의 새 싱글 [나 혼자 남은 지구] 발매 많이 기대해주세요 🌏\n▶https://t.co/mascdzJ1uB\n\n21.10.03 12PM Release\n\n#레트로포크싱어송라이터 #구만 #나혼자남은지구 #이불에감춘모습 #딩구 #킬링보이스 https://t.co/RaU2DhBscF"
+	},
+	{
 		"created_at": "Sat Oct 02 03:11:16 +0000 2021",
 		"id": 1444135056373698600,
 		"id_str": "1444137883426766849",
