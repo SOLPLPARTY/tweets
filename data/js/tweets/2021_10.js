@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 02 01:29:25 +0000 2021",
+		"id": 1444097218802188300,
+		"id_str": "1444112248692162561",
+		"full_text": "[ #Roundabout ] 레전드와 신예가 만나는 음악 교차로, 온라인 음악 공연 ‘2021 Roundabout’ 2회차 예매 공지🧡\n\n📍공연일시 - 2021년 10월 23일 오후 5시 at 라이브앳(https://t.co/yQnKLuGlyP)\n📍사랑과 평화, 임병수, 모트, 레인보우 노트\n📍MC 모트, 슬희(레인보우 노트), 우예린 https://t.co/TioFov2D18",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Roundabout",
+					"indices": [
+						2,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yQnKLuGlyP",
+					"expanded_url": "http://live-at.kr",
+					"display_url": "live-at.kr",
+					"indices": [
+						113,
+						136
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1444097215656464400,
+					"id_str": "1444097215656464385",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FAp2xDhVkAEWhyA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAp2xDhVkAEWhyA.jpg",
+					"url": "https://t.co/TioFov2D18",
+					"display_url": "pic.twitter.com/TioFov2D18",
+					"expanded_url": "https://twitter.com/ruby_records/status/1444097218802188292/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1444097215656464400,
+					"id_str": "1444097215656464385",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FAp2xDhVkAEWhyA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAp2xDhVkAEWhyA.jpg",
+					"url": "https://t.co/TioFov2D18",
+					"display_url": "pic.twitter.com/TioFov2D18",
+					"expanded_url": "https://twitter.com/ruby_records/status/1444097218802188292/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7677,
+			"friends_count": 8355,
+			"listed_count": 198,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[ #Roundabout ] 레전드와 신예가 만나는 음악 교차로, 온라인 음악 공연 ‘2021 Roundabout’ 2회차 예매 공지🧡\n\n📍공연일시 - 2021년 10월 23일 오후 5시 at 라이브앳(https://t.co/yQnKLuGlyP)\n📍사랑과 평화, 임병수, 모트, 레인보우 노트\n📍MC 모트, 슬희(레인보우 노트), 우예린 https://t.co/TioFov2D18"
+	},
+	{
 		"created_at": "Sat Oct 02 00:58:24 +0000 2021",
 		"id": 1444102629605314600,
 		"id_str": "1444104443981713416",
