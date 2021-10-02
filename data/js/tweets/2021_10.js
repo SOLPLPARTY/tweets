@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 02 07:58:14 +0000 2021",
+		"id": 1444206799901446100,
+		"id_str": "1444210100965711872",
+		"full_text": "유튜브 송출 오류로 인해 스트리밍 채널이\r변경되었습니다.\r\rhttps://t.co/X89rOVZGSw\r\r위 링크로 재접속 부탁드립니다.\n\n#부산국제록페스티벌 #부산록페 #부산락페 #부락 #록페스티벌 #페스티벌 #부산축제 #BusanRockFestival #BusanRock #BuRock #Festival #Busan https://t.co/5k4iwC7hEu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "부산국제록페스티벌",
+					"indices": [
+						77,
+						87
+					]
+				},
+				{
+					"text": "부산록페",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "부산락페",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "부락",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "록페스티벌",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "부산축제",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "BusanRockFestival",
+					"indices": [
+						123,
+						141
+					]
+				},
+				{
+					"text": "BusanRock",
+					"indices": [
+						142,
+						152
+					]
+				},
+				{
+					"text": "BuRock",
+					"indices": [
+						153,
+						160
+					]
+				},
+				{
+					"text": "Festival",
+					"indices": [
+						161,
+						170
+					]
+				},
+				{
+					"text": "Busan",
+					"indices": [
+						171,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X89rOVZGSw",
+					"expanded_url": "https://youtu.be/Jg84yZGeBhE",
+					"display_url": "youtu.be/Jg84yZGeBhE",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1444206784785178600,
+					"id_str": "1444206784785178630",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FAraa0VUYAYZ617.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAraa0VUYAYZ617.jpg",
+					"url": "https://t.co/5k4iwC7hEu",
+					"display_url": "pic.twitter.com/5k4iwC7hEu",
+					"expanded_url": "https://twitter.com/busan_rock/status/1444206799901446144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1444206784785178600,
+					"id_str": "1444206784785178630",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FAraa0VUYAYZ617.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAraa0VUYAYZ617.jpg",
+					"url": "https://t.co/5k4iwC7hEu",
+					"display_url": "pic.twitter.com/5k4iwC7hEu",
+					"expanded_url": "https://twitter.com/busan_rock/status/1444206799901446144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3116631529,
+			"id_str": "3116631529",
+			"name": "BusanRockFest Official",
+			"screen_name": "busan_rock",
+			"location": "",
+			"description": "라인업 관련 글은 따로 답글을 드리지 않습니다. 양해 부탁드립니다.",
+			"url": "https://t.co/eAlfyJep2j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eAlfyJep2j",
+							"expanded_url": "https://busanrockfestival.com/",
+							"display_url": "busanrockfestival.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1124,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Mon Mar 30 07:04:06 +0000 2015",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227400250001780736/hUySDDes_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3116631529/1624518084",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유튜브 송출 오류로 인해 스트리밍 채널이\r변경되었습니다.\r\rhttps://t.co/X89rOVZGSw\r\r위 링크로 재접속 부탁드립니다.\n\n#부산국제록페스티벌 #부산록페 #부산락페 #부락 #록페스티벌 #페스티벌 #부산축제 #BusanRockFestival #BusanRock #BuRock #Festival #Busan https://t.co/5k4iwC7hEu"
+	},
+	{
 		"created_at": "Sat Oct 02 06:29:25 +0000 2021",
 		"id": 1444180872991674400,
 		"id_str": "1444187746394951680",
