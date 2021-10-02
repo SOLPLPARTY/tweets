@@ -1,6 +1,429 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 02 03:11:16 +0000 2021",
+		"id": 1444135056373698600,
+		"id_str": "1444137883426766849",
+		"full_text": "기프트 단독 콘서트 &lt;Halloween GIFT&gt;\n\n· 일시 : 2021년 10월 30일 (토) 오후 5시, 10월 31일 (일) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : 기프트\n· 예매 : 멜론티켓 2021년 10월 07일 (목) 오후 8시 예매오픈\n\n#기프트 #GIFT \n#Halloween #Halloween_GIFT\n#롤링홀 #ROLLINGHALL\n#홍대 #공연 #멜론티켓 https://t.co/YlTHeOuvPg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "기프트",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "GIFT",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "Halloween",
+					"indices": [
+						162,
+						172
+					]
+				},
+				{
+					"text": "Halloween_GIFT",
+					"indices": [
+						173,
+						188
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						189,
+						193
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						194,
+						206
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						207,
+						210
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						211,
+						214
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						215,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1443485290165723100,
+					"id_str": "1443485290165723136",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1443485290165723136/pu/img/Pm2zfJRid3LWiJM6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1443485290165723136/pu/img/Pm2zfJRid3LWiJM6.jpg",
+					"url": "https://t.co/YlTHeOuvPg",
+					"display_url": "pic.twitter.com/YlTHeOuvPg",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1444135056373698560/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1443485290165723100,
+					"id_str": "1443485290165723136",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1443485290165723136/pu/img/Pm2zfJRid3LWiJM6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1443485290165723136/pu/img/Pm2zfJRid3LWiJM6.jpg",
+					"url": "https://t.co/YlTHeOuvPg",
+					"display_url": "pic.twitter.com/YlTHeOuvPg",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1444135056373698560/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 46112,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1443485290165723136/pu/pl/GoH7iS1iqYWYe2Em.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1443485290165723136/pu/vid/320x320/057zK6oy6Tsh27xs.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1443485290165723136/pu/vid/720x720/TZVdwjRQ6oY6lVvg.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1443485290165723136/pu/vid/540x540/Pp9SnqYpk2HypTdW.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 203,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 273,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "기프트 단독 콘서트 &lt;Halloween GIFT&gt;\n\n· 일시 : 2021년 10월 30일 (토) 오후 5시, 10월 31일 (일) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : 기프트\n· 예매 : 멜론티켓 2021년 10월 07일 (목) 오후 8시 예매오픈\n\n#기프트 #GIFT \n#Halloween #Halloween_GIFT\n#롤링홀 #ROLLINGHALL\n#홍대 #공연 #멜론티켓 https://t.co/YlTHeOuvPg"
+	},
+	{
+		"created_at": "Sat Oct 02 02:29:31 +0000 2021",
+		"id": 1444124434554441700,
+		"id_str": "1444127373998411777",
+		"full_text": "[#NEWS] '미스틱 첫 걸그룹' 문수아·츠키·시윤, 3人 퍼포먼스 직캠 공개\n\n▶https://t.co/QHUm36EcpZ\n\n#미스틱루키즈 #문수아 #츠키 #시윤",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "미스틱루키즈",
+					"indices": [
+						72,
+						79
+					]
+				},
+				{
+					"text": "문수아",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "츠키",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "시윤",
+					"indices": [
+						89,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QHUm36EcpZ",
+					"expanded_url": "http://bit.ly/3D5Fchv",
+					"display_url": "bit.ly/3D5Fchv",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22954,
+			"friends_count": 14,
+			"listed_count": 238,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6262,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] '미스틱 첫 걸그룹' 문수아·츠키·시윤, 3人 퍼포먼스 직캠 공개\n\n▶https://t.co/QHUm36EcpZ\n\n#미스틱루키즈 #문수아 #츠키 #시윤"
+	},
+	{
 		"created_at": "Sat Oct 02 01:29:25 +0000 2021",
 		"id": 1444097218802188300,
 		"id_str": "1444112248692162561",
