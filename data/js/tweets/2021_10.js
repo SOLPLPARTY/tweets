@@ -1,6 +1,447 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 02 11:11:17 +0000 2021",
+		"id": 1444250253306183700,
+		"id_str": "1444258680959029251",
+		"full_text": "[시공간집 4] D-4 https://t.co/Q4SC2OE5Qd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1444250201514934300,
+					"id_str": "1444250201514934276",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/FAsB6AQVgAQCbha.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAsB6AQVgAQCbha.jpg",
+					"url": "https://t.co/Q4SC2OE5Qd",
+					"display_url": "pic.twitter.com/Q4SC2OE5Qd",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1444250253306183684/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1444250201514934300,
+					"id_str": "1444250201514934276",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/FAsB6AQVgAQCbha.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAsB6AQVgAQCbha.jpg",
+					"url": "https://t.co/Q4SC2OE5Qd",
+					"display_url": "pic.twitter.com/Q4SC2OE5Qd",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1444250253306183684/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1443907985814659000,
+		"in_reply_to_status_id_str": "1443907985814659074",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8394,
+			"friends_count": 554,
+			"listed_count": 0,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2280,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[시공간집 4] D-4 https://t.co/Q4SC2OE5Qd"
+	},
+	{
+		"created_at": "Sat Oct 02 10:29:33 +0000 2021",
+		"id": 1444244329216630800,
+		"id_str": "1444248178019164163",
+		"full_text": "@saysueme &lt;내 마음&gt;\n티빙 오리지널 “유미의 세포들” OST 발매\n\n#세이수미 #saysueme #유미의세포들 #yumiscells #tvN #TVING \n\nMelon https://t.co/nAcmMPe26h\nGenie https://t.co/cSClyPtQAL\nFlo https://t.co/6wrMC8zxoc\nSpotify https://t.co/ebGQdWAOJp https://t.co/i5KTYAxfVv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "세이수미",
+					"indices": [
+						49,
+						54
+					]
+				},
+				{
+					"text": "saysueme",
+					"indices": [
+						55,
+						64
+					]
+				},
+				{
+					"text": "유미의세포들",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"text": "yumiscells",
+					"indices": [
+						73,
+						84
+					]
+				},
+				{
+					"text": "tvN",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "TVING",
+					"indices": [
+						90,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "saysueme",
+					"name": "세이수미 Say Sue Me",
+					"id": 1027038272,
+					"id_str": "1027038272",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nAcmMPe26h",
+					"expanded_url": "http://kko.to/U3e6RHn4o",
+					"display_url": "kko.to/U3e6RHn4o",
+					"indices": [
+						105,
+						128
+					]
+				},
+				{
+					"url": "https://t.co/cSClyPtQAL",
+					"expanded_url": "http://genie.co.kr/L7LSB6",
+					"display_url": "genie.co.kr/L7LSB6",
+					"indices": [
+						135,
+						158
+					]
+				},
+				{
+					"url": "https://t.co/6wrMC8zxoc",
+					"expanded_url": "http://flomuz.io/s/a.BGoIV",
+					"display_url": "flomuz.io/s/a.BGoIV",
+					"indices": [
+						163,
+						186
+					]
+				},
+				{
+					"url": "https://t.co/ebGQdWAOJp",
+					"expanded_url": "https://spoti.fi/3uFlvdp",
+					"display_url": "spoti.fi/3uFlvdp",
+					"indices": [
+						195,
+						218
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1444244322312884200,
+					"id_str": "1444244322312884225",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/FAr8jyhVkAE0405.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAr8jyhVkAE0405.jpg",
+					"url": "https://t.co/i5KTYAxfVv",
+					"display_url": "pic.twitter.com/i5KTYAxfVv",
+					"expanded_url": "https://twitter.com/electric_muse/status/1444244329216630787/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 641,
+							"h": 656,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 641,
+							"h": 656,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 641,
+							"h": 656,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1444244322312884200,
+					"id_str": "1444244322312884225",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/FAr8jyhVkAE0405.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAr8jyhVkAE0405.jpg",
+					"url": "https://t.co/i5KTYAxfVv",
+					"display_url": "pic.twitter.com/i5KTYAxfVv",
+					"expanded_url": "https://twitter.com/electric_muse/status/1444244329216630787/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 641,
+							"h": 656,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 641,
+							"h": 656,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 641,
+							"h": 656,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1027038272,
+		"in_reply_to_user_id_str": "1027038272",
+		"in_reply_to_screen_name": "saysueme",
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3341,
+			"friends_count": 1299,
+			"listed_count": 106,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 6113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@saysueme &lt;내 마음&gt;\n티빙 오리지널 “유미의 세포들” OST 발매\n\n#세이수미 #saysueme #유미의세포들 #yumiscells #tvN #TVING \n\nMelon https://t.co/nAcmMPe26h\nGenie https://t.co/cSClyPtQAL\nFlo https://t.co/6wrMC8zxoc\nSpotify https://t.co/ebGQdWAOJp https://t.co/i5KTYAxfVv"
+	},
+	{
 		"created_at": "Sat Oct 02 09:41:58 +0000 2021",
 		"id": 1444236205294489600,
 		"id_str": "1444236205294489601",
