@@ -1,6 +1,669 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 02 09:41:58 +0000 2021",
+		"id": 1444236205294489600,
+		"id_str": "1444236205294489601",
+		"full_text": "#해피로봇레코드 #Happy_Robot_Records\n손글씨 배경화면 시즌3 #3, 이민혁_하늘엔 별이 떠있고 너만큼은 빛나질 않아\nhttps://t.co/Qu25hNRnm2\n#블로그 #레이블 #기획사 #인디 #인디음악",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "해피로봇레코드",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Happy_Robot_Records",
+					"indices": [
+						9,
+						29
+					]
+				},
+				{
+					"text": "블로그",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "레이블",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "기획사",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "인디",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						117,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qu25hNRnm2",
+					"expanded_url": "https://bit.ly/2WxKHpA",
+					"display_url": "bit.ly/2WxKHpA",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#해피로봇레코드 #Happy_Robot_Records\n손글씨 배경화면 시즌3 #3, 이민혁_하늘엔 별이 떠있고 너만큼은 빛나질 않아\nhttps://t.co/Qu25hNRnm2\n#블로그 #레이블 #기획사 #인디 #인디음악"
+	},
+	{
+		"created_at": "Sat Oct 02 09:29:38 +0000 2021",
+		"id": 1444228159067484200,
+		"id_str": "1444233099647279109",
+		"full_text": "💿NEW MUSIC TODAY💿\nJTBC드라마 &lt;인간실격&gt; OST Part.4\n\"하진 (HAJIN) - My Home\" 을 지금 바로 음원 사이트에서 만나보세요!\n⠀\n#warnerkpop #warnermusic #release #OST #JTBC #인간실격 #전도연 #류준열 #하진 #HAJIN #MyHome https://t.co/02aUHkQpf6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						99,
+						110
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						111,
+						123
+					]
+				},
+				{
+					"text": "release",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "OST",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "인간실격",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "전도연",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "류준열",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "하진",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "HAJIN",
+					"indices": [
+						164,
+						170
+					]
+				},
+				{
+					"text": "MyHome",
+					"indices": [
+						171,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1443893437489549300,
+					"id_str": "1443893437489549315",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1443893437489549315/pu/img/9NQVYJktt-t3_H12.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1443893437489549315/pu/img/9NQVYJktt-t3_H12.jpg",
+					"url": "https://t.co/02aUHkQpf6",
+					"display_url": "pic.twitter.com/02aUHkQpf6",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1444228159067484160/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1443893437489549300,
+					"id_str": "1443893437489549315",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1443893437489549315/pu/img/9NQVYJktt-t3_H12.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1443893437489549315/pu/img/9NQVYJktt-t3_H12.jpg",
+					"url": "https://t.co/02aUHkQpf6",
+					"display_url": "pic.twitter.com/02aUHkQpf6",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1444228159067484160/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 34334,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1443893437489549315/pu/vid/320x320/FgISV_G5dsPriNaX.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1443893437489549315/pu/vid/720x720/Gk2Ml1a-aRxl5FUt.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1443893437489549315/pu/pl/cSbk3i2tPvTkYzDA.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1443893437489549315/pu/vid/540x540/0ErmK0I1G0L0nDTn.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52065,
+			"friends_count": 496,
+			"listed_count": 194,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1625,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\nJTBC드라마 &lt;인간실격&gt; OST Part.4\n\"하진 (HAJIN) - My Home\" 을 지금 바로 음원 사이트에서 만나보세요!\n⠀\n#warnerkpop #warnermusic #release #OST #JTBC #인간실격 #전도연 #류준열 #하진 #HAJIN #MyHome https://t.co/02aUHkQpf6"
+	},
+	{
+		"created_at": "Sat Oct 02 09:29:30 +0000 2021",
+		"id": 1444225651498647600,
+		"id_str": "1444233065602195456",
+		"full_text": "골든차일드(Golden Child) 'DDARA' M/V Teaser #2\n\n2021.10.05 6PM RELEASE\n\nhttps://t.co/3uOJ7LKtTn\nhttps://t.co/yCWqL6zTjb\n\n#GoldenChild #골든차일드 #DDARA https://t.co/3ZMggqqFNW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoldenChild",
+					"indices": [
+						116,
+						128
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "DDARA",
+					"indices": [
+						136,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3uOJ7LKtTn",
+					"expanded_url": "https://youtu.be/j7Ncz4GvxXo",
+					"display_url": "youtu.be/j7Ncz4GvxXo",
+					"indices": [
+						67,
+						90
+					]
+				},
+				{
+					"url": "https://t.co/yCWqL6zTjb",
+					"expanded_url": "https://www.vlive.tv/post/0-25721303",
+					"display_url": "vlive.tv/post/0-25721303",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1444170367648485400,
+					"id_str": "1444170367648485385",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FAq5TD7VUAkw8Pm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAq5TD7VUAkw8Pm.jpg",
+					"url": "https://t.co/3ZMggqqFNW",
+					"display_url": "pic.twitter.com/3ZMggqqFNW",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1444225651498647557/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1444170367648485400,
+					"id_str": "1444170367648485385",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FAq5TD7VUAkw8Pm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAq5TD7VUAkw8Pm.jpg",
+					"url": "https://t.co/3ZMggqqFNW",
+					"display_url": "pic.twitter.com/3ZMggqqFNW",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1444225651498647557/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTuZ29E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTuZ29E",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 430684,
+			"friends_count": 11,
+			"listed_count": 1922,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1632474486",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 319,
+		"favorite_count": 670,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "골든차일드(Golden Child) 'DDARA' M/V Teaser #2\n\n2021.10.05 6PM RELEASE\n\nhttps://t.co/3uOJ7LKtTn\nhttps://t.co/yCWqL6zTjb\n\n#GoldenChild #골든차일드 #DDARA https://t.co/3ZMggqqFNW"
+	},
+	{
 		"created_at": "Sat Oct 02 09:06:01 +0000 2021",
 		"id": 1444227156117180400,
 		"id_str": "1444227156117180418",
