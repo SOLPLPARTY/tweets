@@ -1,6 +1,657 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 03 03:29:39 +0000 2021",
+		"id": 1444497439118053400,
+		"id_str": "1444504895525199873",
+		"full_text": "⠀\nDAILY MIRRORBALL MUSIC | 211003 SUN\n⠀\n🔸 CLOD (클로드) [Bella Vita]\n⠀\n#클로드 #미러볼뮤직 #인디음악\n⠀ https://t.co/Fm3E42aWYG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "클로드",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						80,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1443527961332748300,
+					"id_str": "1443527961332748291",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1443527961332748291/pu/img/T60SOlXShwR1uAtO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1443527961332748291/pu/img/T60SOlXShwR1uAtO.jpg",
+					"url": "https://t.co/Fm3E42aWYG",
+					"display_url": "pic.twitter.com/Fm3E42aWYG",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1444497439118053378/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1443527961332748300,
+					"id_str": "1443527961332748291",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1443527961332748291/pu/img/T60SOlXShwR1uAtO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1443527961332748291/pu/img/T60SOlXShwR1uAtO.jpg",
+					"url": "https://t.co/Fm3E42aWYG",
+					"display_url": "pic.twitter.com/Fm3E42aWYG",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1444497439118053378/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 18018,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1443527961332748291/pu/pl/l97mc1CiqQ1Lm8VH.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1443527961332748291/pu/vid/320x320/7PoPqusr4FVZfhGe.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1443527961332748291/pu/vid/540x540/WRv3f4fXaWUXQrtF.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1443527961332748291/pu/vid/720x720/u8FcZoA5PjTv2_gY.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9466,
+			"friends_count": 2616,
+			"listed_count": 246,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1627032310",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "⠀\nDAILY MIRRORBALL MUSIC | 211003 SUN\n⠀\n🔸 CLOD (클로드) [Bella Vita]\n⠀\n#클로드 #미러볼뮤직 #인디음악\n⠀ https://t.co/Fm3E42aWYG"
+	},
+	{
+		"created_at": "Sun Oct 03 03:29:33 +0000 2021",
+		"id": 1444497435938672600,
+		"id_str": "1444504869767892994",
+		"full_text": "[구만 | 싱글 [나 혼자 남은 지구] 발매]\n구만의 새 싱글 '나 혼자 남은 지구'가 발매되었습니다🌏\n지금 모든 음원사이트에서 감상하실 수 있습니다\n\n1. 나 혼자 남은 지구 | Alone on Earth\n2. 이불에 감춘 모습 | Under the blanket\n\n#레트로포크싱어송라이터 #구만 #나혼자남은지구 #이불에감춘모습 https://t.co/bizjQvE6JO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레트로포크싱어송라이터",
+					"indices": [
+						150,
+						162
+					]
+				},
+				{
+					"text": "구만",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "나혼자남은지구",
+					"indices": [
+						167,
+						175
+					]
+				},
+				{
+					"text": "이불에감춘모습",
+					"indices": [
+						176,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1443958610761961500,
+					"id_str": "1443958610761961478",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FAn5ar_VIAMyN0X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAn5ar_VIAMyN0X.jpg",
+					"url": "https://t.co/bizjQvE6JO",
+					"display_url": "pic.twitter.com/bizjQvE6JO",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1444497435938672640/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1443958610761961500,
+					"id_str": "1443958610761961478",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FAn5ar_VIAMyN0X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAn5ar_VIAMyN0X.jpg",
+					"url": "https://t.co/bizjQvE6JO",
+					"display_url": "pic.twitter.com/bizjQvE6JO",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1444497435938672640/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 52622,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1443958610761961478/vid/640x360/DSbJMPWjEj1DUnog.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1443958610761961478/vid/480x270/9GKNuid3JN7Utdzp.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1443958610761961478/pl/WroVBJl7ZnjJDJLk.m3u8?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1443958610761961478/vid/1280x720/_CYuC7c8dEsXuox0.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), LambC(램씨), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbKMln",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbKMln",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13006,
+			"friends_count": 1937,
+			"listed_count": 254,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[구만 | 싱글 [나 혼자 남은 지구] 발매]\n구만의 새 싱글 '나 혼자 남은 지구'가 발매되었습니다🌏\n지금 모든 음원사이트에서 감상하실 수 있습니다\n\n1. 나 혼자 남은 지구 | Alone on Earth\n2. 이불에 감춘 모습 | Under the blanket\n\n#레트로포크싱어송라이터 #구만 #나혼자남은지구 #이불에감춘모습 https://t.co/bizjQvE6JO"
+	},
+	{
+		"created_at": "Sun Oct 03 03:29:27 +0000 2021",
+		"id": 1444492443143979000,
+		"id_str": "1444504844048506886",
+		"full_text": "* 자세한 사항은 ‘스페이스 공감’ 홈페이지(https://t.co/RSY1s4VMdI) 및 SNS(@ebsspace) 에서 확인해주세요!\n** 방송 일시는 추후 공지 예정이니 참고 부탁드립니다.\n\n#이랑 #공감 #스페이스공감 #공연 #콘서트 #라이브 #무엇이든물어보세요 #QnA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이랑",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "공감",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "스페이스공감",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "라이브",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "무엇이든물어보세요",
+					"indices": [
+						141,
+						151
+					]
+				},
+				{
+					"text": "QnA",
+					"indices": [
+						152,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ebsspace",
+					"name": "EBS스페이스 共感",
+					"id": 128619707,
+					"id_str": "128619707",
+					"indices": [
+						56,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RSY1s4VMdI",
+					"expanded_url": "http://bit.ly/2YdSuti",
+					"display_url": "bit.ly/2YdSuti",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1444492440073736200,
+		"in_reply_to_status_id_str": "1444492440073736202",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2132,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "* 자세한 사항은 ‘스페이스 공감’ 홈페이지(https://t.co/RSY1s4VMdI) 및 SNS(@ebsspace) 에서 확인해주세요!\n** 방송 일시는 추후 공지 예정이니 참고 부탁드립니다.\n\n#이랑 #공감 #스페이스공감 #공연 #콘서트 #라이브 #무엇이든물어보세요 #QnA"
+	},
+	{
 		"created_at": "Sun Oct 03 03:10:13 +0000 2021",
 		"id": 1444500006946451500,
 		"id_str": "1444500006946451458",
