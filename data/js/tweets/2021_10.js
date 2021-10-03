@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 03 10:29:30 +0000 2021",
+		"id": 1444607608015392800,
+		"id_str": "1444610553427726336",
+		"full_text": "남우현 (Nam Woo Hyun) Comeback Trailer\n\n2021.10.19 RELEASE\n\nhttps://t.co/4e2bph3b9M\nhttps://t.co/xto4BXVxv5\n\n#남우현 #우현\n#NamWooHyun #ウヒョン\n#INFINITE #인피니트 https://t.co/3Dk7iHaebr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "남우현",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "우현",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "NamWooHyun",
+					"indices": [
+						115,
+						126
+					]
+				},
+				{
+					"text": "ウヒョン",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "INFINITE",
+					"indices": [
+						133,
+						142
+					]
+				},
+				{
+					"text": "인피니트",
+					"indices": [
+						143,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4e2bph3b9M",
+					"expanded_url": "http://youtu.be/zB20L1D38_E",
+					"display_url": "youtu.be/zB20L1D38_E",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/xto4BXVxv5",
+					"expanded_url": "http://vlive.tv/video/264764",
+					"display_url": "vlive.tv/video/264764",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1444607574305763300,
+					"id_str": "1444607574305763336",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FAxG71pVcAg7j4G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAxG71pVcAg7j4G.jpg",
+					"url": "https://t.co/3Dk7iHaebr",
+					"display_url": "pic.twitter.com/3Dk7iHaebr",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1444607608015392769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1444607574305763300,
+					"id_str": "1444607574305763336",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FAxG71pVcAg7j4G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAxG71pVcAg7j4G.jpg",
+					"url": "https://t.co/3Dk7iHaebr",
+					"display_url": "pic.twitter.com/3Dk7iHaebr",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1444607608015392769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTuZ29E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTuZ29E",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 430682,
+			"friends_count": 11,
+			"listed_count": 1923,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1632474486",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 987,
+		"favorite_count": 1285,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "남우현 (Nam Woo Hyun) Comeback Trailer\n\n2021.10.19 RELEASE\n\nhttps://t.co/4e2bph3b9M\nhttps://t.co/xto4BXVxv5\n\n#남우현 #우현\n#NamWooHyun #ウヒョン\n#INFINITE #인피니트 https://t.co/3Dk7iHaebr"
+	},
+	{
 		"created_at": "Sun Oct 03 09:42:27 +0000 2021",
 		"id": 1444598715633787000,
 		"id_str": "1444598715633786880",
