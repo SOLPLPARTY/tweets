@@ -1,6 +1,471 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 04 03:29:45 +0000 2021",
+		"id": 1444866945002586000,
+		"id_str": "1444867308707581953",
+		"full_text": "🎶リリース情報🔊\n\nWoo Ye Rinの1st EP「Night : Yellow Flowers Bloom Only At Night of Summer」Release❗\n\n2021.10.4 (Mon) 12:00AM\n\nhttps://t.co/Ce9CYWRrcT\n\n※本日からプレオーダーもスタートです。\n\n#wooyerin #EP #kpop #우예린\n\nhttps://t.co/XJGQ5FNNUl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "wooyerin",
+					"indices": [
+						162,
+						171
+					]
+				},
+				{
+					"text": "EP",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "kpop",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "우예린",
+					"indices": [
+						182,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ce9CYWRrcT",
+					"expanded_url": "https://lnk.to/NYFBOANOS",
+					"display_url": "lnk.to/NYFBOANOS",
+					"indices": [
+						116,
+						139
+					]
+				},
+				{
+					"url": "https://t.co/XJGQ5FNNUl",
+					"expanded_url": "https://youtu.be/rqWKrIivSRg",
+					"display_url": "youtu.be/rqWKrIivSRg",
+					"indices": [
+						188,
+						211
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7675,
+			"friends_count": 8355,
+			"listed_count": 198,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 965,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "🎶リリース情報🔊\n\nWoo Ye Rinの1st EP「Night : Yellow Flowers Bloom Only At Night of Summer」Release❗\n\n2021.10.4 (Mon) 12:00AM\n\nhttps://t.co/Ce9CYWRrcT\n\n※本日からプレオーダーもスタートです。\n\n#wooyerin #EP #kpop #우예린\n\nhttps://t.co/XJGQ5FNNUl"
+	},
+	{
+		"created_at": "Mon Oct 04 03:29:40 +0000 2021",
+		"id": 1444861723832246300,
+		"id_str": "1444867287232692230",
+		"full_text": "🎶リリース情報🔊\n\nWoo Ye Rinの1st EP「Night : Yellow Flowers Bloom Only At Night of Summer」Release❗\n\n2021.10.4 (Mon) 12:00AM\n\nhttps://t.co/Ce9CYWRrcT\n\n※本日からプレオーダーもスタートです。\n\n#wooyerin #EP #kpop #우예린",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "wooyerin",
+					"indices": [
+						162,
+						171
+					]
+				},
+				{
+					"text": "EP",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "kpop",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "우예린",
+					"indices": [
+						182,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ce9CYWRrcT",
+					"expanded_url": "https://lnk.to/NYFBOANOS",
+					"display_url": "lnk.to/NYFBOANOS",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7675,
+			"friends_count": 8355,
+			"listed_count": 198,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 965,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "🎶リリース情報🔊\n\nWoo Ye Rinの1st EP「Night : Yellow Flowers Bloom Only At Night of Summer」Release❗\n\n2021.10.4 (Mon) 12:00AM\n\nhttps://t.co/Ce9CYWRrcT\n\n※本日からプレオーダーもスタートです。\n\n#wooyerin #EP #kpop #우예린"
+	},
+	{
+		"created_at": "Mon Oct 04 03:29:31 +0000 2021",
+		"id": 1444860608914989000,
+		"id_str": "1444867249031024640",
+		"full_text": "[#MTS] 미스틱스토리 Monday To Sunday🔔\n\n🔗 https://t.co/i0vnx2yVGX\n\n#미스틱루키즈 #윤종신 #홍자 #루시 #고민시 #정인 #김강민",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MTS",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "미스틱루키즈",
+					"indices": [
+						60,
+						67
+					]
+				},
+				{
+					"text": "윤종신",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "홍자",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "루시",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "고민시",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "정인",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "김강민",
+					"indices": [
+						90,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i0vnx2yVGX",
+					"expanded_url": "http://bit.ly/2WC2fkq",
+					"display_url": "bit.ly/2WC2fkq",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22979,
+			"friends_count": 15,
+			"listed_count": 240,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#MTS] 미스틱스토리 Monday To Sunday🔔\n\n🔗 https://t.co/i0vnx2yVGX\n\n#미스틱루키즈 #윤종신 #홍자 #루시 #고민시 #정인 #김강민"
+	},
+	{
 		"created_at": "Mon Oct 04 03:12:01 +0000 2021",
 		"id": 1444862846588829700,
 		"id_str": "1444862846588829702",
