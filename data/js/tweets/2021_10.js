@@ -1,6 +1,1459 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 04 05:58:19 +0000 2021",
+		"id": 1444890271976657000,
+		"id_str": "1444904696003670017",
+		"full_text": "KCON:TACT HI 5 FanPick Cam &lt;CENTER CAM&gt; VOD DAY 1 💌\n🔗 https://t.co/nTnsUtKCeq\n#Weeekly #WEi https://t.co/e76XpmJDkj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Weeekly",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "WEi",
+					"indices": [
+						93,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nTnsUtKCeq",
+					"expanded_url": "http://bit.ly/KCONTACT_PREMIUM_VOD",
+					"display_url": "bit.ly/KCONTACT_PREMI…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1444588180087328800,
+					"id_str": "1444588180087328771",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/FAw1S8jVUAM0wOM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAw1S8jVUAM0wOM.jpg",
+					"url": "https://t.co/e76XpmJDkj",
+					"display_url": "pic.twitter.com/e76XpmJDkj",
+					"expanded_url": "https://twitter.com/KCON_official/status/1444890271976656898/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1444588180087328800,
+					"id_str": "1444588180087328771",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/FAw1S8jVUAM0wOM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAw1S8jVUAM0wOM.jpg",
+					"url": "https://t.co/e76XpmJDkj",
+					"display_url": "pic.twitter.com/e76XpmJDkj",
+					"expanded_url": "https://twitter.com/KCON_official/status/1444890271976656898/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1444588180242518000,
+					"id_str": "1444588180242518017",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/FAw1S9IVUAESQhJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAw1S9IVUAESQhJ.jpg",
+					"url": "https://t.co/e76XpmJDkj",
+					"display_url": "pic.twitter.com/e76XpmJDkj",
+					"expanded_url": "https://twitter.com/KCON_official/status/1444890271976656898/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 413163,
+			"friends_count": 75,
+			"listed_count": 1022,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 103,
+		"favorite_count": 278,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KCON:TACT HI 5 FanPick Cam &lt;CENTER CAM&gt; VOD DAY 1 💌\n🔗 https://t.co/nTnsUtKCeq\n#Weeekly #WEi https://t.co/e76XpmJDkj"
+	},
+	{
+		"created_at": "Mon Oct 04 05:58:15 +0000 2021",
+		"id": 1444890024277942300,
+		"id_str": "1444904678752403460",
+		"full_text": "KCON:TACT HI 5 FanPick Cam &lt;CENTER CAM&gt; VOD DAY 1 💌\n🔗 https://t.co/nTnsUtKCeq\n#AB6IX #HIGHLIGHT #PARKJIHOON https://t.co/QOkFTyM5eA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AB6IX",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "HIGHLIGHT",
+					"indices": [
+						91,
+						101
+					]
+				},
+				{
+					"text": "PARKJIHOON",
+					"indices": [
+						102,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nTnsUtKCeq",
+					"expanded_url": "http://bit.ly/KCONTACT_PREMIUM_VOD",
+					"display_url": "bit.ly/KCONTACT_PREMI…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1444587986557886500,
+					"id_str": "1444587986557886465",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FAw1HrmUYAEzvpI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAw1HrmUYAEzvpI.jpg",
+					"url": "https://t.co/QOkFTyM5eA",
+					"display_url": "pic.twitter.com/QOkFTyM5eA",
+					"expanded_url": "https://twitter.com/KCON_official/status/1444890024277942274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1444587986557886500,
+					"id_str": "1444587986557886465",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FAw1HrmUYAEzvpI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAw1HrmUYAEzvpI.jpg",
+					"url": "https://t.co/QOkFTyM5eA",
+					"display_url": "pic.twitter.com/QOkFTyM5eA",
+					"expanded_url": "https://twitter.com/KCON_official/status/1444890024277942274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1444587986553753600,
+					"id_str": "1444587986553753602",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FAw1HrlVUAIrlL9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAw1HrlVUAIrlL9.jpg",
+					"url": "https://t.co/QOkFTyM5eA",
+					"display_url": "pic.twitter.com/QOkFTyM5eA",
+					"expanded_url": "https://twitter.com/KCON_official/status/1444890024277942274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1444587986557882400,
+					"id_str": "1444587986557882376",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FAw1HrmUUAgff3G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAw1HrmUUAgff3G.jpg",
+					"url": "https://t.co/QOkFTyM5eA",
+					"display_url": "pic.twitter.com/QOkFTyM5eA",
+					"expanded_url": "https://twitter.com/KCON_official/status/1444890024277942274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 413163,
+			"friends_count": 75,
+			"listed_count": 1022,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11433,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 673,
+		"favorite_count": 1310,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KCON:TACT HI 5 FanPick Cam &lt;CENTER CAM&gt; VOD DAY 1 💌\n🔗 https://t.co/nTnsUtKCeq\n#AB6IX #HIGHLIGHT #PARKJIHOON https://t.co/QOkFTyM5eA"
+	},
+	{
+		"created_at": "Mon Oct 04 05:29:49 +0000 2021",
+		"id": 1444897002630746000,
+		"id_str": "1444897525593513985",
+		"full_text": "[#NEWS] 미스틱루키즈 수현X하람X하루나, 원밀리언과 댄스 협업\n\n▶https://t.co/rzzpzLcMJg\n\n#미스틱루키즈 #미스틱걸그룹 #수현 #하람 #하루나",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "미스틱루키즈",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"text": "미스틱걸그룹",
+					"indices": [
+						73,
+						80
+					]
+				},
+				{
+					"text": "수현",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "하람",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "하루나",
+					"indices": [
+						89,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rzzpzLcMJg",
+					"expanded_url": "http://bit.ly/3FdSURo",
+					"display_url": "bit.ly/3FdSURo",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22987,
+			"friends_count": 15,
+			"listed_count": 241,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 미스틱루키즈 수현X하람X하루나, 원밀리언과 댄스 협업\n\n▶https://t.co/rzzpzLcMJg\n\n#미스틱루키즈 #미스틱걸그룹 #수현 #하람 #하루나"
+	},
+	{
+		"created_at": "Mon Oct 04 05:29:46 +0000 2021",
+		"id": 1444890252238213000,
+		"id_str": "1444897512549199873",
+		"full_text": "10/10 (일) 오후 2시 반\n[#김사월] 2021 인천펜타포트 락 페스티벌 @펜타공식채널\n-\n10/10 (일) 오후 5시 50분\n[#김사월] 매드프라이드 서울 @매드프라이드 유니버스\n-\n#유어썸머 https://t.co/3MlbBoRwDI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김사월",
+					"indices": [
+						19,
+						23
+					]
+				},
+				{
+					"text": "김사월",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "유어썸머",
+					"indices": [
+						106,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1444890245091102700,
+					"id_str": "1444890245091102720",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FA1IBcYVEAA-mYw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA1IBcYVEAA-mYw.jpg",
+					"url": "https://t.co/3MlbBoRwDI",
+					"display_url": "pic.twitter.com/3MlbBoRwDI",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1444890252238213120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1444890245091102700,
+					"id_str": "1444890245091102720",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/FA1IBcYVEAA-mYw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA1IBcYVEAA-mYw.jpg",
+					"url": "https://t.co/3MlbBoRwDI",
+					"display_url": "pic.twitter.com/3MlbBoRwDI",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1444890252238213120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1444890241769218000,
+		"in_reply_to_status_id_str": "1444890241769218057",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2134,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "10/10 (일) 오후 2시 반\n[#김사월] 2021 인천펜타포트 락 페스티벌 @펜타공식채널\n-\n10/10 (일) 오후 5시 50분\n[#김사월] 매드프라이드 서울 @매드프라이드 유니버스\n-\n#유어썸머 https://t.co/3MlbBoRwDI"
+	},
+	{
+		"created_at": "Mon Oct 04 05:29:38 +0000 2021",
+		"id": 1444890241769218000,
+		"id_str": "1444897478491398145",
+		"full_text": "10/8 (금) 저녁 8시\n[#박소은] All Live - Playlist @구름아래소극장(오프라인), 컬처브릿지(온라인)\n-\n10/9 (토) 오후 1시 반\n[#김사월] 21세기 인문가치포럼 @경북 안동 구름에리조트 천자문마당\n-\n10/9 (토) 오후 1시 40분\n[#너드커넥션] 2021 인천펜타포트 락 페스티벌 @펜타공식채널 https://t.co/ZlzwQwf17B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박소은",
+					"indices": [
+						16,
+						20
+					]
+				},
+				{
+					"text": "김사월",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "너드커넥션",
+					"indices": [
+						149,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1444890229677068300,
+					"id_str": "1444890229677068298",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FA1IAi9VkAoT8VG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA1IAi9VkAoT8VG.jpg",
+					"url": "https://t.co/ZlzwQwf17B",
+					"display_url": "pic.twitter.com/ZlzwQwf17B",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1444890241769218057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1444890229677068300,
+					"id_str": "1444890229677068298",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FA1IAi9VkAoT8VG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA1IAi9VkAoT8VG.jpg",
+					"url": "https://t.co/ZlzwQwf17B",
+					"display_url": "pic.twitter.com/ZlzwQwf17B",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1444890241769218057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1444890226044723200,
+		"in_reply_to_status_id_str": "1444890226044723204",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2134,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "10/8 (금) 저녁 8시\n[#박소은] All Live - Playlist @구름아래소극장(오프라인), 컬처브릿지(온라인)\n-\n10/9 (토) 오후 1시 반\n[#김사월] 21세기 인문가치포럼 @경북 안동 구름에리조트 천자문마당\n-\n10/9 (토) 오후 1시 40분\n[#너드커넥션] 2021 인천펜타포트 락 페스티벌 @펜타공식채널 https://t.co/ZlzwQwf17B"
+	},
+	{
+		"created_at": "Mon Oct 04 05:29:34 +0000 2021",
+		"id": 1444890226044723200,
+		"id_str": "1444897461127073793",
+		"full_text": "10/7 (목) 저녁 7시 20분\n[#너드커넥션] 문화콘서트 난장 @광주 광산문화예술회관\n-\n10/7 (목) 저녁 7시 반\n[#슬릭] 한국성폭력상담소 30주년 기념식 축하공연 @한국성폭력상담소 유튜브 채널\n-\n10/7 (목) 저녁 8시\n[#cott] 단독 공연 &lt;cott’smos&gt; 티켓 오픈 @네이버 예약 https://t.co/kHwelXWVNS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "슬릭",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "cott",
+					"indices": [
+						133,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1444890215768748000,
+					"id_str": "1444890215768748033",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FA1H_vJVcAE-rdK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA1H_vJVcAE-rdK.jpg",
+					"url": "https://t.co/kHwelXWVNS",
+					"display_url": "pic.twitter.com/kHwelXWVNS",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1444890226044723204/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1444890215768748000,
+					"id_str": "1444890215768748033",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FA1H_vJVcAE-rdK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA1H_vJVcAE-rdK.jpg",
+					"url": "https://t.co/kHwelXWVNS",
+					"display_url": "pic.twitter.com/kHwelXWVNS",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1444890226044723204/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1444890209661771800,
+		"in_reply_to_status_id_str": "1444890209661771777",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2134,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "10/7 (목) 저녁 7시 20분\n[#너드커넥션] 문화콘서트 난장 @광주 광산문화예술회관\n-\n10/7 (목) 저녁 7시 반\n[#슬릭] 한국성폭력상담소 30주년 기념식 축하공연 @한국성폭력상담소 유튜브 채널\n-\n10/7 (목) 저녁 8시\n[#cott] 단독 공연 &lt;cott’smos&gt; 티켓 오픈 @네이버 예약 https://t.co/kHwelXWVNS"
+	},
+	{
+		"created_at": "Mon Oct 04 05:29:30 +0000 2021",
+		"id": 1444890209661771800,
+		"id_str": "1444897443863220224",
+		"full_text": "10/6 (수) 밤 9시\n[#박소은] 손님포차 : 우같음듣 편 @유어썸머 유튜브 채널\n-\n10/7 (목)\n[#오지은] 팟캐스트 &lt;이런 나라도 떠나고 싶다&gt;\n-\n10/7 (목) 정오\n[#cott] 싱글 &lt;하필(HOW YOU FEEL?)&gt; 발매 https://t.co/eh3kGO39HE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박소은",
+					"indices": [
+						15,
+						19
+					]
+				},
+				{
+					"text": "오지은",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "cott",
+					"indices": [
+						108,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1444890198555304000,
+					"id_str": "1444890198555303941",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FA1H-vBVIAU3DXS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA1H-vBVIAU3DXS.jpg",
+					"url": "https://t.co/eh3kGO39HE",
+					"display_url": "pic.twitter.com/eh3kGO39HE",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1444890209661771777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1444890198555304000,
+					"id_str": "1444890198555303941",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FA1H-vBVIAU3DXS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA1H-vBVIAU3DXS.jpg",
+					"url": "https://t.co/eh3kGO39HE",
+					"display_url": "pic.twitter.com/eh3kGO39HE",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1444890209661771777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1444890195489263600,
+		"in_reply_to_status_id_str": "1444890195489263627",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2134,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "10/6 (수) 밤 9시\n[#박소은] 손님포차 : 우같음듣 편 @유어썸머 유튜브 채널\n-\n10/7 (목)\n[#오지은] 팟캐스트 &lt;이런 나라도 떠나고 싶다&gt;\n-\n10/7 (목) 정오\n[#cott] 싱글 &lt;하필(HOW YOU FEEL?)&gt; 발매 https://t.co/eh3kGO39HE"
+	},
+	{
 		"created_at": "Mon Oct 04 04:29:50 +0000 2021",
 		"id": 1444870385749528600,
 		"id_str": "1444882430150823938",
