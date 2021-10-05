@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 05 16:29:25 +0000 2021",
+		"id": 1445412058510475300,
+		"id_str": "1445425904956620805",
+		"full_text": "#20211006\n음...12시 넘었으니깐 오늘이네요\n라디오에 출연을...합니다...\n주제넘게 나가도 되는건지 모르겠지만\n도전하는 마음으로!! 다녀오겠습니다ㅋ\n오후 1시! 심심하시면ㅋ\n#아리랑라디오 #케이팝핀 #Kpoppin https://t.co/qfyYUhc5E5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아리랑라디오",
+					"indices": [
+						103,
+						110
+					]
+				},
+				{
+					"text": "케이팝핀",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "Kpoppin",
+					"indices": [
+						117,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1445412055180218400,
+					"id_str": "1445412055180218368",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FA8imycVkAAg7rR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA8imycVkAAg7rR.jpg",
+					"url": "https://t.co/qfyYUhc5E5",
+					"display_url": "pic.twitter.com/qfyYUhc5E5",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1445412058510475268/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1245,
+							"h": 1245,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445412055180218400,
+					"id_str": "1445412055180218368",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FA8imycVkAAg7rR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA8imycVkAAg7rR.jpg",
+					"url": "https://t.co/qfyYUhc5E5",
+					"display_url": "pic.twitter.com/qfyYUhc5E5",
+					"expanded_url": "https://twitter.com/messenger_yoon/status/1445412058510475268/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1245,
+							"h": 1245,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150566482,
+			"id_str": "150566482",
+			"name": "엠와이뮤직(MYmusic Ent)",
+			"screen_name": "messenger_yoon",
+			"location": "Artist Manager (South Korea)",
+			"description": "[Musician] 정준일, 낭만유랑악단, 나인(Nine9), 디어클라우드, 권영찬, 위아영 //mymusicent@naver.com//+82)2.6013.0102",
+			"url": "https://t.co/1IfWMp2Je9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1IfWMp2Je9",
+							"expanded_url": "http://www.mymusicent.co.kr",
+							"display_url": "mymusicent.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2642,
+			"friends_count": 335,
+			"listed_count": 32,
+			"created_at": "Tue Jun 01 07:29:53 +0000 2010",
+			"favourites_count": 20397,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356182299327385603/E98jEUqq_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#20211006\n음...12시 넘었으니깐 오늘이네요\n라디오에 출연을...합니다...\n주제넘게 나가도 되는건지 모르겠지만\n도전하는 마음으로!! 다녀오겠습니다ㅋ\n오후 1시! 심심하시면ㅋ\n#아리랑라디오 #케이팝핀 #Kpoppin https://t.co/qfyYUhc5E5"
+	},
+	{
 		"created_at": "Tue Oct 05 15:29:25 +0000 2021",
 		"id": 1445403408987394000,
 		"id_str": "1445410805109989386",
