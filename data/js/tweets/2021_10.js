@@ -1,6 +1,764 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 05 03:29:57 +0000 2021",
+		"id": 1445228470724808700,
+		"id_str": "1445229746640539648",
+		"full_text": "바로듣기=&gt;&gt;\n멜론: https://t.co/p0hh32hjlq\n벅스: https://t.co/EvhvReLD74\n지니: https://t.co/93AuFfipwa\n바이브: https://t.co/SrZOwLzAEX\n플로: https://t.co/FKShx4sBje\n\n#보이디 #BOY_D #평행선 #PERFECT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "보이디",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "BOY_D",
+					"indices": [
+						161,
+						167
+					]
+				},
+				{
+					"text": "평행선",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "PERFECT",
+					"indices": [
+						173,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p0hh32hjlq",
+					"expanded_url": "https://www.melon.com/album/detail.htm?albumId=10729581",
+					"display_url": "melon.com/album/detail.h…",
+					"indices": [
+						18,
+						41
+					]
+				},
+				{
+					"url": "https://t.co/EvhvReLD74",
+					"expanded_url": "https://music.bugs.co.kr/album/16202605?wl_ref=M_contents_01_04",
+					"display_url": "music.bugs.co.kr/album/16202605…",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"url": "https://t.co/93AuFfipwa",
+					"expanded_url": "https://www.genie.co.kr/detail/albumInfo?axnm=82301969",
+					"display_url": "genie.co.kr/detail/albumIn…",
+					"indices": [
+						74,
+						97
+					]
+				},
+				{
+					"url": "https://t.co/SrZOwLzAEX",
+					"expanded_url": "https://vibe.naver.com/album/6450240",
+					"display_url": "vibe.naver.com/album/6450240",
+					"indices": [
+						103,
+						126
+					]
+				},
+				{
+					"url": "https://t.co/FKShx4sBje",
+					"expanded_url": "https://www.music-flo.com/detail/album/edzlylnyn/albumtrack",
+					"display_url": "music-flo.com/detail/album/e…",
+					"indices": [
+						131,
+						154
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1445228466316529700,
+		"in_reply_to_status_id_str": "1445228466316529666",
+		"in_reply_to_user_id": 52109991,
+		"in_reply_to_user_id_str": "52109991",
+		"in_reply_to_screen_name": "orm_ent",
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 722,
+			"friends_count": 324,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1633404326",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "바로듣기=&gt;&gt;\n멜론: https://t.co/p0hh32hjlq\n벅스: https://t.co/EvhvReLD74\n지니: https://t.co/93AuFfipwa\n바이브: https://t.co/SrZOwLzAEX\n플로: https://t.co/FKShx4sBje\n\n#보이디 #BOY_D #평행선 #PERFECT"
+	},
+	{
+		"created_at": "Tue Oct 05 03:29:52 +0000 2021",
+		"id": 1445228466316529700,
+		"id_str": "1445229725178335235",
+		"full_text": "보이디 새싱글 [평행선 (Perfect)]이 발매 되었습니다.\n2020년 11월에 [평행선(Parellel)]로 시작해  2021년 1월 [평행선 (Paradox)], 그리고 [평행선(Perfect)]까지 하나의 곡으로 평행, 역설, 완벽이라는 다양한 해석의 세가지 편곡을 보여주었습니다.\n[평행선 (Perfect)]에 많은 관심 부탁드립니다! https://t.co/6PHbfD0IdP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1445227705058791400,
+					"id_str": "1445227705058791427",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FA568MuVEAMjnPx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA568MuVEAMjnPx.jpg",
+					"url": "https://t.co/6PHbfD0IdP",
+					"display_url": "pic.twitter.com/6PHbfD0IdP",
+					"expanded_url": "https://twitter.com/orm_ent/status/1445228466316529666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445227705058791400,
+					"id_str": "1445227705058791427",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FA568MuVEAMjnPx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA568MuVEAMjnPx.jpg",
+					"url": "https://t.co/6PHbfD0IdP",
+					"display_url": "pic.twitter.com/6PHbfD0IdP",
+					"expanded_url": "https://twitter.com/orm_ent/status/1445228466316529666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52109991,
+			"id_str": "52109991",
+			"name": "오름 이엔티 (ORM ENT) 🎗🎗",
+			"screen_name": "orm_ent",
+			"location": "",
+			"description": "옳다고 생각하는 곳을 향해 함께 오름 엔터테인먼트! 아티스트 매니지먼트/앨범 홍보/공연기획 하는 오름 엔터입니다. 소속아티스트: 9와 숫자들, 3호선 버터플라이, 김진아, 로로스, 비둘기우유, 흐른, 홍크, 꿈에 카메라를 가져올걸, 스위머스, 한강의 기적, 검은잎들 등. 옮옮.",
+			"url": "https://t.co/W9lE1ktBRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W9lE1ktBRM",
+							"expanded_url": "https://www.facebook.com/orm.music.ent",
+							"display_url": "facebook.com/orm.music.ent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 722,
+			"friends_count": 324,
+			"listed_count": 13,
+			"created_at": "Mon Jun 29 16:44:00 +0000 2009",
+			"favourites_count": 741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110006690420674561/i8RldSpG_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52109991/1633404326",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보이디 새싱글 [평행선 (Perfect)]이 발매 되었습니다.\n2020년 11월에 [평행선(Parellel)]로 시작해  2021년 1월 [평행선 (Paradox)], 그리고 [평행선(Perfect)]까지 하나의 곡으로 평행, 역설, 완벽이라는 다양한 해석의 세가지 편곡을 보여주었습니다.\n[평행선 (Perfect)]에 많은 관심 부탁드립니다! https://t.co/6PHbfD0IdP"
+	},
+	{
+		"created_at": "Tue Oct 05 03:29:46 +0000 2021",
+		"id": 1445223158361903000,
+		"id_str": "1445229699450511364",
+		"full_text": "본 공연은 대면으로 진행되며, 정부의 사회적 거리두기 단계 지침에 따라 거리두기 좌석제로 운영합니다. 코로나19 방역 지침에 맞춰 안전하게 진행하겠습니다.\n#카더가든 #carthegarden #카더가든콘서트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "카더가든",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "carthegarden",
+					"indices": [
+						93,
+						106
+					]
+				},
+				{
+					"text": "카더가든콘서트",
+					"indices": [
+						107,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1445222461163937800,
+		"in_reply_to_status_id_str": "1445222461163937792",
+		"in_reply_to_user_id": 240145508,
+		"in_reply_to_user_id_str": "240145508",
+		"in_reply_to_screen_name": "DRDRacompany",
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3920,
+			"friends_count": 8,
+			"listed_count": 84,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "본 공연은 대면으로 진행되며, 정부의 사회적 거리두기 단계 지침에 따라 거리두기 좌석제로 운영합니다. 코로나19 방역 지침에 맞춰 안전하게 진행하겠습니다.\n#카더가든 #carthegarden #카더가든콘서트"
+	},
+	{
+		"created_at": "Tue Oct 05 03:29:43 +0000 2021",
+		"id": 1445223113227063300,
+		"id_str": "1445229690550210560",
+		"full_text": "본 공연은 대면으로 진행되며, 정부의 사회적 거리두기 단계 지침에 따라 거리두기 좌석제로 운영합니다. 코로나19 방역 지침에 맞춰 안전하게 진행하겠습니다.\n#카더가든 #carthegarden #카더가든콘서트",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "카더가든",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "carthegarden",
+					"indices": [
+						93,
+						106
+					]
+				},
+				{
+					"text": "카더가든콘서트",
+					"indices": [
+						107,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1445222214588981200,
+		"in_reply_to_status_id_str": "1445222214588981254",
+		"in_reply_to_user_id": 240145508,
+		"in_reply_to_user_id_str": "240145508",
+		"in_reply_to_screen_name": "DRDRacompany",
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3920,
+			"friends_count": 8,
+			"listed_count": 84,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "본 공연은 대면으로 진행되며, 정부의 사회적 거리두기 단계 지침에 따라 거리두기 좌석제로 운영합니다. 코로나19 방역 지침에 맞춰 안전하게 진행하겠습니다.\n#카더가든 #carthegarden #카더가든콘서트"
+	},
+	{
+		"created_at": "Tue Oct 05 03:29:33 +0000 2021",
+		"id": 1445222461163937800,
+		"id_str": "1445229645188767752",
+		"full_text": "Car, the garden 2021 Concert [2주의 가든 : 11] 2주차 공연 티켓 오픈 안내\n\n• 티켓 오픈일\n10.05(화) 6pm 인터파크 티켓\n\n• 공연 일시\n2주차) 11.09(화)~11.10(수) 8pm / 11.13(토)~11.14(일) 6pm\n\n• 장소\n구름아래소극장 @gurumare_theater https://t.co/lkrIMbOuKj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1445222175791673300,
+					"id_str": "1445222175791673344",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FA516WmUcAA_W6d.png",
+					"media_url_https": "https://pbs.twimg.com/media/FA516WmUcAA_W6d.png",
+					"url": "https://t.co/lkrIMbOuKj",
+					"display_url": "pic.twitter.com/lkrIMbOuKj",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1445222461163937792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445222175791673300,
+					"id_str": "1445222175791673344",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FA516WmUcAA_W6d.png",
+					"media_url_https": "https://pbs.twimg.com/media/FA516WmUcAA_W6d.png",
+					"url": "https://t.co/lkrIMbOuKj",
+					"display_url": "pic.twitter.com/lkrIMbOuKj",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1445222461163937792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3920,
+			"friends_count": 8,
+			"listed_count": 84,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Car, the garden 2021 Concert [2주의 가든 : 11] 2주차 공연 티켓 오픈 안내\n\n• 티켓 오픈일\n10.05(화) 6pm 인터파크 티켓\n\n• 공연 일시\n2주차) 11.09(화)~11.10(수) 8pm / 11.13(토)~11.14(일) 6pm\n\n• 장소\n구름아래소극장 @gurumare_theater https://t.co/lkrIMbOuKj"
+	},
+	{
 		"created_at": "Tue Oct 05 02:29:51 +0000 2021",
 		"id": 1445213485013500000,
 		"id_str": "1445214623083503619",
