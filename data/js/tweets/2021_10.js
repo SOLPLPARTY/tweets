@@ -1,6 +1,864 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 05 02:29:51 +0000 2021",
+		"id": 1445213485013500000,
+		"id_str": "1445214623083503619",
+		"full_text": "\"반려인 ‘아빠’가 집을 비울 때마다 강아지 ‘문수’는 바빠져요. 티브이도 보고, 한글도 읽고, 메신저도 해야 하기 때문이지요. 아빠는 그런 문수의 비밀을 알까요?\"\n\n- YES24 https://t.co/RRKwAexmSO\n- 교보문고 https://t.co/Zo4Dyqj5gi\n- 알라딘 https://t.co/pc4bTVX2xl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RRKwAexmSO",
+					"expanded_url": "https://url.kr/3jzv7q",
+					"display_url": "url.kr/3jzv7q",
+					"indices": [
+						102,
+						125
+					]
+				},
+				{
+					"url": "https://t.co/Zo4Dyqj5gi",
+					"expanded_url": "https://url.kr/nrd5wx",
+					"display_url": "url.kr/nrd5wx",
+					"indices": [
+						133,
+						156
+					]
+				},
+				{
+					"url": "https://t.co/pc4bTVX2xl",
+					"expanded_url": "https://url.kr/m7q24f",
+					"display_url": "url.kr/m7q24f",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1445213481297277000,
+		"in_reply_to_status_id_str": "1445213481297276931",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 2021 권진아 단독 공연 '우리의 방식' 2021. 10. 01. 8PM Ticket Open!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37160,
+			"friends_count": 10,
+			"listed_count": 376,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4000,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"반려인 ‘아빠’가 집을 비울 때마다 강아지 ‘문수’는 바빠져요. 티브이도 보고, 한글도 읽고, 메신저도 해야 하기 때문이지요. 아빠는 그런 문수의 비밀을 알까요?\"\n\n- YES24 https://t.co/RRKwAexmSO\n- 교보문고 https://t.co/Zo4Dyqj5gi\n- 알라딘 https://t.co/pc4bTVX2xl"
+	},
+	{
+		"created_at": "Tue Oct 05 02:29:42 +0000 2021",
+		"id": 1445213481297277000,
+		"id_str": "1445214584873361411",
+		"full_text": "[#Notice] #루시드폴\n\n싱어송라이터 루시드폴 X 그림책 작가 김동수\n\n반려동물과 함께 부르는 사랑의 노래\n동화책 &lt;문수의 비밀&gt;이 발간되었습니다📚\n\n국내 도서 판매처를 통해 확인하실 수 있습니다🐕\n\n@lucid_fall_jo\n#LucidFall #김동수 #문수의비밀 #동화책 https://t.co/deNeKMVRI5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "루시드폴",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "LucidFall",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"text": "김동수",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "문수의비밀",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "동화책",
+					"indices": [
+						159,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lucid_fall_jo",
+					"name": "Lucid Fall",
+					"id": 115856799,
+					"id_str": "115856799",
+					"indices": [
+						121,
+						135
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1445213427509592000,
+					"id_str": "1445213427509592068",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FA5t9ItVgAQXm9V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA5t9ItVgAQXm9V.jpg",
+					"url": "https://t.co/deNeKMVRI5",
+					"display_url": "pic.twitter.com/deNeKMVRI5",
+					"expanded_url": "https://twitter.com/antennamusic/status/1445213481297276931/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 491,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 867,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1480,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445213427509592000,
+					"id_str": "1445213427509592068",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FA5t9ItVgAQXm9V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA5t9ItVgAQXm9V.jpg",
+					"url": "https://t.co/deNeKMVRI5",
+					"display_url": "pic.twitter.com/deNeKMVRI5",
+					"expanded_url": "https://twitter.com/antennamusic/status/1445213481297276931/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 491,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 867,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1480,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445213427543076900,
+					"id_str": "1445213427543076864",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FA5t9I1UcAANLr3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA5t9I1UcAANLr3.jpg",
+					"url": "https://t.co/deNeKMVRI5",
+					"display_url": "pic.twitter.com/deNeKMVRI5",
+					"expanded_url": "https://twitter.com/antennamusic/status/1445213481297276931/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 834,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 473,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1424,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445213427509575700,
+					"id_str": "1445213427509575685",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FA5t9ItVQAUcKc8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA5t9ItVQAUcKc8.jpg",
+					"url": "https://t.co/deNeKMVRI5",
+					"display_url": "pic.twitter.com/deNeKMVRI5",
+					"expanded_url": "https://twitter.com/antennamusic/status/1445213481297276931/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 834,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 473,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445213427522097200,
+					"id_str": "1445213427522097155",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/FA5t9IwUUAMz0-2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA5t9IwUUAMz0-2.jpg",
+					"url": "https://t.co/deNeKMVRI5",
+					"display_url": "pic.twitter.com/deNeKMVRI5",
+					"expanded_url": "https://twitter.com/antennamusic/status/1445213481297276931/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 473,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1424,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 834,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 2021 권진아 단독 공연 '우리의 방식' 2021. 10. 01. 8PM Ticket Open!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37160,
+			"friends_count": 10,
+			"listed_count": 376,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4000,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Notice] #루시드폴\n\n싱어송라이터 루시드폴 X 그림책 작가 김동수\n\n반려동물과 함께 부르는 사랑의 노래\n동화책 &lt;문수의 비밀&gt;이 발간되었습니다📚\n\n국내 도서 판매처를 통해 확인하실 수 있습니다🐕\n\n@lucid_fall_jo\n#LucidFall #김동수 #문수의비밀 #동화책 https://t.co/deNeKMVRI5"
+	},
+	{
+		"created_at": "Tue Oct 05 02:29:35 +0000 2021",
+		"id": 1445211821959311400,
+		"id_str": "1445214554988875778",
+		"full_text": "[Cover] 자이언티(Zion.T) - No Make Up/ Cover by Daowl\nhttps://t.co/rlAQBOVahN\n\n#ZionT #NoMakeUp #Daowl #airmusic #cover",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ZionT",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "NoMakeUp",
+					"indices": [
+						82,
+						91
+					]
+				},
+				{
+					"text": "Daowl",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "airmusic",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"text": "cover",
+					"indices": [
+						109,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rlAQBOVahN",
+					"expanded_url": "https://www.youtube.com/watch?v=MR6etx-00wg",
+					"display_url": "youtube.com/watch?v=MR6etx…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 255994608,
+			"id_str": "255994608",
+			"name": "에어뮤직(Airmusic)",
+			"screen_name": "misterkkowk",
+			"location": "",
+			"description": "label artist ▶️공기남, 1ho, 0back\n                         official home page ▶️https://t.co/NxkguOJb10",
+			"url": "https://t.co/8brmSk9idN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8brmSk9idN",
+							"expanded_url": "https://www.youtube.com/channel/UCQu7HT9yzlDacTpi1J6ZuMA",
+							"display_url": "youtube.com/channel/UCQu7H…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NxkguOJb10",
+							"expanded_url": "http://airmusic.co.kr",
+							"display_url": "airmusic.co.kr",
+							"indices": [
+								77,
+								100
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 935,
+			"friends_count": 421,
+			"listed_count": 8,
+			"created_at": "Tue Feb 22 12:54:03 +0000 2011",
+			"favourites_count": 4676,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429040115871993858/QPqYM-Jl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429040115871993858/QPqYM-Jl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/255994608/1629690678",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Cover] 자이언티(Zion.T) - No Make Up/ Cover by Daowl\nhttps://t.co/rlAQBOVahN\n\n#ZionT #NoMakeUp #Daowl #airmusic #cover"
+	},
+	{
+		"created_at": "Tue Oct 05 02:29:31 +0000 2021",
+		"id": 1445203019553861600,
+		"id_str": "1445214537800691715",
+		"full_text": "TAEIL of NCT &amp; rapper Lil Boi to feature in Raiden’s new song ‘Love Right Back’ out on 10/11 6PM KST! \nTo present a sentimental synergy!\n\n#Raiden #레이든 #Love_Right_Back \n@raidenmusic\n#TAEIL #태일 #NCT\n#LilBoi #릴보이 https://t.co/i00YGbHkWF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Raiden",
+					"indices": [
+						142,
+						149
+					]
+				},
+				{
+					"text": "레이든",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "Love_Right_Back",
+					"indices": [
+						155,
+						171
+					]
+				},
+				{
+					"text": "TAEIL",
+					"indices": [
+						186,
+						192
+					]
+				},
+				{
+					"text": "태일",
+					"indices": [
+						193,
+						196
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						197,
+						201
+					]
+				},
+				{
+					"text": "LilBoi",
+					"indices": [
+						202,
+						209
+					]
+				},
+				{
+					"text": "릴보이",
+					"indices": [
+						210,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "raidenmusic",
+					"name": "Raiden",
+					"id": 2810956860,
+					"id_str": "2810956860",
+					"indices": [
+						173,
+						185
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1445200982116241400,
+					"id_str": "1445200982116241411",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FA5iouAVkAMmXuH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA5iouAVkAMmXuH.jpg",
+					"url": "https://t.co/i00YGbHkWF",
+					"display_url": "pic.twitter.com/i00YGbHkWF",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1445203019553861633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445200982116241400,
+					"id_str": "1445200982116241411",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FA5iouAVkAMmXuH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA5iouAVkAMmXuH.jpg",
+					"url": "https://t.co/i00YGbHkWF",
+					"display_url": "pic.twitter.com/i00YGbHkWF",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1445203019553861633/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9947721,
+			"friends_count": 55,
+			"listed_count": 10707,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10877,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14735,
+		"favorite_count": 35316,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEIL of NCT &amp; rapper Lil Boi to feature in Raiden’s new song ‘Love Right Back’ out on 10/11 6PM KST! \nTo present a sentimental synergy!\n\n#Raiden #레이든 #Love_Right_Back \n@raidenmusic\n#TAEIL #태일 #NCT\n#LilBoi #릴보이 https://t.co/i00YGbHkWF"
+	},
+	{
 		"created_at": "Tue Oct 05 01:29:25 +0000 2021",
 		"id": 1445185985499697200,
 		"id_str": "1445199412607729665",
