@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 05 05:58:14 +0000 2021",
+		"id": 1445252410922967000,
+		"id_str": "1445267065431072770",
+		"full_text": "KCON:TACT HI 5 FanPick Cam &lt;CENTER CAM&gt; VOD DAY 2 💌\n🔗 https://t.co/nTnsUtKCeq\n#GHOST9 #KWONEUNBI #StrayKids https://t.co/LekLPwsx6r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GHOST9",
+					"indices": [
+						84,
+						91
+					]
+				},
+				{
+					"text": "KWONEUNBI",
+					"indices": [
+						92,
+						102
+					]
+				},
+				{
+					"text": "StrayKids",
+					"indices": [
+						103,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nTnsUtKCeq",
+					"expanded_url": "http://bit.ly/KCONTACT_PREMIUM_VOD",
+					"display_url": "bit.ly/KCONTACT_PREMI…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1445205876730589200,
+					"id_str": "1445205876730589185",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FA5nFn3VcAEPEfL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA5nFn3VcAEPEfL.jpg",
+					"url": "https://t.co/LekLPwsx6r",
+					"display_url": "pic.twitter.com/LekLPwsx6r",
+					"expanded_url": "https://twitter.com/KCON_official/status/1445252410922967041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445205876730589200,
+					"id_str": "1445205876730589185",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FA5nFn3VcAEPEfL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA5nFn3VcAEPEfL.jpg",
+					"url": "https://t.co/LekLPwsx6r",
+					"display_url": "pic.twitter.com/LekLPwsx6r",
+					"expanded_url": "https://twitter.com/KCON_official/status/1445252410922967041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445205876730597400,
+					"id_str": "1445205876730597378",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FA5nFn3VkAITGpy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA5nFn3VkAITGpy.jpg",
+					"url": "https://t.co/LekLPwsx6r",
+					"display_url": "pic.twitter.com/LekLPwsx6r",
+					"expanded_url": "https://twitter.com/KCON_official/status/1445252410922967041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445205876726399000,
+					"id_str": "1445205876726398978",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/FA5nFn2VgAIb0sj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA5nFn2VgAIb0sj.jpg",
+					"url": "https://t.co/LekLPwsx6r",
+					"display_url": "pic.twitter.com/LekLPwsx6r",
+					"expanded_url": "https://twitter.com/KCON_official/status/1445252410922967041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 413647,
+			"friends_count": 75,
+			"listed_count": 1024,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 148,
+		"favorite_count": 575,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KCON:TACT HI 5 FanPick Cam &lt;CENTER CAM&gt; VOD DAY 2 💌\n🔗 https://t.co/nTnsUtKCeq\n#GHOST9 #KWONEUNBI #StrayKids https://t.co/LekLPwsx6r"
+	},
+	{
+		"created_at": "Tue Oct 05 05:29:28 +0000 2021",
+		"id": 1445259398427803600,
+		"id_str": "1445259823961059328",
+		"full_text": "[Feature]\n\n스타 셰프들이 자신의 레시피를 공개하듯 곡의 프로듀싱 과정을 공개 팬과 예비 프로듀서와 함께 소통하는 뮤지션이 늘고 있습니다. 뮤지션을 위한 콘텐츠를 만드는 뮤지션이 늘어난 배경과 대표적인 사례를 소개합니다.\n\nhttps://t.co/abPHwM1VZp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/abPHwM1VZp",
+					"expanded_url": "https://www.highjinkxmm.com/features/b2b-musicians",
+					"display_url": "highjinkxmm.com/features/b2b-m…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/P2V4wFkAko",
+			"url": "https://t.co/oAPJfxeB46",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAPJfxeB46",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P2V4wFkAko",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 457,
+			"friends_count": 24,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 635,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Feature]\n\n스타 셰프들이 자신의 레시피를 공개하듯 곡의 프로듀싱 과정을 공개 팬과 예비 프로듀서와 함께 소통하는 뮤지션이 늘고 있습니다. 뮤지션을 위한 콘텐츠를 만드는 뮤지션이 늘어난 배경과 대표적인 사례를 소개합니다.\n\nhttps://t.co/abPHwM1VZp"
+	},
+	{
 		"created_at": "Tue Oct 05 04:29:30 +0000 2021",
 		"id": 1445240637628903400,
 		"id_str": "1445244734759489538",
