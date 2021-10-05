@@ -1,6 +1,854 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 05 11:45:13 +0000 2021",
+		"id": 1445354385152880600,
+		"id_str": "1445354385152880643",
+		"full_text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n실리카겔 단독 공연 [Desert Eagle] 미공개 사진 대 방출\nhttps://t.co/bnQ1Q9eaOi\n#Behind_Story #매스사 https://t.co/YKvS4XvdZS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매직스트로베리사운드",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "MagicStrawberrySound",
+					"indices": [
+						12,
+						33
+					]
+				},
+				{
+					"text": "네이버포스트",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"text": "Behind_Story",
+					"indices": [
+						104,
+						117
+					]
+				},
+				{
+					"text": "매스사",
+					"indices": [
+						118,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bnQ1Q9eaOi",
+					"expanded_url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=32481277&memberNo=838758&navigationType=push",
+					"display_url": "m.post.naver.com/viewer/postVie…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1445354383722614800,
+					"id_str": "1445354383722614784",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FA7uJ3hXEAA7RfQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA7uJ3hXEAA7RfQ.jpg",
+					"url": "https://t.co/YKvS4XvdZS",
+					"display_url": "pic.twitter.com/YKvS4XvdZS",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1445354385152880643/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445354383722614800,
+					"id_str": "1445354383722614784",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/FA7uJ3hXEAA7RfQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA7uJ3hXEAA7RfQ.jpg",
+					"url": "https://t.co/YKvS4XvdZS",
+					"display_url": "pic.twitter.com/YKvS4XvdZS",
+					"expanded_url": "https://twitter.com/SOLPLPARTY/status/1445354385152880643/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74248,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#매직스트로베리사운드 #MagicStrawberrySound #네이버포스트\n실리카겔 단독 공연 [Desert Eagle] 미공개 사진 대 방출\nhttps://t.co/bnQ1Q9eaOi\n#Behind_Story #매스사 https://t.co/YKvS4XvdZS"
+	},
+	{
+		"created_at": "Tue Oct 05 11:29:42 +0000 2021",
+		"id": 1445349861734244400,
+		"id_str": "1445350480549384197",
+		"full_text": "🔹티켓 오픈 : 2021년 10월 7일 목요일 오후 8시\n🔹예매처 : 네이버 예약\n\n*예매 페이지는 추후 공지됩니다.\n\n#cott #콧 #단독공연 #cottsmos #cj아지트광흥창",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cott",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "콧",
+					"indices": [
+						73,
+						75
+					]
+				},
+				{
+					"text": "단독공연",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "cottsmos",
+					"indices": [
+						82,
+						91
+					]
+				},
+				{
+					"text": "cj아지트광흥창",
+					"indices": [
+						92,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1445349860098461700,
+		"in_reply_to_status_id_str": "1445349860098461701",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2135,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "🔹티켓 오픈 : 2021년 10월 7일 목요일 오후 8시\n🔹예매처 : 네이버 예약\n\n*예매 페이지는 추후 공지됩니다.\n\n#cott #콧 #단독공연 #cottsmos #cj아지트광흥창"
+	},
+	{
+		"created_at": "Tue Oct 05 11:29:40 +0000 2021",
+		"id": 1445349860098461700,
+		"id_str": "1445350471716200449",
+		"full_text": "조금 느리지만 자신만의 속도로 가장 아름답게 피어나는 코스모스처럼, 그들만의 색을 담아 아름답게 피운 음악이 가득한 cott 우주로 여러분들을 초대합니다.\n\n🔸cott 단독 공연 &lt;cott’smos&gt;\n🔸공연 일시 : 2021년 10월 22일 금요일 오후 8시\n🔸공연 장소 : CJ아지트 광흥창",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1445349856915038200,
+		"in_reply_to_status_id_str": "1445349856915038215",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2135,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "조금 느리지만 자신만의 속도로 가장 아름답게 피어나는 코스모스처럼, 그들만의 색을 담아 아름답게 피운 음악이 가득한 cott 우주로 여러분들을 초대합니다.\n\n🔸cott 단독 공연 &lt;cott’smos&gt;\n🔸공연 일시 : 2021년 10월 22일 금요일 오후 8시\n🔸공연 장소 : CJ아지트 광흥창"
+	},
+	{
+		"created_at": "Tue Oct 05 11:29:37 +0000 2021",
+		"id": 1445349856915038200,
+		"id_str": "1445350458713837569",
+		"full_text": "[#cott] 단독 공연 &lt;cott'smos&gt; 포스터 공개\n\n세련된 감각과 레트로한 감성을 동시에 담은\n독특한 매력의 음악을 들려주는 듀오, cott\n\n첫 단독공연 &lt;cott'smos&gt;에서는 다양한 에피소드와 섬세한 감정을 녹여낸 cott의 음악을 차곡차곡 담아보았습니다. https://t.co/m9SkTdenI3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cott",
+					"indices": [
+						1,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1445349849000382500,
+					"id_str": "1445349849000382469",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FA7qB6XVEAUypNu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA7qB6XVEAUypNu.jpg",
+					"url": "https://t.co/m9SkTdenI3",
+					"display_url": "pic.twitter.com/m9SkTdenI3",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1445349856915038215/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1414,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445349849000382500,
+					"id_str": "1445349849000382469",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FA7qB6XVEAUypNu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA7qB6XVEAUypNu.jpg",
+					"url": "https://t.co/m9SkTdenI3",
+					"display_url": "pic.twitter.com/m9SkTdenI3",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1445349856915038215/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1414,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2135,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#cott] 단독 공연 &lt;cott'smos&gt; 포스터 공개\n\n세련된 감각과 레트로한 감성을 동시에 담은\n독특한 매력의 음악을 들려주는 듀오, cott\n\n첫 단독공연 &lt;cott'smos&gt;에서는 다양한 에피소드와 섬세한 감정을 녹여낸 cott의 음악을 차곡차곡 담아보았습니다. https://t.co/m9SkTdenI3"
+	},
+	{
+		"created_at": "Tue Oct 05 11:29:31 +0000 2021",
+		"id": 1445343008870727700,
+		"id_str": "1445350432998629379",
+		"full_text": "[Concert]\n⠀\n최유리 EP앨범 발매 기념 콘서트 '여정'\n\n🌲공연일시\n11월 28일 (일) 6PM\n\n🌲공연장소\nKT&amp;G 상상마당 대치아트홀\n\n※ 본 공연은 코로나19 방역 수칙을 준수합니다.\n※ 자세한 내용은 추후 쇼파르엔터 공식 SNS 및 티켓 예매 상세 페이지를 통해 안내됩니다.\n\n#최유리 #단독콘서트 #여정 https://t.co/T7biYuARv1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최유리",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "단독콘서트",
+					"indices": [
+						173,
+						179
+					]
+				},
+				{
+					"text": "여정",
+					"indices": [
+						180,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1445337697816481800,
+					"id_str": "1445337697816481797",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FA7e-nrVEAU4VoM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA7e-nrVEAU4VoM.jpg",
+					"url": "https://t.co/T7biYuARv1",
+					"display_url": "pic.twitter.com/T7biYuARv1",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1445343008870727685/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445337697816481800,
+					"id_str": "1445337697816481797",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FA7e-nrVEAU4VoM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA7e-nrVEAU4VoM.jpg",
+					"url": "https://t.co/T7biYuARv1",
+					"display_url": "pic.twitter.com/T7biYuARv1",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1445343008870727685/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2ihRbI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2ihRbI",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7733,
+			"friends_count": 4,
+			"listed_count": 67,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4514,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1633414075",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Concert]\n⠀\n최유리 EP앨범 발매 기념 콘서트 '여정'\n\n🌲공연일시\n11월 28일 (일) 6PM\n\n🌲공연장소\nKT&amp;G 상상마당 대치아트홀\n\n※ 본 공연은 코로나19 방역 수칙을 준수합니다.\n※ 자세한 내용은 추후 쇼파르엔터 공식 SNS 및 티켓 예매 상세 페이지를 통해 안내됩니다.\n\n#최유리 #단독콘서트 #여정 https://t.co/T7biYuARv1"
+	},
+	{
 		"created_at": "Tue Oct 05 11:02:26 +0000 2021",
 		"id": 1445343618886213600,
 		"id_str": "1445343618886213638",
@@ -373,7 +1221,7 @@ Grailbird.data.tweets_2021_10 =
 		"created_at": "Tue Oct 05 10:29:31 +0000 2021",
 		"id": 1445327910458568700,
 		"id_str": "1445335333684621322",
-		"full_text": "[naru(나루) | Playlist] \n\nnaru(나루)가 그림제작소 연남점을 배경으로 한 플레이리스트를 선보일 예정입니다. [Grayed Out] 수록곡을 배경으로 수채화를 그리는 @ournaru 를 담은 이번 플레이리스트는 10/7(목) 오후 2시, 해피로봇 유튜브와 SNS를 통해 공개될 예정이니 많은 기대 부탁드립니다.👨‍🎨 https://t.co/OyL4PV9Kr7",
+		"full_text": "[naru(나루) | Playlist] \n\nnaru(나루)가 그림제작소 연남점을 배경으로 한 플레이리스트를 선보일 예정입니다. [Grayed Out] 수록곡을 배경으로 수채화를 그리는 @ournaru 를 담은 이번 플레이리스트는 10/7(목) 오후 2시, 해피로봇 유튜브와 SNS를 통해 공개될 예정이니 많은 기대 부탁드립니다.👨🎨 https://t.co/OyL4PV9Kr7",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -625,7 +1473,7 @@ Grailbird.data.tweets_2021_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[naru(나루) | Playlist] \n\nnaru(나루)가 그림제작소 연남점을 배경으로 한 플레이리스트를 선보일 예정입니다. [Grayed Out] 수록곡을 배경으로 수채화를 그리는 @ournaru 를 담은 이번 플레이리스트는 10/7(목) 오후 2시, 해피로봇 유튜브와 SNS를 통해 공개될 예정이니 많은 기대 부탁드립니다.👨‍🎨 https://t.co/OyL4PV9Kr7"
+		"text": "[naru(나루) | Playlist] \n\nnaru(나루)가 그림제작소 연남점을 배경으로 한 플레이리스트를 선보일 예정입니다. [Grayed Out] 수록곡을 배경으로 수채화를 그리는 @ournaru 를 담은 이번 플레이리스트는 10/7(목) 오후 2시, 해피로봇 유튜브와 SNS를 통해 공개될 예정이니 많은 기대 부탁드립니다.👨🎨 https://t.co/OyL4PV9Kr7"
 	},
 	{
 		"created_at": "Tue Oct 05 10:02:03 +0000 2021",
