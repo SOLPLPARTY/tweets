@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 05 04:29:30 +0000 2021",
+		"id": 1445240637628903400,
+		"id_str": "1445244734759489538",
+		"full_text": "[#Audio] #루시드폴\n\n매주 화요일 오후 12시, FLO 앱을 통해 만나 보실 수 있는 &lt;루시드폴의 사운드 제주&gt; 9회 '제주도 가을밤에 만나는 힐링 사운드'가 공개되었습니다🍂\n\n🔊https://t.co/3uvvie3F36\n\n📸 Photo by Lucid Fall\n\n@lucid_fall_jo #LucidFall\n#루시드폴의사운드제주 #FLO https://t.co/HUkqyiix6S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Audio",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "루시드폴",
+					"indices": [
+						9,
+						14
+					]
+				},
+				{
+					"text": "LucidFall",
+					"indices": [
+						173,
+						183
+					]
+				},
+				{
+					"text": "루시드폴의사운드제주",
+					"indices": [
+						184,
+						195
+					]
+				},
+				{
+					"text": "FLO",
+					"indices": [
+						196,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lucid_fall_jo",
+					"name": "Lucid Fall",
+					"id": 115856799,
+					"id_str": "115856799",
+					"indices": [
+						158,
+						172
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3uvvie3F36",
+					"expanded_url": "http://flomuz.io/s/d.mcx",
+					"display_url": "flomuz.io/s/d.mcx",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1445240620260286500,
+					"id_str": "1445240620260286464",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FA6Gr9mUYAA07or.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA6Gr9mUYAA07or.jpg",
+					"url": "https://t.co/HUkqyiix6S",
+					"display_url": "pic.twitter.com/HUkqyiix6S",
+					"expanded_url": "https://twitter.com/antennamusic/status/1445240637628903425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445240620260286500,
+					"id_str": "1445240620260286464",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FA6Gr9mUYAA07or.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA6Gr9mUYAA07or.jpg",
+					"url": "https://t.co/HUkqyiix6S",
+					"display_url": "pic.twitter.com/HUkqyiix6S",
+					"expanded_url": "https://twitter.com/antennamusic/status/1445240637628903425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445240620277121000,
+					"id_str": "1445240620277121027",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FA6Gr9qVQAMEbPq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA6Gr9qVQAMEbPq.jpg",
+					"url": "https://t.co/HUkqyiix6S",
+					"display_url": "pic.twitter.com/HUkqyiix6S",
+					"expanded_url": "https://twitter.com/antennamusic/status/1445240637628903425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1808,
+							"h": 1808,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 2021 권진아 단독 공연 '우리의 방식' 2021. 10. 01. 8PM Ticket Open!",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37158,
+			"friends_count": 10,
+			"listed_count": 376,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1626862648",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Audio] #루시드폴\n\n매주 화요일 오후 12시, FLO 앱을 통해 만나 보실 수 있는 &lt;루시드폴의 사운드 제주&gt; 9회 '제주도 가을밤에 만나는 힐링 사운드'가 공개되었습니다🍂\n\n🔊https://t.co/3uvvie3F36\n\n📸 Photo by Lucid Fall\n\n@lucid_fall_jo #LucidFall\n#루시드폴의사운드제주 #FLO https://t.co/HUkqyiix6S"
+	},
+	{
 		"created_at": "Tue Oct 05 03:29:57 +0000 2021",
 		"id": 1445228470724808700,
 		"id_str": "1445229746640539648",
