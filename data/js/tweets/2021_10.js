@@ -1,6 +1,633 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 05 11:02:26 +0000 2021",
+		"id": 1445343618886213600,
+		"id_str": "1445343618886213638",
+		"full_text": "#루비레코드 #Ruby_Records\n완전 상담사 재질로 돌아온 DJ 우예린의 고민상담 시간 🎧 ㅣ 이런 고민까지 해결해준다고?? 👀 (feat. 작사 타임까지) [루비라디오 시즌1 - 4화]\nhttps://t.co/SPP8ak5mP4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "루비레코드",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "Ruby_Records",
+					"indices": [
+						7,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SPP8ak5mP4",
+					"expanded_url": "https://youtu.be/07mniRm9sPU",
+					"display_url": "youtu.be/07mniRm9sPU",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 467,
+			"listed_count": 0,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74242,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#루비레코드 #Ruby_Records\n완전 상담사 재질로 돌아온 DJ 우예린의 고민상담 시간 🎧 ㅣ 이런 고민까지 해결해준다고?? 👀 (feat. 작사 타임까지) [루비라디오 시즌1 - 4화]\nhttps://t.co/SPP8ak5mP4"
+	},
+	{
+		"created_at": "Tue Oct 05 10:29:34 +0000 2021",
+		"id": 1445327958248280000,
+		"id_str": "1445335346800205826",
+		"full_text": "[Behind Photo]\n⠀\n최유리 '살아간다' MV 촬영 현장 비하인드 사진이 공개되었습니다. \n지금 바로 멜론 매거진에서 확인해보세요!\n⠀\n▷ https://t.co/USxlIaPBbw\n\n#최유리 #살아간다 #MV비하인드\n#여정 #Behind #멜론매거진 https://t.co/hUH8je9SrL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최유리",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "살아간다",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "MV비하인드",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"text": "여정",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "Behind",
+					"indices": [
+						131,
+						138
+					]
+				},
+				{
+					"text": "멜론매거진",
+					"indices": [
+						139,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/USxlIaPBbw",
+					"expanded_url": "http://kko.to/4jCTdSnfB",
+					"display_url": "kko.to/4jCTdSnfB",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1445327482953945000,
+					"id_str": "1445327482953945089",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FA7VsCWUUAEe_nW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA7VsCWUUAEe_nW.jpg",
+					"url": "https://t.co/hUH8je9SrL",
+					"display_url": "pic.twitter.com/hUH8je9SrL",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1445327958248280073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445327482953945000,
+					"id_str": "1445327482953945089",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FA7VsCWUUAEe_nW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA7VsCWUUAEe_nW.jpg",
+					"url": "https://t.co/hUH8je9SrL",
+					"display_url": "pic.twitter.com/hUH8je9SrL",
+					"expanded_url": "https://twitter.com/shofar_ent/status/1445327958248280073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 265792818,
+			"id_str": "265792818",
+			"name": "쇼파르엔터테인먼트",
+			"screen_name": "shofar_ent",
+			"location": "",
+			"description": "SHOFAR ENTERTAINMENT Official Twitter",
+			"url": "https://t.co/zzQk2ihRbI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zzQk2ihRbI",
+							"expanded_url": "http://shofar-ent.com/",
+							"display_url": "shofar-ent.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7733,
+			"friends_count": 4,
+			"listed_count": 67,
+			"created_at": "Mon Mar 14 04:31:00 +0000 2011",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4514,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380084076573417474/i-NclciR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/265792818/1633414075",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Behind Photo]\n⠀\n최유리 '살아간다' MV 촬영 현장 비하인드 사진이 공개되었습니다. \n지금 바로 멜론 매거진에서 확인해보세요!\n⠀\n▷ https://t.co/USxlIaPBbw\n\n#최유리 #살아간다 #MV비하인드\n#여정 #Behind #멜론매거진 https://t.co/hUH8je9SrL"
+	},
+	{
+		"created_at": "Tue Oct 05 10:29:31 +0000 2021",
+		"id": 1445327910458568700,
+		"id_str": "1445335333684621322",
+		"full_text": "[naru(나루) | Playlist] \n\nnaru(나루)가 그림제작소 연남점을 배경으로 한 플레이리스트를 선보일 예정입니다. [Grayed Out] 수록곡을 배경으로 수채화를 그리는 @ournaru 를 담은 이번 플레이리스트는 10/7(목) 오후 2시, 해피로봇 유튜브와 SNS를 통해 공개될 예정이니 많은 기대 부탁드립니다.👨‍🎨 https://t.co/OyL4PV9Kr7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ournaru",
+					"name": "naru(나루) Grayed Out 홍보모드",
+					"id": 726397953280077800,
+					"id_str": "726397953280077825",
+					"indices": [
+						103,
+						111
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1445294178397614000,
+					"id_str": "1445294178397614080",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FA63ZdNUcAA7B0P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA63ZdNUcAA7B0P.jpg",
+					"url": "https://t.co/OyL4PV9Kr7",
+					"display_url": "pic.twitter.com/OyL4PV9Kr7",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1445327910458568704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445294178397614000,
+					"id_str": "1445294178397614080",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FA63ZdNUcAA7B0P.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA63ZdNUcAA7B0P.jpg",
+					"url": "https://t.co/OyL4PV9Kr7",
+					"display_url": "pic.twitter.com/OyL4PV9Kr7",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1445327910458568704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445294178594816000,
+					"id_str": "1445294178594816000",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FA63Zd8VgAA_KLB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA63Zd8VgAA_KLB.jpg",
+					"url": "https://t.co/OyL4PV9Kr7",
+					"display_url": "pic.twitter.com/OyL4PV9Kr7",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1445327910458568704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445294178850594800,
+					"id_str": "1445294178850594820",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FA63Ze5UYAQpYCA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA63Ze5UYAQpYCA.jpg",
+					"url": "https://t.co/OyL4PV9Kr7",
+					"display_url": "pic.twitter.com/OyL4PV9Kr7",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1445327910458568704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), LambC(램씨), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbKMln",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbKMln",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13008,
+			"friends_count": 1937,
+			"listed_count": 254,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[naru(나루) | Playlist] \n\nnaru(나루)가 그림제작소 연남점을 배경으로 한 플레이리스트를 선보일 예정입니다. [Grayed Out] 수록곡을 배경으로 수채화를 그리는 @ournaru 를 담은 이번 플레이리스트는 10/7(목) 오후 2시, 해피로봇 유튜브와 SNS를 통해 공개될 예정이니 많은 기대 부탁드립니다.👨‍🎨 https://t.co/OyL4PV9Kr7"
+	},
+	{
 		"created_at": "Tue Oct 05 10:02:03 +0000 2021",
 		"id": 1445328424319529000,
 		"id_str": "1445328424319528967",
