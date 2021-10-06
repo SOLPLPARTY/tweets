@@ -1,10 +1,338 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 06 15:29:26 +0000 2021",
+		"id": 1445765803068969000,
+		"id_str": "1445773197253566482",
+		"full_text": "Raiden The 1st Mini Album ‘Love Right Back’ \n\n➫ 2021.10.11 6PM (KST)\n\n#Raiden #레이든 #Love_Right_Back \n#태일 #TAEIL #NCT127 #NCT \n@raidenmusic @NCTsmtown_127 @NCTsmtown https://t.co/GpkBeE8QsB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Raiden",
+					"indices": [
+						70,
+						77
+					]
+				},
+				{
+					"text": "레이든",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "Love_Right_Back",
+					"indices": [
+						83,
+						99
+					]
+				},
+				{
+					"text": "태일",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "TAEIL",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						120,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "raidenmusic",
+					"name": "Raiden",
+					"id": 2810956860,
+					"id_str": "2810956860",
+					"indices": [
+						126,
+						138
+					]
+				},
+				{
+					"screen_name": "NCTsmtown_127",
+					"name": "NCT 127",
+					"id": 869875390465982500,
+					"id_str": "869875390465982465",
+					"indices": [
+						139,
+						153
+					]
+				},
+				{
+					"screen_name": "NCTsmtown",
+					"name": "NCT",
+					"id": 4811011050,
+					"id_str": "4811011050",
+					"indices": [
+						154,
+						164
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1445723931688669200,
+					"id_str": "1445723931688669197",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FBA-QY-VkA0ESNO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBA-QY-VkA0ESNO.jpg",
+					"url": "https://t.co/GpkBeE8QsB",
+					"display_url": "pic.twitter.com/GpkBeE8QsB",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1445765803068968974/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445723931688669200,
+					"id_str": "1445723931688669197",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FBA-QY-VkA0ESNO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBA-QY-VkA0ESNO.jpg",
+					"url": "https://t.co/GpkBeE8QsB",
+					"display_url": "pic.twitter.com/GpkBeE8QsB",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1445765803068968974/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445723931705430000,
+					"id_str": "1445723931705430017",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FBA-QZCVUAEfho2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBA-QZCVUAEfho2.jpg",
+					"url": "https://t.co/GpkBeE8QsB",
+					"display_url": "pic.twitter.com/GpkBeE8QsB",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1445765803068968974/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445723931709608000,
+					"id_str": "1445723931709607942",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FBA-QZDVEAYsI6e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBA-QZDVEAYsI6e.jpg",
+					"url": "https://t.co/GpkBeE8QsB",
+					"display_url": "pic.twitter.com/GpkBeE8QsB",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1445765803068968974/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9952435,
+			"friends_count": 55,
+			"listed_count": 10710,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10882,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28840,
+		"favorite_count": 55018,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Raiden The 1st Mini Album ‘Love Right Back’ \n\n➫ 2021.10.11 6PM (KST)\n\n#Raiden #레이든 #Love_Right_Back \n#태일 #TAEIL #NCT127 #NCT \n@raidenmusic @NCTsmtown_127 @NCTsmtown https://t.co/GpkBeE8QsB"
+	},
+	{
 		"created_at": "Wed Oct 06 11:32:45 +0000 2021",
 		"id": 1445713635930607600,
 		"id_str": "1445713635930607634",
-		"full_text": "#루비레코드 #Ruby_Records\n하나의 음반이 만들어지기 까지 : \"장덕\"의 발자취를 따라가다 🙎🏻‍♀ㅣ장덕이라는 이름으로 인연이 되었어요.\nhttps://t.co/z3atOY2yAB",
+		"full_text": "#루비레코드 #Ruby_Records\n하나의 음반이 만들어지기 까지 : \"장덕\"의 발자취를 따라가다 🙎🏻♀ㅣ장덕이라는 이름으로 인연이 되었어요.\nhttps://t.co/z3atOY2yAB",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -139,7 +467,7 @@ Grailbird.data.tweets_2021_10 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#루비레코드 #Ruby_Records\n하나의 음반이 만들어지기 까지 : \"장덕\"의 발자취를 따라가다 🙎🏻‍♀ㅣ장덕이라는 이름으로 인연이 되었어요.\nhttps://t.co/z3atOY2yAB"
+		"text": "#루비레코드 #Ruby_Records\n하나의 음반이 만들어지기 까지 : \"장덕\"의 발자취를 따라가다 🙎🏻♀ㅣ장덕이라는 이름으로 인연이 되었어요.\nhttps://t.co/z3atOY2yAB"
 	},
 	{
 		"created_at": "Wed Oct 06 11:32:45 +0000 2021",
