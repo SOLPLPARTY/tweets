@@ -1,6 +1,970 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 06 03:11:21 +0000 2021",
+		"id": 1445584597375504400,
+		"id_str": "1445587452945596425",
+		"full_text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁\n⠀\n&lt;해리빅버튼 데뷔 10주년 기념 앵콜 콘서트&gt;\n· 일시 : 2021년 10월 24일 (일) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : 해리빅버튼\n· 예매 :🍈멜론티켓 https://t.co/MUgxymFKav\n \n#해리빅버튼 #harrybigbutton\n#롤링홀 #멜론티켓 #공연 https://t.co/bfSDcw2BmH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "해리빅버튼",
+					"indices": [
+						162,
+						168
+					]
+				},
+				{
+					"text": "harrybigbutton",
+					"indices": [
+						169,
+						184
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						185,
+						189
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						190,
+						195
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						196,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MUgxymFKav",
+					"expanded_url": "https://bit.ly/3F8rCfg",
+					"display_url": "bit.ly/3F8rCfg",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1442743267070668800,
+					"id_str": "1442743267070668804",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1442743267070668804/pu/img/kSnoyAE1nrLfKK1a.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1442743267070668804/pu/img/kSnoyAE1nrLfKK1a.jpg",
+					"url": "https://t.co/bfSDcw2BmH",
+					"display_url": "pic.twitter.com/bfSDcw2BmH",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1445584597375504384/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1442743267070668800,
+					"id_str": "1442743267070668804",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1442743267070668804/pu/img/kSnoyAE1nrLfKK1a.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1442743267070668804/pu/img/kSnoyAE1nrLfKK1a.jpg",
+					"url": "https://t.co/bfSDcw2BmH",
+					"display_url": "pic.twitter.com/bfSDcw2BmH",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1445584597375504384/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3010,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1442743267070668804/pu/vid/720x720/1qiXO0AJ1OVPTQeA.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1442743267070668804/pu/vid/320x320/wfm61GbD3qImdAjr.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1442743267070668804/pu/vid/540x540/Qsd-9kwUQ1Rh7t0_.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1442743267070668804/pu/pl/1NVxXC_bzFna9yWA.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 208,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁\n⠀\n&lt;해리빅버튼 데뷔 10주년 기념 앵콜 콘서트&gt;\n· 일시 : 2021년 10월 24일 (일) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : 해리빅버튼\n· 예매 :🍈멜론티켓 https://t.co/MUgxymFKav\n \n#해리빅버튼 #harrybigbutton\n#롤링홀 #멜론티켓 #공연 https://t.co/bfSDcw2BmH"
+	},
+	{
+		"created_at": "Wed Oct 06 03:11:16 +0000 2021",
+		"id": 1445584597119606800,
+		"id_str": "1445587435283386374",
+		"full_text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁\n\n&lt;BOYHOOD(남동현) 단독 콘서트 : #4 DREAM&gt;\n· 일시 : 2021년 10월 17일 (일) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : BOYHOOD(남동현)\n· 예매 :🍈멜론티켓 https://t.co/p4Xr56EQlR\n\n#BOYHOOD #보이후드 #남동현\n#롤링홀 #공연 #멜론티켓 https://t.co/TXabFYusJh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BOYHOOD",
+					"indices": [
+						174,
+						182
+					]
+				},
+				{
+					"text": "보이후드",
+					"indices": [
+						183,
+						188
+					]
+				},
+				{
+					"text": "남동현",
+					"indices": [
+						189,
+						193
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						194,
+						198
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						199,
+						202
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						203,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p4Xr56EQlR",
+					"expanded_url": "https://bit.ly/3F3Vw4b",
+					"display_url": "bit.ly/3F3Vw4b",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1443484367511113700,
+					"id_str": "1443484367511113730",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1443484367511113730/pu/img/YPYa3KyDcklA0ZOX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1443484367511113730/pu/img/YPYa3KyDcklA0ZOX.jpg",
+					"url": "https://t.co/TXabFYusJh",
+					"display_url": "pic.twitter.com/TXabFYusJh",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1445584597119606784/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1443484367511113700,
+					"id_str": "1443484367511113730",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1443484367511113730/pu/img/YPYa3KyDcklA0ZOX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1443484367511113730/pu/img/YPYa3KyDcklA0ZOX.jpg",
+					"url": "https://t.co/TXabFYusJh",
+					"display_url": "pic.twitter.com/TXabFYusJh",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1445584597119606784/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 3010,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1443484367511113730/pu/pl/9kct_F4wH9Lp8p5e.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1443484367511113730/pu/vid/320x320/VpjmdTb19ztvoF6q.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1443484367511113730/pu/vid/720x720/SIIObyylszOCRcsY.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1443484367511113730/pu/vid/540x540/9KpNhMi5mgA0NVL_.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 208,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 𝗧𝗶𝗰𝗸𝗲𝘁 𝗢𝗽𝗲𝗻 - 𝗣𝗠 𝟴 𝗠𝗲𝗹𝗼𝗻 𝗧𝗶𝗰𝗸𝗲𝘁\n\n&lt;BOYHOOD(남동현) 단독 콘서트 : #4 DREAM&gt;\n· 일시 : 2021년 10월 17일 (일) 오후 5시\n· 장소 : 롤링홀 \n· 출연 : BOYHOOD(남동현)\n· 예매 :🍈멜론티켓 https://t.co/p4Xr56EQlR\n\n#BOYHOOD #보이후드 #남동현\n#롤링홀 #공연 #멜론티켓 https://t.co/TXabFYusJh"
+	},
+	{
+		"created_at": "Wed Oct 06 02:29:35 +0000 2021",
+		"id": 1445573383937151000,
+		"id_str": "1445576943756263424",
+		"full_text": "장기하가 두 곡의 노래로 참여한 영화 &lt;행복의 나라로&gt; (감독: 임상수) 가 오늘 부산국제영화제 개막작으로 상영됩니다 https://t.co/5ZffbA2sO5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1445571755091759000,
+					"id_str": "1445571755091759109",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FA-z2i-VEAUPnH0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA-z2i-VEAUPnH0.jpg",
+					"url": "https://t.co/5ZffbA2sO5",
+					"display_url": "pic.twitter.com/5ZffbA2sO5",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1445573383937150980/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445571755091759000,
+					"id_str": "1445571755091759109",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FA-z2i-VEAUPnH0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA-z2i-VEAUPnH0.jpg",
+					"url": "https://t.co/5ZffbA2sO5",
+					"display_url": "pic.twitter.com/5ZffbA2sO5",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1445573383937150980/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445571774553342000,
+					"id_str": "1445571774553341963",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FA-z3reVQAs_HwO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA-z3reVQAs_HwO.jpg",
+					"url": "https://t.co/5ZffbA2sO5",
+					"display_url": "pic.twitter.com/5ZffbA2sO5",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1445573383937150980/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445571791741542400,
+					"id_str": "1445571791741542409",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FA-z4rgUYAkbr6K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA-z4rgUYAkbr6K.jpg",
+					"url": "https://t.co/5ZffbA2sO5",
+					"display_url": "pic.twitter.com/5ZffbA2sO5",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1445573383937150980/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445571808481054700,
+					"id_str": "1445571808481054727",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FA-z5p3VEAclYVL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA-z5p3VEAclYVL.jpg",
+					"url": "https://t.co/5ZffbA2sO5",
+					"display_url": "pic.twitter.com/5ZffbA2sO5",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1445573383937150980/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3920,
+			"friends_count": 8,
+			"listed_count": 84,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "장기하가 두 곡의 노래로 참여한 영화 &lt;행복의 나라로&gt; (감독: 임상수) 가 오늘 부산국제영화제 개막작으로 상영됩니다 https://t.co/5ZffbA2sO5"
+	},
+	{
+		"created_at": "Wed Oct 06 02:29:29 +0000 2021",
+		"id": 1445572206579224600,
+		"id_str": "1445576917814419468",
+		"full_text": "[NEWS] #권혁수 X신규진, 웹예능 '벤자민권의 상상은 현실이 된다' 10월 8일 첫 공개\n\n👉 https://t.co/XW6izqxTXb\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #벤자민권의_상상은현실이된다 #가치삽시다TV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						7,
+						11
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						81,
+						93
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						101,
+						115
+					]
+				},
+				{
+					"text": "벤자민권의_상상은현실이된다",
+					"indices": [
+						116,
+						131
+					]
+				},
+				{
+					"text": "가치삽시다TV",
+					"indices": [
+						132,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XW6izqxTXb",
+					"expanded_url": "http://naver.me/F6msDNo5",
+					"display_url": "naver.me/F6msDNo5",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 373,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 339,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEWS] #권혁수 X신규진, 웹예능 '벤자민권의 상상은 현실이 된다' 10월 8일 첫 공개\n\n👉 https://t.co/XW6izqxTXb\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #벤자민권의_상상은현실이된다 #가치삽시다TV"
+	},
+	{
 		"created_at": "Wed Oct 06 01:29:24 +0000 2021",
 		"id": 1445558747531661300,
 		"id_str": "1445561799860887565",
