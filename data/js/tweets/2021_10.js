@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 06 05:58:14 +0000 2021",
+		"id": 1445614796448092200,
+		"id_str": "1445629453934030855",
+		"full_text": "KCON:TACT HI 5 FanPick Cam &lt;CENTER CAM&gt; VOD DAY 3 💌\n🔗 https://t.co/nTnsUtKCeq\n#ATEEZ #Ciipher #MAMAOO #WOODZ https://t.co/C7MjXxasRT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ATEEZ",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "Ciipher",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "MAMAOO",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "WOODZ",
+					"indices": [
+						108,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nTnsUtKCeq",
+					"expanded_url": "http://bit.ly/KCONTACT_PREMIUM_VOD",
+					"display_url": "bit.ly/KCONTACT_PREMI…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1445208660943130600,
+					"id_str": "1445208660943130626",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FA5pnr3VUAIn8WU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA5pnr3VUAIn8WU.jpg",
+					"url": "https://t.co/C7MjXxasRT",
+					"display_url": "pic.twitter.com/C7MjXxasRT",
+					"expanded_url": "https://twitter.com/KCON_official/status/1445614796448092160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445208660943130600,
+					"id_str": "1445208660943130626",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FA5pnr3VUAIn8WU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA5pnr3VUAIn8WU.jpg",
+					"url": "https://t.co/C7MjXxasRT",
+					"display_url": "pic.twitter.com/C7MjXxasRT",
+					"expanded_url": "https://twitter.com/KCON_official/status/1445614796448092160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445208661077344300,
+					"id_str": "1445208661077344261",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FA5pnsXVQAU02lV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA5pnsXVQAU02lV.jpg",
+					"url": "https://t.co/C7MjXxasRT",
+					"display_url": "pic.twitter.com/C7MjXxasRT",
+					"expanded_url": "https://twitter.com/KCON_official/status/1445614796448092160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445208661198999600,
+					"id_str": "1445208661198999556",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FA5pns0VkAQXrP8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA5pns0VkAQXrP8.jpg",
+					"url": "https://t.co/C7MjXxasRT",
+					"display_url": "pic.twitter.com/C7MjXxasRT",
+					"expanded_url": "https://twitter.com/KCON_official/status/1445614796448092160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445208661324750800,
+					"id_str": "1445208661324750848",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FA5pntSUYAAySZZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA5pntSUYAAySZZ.jpg",
+					"url": "https://t.co/C7MjXxasRT",
+					"display_url": "pic.twitter.com/C7MjXxasRT",
+					"expanded_url": "https://twitter.com/KCON_official/status/1445614796448092160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 413853,
+			"friends_count": 75,
+			"listed_count": 1026,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 812,
+		"favorite_count": 2897,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KCON:TACT HI 5 FanPick Cam &lt;CENTER CAM&gt; VOD DAY 3 💌\n🔗 https://t.co/nTnsUtKCeq\n#ATEEZ #Ciipher #MAMAOO #WOODZ https://t.co/C7MjXxasRT"
+	},
+	{
 		"created_at": "Wed Oct 06 03:37:17 +0000 2021",
 		"id": 1445593980293435400,
 		"id_str": "1445593980293435393",
