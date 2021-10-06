@@ -1,6 +1,815 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 06 11:11:17 +0000 2021",
+		"id": 1445701911798157300,
+		"id_str": "1445708233604222976",
+		"full_text": "[시공간집 4] 첫째 날의 아름다운 풍경\n\n흐린 오후, 어느 순간 쨍- 찾아온 햇빛✨\n\n#재미공작소 #시공간집 #시공간집4 #김승일 #김유림 #문보영 #배수연 #백은선 #안미옥 #이설빈 #이소호 #이혜미 #유이우 #2021문래창작촌지원사업MEET https://t.co/mzfNQUG49y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "재미공작소",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "시공간집",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "시공간집4",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "김승일",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "김유림",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "문보영",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "배수연",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "백은선",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "안미옥",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "이설빈",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "이소호",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "이혜미",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "유이우",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "2021문래창작촌지원사업MEET",
+					"indices": [
+						119,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1445701899424993300,
+					"id_str": "1445701899424993284",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FBAqN8ZVkAQOdYI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBAqN8ZVkAQOdYI.jpg",
+					"url": "https://t.co/mzfNQUG49y",
+					"display_url": "pic.twitter.com/mzfNQUG49y",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1445701911798157323/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1712,
+							"h": 1712,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445701899424993300,
+					"id_str": "1445701899424993284",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/FBAqN8ZVkAQOdYI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBAqN8ZVkAQOdYI.jpg",
+					"url": "https://t.co/mzfNQUG49y",
+					"display_url": "pic.twitter.com/mzfNQUG49y",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1445701911798157323/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1712,
+							"h": 1712,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1445364335170125800,
+		"in_reply_to_status_id_str": "1445364335170125825",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8397,
+			"friends_count": 554,
+			"listed_count": 84,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[시공간집 4] 첫째 날의 아름다운 풍경\n\n흐린 오후, 어느 순간 쨍- 찾아온 햇빛✨\n\n#재미공작소 #시공간집 #시공간집4 #김승일 #김유림 #문보영 #배수연 #백은선 #안미옥 #이설빈 #이소호 #이혜미 #유이우 #2021문래창작촌지원사업MEET https://t.co/mzfNQUG49y"
+	},
+	{
+		"created_at": "Wed Oct 06 10:54:14 +0000 2021",
+		"id": 1445703943217049600,
+		"id_str": "1445703943217049604",
+		"full_text": "#EBS스페이스공감 #스페이스공감 #공감 \n[EBS 스페이스 공감] 선공개 영상 ADOY - Wonder\nhttps://t.co/sSz0NoEF3O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EBS스페이스공감",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "스페이스공감",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"text": "공감",
+					"indices": [
+						19,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sSz0NoEF3O",
+					"expanded_url": "https://youtu.be/52B2mrKeKbM",
+					"display_url": "youtu.be/52B2mrKeKbM",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#EBS스페이스공감 #스페이스공감 #공감 \n[EBS 스페이스 공감] 선공개 영상 ADOY - Wonder\nhttps://t.co/sSz0NoEF3O"
+	},
+	{
+		"created_at": "Wed Oct 06 10:29:38 +0000 2021",
+		"id": 1445697505346211800,
+		"id_str": "1445697753204477957",
+		"full_text": "우여곡절끝에 탄생한 축제이후, 두아리파! J에게? 단체삐짐&amp;깊은빡침 [로칼리카 펜타포트 언오피셜] 풀버전이 궁금하다면 🔽루비튜브 업로드 된 로칼리카 : 펜타포트 언오피셜 에피소드 1-2 풀 영상을 확인하세요\n출연 : 성우진 &amp; 크래쉬 안흥찬\n\nhttps://t.co/y6rNJSS4de",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y6rNJSS4de",
+					"expanded_url": "https://youtu.be/Fh86f3RZrDE",
+					"display_url": "youtu.be/Fh86f3RZrDE",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7675,
+			"friends_count": 8355,
+			"listed_count": 198,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우여곡절끝에 탄생한 축제이후, 두아리파! J에게? 단체삐짐&amp;깊은빡침 [로칼리카 펜타포트 언오피셜] 풀버전이 궁금하다면 🔽루비튜브 업로드 된 로칼리카 : 펜타포트 언오피셜 에피소드 1-2 풀 영상을 확인하세요\n출연 : 성우진 &amp; 크래쉬 안흥찬\n\nhttps://t.co/y6rNJSS4de"
+	},
+	{
+		"created_at": "Wed Oct 06 10:29:29 +0000 2021",
+		"id": 1445691143669239800,
+		"id_str": "1445697714608492555",
+		"full_text": "[#Post] #유희열 #이진아 #적재\n\n[유희열&amp;이진아&amp;적재] - 광고 촬영 현장 비하인드컷!\n\n🔗https://t.co/tCzzPJwybq\n\n#YouHeeYul #LeeJinAh #Jukjae\n#빙그레 #요플레 #토핑뮤직 #토핑 #비하인드 https://t.co/6u2RO1aLJ0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Post",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "유희열",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "이진아",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						18,
+						21
+					]
+				},
+				{
+					"text": "YouHeeYul",
+					"indices": [
+						89,
+						99
+					]
+				},
+				{
+					"text": "LeeJinAh",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "빙그레",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "요플레",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "토핑뮤직",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "토핑",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						138,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tCzzPJwybq",
+					"expanded_url": "http://naver.me/xUSC3Vb0",
+					"display_url": "naver.me/xUSC3Vb0",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1445691139684585500,
+					"id_str": "1445691139684585472",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FBAgbpPUUAA7rYJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBAgbpPUUAA7rYJ.jpg",
+					"url": "https://t.co/6u2RO1aLJ0",
+					"display_url": "pic.twitter.com/6u2RO1aLJ0",
+					"expanded_url": "https://twitter.com/antennamusic/status/1445691143669239815/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445691139684585500,
+					"id_str": "1445691139684585472",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FBAgbpPUUAA7rYJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBAgbpPUUAA7rYJ.jpg",
+					"url": "https://t.co/6u2RO1aLJ0",
+					"display_url": "pic.twitter.com/6u2RO1aLJ0",
+					"expanded_url": "https://twitter.com/antennamusic/status/1445691143669239815/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 정재형 HOME Project Single ‘The Wave’ 2021. 10. 07. 12PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37184,
+			"friends_count": 10,
+			"listed_count": 375,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4006,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1633425267",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Post] #유희열 #이진아 #적재\n\n[유희열&amp;이진아&amp;적재] - 광고 촬영 현장 비하인드컷!\n\n🔗https://t.co/tCzzPJwybq\n\n#YouHeeYul #LeeJinAh #Jukjae\n#빙그레 #요플레 #토핑뮤직 #토핑 #비하인드 https://t.co/6u2RO1aLJ0"
+	},
+	{
 		"created_at": "Wed Oct 06 10:12:44 +0000 2021",
 		"id": 1445693497697128400,
 		"id_str": "1445693497697128459",
