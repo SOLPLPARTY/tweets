@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 06 01:29:24 +0000 2021",
+		"id": 1445558747531661300,
+		"id_str": "1445561799860887565",
+		"full_text": "CHOI SIWON’s character poster for the TVING original series ‘술꾼도시여자들’ has been revealed! \nDrama ‘술꾼도시여자들’ to be unveiled on TVING on 10/22!\n\n#최시원 #CHOISIWON \n#시원 #SIWON \n#슈퍼주니어 #SUPERJUNIOR\n#술꾼도시여자들 https://t.co/wDZzObAR0F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최시원",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "CHOISIWON",
+					"indices": [
+						146,
+						156
+					]
+				},
+				{
+					"text": "시원",
+					"indices": [
+						158,
+						161
+					]
+				},
+				{
+					"text": "SIWON",
+					"indices": [
+						162,
+						168
+					]
+				},
+				{
+					"text": "슈퍼주니어",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						177,
+						189
+					]
+				},
+				{
+					"text": "술꾼도시여자들",
+					"indices": [
+						190,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1445558556766326800,
+					"id_str": "1445558556766326794",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FA-n2TYVUAo0Q9g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA-n2TYVUAo0Q9g.jpg",
+					"url": "https://t.co/wDZzObAR0F",
+					"display_url": "pic.twitter.com/wDZzObAR0F",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1445558747531661318/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 842,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1403,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 477,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445558556766326800,
+					"id_str": "1445558556766326794",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FA-n2TYVUAo0Q9g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA-n2TYVUAo0Q9g.jpg",
+					"url": "https://t.co/wDZzObAR0F",
+					"display_url": "pic.twitter.com/wDZzObAR0F",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1445558747531661318/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 842,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1403,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 477,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9950516,
+			"friends_count": 55,
+			"listed_count": 10710,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 872,
+		"favorite_count": 3197,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "CHOI SIWON’s character poster for the TVING original series ‘술꾼도시여자들’ has been revealed! \nDrama ‘술꾼도시여자들’ to be unveiled on TVING on 10/22!\n\n#최시원 #CHOISIWON \n#시원 #SIWON \n#슈퍼주니어 #SUPERJUNIOR\n#술꾼도시여자들 https://t.co/wDZzObAR0F"
+	},
+	{
 		"created_at": "Tue Oct 05 16:29:25 +0000 2021",
 		"id": 1445412058510475300,
 		"id_str": "1445425904956620805",
