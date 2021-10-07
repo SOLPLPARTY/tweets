@@ -1,6 +1,498 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 07 06:29:35 +0000 2021",
+		"id": 1445990280969089000,
+		"id_str": "1445999727758258177",
+		"full_text": "[News]\n\n부산의 펑크 밴드 소음발광이 정규 앨범 [기쁨, 꽃]을 발매했습니다. 세이수미의 김병규가 프로듀서를 맡았으며 질주하는 순간에도 태양과 초록의 힘이 느껴지는 기쁘고 꽃처럼 피어나는 음반입니다.\nhttps://t.co/Lz5xf4njgQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Lz5xf4njgQ",
+					"expanded_url": "https://youtu.be/2kt0GaFxBVs",
+					"display_url": "youtu.be/2kt0GaFxBVs",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/P2V4wFkAko",
+			"url": "https://t.co/oAPJfxeB46",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAPJfxeB46",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P2V4wFkAko",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 460,
+			"friends_count": 24,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 640,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[News]\n\n부산의 펑크 밴드 소음발광이 정규 앨범 [기쁨, 꽃]을 발매했습니다. 세이수미의 김병규가 프로듀서를 맡았으며 질주하는 순간에도 태양과 초록의 힘이 느껴지는 기쁘고 꽃처럼 피어나는 음반입니다.\nhttps://t.co/Lz5xf4njgQ"
+	},
+	{
+		"created_at": "Thu Oct 07 06:29:31 +0000 2021",
+		"id": 1445989525856030700,
+		"id_str": "1445999710469337093",
+		"full_text": "지난 회차에서 안내해 드렸듯이 앞으로 &lt;오지은의 이런 나라도 떠나고 싶다&gt;는 오디오e지식을 통해서 공개되며, 구독 서비스 신청 후 감상하실 수 있습니다!\n\n#오지은 #이나떠 #이런나라도떠나고싶다 #라디오 #ebs #오디오e지식 #여행",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오지은",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "이나떠",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "이런나라도떠나고싶다",
+					"indices": [
+						103,
+						114
+					]
+				},
+				{
+					"text": "라디오",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "ebs",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "오디오e지식",
+					"indices": [
+						125,
+						132
+					]
+				},
+				{
+					"text": "여행",
+					"indices": [
+						133,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1445989479597031400,
+		"in_reply_to_status_id_str": "1445989479597031427",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2135,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "지난 회차에서 안내해 드렸듯이 앞으로 &lt;오지은의 이런 나라도 떠나고 싶다&gt;는 오디오e지식을 통해서 공개되며, 구독 서비스 신청 후 감상하실 수 있습니다!\n\n#오지은 #이나떠 #이런나라도떠나고싶다 #라디오 #ebs #오디오e지식 #여행"
+	},
+	{
+		"created_at": "Thu Oct 07 06:29:24 +0000 2021",
+		"id": 1445989479597031400,
+		"id_str": "1445999684812738562",
+		"full_text": "[#오지은] 오디오e지식 &lt;오지은의 이런 나라도 떠나고 싶다&gt;\n\n다양한 여행 에피소드를 들려주는 &lt;오지은의 이런 나라도 떠나고 싶다&gt; 송출 플랫폼이 변경되었음을 알려드립니다.\n\n📍EBS FM 오디오 천국, 팟빵, 팟캐스트 -&gt; 오디오e지식\n📍구독 서비스 신청 및 감상 링크\nhttps://t.co/42O6rfRjQ5 https://t.co/b3wQ22ADGE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오지은",
+					"indices": [
+						1,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/42O6rfRjQ5",
+					"expanded_url": "https://bit.ly/2ZYGpsF",
+					"display_url": "bit.ly/2ZYGpsF",
+					"indices": [
+						168,
+						191
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1445989475398553600,
+					"id_str": "1445989475398553601",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FBEvxEYVkAEtKnY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBEvxEYVkAEtKnY.jpg",
+					"url": "https://t.co/b3wQ22ADGE",
+					"display_url": "pic.twitter.com/b3wQ22ADGE",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1445989479597031427/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 425,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 425,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 425,
+							"h": 425,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445989475398553600,
+					"id_str": "1445989475398553601",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FBEvxEYVkAEtKnY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBEvxEYVkAEtKnY.jpg",
+					"url": "https://t.co/b3wQ22ADGE",
+					"display_url": "pic.twitter.com/b3wQ22ADGE",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1445989479597031427/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 425,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 425,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 425,
+							"h": 425,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445989475390136300,
+					"id_str": "1445989475390136325",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FBEvxEWVIAUZwQg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBEvxEWVIAUZwQg.jpg",
+					"url": "https://t.co/b3wQ22ADGE",
+					"display_url": "pic.twitter.com/b3wQ22ADGE",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1445989479597031427/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 425,
+							"h": 425,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 425,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 425,
+							"h": 425,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2135,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#오지은] 오디오e지식 &lt;오지은의 이런 나라도 떠나고 싶다&gt;\n\n다양한 여행 에피소드를 들려주는 &lt;오지은의 이런 나라도 떠나고 싶다&gt; 송출 플랫폼이 변경되었음을 알려드립니다.\n\n📍EBS FM 오디오 천국, 팟빵, 팟캐스트 -&gt; 오디오e지식\n📍구독 서비스 신청 및 감상 링크\nhttps://t.co/42O6rfRjQ5 https://t.co/b3wQ22ADGE"
+	},
+	{
 		"created_at": "Thu Oct 07 06:11:19 +0000 2021",
 		"id": 1445990594019401700,
 		"id_str": "1445995130469576709",
