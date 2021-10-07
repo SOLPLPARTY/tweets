@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 07 13:29:34 +0000 2021",
+		"id": 1446092775678611500,
+		"id_str": "1446105420683255811",
+		"full_text": "Melon ▶ https://t.co/cL7lvHTlE2\nGenie ▶ https://t.co/WavuHQYrFA\nBugs ▶ https://t.co/e1seX8sV3M\nFLO ▶ https://t.co/mDSYxUAR60\nVIBE ▶ https://t.co/EsofI6h2Lh\nApple Music ▶ https://t.co/kls0cJcy3c\nYT Music ▶ https://t.co/h2WHv9rMDD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cL7lvHTlE2",
+					"expanded_url": "https://bit.ly/3oFhxR5",
+					"display_url": "bit.ly/3oFhxR5",
+					"indices": [
+						8,
+						31
+					]
+				},
+				{
+					"url": "https://t.co/WavuHQYrFA",
+					"expanded_url": "https://bit.ly/2YoDxVL",
+					"display_url": "bit.ly/2YoDxVL",
+					"indices": [
+						40,
+						63
+					]
+				},
+				{
+					"url": "https://t.co/e1seX8sV3M",
+					"expanded_url": "https://bit.ly/303MAfb",
+					"display_url": "bit.ly/303MAfb",
+					"indices": [
+						71,
+						94
+					]
+				},
+				{
+					"url": "https://t.co/mDSYxUAR60",
+					"expanded_url": "https://bit.ly/3lkLyUl",
+					"display_url": "bit.ly/3lkLyUl",
+					"indices": [
+						101,
+						124
+					]
+				},
+				{
+					"url": "https://t.co/EsofI6h2Lh",
+					"expanded_url": "https://bit.ly/3iEx3sq",
+					"display_url": "bit.ly/3iEx3sq",
+					"indices": [
+						132,
+						155
+					]
+				},
+				{
+					"url": "https://t.co/kls0cJcy3c",
+					"expanded_url": "https://apple.co/3DnAkVf",
+					"display_url": "apple.co/3DnAkVf",
+					"indices": [
+						170,
+						193
+					]
+				},
+				{
+					"url": "https://t.co/h2WHv9rMDD",
+					"expanded_url": "https://bit.ly/3DhVCDx",
+					"display_url": "bit.ly/3DhVCDx",
+					"indices": [
+						205,
+						228
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1446091906547474400,
+		"in_reply_to_status_id_str": "1446091906547474432",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2135,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Melon ▶ https://t.co/cL7lvHTlE2\nGenie ▶ https://t.co/WavuHQYrFA\nBugs ▶ https://t.co/e1seX8sV3M\nFLO ▶ https://t.co/mDSYxUAR60\nVIBE ▶ https://t.co/EsofI6h2Lh\nApple Music ▶ https://t.co/kls0cJcy3c\nYT Music ▶ https://t.co/h2WHv9rMDD"
+	},
+	{
 		"created_at": "Thu Oct 07 13:11:25 +0000 2021",
 		"id": 1446097980734513200,
 		"id_str": "1446100853010616325",
