@@ -1,6 +1,1029 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 07 08:11:26 +0000 2021",
+		"id": 1446022485581893600,
+		"id_str": "1446025359791693831",
+		"full_text": "[공연안내] 임헌일 단독공연 SUNSET 🌇\n가을 하늘을 닮은 임헌일의 음악과\n이날만큼은 잠시\n마음 편히 쉬어간다 해도\n아름다울 우리의 SUNSET\n\n11월의 어느 저녁에, 함께 들어요.\n\n📌 공연일시\n11.11(목) 7:30PM\n11.12(금) 7:30PM\n\n📌 티켓가격\n전석 77,000원\n\n📌 공연장소\nKT&amp;G 상상마당 라이브홀 https://t.co/hfZ0uCtXSc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446008032521953300,
+					"id_str": "1446008032521953280",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFApPDVIAAMLfC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFApPDVIAAMLfC.jpg",
+					"url": "https://t.co/hfZ0uCtXSc",
+					"display_url": "pic.twitter.com/hfZ0uCtXSc",
+					"expanded_url": "https://twitter.com/SSmadang/status/1446022485581893637/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1351,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446008032521953300,
+					"id_str": "1446008032521953280",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFApPDVIAAMLfC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFApPDVIAAMLfC.jpg",
+					"url": "https://t.co/hfZ0uCtXSc",
+					"display_url": "pic.twitter.com/hfZ0uCtXSc",
+					"expanded_url": "https://twitter.com/SSmadang/status/1446022485581893637/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1351,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17791,
+			"friends_count": 1880,
+			"listed_count": 290,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공연안내] 임헌일 단독공연 SUNSET 🌇\n가을 하늘을 닮은 임헌일의 음악과\n이날만큼은 잠시\n마음 편히 쉬어간다 해도\n아름다울 우리의 SUNSET\n\n11월의 어느 저녁에, 함께 들어요.\n\n📌 공연일시\n11.11(목) 7:30PM\n11.12(금) 7:30PM\n\n📌 티켓가격\n전석 77,000원\n\n📌 공연장소\nKT&amp;G 상상마당 라이브홀 https://t.co/hfZ0uCtXSc"
+	},
+	{
+		"created_at": "Thu Oct 07 08:11:17 +0000 2021",
+		"id": 1446010895490977800,
+		"id_str": "1446025321434779648",
+		"full_text": "📸사진가의 독립출판:출판기획📒\n▶️ 10.26 ~ 11.16 / 매주 화요일 / 19:30-21:30\n⠀\n사진 작업 또는 예비 사진 독립출판자, \n사진책 시장에 관심있는 모든 분들에게 열려있는 강의!\n사진책 독립출판의 현재 그리고 제작실무에 대한 \n가이드를 받아보세요\n⠀\n✔️ 자세한 내용은 상상마당 홍대 “아카데미” https://t.co/y8PNaZJEO7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446010777148616700,
+					"id_str": "1446010777148616706",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFDI_lUcAI9XlH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFDI_lUcAI9XlH.jpg",
+					"url": "https://t.co/y8PNaZJEO7",
+					"display_url": "pic.twitter.com/y8PNaZJEO7",
+					"expanded_url": "https://twitter.com/SSmadang/status/1446010895490977795/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446010777148616700,
+					"id_str": "1446010777148616706",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFDI_lUcAI9XlH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFDI_lUcAI9XlH.jpg",
+					"url": "https://t.co/y8PNaZJEO7",
+					"display_url": "pic.twitter.com/y8PNaZJEO7",
+					"expanded_url": "https://twitter.com/SSmadang/status/1446010895490977795/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1446010799676293000,
+					"id_str": "1446010799676293122",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFDKTgVgAIDYk2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFDKTgVgAIDYk2.jpg",
+					"url": "https://t.co/y8PNaZJEO7",
+					"display_url": "pic.twitter.com/y8PNaZJEO7",
+					"expanded_url": "https://twitter.com/SSmadang/status/1446010895490977795/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17791,
+			"friends_count": 1880,
+			"listed_count": 290,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📸사진가의 독립출판:출판기획📒\n▶️ 10.26 ~ 11.16 / 매주 화요일 / 19:30-21:30\n⠀\n사진 작업 또는 예비 사진 독립출판자, \n사진책 시장에 관심있는 모든 분들에게 열려있는 강의!\n사진책 독립출판의 현재 그리고 제작실무에 대한 \n가이드를 받아보세요\n⠀\n✔️ 자세한 내용은 상상마당 홍대 “아카데미” https://t.co/y8PNaZJEO7"
+	},
+	{
+		"created_at": "Thu Oct 07 07:29:42 +0000 2021",
+		"id": 1446013415961481200,
+		"id_str": "1446014857174732802",
+		"full_text": "애플뮤직에서 룸306 Room306 &lt;술과 꽃&gt;의 고해상도 무손실 서비스를 시작했습니다. 이제 더 높은 해상도 음질로 &lt;술과 꽃&gt;을 즐겨 보세요! 🥃🥀 (고해상도 무손실 음원을 즐기기 위해서는 별도의 DAC나 DAP가 필요합니다) https://t.co/iMdO6cHKRk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446013408722055200,
+					"id_str": "1446013408722055168",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFFiK9UcAAuMTJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFFiK9UcAAuMTJ.jpg",
+					"url": "https://t.co/iMdO6cHKRk",
+					"display_url": "pic.twitter.com/iMdO6cHKRk",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1446013415961481218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446013408722055200,
+					"id_str": "1446013408722055168",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFFiK9UcAAuMTJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFFiK9UcAAuMTJ.jpg",
+					"url": "https://t.co/iMdO6cHKRk",
+					"display_url": "pic.twitter.com/iMdO6cHKRk",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1446013415961481218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1446013413121933300,
+					"id_str": "1446013413121933312",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFFibWVQAACRp8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFFibWVQAACRp8.jpg",
+					"url": "https://t.co/iMdO6cHKRk",
+					"display_url": "pic.twitter.com/iMdO6cHKRk",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1446013415961481218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3540,
+			"friends_count": 1199,
+			"listed_count": 53,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 640,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "애플뮤직에서 룸306 Room306 &lt;술과 꽃&gt;의 고해상도 무손실 서비스를 시작했습니다. 이제 더 높은 해상도 음질로 &lt;술과 꽃&gt;을 즐겨 보세요! 🥃🥀 (고해상도 무손실 음원을 즐기기 위해서는 별도의 DAC나 DAP가 필요합니다) https://t.co/iMdO6cHKRk"
+	},
+	{
+		"created_at": "Thu Oct 07 07:29:34 +0000 2021",
+		"id": 1446007388025221000,
+		"id_str": "1446014823049965573",
+		"full_text": "[naru(나루) | Playlist]\n드로잉카페 '그림제작소' 연남점과 함께한 naru(나루)의 플레이리스트가 공개되었습니다.\n새 EP [Grayed Out]의 곡들과 함께 가을의 정취를 흠뻑 만끽해보세요.\n\nFull ver. &gt; https://t.co/OcOmMTNoZb\n\n#naru #나루 #플레이리스트 #GrayedOut #발매 #그림제작소 #GrimFactory https://t.co/JlHPvb05MK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "naru",
+					"indices": [
+						158,
+						163
+					]
+				},
+				{
+					"text": "나루",
+					"indices": [
+						164,
+						167
+					]
+				},
+				{
+					"text": "플레이리스트",
+					"indices": [
+						168,
+						175
+					]
+				},
+				{
+					"text": "GrayedOut",
+					"indices": [
+						176,
+						186
+					]
+				},
+				{
+					"text": "발매",
+					"indices": [
+						187,
+						190
+					]
+				},
+				{
+					"text": "그림제작소",
+					"indices": [
+						191,
+						197
+					]
+				},
+				{
+					"text": "GrimFactory",
+					"indices": [
+						198,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OcOmMTNoZb",
+					"expanded_url": "https://bit.ly/3Bn0Ptb",
+					"display_url": "bit.ly/3Bn0Ptb",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1445990968365228000,
+					"id_str": "1445990968365228034",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FBExZoBVUAAnLtm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBExZoBVUAAnLtm.jpg",
+					"url": "https://t.co/JlHPvb05MK",
+					"display_url": "pic.twitter.com/JlHPvb05MK",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1446007388025221120/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445990968365228000,
+					"id_str": "1445990968365228034",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FBExZoBVUAAnLtm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBExZoBVUAAnLtm.jpg",
+					"url": "https://t.co/JlHPvb05MK",
+					"display_url": "pic.twitter.com/JlHPvb05MK",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1446007388025221120/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1445990968365228034/pl/EYVFZYVLnthQ9CjZ.m3u8?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1445990968365228034/vid/640x360/NeVeyW5Qkhc1iC_e.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1445990968365228034/vid/1280x720/-m4g-v8_nBWJhbkj.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1445990968365228034/vid/480x270/HbSJmpcLbpXSTseJ.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), LambC(램씨), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbKMln",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbKMln",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13008,
+			"friends_count": 1937,
+			"listed_count": 254,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[naru(나루) | Playlist]\n드로잉카페 '그림제작소' 연남점과 함께한 naru(나루)의 플레이리스트가 공개되었습니다.\n새 EP [Grayed Out]의 곡들과 함께 가을의 정취를 흠뻑 만끽해보세요.\n\nFull ver. &gt; https://t.co/OcOmMTNoZb\n\n#naru #나루 #플레이리스트 #GrayedOut #발매 #그림제작소 #GrimFactory https://t.co/JlHPvb05MK"
+	},
+	{
+		"created_at": "Thu Oct 07 07:29:31 +0000 2021",
+		"id": 1446006651283148800,
+		"id_str": "1446014809984667652",
+		"full_text": "[#NEWS] \"힘들지만 뿌듯해\"…'브라더' 정진운 밝힌 #흡연 연기 #군백기 #2AM 컴백 [MD인터뷰](종합)\n\n▶https://t.co/paeNNj3hgr\n\n#정진운 #영화 #브라더",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "흡연",
+					"indices": [
+						32,
+						35
+					]
+				},
+				{
+					"text": "군백기",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "2AM",
+					"indices": [
+						44,
+						48
+					]
+				},
+				{
+					"text": "정진운",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "영화",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "브라더",
+					"indices": [
+						100,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/paeNNj3hgr",
+					"expanded_url": "http://bit.ly/3Ajq4Ly",
+					"display_url": "bit.ly/3Ajq4Ly",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 486655058,
+			"id_str": "486655058",
+			"name": "미스틱스토리 MYSTIC STORY",
+			"screen_name": "themysticstory",
+			"location": "Seoul, Korea",
+			"description": "MYSTIC STORY Official Twitter",
+			"url": "https://t.co/BKUIHw4jho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BKUIHw4jho",
+							"expanded_url": "http://youtube.com/welcomeMYSTIC89",
+							"display_url": "youtube.com/welcomeMYSTIC89",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 23041,
+			"friends_count": 15,
+			"listed_count": 238,
+			"created_at": "Wed Feb 08 14:33:50 +0000 2012",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225690398372184064/x98FrzSM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/486655058/1553488269",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] \"힘들지만 뿌듯해\"…'브라더' 정진운 밝힌 #흡연 연기 #군백기 #2AM 컴백 [MD인터뷰](종합)\n\n▶https://t.co/paeNNj3hgr\n\n#정진운 #영화 #브라더"
+	},
+	{
 		"created_at": "Thu Oct 07 06:29:35 +0000 2021",
 		"id": 1445990280969089000,
 		"id_str": "1445999727758258177",
