@@ -1,6 +1,1046 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 07 10:29:42 +0000 2021",
+		"id": 1446060007603073000,
+		"id_str": "1446060156782092290",
+		"full_text": "[#Notice] #안테나\n\n&lt;더듬이TV : 우당탕탕 안테나&gt;\n카카오TV 시청 방법!👀\n\n카카오톡 뷰탭 👉 ‘우당탕탕 안테나’ 채널\n\n내일 공개되는 1-3회 영상도 많관부💛\n\n#Antenna #더듬이TV #우당탕탕안테나 #카카오TV https://t.co/ryXgpA1YJy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "안테나",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "Antenna",
+					"indices": [
+						104,
+						112
+					]
+				},
+				{
+					"text": "더듬이TV",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "우당탕탕안테나",
+					"indices": [
+						120,
+						128
+					]
+				},
+				{
+					"text": "카카오TV",
+					"indices": [
+						129,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446059998925058000,
+					"id_str": "1446059998925058049",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFv6E_UcAEn9ey.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFv6E_UcAEn9ey.jpg",
+					"url": "https://t.co/ryXgpA1YJy",
+					"display_url": "pic.twitter.com/ryXgpA1YJy",
+					"expanded_url": "https://twitter.com/antennamusic/status/1446060007603073028/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446059998925058000,
+					"id_str": "1446059998925058049",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFv6E_UcAEn9ey.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFv6E_UcAEn9ey.jpg",
+					"url": "https://t.co/ryXgpA1YJy",
+					"display_url": "pic.twitter.com/ryXgpA1YJy",
+					"expanded_url": "https://twitter.com/antennamusic/status/1446060007603073028/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1446059998958669800,
+					"id_str": "1446059998958669825",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFv6FHVUAE3EhX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFv6FHVUAE3EhX.jpg",
+					"url": "https://t.co/ryXgpA1YJy",
+					"display_url": "pic.twitter.com/ryXgpA1YJy",
+					"expanded_url": "https://twitter.com/antennamusic/status/1446060007603073028/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1446059998950277000,
+					"id_str": "1446059998950277125",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFv6FFVQAU-vpO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFv6FFVQAU-vpO.jpg",
+					"url": "https://t.co/ryXgpA1YJy",
+					"display_url": "pic.twitter.com/ryXgpA1YJy",
+					"expanded_url": "https://twitter.com/antennamusic/status/1446060007603073028/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1446059999004741600,
+					"id_str": "1446059999004741648",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFv6FSUUBAQP_3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFv6FSUUBAQP_3.jpg",
+					"url": "https://t.co/ryXgpA1YJy",
+					"display_url": "pic.twitter.com/ryXgpA1YJy",
+					"expanded_url": "https://twitter.com/antennamusic/status/1446060007603073028/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 정재형 HOME Project Single ‘The Wave’ 2021. 10. 07. 12PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37163,
+			"friends_count": 10,
+			"listed_count": 376,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1633425267",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Notice] #안테나\n\n&lt;더듬이TV : 우당탕탕 안테나&gt;\n카카오TV 시청 방법!👀\n\n카카오톡 뷰탭 👉 ‘우당탕탕 안테나’ 채널\n\n내일 공개되는 1-3회 영상도 많관부💛\n\n#Antenna #더듬이TV #우당탕탕안테나 #카카오TV https://t.co/ryXgpA1YJy"
+	},
+	{
+		"created_at": "Thu Oct 07 10:29:40 +0000 2021",
+		"id": 1446056754106617900,
+		"id_str": "1446060147877482496",
+		"full_text": "[D-1]\n2021.10.8. 12:00 pm\n김새녘 1st Single &lt;싫증 (Demo)&gt; 🤐\n\n\"매일매일 사랑을 받지 않아도\n내일 또 내일 좋을 일이 없다 해도\n왜인지 모를 슬픔을 마주한 대도\n아프지 않을 거라고 생각하겠죠\"\n\nPhoto by @gazed_re \n\n#김새녘 #saeneok #싫증 #dislike #김새녘싫증 #영기획 #YOUNGGIFTEDWACK https://t.co/6fMeeEyayP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김새녘",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "saeneok",
+					"indices": [
+						162,
+						170
+					]
+				},
+				{
+					"text": "싫증",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "dislike",
+					"indices": [
+						175,
+						183
+					]
+				},
+				{
+					"text": "김새녘싫증",
+					"indices": [
+						184,
+						190
+					]
+				},
+				{
+					"text": "영기획",
+					"indices": [
+						191,
+						195
+					]
+				},
+				{
+					"text": "YOUNGGIFTEDWACK",
+					"indices": [
+						196,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gazed_re",
+					"name": "IREYHAH",
+					"id": 811565520,
+					"id_str": "811565520",
+					"indices": [
+						145,
+						154
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446056751183265800,
+					"id_str": "1446056751183265795",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFs9CNVgAMeyzV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFs9CNVgAMeyzV.jpg",
+					"url": "https://t.co/6fMeeEyayP",
+					"display_url": "pic.twitter.com/6fMeeEyayP",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1446056754106617857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 858,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1029,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446056751183265800,
+					"id_str": "1446056751183265795",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFs9CNVgAMeyzV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFs9CNVgAMeyzV.jpg",
+					"url": "https://t.co/6fMeeEyayP",
+					"display_url": "pic.twitter.com/6fMeeEyayP",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1446056754106617857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 858,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1029,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3541,
+			"friends_count": 1199,
+			"listed_count": 53,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 640,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11171,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[D-1]\n2021.10.8. 12:00 pm\n김새녘 1st Single &lt;싫증 (Demo)&gt; 🤐\n\n\"매일매일 사랑을 받지 않아도\n내일 또 내일 좋을 일이 없다 해도\n왜인지 모를 슬픔을 마주한 대도\n아프지 않을 거라고 생각하겠죠\"\n\nPhoto by @gazed_re \n\n#김새녘 #saeneok #싫증 #dislike #김새녘싫증 #영기획 #YOUNGGIFTEDWACK https://t.co/6fMeeEyayP"
+	},
+	{
+		"created_at": "Thu Oct 07 10:29:38 +0000 2021",
+		"id": 1446054849439670300,
+		"id_str": "1446060138901671939",
+		"full_text": "10월 17일 오후 6시 일요일 루비튜브!! \n\n유튜브 \"루비튜브\"채널에서 라이브 스트리밍으로 본선12팀 경연이 진행될 예정이며 시청하면서 실시간 채팅으로 응원 댓글을 많이 남겨주시는 분들중 추첨을 통해 상품도 드릴 예정입니다! \n많은 시청 부탁드려요 📺 https://t.co/R98UZLfuOw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446054802845102000,
+					"id_str": "1446054802845102080",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1446054802845102080/pu/img/UEWEENcz7fFhq1hH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1446054802845102080/pu/img/UEWEENcz7fFhq1hH.jpg",
+					"url": "https://t.co/R98UZLfuOw",
+					"display_url": "pic.twitter.com/R98UZLfuOw",
+					"expanded_url": "https://twitter.com/ruby_records/status/1446054849439670274/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446054802845102000,
+					"id_str": "1446054802845102080",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1446054802845102080/pu/img/UEWEENcz7fFhq1hH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1446054802845102080/pu/img/UEWEENcz7fFhq1hH.jpg",
+					"url": "https://t.co/R98UZLfuOw",
+					"display_url": "pic.twitter.com/R98UZLfuOw",
+					"expanded_url": "https://twitter.com/ruby_records/status/1446054849439670274/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 20125,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1446054802845102080/pu/vid/480x270/alXnT-ssxbArhkhQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1446054802845102080/pu/vid/640x360/xHnGbPNKWqy_oAVG.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1446054802845102080/pu/pl/MU31q3gqqPEsibyv.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1446054802845102080/pu/vid/854x480/3QAaO_zcgEWCDiit.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110930534,
+			"id_str": "110930534",
+			"name": "Ruby records",
+			"screen_name": "ruby_records",
+			"location": "대한민국 서울",
+			"description": "#Motte #RainbowNote #우예린\n\nhttps://t.co/vLFrhVO1VS",
+			"url": "https://t.co/YXCUgv9XdE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YXCUgv9XdE",
+							"expanded_url": "http://www.rubyrecord.com",
+							"display_url": "rubyrecord.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vLFrhVO1VS",
+							"expanded_url": "http://youtube.com/user/rubysalon",
+							"display_url": "youtube.com/user/rubysalon",
+							"indices": [
+								26,
+								49
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7675,
+			"friends_count": 8354,
+			"listed_count": 198,
+			"created_at": "Wed Feb 03 07:13:24 +0000 2010",
+			"favourites_count": 967,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403718575479681030/-FWGVqIS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110930534/1623507563",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "10월 17일 오후 6시 일요일 루비튜브!! \n\n유튜브 \"루비튜브\"채널에서 라이브 스트리밍으로 본선12팀 경연이 진행될 예정이며 시청하면서 실시간 채팅으로 응원 댓글을 많이 남겨주시는 분들중 추첨을 통해 상품도 드릴 예정입니다! \n많은 시청 부탁드려요 📺 https://t.co/R98UZLfuOw"
+	},
+	{
+		"created_at": "Thu Oct 07 10:29:34 +0000 2021",
+		"id": 1446052686613270500,
+		"id_str": "1446060121667379201",
+		"full_text": "[구만 | MPM쥐캠]\n구만 '나 혼자 남은 지구'의 MPM쥐캠이 공개되었습니다 🌏\n그 화려한 무대를 지금 바로 확인해보세요 👏\n[MPM FanCam] qman(9.10000) - Alone on Earth\n@MQOUNTDOWN_2021.9.9\n\nFull ver. &gt; https://t.co/amwP8SbQLr\n\n#레트로포크싱어송라이터\n#구만 #qman #나혼자남은지구 #직캠 #M9 https://t.co/26iOfaAlkV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "레트로포크싱어송라이터",
+					"indices": [
+						178,
+						190
+					]
+				},
+				{
+					"text": "구만",
+					"indices": [
+						191,
+						194
+					]
+				},
+				{
+					"text": "qman",
+					"indices": [
+						195,
+						200
+					]
+				},
+				{
+					"text": "나혼자남은지구",
+					"indices": [
+						201,
+						209
+					]
+				},
+				{
+					"text": "직캠",
+					"indices": [
+						210,
+						213
+					]
+				},
+				{
+					"text": "M9",
+					"indices": [
+						214,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/amwP8SbQLr",
+					"expanded_url": "https://bit.ly/3muZkTE",
+					"display_url": "bit.ly/3muZkTE",
+					"indices": [
+						153,
+						176
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1446018790261624800,
+					"id_str": "1446018790261624845",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFK_AdVkAA-VDn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFK_AdVkAA-VDn.jpg",
+					"url": "https://t.co/26iOfaAlkV",
+					"display_url": "pic.twitter.com/26iOfaAlkV",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1446052686613270528/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446018790261624800,
+					"id_str": "1446018790261624845",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFK_AdVkAA-VDn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFK_AdVkAA-VDn.jpg",
+					"url": "https://t.co/26iOfaAlkV",
+					"display_url": "pic.twitter.com/26iOfaAlkV",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1446052686613270528/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 22800,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1446018790261624845/vid/320x568/UvsNPltJR23q8jGp.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1446018790261624845/vid/720x1280/WGpIbgHtYkKdT_7-.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1446018790261624845/vid/480x852/hdjavsQYFu-QQuqg.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1446018790261624845/pl/qPYgMH4JcLfB3IwZ.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), LambC(램씨), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbKMln",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbKMln",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13009,
+			"friends_count": 1937,
+			"listed_count": 254,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[구만 | MPM쥐캠]\n구만 '나 혼자 남은 지구'의 MPM쥐캠이 공개되었습니다 🌏\n그 화려한 무대를 지금 바로 확인해보세요 👏\n[MPM FanCam] qman(9.10000) - Alone on Earth\n@MQOUNTDOWN_2021.9.9\n\nFull ver. &gt; https://t.co/amwP8SbQLr\n\n#레트로포크싱어송라이터\n#구만 #qman #나혼자남은지구 #직캠 #M9 https://t.co/26iOfaAlkV"
+	},
+	{
 		"created_at": "Thu Oct 07 10:11:16 +0000 2021",
 		"id": 1446042709156929500,
 		"id_str": "1446055519072964609",
