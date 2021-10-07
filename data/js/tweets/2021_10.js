@@ -1,6 +1,1177 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 07 03:42:15 +0000 2021",
+		"id": 1445957617344565200,
+		"id_str": "1445957617344565255",
+		"full_text": "#ONSTAGE #온스테이지\n목소리만으로 충만한 노래, 박지우\nhttps://t.co/YzwywWDxzM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ONSTAGE",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "온스테이지",
+					"indices": [
+						9,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YzwywWDxzM",
+					"expanded_url": "https://bit.ly/2WNVuMu",
+					"display_url": "bit.ly/2WNVuMu",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ONSTAGE #온스테이지\n목소리만으로 충만한 노래, 박지우\nhttps://t.co/YzwywWDxzM"
+	},
+	{
+		"created_at": "Thu Oct 07 03:30:02 +0000 2021",
+		"id": 1445949311133487000,
+		"id_str": "1445954545226551302",
+		"full_text": "정재형 Single &lt;The Wave&gt;🌊\n\nMelon https://t.co/6PRqpbyUYH\nGenie https://t.co/NvqHdlIwqU\nBugs https://t.co/iuBGZawHYr\nFLO https://t.co/PbXeNDXYMO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6PRqpbyUYH",
+					"expanded_url": "http://bit.ly/3BmHRTv",
+					"display_url": "bit.ly/3BmHRTv",
+					"indices": [
+						36,
+						59
+					]
+				},
+				{
+					"url": "https://t.co/NvqHdlIwqU",
+					"expanded_url": "http://bit.ly/3BnoxWq",
+					"display_url": "bit.ly/3BnoxWq",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/iuBGZawHYr",
+					"expanded_url": "http://bit.ly/303KZ9b",
+					"display_url": "bit.ly/303KZ9b",
+					"indices": [
+						95,
+						118
+					]
+				},
+				{
+					"url": "https://t.co/PbXeNDXYMO",
+					"expanded_url": "http://bit.ly/3DnfdT1",
+					"display_url": "bit.ly/3DnfdT1",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1445949307304042500,
+		"in_reply_to_status_id_str": "1445949307304042497",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 정재형 HOME Project Single ‘The Wave’ 2021. 10. 07. 12PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37160,
+			"friends_count": 10,
+			"listed_count": 375,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1633425267",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "정재형 Single &lt;The Wave&gt;🌊\n\nMelon https://t.co/6PRqpbyUYH\nGenie https://t.co/NvqHdlIwqU\nBugs https://t.co/iuBGZawHYr\nFLO https://t.co/PbXeNDXYMO"
+	},
+	{
+		"created_at": "Thu Oct 07 03:29:55 +0000 2021",
+		"id": 1445949307304042500,
+		"id_str": "1445954515308580865",
+		"full_text": "[#Release] #정재형 ⠀\n⠀\n🏠\n⠀\n정재형(Jung Jae Hyung) : [HOME] Project\nSingle &lt;The Wave&gt;\n⠀\n🌊 Official M/V\nhttps://t.co/sZhJoFvRIe\n⠀\n🎬 Film by Tony Takitani\n\nComposed by 정재형\nArranged by 정재형\n\n@le_petit_piano \n#JungJaeHyung #HOME #The_Wave https://t.co/uhsG2Qu7Ph",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Release",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "정재형",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "JungJaeHyung",
+					"indices": [
+						203,
+						216
+					]
+				},
+				{
+					"text": "HOME",
+					"indices": [
+						217,
+						222
+					]
+				},
+				{
+					"text": "The_Wave",
+					"indices": [
+						223,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "le_petit_piano",
+					"name": "J.H.JUNG",
+					"id": 120697779,
+					"id_str": "120697779",
+					"indices": [
+						186,
+						201
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sZhJoFvRIe",
+					"expanded_url": "https://youtu.be/UvpaHdWCcNs",
+					"display_url": "youtu.be/UvpaHdWCcNs",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1445949128337289200,
+					"id_str": "1445949128337289226",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1445949128337289226/pu/img/pGiw5TYBkY2vxC45.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1445949128337289226/pu/img/pGiw5TYBkY2vxC45.jpg",
+					"url": "https://t.co/uhsG2Qu7Ph",
+					"display_url": "pic.twitter.com/uhsG2Qu7Ph",
+					"expanded_url": "https://twitter.com/antennamusic/status/1445949307304042497/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445949128337289200,
+					"id_str": "1445949128337289226",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1445949128337289226/pu/img/pGiw5TYBkY2vxC45.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1445949128337289226/pu/img/pGiw5TYBkY2vxC45.jpg",
+					"url": "https://t.co/uhsG2Qu7Ph",
+					"display_url": "pic.twitter.com/uhsG2Qu7Ph",
+					"expanded_url": "https://twitter.com/antennamusic/status/1445949307304042497/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1445949128337289226/pu/vid/640x360/itqxB71Pet0u9-oX.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1445949128337289226/pu/vid/480x270/4IO589BQITn3vJNd.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1445949128337289226/pu/pl/qWiRPErdEjfy8drE.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 정재형 HOME Project Single ‘The Wave’ 2021. 10. 07. 12PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37160,
+			"friends_count": 10,
+			"listed_count": 375,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1633425267",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Release] #정재형 ⠀\n⠀\n🏠\n⠀\n정재형(Jung Jae Hyung) : [HOME] Project\nSingle &lt;The Wave&gt;\n⠀\n🌊 Official M/V\nhttps://t.co/sZhJoFvRIe\n⠀\n🎬 Film by Tony Takitani\n\nComposed by 정재형\nArranged by 정재형\n\n@le_petit_piano \n#JungJaeHyung #HOME #The_Wave https://t.co/uhsG2Qu7Ph"
+	},
+	{
+		"created_at": "Thu Oct 07 03:29:46 +0000 2021",
+		"id": 1445946990530076700,
+		"id_str": "1445954476934942720",
+		"full_text": "⠀\nDAILY MIRRORBALL MUSIC | 2101007 THU\n⠀\n🔸 이명건 [엄마꽃]\n🔸 Elevator pitch [Prada]\n🔸 colliethegreen [여름이 지나가면]\n🔸 벤치위레오(BenchWeLeo) [Tairy Fail]\n\n#이명건 #최백호 #Elevatorpitch #colliethegreen #벤치위레오 #미러볼뮤직 #인디음악 \n⠀ https://t.co/czlFi0yJdU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이명건",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "최백호",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "Elevatorpitch",
+					"indices": [
+						150,
+						164
+					]
+				},
+				{
+					"text": "colliethegreen",
+					"indices": [
+						165,
+						180
+					]
+				},
+				{
+					"text": "벤치위레오",
+					"indices": [
+						181,
+						187
+					]
+				},
+				{
+					"text": "미러볼뮤직",
+					"indices": [
+						188,
+						194
+					]
+				},
+				{
+					"text": "인디음악",
+					"indices": [
+						195,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1445721417069203500,
+					"id_str": "1445721417069203464",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1445721417069203464/pu/img/uuvWNsK6BkI9FXFN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1445721417069203464/pu/img/uuvWNsK6BkI9FXFN.jpg",
+					"url": "https://t.co/czlFi0yJdU",
+					"display_url": "pic.twitter.com/czlFi0yJdU",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1445946990530076679/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445721417069203500,
+					"id_str": "1445721417069203464",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1445721417069203464/pu/img/uuvWNsK6BkI9FXFN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1445721417069203464/pu/img/uuvWNsK6BkI9FXFN.jpg",
+					"url": "https://t.co/czlFi0yJdU",
+					"display_url": "pic.twitter.com/czlFi0yJdU",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1445946990530076679/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60060,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1445721417069203464/pu/vid/720x720/h42r0OUafIjRKUx0.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1445721417069203464/pu/pl/lFdZf9EViShjbr2D.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1445721417069203464/pu/vid/320x320/HcRE6DGtMyiDbM6t.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1445721417069203464/pu/vid/540x540/KKTx6wHKIVMyeh0C.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9474,
+			"friends_count": 2615,
+			"listed_count": 246,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1627032310",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⠀\nDAILY MIRRORBALL MUSIC | 2101007 THU\n⠀\n🔸 이명건 [엄마꽃]\n🔸 Elevator pitch [Prada]\n🔸 colliethegreen [여름이 지나가면]\n🔸 벤치위레오(BenchWeLeo) [Tairy Fail]\n\n#이명건 #최백호 #Elevatorpitch #colliethegreen #벤치위레오 #미러볼뮤직 #인디음악 \n⠀ https://t.co/czlFi0yJdU"
+	},
+	{
+		"created_at": "Thu Oct 07 03:29:37 +0000 2021",
+		"id": 1445942654852763600,
+		"id_str": "1445954438661869568",
+		"full_text": "#Raiden’s 1st mini album release celebration live ‘Raiden ‘Love Right Back’: On the stage’ to be streamed on 10/11 at 8PM KST via channel ScreaM Records on YouTube!\nTo reveal stories behind his album as well as communicate with viewers!\n\n#레이든 #Love_Right_Back \n@raidenmusic https://t.co/DT54IidO1x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Raiden",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "레이든",
+					"indices": [
+						238,
+						242
+					]
+				},
+				{
+					"text": "Love_Right_Back",
+					"indices": [
+						243,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "raidenmusic",
+					"name": "Raiden",
+					"id": 2810956860,
+					"id_str": "2810956860",
+					"indices": [
+						261,
+						273
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1445942517984227300,
+					"id_str": "1445942517984227328",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FBEFDyYVcAALjhV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBEFDyYVcAALjhV.jpg",
+					"url": "https://t.co/DT54IidO1x",
+					"display_url": "pic.twitter.com/DT54IidO1x",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1445942654852763653/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445942517984227300,
+					"id_str": "1445942517984227328",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FBEFDyYVcAALjhV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBEFDyYVcAALjhV.jpg",
+					"url": "https://t.co/DT54IidO1x",
+					"display_url": "pic.twitter.com/DT54IidO1x",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1445942654852763653/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9954234,
+			"friends_count": 55,
+			"listed_count": 10709,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 529,
+		"favorite_count": 3127,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#Raiden’s 1st mini album release celebration live ‘Raiden ‘Love Right Back’: On the stage’ to be streamed on 10/11 at 8PM KST via channel ScreaM Records on YouTube!\nTo reveal stories behind his album as well as communicate with viewers!\n\n#레이든 #Love_Right_Back \n@raidenmusic https://t.co/DT54IidO1x"
+	},
+	{
+		"created_at": "Thu Oct 07 03:29:30 +0000 2021",
+		"id": 1445942530860732400,
+		"id_str": "1445954408831934465",
+		"full_text": "[VIDEO] [#권혁수] #벤자민권의_상상은현실이된다\n\n그저 볼 생각만 했지 ? 눈물이납니다.. #shorts #벤자민쇼츠\n\n👉 https://t.co/TApjfoP3Hn\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #가치삽시다TV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "벤자민권의_상상은현실이된다",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						55,
+						62
+					]
+				},
+				{
+					"text": "벤자민쇼츠",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						98,
+						110
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						118,
+						132
+					]
+				},
+				{
+					"text": "가치삽시다TV",
+					"indices": [
+						133,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TApjfoP3Hn",
+					"expanded_url": "https://youtu.be/ZsBQJI3x3Yo",
+					"display_url": "youtu.be/ZsBQJI3x3Yo",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 376,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 343,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#권혁수] #벤자민권의_상상은현실이된다\n\n그저 볼 생각만 했지 ? 눈물이납니다.. #shorts #벤자민쇼츠\n\n👉 https://t.co/TApjfoP3Hn\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #가치삽시다TV"
+	},
+	{
 		"created_at": "Thu Oct 07 03:11:24 +0000 2021",
 		"id": 1445946991515680800,
 		"id_str": "1445949852886708227",
