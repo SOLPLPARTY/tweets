@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 07 15:29:24 +0000 2021",
+		"id": 1446128179467407400,
+		"id_str": "1446135580316872707",
+		"full_text": "Raiden The 1st Mini Album ‘Love Right Back’ \n\n➫ 2021.10.11 6PM (KST)\n\n#Raiden #레이든 #Love_Right_Back \n#LilBoi #릴보이\n@raidenmusic https://t.co/aT2XWuPFEg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Raiden",
+					"indices": [
+						70,
+						77
+					]
+				},
+				{
+					"text": "레이든",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "Love_Right_Back",
+					"indices": [
+						83,
+						99
+					]
+				},
+				{
+					"text": "LilBoi",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"text": "릴보이",
+					"indices": [
+						109,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "raidenmusic",
+					"name": "Raiden",
+					"id": 2810956860,
+					"id_str": "2810956860",
+					"indices": [
+						114,
+						126
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446058297635729400,
+					"id_str": "1446058297635729413",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFuXDMVcAUb-7n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFuXDMVcAUb-7n.jpg",
+					"url": "https://t.co/aT2XWuPFEg",
+					"display_url": "pic.twitter.com/aT2XWuPFEg",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1446128179467407360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1367,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446058297635729400,
+					"id_str": "1446058297635729413",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFuXDMVcAUb-7n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFuXDMVcAUb-7n.jpg",
+					"url": "https://t.co/aT2XWuPFEg",
+					"display_url": "pic.twitter.com/aT2XWuPFEg",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1446128179467407360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1367,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1446058297623138300,
+					"id_str": "1446058297623138308",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFuXDJVUAQgx6K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFuXDJVUAQgx6K.jpg",
+					"url": "https://t.co/aT2XWuPFEg",
+					"display_url": "pic.twitter.com/aT2XWuPFEg",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1446128179467407360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1367,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1446058297618931700,
+					"id_str": "1446058297618931713",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFuXDIVIAEyHfk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFuXDIVIAEyHfk.jpg",
+					"url": "https://t.co/aT2XWuPFEg",
+					"display_url": "pic.twitter.com/aT2XWuPFEg",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1446128179467407360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1367,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9956707,
+			"friends_count": 55,
+			"listed_count": 10711,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10885,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 882,
+		"favorite_count": 4721,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Raiden The 1st Mini Album ‘Love Right Back’ \n\n➫ 2021.10.11 6PM (KST)\n\n#Raiden #레이든 #Love_Right_Back \n#LilBoi #릴보이\n@raidenmusic https://t.co/aT2XWuPFEg"
+	},
+	{
 		"created_at": "Thu Oct 07 13:29:34 +0000 2021",
 		"id": 1446092775678611500,
 		"id_str": "1446105420683255811",
