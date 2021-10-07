@@ -1,6 +1,630 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 07 13:11:25 +0000 2021",
+		"id": 1446097980734513200,
+		"id_str": "1446100853010616325",
+		"full_text": "📢 10/8 공연 현장 안내\n⠀\n&lt;상자루 소극장 두시간 공연 'You made it!'&gt;\n· 티켓수령 : 6시 30분 (현장구매 가능)\n· 입장 : 7시 \n· 공연시작 : 7시 30분\n· 출연 : 상자루\n⠀\n#상자루 #SANGJARU #You_make_it\n#롤링홀 #ROLLINGHALL\n#홍대 #공연 #멜론티켓 https://t.co/HobqGU4yIV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "상자루",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "SANGJARU",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"text": "You_make_it",
+					"indices": [
+						137,
+						149
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "ROLLINGHALL",
+					"indices": [
+						155,
+						167
+					]
+				},
+				{
+					"text": "홍대",
+					"indices": [
+						168,
+						171
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "멜론티켓",
+					"indices": [
+						176,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1445994430167601200,
+					"id_str": "1445994430167601156",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FBE0ReVVUAQswx8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBE0ReVVUAQswx8.jpg",
+					"url": "https://t.co/HobqGU4yIV",
+					"display_url": "pic.twitter.com/HobqGU4yIV",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1446097980734513155/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445994430167601200,
+					"id_str": "1445994430167601156",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FBE0ReVVUAQswx8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBE0ReVVUAQswx8.jpg",
+					"url": "https://t.co/HobqGU4yIV",
+					"display_url": "pic.twitter.com/HobqGU4yIV",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1446097980734513155/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445994457338318800,
+					"id_str": "1445994457338318849",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FBE0TDjVkAEzBDd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBE0TDjVkAEzBDd.jpg",
+					"url": "https://t.co/HobqGU4yIV",
+					"display_url": "pic.twitter.com/HobqGU4yIV",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1446097980734513155/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445994483921735700,
+					"id_str": "1445994483921735680",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FBE0UmlUUAAlaDB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBE0UmlUUAAlaDB.jpg",
+					"url": "https://t.co/HobqGU4yIV",
+					"display_url": "pic.twitter.com/HobqGU4yIV",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1446097980734513155/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445994484043370500,
+					"id_str": "1445994484043370502",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FBE0UnCUUAYmgXv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBE0UnCUUAYmgXv.jpg",
+					"url": "https://t.co/HobqGU4yIV",
+					"display_url": "pic.twitter.com/HobqGU4yIV",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1446097980734513155/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1753,
+							"h": 1240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 849,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 209,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢 10/8 공연 현장 안내\n⠀\n&lt;상자루 소극장 두시간 공연 'You made it!'&gt;\n· 티켓수령 : 6시 30분 (현장구매 가능)\n· 입장 : 7시 \n· 공연시작 : 7시 30분\n· 출연 : 상자루\n⠀\n#상자루 #SANGJARU #You_make_it\n#롤링홀 #ROLLINGHALL\n#홍대 #공연 #멜론티켓 https://t.co/HobqGU4yIV"
+	},
+	{
+		"created_at": "Thu Oct 07 13:11:19 +0000 2021",
+		"id": 1446095527519555600,
+		"id_str": "1446100827341479936",
+		"full_text": "[시공간집 4] 둘째 날의 아름다운 풍경\n\n이소호 시인의 집중🧐\n\n#재미공작소 #시공간집 #시공간집4 #김승일 #김유림 #문보영 #배수연 #백은선 #안미옥 #이설빈 #이소호 #이혜미 #유이우 #2021문래창작촌지원사업MEET https://t.co/O6oRBocqFB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "재미공작소",
+					"indices": [
+						37,
+						43
+					]
+				},
+				{
+					"text": "시공간집",
+					"indices": [
+						44,
+						49
+					]
+				},
+				{
+					"text": "시공간집4",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "김승일",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "김유림",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "문보영",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "배수연",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "백은선",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "안미옥",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "이설빈",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "이소호",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "이혜미",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "유이우",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "2021문래창작촌지원사업MEET",
+					"indices": [
+						107,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446095508200509400,
+					"id_str": "1446095508200509442",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FBGQM_WUUAIIYJ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBGQM_WUUAIIYJ_.jpg",
+					"url": "https://t.co/O6oRBocqFB",
+					"display_url": "pic.twitter.com/O6oRBocqFB",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1446095527519555584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1712,
+							"h": 1712,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446095508200509400,
+					"id_str": "1446095508200509442",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FBGQM_WUUAIIYJ_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBGQM_WUUAIIYJ_.jpg",
+					"url": "https://t.co/O6oRBocqFB",
+					"display_url": "pic.twitter.com/O6oRBocqFB",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1446095527519555584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1712,
+							"h": 1712,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1445701911798157300,
+		"in_reply_to_status_id_str": "1445701911798157323",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8393,
+			"friends_count": 554,
+			"listed_count": 84,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14600,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[시공간집 4] 둘째 날의 아름다운 풍경\n\n이소호 시인의 집중🧐\n\n#재미공작소 #시공간집 #시공간집4 #김승일 #김유림 #문보영 #배수연 #백은선 #안미옥 #이설빈 #이소호 #이혜미 #유이우 #2021문래창작촌지원사업MEET https://t.co/O6oRBocqFB"
+	},
+	{
 		"created_at": "Thu Oct 07 10:29:42 +0000 2021",
 		"id": 1446060007603073000,
 		"id_str": "1446060156782092290",
