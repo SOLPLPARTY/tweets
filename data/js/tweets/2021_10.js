@@ -1,6 +1,818 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 07 09:02:45 +0000 2021",
+		"id": 1446038273172910000,
+		"id_str": "1446038273172910087",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n패러렐(Parallel) - 휘파람 (The Whistle Song) [Music Video]\nhttps://t.co/m8u3gGlGPi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m8u3gGlGPi",
+					"expanded_url": "https://youtu.be/aeN6RBdr_84",
+					"display_url": "youtu.be/aeN6RBdr_84",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74345,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n패러렐(Parallel) - 휘파람 (The Whistle Song) [Music Video]\nhttps://t.co/m8u3gGlGPi"
+	},
+	{
+		"created_at": "Thu Oct 07 08:58:24 +0000 2021",
+		"id": 1446032245332922400,
+		"id_str": "1446037179906641925",
+		"full_text": "🎸 유튜브 스트리밍 : \n15일 (금)\nhttps://t.co/6zWYyhC1Ja \n\n16일 (토)\nhttps://t.co/2ockaclp0c \n\n17일 (일)\nhttps://t.co/FfuBmWKw4y \n\n#JUMF201 #전주얼티밋뮤직페스티벌 #전주 #뮤직페스티벌\n\n※관객 입장 사전 신청 안내는 이번 주 중으로 안내 예정입니다※",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JUMF201",
+					"indices": [
+						116,
+						124
+					]
+				},
+				{
+					"text": "전주얼티밋뮤직페스티벌",
+					"indices": [
+						125,
+						137
+					]
+				},
+				{
+					"text": "전주",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "뮤직페스티벌",
+					"indices": [
+						142,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6zWYyhC1Ja",
+					"expanded_url": "https://youtu.be/E2W4qcbh7_0",
+					"display_url": "youtu.be/E2W4qcbh7_0",
+					"indices": [
+						22,
+						45
+					]
+				},
+				{
+					"url": "https://t.co/2ockaclp0c",
+					"expanded_url": "https://youtu.be/jT0lJpghML4",
+					"display_url": "youtu.be/jT0lJpghML4",
+					"indices": [
+						56,
+						79
+					]
+				},
+				{
+					"url": "https://t.co/FfuBmWKw4y",
+					"expanded_url": "https://youtu.be/DmVJtKvdQLQ",
+					"display_url": "youtu.be/DmVJtKvdQLQ",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1446032243290296300,
+		"in_reply_to_status_id_str": "1446032243290296324",
+		"in_reply_to_user_id": 702764019308867600,
+		"in_reply_to_user_id_str": "702764019308867585",
+		"in_reply_to_screen_name": "JUMF_2021",
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2021(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2021",
+			"location": "대한민국 전주시",
+			"description": "JUMF2021 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2021년 10월 15(금), 16(토), 17(일) 한국소리문화의전당 야외공연장에서 펼쳐집니다!",
+			"url": "https://t.co/d1vvaslpQh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d1vvaslpQh",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 563,
+			"friends_count": 1196,
+			"listed_count": 7,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 161,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1631496699",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎸 유튜브 스트리밍 : \n15일 (금)\nhttps://t.co/6zWYyhC1Ja \n\n16일 (토)\nhttps://t.co/2ockaclp0c \n\n17일 (일)\nhttps://t.co/FfuBmWKw4y \n\n#JUMF201 #전주얼티밋뮤직페스티벌 #전주 #뮤직페스티벌\n\n※관객 입장 사전 신청 안내는 이번 주 중으로 안내 예정입니다※"
+	},
+	{
+		"created_at": "Thu Oct 07 08:58:21 +0000 2021",
+		"id": 1446032243290296300,
+		"id_str": "1446037166908485632",
+		"full_text": "#슬로우진 #루크맥퀸 #메스그램 #정홍일 #체리필터 #김범수 #국카스텐 \n#노야 #해머링 #김완선밴드 #공일오비 #거미 #김창완밴드 #부활 \n\n🎤 일시 : 2021년 10월 15일(금), 16일(토), 17(일) 3일간\n🎵 장소 : 한국소리문화의전당 야외공연장\n🎸 홈페이지 : https://t.co/s2iJTU4QRr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬로우진",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "루크맥퀸",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "메스그램",
+					"indices": [
+						12,
+						17
+					]
+				},
+				{
+					"text": "정홍일",
+					"indices": [
+						18,
+						22
+					]
+				},
+				{
+					"text": "체리필터",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "김범수",
+					"indices": [
+						29,
+						33
+					]
+				},
+				{
+					"text": "국카스텐",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "노야",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "해머링",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "김완선밴드",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "공일오비",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "거미",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "김창완밴드",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "부활",
+					"indices": [
+						74,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s2iJTU4QRr",
+					"expanded_url": "http://www.jumf.co.kr",
+					"display_url": "jumf.co.kr",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1446032239817420800,
+		"in_reply_to_status_id_str": "1446032239817420804",
+		"in_reply_to_user_id": 702764019308867600,
+		"in_reply_to_user_id_str": "702764019308867585",
+		"in_reply_to_screen_name": "JUMF_2021",
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2021(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2021",
+			"location": "대한민국 전주시",
+			"description": "JUMF2021 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2021년 10월 15(금), 16(토), 17(일) 한국소리문화의전당 야외공연장에서 펼쳐집니다!",
+			"url": "https://t.co/d1vvaslpQh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d1vvaslpQh",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 563,
+			"friends_count": 1196,
+			"listed_count": 7,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 161,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1631496699",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#슬로우진 #루크맥퀸 #메스그램 #정홍일 #체리필터 #김범수 #국카스텐 \n#노야 #해머링 #김완선밴드 #공일오비 #거미 #김창완밴드 #부활 \n\n🎤 일시 : 2021년 10월 15일(금), 16일(토), 17(일) 3일간\n🎵 장소 : 한국소리문화의전당 야외공연장\n🎸 홈페이지 : https://t.co/s2iJTU4QRr"
+	},
+	{
+		"created_at": "Thu Oct 07 08:58:17 +0000 2021",
+		"id": 1446032239817420800,
+		"id_str": "1446037149669892096",
+		"full_text": "JUMF2021 아티스트별 출연 일정 안내\n\n다시 한번 JUMF! \n모두가 기다려온 단 하나의 페스티벌!\n\nJUMF2021와 함께하는 아티스트들의 출연 일정! 궁금하셨죠?\n\n지금 바로 공개합니다!\n\n#모모랜드 #홍지윤 #홍주현 #드림캐쳐 #우아 #오메가x #미래소년 #퍼플키스 #아이칠린 https://t.co/2WZyZxnoUU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "모모랜드",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "홍지윤",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "홍주현",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "드림캐쳐",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "우아",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "오메가x",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "미래소년",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "퍼플키스",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "아이칠린",
+					"indices": [
+						155,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446030627522822100,
+					"id_str": "1446030627522822149",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFVMb_VQAU_-pH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFVMb_VQAU_-pH.jpg",
+					"url": "https://t.co/2WZyZxnoUU",
+					"display_url": "pic.twitter.com/2WZyZxnoUU",
+					"expanded_url": "https://twitter.com/JUMF_2021/status/1446032239817420804/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446030627522822100,
+					"id_str": "1446030627522822149",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFVMb_VQAU_-pH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFVMb_VQAU_-pH.jpg",
+					"url": "https://t.co/2WZyZxnoUU",
+					"display_url": "pic.twitter.com/2WZyZxnoUU",
+					"expanded_url": "https://twitter.com/JUMF_2021/status/1446032239817420804/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1446030627522814000,
+					"id_str": "1446030627522813952",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFVMb_VIAAV1Ly.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFVMb_VIAAV1Ly.jpg",
+					"url": "https://t.co/2WZyZxnoUU",
+					"display_url": "pic.twitter.com/2WZyZxnoUU",
+					"expanded_url": "https://twitter.com/JUMF_2021/status/1446032239817420804/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1446030627531157500,
+					"id_str": "1446030627531157506",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FBFVMcBUcAIRjGu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBFVMcBUcAIRjGu.jpg",
+					"url": "https://t.co/2WZyZxnoUU",
+					"display_url": "pic.twitter.com/2WZyZxnoUU",
+					"expanded_url": "https://twitter.com/JUMF_2021/status/1446032239817420804/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2021(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2021",
+			"location": "대한민국 전주시",
+			"description": "JUMF2021 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2021년 10월 15(금), 16(토), 17(일) 한국소리문화의전당 야외공연장에서 펼쳐집니다!",
+			"url": "https://t.co/d1vvaslpQh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d1vvaslpQh",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 563,
+			"friends_count": 1196,
+			"listed_count": 7,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 161,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1631496699",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 148,
+		"favorite_count": 175,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "JUMF2021 아티스트별 출연 일정 안내\n\n다시 한번 JUMF! \n모두가 기다려온 단 하나의 페스티벌!\n\nJUMF2021와 함께하는 아티스트들의 출연 일정! 궁금하셨죠?\n\n지금 바로 공개합니다!\n\n#모모랜드 #홍지윤 #홍주현 #드림캐쳐 #우아 #오메가x #미래소년 #퍼플키스 #아이칠린 https://t.co/2WZyZxnoUU"
+	},
+	{
 		"created_at": "Thu Oct 07 08:11:26 +0000 2021",
 		"id": 1446022485581893600,
 		"id_str": "1446025359791693831",
