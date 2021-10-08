@@ -1,6 +1,711 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 08 08:11:17 +0000 2021",
+		"id": 1446387522683097000,
+		"id_str": "1446387709463957507",
+		"full_text": "📣[시공간집 4] 이번 주말 토•일요일 취소표가 생겼습니다.\n지금 바로 신청 가능합니다!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1438020284720709600,
+		"in_reply_to_status_id_str": "1438020284720709634",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8392,
+			"friends_count": 554,
+			"listed_count": 0,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14601,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "📣[시공간집 4] 이번 주말 토•일요일 취소표가 생겼습니다.\n지금 바로 신청 가능합니다!"
+	},
+	{
+		"created_at": "Fri Oct 08 07:58:21 +0000 2021",
+		"id": 1446380517905997800,
+		"id_str": "1446384454738587682",
+		"full_text": "🎸 유튜브 스트리밍 :\n15일 (금)\nhttps://t.co/6zWYyhC1Ja\n\n16일 (토)\nhttps://t.co/2ockaclp0c\n\n17일 (일)\nhttps://t.co/FfuBmWKw4y\n\n#JUMF201 #전주얼티밋뮤직페스티벌 #전주 #뮤직페스티벌",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JUMF201",
+					"indices": [
+						112,
+						120
+					]
+				},
+				{
+					"text": "전주얼티밋뮤직페스티벌",
+					"indices": [
+						121,
+						133
+					]
+				},
+				{
+					"text": "전주",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "뮤직페스티벌",
+					"indices": [
+						138,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6zWYyhC1Ja",
+					"expanded_url": "https://youtu.be/E2W4qcbh7_0",
+					"display_url": "youtu.be/E2W4qcbh7_0",
+					"indices": [
+						21,
+						44
+					]
+				},
+				{
+					"url": "https://t.co/2ockaclp0c",
+					"expanded_url": "https://youtu.be/jT0lJpghML4",
+					"display_url": "youtu.be/jT0lJpghML4",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/FfuBmWKw4y",
+					"expanded_url": "https://youtu.be/DmVJtKvdQLQ",
+					"display_url": "youtu.be/DmVJtKvdQLQ",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1446380516005929000,
+		"in_reply_to_status_id_str": "1446380516005928962",
+		"in_reply_to_user_id": 702764019308867600,
+		"in_reply_to_user_id_str": "702764019308867585",
+		"in_reply_to_screen_name": "JUMF_2021",
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2021(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2021",
+			"location": "대한민국 전주시",
+			"description": "JUMF2021 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2021년 10월 15(금), 16(토), 17(일) 한국소리문화의전당 야외공연장에서 펼쳐집니다!",
+			"url": "https://t.co/d1vvaslpQh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d1vvaslpQh",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 594,
+			"friends_count": 1196,
+			"listed_count": 7,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1631496699",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎸 유튜브 스트리밍 :\n15일 (금)\nhttps://t.co/6zWYyhC1Ja\n\n16일 (토)\nhttps://t.co/2ockaclp0c\n\n17일 (일)\nhttps://t.co/FfuBmWKw4y\n\n#JUMF201 #전주얼티밋뮤직페스티벌 #전주 #뮤직페스티벌"
+	},
+	{
+		"created_at": "Fri Oct 08 07:58:17 +0000 2021",
+		"id": 1446380516005929000,
+		"id_str": "1446384437504192524",
+		"full_text": "#노야 #해머링 #김완선밴드 #공일오비 #김창완밴드 #거미  #부활\n\n🎤 일시 : 2021년 10월 15일(금), 16일(토), 17(일) 3일간\n\n🎵 장소 : 한국소리문화의전당 야외공연장\n\n🎸 홈페이지 : https://t.co/s2iJTU4QRr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "노야",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "해머링",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "김완선밴드",
+					"indices": [
+						9,
+						15
+					]
+				},
+				{
+					"text": "공일오비",
+					"indices": [
+						16,
+						21
+					]
+				},
+				{
+					"text": "김창완밴드",
+					"indices": [
+						22,
+						28
+					]
+				},
+				{
+					"text": "거미",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "부활",
+					"indices": [
+						34,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s2iJTU4QRr",
+					"expanded_url": "http://www.jumf.co.kr",
+					"display_url": "jumf.co.kr",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1446380512969314300,
+		"in_reply_to_status_id_str": "1446380512969314314",
+		"in_reply_to_user_id": 702764019308867600,
+		"in_reply_to_user_id_str": "702764019308867585",
+		"in_reply_to_screen_name": "JUMF_2021",
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2021(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2021",
+			"location": "대한민국 전주시",
+			"description": "JUMF2021 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2021년 10월 15(금), 16(토), 17(일) 한국소리문화의전당 야외공연장에서 펼쳐집니다!",
+			"url": "https://t.co/d1vvaslpQh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d1vvaslpQh",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 594,
+			"friends_count": 1196,
+			"listed_count": 7,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1631496699",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#노야 #해머링 #김완선밴드 #공일오비 #김창완밴드 #거미  #부활\n\n🎤 일시 : 2021년 10월 15일(금), 16일(토), 17(일) 3일간\n\n🎵 장소 : 한국소리문화의전당 야외공연장\n\n🎸 홈페이지 : https://t.co/s2iJTU4QRr"
+	},
+	{
+		"created_at": "Fri Oct 08 07:58:14 +0000 2021",
+		"id": 1446380512969314300,
+		"id_str": "1446384428637433897",
+		"full_text": "JUMF2021 Time Table을 공개합니다!\n\n🎫JUMF2021 관객 사전 신청 공지 🎫\nhttps://t.co/gD8Nf72wwz\n\n#모모랜드 #홍지윤 #홍주현 #드림캐쳐 #우아 #오메가x #미래소년 #퍼플키스 #아이칠린 #슬로우진 #루크맥퀸 #메스그램 #정홍일 #체리필터 #김범수 #국카스텐 https://t.co/VEYICfNiNc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "모모랜드",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "홍지윤",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "홍주현",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "드림캐쳐",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "우아",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "오메가x",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "미래소년",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "퍼플키스",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "아이칠린",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "슬로우진",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "루크맥퀸",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "메스그램",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "정홍일",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "체리필터",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "김범수",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "국카스텐",
+					"indices": [
+						162,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gD8Nf72wwz",
+					"expanded_url": "https://jumf2021.imweb.me/24/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=8341293&t=board",
+					"display_url": "jumf2021.imweb.me/24/?q=YToxOntz…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1446380303866417200,
+					"id_str": "1446380303866417154",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FBKTOR4UUAIkKS_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBKTOR4UUAIkKS_.jpg",
+					"url": "https://t.co/VEYICfNiNc",
+					"display_url": "pic.twitter.com/VEYICfNiNc",
+					"expanded_url": "https://twitter.com/JUMF_2021/status/1446380512969314314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446380303866417200,
+					"id_str": "1446380303866417154",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FBKTOR4UUAIkKS_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBKTOR4UUAIkKS_.jpg",
+					"url": "https://t.co/VEYICfNiNc",
+					"display_url": "pic.twitter.com/VEYICfNiNc",
+					"expanded_url": "https://twitter.com/JUMF_2021/status/1446380512969314314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2021(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2021",
+			"location": "대한민국 전주시",
+			"description": "JUMF2021 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2021년 10월 15(금), 16(토), 17(일) 한국소리문화의전당 야외공연장에서 펼쳐집니다!",
+			"url": "https://t.co/d1vvaslpQh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d1vvaslpQh",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 594,
+			"friends_count": 1196,
+			"listed_count": 7,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1631496699",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "JUMF2021 Time Table을 공개합니다!\n\n🎫JUMF2021 관객 사전 신청 공지 🎫\nhttps://t.co/gD8Nf72wwz\n\n#모모랜드 #홍지윤 #홍주현 #드림캐쳐 #우아 #오메가x #미래소년 #퍼플키스 #아이칠린 #슬로우진 #루크맥퀸 #메스그램 #정홍일 #체리필터 #김범수 #국카스텐 https://t.co/VEYICfNiNc"
+	},
+	{
 		"created_at": "Fri Oct 08 06:29:32 +0000 2021",
 		"id": 1446356357481828400,
 		"id_str": "1446362104081100810",
