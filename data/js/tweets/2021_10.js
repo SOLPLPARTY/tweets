@@ -1,6 +1,877 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 08 03:29:47 +0000 2021",
+		"id": 1446315732539633700,
+		"id_str": "1446316869187686421",
+		"full_text": "멜론 https://t.co/UvQ8gc3Tw9\n지니 https://t.co/0Y4Ae3voKD\n플로 https://t.co/nSjgZpmN0z\n벅스 https://t.co/13k4jBdnie\n바이브 https://t.co/GkYAj8QZYV\n애플뮤직 https://t.co/y2QJGStJgQ\n스포티파이 https://t.co/IfL3CxMrxt\n밴드캠프 https://t.co/LWKLv5j6ka https://t.co/TiruDNGbzR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UvQ8gc3Tw9",
+					"expanded_url": "https://bit.ly/dislikeml",
+					"display_url": "bit.ly/dislikeml",
+					"indices": [
+						3,
+						26
+					]
+				},
+				{
+					"url": "https://t.co/0Y4Ae3voKD",
+					"expanded_url": "https://bit.ly/dislikegn",
+					"display_url": "bit.ly/dislikegn",
+					"indices": [
+						30,
+						53
+					]
+				},
+				{
+					"url": "https://t.co/nSjgZpmN0z",
+					"expanded_url": "https://bit.ly/dislikefl",
+					"display_url": "bit.ly/dislikefl",
+					"indices": [
+						57,
+						80
+					]
+				},
+				{
+					"url": "https://t.co/13k4jBdnie",
+					"expanded_url": "https://bit.ly/dislikebs",
+					"display_url": "bit.ly/dislikebs",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/GkYAj8QZYV",
+					"expanded_url": "https://bit.ly/dislikevb",
+					"display_url": "bit.ly/dislikevb",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/y2QJGStJgQ",
+					"expanded_url": "https://bit.ly/dislikeap",
+					"display_url": "bit.ly/dislikeap",
+					"indices": [
+						141,
+						164
+					]
+				},
+				{
+					"url": "https://t.co/IfL3CxMrxt",
+					"expanded_url": "https://bit.ly/dislikesp",
+					"display_url": "bit.ly/dislikesp",
+					"indices": [
+						171,
+						194
+					]
+				},
+				{
+					"url": "https://t.co/LWKLv5j6ka",
+					"expanded_url": "https://bit.ly/dislikebc",
+					"display_url": "bit.ly/dislikebc",
+					"indices": [
+						200,
+						223
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1446315723077259300,
+					"id_str": "1446315723077259267",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/FBJYfLsVEAMvah3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBJYfLsVEAMvah3.jpg",
+					"url": "https://t.co/TiruDNGbzR",
+					"display_url": "pic.twitter.com/TiruDNGbzR",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1446315732539633665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446315723077259300,
+					"id_str": "1446315723077259267",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/FBJYfLsVEAMvah3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBJYfLsVEAMvah3.jpg",
+					"url": "https://t.co/TiruDNGbzR",
+					"display_url": "pic.twitter.com/TiruDNGbzR",
+					"expanded_url": "https://twitter.com/YOUNGGIFTEDWACK/status/1446315732539633665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": 1446315719302418400,
+		"in_reply_to_status_id_str": "1446315719302418432",
+		"in_reply_to_user_id": 602961088,
+		"in_reply_to_user_id_str": "602961088",
+		"in_reply_to_screen_name": "YOUNGGIFTEDWACK",
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3541,
+			"friends_count": 1199,
+			"listed_count": 53,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 640,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "멜론 https://t.co/UvQ8gc3Tw9\n지니 https://t.co/0Y4Ae3voKD\n플로 https://t.co/nSjgZpmN0z\n벅스 https://t.co/13k4jBdnie\n바이브 https://t.co/GkYAj8QZYV\n애플뮤직 https://t.co/y2QJGStJgQ\n스포티파이 https://t.co/IfL3CxMrxt\n밴드캠프 https://t.co/LWKLv5j6ka https://t.co/TiruDNGbzR"
+	},
+	{
+		"created_at": "Fri Oct 08 03:29:38 +0000 2021",
+		"id": 1446315719302418400,
+		"id_str": "1446316830935724040",
+		"full_text": "Q. '싫증'에서 들려주고 싶었던 이야기는?\nA. 놓지 못하면 더 아프고 힘든 것들이 있을 테고요. 어느 대상에 싫증이 난 것이 꼭 잘못을 저지른 것도 아니니까요.\n\n[NEW RELEASE]\n김새녘 1st Single &lt;싫증 (Demo)&gt;\n\nhttps://t.co/fX6SxFxlfZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fX6SxFxlfZ",
+					"expanded_url": "https://youtu.be/hZE-ydoxpGI",
+					"display_url": "youtu.be/hZE-ydoxpGI",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 602961088,
+			"id_str": "602961088",
+			"name": "영기획YOUNG,GIFTED&WACK",
+			"screen_name": "YOUNGGIFTEDWACK",
+			"location": "contact@younggiftedwack.com",
+			"description": "영기획 또는 영기프티드앤왝YOUNG,GIFTED&WACK이라 부릅니다. 👁✨🔥🌈🌊🍬한 음악가의 음반을 발매하고 함께 일합니다. 한국 유일의 일렉트로닉 음악 페어 ⚡️암페어Amfair⚡️를 주최하기도 했네요.",
+			"url": "https://t.co/GrmXeBFIAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GrmXeBFIAu",
+							"expanded_url": "http://youtube.com/younggiftedwack",
+							"display_url": "youtube.com/younggiftedwack",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3541,
+			"friends_count": 1199,
+			"listed_count": 53,
+			"created_at": "Fri Jun 08 18:17:47 +0000 2012",
+			"favourites_count": 640,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/711579321974927362/OySoIaFL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/602961088/1570678223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Q. '싫증'에서 들려주고 싶었던 이야기는?\nA. 놓지 못하면 더 아프고 힘든 것들이 있을 테고요. 어느 대상에 싫증이 난 것이 꼭 잘못을 저지른 것도 아니니까요.\n\n[NEW RELEASE]\n김새녘 1st Single &lt;싫증 (Demo)&gt;\n\nhttps://t.co/fX6SxFxlfZ"
+	},
+	{
+		"created_at": "Fri Oct 08 03:29:35 +0000 2021",
+		"id": 1446309433965830100,
+		"id_str": "1446316817820045321",
+		"full_text": "KANGTA 강타 Digital Single ‘아마(Maybe)’\n\n ➫ 2021.10.12 6PM KST \n\n#KANGTA #강타 #아마 #Maybe https://t.co/fKKSQqh7PG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KANGTA",
+					"indices": [
+						62,
+						69
+					]
+				},
+				{
+					"text": "강타",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "아마",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "Maybe",
+					"indices": [
+						78,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446309424851685400,
+					"id_str": "1446309424851685382",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FBJSwk-VkAYrLUF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBJSwk-VkAYrLUF.jpg",
+					"url": "https://t.co/fKKSQqh7PG",
+					"display_url": "pic.twitter.com/fKKSQqh7PG",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1446309433965830147/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446309424851685400,
+					"id_str": "1446309424851685382",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FBJSwk-VkAYrLUF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBJSwk-VkAYrLUF.jpg",
+					"url": "https://t.co/fKKSQqh7PG",
+					"display_url": "pic.twitter.com/fKKSQqh7PG",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1446309433965830147/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1446309425468219400,
+					"id_str": "1446309425468219392",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FBJSwnRVIAAlebD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBJSwnRVIAAlebD.jpg",
+					"url": "https://t.co/fKKSQqh7PG",
+					"display_url": "pic.twitter.com/fKKSQqh7PG",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1446309433965830147/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1446309425472426000,
+					"id_str": "1446309425472425984",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FBJSwnSVUAADPr_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBJSwnSVUAADPr_.jpg",
+					"url": "https://t.co/fKKSQqh7PG",
+					"display_url": "pic.twitter.com/fKKSQqh7PG",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1446309433965830147/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 540,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1446309426030207000,
+					"id_str": "1446309426030206979",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FBJSwpXUYAMIrj2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBJSwpXUYAMIrj2.jpg",
+					"url": "https://t.co/fKKSQqh7PG",
+					"display_url": "pic.twitter.com/fKKSQqh7PG",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1446309433965830147/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9957463,
+			"friends_count": 55,
+			"listed_count": 10714,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10887,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 338,
+		"favorite_count": 2882,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KANGTA 강타 Digital Single ‘아마(Maybe)’\n\n ➫ 2021.10.12 6PM KST \n\n#KANGTA #강타 #아마 #Maybe https://t.co/fKKSQqh7PG"
+	},
+	{
+		"created_at": "Fri Oct 08 03:29:33 +0000 2021",
+		"id": 1446309399467753500,
+		"id_str": "1446316808898818048",
+		"full_text": "KANGTA 강타 Digital Single ‘아마(Maybe)’\n\n ➫ 2021.10.12 6PM KST \n\n#KANGTA #강타 #아마 #Maybe https://t.co/bAlkoR18PQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KANGTA",
+					"indices": [
+						62,
+						69
+					]
+				},
+				{
+					"text": "강타",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "아마",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "Maybe",
+					"indices": [
+						78,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446309391238504400,
+					"id_str": "1446309391238504449",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FBJSunwVIAE_2Jv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBJSunwVIAE_2Jv.jpg",
+					"url": "https://t.co/bAlkoR18PQ",
+					"display_url": "pic.twitter.com/bAlkoR18PQ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1446309399467753473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446309391238504400,
+					"id_str": "1446309391238504449",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/FBJSunwVIAE_2Jv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBJSunwVIAE_2Jv.jpg",
+					"url": "https://t.co/bAlkoR18PQ",
+					"display_url": "pic.twitter.com/bAlkoR18PQ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1446309399467753473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9957463,
+			"friends_count": 55,
+			"listed_count": 10714,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10887,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 307,
+		"favorite_count": 2515,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KANGTA 강타 Digital Single ‘아마(Maybe)’\n\n ➫ 2021.10.12 6PM KST \n\n#KANGTA #강타 #아마 #Maybe https://t.co/bAlkoR18PQ"
+	},
+	{
 		"created_at": "Fri Oct 08 03:11:16 +0000 2021",
 		"id": 1446309377556861000,
 		"id_str": "1446312210649784324",
