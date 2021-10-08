@@ -1,6 +1,377 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 08 06:29:32 +0000 2021",
+		"id": 1446356357481828400,
+		"id_str": "1446362104081100810",
+		"full_text": "* 행사 기간동안 '21세기 인문가치포럼' 공식 홈페이지와 유튜브 생중계를 통해 함께하실 수 있습니다.\n\n** 프로그램 상세정보는 '21세기 인문가치포럼' 공식 홈페이지를 통해 확인하실 수 있습니다.\n\n[21세기 인문가치포럼]\n-홈페이지 https://t.co/8ZvZvaPdFy\n-유튜브 https://t.co/2iHugvudZT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8ZvZvaPdFy",
+					"expanded_url": "http://bit.ly/3lc58lA",
+					"display_url": "bit.ly/3lc58lA",
+					"indices": [
+						133,
+						156
+					]
+				},
+				{
+					"url": "https://t.co/2iHugvudZT",
+					"expanded_url": "http://bit.ly/3oH8dMv",
+					"display_url": "bit.ly/3oH8dMv",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1446356225466110000,
+		"in_reply_to_status_id_str": "1446356225466109960",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2135,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5530,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "* 행사 기간동안 '21세기 인문가치포럼' 공식 홈페이지와 유튜브 생중계를 통해 함께하실 수 있습니다.\n\n** 프로그램 상세정보는 '21세기 인문가치포럼' 공식 홈페이지를 통해 확인하실 수 있습니다.\n\n[21세기 인문가치포럼]\n-홈페이지 https://t.co/8ZvZvaPdFy\n-유튜브 https://t.co/2iHugvudZT"
+	},
+	{
+		"created_at": "Fri Oct 08 06:29:27 +0000 2021",
+		"id": 1446356225466110000,
+		"id_str": "1446362082576904231",
+		"full_text": "[#김사월] 제8회 &lt;21세기 인문가치포럼&gt;\n\n김사월이 21세기 인문가치포럼 연사로 함께합니다🎤\n\n📍세션명 : 공유세션4 - 청춘콘서트\n📍일시 : 2021.10.09(토) 13:30 ~ 15:30\n📍장소 : 경북 안동 구름에리조트 천자문마당 https://t.co/NpjJEHPVcd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김사월",
+					"indices": [
+						1,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446355976961941500,
+					"id_str": "1446355976961941505",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FBJ9GRGUYAEhSom.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBJ9GRGUYAEhSom.jpg",
+					"url": "https://t.co/NpjJEHPVcd",
+					"display_url": "pic.twitter.com/NpjJEHPVcd",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1446356225466109960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446355976961941500,
+					"id_str": "1446355976961941505",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FBJ9GRGUYAEhSom.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBJ9GRGUYAEhSom.jpg",
+					"url": "https://t.co/NpjJEHPVcd",
+					"display_url": "pic.twitter.com/NpjJEHPVcd",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1446356225466109960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1446355976953622500,
+					"id_str": "1446355976953622532",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FBJ9GREVcAQJ7ls.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBJ9GREVcAQJ7ls.jpg",
+					"url": "https://t.co/NpjJEHPVcd",
+					"display_url": "pic.twitter.com/NpjJEHPVcd",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1446356225466109960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1446355976953598000,
+					"id_str": "1446355976953597956",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FBJ9GREVEAQjNi7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBJ9GREVEAQjNi7.jpg",
+					"url": "https://t.co/NpjJEHPVcd",
+					"display_url": "pic.twitter.com/NpjJEHPVcd",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1446356225466109960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 432,
+							"h": 432,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 432,
+							"h": 432,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 432,
+							"h": 432,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2135,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5530,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#김사월] 제8회 &lt;21세기 인문가치포럼&gt;\n\n김사월이 21세기 인문가치포럼 연사로 함께합니다🎤\n\n📍세션명 : 공유세션4 - 청춘콘서트\n📍일시 : 2021.10.09(토) 13:30 ~ 15:30\n📍장소 : 경북 안동 구름에리조트 천자문마당 https://t.co/NpjJEHPVcd"
+	},
+	{
 		"created_at": "Fri Oct 08 06:13:16 +0000 2021",
 		"id": 1446358012986339300,
 		"id_str": "1446358012986339334",
