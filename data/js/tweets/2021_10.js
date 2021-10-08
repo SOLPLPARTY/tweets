@@ -1,6 +1,606 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 08 13:29:52 +0000 2021",
+		"id": 1446465382085062700,
+		"id_str": "1446467885421957122",
+		"full_text": "✔ 인천관광공사 유튜브 채널\nhttps://t.co/gcCTKsr6Ra\n✔ 경기일보 유튜브 채널\nhttps://t.co/sxexOqEHsk\n✔ 펜타포트 유튜브 채널\nhttps://t.co/qkvwANqWpN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gcCTKsr6Ra",
+					"expanded_url": "http://bit.ly/3AqoFTD",
+					"display_url": "bit.ly/3AqoFTD",
+					"indices": [
+						16,
+						39
+					]
+				},
+				{
+					"url": "https://t.co/sxexOqEHsk",
+					"expanded_url": "http://bit.ly/3alAC2d",
+					"display_url": "bit.ly/3alAC2d",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/qkvwANqWpN",
+					"expanded_url": "http://bit.ly/3uQA9yy",
+					"display_url": "bit.ly/3uQA9yy",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1446465163373080600,
+		"in_reply_to_status_id_str": "1446465163373080579",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2135,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✔ 인천관광공사 유튜브 채널\nhttps://t.co/gcCTKsr6Ra\n✔ 경기일보 유튜브 채널\nhttps://t.co/sxexOqEHsk\n✔ 펜타포트 유튜브 채널\nhttps://t.co/qkvwANqWpN"
+	},
+	{
+		"created_at": "Fri Oct 08 13:29:45 +0000 2021",
+		"id": 1446465367119851500,
+		"id_str": "1446467855529226245",
+		"full_text": "✔ NAVER NOW\nhttps://t.co/VtxRaVXJlH\n✔ KBS K-POP 유튜브 채널\nhttps://t.co/ue2901wJhS\n✔ 인천광역시 유튜브 채널  \nhttps://t.co/DuX4DUZ0rd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VtxRaVXJlH",
+					"expanded_url": "http://bit.ly/3iHv0UP",
+					"display_url": "bit.ly/3iHv0UP",
+					"indices": [
+						12,
+						35
+					]
+				},
+				{
+					"url": "https://t.co/ue2901wJhS",
+					"expanded_url": "http://bit.ly/3DmqW4e",
+					"display_url": "bit.ly/3DmqW4e",
+					"indices": [
+						55,
+						78
+					]
+				},
+				{
+					"url": "https://t.co/DuX4DUZ0rd",
+					"expanded_url": "http://bit.ly/3uWmiaa",
+					"display_url": "bit.ly/3uWmiaa",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1446465163373080600,
+		"in_reply_to_status_id_str": "1446465163373080579",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2135,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✔ NAVER NOW\nhttps://t.co/VtxRaVXJlH\n✔ KBS K-POP 유튜브 채널\nhttps://t.co/ue2901wJhS\n✔ 인천광역시 유튜브 채널  \nhttps://t.co/DuX4DUZ0rd"
+	},
+	{
+		"created_at": "Fri Oct 08 13:29:42 +0000 2021",
+		"id": 1446465163373080600,
+		"id_str": "1446467842065436695",
+		"full_text": "[김사월&amp;너드커넥션] 2021 인천 펜타포트 락 페스티벌 생중계 안내🔎\n\n김사월, 너드커넥션이 함께하는 펜타포트‼️\n10월 9일, 10일 이틀동안 온라인으로 만나요 우리〰️\n\n#너드커넥션\n10월 9일 13:40 ~ 14:10 \n\n#김사월\n10월 10일 14:30 ~ 15:00 https://t.co/RTCfFDvoZ9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "김사월",
+					"indices": [
+						132,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446465153319391200,
+					"id_str": "1446465153319391247",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FBLgZKuVUA83xO6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBLgZKuVUA83xO6.jpg",
+					"url": "https://t.co/RTCfFDvoZ9",
+					"display_url": "pic.twitter.com/RTCfFDvoZ9",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1446465163373080579/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446465153319391200,
+					"id_str": "1446465153319391247",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FBLgZKuVUA83xO6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBLgZKuVUA83xO6.jpg",
+					"url": "https://t.co/RTCfFDvoZ9",
+					"display_url": "pic.twitter.com/RTCfFDvoZ9",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1446465163373080579/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2135,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[김사월&amp;너드커넥션] 2021 인천 펜타포트 락 페스티벌 생중계 안내🔎\n\n김사월, 너드커넥션이 함께하는 펜타포트‼️\n10월 9일, 10일 이틀동안 온라인으로 만나요 우리〰️\n\n#너드커넥션\n10월 9일 13:40 ~ 14:10 \n\n#김사월\n10월 10일 14:30 ~ 15:00 https://t.co/RTCfFDvoZ9"
+	},
+	{
+		"created_at": "Fri Oct 08 13:29:33 +0000 2021",
+		"id": 1446458305417650200,
+		"id_str": "1446467803821772824",
+		"full_text": "오늘 라이브를 듣지 못해 너무 아쉬운 분들은 &lt;시월의 노랫말&gt;로 달려가시면 @singersoeunwriter_ 의 라이브를 들으실 수 있답니다✨\n\n#박소은 #우같음듣 #AllLivePlaylist #올라이브플레이리스트 #구름아래소극장 #컬처브릿지 #인터파크티켓 #콘서트 #공연",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박소은",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "우같음듣",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "AllLivePlaylist",
+					"indices": [
+						99,
+						115
+					]
+				},
+				{
+					"text": "올라이브플레이리스트",
+					"indices": [
+						116,
+						127
+					]
+				},
+				{
+					"text": "구름아래소극장",
+					"indices": [
+						128,
+						136
+					]
+				},
+				{
+					"text": "컬처브릿지",
+					"indices": [
+						137,
+						143
+					]
+				},
+				{
+					"text": "인터파크티켓",
+					"indices": [
+						144,
+						151
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "공연",
+					"indices": [
+						157,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1446458282919424000,
+		"in_reply_to_status_id_str": "1446458282919424005",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2135,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "오늘 라이브를 듣지 못해 너무 아쉬운 분들은 &lt;시월의 노랫말&gt;로 달려가시면 @singersoeunwriter_ 의 라이브를 들으실 수 있답니다✨\n\n#박소은 #우같음듣 #AllLivePlaylist #올라이브플레이리스트 #구름아래소극장 #컬처브릿지 #인터파크티켓 #콘서트 #공연"
+	},
+	{
 		"created_at": "Fri Oct 08 13:14:37 +0000 2021",
 		"id": 1446464047151452200,
 		"id_str": "1446464047151452174",
