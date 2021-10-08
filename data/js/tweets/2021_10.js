@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 08 04:29:41 +0000 2021",
+		"id": 1446331586845175800,
+		"id_str": "1446331941813465089",
+		"full_text": "[VIDEO] [#권혁수] #벤자민권의_상상은현실이된다\n\n쉿!! 이거 무조건 대박이야~~ !! ❌발설금지❌ #shorts #벤자민쇼츠\n\n👉 https://t.co/JXM2oxQ35u\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #가치삽시다TV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "벤자민권의_상상은현실이된다",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						60,
+						67
+					]
+				},
+				{
+					"text": "벤자민쇼츠",
+					"indices": [
+						68,
+						74
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						103,
+						115
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						123,
+						137
+					]
+				},
+				{
+					"text": "가치삽시다TV",
+					"indices": [
+						138,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JXM2oxQ35u",
+					"expanded_url": "https://youtu.be/WLJQTeF2Wx0",
+					"display_url": "youtu.be/WLJQTeF2Wx0",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 377,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#권혁수] #벤자민권의_상상은현실이된다\n\n쉿!! 이거 무조건 대박이야~~ !! ❌발설금지❌ #shorts #벤자민쇼츠\n\n👉 https://t.co/JXM2oxQ35u\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #가치삽시다TV"
+	},
+	{
+		"created_at": "Fri Oct 08 04:29:33 +0000 2021",
+		"id": 1446329253755162600,
+		"id_str": "1446331911849267232",
+		"full_text": "[#HBD] Happy Birth Day 🥔🥔🥔\n\n오늘은 국카스텐의 우주최강 기타리스트, 전규호님의 생일입니다🎂🎂🎂\n\n생일을 진심으로 축하드립니다🥰🥰🥰\n\n#국카스텐 #전규호 https://t.co/kzbZ1aN6qQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HBD",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "국카스텐",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "전규호",
+					"indices": [
+						92,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446329245320368000,
+					"id_str": "1446329245320368129",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FBJkyR-UUAEzJbU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBJkyR-UUAEzJbU.jpg",
+					"url": "https://t.co/kzbZ1aN6qQ",
+					"display_url": "pic.twitter.com/kzbZ1aN6qQ",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1446329253755162627/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446329245320368000,
+					"id_str": "1446329245320368129",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FBJkyR-UUAEzJbU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBJkyR-UUAEzJbU.jpg",
+					"url": "https://t.co/kzbZ1aN6qQ",
+					"display_url": "pic.twitter.com/kzbZ1aN6qQ",
+					"expanded_url": "https://twitter.com/interpark_enter/status/1446329253755162627/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 924920565906915300,
+			"id_str": "924920565906915328",
+			"name": "인터파크 엔터테인먼트",
+			"screen_name": "interpark_enter",
+			"location": "대한민국 서울",
+			"description": "인터파크 엔터테인먼트 공식 트위터입니다. 자우림 / 국카스텐 / 김윤아 / 에피톤 프로젝트 / 안녕하신가영 / O.O.O / 헤르쯔 아날로그/ 조민규 / 별은  일반 문의: e-info@interparkenter.com 섭외 및 프로모션: e-mgmt@interparkenter.com",
+			"url": "https://t.co/sGpAGgVsLq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sGpAGgVsLq",
+							"expanded_url": "http://www.interparkenter.com",
+							"display_url": "interparkenter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1856,
+			"friends_count": 12,
+			"listed_count": 8,
+			"created_at": "Mon Oct 30 08:47:01 +0000 2017",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349215485921873926/70XzVlIi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/924920565906915328/1509583868",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 85,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#HBD] Happy Birth Day 🥔🥔🥔\n\n오늘은 국카스텐의 우주최강 기타리스트, 전규호님의 생일입니다🎂🎂🎂\n\n생일을 진심으로 축하드립니다🥰🥰🥰\n\n#국카스텐 #전규호 https://t.co/kzbZ1aN6qQ"
+	},
+	{
 		"created_at": "Fri Oct 08 03:29:47 +0000 2021",
 		"id": 1446315732539633700,
 		"id_str": "1446316869187686421",
