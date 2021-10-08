@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 08 11:29:33 +0000 2021",
+		"id": 1446423268601204700,
+		"id_str": "1446437604824596480",
+		"full_text": "[#Video] #적재\n\n적재 ‘영월愛' 첫 번째 영상, 청령포 영월관광센터에서 들려 드리는 ‘골목길’이 공개 되었습니다. 적재와 함께 강원도 영월로 떠나요🚗💛 \n\n📽 https://t.co/ndNSrfHijO\n\n#Jukjae #골목길 #강원도 #영월 #영월愛 https://t.co/8smfByf4KM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"text": "골목길",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "강원도",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "영월",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "영월愛",
+					"indices": [
+						141,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ndNSrfHijO",
+					"expanded_url": "https://youtu.be/1lhJJG3iPvA",
+					"display_url": "youtu.be/1lhJJG3iPvA",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1446423130969284600,
+					"id_str": "1446423130969284608",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1446423130969284608/pu/img/w8nbVZzxHhenM4yD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1446423130969284608/pu/img/w8nbVZzxHhenM4yD.jpg",
+					"url": "https://t.co/8smfByf4KM",
+					"display_url": "pic.twitter.com/8smfByf4KM",
+					"expanded_url": "https://twitter.com/antennamusic/status/1446423268601204744/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446423130969284600,
+					"id_str": "1446423130969284608",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1446423130969284608/pu/img/w8nbVZzxHhenM4yD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1446423130969284608/pu/img/w8nbVZzxHhenM4yD.jpg",
+					"url": "https://t.co/8smfByf4KM",
+					"display_url": "pic.twitter.com/8smfByf4KM",
+					"expanded_url": "https://twitter.com/antennamusic/status/1446423268601204744/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60014,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1446423130969284608/pu/vid/480x270/THrUEuVtFy_i0-OF.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1446423130969284608/pu/pl/Zfn6UTUnjX2R4zgJ.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1446423130969284608/pu/vid/640x360/rEZyc9NT9oRoJIbp.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 정재형 HOME Project Single ‘The Wave’ 2021. 10. 07. 12PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37157,
+			"friends_count": 10,
+			"listed_count": 376,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4017,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1633425267",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #적재\n\n적재 ‘영월愛' 첫 번째 영상, 청령포 영월관광센터에서 들려 드리는 ‘골목길’이 공개 되었습니다. 적재와 함께 강원도 영월로 떠나요🚗💛 \n\n📽 https://t.co/ndNSrfHijO\n\n#Jukjae #골목길 #강원도 #영월 #영월愛 https://t.co/8smfByf4KM"
+	},
+	{
 		"created_at": "Fri Oct 08 11:07:32 +0000 2021",
 		"id": 1446432066304987100,
 		"id_str": "1446432066304987162",
