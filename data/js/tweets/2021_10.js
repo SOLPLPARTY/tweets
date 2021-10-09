@@ -1,6 +1,351 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 09 01:11:16 +0000 2021",
+		"id": 1446641564797706200,
+		"id_str": "1446644399342030850",
+		"full_text": "#한글날\n오늘 10월 9일은 \n세종대왕님께서 한글을 반포된지 \n575주년이 되는 한글날 입니다.\n줄여쓰기, 신조어, 외래어 같은 무분별한 사용보다\n아름다운 우리말을 사용해 보는 것은 어떨까요?☺️\n#상상마당 #한글사랑 https://t.co/KuI7j0wmBm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "한글날",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "상상마당",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "한글사랑",
+					"indices": [
+						116,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446280553141915600,
+					"id_str": "1446280553141915648",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FBI4gBeUUAA6nZx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBI4gBeUUAA6nZx.jpg",
+					"url": "https://t.co/KuI7j0wmBm",
+					"display_url": "pic.twitter.com/KuI7j0wmBm",
+					"expanded_url": "https://twitter.com/SSmadang/status/1446641564797706241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1129,
+							"h": 1413,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446280553141915600,
+					"id_str": "1446280553141915648",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FBI4gBeUUAA6nZx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBI4gBeUUAA6nZx.jpg",
+					"url": "https://t.co/KuI7j0wmBm",
+					"display_url": "pic.twitter.com/KuI7j0wmBm",
+					"expanded_url": "https://twitter.com/SSmadang/status/1446641564797706241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1129,
+							"h": 1413,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 959,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 543,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17793,
+			"friends_count": 1880,
+			"listed_count": 290,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#한글날\n오늘 10월 9일은 \n세종대왕님께서 한글을 반포된지 \n575주년이 되는 한글날 입니다.\n줄여쓰기, 신조어, 외래어 같은 무분별한 사용보다\n아름다운 우리말을 사용해 보는 것은 어떨까요?☺️\n#상상마당 #한글사랑 https://t.co/KuI7j0wmBm"
+	},
+	{
+		"created_at": "Sat Oct 09 01:10:50 +0000 2021",
+		"id": 1446644287513448400,
+		"id_str": "1446644287513448452",
+		"full_text": "#유니버설뮤직코리아 #Universal_Music_Korea\n한국을 사랑하는 밴드, 밸리 (Valley)의 한글날 특집! ✍ #shorts\nhttps://t.co/ixHdYWjeO8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유니버설뮤직코리아",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"text": "Universal_Music_Korea",
+					"indices": [
+						11,
+						33
+					]
+				},
+				{
+					"text": "shorts",
+					"indices": [
+						70,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ixHdYWjeO8",
+					"expanded_url": "https://youtu.be/pA7AMP9jEA4",
+					"display_url": "youtu.be/pA7AMP9jEA4",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유니버설뮤직코리아 #Universal_Music_Korea\n한국을 사랑하는 밴드, 밸리 (Valley)의 한글날 특집! ✍ #shorts\nhttps://t.co/ixHdYWjeO8"
+	},
+	{
 		"created_at": "Fri Oct 08 15:29:25 +0000 2021",
 		"id": 1446490893972738000,
 		"id_str": "1446497969214218244",
