@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 09 05:58:14 +0000 2021",
+		"id": 1446701959663263700,
+		"id_str": "1446716616931217408",
+		"full_text": "KCON:TACT HI 5 FanPick Cam &lt;CENTER CAM&gt; VOD KWP 💌\n🔗 https://t.co/nTnsUtKCeq\n#ENJIN #JO1 #OWV https://t.co/dg0W5aIEMf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ENJIN",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "JO1",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "OWV",
+					"indices": [
+						94,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nTnsUtKCeq",
+					"expanded_url": "http://bit.ly/KCONTACT_PREMIUM_VOD",
+					"display_url": "bit.ly/KCONTACT_PREMI…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1446383269684002800,
+					"id_str": "1446383269684002820",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/FBKV66aVQAQsSzp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBKV66aVQAQsSzp.jpg",
+					"url": "https://t.co/dg0W5aIEMf",
+					"display_url": "pic.twitter.com/dg0W5aIEMf",
+					"expanded_url": "https://twitter.com/KCON_official/status/1446701959663263745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446383269684002800,
+					"id_str": "1446383269684002820",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/FBKV66aVQAQsSzp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBKV66aVQAQsSzp.jpg",
+					"url": "https://t.co/dg0W5aIEMf",
+					"display_url": "pic.twitter.com/dg0W5aIEMf",
+					"expanded_url": "https://twitter.com/KCON_official/status/1446701959663263745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1446383269675561000,
+					"id_str": "1446383269675560961",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/FBKV66YUcAEVuVJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBKV66YUcAEVuVJ.jpg",
+					"url": "https://t.co/dg0W5aIEMf",
+					"display_url": "pic.twitter.com/dg0W5aIEMf",
+					"expanded_url": "https://twitter.com/KCON_official/status/1446701959663263745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1446383269684023300,
+					"id_str": "1446383269684023298",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/FBKV66aVkAIdQgK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBKV66aVkAIdQgK.jpg",
+					"url": "https://t.co/dg0W5aIEMf",
+					"display_url": "pic.twitter.com/dg0W5aIEMf",
+					"expanded_url": "https://twitter.com/KCON_official/status/1446701959663263745/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 414865,
+			"friends_count": 75,
+			"listed_count": 1030,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 500,
+		"favorite_count": 1086,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KCON:TACT HI 5 FanPick Cam &lt;CENTER CAM&gt; VOD KWP 💌\n🔗 https://t.co/nTnsUtKCeq\n#ENJIN #JO1 #OWV https://t.co/dg0W5aIEMf"
+	},
+	{
 		"created_at": "Sat Oct 09 04:29:31 +0000 2021",
 		"id": 1446691138551701500,
 		"id_str": "1446694287308173315",
