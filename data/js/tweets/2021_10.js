@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 10 07:29:24 +0000 2021",
+		"id": 1447093546687746000,
+		"id_str": "1447101947761278977",
+		"full_text": "오늘밤 10시부터 24시간 동안 네이버 나우를 통해 2021 잔다리페스타 라이브영상이 방영됩니다. @BandDBGC 드링킹소년소녀합창단의 라이브와 인터뷰를 즐겨주세요🙌🙌🙌\n\n📺잔다리페스타 X NOW 라이브 방송 \nhttps://t.co/jPHpdcMsR8\n2021.10.10. 밤 10시부터 24시간 방송 https://t.co/g3Vb9ld1ur",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BandDBGC",
+					"name": "드링킹소년소녀합창단 Drinking Boys and Girls Choir Official",
+					"id": 944548838731157500,
+					"id_str": "944548838731157506",
+					"indices": [
+						55,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jPHpdcMsR8",
+					"expanded_url": "https://now.naver.com/player/12548",
+					"display_url": "now.naver.com/player/12548",
+					"indices": [
+						119,
+						142
+					]
+				},
+				{
+					"url": "https://t.co/g3Vb9ld1ur",
+					"expanded_url": "https://twitter.com/ZandariFesta/status/1446047353857662978",
+					"display_url": "twitter.com/ZandariFesta/s…",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49219598,
+			"id_str": "49219598",
+			"name": "Electric Muse",
+			"screen_name": "electric_muse",
+			"location": "",
+			"description": "We're indie record label in Seoul since 2006 / Contact electricmuse@naver.com",
+			"url": "https://t.co/Xm46jXAPqj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xm46jXAPqj",
+							"expanded_url": "http://electricmuse.bandcamp.com",
+							"display_url": "electricmuse.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3339,
+			"friends_count": 1298,
+			"listed_count": 106,
+			"created_at": "Sun Jun 21 03:37:47 +0000 2009",
+			"favourites_count": 6133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25871,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345631035782909952/HMJD1AoS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49219598/1502256266",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1446047353857663000,
+		"quoted_status_id_str": "1446047353857662978",
+		"quoted_status_permalink": {
+			"url": "https://t.co/g3Vb9ld1ur",
+			"expanded": "https://twitter.com/ZandariFesta/status/1446047353857662978",
+			"display": "twitter.com/ZandariFesta/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 07 09:38:50 +0000 2021",
+			"id": 1446047353857663000,
+			"id_str": "1446047353857662978",
+			"full_text": "💥\n[ZANDARI FESTA 2021]\n\n음악을 듣고, 맥주를 마시며, 친구가 되자!\n\n2012-2021\n잔다리페스타 10주년 특별 프로그램\n국내외 20팀의 쇼케이스와 인터뷰\n\n개성 넘치는 인디 음악\n음악 중심의 서브컬처\n홍대 대명절, 잔다리페스타를\n일요일 밤 10시, 나우에서 만나보세요🔥\n-\n👉https://t.co/4S5gSz1PVu https://t.co/Utpw5zTBU3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				190
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4S5gSz1PVu",
+						"expanded_url": "https://now.naver.com/player/12548",
+						"display_url": "now.naver.com/player/12548",
+						"indices": [
+							167,
+							190
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1446044816987472000,
+						"id_str": "1446044816987471874",
+						"indices": [
+							191,
+							214
+						],
+						"media_url": "http://pbs.twimg.com/media/FBFiGX3VQAIFzqC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBFiGX3VQAIFzqC.jpg",
+						"url": "https://t.co/Utpw5zTBU3",
+						"display_url": "pic.twitter.com/Utpw5zTBU3",
+						"expanded_url": "https://twitter.com/ZandariFesta/status/1446047353857662978/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1446044816987472000,
+						"id_str": "1446044816987471874",
+						"indices": [
+							191,
+							214
+						],
+						"media_url": "http://pbs.twimg.com/media/FBFiGX3VQAIFzqC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FBFiGX3VQAIFzqC.jpg",
+						"url": "https://t.co/Utpw5zTBU3",
+						"display_url": "pic.twitter.com/Utpw5zTBU3",
+						"expanded_url": "https://twitter.com/ZandariFesta/status/1446047353857662978/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 822764023,
+				"id_str": "822764023",
+				"name": "Zandari Festa",
+				"screen_name": "ZandariFesta",
+				"location": "대한민국 홍대",
+				"description": "Since 2012 ㅣShowcase Festival & Conferences\n📍Hongdae, Seoul South Korea facebook @zandarifesta Instagram @zandarifesta",
+				"url": "https://t.co/TedsJgO7by",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TedsJgO7by",
+								"expanded_url": "http://www.zandarifesta.com",
+								"display_url": "zandarifesta.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2716,
+				"friends_count": 1723,
+				"listed_count": 40,
+				"created_at": "Fri Sep 14 05:51:51 +0000 2012",
+				"favourites_count": 891,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4713,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1240935459586334720/K6esD7zb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240935459586334720/K6esD7zb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/822764023/1603382510",
+				"profile_link_color": "7D7D7D",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘밤 10시부터 24시간 동안 네이버 나우를 통해 2021 잔다리페스타 라이브영상이 방영됩니다. @BandDBGC 드링킹소년소녀합창단의 라이브와 인터뷰를 즐겨주세요🙌🙌🙌\n\n📺잔다리페스타 X NOW 라이브 방송 \nhttps://t.co/jPHpdcMsR8\n2021.10.10. 밤 10시부터 24시간 방송 https://t.co/g3Vb9ld1ur"
+	},
+	{
 		"created_at": "Sun Oct 10 05:49:23 +0000 2021",
 		"id": 1447076062521819100,
 		"id_str": "1447076776673374215",
