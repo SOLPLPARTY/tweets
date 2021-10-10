@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 10 04:29:24 +0000 2021",
+		"id": 1447049251704356900,
+		"id_str": "1447056649534033922",
+		"full_text": "[#Video] #안테나\n\n우당탕탕 안테나 시무식 미공개 클립!\n얼굴 믿고 음악하는 안테나의 '안테나상' 최초 공개😎💛\n\n👉https://t.co/wHERHMLOIg\n\n매주 월, 금 오후 5시 공개!📡✨\n카카오TV 오리지널 &lt;더듬이TV : 우당탕탕 안테나&gt;\n\n#Antenna #더듬이TV #우당탕탕안테나 #카카오TV https://t.co/ljd1Vvv5Kr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "안테나",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "Antenna",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"text": "더듬이TV",
+					"indices": [
+						160,
+						166
+					]
+				},
+				{
+					"text": "우당탕탕안테나",
+					"indices": [
+						167,
+						175
+					]
+				},
+				{
+					"text": "카카오TV",
+					"indices": [
+						176,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wHERHMLOIg",
+					"expanded_url": "https://youtu.be/ohBUElpGPm4",
+					"display_url": "youtu.be/ohBUElpGPm4",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1447035126353776600,
+					"id_str": "1447035126353776644",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FBTncWWVUAIbKK7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBTncWWVUAIbKK7.jpg",
+					"url": "https://t.co/ljd1Vvv5Kr",
+					"display_url": "pic.twitter.com/ljd1Vvv5Kr",
+					"expanded_url": "https://twitter.com/antennamusic/status/1447049251704356867/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447035126353776600,
+					"id_str": "1447035126353776644",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FBTncWWVUAIbKK7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBTncWWVUAIbKK7.jpg",
+					"url": "https://t.co/ljd1Vvv5Kr",
+					"display_url": "pic.twitter.com/ljd1Vvv5Kr",
+					"expanded_url": "https://twitter.com/antennamusic/status/1447049251704356867/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"additional_media_info": {
+						"title": "[우당탕탕 안테나] 시무식 미공개 클립! 얼굴 믿고 음악하는 안테나의 '안테나상' 최초 공개!",
+						"description": "안테나 아티스트 반전 매력 프로젝트\n[더듬이TV : 우당탕탕 안테나]\n매주 월, 금 오후 5시 공개💛",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/ohBUElpGPm4"
+							}
+						},
+						"embeddable": false,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 정재형 HOME Project Single ‘The Wave’ 2021. 10. 07. 12PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37176,
+			"friends_count": 10,
+			"listed_count": 376,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1633425267",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #안테나\n\n우당탕탕 안테나 시무식 미공개 클립!\n얼굴 믿고 음악하는 안테나의 '안테나상' 최초 공개😎💛\n\n👉https://t.co/wHERHMLOIg\n\n매주 월, 금 오후 5시 공개!📡✨\n카카오TV 오리지널 &lt;더듬이TV : 우당탕탕 안테나&gt;\n\n#Antenna #더듬이TV #우당탕탕안테나 #카카오TV https://t.co/ljd1Vvv5Kr"
+	},
+	{
 		"created_at": "Sun Oct 10 03:29:42 +0000 2021",
 		"id": 1447037435783704600,
 		"id_str": "1447041622840053760",
