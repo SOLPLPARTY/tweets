@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 10 10:29:32 +0000 2021",
+		"id": 1447139846305169400,
+		"id_str": "1447147276565106689",
+		"full_text": "[OurR(아월) | 발매]\n\nOurR(@OurR_Official)의 4번째 싱글 '잠'이\n10월 17일 일요일 정오에 발매됩니다 🌙\n\nOurR 4th Single 「잠」\n2021. 10. 17. SUN. 12PM(KST)\nOfficial Artwork\n\n#OurR #아월\n#4thSingle #잠 #beyondthenights https://t.co/fxCIxKzWRW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OurR",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "아월",
+					"indices": [
+						149,
+						152
+					]
+				},
+				{
+					"text": "4thSingle",
+					"indices": [
+						153,
+						163
+					]
+				},
+				{
+					"text": "잠",
+					"indices": [
+						164,
+						166
+					]
+				},
+				{
+					"text": "beyondthenights",
+					"indices": [
+						167,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OurR_Official",
+					"name": "OurR (아월)",
+					"id": 1399304818494107600,
+					"id_str": "1399304818494107655",
+					"indices": [
+						22,
+						36
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1446422939348336600,
+					"id_str": "1446422939348336643",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FBK5__bVgAMBokt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBK5__bVgAMBokt.jpg",
+					"url": "https://t.co/fxCIxKzWRW",
+					"display_url": "pic.twitter.com/fxCIxKzWRW",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1447139846305169412/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1446422939348336600,
+					"id_str": "1446422939348336643",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FBK5__bVgAMBokt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBK5__bVgAMBokt.jpg",
+					"url": "https://t.co/fxCIxKzWRW",
+					"display_url": "pic.twitter.com/fxCIxKzWRW",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1447139846305169412/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), LambC(램씨), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbKMln",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbKMln",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13012,
+			"friends_count": 1937,
+			"listed_count": 254,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[OurR(아월) | 발매]\n\nOurR(@OurR_Official)의 4번째 싱글 '잠'이\n10월 17일 일요일 정오에 발매됩니다 🌙\n\nOurR 4th Single 「잠」\n2021. 10. 17. SUN. 12PM(KST)\nOfficial Artwork\n\n#OurR #아월\n#4thSingle #잠 #beyondthenights https://t.co/fxCIxKzWRW"
+	},
+	{
 		"created_at": "Sun Oct 10 09:29:25 +0000 2021",
 		"id": 1447124750569025500,
 		"id_str": "1447132147907706880",
