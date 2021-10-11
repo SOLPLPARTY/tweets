@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 11 03:29:24 +0000 2021",
+		"id": 1447396687731781600,
+		"id_str": "1447403937653473281",
+		"full_text": "KANGTA 강타 '아마 (Maybe)' Live Video Teaser\n\nhttps://t.co/5mEXjYP1ta\n\nKANGTA 강타 Digital Single ‘아마(Maybe)’\n\n ➫ 2021.10.12 6PM KST \n\n#KANGTA #강타 #아마 #Maybe https://t.co/C50hF2GNAm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KANGTA",
+					"indices": [
+						129,
+						136
+					]
+				},
+				{
+					"text": "강타",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "아마",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "Maybe",
+					"indices": [
+						145,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5mEXjYP1ta",
+					"expanded_url": "https://youtu.be/4qe5iml_BZk",
+					"display_url": "youtu.be/4qe5iml_BZk",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1447396619972874200,
+					"id_str": "1447396619972874241",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1447396619972874241/pu/img/Mx7CNJkyeSA9NMvX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1447396619972874241/pu/img/Mx7CNJkyeSA9NMvX.jpg",
+					"url": "https://t.co/C50hF2GNAm",
+					"display_url": "pic.twitter.com/C50hF2GNAm",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1447396687731781637/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447396619972874200,
+					"id_str": "1447396619972874241",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1447396619972874241/pu/img/Mx7CNJkyeSA9NMvX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1447396619972874241/pu/img/Mx7CNJkyeSA9NMvX.jpg",
+					"url": "https://t.co/C50hF2GNAm",
+					"display_url": "pic.twitter.com/C50hF2GNAm",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1447396687731781637/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 21333,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1447396619972874241/pu/pl/NkQ3tQBi28AuTtlD.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1447396619972874241/pu/vid/480x270/xP5QRSLGOGiB7NYT.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1447396619972874241/pu/vid/640x360/c7APvYBLXhBNOBZM.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9965775,
+			"friends_count": 55,
+			"listed_count": 10724,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 301,
+		"favorite_count": 2454,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KANGTA 강타 '아마 (Maybe)' Live Video Teaser\n\nhttps://t.co/5mEXjYP1ta\n\nKANGTA 강타 Digital Single ‘아마(Maybe)’\n\n ➫ 2021.10.12 6PM KST \n\n#KANGTA #강타 #아마 #Maybe https://t.co/C50hF2GNAm"
+	},
+	{
 		"created_at": "Mon Oct 11 03:11:17 +0000 2021",
 		"id": 1447396543519248400,
 		"id_str": "1447399375987220486",
