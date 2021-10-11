@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 11 11:29:25 +0000 2021",
+		"id": 1447517432373936000,
+		"id_str": "1447524734208520200",
+		"full_text": "Raiden 레이든 The 1st Mini Album ‘Love Right Back’ - Album Details \n\n#Raiden  #레이든 #Love_Right_Back \n@raidenmusic https://t.co/S2BlDIECj8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Raiden",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"text": "레이든",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "Love_Right_Back",
+					"indices": [
+						80,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "raidenmusic",
+					"name": "Raiden",
+					"id": 2810956860,
+					"id_str": "2810956860",
+					"indices": [
+						98,
+						110
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447517426728329200,
+					"id_str": "1447517426728329238",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FBadbipUYBYrmda.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBadbipUYBYrmda.jpg",
+					"url": "https://t.co/S2BlDIECj8",
+					"display_url": "pic.twitter.com/S2BlDIECj8",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1447517432373936132/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 463,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 790,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 262,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447517426728329200,
+					"id_str": "1447517426728329238",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FBadbipUYBYrmda.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBadbipUYBYrmda.jpg",
+					"url": "https://t.co/S2BlDIECj8",
+					"display_url": "pic.twitter.com/S2BlDIECj8",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1447517432373936132/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 463,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 790,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 262,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1447517426690580500,
+					"id_str": "1447517426690580490",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FBadbigUYAoLgYA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBadbigUYAoLgYA.jpg",
+					"url": "https://t.co/S2BlDIECj8",
+					"display_url": "pic.twitter.com/S2BlDIECj8",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1447517432373936132/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 532,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 908,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 301,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1447517426694770700,
+					"id_str": "1447517426694770692",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/FBadbihUUAQukvP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBadbihUUAQukvP.jpg",
+					"url": "https://t.co/S2BlDIECj8",
+					"display_url": "pic.twitter.com/S2BlDIECj8",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1447517432373936132/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 287,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 506,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9967442,
+			"friends_count": 55,
+			"listed_count": 10723,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 917,
+		"favorite_count": 4014,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Raiden 레이든 The 1st Mini Album ‘Love Right Back’ - Album Details \n\n#Raiden  #레이든 #Love_Right_Back \n@raidenmusic https://t.co/S2BlDIECj8"
+	},
+	{
 		"created_at": "Mon Oct 11 10:29:40 +0000 2021",
 		"id": 1447506321037676500,
 		"id_str": "1447509699050577920",
@@ -350,7 +630,7 @@ Grailbird.data.tweets_2021_10 =
 		"created_at": "Mon Oct 11 10:29:29 +0000 2021",
 		"id": 1447502244421718000,
 		"id_str": "1447509651927482371",
-		"full_text": "어디서도 본 적 없는\n남우현의 '사생활' Poster\nCOMING SOON\n\n2021.10.13 6PM \nEP.1 전격공개 🕵‍♂\n\n#남우현 #NAMWOOHYUN\n#INFINITE #인피니트\n#남우현의사생활 https://t.co/09k7q1UYo3",
+		"full_text": "어디서도 본 적 없는\n남우현의 '사생활' Poster\nCOMING SOON\n\n2021.10.13 6PM \nEP.1 전격공개 🕵♂\n\n#남우현 #NAMWOOHYUN\n#INFINITE #인피니트\n#남우현의사생활 https://t.co/09k7q1UYo3",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -555,7 +835,7 @@ Grailbird.data.tweets_2021_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "어디서도 본 적 없는\n남우현의 '사생활' Poster\nCOMING SOON\n\n2021.10.13 6PM \nEP.1 전격공개 🕵‍♂\n\n#남우현 #NAMWOOHYUN\n#INFINITE #인피니트\n#남우현의사생활 https://t.co/09k7q1UYo3"
+		"text": "어디서도 본 적 없는\n남우현의 '사생활' Poster\nCOMING SOON\n\n2021.10.13 6PM \nEP.1 전격공개 🕵♂\n\n#남우현 #NAMWOOHYUN\n#INFINITE #인피니트\n#남우현의사생활 https://t.co/09k7q1UYo3"
 	},
 	{
 		"created_at": "Mon Oct 11 09:29:44 +0000 2021",
