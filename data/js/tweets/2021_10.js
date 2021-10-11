@@ -1,6 +1,685 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 11 09:29:44 +0000 2021",
+		"id": 1447493148851118000,
+		"id_str": "1447494617973338115",
+		"full_text": "공기남(Airman) - 영원할 순 없을까(Can't it be forever) (feat. 1ho, 0back)\n\nhttps://t.co/h4sAWWCIRn\n\n보다 깊은 울림을 담은,\n공기남이 전하는 감성 에세이\n[오선지 정규 2집 선공개곡 ‘영원할 순 없을까’]\n공기남(Airman) - 영원할 순 없을까(Can't it be forever) (feat. 1ho, 0back)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h4sAWWCIRn",
+					"expanded_url": "https://youtu.be/hvgfsme45w0",
+					"display_url": "youtu.be/hvgfsme45w0",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 255994608,
+			"id_str": "255994608",
+			"name": "에어뮤직(Airmusic)",
+			"screen_name": "misterkkowk",
+			"location": "",
+			"description": "label artist ▶️공기남, 1ho, 0back\n                         official home page ▶️https://t.co/NxkguOJb10",
+			"url": "https://t.co/8brmSk9idN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8brmSk9idN",
+							"expanded_url": "https://www.youtube.com/channel/UCQu7HT9yzlDacTpi1J6ZuMA",
+							"display_url": "youtube.com/channel/UCQu7H…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NxkguOJb10",
+							"expanded_url": "http://airmusic.co.kr",
+							"display_url": "airmusic.co.kr",
+							"indices": [
+								77,
+								100
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 934,
+			"friends_count": 422,
+			"listed_count": 8,
+			"created_at": "Tue Feb 22 12:54:03 +0000 2011",
+			"favourites_count": 4685,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 554,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429040115871993858/QPqYM-Jl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429040115871993858/QPqYM-Jl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/255994608/1629690678",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "공기남(Airman) - 영원할 순 없을까(Can't it be forever) (feat. 1ho, 0back)\n\nhttps://t.co/h4sAWWCIRn\n\n보다 깊은 울림을 담은,\n공기남이 전하는 감성 에세이\n[오선지 정규 2집 선공개곡 ‘영원할 순 없을까’]\n공기남(Airman) - 영원할 순 없을까(Can't it be forever) (feat. 1ho, 0back)"
+	},
+	{
+		"created_at": "Mon Oct 11 09:29:39 +0000 2021",
+		"id": 1447490556897071000,
+		"id_str": "1447494596439781378",
+		"full_text": "Raiden 레이든 The 1st Mini Album ‘Love Right Back’ \n\n➫Listen now on your favorite platform\nhttps://t.co/koNReL0T30\n\n#Raiden  #레이든 #Love_Right_Back \n#태일  #TAEIL  #NCT127  #NCT \n#LilBoi #릴보이\n@raidenmusic",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Raiden",
+					"indices": [
+						113,
+						120
+					]
+				},
+				{
+					"text": "레이든",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "Love_Right_Back",
+					"indices": [
+						127,
+						143
+					]
+				},
+				{
+					"text": "태일",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "TAEIL",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						158,
+						165
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						167,
+						171
+					]
+				},
+				{
+					"text": "LilBoi",
+					"indices": [
+						173,
+						180
+					]
+				},
+				{
+					"text": "릴보이",
+					"indices": [
+						181,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "raidenmusic",
+					"name": "Raiden",
+					"id": 2810956860,
+					"id_str": "2810956860",
+					"indices": [
+						186,
+						198
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/koNReL0T30",
+					"expanded_url": "https://smarturl.it/Raiden_LRB",
+					"display_url": "smarturl.it/Raiden_LRB",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9967048,
+			"friends_count": 55,
+			"listed_count": 10723,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10901,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1903,
+		"favorite_count": 4570,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Raiden 레이든 The 1st Mini Album ‘Love Right Back’ \n\n➫Listen now on your favorite platform\nhttps://t.co/koNReL0T30\n\n#Raiden  #레이든 #Love_Right_Back \n#태일  #TAEIL  #NCT127  #NCT \n#LilBoi #릴보이\n@raidenmusic"
+	},
+	{
+		"created_at": "Mon Oct 11 09:29:36 +0000 2021",
+		"id": 1447488116470653000,
+		"id_str": "1447494583340969984",
+		"full_text": "Raiden 레이든 The 1st Mini Album ‘Love Right Back’ \n\n➫ Melon: https://t.co/b48rno2Jlj\n➫ FLO: https://t.co/hhfUyabqvI\n➫ genie: https://t.co/eSYXDLnCj7\n➫ NAVER VIBE: https://t.co/PAGwmms4ld\n\n#Raiden  #레이든 #Love_Right_Back \n#태일  #TAEIL  #NCT127  #NCT \n#LilBoi #릴보이",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Raiden",
+					"indices": [
+						186,
+						193
+					]
+				},
+				{
+					"text": "레이든",
+					"indices": [
+						195,
+						199
+					]
+				},
+				{
+					"text": "Love_Right_Back",
+					"indices": [
+						200,
+						216
+					]
+				},
+				{
+					"text": "태일",
+					"indices": [
+						218,
+						221
+					]
+				},
+				{
+					"text": "TAEIL",
+					"indices": [
+						223,
+						229
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						231,
+						238
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						240,
+						244
+					]
+				},
+				{
+					"text": "LilBoi",
+					"indices": [
+						246,
+						253
+					]
+				},
+				{
+					"text": "릴보이",
+					"indices": [
+						254,
+						258
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b48rno2Jlj",
+					"expanded_url": "http://kko.to/F0zuM_nfj",
+					"display_url": "kko.to/F0zuM_nfj",
+					"indices": [
+						59,
+						82
+					]
+				},
+				{
+					"url": "https://t.co/hhfUyabqvI",
+					"expanded_url": "http://flomuz.io/s/a.BGMLa",
+					"display_url": "flomuz.io/s/a.BGMLa",
+					"indices": [
+						90,
+						113
+					]
+				},
+				{
+					"url": "https://t.co/eSYXDLnCj7",
+					"expanded_url": "http://genie.co.kr/QCINO9",
+					"display_url": "genie.co.kr/QCINO9",
+					"indices": [
+						123,
+						146
+					]
+				},
+				{
+					"url": "https://t.co/PAGwmms4ld",
+					"expanded_url": "http://naver.me/GdJBhf9r",
+					"display_url": "naver.me/GdJBhf9r",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9967048,
+			"friends_count": 55,
+			"listed_count": 10723,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10901,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8774,
+		"favorite_count": 18435,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Raiden 레이든 The 1st Mini Album ‘Love Right Back’ \n\n➫ Melon: https://t.co/b48rno2Jlj\n➫ FLO: https://t.co/hhfUyabqvI\n➫ genie: https://t.co/eSYXDLnCj7\n➫ NAVER VIBE: https://t.co/PAGwmms4ld\n\n#Raiden  #레이든 #Love_Right_Back \n#태일  #TAEIL  #NCT127  #NCT \n#LilBoi #릴보이"
+	},
+	{
+		"created_at": "Mon Oct 11 09:29:27 +0000 2021",
+		"id": 1447487195741233200,
+		"id_str": "1447494544933720066",
+		"full_text": "Raiden 레이든 'Love Right Back (Feat. 태일 of NCT, lIlBOI)' MV\n\nhttps://t.co/oaQG45XrCb\n\n#Raiden  #레이든 #Love_Right_Back \n#태일  #TAEIL  #NCT127  #NCT \n#LilBoi #릴보이\n@raidenmusic",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Raiden",
+					"indices": [
+						84,
+						91
+					]
+				},
+				{
+					"text": "레이든",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "Love_Right_Back",
+					"indices": [
+						98,
+						114
+					]
+				},
+				{
+					"text": "태일",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "TAEIL",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						129,
+						136
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "LilBoi",
+					"indices": [
+						144,
+						151
+					]
+				},
+				{
+					"text": "릴보이",
+					"indices": [
+						152,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "raidenmusic",
+					"name": "Raiden",
+					"id": 2810956860,
+					"id_str": "2810956860",
+					"indices": [
+						157,
+						169
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oaQG45XrCb",
+					"expanded_url": "https://youtu.be/apogZTk06-U",
+					"display_url": "youtu.be/apogZTk06-U",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9967048,
+			"friends_count": 55,
+			"listed_count": 10723,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10901,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17461,
+		"favorite_count": 27029,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Raiden 레이든 'Love Right Back (Feat. 태일 of NCT, lIlBOI)' MV\n\nhttps://t.co/oaQG45XrCb\n\n#Raiden  #레이든 #Love_Right_Back \n#태일  #TAEIL  #NCT127  #NCT \n#LilBoi #릴보이\n@raidenmusic"
+	},
+	{
 		"created_at": "Mon Oct 11 09:14:56 +0000 2021",
 		"id": 1447490892126896000,
 		"id_str": "1447490892126896132",
