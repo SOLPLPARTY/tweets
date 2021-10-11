@@ -1,6 +1,563 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 11 10:29:40 +0000 2021",
+		"id": 1447506321037676500,
+		"id_str": "1447509699050577920",
+		"full_text": "얼룩말은 혼자 자지 못한다.\n\n2021.10.13 수요일 정오\n신좌(XINZWA), 첫번째 싱글 'Zebra'🦓\n\n#신좌 #XINZWA #Zebra https://t.co/yLZqt7IzRq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신좌",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "XINZWA",
+					"indices": [
+						68,
+						75
+					]
+				},
+				{
+					"text": "Zebra",
+					"indices": [
+						76,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447506305225162800,
+					"id_str": "1447506305225162756",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FBaTUL0VgAQBpu_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBaTUL0VgAQBpu_.jpg",
+					"url": "https://t.co/yLZqt7IzRq",
+					"display_url": "pic.twitter.com/yLZqt7IzRq",
+					"expanded_url": "https://twitter.com/inplanet/status/1447506321037676546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447506305225162800,
+					"id_str": "1447506305225162756",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FBaTUL0VgAQBpu_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBaTUL0VgAQBpu_.jpg",
+					"url": "https://t.co/yLZqt7IzRq",
+					"display_url": "pic.twitter.com/yLZqt7IzRq",
+					"expanded_url": "https://twitter.com/inplanet/status/1447506321037676546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 76964739,
+			"id_str": "76964739",
+			"name": "inplanet",
+			"screen_name": "inplanet",
+			"location": "Seoul, KOREA",
+			"description": "Music Label & Distributor / with Boni, The Suite, Wilcox, OuiOui, DAMYE, bobae, Choi Cello / 유통팀: notice@inplanet.co.kr / 제작팀: anr@inplanet.co.kr",
+			"url": "https://t.co/WF9ly7o9FQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WF9ly7o9FQ",
+							"expanded_url": "http://www.inplanet.co.kr",
+							"display_url": "inplanet.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1447,
+			"friends_count": 775,
+			"listed_count": 62,
+			"created_at": "Thu Sep 24 15:25:25 +0000 2009",
+			"favourites_count": 117,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1383277780150853638/qacXSe09_normal.jpg",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "0099FF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "얼룩말은 혼자 자지 못한다.\n\n2021.10.13 수요일 정오\n신좌(XINZWA), 첫번째 싱글 'Zebra'🦓\n\n#신좌 #XINZWA #Zebra https://t.co/yLZqt7IzRq"
+	},
+	{
+		"created_at": "Mon Oct 11 10:29:38 +0000 2021",
+		"id": 1447504932337188900,
+		"id_str": "1447509690213150722",
+		"full_text": "[VIDEO] [#권혁수] #백돌이대탈출\n\n권혁수 조현이 깐부 맺고 골프 프로에게 덤비면 벌어지는 일ㅣ백돌이대탈출 EP.01\n\n👉 https://t.co/bnh60yxFpz\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #백돌이대탈출_부캐골프시대",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "백돌이대탈출",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						98,
+						110
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						118,
+						132
+					]
+				},
+				{
+					"text": "백돌이대탈출_부캐골프시대",
+					"indices": [
+						133,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bnh60yxFpz",
+					"expanded_url": "https://youtu.be/PTcBMxNAxcw",
+					"display_url": "youtu.be/PTcBMxNAxcw",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 378,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VIDEO] [#권혁수] #백돌이대탈출\n\n권혁수 조현이 깐부 맺고 골프 프로에게 덤비면 벌어지는 일ㅣ백돌이대탈출 EP.01\n\n👉 https://t.co/bnh60yxFpz\n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #백돌이대탈출_부캐골프시대"
+	},
+	{
+		"created_at": "Mon Oct 11 10:29:29 +0000 2021",
+		"id": 1447502244421718000,
+		"id_str": "1447509651927482371",
+		"full_text": "어디서도 본 적 없는\n남우현의 '사생활' Poster\nCOMING SOON\n\n2021.10.13 6PM \nEP.1 전격공개 🕵‍♂\n\n#남우현 #NAMWOOHYUN\n#INFINITE #인피니트\n#남우현의사생활 https://t.co/09k7q1UYo3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "남우현",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "NAMWOOHYUN",
+					"indices": [
+						79,
+						90
+					]
+				},
+				{
+					"text": "INFINITE",
+					"indices": [
+						91,
+						100
+					]
+				},
+				{
+					"text": "인피니트",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "남우현의사생활",
+					"indices": [
+						107,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447456336514478000,
+					"id_str": "1447456336514478081",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FBZl3n3VcAEI76R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBZl3n3VcAEI76R.jpg",
+					"url": "https://t.co/09k7q1UYo3",
+					"display_url": "pic.twitter.com/09k7q1UYo3",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1447502244421718017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447456336514478000,
+					"id_str": "1447456336514478081",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FBZl3n3VcAEI76R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBZl3n3VcAEI76R.jpg",
+					"url": "https://t.co/09k7q1UYo3",
+					"display_url": "pic.twitter.com/09k7q1UYo3",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1447502244421718017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTuZ29E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTuZ29E",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 430453,
+			"friends_count": 11,
+			"listed_count": 1921,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1633683713",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1434,
+		"favorite_count": 1925,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어디서도 본 적 없는\n남우현의 '사생활' Poster\nCOMING SOON\n\n2021.10.13 6PM \nEP.1 전격공개 🕵‍♂\n\n#남우현 #NAMWOOHYUN\n#INFINITE #인피니트\n#남우현의사생활 https://t.co/09k7q1UYo3"
+	},
+	{
 		"created_at": "Mon Oct 11 09:29:44 +0000 2021",
 		"id": 1447493148851118000,
 		"id_str": "1447494617973338115",
