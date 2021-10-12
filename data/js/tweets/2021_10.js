@@ -1,6 +1,1850 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 12 09:58:20 +0000 2021",
+		"id": 1447861674258546700,
+		"id_str": "1447864200567590923",
+		"full_text": "안녕하세요 JUMF2021 사무국입니다.\n\n관객 당첨 안내와 관련된 공지사항을 드립니다. 아래 이미지의 내용을 참고해주시면 감사하겠습니다!\n\n#JUMF2021 #전주얼티밋뮤직페스티벌 https://t.co/pkuhZbQNbw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JUMF2021",
+					"indices": [
+						79,
+						88
+					]
+				},
+				{
+					"text": "전주얼티밋뮤직페스티벌",
+					"indices": [
+						89,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447861471774269400,
+					"id_str": "1447861471774269461",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FBfWVmUUYBUpHsA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBfWVmUUYBUpHsA.jpg",
+					"url": "https://t.co/pkuhZbQNbw",
+					"display_url": "pic.twitter.com/pkuhZbQNbw",
+					"expanded_url": "https://twitter.com/JUMF_2021/status/1447861674258546691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447861471774269400,
+					"id_str": "1447861471774269461",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FBfWVmUUYBUpHsA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBfWVmUUYBUpHsA.jpg",
+					"url": "https://t.co/pkuhZbQNbw",
+					"display_url": "pic.twitter.com/pkuhZbQNbw",
+					"expanded_url": "https://twitter.com/JUMF_2021/status/1447861674258546691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1447861496671662000,
+					"id_str": "1447861496671662082",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FBfWXDEUcAIBOek.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBfWXDEUcAIBOek.jpg",
+					"url": "https://t.co/pkuhZbQNbw",
+					"display_url": "pic.twitter.com/pkuhZbQNbw",
+					"expanded_url": "https://twitter.com/JUMF_2021/status/1447861674258546691/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2021(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2021",
+			"location": "대한민국 전주시",
+			"description": "JUMF2021 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2021년 10월 15(금), 16(토), 17(일) 한국소리문화의전당 야외공연장에서 펼쳐집니다!",
+			"url": "https://t.co/d1vvaslpQh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d1vvaslpQh",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 613,
+			"friends_count": 1195,
+			"listed_count": 6,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 168,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1631496699",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕하세요 JUMF2021 사무국입니다.\n\n관객 당첨 안내와 관련된 공지사항을 드립니다. 아래 이미지의 내용을 참고해주시면 감사하겠습니다!\n\n#JUMF2021 #전주얼티밋뮤직페스티벌 https://t.co/pkuhZbQNbw"
+	},
+	{
+		"created_at": "Tue Oct 12 09:58:14 +0000 2021",
+		"id": 1447853160479879200,
+		"id_str": "1447864178954448899",
+		"full_text": "KCON:TACT HI 5 &lt;Backstage Behind&gt; VOD SHOW DAY2 💥\n🔗 FULL VOD : https://t.co/24yTcyNtCT\n\n✅ Residents of Korea, please use TVING.\n✅ 한국 거주자는 티빙을 이용해 주세요.\n\n#GHOST9 #KWONEUNBI #StrayKids #GirlsPlanet999 https://t.co/DwowgJVydK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GHOST9",
+					"indices": [
+						158,
+						165
+					]
+				},
+				{
+					"text": "KWONEUNBI",
+					"indices": [
+						166,
+						176
+					]
+				},
+				{
+					"text": "StrayKids",
+					"indices": [
+						177,
+						187
+					]
+				},
+				{
+					"text": "GirlsPlanet999",
+					"indices": [
+						188,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/24yTcyNtCT",
+					"expanded_url": "https://youtu.be/-lwVS0ddpVk",
+					"display_url": "youtu.be/-lwVS0ddpVk",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1447852734061760500,
+					"id_str": "1447852734061760515",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1447852734061760515/pu/img/U6wQOezg0J3JROmH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1447852734061760515/pu/img/U6wQOezg0J3JROmH.jpg",
+					"url": "https://t.co/DwowgJVydK",
+					"display_url": "pic.twitter.com/DwowgJVydK",
+					"expanded_url": "https://twitter.com/KCON_official/status/1447853160479879173/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447852734061760500,
+					"id_str": "1447852734061760515",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1447852734061760515/pu/img/U6wQOezg0J3JROmH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1447852734061760515/pu/img/U6wQOezg0J3JROmH.jpg",
+					"url": "https://t.co/DwowgJVydK",
+					"display_url": "pic.twitter.com/DwowgJVydK",
+					"expanded_url": "https://twitter.com/KCON_official/status/1447853160479879173/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60060,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1447852734061760515/pu/vid/1280x720/mPcSOjZ0X_Sy63u3.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1447852734061760515/pu/pl/E1ftRVwaJCXn2zU5.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1447852734061760515/pu/vid/640x360/gQ7wdg7_uYh6jHpt.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1447852734061760515/pu/vid/480x270/omFlKuAnPhcvskI5.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 415421,
+			"friends_count": 75,
+			"listed_count": 1032,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 294,
+		"favorite_count": 819,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KCON:TACT HI 5 &lt;Backstage Behind&gt; VOD SHOW DAY2 💥\n🔗 FULL VOD : https://t.co/24yTcyNtCT\n\n✅ Residents of Korea, please use TVING.\n✅ 한국 거주자는 티빙을 이용해 주세요.\n\n#GHOST9 #KWONEUNBI #StrayKids #GirlsPlanet999 https://t.co/DwowgJVydK"
+	},
+	{
+		"created_at": "Tue Oct 12 09:34:38 +0000 2021",
+		"id": 1447858239685767200,
+		"id_str": "1447858239685767172",
+		"full_text": "#서울뮤직 #SEOUL_MUSIC\n[MV] TOUT Y EST, DAUL - AVENUE (Feat. 죠지) / Official Music VIdeo\nhttps://t.co/f3lHUjP7h9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서울뮤직",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "SEOUL_MUSIC",
+					"indices": [
+						6,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f3lHUjP7h9",
+					"expanded_url": "https://youtu.be/ZXsaW3wvpKg",
+					"display_url": "youtu.be/ZXsaW3wvpKg",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#서울뮤직 #SEOUL_MUSIC\n[MV] TOUT Y EST, DAUL - AVENUE (Feat. 죠지) / Official Music VIdeo\nhttps://t.co/f3lHUjP7h9"
+	},
+	{
+		"created_at": "Tue Oct 12 09:29:53 +0000 2021",
+		"id": 1447856440341766100,
+		"id_str": "1447857043340210179",
+		"full_text": "🦸‍♂️ #Team워너 Live : #라일리 (#Reiley) - #Superman\n\n🎞 https://t.co/0zAjOpe3zI https://t.co/YWhkK5sVv1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Team워너",
+					"indices": [
+						5,
+						12
+					]
+				},
+				{
+					"text": "라일리",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "Reiley",
+					"indices": [
+						26,
+						33
+					]
+				},
+				{
+					"text": "Superman",
+					"indices": [
+						37,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0zAjOpe3zI",
+					"expanded_url": "https://youtu.be/1bt4KdAfskA",
+					"display_url": "youtu.be/1bt4KdAfskA",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1447856169096134700,
+					"id_str": "1447856169096134662",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/FBfRg8TVQAYsqj6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBfRg8TVQAYsqj6.jpg",
+					"url": "https://t.co/YWhkK5sVv1",
+					"display_url": "pic.twitter.com/YWhkK5sVv1",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1447856440341766144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447856169096134700,
+					"id_str": "1447856169096134662",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/FBfRg8TVQAYsqj6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBfRg8TVQAYsqj6.jpg",
+					"url": "https://t.co/YWhkK5sVv1",
+					"display_url": "pic.twitter.com/YWhkK5sVv1",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1447856440341766144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52081,
+			"friends_count": 495,
+			"listed_count": 195,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1625,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🦸‍♂️ #Team워너 Live : #라일리 (#Reiley) - #Superman\n\n🎞 https://t.co/0zAjOpe3zI https://t.co/YWhkK5sVv1"
+	},
+	{
+		"created_at": "Tue Oct 12 09:29:52 +0000 2021",
+		"id": 1447857036927045600,
+		"id_str": "1447857036927045637",
+		"full_text": "#워너뮤직코리아 #Warner_Music_Korea\n#Team워너 Live : 라일리 (Reiley) - Superman\nhttps://t.co/ZkDAUUl3vQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "워너뮤직코리아",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Warner_Music_Korea",
+					"indices": [
+						9,
+						28
+					]
+				},
+				{
+					"text": "Team워너",
+					"indices": [
+						29,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZkDAUUl3vQ",
+					"expanded_url": "https://youtu.be/1bt4KdAfskA",
+					"display_url": "youtu.be/1bt4KdAfskA",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 254,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#워너뮤직코리아 #Warner_Music_Korea\n#Team워너 Live : 라일리 (Reiley) - Superman\nhttps://t.co/ZkDAUUl3vQ"
+	},
+	{
+		"created_at": "Tue Oct 12 09:29:48 +0000 2021",
+		"id": 1447856110728138800,
+		"id_str": "1447857021844434947",
+		"full_text": "💿NEW MUSIC TODAY💿\n“하동균, JUNNY (주니) - ME.N.U 를 지금 바로 음원 사이트에서 만나보세요!\n⠀\n#warnerkpop #warnermusic #release #하동균 #JUNNY #주니 #MENU #원티드 #마크플레닛 #모브컴퍼니 https://t.co/ERVBMRf5ky",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "warnerkpop",
+					"indices": [
+						70,
+						81
+					]
+				},
+				{
+					"text": "warnermusic",
+					"indices": [
+						82,
+						94
+					]
+				},
+				{
+					"text": "release",
+					"indices": [
+						95,
+						103
+					]
+				},
+				{
+					"text": "하동균",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "JUNNY",
+					"indices": [
+						109,
+						115
+					]
+				},
+				{
+					"text": "주니",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "MENU",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "원티드",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "마크플레닛",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "모브컴퍼니",
+					"indices": [
+						138,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447855759056793600,
+					"id_str": "1447855759056793601",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1447855759056793601/pu/img/mld38IIj0pqyuJ-F.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1447855759056793601/pu/img/mld38IIj0pqyuJ-F.jpg",
+					"url": "https://t.co/ERVBMRf5ky",
+					"display_url": "pic.twitter.com/ERVBMRf5ky",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1447856110728138753/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447855759056793600,
+					"id_str": "1447855759056793601",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1447855759056793601/pu/img/mld38IIj0pqyuJ-F.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1447855759056793601/pu/img/mld38IIj0pqyuJ-F.jpg",
+					"url": "https://t.co/ERVBMRf5ky",
+					"display_url": "pic.twitter.com/ERVBMRf5ky",
+					"expanded_url": "https://twitter.com/Warner_Music_Kr/status/1447856110728138753/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 54220,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1447855759056793601/pu/vid/320x320/ZOz0hjtpHfCqpimx.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1447855759056793601/pu/vid/540x540/5NK4KeHB1Fn8r9l1.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1447855759056793601/pu/pl/Gyg3IMUjJ60Ff-7d.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1447855759056793601/pu/vid/720x720/E6HfGl8eZwxBgeS2.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 206117108,
+			"id_str": "206117108",
+			"name": "Warner Music Korea",
+			"screen_name": "Warner_Music_Kr",
+			"location": "Seoul, Korea",
+			"description": "워너뮤직코리아 공식 트위터",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52081,
+			"friends_count": 495,
+			"listed_count": 195,
+			"created_at": "Fri Oct 22 09:32:47 +0000 2010",
+			"favourites_count": 1625,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267377694565490688/FD-WdFum_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/206117108/1624595244",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "023BE5",
+			"profile_text_color": "2566FC",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💿NEW MUSIC TODAY💿\n“하동균, JUNNY (주니) - ME.N.U 를 지금 바로 음원 사이트에서 만나보세요!\n⠀\n#warnerkpop #warnermusic #release #하동균 #JUNNY #주니 #MENU #원티드 #마크플레닛 #모브컴퍼니 https://t.co/ERVBMRf5ky"
+	},
+	{
+		"created_at": "Tue Oct 12 09:29:40 +0000 2021",
+		"id": 1447853882466443300,
+		"id_str": "1447856987782406147",
+		"full_text": "[Rosy]\n로지의 사운드 클라우드에 올라온 새로운 데모!\n'Lock' 은 아래 링크를 통해 들어보실 수 있습니다!\n\n▶️ https://t.co/rEjcb4QKrM\n\n#로지 #music #자작곡 #demo #음악 #노래 https://t.co/gd8gDLIYPL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로지",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "music",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "자작곡",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "demo",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "음악",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "노래",
+					"indices": [
+						120,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rEjcb4QKrM",
+					"expanded_url": "http://bit.ly/3DvW3KC",
+					"display_url": "bit.ly/3DvW3KC",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1447853836077465600,
+					"id_str": "1447853836077465603",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1447853836077465603/pu/img/PBcZyRzgEPyqtHZn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1447853836077465603/pu/img/PBcZyRzgEPyqtHZn.jpg",
+					"url": "https://t.co/gd8gDLIYPL",
+					"display_url": "pic.twitter.com/gd8gDLIYPL",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1447853882466443268/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447853836077465600,
+					"id_str": "1447853836077465603",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1447853836077465603/pu/img/PBcZyRzgEPyqtHZn.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1447853836077465603/pu/img/PBcZyRzgEPyqtHZn.jpg",
+					"url": "https://t.co/gd8gDLIYPL",
+					"display_url": "pic.twitter.com/gd8gDLIYPL",
+					"expanded_url": "https://twitter.com/munhwainkr/status/1447853882466443268/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 44900,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1447853836077465603/pu/vid/320x320/aBI_BFjT6TR5Nf9X.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1447853836077465603/pu/vid/640x640/3sJc-C0kUKQo3zeC.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1447853836077465603/pu/pl/EkRwg87Ia0U69rH0.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1447853836077465603/pu/vid/540x540/TQVX-M_KS1md_EUr.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 743014855653752800,
+			"id_str": "743014855653752833",
+			"name": "문화인",
+			"screen_name": "munhwainkr",
+			"location": "",
+			"description": "🎧뮤직레이블 문화인의 공식트위터입니다. 윤현상/유라/로지/김우주/나히/에버루아/아일",
+			"url": "https://t.co/EWOG41vu9R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWOG41vu9R",
+							"expanded_url": "http://www.munhwain.kr",
+							"display_url": "munhwain.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 818,
+			"friends_count": 8,
+			"listed_count": 17,
+			"created_at": "Wed Jun 15 09:38:40 +0000 2016",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743017072494448640/pk13sRIF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/743014855653752833/1513566567",
+			"profile_link_color": "199B2B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Rosy]\n로지의 사운드 클라우드에 올라온 새로운 데모!\n'Lock' 은 아래 링크를 통해 들어보실 수 있습니다!\n\n▶️ https://t.co/rEjcb4QKrM\n\n#로지 #music #자작곡 #demo #음악 #노래 https://t.co/gd8gDLIYPL"
+	},
+	{
+		"created_at": "Tue Oct 12 09:29:37 +0000 2021",
+		"id": 1447853039700697000,
+		"id_str": "1447856974427824131",
+		"full_text": "짙은 X 신지훈 ‘다 말해도 돼’ Released!!\n❤️ https://t.co/fKqQ3sfF5A https://t.co/c37FQVXo7E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fKqQ3sfF5A",
+					"expanded_url": "https://www.instagram.com/p/CU7Eu6SrPvk/?utm_medium=share_sheet",
+					"display_url": "instagram.com/p/CU7Eu6SrPvk/…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1447853035057651700,
+					"id_str": "1447853035057651719",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/FBfOqhGVIAchsP1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBfOqhGVIAchsP1.jpg",
+					"url": "https://t.co/c37FQVXo7E",
+					"display_url": "pic.twitter.com/c37FQVXo7E",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1447853039700697090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 695,
+							"h": 693,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 695,
+							"h": 693,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447853035057651700,
+					"id_str": "1447853035057651719",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/FBfOqhGVIAchsP1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBfOqhGVIAchsP1.jpg",
+					"url": "https://t.co/c37FQVXo7E",
+					"display_url": "pic.twitter.com/c37FQVXo7E",
+					"expanded_url": "https://twitter.com/monotreemusic/status/1447853039700697090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 678,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 695,
+							"h": 693,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 695,
+							"h": 693,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135173608,
+			"id_str": "135173608",
+			"name": "MonoTree_official",
+			"screen_name": "monotreemusic",
+			"location": "Seoul, Korea",
+			"description": "Global Music Production and Publishing Company. (monotreemusic@gmail.com)",
+			"url": "https://t.co/75NNtZGos2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/75NNtZGos2",
+							"expanded_url": "https://www.monotree.shop",
+							"display_url": "monotree.shop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7199,
+			"friends_count": 0,
+			"listed_count": 53,
+			"created_at": "Tue Apr 20 14:55:42 +0000 2010",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BF1238",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777117583732375552/Mi0rVSK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135173608/1426630031",
+			"profile_link_color": "BF1238",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "짙은 X 신지훈 ‘다 말해도 돼’ Released!!\n❤️ https://t.co/fKqQ3sfF5A https://t.co/c37FQVXo7E"
+	},
+	{
+		"created_at": "Tue Oct 12 09:29:33 +0000 2021",
+		"id": 1447852767964373000,
+		"id_str": "1447856957117829123",
+		"full_text": "장기하가 이수호의 싱글 [Monika] 9번째 트랙 'Worship From Elsewhere (Feat. 장기하)'로 참여했습니다. https://t.co/IKTu9CzGnT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447852761308008400,
+					"id_str": "1447852761308008448",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FBfOalTVEAAeVqc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBfOalTVEAAeVqc.jpg",
+					"url": "https://t.co/IKTu9CzGnT",
+					"display_url": "pic.twitter.com/IKTu9CzGnT",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1447852767964372992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447852761308008400,
+					"id_str": "1447852761308008448",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FBfOalTVEAAeVqc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBfOalTVEAAeVqc.jpg",
+					"url": "https://t.co/IKTu9CzGnT",
+					"display_url": "pic.twitter.com/IKTu9CzGnT",
+					"expanded_url": "https://twitter.com/DRDRacompany/status/1447852767964372992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 240145508,
+			"id_str": "240145508",
+			"name": "DooRooDooRoo Artist Company",
+			"screen_name": "DRDRacompany",
+			"location": "대한민국 서울",
+			"description": "두루두루 아티스트 컴퍼니",
+			"url": "https://t.co/y5yKgWQtSS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y5yKgWQtSS",
+							"expanded_url": "http://www.drdr.ac",
+							"display_url": "drdr.ac",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3924,
+			"friends_count": 8,
+			"listed_count": 84,
+			"created_at": "Wed Jan 19 07:40:00 +0000 2011",
+			"favourites_count": 82,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2804,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958993158259404800/hnwLXo7-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/240145508/1517471917",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "장기하가 이수호의 싱글 [Monika] 9번째 트랙 'Worship From Elsewhere (Feat. 장기하)'로 참여했습니다. https://t.co/IKTu9CzGnT"
+	},
+	{
 		"created_at": "Tue Oct 12 09:14:38 +0000 2021",
 		"id": 1447853204344037400,
 		"id_str": "1447853204344037377",
