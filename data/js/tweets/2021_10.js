@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 12 07:11:16 +0000 2021",
+		"id": 1447819324484432000,
+		"id_str": "1447822159636746244",
+		"full_text": "&lt;내 이름 쓸 수 이따&gt;\n일시 :  10/5(화)~11/5(금), 평일 9:00~18:00\n장소 : KT&amp;G 대치 갤러리\n-\n논산시 한글대학 어르신들의 글과 그림,\n인생을 담은 동명의 도서를 바탕으로 기획하였습니다.\n\n마음 따뜻해지는 어르신들의 시와 그림을 통해 젊은 세대와 어르신 세대의 공감대를 형성하길 바라봅니다. https://t.co/yROrEU8lQn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447811636543189000,
+					"id_str": "1447811636543188993",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FBepAznVcAEuyj1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBepAznVcAEuyj1.jpg",
+					"url": "https://t.co/yROrEU8lQn",
+					"display_url": "pic.twitter.com/yROrEU8lQn",
+					"expanded_url": "https://twitter.com/SSmadang/status/1447819324484431877/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447811636543189000,
+					"id_str": "1447811636543188993",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FBepAznVcAEuyj1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBepAznVcAEuyj1.jpg",
+					"url": "https://t.co/yROrEU8lQn",
+					"display_url": "pic.twitter.com/yROrEU8lQn",
+					"expanded_url": "https://twitter.com/SSmadang/status/1447819324484431877/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1447811636727668700,
+					"id_str": "1447811636727668738",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FBepA0TUYAIAmgt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBepA0TUYAIAmgt.jpg",
+					"url": "https://t.co/yROrEU8lQn",
+					"display_url": "pic.twitter.com/yROrEU8lQn",
+					"expanded_url": "https://twitter.com/SSmadang/status/1447819324484431877/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1447811636870336500,
+					"id_str": "1447811636870336512",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FBepA01VUAAkeAC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBepA01VUAAkeAC.jpg",
+					"url": "https://t.co/yROrEU8lQn",
+					"display_url": "pic.twitter.com/yROrEU8lQn",
+					"expanded_url": "https://twitter.com/SSmadang/status/1447819324484431877/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1447811637017124900,
+					"id_str": "1447811637017124865",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FBepA1YVIAEQzIu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBepA1YVIAEQzIu.jpg",
+					"url": "https://t.co/yROrEU8lQn",
+					"display_url": "pic.twitter.com/yROrEU8lQn",
+					"expanded_url": "https://twitter.com/SSmadang/status/1447819324484431877/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17781,
+			"friends_count": 1880,
+			"listed_count": 289,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9473,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;내 이름 쓸 수 이따&gt;\n일시 :  10/5(화)~11/5(금), 평일 9:00~18:00\n장소 : KT&amp;G 대치 갤러리\n-\n논산시 한글대학 어르신들의 글과 그림,\n인생을 담은 동명의 도서를 바탕으로 기획하였습니다.\n\n마음 따뜻해지는 어르신들의 시와 그림을 통해 젊은 세대와 어르신 세대의 공감대를 형성하길 바라봅니다. https://t.co/yROrEU8lQn"
+	},
+	{
 		"created_at": "Tue Oct 12 05:58:14 +0000 2021",
 		"id": 1447789126103670800,
 		"id_str": "1447803780360245248",
