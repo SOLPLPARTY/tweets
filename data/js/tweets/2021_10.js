@@ -1,6 +1,929 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 12 08:11:37 +0000 2021",
+		"id": 1447836635144491000,
+		"id_str": "1447837346196492293",
+		"full_text": "📣[시공간집 4] 남은 이틀, 각 한 자리씩 취소표가 발생했습니다. 마지막 기회 놓치지 마세요!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1438020284720709600,
+		"in_reply_to_status_id_str": "1438020284720709634",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8384,
+			"friends_count": 554,
+			"listed_count": 0,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14604,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "📣[시공간집 4] 남은 이틀, 각 한 자리씩 취소표가 발생했습니다. 마지막 기회 놓치지 마세요!"
+	},
+	{
+		"created_at": "Tue Oct 12 08:11:29 +0000 2021",
+		"id": 1447829623803240400,
+		"id_str": "1447837312184893441",
+		"full_text": "📌\n티켓링크 / 멜론 티켓 / 인터파크 티켓 / 예스24 티켓 / 네이버 예약\n멜론 티켓 : https://t.co/bNs9R39V9F\n인터파크 티켓 : https://t.co/5jMIO5eYr0\n예스24 티켓 : https://t.co/29aQHMmWeG\n티켓링크/네이버예약 : https://t.co/IsEqtY0s4V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bNs9R39V9F",
+					"expanded_url": "https://bit.ly/3FnJRxe",
+					"display_url": "bit.ly/3FnJRxe",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/5jMIO5eYr0",
+					"expanded_url": "https://bit.ly/3oCqnPp",
+					"display_url": "bit.ly/3oCqnPp",
+					"indices": [
+						86,
+						109
+					]
+				},
+				{
+					"url": "https://t.co/29aQHMmWeG",
+					"expanded_url": "https://bit.ly/3AitdLU",
+					"display_url": "bit.ly/3AitdLU",
+					"indices": [
+						120,
+						143
+					]
+				},
+				{
+					"url": "https://t.co/IsEqtY0s4V",
+					"expanded_url": "https://bit.ly/3Fs8rgk",
+					"display_url": "bit.ly/3Fs8rgk",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1447829508510212000,
+		"in_reply_to_status_id_str": "1447829508510212098",
+		"in_reply_to_user_id": 1291327050578456600,
+		"in_reply_to_user_id_str": "1291327050578456578",
+		"in_reply_to_screen_name": "rollinghall1995",
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📌\n티켓링크 / 멜론 티켓 / 인터파크 티켓 / 예스24 티켓 / 네이버 예약\n멜론 티켓 : https://t.co/bNs9R39V9F\n인터파크 티켓 : https://t.co/5jMIO5eYr0\n예스24 티켓 : https://t.co/29aQHMmWeG\n티켓링크/네이버예약 : https://t.co/IsEqtY0s4V"
+	},
+	{
+		"created_at": "Tue Oct 12 08:11:27 +0000 2021",
+		"id": 1447829508510212000,
+		"id_str": "1447837303322316802",
+		"full_text": "[RE:SPES ANDONG 2021 × ROLLINGHALL]\n\n가을의 끝자락, 안동으로 떠나는 감성 음악여행!\nFrom #너드커넥션 To #리스페스안동\n\n💌\n'너드커넥션'이 보내는 스페셜 인사 영상을 공개합니다.\n11월 06일 토요일, 안동에서 만나요!\n\n#리스페스안동 #리스페스 #리스페스페스티벌\n#respesfestival #롤링홀 https://t.co/LI7U3o5tcE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "너드커넥션",
+					"indices": [
+						69,
+						75
+					]
+				},
+				{
+					"text": "리스페스안동",
+					"indices": [
+						79,
+						86
+					]
+				},
+				{
+					"text": "리스페스안동",
+					"indices": [
+						145,
+						152
+					]
+				},
+				{
+					"text": "리스페스",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "리스페스페스티벌",
+					"indices": [
+						159,
+						168
+					]
+				},
+				{
+					"text": "respesfestival",
+					"indices": [
+						169,
+						184
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						185,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447829310094524400,
+					"id_str": "1447829310094524419",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1447829310094524419/pu/img/G6vcidquMB1EOEy7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1447829310094524419/pu/img/G6vcidquMB1EOEy7.jpg",
+					"url": "https://t.co/LI7U3o5tcE",
+					"display_url": "pic.twitter.com/LI7U3o5tcE",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1447829508510212098/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 431,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1072,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1072,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447829310094524400,
+					"id_str": "1447829310094524419",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1447829310094524419/pu/img/G6vcidquMB1EOEy7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1447829310094524419/pu/img/G6vcidquMB1EOEy7.jpg",
+					"url": "https://t.co/LI7U3o5tcE",
+					"display_url": "pic.twitter.com/LI7U3o5tcE",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1447829508510212098/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 431,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1072,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1072,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							134,
+							85
+						],
+						"duration_millis": 39328,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1447829310094524419/pu/vid/424x270/B_A93t5sIx3u9qa2.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1447829310094524419/pu/pl/5E179HFjOG3Lv7Y7.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1447829310094524419/pu/vid/566x360/9_2bZHYz5Ybhgz3z.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1447829310094524419/pu/vid/1072x680/L83TZjwbwSZL8v6j.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[RE:SPES ANDONG 2021 × ROLLINGHALL]\n\n가을의 끝자락, 안동으로 떠나는 감성 음악여행!\nFrom #너드커넥션 To #리스페스안동\n\n💌\n'너드커넥션'이 보내는 스페셜 인사 영상을 공개합니다.\n11월 06일 토요일, 안동에서 만나요!\n\n#리스페스안동 #리스페스 #리스페스페스티벌\n#respesfestival #롤링홀 https://t.co/LI7U3o5tcE"
+	},
+	{
+		"created_at": "Tue Oct 12 08:11:21 +0000 2021",
+		"id": 1447828740671639600,
+		"id_str": "1447837277741326338",
+		"full_text": "📌\n티켓링크 / 멜론 티켓 / 인터파크 티켓 / 예스24 티켓 / 네이버 예약\n멜론 티켓 : https://t.co/bNs9R39V9F\n인터파크 티켓 : https://t.co/5jMIO5eYr0\n예스24 티켓 : https://t.co/29aQHMmWeG\n티켓링크/네이버예약 : https://t.co/IsEqtY0s4V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bNs9R39V9F",
+					"expanded_url": "https://bit.ly/3FnJRxe",
+					"display_url": "bit.ly/3FnJRxe",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/5jMIO5eYr0",
+					"expanded_url": "https://bit.ly/3oCqnPp",
+					"display_url": "bit.ly/3oCqnPp",
+					"indices": [
+						86,
+						109
+					]
+				},
+				{
+					"url": "https://t.co/29aQHMmWeG",
+					"expanded_url": "https://bit.ly/3AitdLU",
+					"display_url": "bit.ly/3AitdLU",
+					"indices": [
+						120,
+						143
+					]
+				},
+				{
+					"url": "https://t.co/IsEqtY0s4V",
+					"expanded_url": "https://bit.ly/3Fs8rgk",
+					"display_url": "bit.ly/3Fs8rgk",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1447828331039129600,
+		"in_reply_to_status_id_str": "1447828331039129601",
+		"in_reply_to_user_id": 1291327050578456600,
+		"in_reply_to_user_id_str": "1291327050578456578",
+		"in_reply_to_screen_name": "rollinghall1995",
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📌\n티켓링크 / 멜론 티켓 / 인터파크 티켓 / 예스24 티켓 / 네이버 예약\n멜론 티켓 : https://t.co/bNs9R39V9F\n인터파크 티켓 : https://t.co/5jMIO5eYr0\n예스24 티켓 : https://t.co/29aQHMmWeG\n티켓링크/네이버예약 : https://t.co/IsEqtY0s4V"
+	},
+	{
+		"created_at": "Tue Oct 12 08:11:17 +0000 2021",
+		"id": 1447828331039129600,
+		"id_str": "1447837260406263808",
+		"full_text": "[RE:SPES ANDONG 2021 × ROLLINGHALL]\n\n가을의 끝자락, 안동으로 떠나는 감성 음악여행!\nFrom #윤딴딴 To #리스페스안동\n\n💌\n'윤딴딴'이 보내는 스페셜 인사 영상을 공개합니다.\n11월 06일 토요일, 안동에서 만나요!\n\n#리스페스안동 #리스페스 #리스페스페스티벌\n#respesfestival #롤링홀 #페스티벌 https://t.co/oz2Juxyx6C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤딴딴",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "리스페스안동",
+					"indices": [
+						77,
+						84
+					]
+				},
+				{
+					"text": "리스페스안동",
+					"indices": [
+						141,
+						148
+					]
+				},
+				{
+					"text": "리스페스",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "리스페스페스티벌",
+					"indices": [
+						155,
+						164
+					]
+				},
+				{
+					"text": "respesfestival",
+					"indices": [
+						165,
+						180
+					]
+				},
+				{
+					"text": "롤링홀",
+					"indices": [
+						181,
+						185
+					]
+				},
+				{
+					"text": "페스티벌",
+					"indices": [
+						186,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447828106496991200,
+					"id_str": "1447828106496991234",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1447828106496991234/pu/img/6H0DL2DucyrM8p10.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1447828106496991234/pu/img/6H0DL2DucyrM8p10.jpg",
+					"url": "https://t.co/oz2Juxyx6C",
+					"display_url": "pic.twitter.com/oz2Juxyx6C",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1447828331039129601/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 431,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1072,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1072,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447828106496991200,
+					"id_str": "1447828106496991234",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1447828106496991234/pu/img/6H0DL2DucyrM8p10.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1447828106496991234/pu/img/6H0DL2DucyrM8p10.jpg",
+					"url": "https://t.co/oz2Juxyx6C",
+					"display_url": "pic.twitter.com/oz2Juxyx6C",
+					"expanded_url": "https://twitter.com/rollinghall1995/status/1447828331039129601/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 431,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1072,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1072,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							134,
+							85
+						],
+						"duration_millis": 45774,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1447828106496991234/pu/pl/TKlrAJEt2C6aLBOu.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1447828106496991234/pu/vid/566x360/lOtNut1_kiHH1WPF.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1447828106496991234/pu/vid/1072x680/I0CFOJzK6Ute45dn.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1447828106496991234/pu/vid/424x270/k1DbFjhRLrcIb5Yn.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1291327050578456600,
+			"id_str": "1291327050578456578",
+			"name": "롤링홀",
+			"screen_name": "rollinghall1995",
+			"location": "서울시 마포구 어울마당로 35 신보빌딩 지하1층",
+			"description": "홍대/합정에 위치한 음악 공연장 #롤링홀 입니다٩( ᐛ )و\nConcert live hall in South Korea\n-\n👇🏻👇🏻멜론티켓 롤링홀 기획공연 바로가기.\nhttps://t.co/K14VaPTNnq",
+			"url": "https://t.co/C9YRGggByu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/C9YRGggByu",
+							"expanded_url": "http://www.rollinghall.co.kr/default/",
+							"display_url": "rollinghall.co.kr/default/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K14VaPTNnq",
+							"expanded_url": "http://bit.ly/3C4QrHt",
+							"display_url": "bit.ly/3C4QrHt",
+							"indices": [
+								93,
+								116
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 215,
+			"friends_count": 3,
+			"listed_count": 2,
+			"created_at": "Thu Aug 06 10:56:17 +0000 2020",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1291327708689862662/9hOLVWB2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291327050578456578/1596712102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[RE:SPES ANDONG 2021 × ROLLINGHALL]\n\n가을의 끝자락, 안동으로 떠나는 감성 음악여행!\nFrom #윤딴딴 To #리스페스안동\n\n💌\n'윤딴딴'이 보내는 스페셜 인사 영상을 공개합니다.\n11월 06일 토요일, 안동에서 만나요!\n\n#리스페스안동 #리스페스 #리스페스페스티벌\n#respesfestival #롤링홀 #페스티벌 https://t.co/oz2Juxyx6C"
+	},
+	{
 		"created_at": "Tue Oct 12 07:11:16 +0000 2021",
 		"id": 1447819324484432000,
 		"id_str": "1447822159636746244",
