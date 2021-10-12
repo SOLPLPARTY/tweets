@@ -1,6 +1,439 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 12 02:11:17 +0000 2021",
+		"id": 1447744695577108500,
+		"id_str": "1447746664098267139",
+		"full_text": "#클럽빵 ~ #백신접종완료자 관객입장 가능~ 오실까요? 오세요? ^^ 암튼 새로운 방침 #clubbbang #낭만선 #민광진 #김재슬 #리켄즈 #김파다 #구십구십구 #펑크온파이어 #사이버파크게임랜드 #윾 #콘트라젤리 #아웃라이어즈 #덥 #스코브 #물과음 #한강의기적 #모스크바서핑클럽  #유튜브라이브는계속 https://t.co/5tUSowmgdE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "클럽빵",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "백신접종완료자",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "clubbbang",
+					"indices": [
+						49,
+						59
+					]
+				},
+				{
+					"text": "낭만선",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "민광진",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "김재슬",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "리켄즈",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "김파다",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "구십구십구",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "펑크온파이어",
+					"indices": [
+						92,
+						99
+					]
+				},
+				{
+					"text": "사이버파크게임랜드",
+					"indices": [
+						100,
+						110
+					]
+				},
+				{
+					"text": "윾",
+					"indices": [
+						111,
+						113
+					]
+				},
+				{
+					"text": "콘트라젤리",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "아웃라이어즈",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"text": "덥",
+					"indices": [
+						129,
+						131
+					]
+				},
+				{
+					"text": "스코브",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "물과음",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "한강의기적",
+					"indices": [
+						142,
+						148
+					]
+				},
+				{
+					"text": "모스크바서핑클럽",
+					"indices": [
+						149,
+						158
+					]
+				},
+				{
+					"text": "유튜브라이브는계속",
+					"indices": [
+						160,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447744682092478500,
+					"id_str": "1447744682092478464",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FBdsHi2VQAAtU71.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBdsHi2VQAAtU71.jpg",
+					"url": "https://t.co/5tUSowmgdE",
+					"display_url": "pic.twitter.com/5tUSowmgdE",
+					"expanded_url": "https://twitter.com/club_bbang/status/1447744695577108482/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447744682092478500,
+					"id_str": "1447744682092478464",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FBdsHi2VQAAtU71.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBdsHi2VQAAtU71.jpg",
+					"url": "https://t.co/5tUSowmgdE",
+					"display_url": "pic.twitter.com/5tUSowmgdE",
+					"expanded_url": "https://twitter.com/club_bbang/status/1447744695577108482/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1387140522,
+			"id_str": "1387140522",
+			"name": "클럽 빵",
+			"screen_name": "club_bbang",
+			"location": "서울 마포 서교동 327-18 지하",
+			"description": "모던록 라이브클럽 빵, 공연일정을 알려드려요! 문의 010-8910-1089, cafebbang@hanmail.net",
+			"url": "https://t.co/ZROqsiLHaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZROqsiLHaK",
+							"expanded_url": "http://cafe.daum.net/cafebbang",
+							"display_url": "cafe.daum.net/cafebbang",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2482,
+			"friends_count": 878,
+			"listed_count": 36,
+			"created_at": "Sun Apr 28 14:57:43 +0000 2013",
+			"favourites_count": 73,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1812,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3617429436/49aa1ea87a3bdf4e12ef8ab826e7b229_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1387140522/1367815826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#클럽빵 ~ #백신접종완료자 관객입장 가능~ 오실까요? 오세요? ^^ 암튼 새로운 방침 #clubbbang #낭만선 #민광진 #김재슬 #리켄즈 #김파다 #구십구십구 #펑크온파이어 #사이버파크게임랜드 #윾 #콘트라젤리 #아웃라이어즈 #덥 #스코브 #물과음 #한강의기적 #모스크바서핑클럽  #유튜브라이브는계속 https://t.co/5tUSowmgdE"
+	},
+	{
+		"created_at": "Tue Oct 12 01:29:30 +0000 2021",
+		"id": 1447734383243268000,
+		"id_str": "1447736149028577280",
+		"full_text": "[Playlist]\n\n(004) HIGHJINKX ALUMNI\n\n2018년 3월 18일 조스 스톤부터 2019년 11월 30일 오로라까지 하이징크스를 통해 15팀의 아티스트가 한국을 찾았습니다. 함께한 추억을 그려보고 또 다른 만남을 기약하며 이들의 음악을 한데 모아 플레이리스트를 만들었습니다. \n\nhttps://t.co/EtJolwsc9S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EtJolwsc9S",
+					"expanded_url": "http://www.highjinkxmm.com/playlist/hp-004",
+					"display_url": "highjinkxmm.com/playlist/hp-004",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 985865748638650400,
+			"id_str": "985865748638650368",
+			"name": "HIGHJINKX",
+			"screen_name": "HIGHJINKXX",
+			"location": "대한민국 서울",
+			"description": "https://t.co/P2V4wFkAko",
+			"url": "https://t.co/oAPJfxeB46",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAPJfxeB46",
+							"expanded_url": "https://www.highjinkxmm.com",
+							"display_url": "highjinkxmm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P2V4wFkAko",
+							"expanded_url": "http://highjinkx.com",
+							"display_url": "highjinkx.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 456,
+			"friends_count": 24,
+			"listed_count": 4,
+			"created_at": "Mon Apr 16 13:01:25 +0000 2018",
+			"favourites_count": 382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 641,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/986167678246125568/PTUKZtMn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/985865748638650368/1575347637",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Playlist]\n\n(004) HIGHJINKX ALUMNI\n\n2018년 3월 18일 조스 스톤부터 2019년 11월 30일 오로라까지 하이징크스를 통해 15팀의 아티스트가 한국을 찾았습니다. 함께한 추억을 그려보고 또 다른 만남을 기약하며 이들의 음악을 한데 모아 플레이리스트를 만들었습니다. \n\nhttps://t.co/EtJolwsc9S"
+	},
+	{
 		"created_at": "Tue Oct 12 00:11:17 +0000 2021",
 		"id": 1447714111354146800,
 		"id_str": "1447716465382240259",
