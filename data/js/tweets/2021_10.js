@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 12 12:11:16 +0000 2021",
+		"id": 1447895533092102100,
+		"id_str": "1447897657595338754",
+		"full_text": "[시공간집 4] 일곱째 날의 아름다운 풍경\n\n어스름 저녁의 시공간집🌃\n\n#재미공작소 #시공간집 #시공간집4 #김승일 #김유림 #문보영 #배수연 #백은선 #안미옥 #이설빈 #이소호 #이혜미 #유이우 #2021문래창작촌지원사업MEET https://t.co/nDGTuQN28Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "재미공작소",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "시공간집",
+					"indices": [
+						47,
+						52
+					]
+				},
+				{
+					"text": "시공간집4",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "김승일",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "김유림",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "문보영",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "배수연",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "백은선",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "안미옥",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "이설빈",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "이소호",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "이혜미",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "유이우",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "2021문래창작촌지원사업MEET",
+					"indices": [
+						110,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447895502398230500,
+					"id_str": "1447895502398230533",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FBf1ScRVEAUo3R_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBf1ScRVEAUo3R_.jpg",
+					"url": "https://t.co/nDGTuQN28Z",
+					"display_url": "pic.twitter.com/nDGTuQN28Z",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1447895533092102145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1712,
+							"h": 1712,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447895502398230500,
+					"id_str": "1447895502398230533",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FBf1ScRVEAUo3R_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBf1ScRVEAUo3R_.jpg",
+					"url": "https://t.co/nDGTuQN28Z",
+					"display_url": "pic.twitter.com/nDGTuQN28Z",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1447895533092102145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1712,
+							"h": 1712,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1447174310796222500,
+		"in_reply_to_status_id_str": "1447174310796222464",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8384,
+			"friends_count": 554,
+			"listed_count": 84,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14604,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[시공간집 4] 일곱째 날의 아름다운 풍경\n\n어스름 저녁의 시공간집🌃\n\n#재미공작소 #시공간집 #시공간집4 #김승일 #김유림 #문보영 #배수연 #백은선 #안미옥 #이설빈 #이소호 #이혜미 #유이우 #2021문래창작촌지원사업MEET https://t.co/nDGTuQN28Z"
+	},
+	{
 		"created_at": "Tue Oct 12 10:29:55 +0000 2021",
 		"id": 1447869016496697300,
 		"id_str": "1447872151915274240",
