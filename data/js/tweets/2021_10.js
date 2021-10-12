@@ -1,6 +1,610 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 12 05:58:14 +0000 2021",
+		"id": 1447789126103670800,
+		"id_str": "1447803780360245248",
+		"full_text": "KCON:TACT HI 5 FanPick Cam &lt;ALL CAM&gt; VOD SHOW DAY 2 💟\n🔗 https://t.co/nTnsUtt0PQ\n\n#GHOST9 #KWONEUNBI #StrayKids https://t.co/UlzuKf7oVi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GHOST9",
+					"indices": [
+						87,
+						94
+					]
+				},
+				{
+					"text": "KWONEUNBI",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"text": "StrayKids",
+					"indices": [
+						106,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nTnsUtt0PQ",
+					"expanded_url": "http://bit.ly/KCONTACT_PREMIUM_VOD",
+					"display_url": "bit.ly/KCONTACT_PREMI…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1447732588483805200,
+					"id_str": "1447732588483805188",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FBdhHmpVgAQMpYZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBdhHmpVgAQMpYZ.jpg",
+					"url": "https://t.co/UlzuKf7oVi",
+					"display_url": "pic.twitter.com/UlzuKf7oVi",
+					"expanded_url": "https://twitter.com/KCON_official/status/1447789126103670784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447732588483805200,
+					"id_str": "1447732588483805188",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FBdhHmpVgAQMpYZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBdhHmpVgAQMpYZ.jpg",
+					"url": "https://t.co/UlzuKf7oVi",
+					"display_url": "pic.twitter.com/UlzuKf7oVi",
+					"expanded_url": "https://twitter.com/KCON_official/status/1447789126103670784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1447732588496388000,
+					"id_str": "1447732588496388102",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FBdhHmsVgAY9ZGW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBdhHmsVgAY9ZGW.jpg",
+					"url": "https://t.co/UlzuKf7oVi",
+					"display_url": "pic.twitter.com/UlzuKf7oVi",
+					"expanded_url": "https://twitter.com/KCON_official/status/1447789126103670784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1447732588525678600,
+					"id_str": "1447732588525678595",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/FBdhHmzUcAMaqid.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBdhHmzUcAMaqid.jpg",
+					"url": "https://t.co/UlzuKf7oVi",
+					"display_url": "pic.twitter.com/UlzuKf7oVi",
+					"expanded_url": "https://twitter.com/KCON_official/status/1447789126103670784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135447868,
+			"id_str": "135447868",
+			"name": "KCON official",
+			"screen_name": "KCON_official",
+			"location": "Mnet, Seoul, Republic of KOREA",
+			"description": "KCON/KCON:TACT official twitter",
+			"url": "https://t.co/IDnJhWG279",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IDnJhWG279",
+							"expanded_url": "http://kconofficial.com",
+							"display_url": "kconofficial.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 415351,
+			"friends_count": 75,
+			"listed_count": 1031,
+			"created_at": "Wed Apr 21 09:56:48 +0000 2010",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11479,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425275784747388928/LSUv9adu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135447868/1628647203",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 154,
+		"favorite_count": 542,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KCON:TACT HI 5 FanPick Cam &lt;ALL CAM&gt; VOD SHOW DAY 2 💟\n🔗 https://t.co/nTnsUtt0PQ\n\n#GHOST9 #KWONEUNBI #StrayKids https://t.co/UlzuKf7oVi"
+	},
+	{
+		"created_at": "Tue Oct 12 05:29:35 +0000 2021",
+		"id": 1447789723435421700,
+		"id_str": "1447796567784759296",
+		"full_text": "다르게 지나온 우리, 함께 걸어갈 내일\n서로가 만나 온전하게 하나가 될 우리\n \n내 주위에, 너의 맘 속에\n언제까지나 곁에 머물러 있는 서로에게\n \n2021 적재 전국투어 ‘서로의 서로’\n\n🔗 https://t.co/IXngKcYwxp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IXngKcYwxp",
+					"expanded_url": "https://bit.ly/3iVs07d",
+					"display_url": "bit.ly/3iVs07d",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1447789721002786800,
+		"in_reply_to_status_id_str": "1447789721002786818",
+		"in_reply_to_user_id": 266004552,
+		"in_reply_to_user_id_str": "266004552",
+		"in_reply_to_screen_name": "antennamusic",
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 정재형 HOME Project Single ‘The Wave’ 2021. 10. 07. 12PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37194,
+			"friends_count": 11,
+			"listed_count": 375,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4035,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1633425267",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다르게 지나온 우리, 함께 걸어갈 내일\n서로가 만나 온전하게 하나가 될 우리\n \n내 주위에, 너의 맘 속에\n언제까지나 곁에 머물러 있는 서로에게\n \n2021 적재 전국투어 ‘서로의 서로’\n\n🔗 https://t.co/IXngKcYwxp"
+	},
+	{
+		"created_at": "Tue Oct 12 05:29:29 +0000 2021",
+		"id": 1447789721002786800,
+		"id_str": "1447796542149218307",
+		"full_text": "[#Notice] #적재\n\n2021 적재 전국투어 ‘서로의 서로’ &lt;서울&gt; 티켓 오픈 안내\n\n▪️일시\n2021. 11. 19. (금) 7:30PM\n2021. 11. 20. (토) 6PM\n2021. 11. 21. (일) 5PM\n\n▪️장소\nYES24 라이브홀\n\n▪️티켓 오픈\n2021. 10. 14. (목) 8PM @ YES24 티켓\n\n#Jukjae #서로의서로\n#전국투어 #콘서트 https://t.co/zVcELpAbcc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Notice",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "적재",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "Jukjae",
+					"indices": [
+						192,
+						199
+					]
+				},
+				{
+					"text": "서로의서로",
+					"indices": [
+						200,
+						206
+					]
+				},
+				{
+					"text": "전국투어",
+					"indices": [
+						207,
+						212
+					]
+				},
+				{
+					"text": "콘서트",
+					"indices": [
+						213,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447789715151753200,
+					"id_str": "1447789715151753228",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/FBeVE0EVkAwy0oT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBeVE0EVkAwy0oT.jpg",
+					"url": "https://t.co/zVcELpAbcc",
+					"display_url": "pic.twitter.com/zVcELpAbcc",
+					"expanded_url": "https://twitter.com/antennamusic/status/1447789721002786818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1416,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 830,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447789715151753200,
+					"id_str": "1447789715151753228",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/FBeVE0EVkAwy0oT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBeVE0EVkAwy0oT.jpg",
+					"url": "https://t.co/zVcELpAbcc",
+					"display_url": "pic.twitter.com/zVcELpAbcc",
+					"expanded_url": "https://twitter.com/antennamusic/status/1447789721002786818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1416,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 830,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 정재형 HOME Project Single ‘The Wave’ 2021. 10. 07. 12PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37194,
+			"friends_count": 11,
+			"listed_count": 375,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4035,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1633425267",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Notice] #적재\n\n2021 적재 전국투어 ‘서로의 서로’ &lt;서울&gt; 티켓 오픈 안내\n\n▪️일시\n2021. 11. 19. (금) 7:30PM\n2021. 11. 20. (토) 6PM\n2021. 11. 21. (일) 5PM\n\n▪️장소\nYES24 라이브홀\n\n▪️티켓 오픈\n2021. 10. 14. (목) 8PM @ YES24 티켓\n\n#Jukjae #서로의서로\n#전국투어 #콘서트 https://t.co/zVcELpAbcc"
+	},
+	{
 		"created_at": "Tue Oct 12 04:29:27 +0000 2021",
 		"id": 1447778016910733300,
 		"id_str": "1447781435625152515",
