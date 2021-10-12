@@ -1,6 +1,759 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 12 10:29:55 +0000 2021",
+		"id": 1447869016496697300,
+		"id_str": "1447872151915274240",
+		"full_text": "KANGTA 강타 Digital Single ‘아마 (Maybe)’\n\n➫Listen now on your favorite platform\nhttps://t.co/SyMYHw4sd0\n\n#KANGTA #강타 #아마 #Maybe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KANGTA",
+					"indices": [
+						102,
+						109
+					]
+				},
+				{
+					"text": "강타",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "아마",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "Maybe",
+					"indices": [
+						118,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SyMYHw4sd0",
+					"expanded_url": "https://smarturl.it/KANGTA_Maybe",
+					"display_url": "smarturl.it/KANGTA_Maybe",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9969720,
+			"friends_count": 55,
+			"listed_count": 10732,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 157,
+		"favorite_count": 1545,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KANGTA 강타 Digital Single ‘아마 (Maybe)’\n\n➫Listen now on your favorite platform\nhttps://t.co/SyMYHw4sd0\n\n#KANGTA #강타 #아마 #Maybe"
+	},
+	{
+		"created_at": "Tue Oct 12 10:29:51 +0000 2021",
+		"id": 1447864749153079300,
+		"id_str": "1447872134303211527",
+		"full_text": "[4K] [Killing Voice] 강타(KANGTA)의 킬링보이스 - 전사의 후예, 오! 그대를, 북극성, 그 해 여름, Propose, 인형, 늘, 빛, 아마 l 딩고뮤직 \n\nhttps://t.co/RxHUfV8pkL \n\n#강타 #KANGTA\n#킬링보이스 #KillingVoice\n#딩고뮤직 #DingoMusic\n#아마",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강타",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "KANGTA",
+					"indices": [
+						131,
+						138
+					]
+				},
+				{
+					"text": "킬링보이스",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "KillingVoice",
+					"indices": [
+						146,
+						159
+					]
+				},
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						160,
+						165
+					]
+				},
+				{
+					"text": "DingoMusic",
+					"indices": [
+						166,
+						177
+					]
+				},
+				{
+					"text": "아마",
+					"indices": [
+						178,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RxHUfV8pkL",
+					"expanded_url": "https://youtu.be/pausgsCceZg",
+					"display_url": "youtu.be/pausgsCceZg",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9969720,
+			"friends_count": 55,
+			"listed_count": 10732,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 169,
+		"favorite_count": 1651,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[4K] [Killing Voice] 강타(KANGTA)의 킬링보이스 - 전사의 후예, 오! 그대를, 북극성, 그 해 여름, Propose, 인형, 늘, 빛, 아마 l 딩고뮤직 \n\nhttps://t.co/RxHUfV8pkL \n\n#강타 #KANGTA\n#킬링보이스 #KillingVoice\n#딩고뮤직 #DingoMusic\n#아마"
+	},
+	{
+		"created_at": "Tue Oct 12 10:29:44 +0000 2021",
+		"id": 1447860356148195300,
+		"id_str": "1447872104360292354",
+		"full_text": "[NEWS] ‘백돌이 대탈출’ #권혁수 조현 출격, 이지훈 MC합류\n\n👉 https://t.co/nIv1bF3ojJ \n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #백돌이대탈출_부캐골프시대",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권혁수",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "KwunHyukSoo",
+					"indices": [
+						67,
+						79
+					]
+				},
+				{
+					"text": "휴맵컨텐츠",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "HUMAPCONTENTS",
+					"indices": [
+						87,
+						101
+					]
+				},
+				{
+					"text": "백돌이대탈출_부캐골프시대",
+					"indices": [
+						102,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nIv1bF3ojJ",
+					"expanded_url": "http://naver.me/xw64BNtw",
+					"display_url": "naver.me/xw64BNtw",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1219506842935513000,
+			"id_str": "1219506842935513088",
+			"name": "휴맵컨텐츠(HUMAP)",
+			"screen_name": "humap_official",
+			"location": "",
+			"description": "휴맵컨텐츠(HUMAP CONTENTS) Official Twitter",
+			"url": "https://t.co/fBZZK3SmX6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fBZZK3SmX6",
+							"expanded_url": "http://www.humapcontents.com/",
+							"display_url": "humapcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 378,
+			"friends_count": 1,
+			"listed_count": 2,
+			"created_at": "Tue Jan 21 06:28:27 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220210788956168192/AkHOuBLd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1219506842935513088/1579755898",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[NEWS] ‘백돌이 대탈출’ #권혁수 조현 출격, 이지훈 MC합류\n\n👉 https://t.co/nIv1bF3ojJ \n\n#KwunHyukSoo #휴맵컨텐츠 #HUMAPCONTENTS #백돌이대탈출_부캐골프시대"
+	},
+	{
+		"created_at": "Tue Oct 12 10:29:38 +0000 2021",
+		"id": 1447859766844223500,
+		"id_str": "1447872078644981760",
+		"full_text": "#아티스트인터뷰 #ARTIST_IN터뷰 #라이브 #LIVE #장르별인터뷰 \n#우주왕복선싸이드미러 #우싸미 #ussami #음악창작소 #부산음악창작소 \n#코카뮤직 #KOCCAMUSIC #KOCCA_MUSIC #한국콘텐츠진흥원 #콘진원",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아티스트인터뷰",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "ARTIST_IN터뷰",
+					"indices": [
+						9,
+						21
+					]
+				},
+				{
+					"text": "라이브",
+					"indices": [
+						22,
+						26
+					]
+				},
+				{
+					"text": "LIVE",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"text": "장르별인터뷰",
+					"indices": [
+						33,
+						40
+					]
+				},
+				{
+					"text": "우주왕복선싸이드미러",
+					"indices": [
+						42,
+						53
+					]
+				},
+				{
+					"text": "우싸미",
+					"indices": [
+						54,
+						58
+					]
+				},
+				{
+					"text": "ussami",
+					"indices": [
+						59,
+						66
+					]
+				},
+				{
+					"text": "음악창작소",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "부산음악창작소",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "코카뮤직",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "KOCCAMUSIC",
+					"indices": [
+						90,
+						101
+					]
+				},
+				{
+					"text": "KOCCA_MUSIC",
+					"indices": [
+						102,
+						114
+					]
+				},
+				{
+					"text": "한국콘텐츠진흥원",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"text": "콘진원",
+					"indices": [
+						125,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1447859733336002600,
+		"in_reply_to_status_id_str": "1447859733336002563",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2141,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5554,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#아티스트인터뷰 #ARTIST_IN터뷰 #라이브 #LIVE #장르별인터뷰 \n#우주왕복선싸이드미러 #우싸미 #ussami #음악창작소 #부산음악창작소 \n#코카뮤직 #KOCCAMUSIC #KOCCA_MUSIC #한국콘텐츠진흥원 #콘진원"
+	},
+	{
+		"created_at": "Tue Oct 12 10:29:34 +0000 2021",
+		"id": 1447859733336002600,
+		"id_str": "1447872061213401092",
+		"full_text": "[#우주왕복선싸이드미러] 한국콘텐츠진흥원 &lt;ARTIST IN터뷰&gt;\n\n장르별로 아티스트를 선정하여 ‘인터뷰+라이브무대’를 선보이는 &lt;ARTIST IN터뷰&gt;에\n우주왕복선싸이드미러가 함께했습니다🙌🏻\n\n지금 바로 감상하세요!!\n▶️ https://t.co/BzREEzPOjt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "우주왕복선싸이드미러",
+					"indices": [
+						1,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BzREEzPOjt",
+					"expanded_url": "https://bit.ly/3DvPYxN",
+					"display_url": "bit.ly/3DvPYxN",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2141,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5554,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#우주왕복선싸이드미러] 한국콘텐츠진흥원 &lt;ARTIST IN터뷰&gt;\n\n장르별로 아티스트를 선정하여 ‘인터뷰+라이브무대’를 선보이는 &lt;ARTIST IN터뷰&gt;에\n우주왕복선싸이드미러가 함께했습니다🙌🏻\n\n지금 바로 감상하세요!!\n▶️ https://t.co/BzREEzPOjt"
+	},
+	{
 		"created_at": "Tue Oct 12 09:58:20 +0000 2021",
 		"id": 1447861674258546700,
 		"id_str": "1447864200567590923",
@@ -616,7 +1369,7 @@ Grailbird.data.tweets_2021_10 =
 		"created_at": "Tue Oct 12 09:29:53 +0000 2021",
 		"id": 1447856440341766100,
 		"id_str": "1447857043340210179",
-		"full_text": "🦸‍♂️ #Team워너 Live : #라일리 (#Reiley) - #Superman\n\n🎞 https://t.co/0zAjOpe3zI https://t.co/YWhkK5sVv1",
+		"full_text": "🦸♂️ #Team워너 Live : #라일리 (#Reiley) - #Superman\n\n🎞 https://t.co/0zAjOpe3zI https://t.co/YWhkK5sVv1",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -811,7 +1564,7 @@ Grailbird.data.tweets_2021_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "🦸‍♂️ #Team워너 Live : #라일리 (#Reiley) - #Superman\n\n🎞 https://t.co/0zAjOpe3zI https://t.co/YWhkK5sVv1"
+		"text": "🦸♂️ #Team워너 Live : #라일리 (#Reiley) - #Superman\n\n🎞 https://t.co/0zAjOpe3zI https://t.co/YWhkK5sVv1"
 	},
 	{
 		"created_at": "Tue Oct 12 09:29:52 +0000 2021",
