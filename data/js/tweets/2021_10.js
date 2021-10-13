@@ -1,6 +1,524 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 13 12:11:16 +0000 2021",
+		"id": 1448256073400348700,
+		"id_str": "1448260045033156609",
+		"full_text": "[시공간집 4] 여덟째 날의 아름다운 풍경\n\n이제는 가을햇빛✨🍂\n\n#재미공작소 #시공간집 #시공간집4 #김승일 #김유림 #문보영 #배수연 #백은선 #안미옥 #이설빈 #이소호 #이혜미 #유이우 #2021문래창작촌지원사업MEET https://t.co/6xrr9IvknC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "재미공작소",
+					"indices": [
+						37,
+						43
+					]
+				},
+				{
+					"text": "시공간집",
+					"indices": [
+						44,
+						49
+					]
+				},
+				{
+					"text": "시공간집4",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "김승일",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "김유림",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "문보영",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "배수연",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "백은선",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "안미옥",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "이설빈",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "이소호",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "이혜미",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "유이우",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "2021문래창작촌지원사업MEET",
+					"indices": [
+						107,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448256063199867000,
+					"id_str": "1448256063199866880",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FBk9N17VcAAb30M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBk9N17VcAAb30M.jpg",
+					"url": "https://t.co/6xrr9IvknC",
+					"display_url": "pic.twitter.com/6xrr9IvknC",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1448256073400348684/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1712,
+							"h": 1712,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448256063199867000,
+					"id_str": "1448256063199866880",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FBk9N17VcAAb30M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBk9N17VcAAb30M.jpg",
+					"url": "https://t.co/6xrr9IvknC",
+					"display_url": "pic.twitter.com/6xrr9IvknC",
+					"expanded_url": "https://twitter.com/studio_zemi/status/1448256073400348684/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1712,
+							"h": 1712,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1447895533092102100,
+		"in_reply_to_status_id_str": "1447895533092102145",
+		"in_reply_to_user_id": 282449618,
+		"in_reply_to_user_id_str": "282449618",
+		"in_reply_to_screen_name": "studio_zemi",
+		"user": {
+			"id": 282449618,
+			"id_str": "282449618",
+			"name": "재미공작소",
+			"screen_name": "studio_zemi",
+			"location": "서울시 영등포구 문래동 3가 58-84 1층",
+			"description": "재미공작소는 서울 문래동에 위치한 문화예술공간입니다. (Since 2011) 공연, 창작 워크숍, 팝업숍, 전시, 문학 행사, 출판, 캘린더 갤러리 등 '재미있는 일'을 벌이고 있습니다. 재미공작소의 일정 및 예약 관련 정보는 아래 홈블로그 링크에서 바로 확인하실 수 있습니다.",
+			"url": "https://t.co/glbxD8jcYI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glbxD8jcYI",
+							"expanded_url": "http://blog.naver.com/studiozemi",
+							"display_url": "blog.naver.com/studiozemi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8384,
+			"friends_count": 554,
+			"listed_count": 0,
+			"created_at": "Fri Apr 15 07:08:52 +0000 2011",
+			"favourites_count": 2290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14607,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314827654/zemi02_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/282449618/1398647875",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[시공간집 4] 여덟째 날의 아름다운 풍경\n\n이제는 가을햇빛✨🍂\n\n#재미공작소 #시공간집 #시공간집4 #김승일 #김유림 #문보영 #배수연 #백은선 #안미옥 #이설빈 #이소호 #이혜미 #유이우 #2021문래창작촌지원사업MEET https://t.co/6xrr9IvknC"
+	},
+	{
+		"created_at": "Wed Oct 13 11:29:34 +0000 2021",
+		"id": 1448246644646899700,
+		"id_str": "1448249548682534921",
+		"full_text": "[#성진환] 캠핑라이브🎥\n\n강아지 흑당이와 함께 숲속으로 캠핑을 떠난 성진환의 '캠핑라이브' 영상이 공개되었습니다🏕\n\n▶️지금 바로 유튜브 유어썸머 채널에서 확인하세요 :)\n\n#성진환 #캠핑라이브 #라이브영상 #내강아지 #잭팟 https://t.co/AKB7jDcd4D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "성진환",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "성진환",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "캠핑라이브",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "라이브영상",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "내강아지",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "잭팟",
+					"indices": [
+						123,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448246465378218000,
+					"id_str": "1448246465378217988",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448246465378217988/pu/img/Q4IxE7XMjyc2gihh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448246465378217988/pu/img/Q4IxE7XMjyc2gihh.jpg",
+					"url": "https://t.co/AKB7jDcd4D",
+					"display_url": "pic.twitter.com/AKB7jDcd4D",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1448246644646899712/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448246465378218000,
+					"id_str": "1448246465378217988",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448246465378217988/pu/img/Q4IxE7XMjyc2gihh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448246465378217988/pu/img/Q4IxE7XMjyc2gihh.jpg",
+					"url": "https://t.co/AKB7jDcd4D",
+					"display_url": "pic.twitter.com/AKB7jDcd4D",
+					"expanded_url": "https://twitter.com/YoursummerKR/status/1448246644646899712/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59480,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1448246465378217988/pu/pl/um79HlRU2ksqbtSp.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448246465378217988/pu/vid/480x270/Iz54ylUkDShUx6n0.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448246465378217988/pu/vid/640x360/W2ySw3xoKqIwNxbF.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2139,
+			"friends_count": 23,
+			"listed_count": 0,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5558,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#성진환] 캠핑라이브🎥\n\n강아지 흑당이와 함께 숲속으로 캠핑을 떠난 성진환의 '캠핑라이브' 영상이 공개되었습니다🏕\n\n▶️지금 바로 유튜브 유어썸머 채널에서 확인하세요 :)\n\n#성진환 #캠핑라이브 #라이브영상 #내강아지 #잭팟 https://t.co/AKB7jDcd4D"
+	},
+	{
 		"created_at": "Wed Oct 13 10:29:54 +0000 2021",
 		"id": 1448229594100744200,
 		"id_str": "1448234534424780802",
