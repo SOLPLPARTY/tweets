@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 13 13:11:16 +0000 2021",
+		"id": 1448272313837830100,
+		"id_str": "1448275145475465220",
+		"full_text": "[POPUP: 홈술, 휴식에 취하다]\n가볍게 들기 좋은 작고, 사랑스러운 바디 디자인과\n톤 다운된 라이트 블루 계열의 레터링 컬러가 테이블\n위 빈티지함을 더해주고, 포인트가 되어줍니다.\n-\n2021.10.12(화) - 10.31(일), 11-21시\nKT&amp;G 상상마당 홍대 2층 팝업조닝\n-\n#슬로우디자인 #홈술휴식에취하다 https://t.co/loRsbjhDRO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬로우디자인",
+					"indices": [
+						166,
+						173
+					]
+				},
+				{
+					"text": "홈술휴식에취하다",
+					"indices": [
+						174,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1447810461102010400,
+					"id_str": "1447810461102010373",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FBen8YwUcAUlde_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBen8YwUcAUlde_.jpg",
+					"url": "https://t.co/loRsbjhDRO",
+					"display_url": "pic.twitter.com/loRsbjhDRO",
+					"expanded_url": "https://twitter.com/SSmadang/status/1448272313837830148/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1447810461102010400,
+					"id_str": "1447810461102010373",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FBen8YwUcAUlde_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBen8YwUcAUlde_.jpg",
+					"url": "https://t.co/loRsbjhDRO",
+					"display_url": "pic.twitter.com/loRsbjhDRO",
+					"expanded_url": "https://twitter.com/SSmadang/status/1448272313837830148/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1447810461102080000,
+					"id_str": "1447810461102080006",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FBen8YwVgAY1NS1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBen8YwVgAY1NS1.jpg",
+					"url": "https://t.co/loRsbjhDRO",
+					"display_url": "pic.twitter.com/loRsbjhDRO",
+					"expanded_url": "https://twitter.com/SSmadang/status/1448272313837830148/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 679,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1079,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1079,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1447810461110399000,
+					"id_str": "1447810461110398979",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FBen8YyUcAMoSKm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBen8YyUcAMoSKm.jpg",
+					"url": "https://t.co/loRsbjhDRO",
+					"display_url": "pic.twitter.com/loRsbjhDRO",
+					"expanded_url": "https://twitter.com/SSmadang/status/1448272313837830148/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110358280,
+			"id_str": "110358280",
+			"name": "KT&G 상상마당",
+			"screen_name": "SSmadang",
+			"location": "서울 홍대 (Hongdae, Seoul)",
+			"description": "[복합문화공간] #상상마당 영화ㅣ공연ㅣ디자인ㅣ전시ㅣ교육ㅣ카페",
+			"url": "https://t.co/zkpyp6uMPi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zkpyp6uMPi",
+							"expanded_url": "http://sangsangmadang.com",
+							"display_url": "sangsangmadang.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17781,
+			"friends_count": 1880,
+			"listed_count": 289,
+			"created_at": "Mon Feb 01 07:45:21 +0000 2010",
+			"favourites_count": 557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9474,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1364071617765142529/2yKhRO_m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110358280/1614764527",
+			"profile_link_color": "242D8C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "595959",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[POPUP: 홈술, 휴식에 취하다]\n가볍게 들기 좋은 작고, 사랑스러운 바디 디자인과\n톤 다운된 라이트 블루 계열의 레터링 컬러가 테이블\n위 빈티지함을 더해주고, 포인트가 되어줍니다.\n-\n2021.10.12(화) - 10.31(일), 11-21시\nKT&amp;G 상상마당 홍대 2층 팝업조닝\n-\n#슬로우디자인 #홈술휴식에취하다 https://t.co/loRsbjhDRO"
+	},
+	{
 		"created_at": "Wed Oct 13 12:11:16 +0000 2021",
 		"id": 1448256073400348700,
 		"id_str": "1448260045033156609",
