@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 13 00:29:24 +0000 2021",
+		"id": 1448079760043778000,
+		"id_str": "1448083415253856261",
+		"full_text": "[#Video] #윤석철\n\n&lt;타다: 대한민국 스타트업의 초상&gt; OST 예고편\n\n🎬https://t.co/jJycQz5dW1\n\n윤석철의 영화 음악감독 데뷔작 &lt;타다: 대한민국 스타트업의 초상&gt;이\n2021.10.14 극장에서 개봉합니다.\n\n@SCJAZZY\n#YunSeokCheol #다큐멘터리타다 #타다대한민국스타트업의초상 https://t.co/qAJFoTzLwX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Video",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "윤석철",
+					"indices": [
+						9,
+						13
+					]
+				},
+				{
+					"text": "YunSeokCheol",
+					"indices": [
+						153,
+						166
+					]
+				},
+				{
+					"text": "다큐멘터리타다",
+					"indices": [
+						167,
+						175
+					]
+				},
+				{
+					"text": "타다대한민국스타트업의초상",
+					"indices": [
+						176,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SCJAZZY",
+					"name": "윤석철",
+					"id": 129854311,
+					"id_str": "129854311",
+					"indices": [
+						144,
+						152
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jJycQz5dW1",
+					"expanded_url": "https://youtu.be/XKWd5t-UCAo",
+					"display_url": "youtu.be/XKWd5t-UCAo",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448079420602916900,
+					"id_str": "1448079420602916869",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448079420602916869/pu/img/VGiRYy7ilnzMSJPS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448079420602916869/pu/img/VGiRYy7ilnzMSJPS.jpg",
+					"url": "https://t.co/qAJFoTzLwX",
+					"display_url": "pic.twitter.com/qAJFoTzLwX",
+					"expanded_url": "https://twitter.com/antennamusic/status/1448079760043778049/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448079420602916900,
+					"id_str": "1448079420602916869",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448079420602916869/pu/img/VGiRYy7ilnzMSJPS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448079420602916869/pu/img/VGiRYy7ilnzMSJPS.jpg",
+					"url": "https://t.co/qAJFoTzLwX",
+					"display_url": "pic.twitter.com/qAJFoTzLwX",
+					"expanded_url": "https://twitter.com/antennamusic/status/1448079760043778049/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60018,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1448079420602916869/pu/pl/cT2uNQcgPvUrbweF.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448079420602916869/pu/vid/640x360/AtSPreDmmB-2kCNw.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448079420602916869/pu/vid/480x270/OJbhybbHfZK7T9yY.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266004552,
+			"id_str": "266004552",
+			"name": "안테나 Antenna",
+			"screen_name": "antennamusic",
+			"location": "대한민국 서울",
+			"description": "정재형, 유희열(Toy), 유재석, 루시드폴, 페퍼톤스, 박새별, 권진아, Sam Kim, 정승환, 이진아, 윤석철, 적재, 서동환 Official / 정재형 HOME Project Single ‘The Wave’ 2021. 10. 07. 12PM Release",
+			"url": "https://t.co/XSWWwEx210",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XSWWwEx210",
+							"expanded_url": "http://www.antenna.co.kr",
+							"display_url": "antenna.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37191,
+			"friends_count": 11,
+			"listed_count": 375,
+			"created_at": "Mon Mar 14 13:49:27 +0000 2011",
+			"favourites_count": 14,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/675611168992419840/3DJUZI4Z_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266004552/1633425267",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#Video] #윤석철\n\n&lt;타다: 대한민국 스타트업의 초상&gt; OST 예고편\n\n🎬https://t.co/jJycQz5dW1\n\n윤석철의 영화 음악감독 데뷔작 &lt;타다: 대한민국 스타트업의 초상&gt;이\n2021.10.14 극장에서 개봉합니다.\n\n@SCJAZZY\n#YunSeokCheol #다큐멘터리타다 #타다대한민국스타트업의초상 https://t.co/qAJFoTzLwX"
+	},
+	{
 		"created_at": "Tue Oct 12 13:15:26 +0000 2021",
 		"id": 1447913806215225300,
 		"id_str": "1447913806215225349",
