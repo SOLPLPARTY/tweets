@@ -1,6 +1,874 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 14 06:58:26 +0000 2021",
+		"id": 1448534515928875000,
+		"id_str": "1448543705183424512",
+		"full_text": "좌석 번호는 거리두기로 인해 한국소리문화의전당 좌석 번호와 상이합니다. (구역별 좌석 번호는 따로 안내해드리 어려운 점 양해 부탁드립니다.)\n\nJUMF에서 좌석간 거리두기를 반영하여 재배치한 좌석번호가 부착되어 있으니,\n\n입장 후 진행요원들의 안내에 따라 착석해주시길 바랍니다.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1448534512967684000,
+		"in_reply_to_status_id_str": "1448534512967684104",
+		"in_reply_to_user_id": 702764019308867600,
+		"in_reply_to_user_id_str": "702764019308867585",
+		"in_reply_to_screen_name": "JUMF_2021",
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2021(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2021",
+			"location": "대한민국 전주시",
+			"description": "JUMF2021 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2021년 10월 15(금), 16(토), 17(일) 한국소리문화의전당 야외공연장에서 펼쳐집니다!",
+			"url": "https://t.co/d1vvaslpQh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d1vvaslpQh",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 607,
+			"friends_count": 1195,
+			"listed_count": 7,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1631496699",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "좌석 번호는 거리두기로 인해 한국소리문화의전당 좌석 번호와 상이합니다. (구역별 좌석 번호는 따로 안내해드리 어려운 점 양해 부탁드립니다.)\n\nJUMF에서 좌석간 거리두기를 반영하여 재배치한 좌석번호가 부착되어 있으니,\n\n입장 후 진행요원들의 안내에 따라 착석해주시길 바랍니다."
+	},
+	{
+		"created_at": "Thu Oct 14 06:58:23 +0000 2021",
+		"id": 1448534512967684000,
+		"id_str": "1448543692109844480",
+		"full_text": "😎JUMF2021 좌석배치도 및 현장배치도😎\n10월 15일(금)~17일(일) 3일동안 진행되는 전주얼티밋뮤직페스티벌의 현장배치도를 안내해드립니다.\n\n좌석 간 거리두기로 인해 B~D, H~M구역에 관객분들의 착석이 이루어집니다.\n지정좌석제이며, 배정된 좌석 이외의 좌석으로의 이동은 불가능합니다. https://t.co/llKqgC12oo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448534246436442000,
+					"id_str": "1448534246436442113",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FBo6OPPVEAEd5Gz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBo6OPPVEAEd5Gz.jpg",
+					"url": "https://t.co/llKqgC12oo",
+					"display_url": "pic.twitter.com/llKqgC12oo",
+					"expanded_url": "https://twitter.com/JUMF_2021/status/1448534512967684104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448534246436442000,
+					"id_str": "1448534246436442113",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FBo6OPPVEAEd5Gz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBo6OPPVEAEd5Gz.jpg",
+					"url": "https://t.co/llKqgC12oo",
+					"display_url": "pic.twitter.com/llKqgC12oo",
+					"expanded_url": "https://twitter.com/JUMF_2021/status/1448534512967684104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2021(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2021",
+			"location": "대한민국 전주시",
+			"description": "JUMF2021 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2021년 10월 15(금), 16(토), 17(일) 한국소리문화의전당 야외공연장에서 펼쳐집니다!",
+			"url": "https://t.co/d1vvaslpQh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d1vvaslpQh",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 607,
+			"friends_count": 1195,
+			"listed_count": 7,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1631496699",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "😎JUMF2021 좌석배치도 및 현장배치도😎\n10월 15일(금)~17일(일) 3일동안 진행되는 전주얼티밋뮤직페스티벌의 현장배치도를 안내해드립니다.\n\n좌석 간 거리두기로 인해 B~D, H~M구역에 관객분들의 착석이 이루어집니다.\n지정좌석제이며, 배정된 좌석 이외의 좌석으로의 이동은 불가능합니다. https://t.co/llKqgC12oo"
+	},
+	{
+		"created_at": "Thu Oct 14 06:58:20 +0000 2021",
+		"id": 1448532487206891500,
+		"id_str": "1448543679019376640",
+		"full_text": "JUMF2021 관객 입장 안내\n\n티켓 수령, 입장 및 관람 안내, 소지품 안내 해드립니다.\n\n자유로운 입퇴장은 가능하며, 팔찌를 착용하고 계셔야 합니다. https://t.co/FGlBYxkiys",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448531994648858600,
+					"id_str": "1448531994648858625",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/FBo4LKrVUAEt4Ef.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBo4LKrVUAEt4Ef.jpg",
+					"url": "https://t.co/FGlBYxkiys",
+					"display_url": "pic.twitter.com/FGlBYxkiys",
+					"expanded_url": "https://twitter.com/JUMF_2021/status/1448532487206891520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448531994648858600,
+					"id_str": "1448531994648858625",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/FBo4LKrVUAEt4Ef.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBo4LKrVUAEt4Ef.jpg",
+					"url": "https://t.co/FGlBYxkiys",
+					"display_url": "pic.twitter.com/FGlBYxkiys",
+					"expanded_url": "https://twitter.com/JUMF_2021/status/1448532487206891520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2021(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2021",
+			"location": "대한민국 전주시",
+			"description": "JUMF2021 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2021년 10월 15(금), 16(토), 17(일) 한국소리문화의전당 야외공연장에서 펼쳐집니다!",
+			"url": "https://t.co/d1vvaslpQh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d1vvaslpQh",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 607,
+			"friends_count": 1195,
+			"listed_count": 7,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1631496699",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "JUMF2021 관객 입장 안내\n\n티켓 수령, 입장 및 관람 안내, 소지품 안내 해드립니다.\n\n자유로운 입퇴장은 가능하며, 팔찌를 착용하고 계셔야 합니다. https://t.co/FGlBYxkiys"
+	},
+	{
+		"created_at": "Thu Oct 14 06:58:15 +0000 2021",
+		"id": 1448530499605975000,
+		"id_str": "1448543657410408450",
+		"full_text": "오프라인 관람객 현장 안내\n\n안녕하세요 관객여러분! JUMF2021이 하루 앞으로 다가왔습니다!\n오프라인 현장 입장과 관련된 공지사항을 안내해드립니다.\n\n입장 전 꼭 확인해주시길 바랍니다.\n\n#JUMF2021 #전주얼티밋뮤직페스티벌 https://t.co/m3kS1BAotg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JUMF2021",
+					"indices": [
+						107,
+						116
+					]
+				},
+				{
+					"text": "전주얼티밋뮤직페스티벌",
+					"indices": [
+						117,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448530234488197000,
+					"id_str": "1448530234488197123",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FBo2ktkVEAMCNnY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBo2ktkVEAMCNnY.jpg",
+					"url": "https://t.co/m3kS1BAotg",
+					"display_url": "pic.twitter.com/m3kS1BAotg",
+					"expanded_url": "https://twitter.com/JUMF_2021/status/1448530499605975044/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448530234488197000,
+					"id_str": "1448530234488197123",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FBo2ktkVEAMCNnY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBo2ktkVEAMCNnY.jpg",
+					"url": "https://t.co/m3kS1BAotg",
+					"display_url": "pic.twitter.com/m3kS1BAotg",
+					"expanded_url": "https://twitter.com/JUMF_2021/status/1448530499605975044/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448530234496585700,
+					"id_str": "1448530234496585735",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FBo2ktmVEAcsFsH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBo2ktmVEAcsFsH.jpg",
+					"url": "https://t.co/m3kS1BAotg",
+					"display_url": "pic.twitter.com/m3kS1BAotg",
+					"expanded_url": "https://twitter.com/JUMF_2021/status/1448530499605975044/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448530234488221700,
+					"id_str": "1448530234488221702",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FBo2ktkVcAY-qZP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBo2ktkVcAY-qZP.jpg",
+					"url": "https://t.co/m3kS1BAotg",
+					"display_url": "pic.twitter.com/m3kS1BAotg",
+					"expanded_url": "https://twitter.com/JUMF_2021/status/1448530499605975044/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 702764019308867600,
+			"id_str": "702764019308867585",
+			"name": "JUMF2021(전주얼티밋뮤직페스티벌)",
+			"screen_name": "JUMF_2021",
+			"location": "대한민국 전주시",
+			"description": "JUMF2021 (Jeonju Ultimate Music Festival 전주얼티밋뮤직페스티벌)\n\n2021년 10월 15(금), 16(토), 17(일) 한국소리문화의전당 야외공연장에서 펼쳐집니다!",
+			"url": "https://t.co/d1vvaslpQh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d1vvaslpQh",
+							"expanded_url": "http://jumf.co.kr/",
+							"display_url": "jumf.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 607,
+			"friends_count": 1195,
+			"listed_count": 7,
+			"created_at": "Thu Feb 25 07:56:13 +0000 2016",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424558805069701127/uJkqgj3q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/702764019308867585/1631496699",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오프라인 관람객 현장 안내\n\n안녕하세요 관객여러분! JUMF2021이 하루 앞으로 다가왔습니다!\n오프라인 현장 입장과 관련된 공지사항을 안내해드립니다.\n\n입장 전 꼭 확인해주시길 바랍니다.\n\n#JUMF2021 #전주얼티밋뮤직페스티벌 https://t.co/m3kS1BAotg"
+	},
+	{
+		"created_at": "Thu Oct 14 06:29:32 +0000 2021",
+		"id": 1448523740761915400,
+		"id_str": "1448536430712602625",
+		"full_text": "#cott #콧 #온스테이지 #onstage #live #하필 #howyoufeel? #scene #far",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cott",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "콧",
+					"indices": [
+						6,
+						8
+					]
+				},
+				{
+					"text": "온스테이지",
+					"indices": [
+						9,
+						15
+					]
+				},
+				{
+					"text": "onstage",
+					"indices": [
+						16,
+						24
+					]
+				},
+				{
+					"text": "live",
+					"indices": [
+						25,
+						30
+					]
+				},
+				{
+					"text": "하필",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "howyoufeel",
+					"indices": [
+						35,
+						46
+					]
+				},
+				{
+					"text": "scene",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "far",
+					"indices": [
+						55,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1448523481558122500,
+		"in_reply_to_status_id_str": "1448523481558122500",
+		"in_reply_to_user_id": 404720294,
+		"in_reply_to_user_id_str": "404720294",
+		"in_reply_to_screen_name": "YoursummerKR",
+		"user": {
+			"id": 404720294,
+			"id_str": "404720294",
+			"name": "유어썸머 Your Summer",
+			"screen_name": "YoursummerKR",
+			"location": "한국",
+			"description": "유어썸머(Your Summer)는 cott(콧), 계피, 김사월, 김사월X김해원, 너드커넥션, 랄라스윗, 못(Mot), 박소은, 성진환, 슬릭, 아마도이자람밴드, 오지은, 우주왕복선싸이드미러, 우주히피, 이랑, 이하윤, 전기뱀장어와 함께합니다.",
+			"url": "https://t.co/M1QKGb4pGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M1QKGb4pGi",
+							"expanded_url": "https://linktr.ee/yoursummer",
+							"display_url": "linktr.ee/yoursummer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2139,
+			"friends_count": 23,
+			"listed_count": 11,
+			"created_at": "Fri Nov 04 09:50:32 +0000 2011",
+			"favourites_count": 548,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368882268060540929/XY97X-lQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/404720294/1615202264",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#cott #콧 #온스테이지 #onstage #live #하필 #howyoufeel? #scene #far"
+	},
+	{
 		"created_at": "Thu Oct 14 05:58:25 +0000 2021",
 		"id": 1448525684066820000,
 		"id_str": "1448528601654124548",
