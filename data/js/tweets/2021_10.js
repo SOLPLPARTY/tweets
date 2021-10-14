@@ -1,6 +1,964 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 14 10:06:32 +0000 2021",
+		"id": 1448591041129599000,
+		"id_str": "1448591041129598978",
+		"full_text": "#민트페이퍼 #MINTPAPER\n암쏘큐 첫 공식입장 발표 ‘죄송스런 마음이 들지 아니하지 아니하..’(기자회견, 해명) | [암쏘큐 특별판] Ep.5 | 민트페이퍼\nhttps://t.co/q5kBUdskUz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민트페이퍼",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "MINTPAPER",
+					"indices": [
+						7,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q5kBUdskUz",
+					"expanded_url": "https://youtu.be/ViQ40OazGB0",
+					"display_url": "youtu.be/ViQ40OazGB0",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 968706450779463700,
+			"id_str": "968706450779463682",
+			"name": "솔플파티",
+			"screen_name": "SOLPLPARTY",
+			"location": "문의: contact@solplparty.com",
+			"description": "혼자서도 즐겁게! \n문화예술 커뮤니티, 솔플파티 🤘 \n\n▶ 참가하기 \nhttps://t.co/Uq1kQ79SRI \n\n❓ ABOUT\nhttps://t.co/OtYqQtyXgi ",
+			"url": "https://t.co/L6Ap35US8u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6Ap35US8u",
+							"expanded_url": "https://solplparty.com",
+							"display_url": "solplparty.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Uq1kQ79SRI",
+							"expanded_url": "http://join.solpl.party",
+							"display_url": "join.solpl.party",
+							"indices": [
+								39,
+								62
+							]
+						},
+						{
+							"url": "https://t.co/OtYqQtyXgi",
+							"expanded_url": "http://about.solpl.party",
+							"display_url": "about.solpl.party",
+							"indices": [
+								73,
+								96
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 256,
+			"friends_count": 467,
+			"listed_count": 3,
+			"created_at": "Wed Feb 28 04:36:30 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74668,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035643238504251394/wHw9i07J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/968706450779463682/1519792691",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#민트페이퍼 #MINTPAPER\n암쏘큐 첫 공식입장 발표 ‘죄송스런 마음이 들지 아니하지 아니하..’(기자회견, 해명) | [암쏘큐 특별판] Ep.5 | 민트페이퍼\nhttps://t.co/q5kBUdskUz"
+	},
+	{
+		"created_at": "Thu Oct 14 09:29:56 +0000 2021",
+		"id": 1448579936231387100,
+		"id_str": "1448581830454697987",
+		"full_text": "이나래 - 우리의 밤은 이렇게 (Summers) https://t.co/MeByYB4X7e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MeByYB4X7e",
+					"expanded_url": "http://blog.naver.com/chili7272/222536973555",
+					"display_url": "blog.naver.com/chili7272/2225…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.naver.com\" rel=\"nofollow\">Naver</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 114111001,
+			"id_str": "114111001",
+			"name": "칠리뮤직코리아",
+			"screen_name": "chilimusickorea",
+			"location": "Seoul, Korea",
+			"description": "음반제작 및 배급전문/국내 및 해외사이트 음원유통/매니지먼트 담당//\n허클베리 핀/에이프릴 세컨드/트레봉봉/오드트리/Steve Barakett/LasseLindh/Sioen 등",
+			"url": "https://t.co/XzPUfDyGhf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XzPUfDyGhf",
+							"expanded_url": "http://www.facebook.com/chilimusickorea1",
+							"display_url": "facebook.com/chilimusickore…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2080,
+			"friends_count": 2367,
+			"listed_count": 64,
+			"created_at": "Sun Feb 14 05:12:40 +0000 2010",
+			"favourites_count": 698,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/579909914107117568/QWGymEkB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/114111001/1427096436",
+			"profile_link_color": "FC420A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0B8C4",
+			"profile_text_color": "9FFEE3",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이나래 - 우리의 밤은 이렇게 (Summers) https://t.co/MeByYB4X7e"
+	},
+	{
+		"created_at": "Thu Oct 14 09:29:50 +0000 2021",
+		"id": 1448574615047979000,
+		"id_str": "1448581804835880964",
+		"full_text": "[쏜애플 | 콘서트(부산)] \n\n‘위에서 그러했듯이 아래에서도’ | 부산\n\n◾ 공연 일정 : 11월 05일(금) 8PM, 06일(토) 7PM\n◾ 티켓 오픈 : 10월 21일(목) 8PM at 인터파크\n◾ 공연 장소 : KT&amp;G 상상마당 부산 라이브홀\n◾ 공연 상세 정보 :\nhttps://t.co/uY3le0Bgfq\n\n◾ 춘천은 추후 공지될 예정입니다. https://t.co/FeKJVd2r6D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uY3le0Bgfq",
+					"expanded_url": "https://mpmgmusic.com/boardPost/127606/317",
+					"display_url": "mpmgmusic.com/boardPost/1276…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448574595741610000,
+					"id_str": "1448574595741609992",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FBpe64HVcAgrR74.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBpe64HVcAgrR74.jpg",
+					"url": "https://t.co/FeKJVd2r6D",
+					"display_url": "pic.twitter.com/FeKJVd2r6D",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1448574615047979008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1563,
+							"h": 1563,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448574595741610000,
+					"id_str": "1448574595741609992",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FBpe64HVcAgrR74.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBpe64HVcAgrR74.jpg",
+					"url": "https://t.co/FeKJVd2r6D",
+					"display_url": "pic.twitter.com/FeKJVd2r6D",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1448574615047979008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1563,
+							"h": 1563,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448574595729027000,
+					"id_str": "1448574595729027078",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FBpe64EVcAYj6aT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBpe64EVcAYj6aT.jpg",
+					"url": "https://t.co/FeKJVd2r6D",
+					"display_url": "pic.twitter.com/FeKJVd2r6D",
+					"expanded_url": "https://twitter.com/HappyRobotKR/status/1448574615047979008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1563,
+							"h": 1563,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 63414926,
+			"id_str": "63414926",
+			"name": "Happy Robot Records",
+			"screen_name": "HappyRobotKR",
+			"location": "Seoul, Korea",
+			"description": "구만(9.10000), 노리플라이, 데이브레이크, Lacuna(라쿠나), LambC(램씨), SURL(설), 소란, 솔루션스, 쏜애플, OurR(아월)",
+			"url": "https://t.co/BIvBmbKMln",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIvBmbKMln",
+							"expanded_url": "https://mpmgmusic.com/",
+							"display_url": "mpmgmusic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13008,
+			"friends_count": 1937,
+			"listed_count": 254,
+			"created_at": "Thu Aug 06 08:13:58 +0000 2009",
+			"favourites_count": 210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417701414944448514/z7z6YnVw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/63414926/1626843310",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[쏜애플 | 콘서트(부산)] \n\n‘위에서 그러했듯이 아래에서도’ | 부산\n\n◾ 공연 일정 : 11월 05일(금) 8PM, 06일(토) 7PM\n◾ 티켓 오픈 : 10월 21일(목) 8PM at 인터파크\n◾ 공연 장소 : KT&amp;G 상상마당 부산 라이브홀\n◾ 공연 상세 정보 :\nhttps://t.co/uY3le0Bgfq\n\n◾ 춘천은 추후 공지될 예정입니다. https://t.co/FeKJVd2r6D"
+	},
+	{
+		"created_at": "Thu Oct 14 09:29:41 +0000 2021",
+		"id": 1448574302249373700,
+		"id_str": "1448581766592225289",
+		"full_text": "남우현(Nam Woo Hyun)\n4th Mini Album [With]｜Album Preview\n\n2021.10.19 6PM (KST) Release\n\nhttps://t.co/Y2k8Hw3Kl5\nhttps://t.co/qNKrBD3aHA\n\n#남우현 #NAMWOOHYUN\n#냉정과열정사이 #calmandpassion #With\n#INFINITE #인피니트 https://t.co/kb9LkIuefj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "남우현",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "NAMWOOHYUN",
+					"indices": [
+						139,
+						150
+					]
+				},
+				{
+					"text": "냉정과열정사이",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"text": "calmandpassion",
+					"indices": [
+						160,
+						175
+					]
+				},
+				{
+					"text": "With",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "INFINITE",
+					"indices": [
+						182,
+						191
+					]
+				},
+				{
+					"text": "인피니트",
+					"indices": [
+						192,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y2k8Hw3Kl5",
+					"expanded_url": "https://youtu.be/Rnzyo-9LZJA",
+					"display_url": "youtu.be/Rnzyo-9LZJA",
+					"indices": [
+						85,
+						108
+					]
+				},
+				{
+					"url": "https://t.co/qNKrBD3aHA",
+					"expanded_url": "https://www.vlive.tv/post/1-25975612",
+					"display_url": "vlive.tv/post/1-25975612",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1448513146461704200,
+					"id_str": "1448513146461704195",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FBonCDtVUAMelUB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBonCDtVUAMelUB.jpg",
+					"url": "https://t.co/kb9LkIuefj",
+					"display_url": "pic.twitter.com/kb9LkIuefj",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1448574302249373696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448513146461704200,
+					"id_str": "1448513146461704195",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FBonCDtVUAMelUB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBonCDtVUAMelUB.jpg",
+					"url": "https://t.co/kb9LkIuefj",
+					"display_url": "pic.twitter.com/kb9LkIuefj",
+					"expanded_url": "https://twitter.com/woollim_ent/status/1448574302249373696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 713661673,
+			"id_str": "713661673",
+			"name": "woollim",
+			"screen_name": "woollim_ent",
+			"location": "",
+			"description": "Woollim Entertainment Official Twitter",
+			"url": "https://t.co/HkJWTuZ29E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HkJWTuZ29E",
+							"expanded_url": "http://www.woolliment.com",
+							"display_url": "woolliment.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 430429,
+			"friends_count": 11,
+			"listed_count": 1921,
+			"created_at": "Tue Jul 24 04:15:30 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269648322144288769/Ds4vXWM6_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/713661673/1633683713",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 444,
+		"favorite_count": 672,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "남우현(Nam Woo Hyun)\n4th Mini Album [With]｜Album Preview\n\n2021.10.19 6PM (KST) Release\n\nhttps://t.co/Y2k8Hw3Kl5\nhttps://t.co/qNKrBD3aHA\n\n#남우현 #NAMWOOHYUN\n#냉정과열정사이 #calmandpassion #With\n#INFINITE #인피니트 https://t.co/kb9LkIuefj"
+	},
+	{
+		"created_at": "Thu Oct 14 09:29:32 +0000 2021",
+		"id": 1448574299573571600,
+		"id_str": "1448581728243699714",
+		"full_text": "DAILY MIRRORBALL MUSIC | 2101014 THU\n⠀\n🔸 허회경 [김철수 씨 이야기]\n🔸 한백 [Le Grand Bleu]\n🔸 The Black Underground [Melancholy Green]\n🔸 햄스터 파우더 클럽 (Hamster Powder Club) [Goodnight Everyone, No More Magicpowder]\n\n#허회경 #한백 #TheBlackUnerground #햄스터파우더클럽 https://t.co/mnfexAn3hF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "허회경",
+					"indices": [
+						199,
+						203
+					]
+				},
+				{
+					"text": "한백",
+					"indices": [
+						204,
+						207
+					]
+				},
+				{
+					"text": "TheBlackUnerground",
+					"indices": [
+						208,
+						227
+					]
+				},
+				{
+					"text": "햄스터파우더클럽",
+					"indices": [
+						228,
+						237
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448269010777243600,
+					"id_str": "1448269010777243657",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448269010777243657/pu/img/KDbD22PmAxRWvRXu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448269010777243657/pu/img/KDbD22PmAxRWvRXu.jpg",
+					"url": "https://t.co/mnfexAn3hF",
+					"display_url": "pic.twitter.com/mnfexAn3hF",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1448574299573571585/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448269010777243600,
+					"id_str": "1448269010777243657",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1448269010777243657/pu/img/KDbD22PmAxRWvRXu.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1448269010777243657/pu/img/KDbD22PmAxRWvRXu.jpg",
+					"url": "https://t.co/mnfexAn3hF",
+					"display_url": "pic.twitter.com/mnfexAn3hF",
+					"expanded_url": "https://twitter.com/mirrorballmusic/status/1448574299573571585/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60060,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448269010777243657/pu/vid/320x320/YA_jf4rcaum7sUmJ.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448269010777243657/pu/vid/540x540/LsH9Bhvz6WnbDYGo.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1448269010777243657/pu/vid/720x720/a95bWbhseziC5QGE.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1448269010777243657/pu/pl/n8nFhD43yWA9tr0d.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125049211,
+			"id_str": "125049211",
+			"name": "미러볼뮤직 Mirrorball Music",
+			"screen_name": "mirrorballmusic",
+			"location": "Republic Korea Mapo-gu",
+			"description": "Korean Indie Music Distributor 미러볼뮤직에서 한국 인디 음악의 모든 것을 만나보세요. https://t.co/7KhvfUdI2i",
+			"url": "https://t.co/Ty0n69rcT2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ty0n69rcT2",
+							"expanded_url": "http://www.mirrorballmusic.co.kr",
+							"display_url": "mirrorballmusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7KhvfUdI2i",
+							"expanded_url": "http://www.youtube.com/mirrorballmusickorea",
+							"display_url": "youtube.com/mirrorballmusi…",
+							"indices": [
+								62,
+								85
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9473,
+			"friends_count": 2617,
+			"listed_count": 245,
+			"created_at": "Sun Mar 21 14:17:51 +0000 2010",
+			"favourites_count": 949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285504647734542337/a-q49FRH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125049211/1627032310",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "DAILY MIRRORBALL MUSIC | 2101014 THU\n⠀\n🔸 허회경 [김철수 씨 이야기]\n🔸 한백 [Le Grand Bleu]\n🔸 The Black Underground [Melancholy Green]\n🔸 햄스터 파우더 클럽 (Hamster Powder Club) [Goodnight Everyone, No More Magicpowder]\n\n#허회경 #한백 #TheBlackUnerground #햄스터파우더클럽 https://t.co/mnfexAn3hF"
+	},
+	{
 		"created_at": "Thu Oct 14 09:15:22 +0000 2021",
 		"id": 1448578164704305200,
 		"id_str": "1448578164704305154",
